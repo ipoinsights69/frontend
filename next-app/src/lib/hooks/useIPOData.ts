@@ -2,11 +2,12 @@
 
 import { useState, useEffect } from 'react';
 import ipoDataService from '../client/ipoDataService';
-import { 
-  IPOSummary, 
-  IPODetailedData, 
-  IPOStats, 
-  YearCount
+import {
+  IPOSummary,
+  IPODetailedData,
+  IPOStats,
+  YearCount,
+  IPOYearlyStats // Added import
 } from '../server/ipoDataService';
 
 // Hook for getting all IPO summaries
@@ -270,6 +271,38 @@ export const useFilterIPOs = (filters: {
   return { filteredResults, loading, error };
 };
 
+// Hook for getting IPO stats by year
+export const useIPOYearlyStats = (year: number) => {
+  const [yearlyStats, setYearlyStats] = useState<IPOYearlyStats | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<Error | null>(null);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      if (isNaN(year) || year <= 0) {
+         setError(new Error('Invalid year provided'));
+         setLoading(false);
+         return;
+      }
+      try {
+        setLoading(true);
+        const data = await ipoDataService.getIPOStatsByYear(year);
+        setYearlyStats(data);
+        setError(null);
+      } catch (err) {
+        setError(err instanceof Error ? err : new Error(`Failed to fetch stats for year ${year}`));
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchData();
+  }, [year]);
+
+  return { yearlyStats, loading, error };
+};
+
+
 // Export all hooks as a single object for convenience
 const useIPOData = {
   useAllIPOs,
@@ -283,6 +316,7 @@ const useIPOData = {
   useIPOYears,
   useSearchIPOs,
   useFilterIPOs,
+  useIPOYearlyStats // Add the new hook to the export
 };
 
-export default useIPOData; 
+export default useIPOData;

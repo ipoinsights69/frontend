@@ -2,8 +2,9 @@ import { NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
 
-export async function GET(request, { params }) {
+export async function GET(request, context) {
   try {
+    const params = await context.params;
     const { id } = params;
     
     if (!id) {
@@ -47,7 +48,7 @@ export async function GET(request, { params }) {
     
     return NextResponse.json(combinedData);
   } catch (error) {
-    console.error(`Error fetching IPO data for ID ${params.id}:`, error);
+    console.error(`Error fetching IPO data:`, error);
     return NextResponse.json({ error: "Failed to fetch data", details: error.message }, { status: 500 });
   }
 } 

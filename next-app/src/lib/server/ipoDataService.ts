@@ -83,6 +83,16 @@ export interface YearCount {
   count: number;
 }
 
+// Define type for yearly stats response
+export interface IPOYearlyStats {
+  year: number;
+  totalCount: number;
+  averageListingGain: number | null;
+  bestPerformer: Partial<IPOSummary> | null;
+  worstPerformer: Partial<IPOSummary> | null;
+  // Add other relevant yearly stats as needed
+}
+
 // Helper function to get the base output directory path
 const getOutputDir = () => {
   // The previous path might be incorrect - log the path and try a few alternatives
@@ -716,4 +726,4 @@ export const filterIPOs = async (filters: {
     console.error('Error filtering IPOs:', error);
     return [];
   }
-}; 
+};
