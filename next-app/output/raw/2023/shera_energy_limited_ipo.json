@@ -1,0 +1,425 @@
+{
+  "_id": "68028e9e3ccffd1c7912c95b",
+  "ipo_id": "2023_shera_energy_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:35:23.081Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/shera-energy-ipo/1371/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2009, Shera Energy Limited is engaged in the business of <strong>manufacturing&nbsp;winding wires and strips</strong>. The products are made of non-ferrous metals primarily Copper and Aluminium. Alongside, they also process products like wire rods, wires, and tubes of Copper and Brass.</p>\n<p>They undertake the manufacturing based on the requirements of the customers, therefore they are customized to suit their customers. Briefly, Shera Energy produces products like Paper covered wires, Enamel and fiber covered wires, Round wires, Rectangular wires, Bunched wires, Tubes, Rods and Strips.</p>\n<p>Shera Energy Limited is an ISO 9001:2015, ISO 14001:2015, and ISO 45001:2018 certified company. It has received Vendor Approval Validation from Power Grid Corporation of India for various products. All of the products designed and manufactured by the entity are tested and certified by the National Test House and Electrical Research and Development Association on various parameters to ensure supreme quality.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>Strong, experienced, and dedicated senior management team and qualified workforce</li>\n<li>Long-standing relationships with leading clientele</li>\n<li>Focus on Quality and Safety</li>\n<li>Established Manufacturing facility</li>\n<li>Innovative Ideas</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "27731.94",
+          "42619.14",
+          "361.43",
+          "5624.34",
+          "11062.67"
+        ],
+        [
+          "31-Mar-21",
+          "29315.64",
+          "42271.92",
+          "502.67",
+          "6075.60",
+          "10542.28"
+        ],
+        [
+          "31-Mar-22",
+          "32523.73",
+          "52458.21",
+          "699.50",
+          "6673.35",
+          "11812.67"
+        ],
+        [
+          "30-Sep-22",
+          "33832.97",
+          "33953.72",
+          "428.25",
+          "7054.88",
+          "11437.59"
+        ]
+      ]
+    },
+    {
+      "heading": "Shera Energy Limited Stock Quote & Charts",
+      "sanitizedHeading": "shera_energy_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "15.16",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Shera Energy IPO raises Rs 8.55 crore from anchor investors. Shera Energy IPO Anchor bid date is February 6 2023. Shera Energy IPO Anchor Investors list",
+    "list_link": {
+      "text": "Shera Energy IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/shera-company-anchor-link.pdf"
+    },
+    "details": {
+      "ipo_date": "May 15 2023",
+      "shares_offered": "1500000",
+      "anchor_portion_size": "8.55"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "February 7, 2023 to February 9, 2023",
+    "ipoListingDate": "Fri, Feb 17, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹57.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "61,76,000 shares (aggregating up to ₹35.20 Cr)",
+    "freshIssue": "10,48,000 shares (aggregating up to ₹5.97 Cr)",
+    "offerForSale": "51,28,000 shares of ₹10 (aggregating up to ₹29.23 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "4,00,000 shares",
+      "maker_name": "Holani Consultants Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/252/"
+    },
+    "ipoOpenDate": "Tue, Feb 7, 2023",
+    "ipoCloseDate": "Thu, Feb 9, 2023",
+    "initiationOfRefunds": "Wed, Feb 15, 2023",
+    "creditOfSharesToDemat": "Thu, Feb 16, 2023",
+    "shareHoldingPreIssue": "2,17,40,347 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,17,40,347 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "66.57%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,27,88,347 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,27,88,347 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "63.51%"
+      }
+    ]
+  },
+  "closing_date": "2023-02-08T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91– 9314434130",
+    "email": "cs@sheraenergy.com",
+    "full_address": "Shera Energy Limited, F-269-B, Road No. 13, VKIA",
+    "website": "http://www.sheraenergy.com/"
+  },
+  "createdAt": "2025-04-18T17:40:46.635Z",
+  "faqs": [
+    {
+      "question": "What is the Shera Energy IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shera Energy IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6176000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->35.20<!-- --> Crores. The issue is priced at <span>₹57 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 7, 2023</b>, and <b>closes on <!-- -->February 9, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Shera Energy IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Shera Energy IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Shera Energy IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Shera Energy IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Shera Energy IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Shera Energy IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Shera Energy IPO opens on February 7, 2023 and closes on February 9, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Shera Energy IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shera Energy IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,14,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Shera Energy IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Shera Energy IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Shera Energy IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Shera Energy IPO<!-- --> will be done on <!-- -->Tuesday, February 14, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, February 16, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/shera-energy-ipo/1371/\" title=\"Shera Energy IPO Allotment Status\">Shera Energy IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Shera Energy IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Shera Energy IPO<!-- --> listing date is on <b>Friday, February 17, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Shera Energy",
+  "issue_price": "₹57.00",
+  "issue_price_numeric": 57,
+  "issue_size": "61,76,000 shares (aggregating up to ₹35.20 Cr)",
+  "issue_size_numeric": 61,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Holani Consultants Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/151/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/151/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "57.00"
+      },
+      "open": {
+        "nse_sme": "64.10"
+      },
+      "low": {
+        "nse_sme": "64.00"
+      },
+      "high": {
+        "nse_sme": "67.30"
+      },
+      "last_trade": {
+        "nse_sme": "67.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "February 17 2023",
+    "nse_symbol": "SHERA",
+    "isin": "INE0MM001019",
+    "final_issue_price": "57 per share"
+  },
+  "listing_date": "2023-02-16T18:30:00.000Z",
+  "listing_gains": "18.07%",
+  "listing_gains_numeric": 18.07,
+  "logo": "https://www.chittorgarh.net/images/ipo/shera-energy-limited-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/shera-energy-limited-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "114000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "114000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "228000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/shera-energy-ipo/1371/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-02-06T18:30:00.000Z",
+  "pageHeading": "Shera Energy Limited IPO (Shera Energy IPO) Detail",
+  "pageTitle": "Shera Energy IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Sheikh Naseem Mrs. Shivani Sheikh and M/s Isha Infrapower Private Limited are the Promoters of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "66.57%",
+      "share_holding_post_issue": "63.51%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Shera Energy IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SheraEnergy_DP.pdf"
+    },
+    {
+      "text": "Shera Energy IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SheraEnergy_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Shera Energy IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/shera-company-anchor-link.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "3"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/shera-energy-ipo/1371/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Shera Energy IPO offers 7676000 shares. 2506000 (32.65%) to QIB 820000 (10.68%) to NII 1850000 (24.10%) to RII 600000 (7.82%) to employees 1500000 (19.54%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1500000 (19.54%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "400000 (5.21%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2506000 (32.65%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "820000 (10.68%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1850000 (24.10%)"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "600000 (7.82%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "7676000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.635Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Shera Energy IPO is subscribed 47.36 times on February 9 2023 7:00:00 PM (Day 3). The public issue subscribed 51.3 times in the retail category 8.73 times in the QIB category and 190.12 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "8.73",
+        "shares_offered": "2506000",
+        "shares_bid_for": "21880000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "190.12",
+        "shares_offered": "820000",
+        "shares_bid_for": "155900000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "51.3",
+        "shares_offered": "1850000",
+        "shares_bid_for": "94912000"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.46",
+        "shares_offered": "600000",
+        "shares_bid_for": "878000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "47.36",
+        "shares_offered": "5776000",
+        "shares_bid_for": "273570000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 9 2023",
+    "tentative_allotment": "Tue Feb 14 2023",
+    "initiation_of_refunds": "Wed Feb 15 2023",
+    "credit_of_shares_to_demat": "Thu Feb 16 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:48.060Z",
+  "updated_at": "2025-04-18T17:40:46.635Z",
+  "year": 2023,
+  "worst_listing_gains": "18.07%",
+  "worst_listing_gains_numeric": 18.07
+}

@@ -1,0 +1,497 @@
+{
+  "_id": "680249fe3ccffd1c7912c78f",
+  "ipo_id": "2024_krystal_integrated_services_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:38:09.158Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/krystal-integrated-services-ipo/1665/"
+  },
+  "about": {
+    "details": "<p>Incorporated in December 2000, Krystal Integrated Services Limited is a company that provides facilities management services. They offer a wide range of services such as housekeeping, sanitation, landscaping, gardening, mechanical, electrical and plumbing services, waste management, pest control, façade cleaning, and other services such as production support, warehouse management, and airport management.</p>\n<p>The company offers staffing, payroll management, private security, manned guarding, and catering services.</p>\n<p>As of March 31, 2023, the company served 134 hospitals, 224 schools, 2 airports, 4 railway stations, and 10 metro stations. They also offered catering on some trains.</p>\n<p>The company served 262 customers in 2021, 277 in 2022, and 326 in 2023.</p>\n<p>As of March 31, 2023, the company served 2,427 customer locations across 14 states and one union territory in India..</p>\n<p>As of March 31, 2023, the company has set up 21 branches to expand its geographical reach.</p>\n\n<p></p>The revenue from operations, total profit for the year (after tax), and EBITDA grew at a compound annual growth rate of 22.54%, 51.17%, and 34.56%, respectively, from Fiscal 2021 to Fiscal 2023.<p></p>\n<p>As of March 31st, 2023, the company has 31,881 employees working on-site in various operations.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Krystal Integrated Services Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "449.83",
+          "343.47",
+          "404.39",
+          "338.47"
+        ],
+        [
+          "Revenue",
+          "455.67",
+          "710.97",
+          "554.86",
+          "474.31"
+        ],
+        [
+          "Profit After Tax",
+          "20.56",
+          "38.41",
+          "26.15",
+          "16.65"
+        ],
+        [
+          "Net Worth",
+          "183.68",
+          "163.41",
+          "163.86",
+          "136.08"
+        ],
+        [
+          "Reserves and Surplus",
+          "170.09",
+          "155.27",
+          "156.04",
+          "129.76"
+        ],
+        [
+          "Total Borrowing",
+          "103.36",
+          "47.99",
+          "72.55",
+          "65.31"
+        ]
+      ]
+    },
+    {
+      "heading": "Krystal Integrated Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "krystal_integrated_services_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "11.71%"
+        ],
+        [
+          "ROCE",
+          "16.97%"
+        ],
+        [
+          "Debt/Equity",
+          "0.58"
+        ],
+        [
+          "RoNW",
+          "11.21%"
+        ],
+        [
+          "PAT Margin",
+          "4.56"
+        ],
+        [
+          "Price to Book Value",
+          "4.49"
+        ]
+      ]
+    },
+    {
+      "heading": "Krystal Integrated Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "krystal_integrated_services_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "33.33",
+          "29.42"
+        ],
+        [
+          "P/E (x)",
+          "21.45",
+          "24.3"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Krystal Integrated Services IPO raises Rs 90.04 crore from anchor investors. Krystal Integrated Services IPO Anchor bid date is March 13 2024. Krystal Integrated Services IPO Anchor Investors list",
+    "list_link": {
+      "text": "Krystal Integrated Services IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/krystal-integrated-ipo-anchor-investor-list.pdf"
+    },
+    "details": {
+      "ipo_date": "June 17 2024",
+      "shares_offered": "1259265",
+      "anchor_portion_size": "90.04"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "March 14, 2024 to March 18, 2024",
+    "ipoListingDate": "Thu, Mar 21, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹715.00",
+    "lotSize": "20 Shares",
+    "issueSize": "41,97,552 shares (aggregating up to ₹300.13 Cr)",
+    "freshIssue": "24,47,552 shares (aggregating up to ₹175.00 Cr)",
+    "offerForSale": "17,50,000 shares of ₹10 (aggregating up to ₹125.13 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Mar 14, 2024",
+    "ipoCloseDate": "Mon, Mar 18, 2024",
+    "initiationOfRefunds": "Wed, Mar 20, 2024",
+    "creditOfSharesToDemat": "Wed, Mar 20, 2024",
+    "shareHoldingPreIssue": "1,15,24,400 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,15,24,400 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.99%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,39,71,952 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,39,71,952 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-03-17T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+912247471234",
+    "email": "company.secretary@krystal-group.com",
+    "full_address": "Krystal Integrated Services Limited, Krystal House 15A 17, Shivaji Fort CHS Duncans Causeway, Road Mumbai –400022",
+    "website": "https://krystal-group.com/"
+  },
+  "createdAt": "2025-04-18T12:47:58.184Z",
+  "faqs": [
+    {
+      "question": "What is the Krystal Integrated Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Krystal Integrated Services IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->4197552<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->300.13<!-- --> Crores. The issue is priced at <span>₹715 per share</span>. The minimum order quantity is <!-- -->20<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 14, 2024</b>, and <b>closes on <!-- -->March 18, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Krystal Integrated Services IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Krystal Integrated Services IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Krystal Integrated Services IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Krystal Integrated Services IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Krystal Integrated Services IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Krystal Integrated Services IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Krystal Integrated Services IPO opens on March 14, 2024 and closes on March 18, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Krystal Integrated Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Krystal Integrated Services IPO<!-- --> <b>lot size is <!-- -->20</b>, and the <b>minimum amount required is <span>₹14,300</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Krystal Integrated Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Krystal Integrated Services IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Krystal Integrated Services IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Krystal Integrated Services IPO<!-- --> will be done on <!-- -->Tuesday, March 19, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, March 20, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/krystal-integrated-services-ipo/1665/\" title=\"Krystal Integrated Services IPO Allotment Status\">Krystal Integrated Services IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Krystal Integrated Services IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Krystal Integrated Services IPO<!-- --> listing date is on <b>Thursday, March 21, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Krystal Integrated Services",
+  "issue_price": "₹715.00",
+  "issue_price_numeric": 715,
+  "issue_size": "41,97,552 shares (aggregating up to ₹300.13 Cr)",
+  "issue_size_numeric": 41,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Inga Ventures Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/166/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/166/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "715.00",
+        "nse": "715.00"
+      },
+      "open": {
+        "bse": "795.00",
+        "nse": "785.00"
+      },
+      "low": {
+        "bse": "703.05",
+        "nse": "703.05"
+      },
+      "high": {
+        "bse": "795.00",
+        "nse": "793.80"
+      },
+      "last_trade": {
+        "bse": "712.30",
+        "nse": "712.85"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 21 2024",
+    "bse_script_code": "544149",
+    "nse_symbol": "KRYSTAL",
+    "isin": "INE0QN801017",
+    "final_issue_price": "715 per share"
+  },
+  "listing_date": "2024-03-20T18:30:00.000Z",
+  "listing_gains": "-0.38%",
+  "listing_gains_numeric": -0.38,
+  "logo": "https://www.chittorgarh.net/images/ipo/krystal-integrated-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/krystal-integrated-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 20 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "20",
+        "amount": "14300"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "260",
+        "amount": "185900"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "280",
+        "amount": "200200"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "1380",
+        "amount": "986700"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "1400",
+        "amount": "1001000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/krystal-integrated-services-ipo/1665/"
+    }
+  },
+  "lot_size": 20,
+  "opening_date": "2024-03-13T18:30:00.000Z",
+  "pageHeading": "Krystal Integrated Services Limited IPO (Krystal Integrated Services IPO) Detail",
+  "pageTitle": "Krystal Integrated Services IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the Company are Prasad Minesh Lad Neeta Prasad Lad Saily Prasad Lad Shubham Prasad Lad and Krystal Family Holdings Private Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "99.99%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Krystal Integrated Services IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2023/krystal-integrated-services-limited_77701.html"
+    },
+    {
+      "text": "Krystal Integrated Services IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2024/krystal-integrated-services-limited-rhp_82069.html"
+    },
+    {
+      "text": "Anchor Investors in Krystal Integrated Services IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/krystal-integrated-ipo-anchor-investor-list.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "5",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/krystal-integrated-services-ipo/1665/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "krystalintegrated.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Krystal Integrated Services IPO offers 4197551 shares. 839510 (20.00%) to QIB 629633 (15.00%) to NII 1469143 (35.00%) to RII and 1259265 (30.00%) to Anchor investors. 73457 RIIs will receive minimum 20 shares and 749 (sNII) and 1499 (bNII) will receive minimum 280 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1259265 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "839510 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "629633 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "419755 (10.00%)",
+        "maximum_allottees": "1499"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "209878 (5.00%)",
+        "maximum_allottees": "749"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1469143 (35.00%)",
+        "maximum_allottees": "73457"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4197551 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.184Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Krystal Integrated Services IPO is subscribed 13.49 times on March 18 2024 6:21:00 PM (Day 3). The public issue subscribed 3.42 times in the retail category 7.32 times in the QIB category and 45.23 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "7.32",
+        "shares_offered": "839510",
+        "shares_bid_for": "6142560"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "45.23",
+        "shares_offered": "629633",
+        "shares_bid_for": "28475760"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "52.07",
+        "shares_offered": "419755",
+        "shares_bid_for": "21855400"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "31.54",
+        "shares_offered": "209878",
+        "shares_bid_for": "6620360"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.42",
+        "shares_offered": "1469143",
+        "shares_bid_for": "5018040"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "13.49",
+        "shares_offered": "2938286",
+        "shares_bid_for": "39636360"
+      }
+    },
+    "total_applications": "264406"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 18 2024",
+    "tentative_allotment": "Tue Mar 19 2024",
+    "initiation_of_refunds": "Wed Mar 20 2024",
+    "credit_of_shares_to_demat": "Wed Mar 20 2024"
+  },
+  "updatedAt": "2025-04-19T04:36:59.927Z",
+  "updated_at": "2025-04-18T12:47:58.184Z",
+  "year": 2024,
+  "worst_listing_gains": "-0.38%",
+  "worst_listing_gains_numeric": -0.38
+}

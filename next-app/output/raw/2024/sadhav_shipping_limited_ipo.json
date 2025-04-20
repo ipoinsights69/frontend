@@ -1,0 +1,430 @@
+{
+  "_id": "68024a013ccffd1c7912c7eb",
+  "ipo_id": "2024_sadhav_shipping_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:39:35.913Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sadhav-shipping-ipo/1657/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1996, Sadhav Shipping Limited owns and operates marine assets to service ports, and coastal logistics, and provides other port maritime-related services. The company was previously known as&nbsp;Homa Offshore &amp; Shipping Company Private Limited.</p>\n<p>The company has barges that are used in coastal and inland waterway shipping for the transportation or lightering of goods. The company operates and manages Port crafts and also offers high-speed security boats for patrol services.</p>\n<p>Sadhav Shipping has three business divisions:</p>\n<ul>\n<li>Offshore Logistics: Exploration and production of oil and gas in offshore fields</li>\n<li>Port Services: High-speed patrol boats for ports</li>\n<li>Oil spill response: Tier 1 oil spill response equipment for ports</li>\n</ul>\n<p>The company has 24 ships, of which 19 are owned and 5 are leased, which are deployed in various sectors of maritime trade in India.</p>\n<p>As of March 31, 2023, the company had 421 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Sadhav Shipping Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "13113.49",
+          "11628.71",
+          "6909.44",
+          "6117.64"
+        ],
+        [
+          "Revenue",
+          "3385.69",
+          "7890.59",
+          "6977.94",
+          "6123.67"
+        ],
+        [
+          "Profit After Tax",
+          "406.97",
+          "775.44",
+          "300.93",
+          "330.77"
+        ],
+        [
+          "Net Worth",
+          "4501.44",
+          "4094.46",
+          "3503.51",
+          "3205.61"
+        ],
+        [
+          "Reserves and Surplus",
+          "4206.18",
+          "3799.21",
+          "3208.26",
+          "2910.36"
+        ],
+        [
+          "Total Borrowing",
+          "6681.84",
+          "5527.45",
+          "2083.08",
+          "1776.04"
+        ]
+      ]
+    },
+    {
+      "heading": "Sadhav Shipping Limited Stock Quote & Charts",
+      "sanitizedHeading": "sadhav_shipping_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "20.41%"
+        ],
+        [
+          "ROCE",
+          "14.36%"
+        ],
+        [
+          "RoNW",
+          "18.94%"
+        ],
+        [
+          "Price to Book Value",
+          "2.40"
+        ]
+      ]
+    },
+    {
+      "heading": "Sadhav Shipping Limited Stock Quote & Charts",
+      "sanitizedHeading": "sadhav_shipping_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.50",
+          "5.67"
+        ],
+        [
+          "P/E (x)",
+          "12.66",
+          "16.75"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 23, 2024 to February 27, 2024",
+    "ipoListingDate": "Fri, Mar 1, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹95.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "40,18,800 shares (aggregating up to ₹38.18 Cr)",
+    "freshIssue": "40,18,800 shares (aggregating up to ₹38.18 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,02,800 shares",
+      "maker_name": "Sunflower Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/357/"
+    },
+    "ipoOpenDate": "Fri, Feb 23, 2024",
+    "ipoCloseDate": "Tue, Feb 27, 2024",
+    "initiationOfRefunds": "Thu, Feb 29, 2024",
+    "creditOfSharesToDemat": "Thu, Feb 29, 2024",
+    "shareHoldingPreIssue": "1,03,33,818 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,03,33,818 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "96.44%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,43,52,618 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,43,52,618 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "69.44%"
+      }
+    ]
+  },
+  "closing_date": "2024-02-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 ‐22‐40003355",
+    "email": "cs@sadhav.com",
+    "full_address": "Sadhav Shipping Limited, 521 5th Floor, Loha Bhavan P.Dʹmello Road, Masjid (East) Mumbai - 400009",
+    "website": "http://www.sadhavshipping.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.265Z",
+  "faqs": [
+    {
+      "question": "What is the Sadhav Shipping IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sadhav Shipping IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4018800<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->38.18<!-- --> Crores. The issue is priced at <span>₹95 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 23, 2024</b>, and <b>closes on <!-- -->February 27, 2024</b>.</p><p>Maashitla Securities Private Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sadhav Shipping IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sadhav Shipping IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sadhav Shipping IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sadhav Shipping IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sadhav Shipping IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sadhav Shipping IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sadhav Shipping IPO opens on February 23, 2024 and closes on February 27, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sadhav Shipping IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sadhav Shipping IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,14,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sadhav Shipping IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sadhav Shipping IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sadhav Shipping IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sadhav Shipping IPO<!-- --> will be done on <!-- -->Wednesday, February 28, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, February 29, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/sadhav-shipping-ipo/1657/\" title=\"Sadhav Shipping IPO Allotment Status\">Sadhav Shipping IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sadhav Shipping IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sadhav Shipping IPO<!-- --> listing date is on <b>Friday, March 1, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sadhav Shipping",
+  "issue_price": "₹95.00",
+  "issue_price_numeric": 95,
+  "issue_size": "40,18,800 shares (aggregating up to ₹38.18 Cr)",
+  "issue_size_numeric": 40,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Isk Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/174/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/174/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "95.00"
+      },
+      "open": {
+        "nse_sme": "135.00"
+      },
+      "low": {
+        "nse_sme": "135.00"
+      },
+      "high": {
+        "nse_sme": "141.75"
+      },
+      "last_trade": {
+        "nse_sme": "141.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 1 2024",
+    "nse_symbol": "SADHAV",
+    "isin": "INE0K5H01010",
+    "final_issue_price": "95 per share"
+  },
+  "listing_date": "2024-02-29T18:30:00.000Z",
+  "listing_gains": "49.21%",
+  "listing_gains_numeric": 49.21,
+  "logo": "https://www.chittorgarh.net/images/ipo/sadhav-shipping-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sadhav-shipping-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "114000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "114000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "228000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sadhav-shipping-ipo/1657/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-02-22T18:30:00.000Z",
+  "pageHeading": "Sadhav Shipping Limited IPO (Sadhav Shipping IPO) Detail",
+  "pageTitle": "Sadhav Shipping IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Kamal Kant Biswanath Choudhury Mrs Sadhana Choudhury Mr. Vedant Kamal Kant Choudhury and Mr. Subhas Chandra Choudhury are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "96.44%",
+      "share_holding_post_issue": "69.44%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sadhav Shipping IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SadhavShippingltd_DP.zip"
+    },
+    {
+      "text": "Sadhav Shipping IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_SADHAV.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sadhav-shipping-ipo/1657/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Maashitla Securities Private Limited",
+    "phone": "+91-11-45121795-96",
+    "email": "contact@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "reservation": {
+    "summary": "Sadhav Shipping IPO offers 4018800 shares. 1908000 (47.48%) to NII 1908000 (47.48%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "202800 (5.05%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1908000 (47.48%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1908000 (47.48%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4018800 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.264Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sadhav Shipping IPO is subscribed 135.69 times on February 27 2024 6:21:00 PM (Day 3). The public issue subscribed 65.52 times in the retail category [.] times in the QIB category and 184.58 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "184.58",
+        "shares_offered": "1908000",
+        "shares_bid_for": "352186800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "65.52",
+        "shares_offered": "1908000",
+        "shares_bid_for": "125007600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "135.69",
+        "shares_offered": "3816000",
+        "shares_bid_for": "517795200"
+      }
+    },
+    "total_applications": "104173",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 27 2024",
+    "tentative_allotment": "Wed Feb 28 2024",
+    "initiation_of_refunds": "Thu Feb 29 2024",
+    "credit_of_shares_to_demat": "Thu Feb 29 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:12.082Z",
+  "updated_at": "2025-04-18T12:48:01.264Z",
+  "year": 2024,
+  "worst_listing_gains": "49.21%",
+  "worst_listing_gains_numeric": 49.21
+}

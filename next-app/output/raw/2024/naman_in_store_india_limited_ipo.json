@@ -1,0 +1,438 @@
+{
+  "_id": "680249ff3ccffd1c7912c7a3",
+  "ipo_id": "2024_naman_in_store_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": false,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:37:31.119Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/naman-in-store-india-ipo/1681/"
+  },
+  "about": {
+    "details": "<p>Established in 2010, Naman In-Store (India) Limited is a retail furniture and fittings company providing retail solutions to various industries and retail outlets.</p>\n<p>The company manufactures modular furniture for offices, beauty salons, kitchens with limited space, educational institutions, and shelving solutions for supermarkets.</p>\n<p>The company also manufactures customized furniture and fixtures in wood, metal, and plastic for kiosks, complete stores, Countertop Units (CTU), Countertop Display Units (CDU), Point of Sale Merchandising (POSM), etc. The company operates according to a B2B (business-to-business) model.</p>\n<p>Naman's manufacturing facility is located in Vasai, Maharashtra, with a built-up area of approximately 1,41,687 sq. ft. The company also has 2 warehouses in Kaman, Maharashtra, and 1 in Bengaluru.</p>\n<p>The company provides PAN India service, as of September 30, 2023, the Company has served approximately 32 retail customers and their franchisees and 04 industrial customers.</p>\n<p>As of September 30, 2023, the total number of employees was 491.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Naman In-Store (India) Limited Financial Information (Restated)",
+      "sanitizedHeading": "naman_in-store",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          null,
+          "5598.94",
+          "3074.09",
+          "1693.00"
+        ],
+        [
+          "Revenue",
+          "7929.71",
+          "14993.50",
+          "5108.94",
+          "1341.28"
+        ],
+        [
+          "Profit After Tax",
+          "618.89",
+          "381.71",
+          "21.25",
+          "5.08"
+        ],
+        [
+          "Net Worth",
+          "1203.48",
+          "584.59",
+          "202.88",
+          "131.64"
+        ],
+        [
+          "Reserves and Surplus",
+          null,
+          "488.94",
+          "53.48",
+          "41.64"
+        ],
+        [
+          "Total Borrowing",
+          "3166.06",
+          "2944.09",
+          "1883.91",
+          "1023.91"
+        ]
+      ]
+    },
+    {
+      "heading": "Naman In-store (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "naman_in-store_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "69.22%"
+        ],
+        [
+          "ROCE",
+          "24.51%"
+        ],
+        [
+          "RoNW",
+          "51.42%"
+        ],
+        [
+          "PAT Margin",
+          "7.81"
+        ],
+        [
+          "Price to Book Value",
+          "1.04"
+        ]
+      ]
+    },
+    {
+      "heading": "Naman In-store (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "naman_in-store_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.96",
+          "11.73"
+        ],
+        [
+          "P/E (x)",
+          "17.95",
+          "7.58"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Naman In-Store (India) IPO raises Rs 7.22 crore from anchor investors. Naman In-Store (India) IPO Anchor bid date is March 21 2024. Naman In-Store (India) IPO Anchor Investors list",
+    "list_link": {
+      "text": "Naman In-Store (India) IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/naman_instore_anchorallocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "June 26 2024",
+      "shares_offered": "811200",
+      "anchor_portion_size": "7.22"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "March 22, 2024 to March 27, 2024",
+    "ipoListingDate": "Tue, Apr 2, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹89.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "28,48,000 shares (aggregating up to ₹25.35 Cr)",
+    "freshIssue": "28,48,000 shares (aggregating up to ₹25.35 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,42,400 shares",
+      "maker_name": "Giriraj Stock Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/245/"
+    },
+    "ipoOpenDate": "Fri, Mar 22, 2024",
+    "ipoCloseDate": "Wed, Mar 27, 2024",
+    "initiationOfRefunds": "Mon, Apr 1, 2024",
+    "creditOfSharesToDemat": "Mon, Apr 1, 2024",
+    "shareHoldingPreIssue": "77,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "77,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00"
+      }
+    ],
+    "shareHoldingPostIssue": "1,05,48,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,05,48,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-03-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-8087042862",
+    "email": "compliance@nipl.co",
+    "full_address": "Naman In-Store (India) Limited, E/13-14 Shree Sardar Patel CHSL, Patel Baug Nehru Road Opp Adarsh petrol pump, Vile Parle (E) Mumbai - 400057",
+    "website": "http://www.namaninstore.com/"
+  },
+  "createdAt": "2025-04-18T12:47:59.113Z",
+  "faqs": [
+    {
+      "question": "What is the Naman In-Store (India) IPO?",
+      "answer": "<div itemprop=\"text\"><p>Naman In-Store (India) IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2848000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->25.35<!-- --> Crores. The issue is priced at <span>₹89 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 22, 2024</b>, and <b>closes on <!-- -->March 27, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Naman In-Store (India) IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Naman In-Store (India) IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Naman In-Store (India) IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Naman In-Store (India) IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Naman In-Store (India) IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Naman In-Store (India) IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Naman In-Store (India) IPO opens on March 22, 2024 and closes on March 27, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Naman In-Store (India) IPO?",
+      "answer": "<div itemprop=\"text\"><p>Naman In-Store (India) IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,42,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Naman In-Store (India) IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Naman In-Store (India) IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Naman In-Store (India) IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Naman In-Store (India) IPO<!-- --> will be done on <!-- -->Thursday, March 28, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, April 1, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/naman-in-store-india-ipo/1681/\" title=\"Naman In-Store (India) IPO Allotment Status\">Naman In-Store (India) IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Naman In-Store (India) IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Naman In-Store (India) IPO<!-- --> listing date is on <b>Tuesday, April 2, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Naman In-Store (India)",
+  "issue_price": "₹89.00",
+  "issue_price_numeric": 89,
+  "issue_size": "28,48,000 shares (aggregating up to ₹25.35 Cr)",
+  "issue_size_numeric": 28,
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "89.00"
+      },
+      "open": {
+        "nse_sme": "125.00"
+      },
+      "low": {
+        "nse_sme": "118.75"
+      },
+      "high": {
+        "nse_sme": "125.90"
+      },
+      "last_trade": {
+        "nse_sme": "118.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "April 2 2024",
+    "nse_symbol": "NAMAN",
+    "isin": "INE0RJM01010",
+    "final_issue_price": "89 per share"
+  },
+  "listing_date": "2024-04-01T18:30:00.000Z",
+  "listing_gains": "33.43%",
+  "listing_gains_numeric": 33.43,
+  "logo": "https://www.chittorgarh.net/images/ipo/naman-in-store-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/naman-in-store-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "142400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "142400"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "284800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/naman-in-store-india-ipo/1681/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-03-21T18:30:00.000Z",
+  "pageHeading": "Naman In-Store (India) Limited IPO (Naman In-Store (India) IPO) Detail",
+  "pageTitle": "Naman In-Store (India) IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The company's promoters are Mr. Raju Paleja Ms. Bhavika Paleja Mr. Jay Shah Mr. Mehul Naik and Mr. Abdul Shahid Shaikh.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Naman In-Store (India) IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/NamanInStore_DRHP.pdf"
+    },
+    {
+      "text": "Naman In-Store (India) IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/NamanInStore_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Naman In-Store (India) IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/naman_instore_anchorallocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/naman-in-store-india-ipo/1681/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Naman In-Store (India) IPO offers 2848000 shares. 540800 (18.99%) to QIB 406400 (14.27%) to NII 947200 (33.26%) to RII and 811200 (28.48%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "811200 (28.48%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "142400 (5.00%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "540800 (18.99%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "406400 (14.27%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "947200 (33.26%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2848000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.113Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Naman In-Store (India) IPO is subscribed 309.03 times on March 27 2024 7:30:24 PM (Day 3). The public issue subscribed 328.8 times in the retail category 109.75 times in the QIB category and 528.12 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "109.75",
+        "shares_offered": "540800",
+        "shares_bid_for": "59355200"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "528.12",
+        "shares_offered": "406400",
+        "shares_bid_for": "214627200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "328.8",
+        "shares_offered": "947200",
+        "shares_bid_for": "311435200"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "309.03",
+        "shares_offered": "1894400",
+        "shares_bid_for": "585417600"
+      }
+    },
+    "total_applications": "194647",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 27 2024",
+    "tentative_allotment": "Thu Mar 28 2024",
+    "initiation_of_refunds": "Mon Apr 1 2024",
+    "credit_of_shares_to_demat": "Mon Apr 1 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:02.619Z",
+  "updated_at": "2025-04-18T12:47:59.113Z",
+  "year": 2024,
+  "worst_listing_gains": "33.43%",
+  "worst_listing_gains_numeric": 33.43
+}

@@ -1,0 +1,470 @@
+{
+  "_id": "680249fe3ccffd1c7912c789",
+  "ipo_id": "2024_juniper_hotels_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:39:53.607Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/juniper-hotels-ipo/1654/"
+  },
+  "about": {
+    "details": "<p>Incorporated in September 1985,&nbsp;Juniper Hotels Limited is a&nbsp;luxury hotel development and ownership company. As of September 30, 2023, the company operates seven hotels and serviced apartments with a total of 1,836 rooms.</p>\n<p>The company's hotels and serviced apartments in Mumbai, Delhi, Ahmedabad, Lucknow, Raipur, and Hampi are landmarks in the luxury, upper upscale and upscale categories. Grand Hyatt Mumbai Hotel and Residences is India's largest luxury hotel, while Hyatt Regency Lucknow and Hyatt Regency Ahmedabad are the biggest upper upscale hotels in their respective markets. Finally, Hyatt Raipur is the only upper upscale hotel in Raipur.</p>\n<p>Juniper Hotels is co-owned by Saraf Hotels Ltd and Two Seas Holdings Ltd, an affiliate of Hyatt Hotels Corporation, forming a strategic partnership between a hotel developer and an international hospitality company.</p>\n<p>The company has been honored with several awards, including the \"Best Luxury Business Hotel in Delhi\" at the Today's Traveller Awards in 2022 for Andaz Delhi, and the \"Best 5 Star Hotel in Gujarat\" at the Gujarat Tourism Awards in 2022 for Hyatt Regency Ahmedabad.</p>\n<p>The revenue from operations increased from ₹1,663.51M in Fiscal 2021 to ₹3,086.89M in Fiscal 2022 and ₹6,668.54M in Fiscal 2023.</p>\n<p>As of Sep 30, 2023, the company has 116 serviced apartments in Grand Hyatt Mumbai and 129 serviced apartments in Hyatt Delhi.</p>\n<p>As of September 30, 2023, the company had a total of 1,631 permanent employees. The CHPL Group had a total of 362 permanent employees. Together, they had a total of 1,993 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Juniper Hotels Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3837.83",
+          "3020.27",
+          "3069.86",
+          "3055.54"
+        ],
+        [
+          "Revenue",
+          "337.43",
+          "717.29",
+          "343.76",
+          "192.85"
+        ],
+        [
+          "Profit After Tax",
+          "-26.50",
+          "-1.50",
+          "-188.03",
+          "-199.49"
+        ],
+        [
+          "Net Worth",
+          "859.67",
+          "354.51",
+          "356.37",
+          "543.90"
+        ],
+        [
+          "Reserves and Surplus",
+          "687.17",
+          "210.81",
+          "212.67",
+          "400.20"
+        ],
+        [
+          "Total Borrowing",
+          "2252.75",
+          "2045.61",
+          "2121.81",
+          "1830.48"
+        ]
+      ]
+    },
+    {
+      "heading": "Juniper Hotels Limited Stock Quote & Charts",
+      "sanitizedHeading": "juniper_hotels_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "RoNW",
+          "-0.42%"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Juniper Hotels IPO raises Rs 810.00 crore from anchor investors. Juniper Hotels IPO Anchor bid date is February 20 2024. Juniper Hotels IPO Anchor Investors list",
+    "list_link": {
+      "text": "Juniper Hotels IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/juniper-hotels-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "May 26 2024",
+      "shares_offered": "22500000",
+      "anchor_portion_size": "810.00"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "February 21, 2024 to February 23, 2024",
+    "ipoListingDate": "Wed, Feb 28, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹360.00",
+    "lotSize": "40 Shares",
+    "issueSize": "5,00,00,000 shares (aggregating up to ₹1,800.00 Cr)",
+    "freshIssue": "5,00,00,000 shares (aggregating up to ₹1,800.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Feb 21, 2024",
+    "ipoCloseDate": "Fri, Feb 23, 2024",
+    "initiationOfRefunds": "Tue, Feb 27, 2024",
+    "creditOfSharesToDemat": "Tue, Feb 27, 2024",
+    "shareHoldingPreIssue": "17,25,02,384 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "17,25,02,384 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "22,25,02,384 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "22,25,02,384 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "77.53%"
+      }
+    ]
+  },
+  "closing_date": "2024-02-22T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+ 91 22 6676 1000",
+    "email": "complianceofficer@juniperhotels.com",
+    "full_address": "Juniper Hotels Limited, Off Western Express Highway, Santacruz East, Mumbai 400 055",
+    "website": "http://www.juniperhotels.com/"
+  },
+  "createdAt": "2025-04-18T12:47:58.032Z",
+  "faqs": [
+    {
+      "question": "What is the Juniper Hotels IPO?",
+      "answer": "<div itemprop=\"text\"><p>Juniper Hotels IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->50000000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->1,800.00<!-- --> Crores. The issue is priced at <span>₹360 per share</span>. The minimum order quantity is <!-- -->40<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 21, 2024</b>, and <b>closes on <!-- -->February 23, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Juniper Hotels IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Juniper Hotels IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Juniper Hotels IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Juniper Hotels IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Juniper Hotels IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Juniper Hotels IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Juniper Hotels IPO opens on February 21, 2024 and closes on February 23, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Juniper Hotels IPO?",
+      "answer": "<div itemprop=\"text\"><p>Juniper Hotels IPO<!-- --> <b>lot size is <!-- -->40</b>, and the <b>minimum amount required is <span>₹14,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Juniper Hotels IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Juniper Hotels IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Juniper Hotels IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Juniper Hotels IPO<!-- --> will be done on <!-- -->Monday, February 26, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, February 27, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/juniper-hotels-ipo/1654/\" title=\"Juniper Hotels IPO Allotment Status\">Juniper Hotels IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Juniper Hotels IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Juniper Hotels IPO<!-- --> listing date is on <b>Wednesday, February 28, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Juniper Hotels",
+  "issue_price": "₹360.00",
+  "issue_price_numeric": 360,
+  "issue_size": "5,00,00,000 shares (aggregating up to ₹1,800.00 Cr)",
+  "issue_size_numeric": 5,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Clsa India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/142/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/142/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "360.00",
+        "nse": "360.00"
+      },
+      "open": {
+        "bse": "361.20",
+        "nse": "365.00"
+      },
+      "low": {
+        "bse": "361.20",
+        "nse": "365.00"
+      },
+      "high": {
+        "bse": "397.30",
+        "nse": "401.50"
+      },
+      "last_trade": {
+        "bse": "397.30",
+        "nse": "401.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 28 2024",
+    "bse_script_code": "544129",
+    "nse_symbol": "JUNIPER",
+    "isin": "INE696F01016",
+    "final_issue_price": "360 per share"
+  },
+  "listing_date": "2024-02-27T18:30:00.000Z",
+  "listing_gains": "10.36%",
+  "listing_gains_numeric": 10.36,
+  "logo": "https://www.chittorgarh.net/images/ipo/juniperhotels-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/juniperhotels-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 40 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "40",
+        "amount": "14400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "520",
+        "amount": "187200"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "560",
+        "amount": "201600"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "2760",
+        "amount": "993600"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "2800",
+        "amount": "1008000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/juniper-hotels-ipo/1654/"
+    }
+  },
+  "lot_size": 40,
+  "opening_date": "2024-02-20T18:30:00.000Z",
+  "pageHeading": "Juniper Hotels Limited IPO (Juniper Hotels IPO) Detail",
+  "pageTitle": "Juniper Hotels IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoter of the company are Arun Kumar Saraf & Saraf Hotels Limited Two Seas Holdings Limited and Juniper Investments Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "77.53%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Juniper Hotels IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2023/juniper-hotels-limited-drhp_77542.html"
+    },
+    {
+      "text": "Juniper Hotels IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/juniper-hotels-limited-rhp_81407.html"
+    },
+    {
+      "text": "Anchor Investors in Juniper Hotels IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/juniper-hotels-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "5",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "2"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/juniper-hotels-ipo/1654/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "jhl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Juniper Hotels IPO offers 50000000 shares. 15000000 (30.00%) to QIB 7500000 (15.00%) to NII 5000000 (10.00%) to RII and 22500000 (45.00%) to Anchor investors. 125000 RIIs will receive minimum 40 shares and 4464 (sNII) and 8928 (bNII) will receive minimum 560 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "22500000 (45.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "15000000 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "7500000 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "5000000 (10.00%)",
+        "maximum_allottees": "8928"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "2500000 (5.00%)",
+        "maximum_allottees": "4464"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "5000000 (10.00%)",
+        "maximum_allottees": "125000"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "50000000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.032Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Juniper Hotels IPO is subscribed 2.18 times on February 23 2024 6:20:00 PM (Day 3). The public issue subscribed 1.31 times in the retail category 3.11 times in the QIB category and 0.89 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "3.11",
+        "shares_offered": "15000000",
+        "shares_bid_for": "46711200"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.89",
+        "shares_offered": "7500000",
+        "shares_bid_for": "6672120"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "1.08",
+        "shares_offered": "5000000",
+        "shares_bid_for": "5415720"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "0.5",
+        "shares_offered": "2500000",
+        "shares_bid_for": "1256400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.31",
+        "shares_offered": "5000000",
+        "shares_bid_for": "6537680"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.18",
+        "shares_offered": "27500000",
+        "shares_bid_for": "59921000"
+      }
+    },
+    "total_applications": "121009"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 23 2024",
+    "tentative_allotment": "Mon Feb 26 2024",
+    "initiation_of_refunds": "Tue Feb 27 2024",
+    "credit_of_shares_to_demat": "Tue Feb 27 2024"
+  },
+  "updatedAt": "2025-04-19T04:36:59.192Z",
+  "updated_at": "2025-04-18T12:47:58.032Z",
+  "year": 2024,
+  "worst_listing_gains": "10.36%",
+  "worst_listing_gains_numeric": 10.36
+}

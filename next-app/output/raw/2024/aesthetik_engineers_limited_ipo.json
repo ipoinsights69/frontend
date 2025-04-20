@@ -1,0 +1,446 @@
+{
+  "_id": "680249f93ccffd1c7912c6fe",
+  "ipo_id": "2024_aesthetik_engineers_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:24:51.337Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/aesthetik-engineers-ipo/1803/"
+  },
+  "about": {
+    "details": "<p>Founded in 2003, Aesthetik Engineers Limited provides interior design services and is involved in the design, manufacture, and installation of façade systems.</p>\n<p>The company provides design, engineering, fabrication, and installation of architectural façades, aluminum doors and windows as well as railings, stairs and Glassfibre Reinforced Concrete (GFRC) for hospitality, residential, commercial and infrastructure projects.</p>\n<p>The product portfolio of Aesthetik Engineers includes:</p>\n<ol>\n<li>Façade: structural glazing/curtain wall, spider glazing, ACP/HPL/stone cladding, aluminum louvers and canopies/skylights/domes.</li>\n<li>Doors and windows: supply of products and services for the planning and installation of doors and windows.</li>\n<li>Railings and stairs: Provision of services for the design and installation of railings and stairs.</li>\n<li>Glass Fiber Reinforced Concrete (GFRC).</li>\n</ol>\n<p>The company's production facility is located in Howrah, Kolkata, and spans over 3,000 square meters. As of June 30, 2024, the company had 52 permanent employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Aesthetik Engineers Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3088.94",
+          "2457.77"
+        ],
+        [
+          "Revenue",
+          "6079.50",
+          "4035.82"
+        ],
+        [
+          "Profit After Tax",
+          "502.99",
+          "112.59"
+        ],
+        [
+          "Net Worth",
+          "1502.41",
+          "999.42"
+        ],
+        [
+          "Total Borrowing",
+          "849.92",
+          "592.47"
+        ]
+      ]
+    },
+    {
+      "heading": "Aesthetik Engineers Limited Stock Quote & Charts",
+      "sanitizedHeading": "aesthetik_engineers_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "33.48%"
+        ],
+        [
+          "ROCE",
+          "37.32%"
+        ],
+        [
+          "Debt/Equity",
+          "0.57"
+        ],
+        [
+          "RoNW",
+          "33.48%"
+        ],
+        [
+          "PAT Margin",
+          "8.28"
+        ],
+        [
+          "Price to Book Value",
+          "4.89"
+        ]
+      ]
+    },
+    {
+      "heading": "Aesthetik Engineers Limited Stock Quote & Charts",
+      "sanitizedHeading": "aesthetik_engineers_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.97",
+          "2.92"
+        ],
+        [
+          "P/E (x)",
+          "14.59",
+          "19.86"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Aesthetik Engineers IPO raises Rs 7.52 crore from anchor investors. Aesthetik Engineers IPO Anchor bid date is August 7 2024. Aesthetik Engineers IPO Anchor Investors list",
+    "list_link": {
+      "text": "Aesthetik Engineers IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/aesthetik_engineersanchoallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "November 11 2024",
+      "shares_offered": "1296000",
+      "anchor_portion_size": "7.52"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 8, 2024 to August 12, 2024",
+    "ipoListingDate": "Fri, Aug 16, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹58.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "45,64,000 shares (aggregating up to ₹26.47 Cr)",
+    "freshIssue": "45,64,000 shares (aggregating up to ₹26.47 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,32,000 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Thu, Aug 8, 2024",
+    "ipoCloseDate": "Mon, Aug 12, 2024",
+    "initiationOfRefunds": "Wed, Aug 14, 2024",
+    "creditOfSharesToDemat": "Wed, Aug 14, 2024",
+    "shareHoldingPreIssue": "1,26,56,175 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,26,56,175 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,72,20,175 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,72,20,175 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.50%"
+      }
+    ]
+  },
+  "closing_date": "2024-08-11T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9836000052",
+    "email": "cs@aesthetik.in",
+    "full_address": "Aesthetik Engineers Limited, 1858/1 5th Floor Unit 503-505, Acropolis Mall Rajdanga Main Road, Kasba Kolkata - 700107",
+    "website": "http://www.aesthetik.in/"
+  },
+  "createdAt": "2025-04-18T12:47:53.411Z",
+  "faqs": [
+    {
+      "question": "What is the Aesthetik Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aesthetik Engineers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4564000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->26.47<!-- --> Crores. The issue is priced at <span>₹58 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 8, 2024</b>, and <b>closes on <!-- -->August 12, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Aesthetik Engineers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Aesthetik Engineers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Aesthetik Engineers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Aesthetik Engineers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Aesthetik Engineers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Aesthetik Engineers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Aesthetik Engineers IPO opens on August 8, 2024 and closes on August 12, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Aesthetik Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aesthetik Engineers IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,16,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Aesthetik Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Aesthetik Engineers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Aesthetik Engineers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Aesthetik Engineers IPO<!-- --> will be done on <!-- -->Tuesday, August 13, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, August 14, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/aesthetik-engineers-ipo/1803/\" title=\"Aesthetik Engineers IPO Allotment Status\">Aesthetik Engineers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Aesthetik Engineers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Aesthetik Engineers IPO<!-- --> listing date is on <b>Friday, August 16, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Aesthetik Engineers",
+  "issue_price": "₹58.00",
+  "issue_price_numeric": 58,
+  "issue_size": "45,64,000 shares (aggregating up to ₹26.47 Cr)",
+  "issue_size_numeric": 45,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Narnolia Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/185/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/185/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "58.00"
+      },
+      "open": {
+        "nse_sme": "110.20"
+      },
+      "low": {
+        "nse_sme": "110.20"
+      },
+      "high": {
+        "nse_sme": "115.70"
+      },
+      "last_trade": {
+        "nse_sme": "115.70"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "August 16 2024",
+    "nse_symbol": "AESTHETIK",
+    "isin": "INE0TSF01011",
+    "final_issue_price": "58 per share"
+  },
+  "listing_date": "2024-08-15T18:30:00.000Z",
+  "listing_gains": "99.48%",
+  "listing_gains_numeric": 99.48,
+  "logo": "https://www.chittorgarh.net/images/ipo/aesthetik-engineers-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/aesthetik-engineers-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "116000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "116000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "232000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/aesthetik-engineers-ipo/1803/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-08-07T18:30:00.000Z",
+  "pageHeading": "Aesthetik Engineers Limited IPO (Aesthetik Engineers IPO) Detail",
+  "pageTitle": "Aesthetik Engineers IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Avinash Agarwal Ms. Sreeti Agarwal Ms. Manisha Sureka and M/s Avinash Agarwal (HUF) are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "73.50%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Aesthetik Engineers IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AesthetikEngineersLimited_DRHP.zip"
+    },
+    {
+      "text": "Aesthetik Engineers IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AesthetikEngineersLimited_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Aesthetik Engineers IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/aesthetik_engineersanchoallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/aesthetik-engineers-ipo/1803/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "compliances@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Aesthetik Engineers IPO offers 4564000 shares. 866000 (18.97%) to QIB 652000 (14.29%) to NII 1518000 (33.26%) to RII and 1296000 (28.4%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1296000 (28.4%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "232000 (5.08%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "866000 (18.97%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "652000 (14.29%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1518000 (33.26%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4564000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:53.410Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Aesthetik Engineers IPO is subscribed 705.26 times on August 12 2024 6:19:59 PM (Day 3). The public issue subscribed 461.58 times in the retail category 207.31 times in the QIB category and 1933.96 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "207.31",
+        "shares_offered": "866000",
+        "shares_bid_for": "179530000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1933.96",
+        "shares_offered": "652000",
+        "shares_bid_for": "1260942000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "461.58",
+        "shares_offered": "1518000",
+        "shares_bid_for": "700686000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "705.26",
+        "shares_offered": "3036000",
+        "shares_bid_for": "2141158000"
+      }
+    },
+    "total_applications": "350343",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 12 2024",
+    "tentative_allotment": "Tue Aug 13 2024",
+    "initiation_of_refunds": "Wed Aug 14 2024",
+    "credit_of_shares_to_demat": "Wed Aug 14 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:35.737Z",
+  "updated_at": "2025-04-18T12:47:53.410Z",
+  "year": 2024,
+  "worst_listing_gains": "99.48%",
+  "worst_listing_gains_numeric": 99.48,
+  "last_performance_update": "2025-04-19T04:43:35.737Z"
+}

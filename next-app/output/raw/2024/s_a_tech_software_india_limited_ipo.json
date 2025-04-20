@@ -1,0 +1,455 @@
+{
+  "_id": "68024a013ccffd1c7912c7ee",
+  "ipo_id": "2024_s_a_tech_software_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:25:46.858Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/s-a-tech-software-india-ipo/1787/"
+  },
+  "about": {
+    "details": "<p>S A Tech Software India Limited was founded in 2012 and is an IT consulting subsidiary of the foreign corporation SA Technologies Inc, USA.</p>\n<p>The company provides application development, mobile app development, cloud infrastructure, software quality assurance, generative AI, machine learning, IoT solutions, data science and analytics.</p>\n<p>The product and services portfolio of S A Tech Software India includes:</p>\n<ol>\n<li>IT Services: The company provides technology services and digital transformation services to Fortune 500 clients, helping them conceptualize, design, develop and deliver better products. These include artificial intelligence and machine learning, software development and engineering, digital transformation and automation, cloud and DevOps services, quality assurance and testing, and the Global Capability Centre (GCC).</li>\n<li>Artificial intelligence (AI) and machine learning (ML)</li>\n<li>Data science and analytics</li>\n<li>Software development and engineering</li>\n<li>Digital transformation and automation</li>\n<li>Cloud and DevOps services</li>\n<li>Quality assurance and testing</li>\n</ol>\n<p>As of September 30, 2023, the company had 356 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "S A Tech Software India Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "4703.23",
+          "3706.06",
+          "3465.95",
+          "3229.19"
+        ],
+        [
+          "Revenue",
+          "2397.18",
+          "7238.12",
+          "5673.05",
+          "4154.37"
+        ],
+        [
+          "Profit After Tax",
+          "248.07",
+          "368.86",
+          "100.59",
+          "-548.25"
+        ],
+        [
+          "Net Worth",
+          "1414.43",
+          "1166.35",
+          "772.48",
+          "663.89"
+        ],
+        [
+          "Reserves and Surplus",
+          "498.70",
+          "250.62",
+          "729.50",
+          "620.91"
+        ],
+        [
+          "Total Borrowing",
+          "2105.22",
+          "1288.12",
+          "1459.18",
+          "1959.34"
+        ]
+      ]
+    },
+    {
+      "heading": "S A Tech Software India Limited Stock Quote & Charts",
+      "sanitizedHeading": "s_a_tech_software_india_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROCE",
+          "10.95%"
+        ],
+        [
+          "Debt/Equity",
+          "1.49"
+        ],
+        [
+          "RoNW",
+          "17.54%"
+        ],
+        [
+          "PAT Margin",
+          "10.38"
+        ],
+        [
+          "Price to Book Value",
+          "3.82"
+        ]
+      ]
+    },
+    {
+      "heading": "S A Tech Software India Limited Stock Quote & Charts",
+      "sanitizedHeading": "s_a_tech_software_india_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.03",
+          "7.60"
+        ],
+        [
+          "P/E (x)",
+          "14.65",
+          "7.76"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "S A Tech Software India IPO raises Rs 6.38 crore from anchor investors. S A Tech Software India IPO Anchor bid date is July 25 2024. S A Tech Software India IPO Anchor Investors list",
+    "list_link": {
+      "text": "S A Tech Software India IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sa_technologies_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "October 29 2024",
+      "shares_offered": "1082000",
+      "anchor_portion_size": "6.38"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "July 26, 2024 to July 30, 2024",
+    "ipoListingDate": "Fri, Aug 2, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹59.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "39,00,000 shares (aggregating up to ₹23.01 Cr)",
+    "freshIssue": "39,00,000 shares (aggregating up to ₹23.01 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,84,000 shares",
+      "maker_name": "Giriraj Stock Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/245/"
+    },
+    "ipoOpenDate": "Fri, Jul 26, 2024",
+    "ipoCloseDate": "Tue, Jul 30, 2024",
+    "initiationOfRefunds": "Thu, Aug 1, 2024",
+    "creditOfSharesToDemat": "Thu, Aug 1, 2024",
+    "shareHoldingPreIssue": "91,57,281 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "91,57,281 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "79.27%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,30,57,281 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,30,57,281 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-07-29T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9022909131",
+    "email": "cs@satincorp.com",
+    "full_address": "S A Tech Software India Limited, Off No. D-6030, 6th Floor Solitaire Bus. Hub Viman Nagar, Pune - 411014",
+    "website": "http://www.satincorp.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.283Z",
+  "faqs": [
+    {
+      "question": "What is the S A Tech Software India IPO?",
+      "answer": "<div itemprop=\"text\"><p>S A Tech Software India IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3900000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->23.01<!-- --> Crores. The issue is priced at <span>₹59 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 26, 2024</b>, and <b>closes on <!-- -->July 30, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in S A Tech Software India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->S A Tech Software India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->S A Tech Software India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->S A Tech Software India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->S A Tech Software India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When S A Tech Software India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The S A Tech Software India IPO opens on July 26, 2024 and closes on July 30, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of S A Tech Software India IPO?",
+      "answer": "<div itemprop=\"text\"><p>S A Tech Software India IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,18,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for S A Tech Software India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->S A Tech Software India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is S A Tech Software India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->S A Tech Software India IPO<!-- --> will be done on <!-- -->Wednesday, July 31, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, August 1, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/s-a-tech-software-india-ipo/1787/\" title=\"S A Tech Software India IPO Allotment Status\">S A Tech Software India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is S A Tech Software India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->S A Tech Software India IPO<!-- --> listing date is on <b>Friday, August 2, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "S A Tech Software India",
+  "issue_price": "₹59.00",
+  "issue_price_numeric": 59,
+  "issue_size": "39,00,000 shares (aggregating up to ₹23.01 Cr)",
+  "issue_size_numeric": 39,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "GYR Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/182/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/182/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "59.00"
+      },
+      "open": {
+        "nse_sme": "112.10"
+      },
+      "low": {
+        "nse_sme": "112.10"
+      },
+      "high": {
+        "nse_sme": "117.70"
+      },
+      "last_trade": {
+        "nse_sme": "117.70"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "August 2 2024",
+    "nse_symbol": "SATECH",
+    "isin": "INE0BSN01013",
+    "final_issue_price": "59 per share"
+  },
+  "listing_date": "2024-08-01T18:30:00.000Z",
+  "listing_gains": "99.49%",
+  "listing_gains_numeric": 99.49,
+  "logo": "https://www.chittorgarh.net/images/ipo/s-a-tech-software-india-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/s-a-tech-software-india-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "118000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "118000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "236000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/s-a-tech-software-india-ipo/1787/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-07-25T18:30:00.000Z",
+  "pageHeading": "S A Tech Software India Limited IPO (S A Tech Software India IPO) Detail",
+  "pageTitle": "S A Tech Software India IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "SA Technologies Inc. USA Mr. Manoj Joshi and Mrs. Priyanka Joshi are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "79.27%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "S A Tech Software India IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SATech_DRHP.zip"
+    },
+    {
+      "text": "S A Tech Software India IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_SATECH.zip"
+    },
+    {
+      "text": "Anchor Investors in S A Tech Software India IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sa_technologies_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/s-a-tech-software-india-ipo/1787/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "S A Tech Software India IPO offers 3900000 shares. 724000 (18.56%) to QIB 544000 (13.95%) to NII 1266000 (32.46%) to RII and 1082000 (27.74%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1082000 (27.74%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "284000 (7.28%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "724000 (18.56%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "544000 (13.95%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1266000 (32.46%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3900000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.283Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The S A Tech Software India IPO is subscribed 621.25 times on July 30 2024 6:19:59 PM (Day 3). The public issue subscribed 621.77 times in the retail category 201.29 times in the QIB category and 1178.97 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "201.29",
+        "shares_offered": "724000",
+        "shares_bid_for": "145734000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1178.97",
+        "shares_offered": "544000",
+        "shares_bid_for": "641362000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "621.77",
+        "shares_offered": "1266000",
+        "shares_bid_for": "787160000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "621.25",
+        "shares_offered": "2534000",
+        "shares_bid_for": "1574256000"
+      }
+    },
+    "total_applications": "393580",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 30 2024",
+    "tentative_allotment": "Wed Jul 31 2024",
+    "initiation_of_refunds": "Thu Aug 1 2024",
+    "credit_of_shares_to_demat": "Thu Aug 1 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:12.423Z",
+  "updated_at": "2025-04-18T12:48:01.283Z",
+  "year": 2024,
+  "worst_listing_gains": "99.49%",
+  "worst_listing_gains_numeric": 99.49
+}

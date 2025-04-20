@@ -1,0 +1,507 @@
+{
+  "_id": "680249fd3ccffd1c7912c760",
+  "ipo_id": "2024_gala_precision_engineering_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:23:21.963Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/gala-precision-engineering-ipo/1829/"
+  },
+  "about": {
+    "details": "<p>Incorporated in February 2009, Gala Precision Engineering Limited is a manufacturer of precision components such as disc and strip springs (DSS), coil and spiral springs (CSS), and special fastening solutions (SFS). The company supplies these products to original equipment manufacturers (OEMs).</p>\n<p>The company's products are used in sectors such as electrical, off-highway equipment, infrastructure, and general engineering, as well as in mobility segments such as automotive and railway.</p>\n<p>The company has supplied its technical springs and high tensile fasteners to customers in several countries including Germany, Denmark, China, Italy, Brazil, USA, Sweden, and Switzerland, making it a crucial link in the global supply chain for OEMs.</p>\n<p>The company's business primarily comprises of two divisions:</p>\n<p>(i) the Springs Technology Division manufactures DSS, including Wedge Lock Washers (WLW) and CSS,</p>\n<p>(ii) SFS, producing anchor bolts, studs, and nuts.</p>\n<p>As of March 30, 2024, the company has more than 175 customers in 25 plus countries such as&nbsp;Germany, Denmark, China, Italy, Brazil, USA, Sweden&nbsp;and Switzerland.</p>\n<p>The company has two manufacturing facilities in Wada District, Palghar, Maharashtra, with capabilities to design, develop, and manufacture a diverse product portfolio. Additionally, a new manufacturing facility is being set up in Vallam-Vadagal, SIPCOT, Sriperumbudur, Tamil Nadu, focusing on developing high-tensile fasteners to expand the product portfolio with new products like bolts.</p>\n<p>As of June 30, 2024, the company has 294 permanent employees and 390 contract employees. The permanent workforce includes 182 manufacturing workers, 19 employees for stores and logistics, 19 employees for quality assurance, 14 employees for tool room development and maintenance, and 22 employees for human resources and administration.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Gala Precision Engineering Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "188.69",
+          "170.39",
+          "145.62"
+        ],
+        [
+          "Revenue",
+          "204.38",
+          "167.08",
+          "147.96"
+        ],
+        [
+          "Profit After Tax",
+          "22.33",
+          "24.21",
+          "6.63"
+        ],
+        [
+          "Net Worth",
+          "104.45",
+          "83.66",
+          "59.32"
+        ],
+        [
+          "Reserves and Surplus",
+          "94.67",
+          "81.13",
+          "56.79"
+        ],
+        [
+          "Total Borrowing",
+          "55.03",
+          "58.6",
+          "56.89"
+        ]
+      ]
+    },
+    {
+      "heading": "Gala Precision Engineering Limited Stock Quote & Charts",
+      "sanitizedHeading": "gala_precision_engineering_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "23.59%"
+        ],
+        [
+          "ROCE",
+          "19.91%"
+        ],
+        [
+          "Debt/Equity",
+          "0.53"
+        ],
+        [
+          "RoNW",
+          "21.38%"
+        ],
+        [
+          "PAT Margin",
+          "11.89"
+        ],
+        [
+          "Price to Book Value",
+          "5.12"
+        ]
+      ]
+    },
+    {
+      "heading": "Gala Precision Engineering Limited Stock Quote & Charts",
+      "sanitizedHeading": "gala_precision_engineering_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "22.09",
+          "17.63"
+        ],
+        [
+          "P/E (x)",
+          "23.95",
+          "30.01"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Gala Precision Engineering IPO raises Rs 50.29 crore from anchor investors. Gala Precision Engineering IPO Anchor bid date is August 30 2024. Gala Precision Engineering IPO Anchor Investors list",
+    "list_link": {
+      "text": "Gala Precision Engineering IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/gala-precision-anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "December 3 2024",
+      "shares_offered": "950586",
+      "anchor_portion_size": "50.29"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 2, 2024 to September 4, 2024",
+    "ipoListingDate": "Mon, Sep 9, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹529.00",
+    "lotSize": "28 Shares",
+    "issueSize": "31,74,416 shares (aggregating up to ₹167.93 Cr)",
+    "freshIssue": "25,58,416 shares (aggregating up to ₹135.34 Cr)",
+    "offerForSale": "6,16,000 shares of ₹10 (aggregating up to ₹32.59 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Sep 2, 2024",
+    "ipoCloseDate": "Wed, Sep 4, 2024",
+    "initiationOfRefunds": "Fri, Sep 6, 2024",
+    "creditOfSharesToDemat": "Fri, Sep 6, 2024",
+    "shareHoldingPreIssue": "1,01,11,584 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,01,11,584 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "74.56%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,26,70,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,26,70,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "55.4%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22-6930 9224",
+    "email": "investor.relations@galagroup.com",
+    "full_address": "Gala Precision Engineering Limited, A-801 8th Floor, Thane One DIL Complex Ghodbunder Road Majiwade, Thane (West)-400610",
+    "website": "https://www.galagroup.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.011Z",
+  "faqs": [
+    {
+      "question": "What is the Gala Precision Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>Gala Precision Engineering IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->3174416<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->167.93<!-- --> Crores. The issue is priced at <span>₹529 per share</span>. The minimum order quantity is <!-- -->28<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 2, 2024</b>, and <b>closes on <!-- -->September 4, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Gala Precision Engineering IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Gala Precision Engineering IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Gala Precision Engineering IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Gala Precision Engineering IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Gala Precision Engineering IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Gala Precision Engineering IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Gala Precision Engineering IPO opens on September 2, 2024 and closes on September 4, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Gala Precision Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>Gala Precision Engineering IPO<!-- --> <b>lot size is <!-- -->28</b>, and the <b>minimum amount required is <span>₹14,812</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Gala Precision Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Gala Precision Engineering IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Gala Precision Engineering IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Gala Precision Engineering IPO<!-- --> will be done on <!-- -->Thursday, September 5, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, September 6, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/gala-precision-engineering-ipo/1829/\" title=\"Gala Precision Engineering IPO Allotment Status\">Gala Precision Engineering IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Gala Precision Engineering IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Gala Precision Engineering IPO<!-- --> listing date is on <b>Monday, September 9, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Gala Precision Engineering",
+  "issue_price": "₹529.00",
+  "issue_price_numeric": 529,
+  "issue_size": "31,74,416 shares (aggregating up to ₹167.93 Cr)",
+  "issue_size_numeric": 31,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "PL Capital Markets Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/68/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/68/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "529.00",
+        "nse": "529.00"
+      },
+      "open": {
+        "bse": "750.00",
+        "nse": "721.10"
+      },
+      "low": {
+        "bse": "721.00",
+        "nse": "721.10"
+      },
+      "high": {
+        "bse": "787.45",
+        "nse": "757.15"
+      },
+      "last_trade": {
+        "bse": "787.05",
+        "nse": "757.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 9 2024",
+    "bse_script_code": "544244",
+    "nse_symbol": "GALAPREC",
+    "isin": "INE0RE001014",
+    "final_issue_price": "529 per share"
+  },
+  "listing_date": "2024-09-08T18:30:00.000Z",
+  "listing_gains": "48.78%",
+  "listing_gains_numeric": 48.78,
+  "logo": "https://www.chittorgarh.net/images/ipo/gala_precision_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/gala_precision_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 28 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "28",
+        "amount": "14812"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "364",
+        "amount": "192556"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "392",
+        "amount": "207368"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "1876",
+        "amount": "992404"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "1904",
+        "amount": "1007216"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/gala-precision-engineering-ipo/1829/"
+    }
+  },
+  "lot_size": 28,
+  "opening_date": "2024-09-01T18:30:00.000Z",
+  "pageHeading": "Gala Precision Engineering Limited IPO (Gala Precision Engineering IPO) Detail",
+  "pageTitle": "Gala Precision Engineering IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Kirit Vishanji Gala and Smeet Kirit Gala.",
+    "holdings": {
+      "share_holding_pre_issue": "74.56%",
+      "share_holding_post_issue": "55.4%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Gala Precision Engineering IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/gala-precision-engineering-limited-drhp_81588.html"
+    },
+    {
+      "text": "Gala Precision Engineering IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/gala-precision-engineering-ltd-rhp_86199.html"
+    },
+    {
+      "text": "Anchor Investors in Gala Precision Engineering IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/gala-precision-anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "11",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/gala-precision-engineering-ipo/1829/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "galaprecision.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Gala Precision Engineering IPO offers 3174416 shares. 633724 (19.96%) to QIB 475293 (14.97%) to NII 1109017 (34.94%) to RII 5796 (0.18%) to employees and 950586 (29.95%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "950586 (29.95%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "633724 (19.96%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "475293 (14.97%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "316862 (9.98%)",
+        "maximum_allottees": "808"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "158431 (4.99%)",
+        "maximum_allottees": "404"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1109017 (34.94%)",
+        "maximum_allottees": "39607"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "5796 (0.18%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3174416 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.011Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Gala Precision Engineering IPO is subscribed 201.41 times on September 4 2024 6:19:07 PM (Day 3). The public issue subscribed 91.95 times in the retail category 232.54 times in the QIB category and 414.62 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "232.54",
+        "shares_offered": "633724",
+        "shares_bid_for": "147366856"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "414.62",
+        "shares_offered": "475293",
+        "shares_bid_for": "197067584"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "439.67",
+        "shares_offered": "316862",
+        "shares_bid_for": "139313916"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "364.54",
+        "shares_offered": "158431",
+        "shares_bid_for": "57753668"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "91.95",
+        "shares_offered": "1109017",
+        "shares_bid_for": "101970988"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "258.95",
+        "shares_offered": "5796",
+        "shares_bid_for": "1500856"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "201.41",
+        "shares_offered": "2223830",
+        "shares_bid_for": "447906284"
+      }
+    },
+    "total_applications": "3444648"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 4 2024",
+    "tentative_allotment": "Thu Sep 5 2024",
+    "initiation_of_refunds": "Fri Sep 6 2024",
+    "credit_of_shares_to_demat": "Fri Sep 6 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:49.459Z",
+  "updated_at": "2025-04-18T12:47:57.011Z",
+  "year": 2024,
+  "worst_listing_gains": "48.78%",
+  "worst_listing_gains_numeric": 48.78,
+  "last_performance_update": "2025-04-19T04:43:49.458Z"
+}

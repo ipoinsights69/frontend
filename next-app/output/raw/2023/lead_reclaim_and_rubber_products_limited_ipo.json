@@ -1,0 +1,393 @@
+{
+  "_id": "68028e9d3ccffd1c7912c913",
+  "ipo_id": "2023_lead_reclaim_and_rubber_products_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:35:22.013Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/lead-reclaim-and-rubber-products-ipo/1374/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2012, Lead Reclaim and Rubber Products Limited is in the business of manufacturing reclaimed rubber, crumb rubber powder, and rubber granules.</p>\n<p>The manufacturing unit of the company is situated in Sarali Road Village - Pithai, Taluka- Kathalal, Kheda. The unit is spread over a total land area of approximately 7790 sq. mts with a total install capacity of 5520 metric tons. The manufacturing facility is accredited with ISO 9001:2015 certifications for quality management systems.</p>\n<p>Lead Reclaim focuses highly on:</p>\n<ol>\n<li>Saving valuable natural resources by way of recycling; and</li>\n<li>Helping our customers fulfill their circularity aspirations through the use of our reclaimed rubber products</li>\n</ol>\n<p>The product diversification of the company allows it to fulfill the requirements of varied customers. Their product range varies in grades, thickness, widths, and standards of various grades of whole tyre reclaim rubber, butyl reclaims rubber and natural reclaimed rubber.</p>\n<p>Lead Reclaim and Rubber Products to deliver its offerings to OEMs, Tier I companies in the automotive manufacturing sector, distributors, and dealers.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "532.45",
+          "483.67",
+          "36.36",
+          "17.47",
+          "-2.68",
+          "377.25"
+        ],
+        [
+          "31-Mar-21",
+          "594.88",
+          "706.26",
+          "22.74",
+          "40.20",
+          "20.05",
+          "394.67"
+        ],
+        [
+          "31-Mar-22",
+          "704.32",
+          "1036.93",
+          "47.87",
+          "289.57",
+          "67.92",
+          "269.30"
+        ],
+        [
+          "30-Sep-22",
+          "994.65",
+          "498.99",
+          "35.55",
+          "555.63",
+          "241.78",
+          "271.38"
+        ]
+      ]
+    },
+    {
+      "heading": "Lead Reclaim And Rubber Products Limited Stock Quote & Charts",
+      "sanitizedHeading": "lead_reclaim_and_rubber_products_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "25.77",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 9, 2023 to February 13, 2023",
+    "ipoListingDate": "Tue, Feb 21, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹25.00",
+    "lotSize": "6,000 Shares",
+    "issueSize": "19,50,000 shares (aggregating up to ₹4.88 Cr)",
+    "freshIssue": "19,50,000 shares (aggregating up to ₹4.88 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,02,000 shares",
+      "maker_name": "Svcm Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/359/"
+    },
+    "ipoOpenDate": "Thu, Feb 9, 2023",
+    "ipoCloseDate": "Mon, Feb 13, 2023",
+    "initiationOfRefunds": "Fri, Feb 17, 2023",
+    "creditOfSharesToDemat": "Mon, Feb 20, 2023",
+    "shareHoldingPreIssue": "53,91,675 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "53,91,675 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "86.48%"
+      }
+    ],
+    "shareHoldingPostIssue": "73,41,675 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73,41,675 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "63.51%"
+      }
+    ]
+  },
+  "closing_date": "2023-02-12T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 73590 10333",
+    "email": "info@leadrubber.com",
+    "full_address": "Lead Reclaim and Rubber Products Limited, A/8 Sunvilla Complex Near Chines Hut Hotel, Dahej, Bypass Road",
+    "website": "http://www.leadreclaim.com/"
+  },
+  "createdAt": "2025-04-18T17:40:45.007Z",
+  "faqs": [
+    {
+      "question": "What is the Lead Reclaim and Rubber Products IPO?",
+      "answer": "<div itemprop=\"text\"><p>Lead Reclaim and Rubber Products IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1950000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->4.88<!-- --> Crores. The issue is priced at <span>₹25 per share</span>. The minimum order quantity is <!-- -->6000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 9, 2023</b>, and <b>closes on <!-- -->February 13, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Lead Reclaim and Rubber Products IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Lead Reclaim and Rubber Products IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Lead Reclaim and Rubber Products IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Lead Reclaim and Rubber Products IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Lead Reclaim and Rubber Products IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Lead Reclaim and Rubber Products IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Lead Reclaim and Rubber Products IPO opens on February 9, 2023 and closes on February 13, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Lead Reclaim and Rubber Products IPO?",
+      "answer": "<div itemprop=\"text\"><p>Lead Reclaim and Rubber Products IPO<!-- --> <b>lot size is <!-- -->6000</b>, and the <b>minimum amount required is <span>₹1,50,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Lead Reclaim and Rubber Products IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Lead Reclaim and Rubber Products IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Lead Reclaim and Rubber Products IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Lead Reclaim and Rubber Products IPO<!-- --> will be done on <!-- -->Thursday, February 16, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, February 20, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/lead-reclaim-and-rubber-products-ipo/1374/\" title=\"Lead Reclaim and Rubber Products IPO Allotment Status\">Lead Reclaim and Rubber Products IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Lead Reclaim and Rubber Products IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Lead Reclaim and Rubber Products IPO<!-- --> listing date is on <b>Tuesday, February 21, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Lead Reclaim and Rubber Products",
+  "issue_price": "₹25.00",
+  "issue_price_numeric": 25,
+  "issue_size": "19,50,000 shares (aggregating up to ₹4.88 Cr)",
+  "issue_size_numeric": 19,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fedex Securities Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/144/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/144/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "25.00"
+      },
+      "open": {
+        "nse_sme": "27.50"
+      },
+      "low": {
+        "nse_sme": "27.15"
+      },
+      "high": {
+        "nse_sme": "28.50"
+      },
+      "last_trade": {
+        "nse_sme": "27.65"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "February 21 2023",
+    "nse_symbol": "LRRPL",
+    "isin": "INE0H4B01011",
+    "final_issue_price": "25 per share"
+  },
+  "listing_date": "2023-02-20T18:30:00.000Z",
+  "listing_gains": "10.60%",
+  "listing_gains_numeric": 10.6,
+  "logo": "https://www.chittorgarh.net/images/ipo/lead-reclaim-and-rubber-products-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/lead-reclaim-and-rubber-products-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 6000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "150000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "150000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "12000",
+        "amount": "300000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/lead-reclaim-and-rubber-products-ipo/1374/"
+    }
+  },
+  "lot_size": 6,
+  "opening_date": "2023-02-08T18:30:00.000Z",
+  "pageHeading": "Lead Reclaim and Rubber Products Limited IPO (Lead Reclaim and Rubber Products IPO) Detail",
+  "pageTitle": "Lead Reclaim and Rubber Products IPO Date, Details",
+  "promoterHolding": {
+    "promoters": "Baldevbhai Patel Jayeshkumar Patel Kalpesh Patel Rekhaben Patel Sadhana Patel and Diksha Patel are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "86.48%",
+      "share_holding_post_issue": "63.51%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Lead Reclaim and Rubber Products IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/LeadReclaim_DP.pdf"
+    },
+    {
+      "text": "Lead Reclaim and Rubber Products IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/LeadReclaim_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/lead-reclaim-and-rubber-products-ipo/1374/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Lead Reclaim and Rubber Products IPO offers 1950000 shares. 924000 (47.38%) to NII 924000 (47.38%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "102000 (5.23%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "924000 (47.38%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "924000 (47.38%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1950000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:45.006Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Lead Reclaim and Rubber Products IPO is subscribed 75.98 times on February 13 2023 7:00:00 PM (Day 3). The public issue subscribed 64.41 times in the retail category [.] times in the QIB category and 87.56 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "87.56",
+        "shares_offered": "924000",
+        "shares_bid_for": "80904000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "64.41",
+        "shares_offered": "924000",
+        "shares_bid_for": "59514000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "75.98",
+        "shares_offered": "1848000",
+        "shares_bid_for": "140418000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 13 2023",
+    "tentative_allotment": "Thu Feb 16 2023",
+    "initiation_of_refunds": "Fri Feb 17 2023",
+    "credit_of_shares_to_demat": "Mon Feb 20 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:37.628Z",
+  "updated_at": "2025-04-18T17:40:45.006Z",
+  "year": 2023,
+  "worst_listing_gains": "10.60%",
+  "worst_listing_gains_numeric": 10.6
+}

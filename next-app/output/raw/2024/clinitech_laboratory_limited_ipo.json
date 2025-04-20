@@ -1,0 +1,431 @@
+{
+  "_id": "680249fb3ccffd1c7912c72a",
+  "ipo_id": "2024_clinitech_laboratory_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:26:00.669Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/clinitech-laboratory-ipo/1783/"
+  },
+  "about": {
+    "details": "<p>Founded in 1990, Clinitech Laboratory Limited provides diagnostic and health testing and services.</p>\n<p>The company performs more than 150 tests in its centres, which are divided into different categories: Biochemical Tests, Immunology Tests, Hematology Tests, Molecular Biology Tests, Serology Tests, Microbiology Tests and Histopathology Tests.</p>\n<p>Clinitech Laboratory has eight diagnostic centres around Thane and Navi Mumbai. The company conducts more than 3 lakh tests per year in its NABL (National Accreditation Board for Testing and Calibration Laboratories) accredited laboratories equipped with modern technology and high quality equipment.</p>\n<p>The company's medical testing facilities at Airoli, Navi Mumbai, have been accredited by NABL (National Accreditation Board for Testing and Calibration Laboratories) as per ISO 15189:2012.</p>\n<p>As of May 31, 2024, the company employed 85 people in various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Clinitech Laboratory Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "560.79",
+          "603.33",
+          "368.74",
+          "273.32"
+        ],
+        [
+          "Revenue",
+          "643.92",
+          "636.34",
+          "645.70",
+          "459.63"
+        ],
+        [
+          "Profit After Tax",
+          "37.12",
+          "61.31",
+          "51.26",
+          "40.24"
+        ],
+        [
+          "Net Worth",
+          "354.80",
+          "238.08",
+          "184.81",
+          "139.03"
+        ],
+        [
+          "Reserves and Surplus",
+          "186.80",
+          "88.08",
+          "34.81",
+          "72.37"
+        ],
+        [
+          "Total Borrowing",
+          "86.31",
+          "102.91",
+          "88.61",
+          "53.67"
+        ]
+      ]
+    },
+    {
+      "heading": "Clinitech Laboratory Ltd Stock Quote & Charts",
+      "sanitizedHeading": "clinitech_laboratory_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "Debt/Equity",
+          "0.24"
+        ],
+        [
+          "RoNW",
+          "10.46%"
+        ],
+        [
+          "PAT Margin",
+          "5.76"
+        ],
+        [
+          "Price to Book Value",
+          "4.55"
+        ]
+      ]
+    },
+    {
+      "heading": "Clinitech Laboratory Ltd Stock Quote & Charts",
+      "sanitizedHeading": "clinitech_laboratory_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.21",
+          "1.63"
+        ],
+        [
+          "P/E (x)",
+          "43.45",
+          "59.03"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "July 25, 2024 to July 29, 2024",
+    "ipoListingDate": "Thu, Aug 1, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹96.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "6,02,400 shares (aggregating up to ₹5.78 Cr)",
+    "freshIssue": "6,02,400 shares (aggregating up to ₹5.78 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "31,200 shares",
+      "maker_name": "Svcm Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/359/"
+    },
+    "ipoOpenDate": "Thu, Jul 25, 2024",
+    "ipoCloseDate": "Mon, Jul 29, 2024",
+    "initiationOfRefunds": "Wed, Jul 31, 2024",
+    "creditOfSharesToDemat": "Wed, Jul 31, 2024",
+    "shareHoldingPreIssue": "16,80,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "16,80,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "83.63%"
+      }
+    ],
+    "shareHoldingPostIssue": "22,82,400 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "22,82,400 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "61.56%"
+      }
+    ]
+  },
+  "closing_date": "2024-07-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 27792281",
+    "email": "ipo@clinitechlab.com",
+    "full_address": "Clinitech Laboratory Limited, AL-1/545 Sector 16 Airoli, Opposite Radhikabai Meghe Vidyalaya, Navi Mumbai Thane - 400708",
+    "website": "https://clinitechlab.com/"
+  },
+  "createdAt": "2025-04-18T12:47:55.823Z",
+  "faqs": [
+    {
+      "question": "What is the Clinitech Laboratory IPO?",
+      "answer": "<div itemprop=\"text\"><p>Clinitech Laboratory IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->602400<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->5.78<!-- --> Crores. The issue is priced at <span>₹96 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 25, 2024</b>, and <b>closes on <!-- -->July 29, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Clinitech Laboratory IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Clinitech Laboratory IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Clinitech Laboratory IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Clinitech Laboratory IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Clinitech Laboratory IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Clinitech Laboratory IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Clinitech Laboratory IPO opens on July 25, 2024 and closes on July 29, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Clinitech Laboratory IPO?",
+      "answer": "<div itemprop=\"text\"><p>Clinitech Laboratory IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,15,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Clinitech Laboratory IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Clinitech Laboratory IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Clinitech Laboratory IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Clinitech Laboratory IPO<!-- --> will be done on <!-- -->Tuesday, July 30, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, July 31, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/clinitech-laboratory-ipo/1783/\" title=\"Clinitech Laboratory IPO Allotment Status\">Clinitech Laboratory IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Clinitech Laboratory IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Clinitech Laboratory IPO<!-- --> listing date is on <b>Thursday, August 1, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Clinitech Laboratory",
+  "issue_price": "₹96.00",
+  "issue_price_numeric": 96,
+  "issue_size": "6,02,400 shares (aggregating up to ₹5.78 Cr)",
+  "issue_size_numeric": 6,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Inventure Merchant Banker Services Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/92/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/92/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "96.00"
+      },
+      "open": {
+        "bse_sme": "115.00"
+      },
+      "low": {
+        "bse_sme": "110.00"
+      },
+      "high": {
+        "bse_sme": "120.75"
+      },
+      "last_trade": {
+        "bse_sme": "120.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 1 2024",
+    "bse_script_code": "544220",
+    "isin": "INE0QMR01015",
+    "final_issue_price": "96 per share"
+  },
+  "listing_date": "2024-07-31T18:30:00.000Z",
+  "listing_gains": "25.78%",
+  "listing_gains_numeric": 25.78,
+  "logo": "https://www.chittorgarh.net/images/ipo/clinitech_lab_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/clinitech_lab_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "115200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "115200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "230400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/clinitech-laboratory-ipo/1783/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-07-24T18:30:00.000Z",
+  "pageHeading": "Clinitech Laboratory Limited IPO (Clinitech Laboratory IPO) Detail",
+  "pageTitle": "Clinitech Laboratory IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Jagdish Umakant Nayak Jyoti Jagdish Nayak and Ashutosh Jagdish Nayak are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "83.63%",
+      "share_holding_post_issue": "61.56%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Clinitech Laboratory IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/346378/Clinitech%20Laboratory%20Limited_20240124122515.pdf"
+    },
+    {
+      "text": "Clinitech Laboratory IPO RHP",
+      "url": "https://www.bseindia.com/downloads/ipo/Clinitech%20-%20RHP%20&%20GID_240720241413.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/clinitech-laboratory-ipo/1783/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Clinitech Laboratory IPO offers 602400 shares. 301200 (50.00%) to NII 301200 (50.00%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "31200 (5.18%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "301200 (50.00%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "301200 (50.00%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "602400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:55.823Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Clinitech Laboratory IPO is subscribed 38.96 times on July 29 2024 6:19:07 PM (Day 3). The public issue subscribed 49.61 times in the retail category [.] times in the QIB category and 23.28 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "23.28",
+        "shares_offered": "301200",
+        "shares_bid_for": "7012800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "49.61",
+        "shares_offered": "301200",
+        "shares_bid_for": "14941200"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "38.96",
+        "shares_offered": "571200",
+        "shares_bid_for": "22255200"
+      }
+    },
+    "total_applications": "18408",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 29 2024",
+    "tentative_allotment": "Tue Jul 30 2024",
+    "initiation_of_refunds": "Wed Jul 31 2024",
+    "credit_of_shares_to_demat": "Wed Jul 31 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:42.272Z",
+  "updated_at": "2025-04-18T12:47:55.823Z",
+  "year": 2024,
+  "worst_listing_gains": "25.78%",
+  "worst_listing_gains_numeric": 25.78,
+  "last_performance_update": "2025-04-19T04:43:42.271Z"
+}

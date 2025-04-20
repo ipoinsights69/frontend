@@ -1,0 +1,406 @@
+{
+  "_id": "680291793ccffd1c7912c996",
+  "ipo_id": "2020_burger_king_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:42:13.409Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/burger-king-ipo/1075/"
+  },
+  "about": {
+    "details": "<p>Burger King is the India's fastest growing quick service restaurant chains. It is the second largest fast food burger brand with having 216 Burger-King restaurants and 8 Sub-Franchised Burger King restaurants.</p>\n<p>It has an exclusive right to establish, develop, and operate Burger King branded restaurants in India. It aims to cater to the Indian tastes and preferences through adding new food offerings to its product portfolio. Company establishes its branches in high traffic areas in key metropolitan areas and cities across the country.</p>\n<p><strong>Competitive strengths</strong></p>\n<ul>\n<li>Strong customer value preposition.</li>\n<li>Exclusive franchise rights in India.</li>\n<li>Brand value and customer loyalty.</li>\n<li>Vertically scalable supply chain.</li>\n<li>Experienced and professional management team.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in million)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-20",
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "11771.18",
+          "11977.07",
+          "9204.72",
+          "7303.55"
+        ],
+        [
+          "Total Revenue",
+          "1516.54",
+          "8468.29",
+          "6441.30",
+          "3887.37"
+        ],
+        [
+          "Profit After Tax",
+          "(1189.46)",
+          "(765.70)",
+          "(382.79)",
+          "(822.32)"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 2, 2020 to December 4, 2020",
+    "ipoListingDate": "Mon, Dec 14, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹60.00",
+    "lotSize": "250 Shares",
+    "issueSize": "13,50,00,000 shares (aggregating up to ₹810.00 Cr)",
+    "freshIssue": "7,50,00,000 shares (aggregating up to ₹450.00 Cr)",
+    "offerForSale": "6,00,00,000 shares of ₹10 (aggregating up to ₹360.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Dec 2, 2020",
+    "ipoCloseDate": "Fri, Dec 4, 2020",
+    "initiationOfRefunds": "Thu, Dec 10, 2020",
+    "creditOfSharesToDemat": "Fri, Dec 11, 2020",
+    "shareHoldingPreIssue": "30,66,54,605 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "30,66,54,605 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.39%"
+      }
+    ],
+    "shareHoldingPostIssue": "38,16,54,605 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "38,16,54,605 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "60.08%"
+      }
+    ]
+  },
+  "closing_date": "2020-12-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 2271933047",
+    "email": "investor@burgerking.in",
+    "full_address": "Burger King India Limited, Unit Nos.1003 to 100710thFloor Mittal Commercia, Asan Pada Rd Chimatpada Marol Andheri (E), Mumbai Maharashtra 400 059",
+    "website": "https://www.burgerking.in/"
+  },
+  "createdAt": "2025-04-18T17:52:56.418Z",
+  "faqs": [
+    {
+      "question": "What is the Burger King IPO?",
+      "answer": "<div itemprop=\"text\"><p>Burger King IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->135000000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->810.00<!-- --> Crores. The issue is priced at <span>₹60 per share</span>. The minimum order quantity is <!-- -->250<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 2, 2020</b>, and <b>closes on <!-- -->December 4, 2020</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Burger King IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Burger King IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Burger King IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Burger King IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Burger King IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Burger King IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Burger King IPO opens on December 2, 2020 and closes on December 4, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Burger King IPO?",
+      "answer": "<div itemprop=\"text\"><p>Burger King IPO<!-- --> <b>lot size is <!-- -->250</b>, and the <b>minimum amount required is <span>₹15,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Burger King IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Burger King IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Burger King IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Burger King IPO<!-- --> will be done on <!-- -->Wednesday, December 9, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, December 11, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/burger-king-ipo/1075/\" title=\"Burger King IPO Allotment Status\">Burger King IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Burger King IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Burger King IPO<!-- --> listing date is on <b>Monday, December 14, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Burger King India",
+  "issue_price": "₹60.00",
+  "issue_price_numeric": 60,
+  "issue_size": "13,50,00,000 shares (aggregating up to ₹810.00 Cr)",
+  "issue_size_numeric": 13,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Clsa India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/142/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/142/"
+    },
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "60.00",
+        "nse": "60.00"
+      },
+      "open": {
+        "bse": "115.35",
+        "nse": "112.50"
+      },
+      "low": {
+        "bse": "108.40",
+        "nse": "108.40"
+      },
+      "high": {
+        "bse": "138.40",
+        "nse": "135.00"
+      },
+      "last_trade": {
+        "bse": "138.40",
+        "nse": "135.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 14 2020",
+    "bse_script_code": "543248",
+    "nse_symbol": "RBA",
+    "isin": "INE07T201019",
+    "final_issue_price": "60 per share"
+  },
+  "listing_date": "2020-12-13T18:30:00.000Z",
+  "listing_gains": "130.67%",
+  "listing_gains_numeric": 130.67,
+  "logo": "https://www.chittorgarh.net/images/ipo/burger_king_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/burger_king_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 250 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "250",
+        "amount": "15000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "3250",
+        "amount": "195000"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "3500",
+        "amount": "210000"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "16500",
+        "amount": "990000"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "16750",
+        "amount": "1005000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/burger-king-ipo/1075/"
+    }
+  },
+  "lot_size": 250,
+  "opening_date": "2020-12-01T18:30:00.000Z",
+  "pageHeading": "Burger King India Limited IPO (Burger King IPO) Detail",
+  "pageTitle": "Burger King IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "QSR Asia Pte. Ltd is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "99.39%",
+      "share_holding_post_issue": "60.08%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Burger King IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2019/burger-king-india-limited_44876.html"
+    },
+    {
+      "text": "Burger King IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2020/burger-king-india-ltd-prospectus_48411.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "11",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/burger-king-ipo/1075/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "burgerking.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Burger King IPO offers 74491524 shares. 40423729 (54.27%) to QIB 20440677 (27.44%) to NII 13627118 (18.29%) to RII. 54508 RIIs will receive minimum 250 shares and (sNII) and (bNII) will receive minimum 3500 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "40423729 (54.27%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "20440677 (27.44%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "13627118 (18.29%)",
+        "maximum_allottees": "54508"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "74491524 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:56.417Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Burger King IPO is subscribed 156.65 times on December 4 2020 5:00:08 PM (Day 3). The public issue subscribed 68.15 times in the retail category 86.64 times in the QIB category and 354.11 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "86.64",
+        "shares_offered": "40423729",
+        "shares_bid_for": "3502425750"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "354.11",
+        "shares_offered": "20440677",
+        "shares_bid_for": "7238277000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "68.15",
+        "shares_offered": "13627118",
+        "shares_bid_for": "928670750"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "156.65",
+        "shares_offered": "74491524",
+        "shares_bid_for": "11669373500"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 4 2020",
+    "tentative_allotment": "Wed Dec 9 2020",
+    "initiation_of_refunds": "Thu Dec 10 2020",
+    "credit_of_shares_to_demat": "Fri Dec 11 2020"
+  },
+  "updatedAt": "2025-04-19T04:37:56.610Z",
+  "updated_at": "2025-04-18T17:52:56.417Z",
+  "year": 2020,
+  "worst_listing_gains": "130.67%",
+  "worst_listing_gains_numeric": 130.67
+}

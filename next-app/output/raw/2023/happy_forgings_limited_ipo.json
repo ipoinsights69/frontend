@@ -1,0 +1,501 @@
+{
+  "_id": "68028e9c3ccffd1c7912c8e9",
+  "ipo_id": "2023_happy_forgings_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:26:23.785Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/happy-forgings-ipo/1585/"
+  },
+  "about": {
+    "details": "<p>Incorporated in July 1979, Happy Forgings Limited is an Indian manufacturer specializing in designing and manufacturing heavy forgings and high-precision machined components.</p>\n<p>The company manufactures, designs and tests various products such as crankshafts, front axle carriers, steering knuckles, differential housings, transmission parts, pinion shafts, suspension products and valve bodies for different industries and customers.</p>\n<p>The company's customer base includes AAM India Manufacturing Corporation Private Limited, Ashok Leyland Limited, Bonfiglioli Transmissions Private Limited, Dana India, IBCC Industries (India) Private Limited, International Tractors Limited, JCB India Limited, Liebherr CMCtec India Private Limited, Mahindra &amp; Mahindra Limited, Meritor HVS AB, Meritor Heavy Vehicle Systems Cameri SPA, SML ISUZU Limited, Swaraj Engines Limited and others.</p>\n<p>The company has served customers in various regions including Brazil, Italy, Japan, Spain, Sweden, Thailand, Turkey, the United Kingdom and the United States of America.</p>\n<p>Happy Forging Limited has three manufacturing facilities, two in Kanganwal and one in Dugri, all located in Ludhiana, Punjab. As of FY 2023, the operational revenue of the company has increased by 43.02%.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Happy Forgings Limited Financial Information (Restated Standalone)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1489.80",
+          "1326.17",
+          "1129.87",
+          "876.38"
+        ],
+        [
+          "Revenue",
+          "675.73",
+          "1202.27",
+          "866.11",
+          "590.81"
+        ],
+        [
+          "Profit After Tax",
+          "119.30",
+          "208.70",
+          "142.29",
+          "86.45"
+        ],
+        [
+          "Net Worth",
+          "1103.33",
+          "988.31",
+          "787.62",
+          "645.16"
+        ],
+        [
+          "Reserves and Surplus",
+          "1088.25",
+          "978.66",
+          "769.72",
+          "636.21"
+        ],
+        [
+          "Total Borrowing",
+          "258.97",
+          "218.52",
+          "240.35",
+          "153.47"
+        ]
+      ]
+    },
+    {
+      "heading": "Happy Forgings Limited Stock Quote & Charts",
+      "sanitizedHeading": "happy_forgings_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "21.12%"
+        ],
+        [
+          "ROCE",
+          "24.24%"
+        ],
+        [
+          "RoNW",
+          "21.12%"
+        ]
+      ]
+    },
+    {
+      "heading": "Happy Forgings Limited Stock Quote & Charts",
+      "sanitizedHeading": "happy_forgings_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "23.32",
+          null
+        ],
+        [
+          "P/E (x)",
+          "36.45",
+          "33.56"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Happy Forgings IPO raises Rs 302.58 crore from anchor investors. Happy Forgings IPO Anchor bid date is December 18 2023. Happy Forgings IPO Anchor Investors list",
+    "list_link": {
+      "text": "Happy Forgings IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/happy-forgings-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "March 21 2024",
+      "shares_offered": "3559740",
+      "anchor_portion_size": "302.58"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 19, 2023 to December 21, 2023",
+    "ipoListingDate": "Wed, Dec 27, 2023",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹850.00",
+    "lotSize": "17 Shares",
+    "issueSize": "1,18,65,802 shares (aggregating up to ₹1,008.59 Cr)",
+    "freshIssue": "47,05,882 shares (aggregating up to ₹400.00 Cr)",
+    "offerForSale": "71,59,920 shares of ₹2 (aggregating up to ₹608.59 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Dec 19, 2023",
+    "ipoCloseDate": "Thu, Dec 21, 2023",
+    "initiationOfRefunds": "Tue, Dec 26, 2023",
+    "creditOfSharesToDemat": "Tue, Dec 26, 2023",
+    "shareHoldingPreIssue": "88.24%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "88.24%"
+      }
+    ],
+    "shareHoldingPostIssue": "9,42,04,882 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "9,42,04,882 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "78.60%"
+      }
+    ]
+  },
+  "closing_date": "2023-12-20T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 161 5217162",
+    "email": "complianceofficer@ha ppyforgingsltd.co.in",
+    "full_address": "Happy Forgings Limited, B XXIX 2254/1, Kanganwal Road P.O. Jugiana, Ludhiana – 141 120",
+    "website": "http://www.happyforgingsltd.com/"
+  },
+  "createdAt": "2025-04-18T17:40:44.274Z",
+  "faqs": [
+    {
+      "question": "What is the Happy Forgings IPO?",
+      "answer": "<div itemprop=\"text\"><p>Happy Forgings IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->11865802<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->1,008.59<!-- --> Crores. The issue is priced at <span>₹850 per share</span>. The minimum order quantity is <!-- -->17<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 19, 2023</b>, and <b>closes on <!-- -->December 21, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Happy Forgings IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Happy Forgings IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Happy Forgings IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Happy Forgings IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Happy Forgings IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Happy Forgings IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Happy Forgings IPO opens on December 19, 2023 and closes on December 21, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Happy Forgings IPO?",
+      "answer": "<div itemprop=\"text\"><p>Happy Forgings IPO<!-- --> <b>lot size is <!-- -->17</b>, and the <b>minimum amount required is <span>₹14,450</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Happy Forgings IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Happy Forgings IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Happy Forgings IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Happy Forgings IPO<!-- --> will be done on <!-- -->Friday, December 22, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, December 26, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/happy-forgings-ipo/1585/\" title=\"Happy Forgings IPO Allotment Status\">Happy Forgings IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Happy Forgings IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Happy Forgings IPO<!-- --> listing date is on <b>Wednesday, December 27, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Happy Forgings",
+  "issue_price": "₹850.00",
+  "issue_price_numeric": 850,
+  "issue_size": "1,18,65,802 shares (aggregating up to ₹1,008.59 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Equirus Capital Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/133/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/133/"
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "850.00",
+        "nse": "850.00"
+      },
+      "open": {
+        "bse": "1001.25",
+        "nse": "1000.00"
+      },
+      "low": {
+        "bse": "961.00",
+        "nse": "961.25"
+      },
+      "high": {
+        "bse": "1087.85",
+        "nse": "1087.40"
+      },
+      "last_trade": {
+        "bse": "1029.80",
+        "nse": "1030.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 27 2023",
+    "bse_script_code": "544057",
+    "nse_symbol": "HAPPYFORGE",
+    "isin": "INE330T01021",
+    "final_issue_price": "850 per share"
+  },
+  "listing_date": "2023-12-26T18:30:00.000Z",
+  "listing_gains": "21.15%",
+  "listing_gains_numeric": 21.15,
+  "logo": "https://www.chittorgarh.net/images/ipo/happy-forging-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/happy-forging-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 17 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "17",
+        "amount": "14450"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "221",
+        "amount": "187850"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "238",
+        "amount": "202300"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "1173",
+        "amount": "997050"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "1190",
+        "amount": "1011500"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/happy-forgings-ipo/1585/"
+    }
+  },
+  "lot_size": 17,
+  "opening_date": "2023-12-18T18:30:00.000Z",
+  "pageHeading": "Happy Forgings Limited IPO (Happy Forgings IPO) Detail",
+  "pageTitle": "Happy Forgings IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Paritosh Kumar Ashish Garg Megha Garg Ayush Capital & Financial Services Private Limited Garg Family Trust Paritosh Kumar Garg (HUF) and Ashish Garg & Sons (HUF)",
+    "holdings": {
+      "share_holding_pre_issue": "88.24%",
+      "share_holding_post_issue": "78.60%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Happy Forgings IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2023/happy-forgings-limited-drhp_75380.html"
+    },
+    {
+      "text": "Happy Forgings IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/happy-forgings-limited-rhp_79787.html"
+    },
+    {
+      "text": "Anchor Investors in Happy Forgings IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/happy-forgings-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "14",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/happy-forgings-ipo/1585/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "happyforgings.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Happy Forgings IPO offers 11865801 shares. 2373160 (20.00%) to QIB 1779870 (15.00%) to NII 4153031 (35.00%) to RII and 3559740 (30.00%) to Anchor investors. 244295 RIIs will receive minimum 17 shares and 2492 (sNII) and 4985 (bNII) will receive minimum 238 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "3559740 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2373160 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1779870 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1186580 (10.00%)",
+        "maximum_allottees": "4985"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "593291 (5.00%)",
+        "maximum_allottees": "2492"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4153031 (35.00%)",
+        "maximum_allottees": "244295"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "11865801 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.273Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Happy Forgings IPO is subscribed 82.63 times on December 21 2023 7:02:00 PM (Day 3). The public issue subscribed 15.4 times in the retail category 214.65 times in the QIB category and 63.45 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "214.65",
+        "shares_offered": "2373160",
+        "shares_bid_for": "509404218"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "63.45",
+        "shares_offered": "1779870",
+        "shares_bid_for": "112932598"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "69.87",
+        "shares_offered": "1186580",
+        "shares_bid_for": "82903356"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "50.61",
+        "shares_offered": "593291",
+        "shares_bid_for": "30029242"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "15.4",
+        "shares_offered": "4153031",
+        "shares_bid_for": "63961888"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "82.63",
+        "shares_offered": "8306061",
+        "shares_bid_for": "686298704"
+      }
+    },
+    "total_applications": "3365600"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 21 2023",
+    "tentative_allotment": "Fri Dec 22 2023",
+    "initiation_of_refunds": "Tue Dec 26 2023",
+    "credit_of_shares_to_demat": "Tue Dec 26 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:32.243Z",
+  "updated_at": "2025-04-18T17:40:44.273Z",
+  "year": 2023,
+  "worst_listing_gains": "21.15%",
+  "worst_listing_gains_numeric": 21.15
+}

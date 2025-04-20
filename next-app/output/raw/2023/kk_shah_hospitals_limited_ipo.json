@@ -1,0 +1,412 @@
+{
+  "_id": "68028e9c3ccffd1c7912c908",
+  "ipo_id": "2023_kk_shah_hospitals_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:28:39.620Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/kk-shah-hospitals-ipo/1556/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2022, KK Shah Hospitals Limited, previously known as Jeevan Parv Healthcare Limited, provides inpatient and outpatient healthcare services through its hospital in Ratlam, Madhya Pradesh.</p>\n<p>Dr. Kirti Kumar Shah, one of the promoters of the company, started a clinic in 1976 in Ratlam. Subsequently, a nursing home in 1991 under the name Shah Maternity and Nursing Home. After that, Dr. Kirti Kumar Shah expanded his services by setting up a hospital named Shah Hospital and roped in renowned doctors. In December 2022, KK Shah Hospitals acquired M/s Shah Hospital (formerly known as Shah Maternity and Nursing Home), vide Business Transfer Agreement.</p>\n<p>KK Shah Hospital has over 26 beds for in-patient and out-patient treatment and is equipped with diagnostic devices such as CT scans, DEXA scans, BMD, sonography, and X-ray machines. The company conducted over 75-80 surgeries per month (consisting of over 30 orthopedics, 15 gynecologists, 25 general surgery, 10 dental &amp; other branches) during the FY 2021-22 and also during the period starting from 1st April 2022 to 15th February, 2023 and provided healthcare services to an aggregate of approx. 2,200-2,350 patients per month, consisting of approx. 200-250 Indoor Patients per month and approx. 2000-2100 Outpatient per month. The hospital has recorded a bed occupancy ratio of approx. 27.67% in the month of December 2022 and an average IPD of approx. 7.19 patients per day in the month of December 2022.</p>\n<p>On January 28, 2023, the company entered into an agreement with M/s. Life Care Diet Service to provide food services to its patients and a cafeteria for the attendants in the hospital.</p>\n<p>The company is a member of the Biomedical Waste Management System, Ratlam for the disposal of biomedical waste. It is also certified by the National Accreditation Board for Hospitals and Healthcare Providers (NABH Accredited) as a primary-level small healthcare organization in Madhya Pradesh.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "KK Shah Hospitals Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2023",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "573.32",
+          "561.32"
+        ],
+        [
+          "Revenue",
+          "162.21",
+          "214.11"
+        ],
+        [
+          "Profit After Tax",
+          "9.53",
+          "21.81"
+        ],
+        [
+          "Net Worth",
+          "518.74",
+          "509.21"
+        ],
+        [
+          "Reserves and Surplus",
+          "32.89",
+          "23.36"
+        ],
+        [
+          "Total Borrowing",
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "heading": "Kk Shah Hospitals Ltd Stock Quote & Charts",
+      "sanitizedHeading": "kk_shah_hospitals_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "8.56%"
+        ],
+        [
+          "ROCE",
+          "5.72%"
+        ],
+        [
+          "RoNW",
+          "4.28%"
+        ]
+      ]
+    },
+    {
+      "heading": "Kk Shah Hospitals Ltd Stock Quote & Charts",
+      "sanitizedHeading": "kk_shah_hospitals_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "0.45",
+          null
+        ],
+        [
+          "P/E (x)",
+          "100",
+          "8.04"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "October 27, 2023 to October 31, 2023",
+    "ipoListingDate": "Mon, Nov 6, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹45.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "19,50,000 shares (aggregating up to ₹8.78 Cr)",
+    "freshIssue": "19,50,000 shares (aggregating up to ₹8.78 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "1,02,000 shares",
+      "maker_name": "Rikhav Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/337/"
+    },
+    "ipoOpenDate": "Fri, Oct 27, 2023",
+    "ipoCloseDate": "Tue, Oct 31, 2023",
+    "initiationOfRefunds": "Mon, Nov 6, 2023",
+    "creditOfSharesToDemat": "Mon, Nov 6, 2023",
+    "shareHoldingPreIssue": "48,58,542 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "48,58,542 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "68,08,542 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "68,08,542 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "71.36%"
+      }
+    ]
+  },
+  "closing_date": "2023-10-30T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "07412230199",
+    "email": "info@shahhospitalratlam.com",
+    "full_address": "KK Shah Hospitals Limited, 124 Katju Nagar, Swastik APP., Ratlam-457001",
+    "website": "http://shahhospitalratlam.com/"
+  },
+  "createdAt": "2025-04-18T17:40:44.821Z",
+  "faqs": [
+    {
+      "question": "What is the KK Shah Hospitals IPO?",
+      "answer": "<div itemprop=\"text\"><p>KK Shah Hospitals IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1950000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->8.78<!-- --> Crores. The issue is priced at <span>₹45 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->October 27, 2023</b>, and <b>closes on <!-- -->October 31, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in KK Shah Hospitals IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->KK Shah Hospitals IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->KK Shah Hospitals IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->KK Shah Hospitals IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->KK Shah Hospitals IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When KK Shah Hospitals IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The KK Shah Hospitals IPO opens on October 27, 2023 and closes on October 31, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of KK Shah Hospitals IPO?",
+      "answer": "<div itemprop=\"text\"><p>KK Shah Hospitals IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,35,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for KK Shah Hospitals IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->KK Shah Hospitals IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is KK Shah Hospitals IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->KK Shah Hospitals IPO<!-- --> will be done on <!-- -->Friday, November 3, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, November 6, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/kk-shah-hospitals-ipo/1556/\" title=\"KK Shah Hospitals IPO Allotment Status\">KK Shah Hospitals IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is KK Shah Hospitals IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->KK Shah Hospitals IPO<!-- --> listing date is on <b>Monday, November 6, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "KK Shah Hospitals",
+  "issue_price": "₹45.00",
+  "issue_price_numeric": 45,
+  "issue_size": "19,50,000 shares (aggregating up to ₹8.78 Cr)",
+  "issue_size_numeric": 19,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Shreni Shares Limited",
+      "url": "/report/ipo-lead-manager-review/112/449/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/449/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "45.00"
+      },
+      "open": {
+        "bse_sme": "56.10"
+      },
+      "low": {
+        "bse_sme": "53.30"
+      },
+      "high": {
+        "bse_sme": "58.90"
+      },
+      "last_trade": {
+        "bse_sme": "58.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 6 2023",
+    "bse_script_code": "544013",
+    "isin": "INE0OH401016",
+    "final_issue_price": "45 per share"
+  },
+  "listing_date": "2023-11-05T18:30:00.000Z",
+  "listing_gains": "30.89%",
+  "listing_gains_numeric": 30.89,
+  "logo": "https://www.chittorgarh.net/images/ipo/kk-shah-hospitals-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/kk-shah-hospitals-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "270000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/kk-shah-hospitals-ipo/1556/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2023-10-26T18:30:00.000Z",
+  "pageHeading": "KK Shah Hospitals Limited IPO (KK Shah Hospitals IPO) Detail",
+  "pageTitle": "KK Shah Hospitals IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Dr. Amit Shah and Dr. Kirti Kumar Shah are the Promoters of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "71.36%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "KK Shah Hospitals IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/339129/Draft%20Prospectus_KK%20Shah_20230320201228.pdf"
+    },
+    {
+      "text": "KK Shah Hospitals IPO RHP",
+      "url": "https://www.bsesme.com/download/339129/SME_IPO%20Open/1.%20Prospectus%20KKSHAHHOSPITAL_20231023230521.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/kk-shah-hospitals-ipo/1556/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "KK Shah Hospitals IPO offers 1950000 shares. 924000 (47.38%) to NII 924000 (47.38%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "102000 (5.23%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "924000 (47.38%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "924000 (47.38%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1950000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.821Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The KK Shah Hospitals IPO is subscribed 13.58 times on October 31 2023 7:02:00 PM (Day 3). The public issue subscribed 9.41 times in the retail category [.] times in the QIB category and 17.75 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "17.75",
+        "shares_offered": "924000",
+        "shares_bid_for": "16404000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "9.41",
+        "shares_offered": "924000",
+        "shares_bid_for": "8694000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "13.58",
+        "shares_offered": "1848000",
+        "shares_bid_for": "25098000"
+      }
+    },
+    "total_applications": "3162",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 31 2023",
+    "tentative_allotment": "Fri Nov 3 2023",
+    "initiation_of_refunds": "Mon Nov 6 2023",
+    "credit_of_shares_to_demat": "Mon Nov 6 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:36.207Z",
+  "updated_at": "2025-04-18T17:40:44.821Z",
+  "year": 2023,
+  "worst_listing_gains": "30.89%",
+  "worst_listing_gains_numeric": 30.89
+}

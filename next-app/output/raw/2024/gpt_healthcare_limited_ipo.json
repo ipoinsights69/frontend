@@ -1,0 +1,494 @@
+{
+  "_id": "680249fd3ccffd1c7912c76a",
+  "ipo_id": "2024_gpt_healthcare_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:39:51.609Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/gpt-healthcare-ipo/1655/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1989, GPT Healthcare Limited operates a chain of mid-sized, multi-specialty, full-service hospitals in Eastern India under the ILS Hospitals brand, providing integrated healthcare services focusing on secondary and tertiary care.</p>\n<p>Based in Kolkata, West Bengal, the company offers a range of healthcare services in over 35 specialties and super-specialties, including internal medicine and diabetology, nephrology (including kidney transplant), laparoscopic and general surgery, gynaecology and obstetrics, intensive care, gastroenterology, orthopaedics and joint replacement, interventional cardiology, neurology, neurosurgery, paediatrics, and neonatology. It also offers integrated diagnostic services and pharmacies.</p>\n<p>GPT Healthcare's hospitals are located in four cities, namely</p>\n<ul>\n<li>Salt Lake, Kolkata (West Bengal) with a capacity of 85 beds, including 17 beds in various ICUs and HDUs (as of June 30, 2023)</li>\n<li>Agartala (Tripura) with a capacity of 205 beds (as of June 30, 2023), including 66 beds in various ICUs and HDUs</li>\n<li>Dum Dum, Kolkata (West Bengal) with a capacity of 155 beds, including 53 beds in various ICUs and HDUs as of June 30, 2023</li>\n<li>Howrah (West Bengal) with a capacity of 116 beds, including 43 beds in various ICUs and HDUs, as of June 30, 2023.</li>\n</ul>\n<p>As at June 30, 2023, the company operates four multidisciplinary hospitals with a total capacity of 561 beds, offering a comprehensive range of healthcare services in over 35 specialties and super-specialties.</p>\n<p>As at June 30, 2023, the company had 1,855 employees, 85 full-time consultants, and 465 visiting consultants.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "GPT Healthcare Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "332.09",
+          "326.76",
+          "323.22",
+          "317.21"
+        ],
+        [
+          "Revenue",
+          "206.70",
+          "366.73",
+          "342.40",
+          "248.86"
+        ],
+        [
+          "Profit After Tax",
+          "23.49",
+          "39.01",
+          "41.66",
+          "21.09"
+        ],
+        [
+          "Net Worth",
+          "171.43",
+          "164.14",
+          "156.96",
+          "132.68"
+        ],
+        [
+          "Reserves and Surplus",
+          "92.75",
+          "85.46",
+          "78.28",
+          "75.96"
+        ],
+        [
+          "Total Borrowing",
+          "55.57",
+          "64.67",
+          "95.52",
+          "122.93"
+        ]
+      ]
+    },
+    {
+      "heading": "GPT Healthcare Limited Stock Quote & Charts",
+      "sanitizedHeading": "gpt_healthcare_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "23.59%"
+        ],
+        [
+          "ROCE",
+          "26.09%"
+        ],
+        [
+          "Debt/Equity",
+          "0.39"
+        ],
+        [
+          "RoNW",
+          "23.77%"
+        ],
+        [
+          "Price to Book Value",
+          "9.06"
+        ]
+      ]
+    },
+    {
+      "heading": "GPT Healthcare Limited Stock Quote & Charts",
+      "sanitizedHeading": "gpt_healthcare_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.88",
+          "0.00"
+        ],
+        [
+          "P/E (x)",
+          "38.1",
+          "32.49"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "GPT Healthcare IPO raises Rs 157.54 crore from anchor investors. GPT Healthcare IPO Anchor bid date is February 21 2024. GPT Healthcare IPO Anchor Investors list",
+    "list_link": {
+      "text": "GPT Healthcare IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/gpt-healthcare-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "May 27 2024",
+      "shares_offered": "8469996",
+      "anchor_portion_size": "157.54"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "February 22, 2024 to February 26, 2024",
+    "ipoListingDate": "Thu, Feb 29, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹186.00",
+    "lotSize": "80 Shares",
+    "issueSize": "2,82,33,323 shares (aggregating up to ₹525.14 Cr)",
+    "freshIssue": "21,50,537 shares (aggregating up to ₹40.00 Cr)",
+    "offerForSale": "2,60,82,786 shares of ₹10 (aggregating up to ₹485.14 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Feb 22, 2024",
+    "ipoCloseDate": "Mon, Feb 26, 2024",
+    "initiationOfRefunds": "Wed, Feb 28, 2024",
+    "creditOfSharesToDemat": "Wed, Feb 28, 2024",
+    "shareHoldingPreIssue": "7,99,04,286 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "7,99,04,286 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "67.34%"
+      }
+    ],
+    "shareHoldingPostIssue": "8,20,54,823 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "8,20,54,823 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-02-25T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+ (91) 33 4050 7000",
+    "email": "ghl.cosec@gptgroup.co.in",
+    "full_address": "GPT Healthcare Limited, GPT Centre JC-25, Sector III, Salt Lake",
+    "website": "https://www.gptgroup.co.in"
+  },
+  "createdAt": "2025-04-18T12:47:57.182Z",
+  "faqs": [
+    {
+      "question": "What is the GPT Healthcare IPO?",
+      "answer": "<div itemprop=\"text\"><p>GPT Healthcare IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->28233323<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->525.14<!-- --> Crores. The issue is priced at <span>₹186 per share</span>. The minimum order quantity is <!-- -->80<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 22, 2024</b>, and <b>closes on <!-- -->February 26, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in GPT Healthcare IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->GPT Healthcare IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->GPT Healthcare IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->GPT Healthcare IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->GPT Healthcare IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When GPT Healthcare IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The GPT Healthcare IPO opens on February 22, 2024 and closes on February 26, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of GPT Healthcare IPO?",
+      "answer": "<div itemprop=\"text\"><p>GPT Healthcare IPO<!-- --> <b>lot size is <!-- -->80</b>, and the <b>minimum amount required is <span>₹14,880</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for GPT Healthcare IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->GPT Healthcare IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is GPT Healthcare IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->GPT Healthcare IPO<!-- --> will be done on <!-- -->Tuesday, February 27, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, February 28, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/gpt-healthcare-ipo/1655/\" title=\"GPT Healthcare IPO Allotment Status\">GPT Healthcare IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is GPT Healthcare IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->GPT Healthcare IPO<!-- --> listing date is on <b>Thursday, February 29, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "GPT Healthcare",
+  "issue_price": "₹186.00",
+  "issue_price_numeric": 186,
+  "issue_size": "2,82,33,323 shares (aggregating up to ₹525.14 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "186.00",
+        "nse": "186.00"
+      },
+      "open": {
+        "bse": "216.15",
+        "nse": "215.00"
+      },
+      "low": {
+        "bse": "196.10",
+        "nse": "196.10"
+      },
+      "high": {
+        "bse": "219.70",
+        "nse": "219.90"
+      },
+      "last_trade": {
+        "bse": "200.75",
+        "nse": "200.70"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 29 2024",
+    "bse_script_code": "544131",
+    "nse_symbol": "GPTHEALTH",
+    "isin": "INE486R01017",
+    "final_issue_price": "186 per share"
+  },
+  "listing_date": "2024-02-28T18:30:00.000Z",
+  "listing_gains": "7.93%",
+  "listing_gains_numeric": 7.93,
+  "logo": "https://www.chittorgarh.net/images/ipo/gpt-healthcare-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/gpt-healthcare-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 80 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "80",
+        "amount": "14880"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1040",
+        "amount": "193440"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1120",
+        "amount": "208320"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "5360",
+        "amount": "996960"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "5440",
+        "amount": "1011840"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/gpt-healthcare-ipo/1655/"
+    }
+  },
+  "lot_size": 80,
+  "opening_date": "2024-02-21T18:30:00.000Z",
+  "pageHeading": "GPT Healthcare Limited IPO (GPT Healthcare IPO) Detail",
+  "pageTitle": "GPT Healthcare IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "GPT Sons Private Limited Dwarika Prasad Tantia Dr. Om Tantia and Shree Gopal Tantia are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "67.34%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "GPT Healthcare IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2023/gpt-healthcare-limited-drhp_78170.html"
+    },
+    {
+      "text": "GPT Healthcare IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/gpt-healthcare-limited-rhp_81587.html"
+    },
+    {
+      "text": "Anchor Investors in GPT Healthcare IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/gpt-healthcare-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "6",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/gpt-healthcare-ipo/1655/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "gpthealthcare.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "GPT Healthcare IPO offers 28233323 shares. 5646665 (20.00%) to QIB 4234999 (15.00%) to NII 9881663 (35.00%) to RII and 8469996 (30.00%) to Anchor investors. 123520 RIIs will receive minimum 80 shares and 1260 (sNII) and 2520 (bNII) will receive minimum 1120 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "8469996 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "5646665 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4234999 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2823333 (10.00%)",
+        "maximum_allottees": "2520"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1411667 (5.00%)",
+        "maximum_allottees": "1260"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "9881663 (35.00%)",
+        "maximum_allottees": "123520"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "28233323 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.182Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The GPT Healthcare IPO is subscribed 8.52 times on February 26 2024 6:20:00 PM (Day 3). The public issue subscribed 2.44 times in the retail category 17.3 times in the QIB category and 11.02 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "17.3",
+        "shares_offered": "5646665",
+        "shares_bid_for": "97684000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "11.02",
+        "shares_offered": "4234999",
+        "shares_bid_for": "46654160"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "11.98",
+        "shares_offered": "2823333",
+        "shares_bid_for": "33818720"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "9.09",
+        "shares_offered": "1411667",
+        "shares_bid_for": "12835440"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.44",
+        "shares_offered": "9881663",
+        "shares_bid_for": "24089440"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "8.52",
+        "shares_offered": "19763327",
+        "shares_bid_for": "168427600"
+      }
+    },
+    "total_applications": "258361"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 26 2024",
+    "tentative_allotment": "Tue Feb 27 2024",
+    "initiation_of_refunds": "Wed Feb 28 2024",
+    "credit_of_shares_to_demat": "Wed Feb 28 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:50.818Z",
+  "updated_at": "2025-04-18T12:47:57.182Z",
+  "year": 2024,
+  "worst_listing_gains": "7.93%",
+  "worst_listing_gains_numeric": 7.93,
+  "last_performance_update": "2025-04-19T04:43:50.818Z"
+}

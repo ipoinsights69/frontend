@@ -1,0 +1,418 @@
+{
+  "_id": "680249ff3ccffd1c7912c7c4",
+  "ipo_id": "2024_paramatrix_technologies_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:23:50.787Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/paramatrix-technologies-ipo/1819/"
+  },
+  "about": {
+    "details": "<p>Paramatrix Technologies Limited was founded in 2004 and offers software applications and technology solutions for large and medium-sized companies.</p>\n<p>The company's software applications and technology solutions (accelerators) can be broadly categorized as follows:</p>\n<ul>\n<li>Digital transformation services: Application Development and Maintenance (ADM), Solution Architecture and Design, Enterprise Data Management &amp; Data Analytics, INSIGHT (Accelerator for Analytics, MIS &amp; Reporting), PERFORM (Accelerator for Employee Performance Management), EPPM (Enterprise Framework to manage Allocation and Scheduling of Work), PACE (Middleware Framework for Centralized Control), ITCS (Accelerator for managing Employees Share Trading Compliance), DROANA (Virtual Classroom Platform), EVENTJET (Event log monitoring &amp; Management Solution), BULWARK (Cloud Security Posture Assessment), and PLAYMITY (SaaS-based Gamification Platform).</li>\n<li>Managed services: Application Managed Services, Cyber Security Services, and Cloud &amp; Data Support Services.</li>\n</ul>\n<p>The company's client list includes the BFSI sector, retail, manufacturing, sports, pharma and logistics.</p>\n<p>As of March 31, 2024, the company had 182 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Paramatrix Technologies Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3354.2",
+          "3438.71",
+          "3062.57"
+        ],
+        [
+          "Revenue",
+          "2859.93",
+          "3332.44",
+          "2824.66"
+        ],
+        [
+          "Profit After Tax",
+          "413.17",
+          "707.56",
+          "678.94"
+        ],
+        [
+          "Net Worth",
+          "3030.25",
+          "2996.5",
+          "2464.27"
+        ],
+        [
+          "Reserves and Surplus",
+          "2155.25",
+          "2961.55",
+          "2429.27"
+        ]
+      ]
+    },
+    {
+      "heading": "Paramatrix Technologies Limited Stock Quote & Charts",
+      "sanitizedHeading": "paramatrix_technologies_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "13.63%"
+        ],
+        [
+          "ROCE",
+          "17.29%"
+        ],
+        [
+          "RoNW",
+          "13.69%"
+        ],
+        [
+          "PAT Margin",
+          "11.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Paramatrix Technologies Limited Stock Quote & Charts",
+      "sanitizedHeading": "paramatrix_technologies_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.72",
+          "3.59"
+        ],
+        [
+          "P/E (x)",
+          "23.3",
+          "30.64"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 27, 2024 to August 30, 2024",
+    "ipoListingDate": "Wed, Sep 4, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹110.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "30,76,800 shares (aggregating up to ₹33.84 Cr)",
+    "freshIssue": "27,58,800 shares (aggregating up to ₹30.35 Cr)",
+    "offerForSale": "3,18,000 shares of ₹10 (aggregating up to ₹3.50 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,56,000 shares",
+      "maker_name": "Svcm Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/359/"
+    },
+    "ipoOpenDate": "Tue, Aug 27, 2024",
+    "ipoCloseDate": "Fri, Aug 30, 2024",
+    "initiationOfRefunds": "Tue, Sep 3, 2024",
+    "creditOfSharesToDemat": "Tue, Sep 3, 2024",
+    "shareHoldingPreIssue": "87,50,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "87,50,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "75.46%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,15,08,800 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,15,08,800 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "54.77%"
+      }
+    ]
+  },
+  "closing_date": "2024-08-29T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 4151 8700",
+    "email": "cs@paramatrix.com",
+    "full_address": "Paramatrix Technologies Limited, E-102 1st Floor, Sanpada Railway Station Complex, Sanpada Navi Mumbai - 400705",
+    "website": "https://www.paramatrix.com/"
+  },
+  "createdAt": "2025-04-18T12:47:59.715Z",
+  "faqs": [
+    {
+      "question": "What is the Paramatrix Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Paramatrix Technologies IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3076800<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->33.84<!-- --> Crores. The issue is priced at <span>₹110 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 27, 2024</b>, and <b>closes on <!-- -->August 30, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Paramatrix Technologies IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Paramatrix Technologies IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Paramatrix Technologies IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Paramatrix Technologies IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Paramatrix Technologies IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Paramatrix Technologies IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Paramatrix Technologies IPO opens on August 27, 2024 and closes on August 30, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Paramatrix Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Paramatrix Technologies IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,32,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Paramatrix Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Paramatrix Technologies IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Paramatrix Technologies IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Paramatrix Technologies IPO<!-- --> will be done on <!-- -->Monday, September 2, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, September 3, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/paramatrix-technologies-ipo/1819/\" title=\"Paramatrix Technologies IPO Allotment Status\">Paramatrix Technologies IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Paramatrix Technologies IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Paramatrix Technologies IPO<!-- --> listing date is on <b>Wednesday, September 4, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Paramatrix Technologies",
+  "issue_price": "₹110.00",
+  "issue_price_numeric": 110,
+  "issue_size": "30,76,800 shares (aggregating up to ₹33.84 Cr)",
+  "issue_size_numeric": 30,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Inventure Merchant Banker Services Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/92/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/92/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "110.00"
+      },
+      "open": {
+        "nse_sme": "115.05"
+      },
+      "low": {
+        "nse_sme": "115.05"
+      },
+      "high": {
+        "nse_sme": "120.80"
+      },
+      "last_trade": {
+        "nse_sme": "120.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 4 2024",
+    "nse_symbol": "PARAMATRIX",
+    "isin": "INE0S2W01018",
+    "final_issue_price": "110 per share"
+  },
+  "listing_date": "2024-09-03T18:30:00.000Z",
+  "listing_gains": "9.82%",
+  "listing_gains_numeric": 9.82,
+  "logo": "https://www.chittorgarh.net/images/ipo/paramatrix-technologies-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/paramatrix-technologies-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "132000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "132000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "264000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/paramatrix-technologies-ipo/1819/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-08-26T18:30:00.000Z",
+  "pageHeading": "Paramatrix Technologies Limited IPO (Paramatrix Technologies IPO) Detail",
+  "pageTitle": "Paramatrix Technologies IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mukesh Keshubhai Thumar and Bhavna Mukesh Keshubhai Thumar are the promoters of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "75.46%",
+      "share_holding_post_issue": "54.77%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Paramatrix Technologies IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ParamatrixTechnologiesLimited_DP.zip"
+    },
+    {
+      "text": "Paramatrix Technologies IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_PARAMATRIX.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/paramatrix-technologies-ipo/1819/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Paramatrix Technologies IPO offers 3076800 shares. 1460400 (47.46%) to NII 1460400 (47.46%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "156000 (5.07%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1460400 (47.46%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1460400 (47.46%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3076800 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.714Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Paramatrix Technologies IPO is subscribed 9.21 times on August 30 2024 6:19:58 PM (Day 4). The public issue subscribed 11.86 times in the retail category [.] times in the QIB category and 6.23 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "6.23",
+        "shares_offered": "1460400",
+        "shares_bid_for": "9100800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "11.86",
+        "shares_offered": "1460400",
+        "shares_bid_for": "17318400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "9.21",
+        "shares_offered": "2920800",
+        "shares_bid_for": "26901600"
+      }
+    },
+    "total_applications": "14432",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 30 2024",
+    "tentative_allotment": "Mon Sep 2 2024",
+    "initiation_of_refunds": "Tue Sep 3 2024",
+    "credit_of_shares_to_demat": "Tue Sep 3 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:07.058Z",
+  "updated_at": "2025-04-18T12:47:59.714Z",
+  "year": 2024,
+  "worst_listing_gains": "9.82%",
+  "worst_listing_gains_numeric": 9.82
+}

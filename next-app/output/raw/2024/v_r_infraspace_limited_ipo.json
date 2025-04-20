@@ -1,0 +1,438 @@
+{
+  "_id": "68024a033ccffd1c7912c823",
+  "ipo_id": "2024_v_r_infraspace_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:39:00.383Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/v-r-infraspace-ipo/1666/"
+  },
+  "about": {
+    "details": "<p>Incorporated in December 2015, V R Infraspace Limited is a real estate development company primarily focused on constructing and developing residential and commercial projects in and around Vadodara, Gujarat.</p>\n<p>The company offers a range of luxurious, affordable residential buildings with various types of accommodations. Each building has security systems, sports and recreational facilities, play areas, and electricity backups. The company provides residential and commercial projects under the brand name \"VR\".</p>\n<p>V R Infraspace has completed residential projects named VR Celebrity Luxuria and VR Imperia and a commercial project named VR One Commercial Business Center.</p>\n<p>As of September 30, 2023, the Company reported a Consolidated Total Income of Rs. 732.41 Lakhs and Profit after tax of Rs. 89.54 Lakhs.</p>\n<p>The company's registered office is situated at Vadodara, Gujarat, India</p>\n<p>As of August 31st, 2023, the company has 9 employees at the construction site and registered office, including key management personnel.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "V R Infraspace Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "6117.91",
+          "4328.38",
+          "4920.59",
+          "5479.20"
+        ],
+        [
+          "Revenue",
+          "732.41",
+          "1875.53",
+          "1387.65",
+          "1348.70"
+        ],
+        [
+          "Profit After Tax",
+          "89.54",
+          "262.47",
+          "79.74",
+          "72.04"
+        ],
+        [
+          "Net Worth",
+          "1290.10",
+          "1211.86",
+          "949.39",
+          "869.65"
+        ],
+        [
+          "Reserves and Surplus",
+          "642.10",
+          "563.86",
+          "301.39",
+          "221.65"
+        ],
+        [
+          "Total Borrowing",
+          "661.36",
+          "971.87",
+          "1038.55",
+          "1676.31"
+        ]
+      ]
+    },
+    {
+      "heading": "V R Infraspace Limited Stock Quote & Charts",
+      "sanitizedHeading": "v_r_infraspace_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "7.16%"
+        ],
+        [
+          "ROCE",
+          "6.12%"
+        ],
+        [
+          "Debt/Equity",
+          "0.51"
+        ],
+        [
+          "RoNW",
+          "6.94%"
+        ],
+        [
+          "PAT Margin",
+          "12.33"
+        ],
+        [
+          "Price to Book Value",
+          "6.26"
+        ]
+      ]
+    },
+    {
+      "heading": "V R Infraspace Limited Stock Quote & Charts",
+      "sanitizedHeading": "v_r_infraspace_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.05",
+          "2.02"
+        ],
+        [
+          "P/E (x)",
+          "20.99",
+          "42.15"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 4, 2024 to March 6, 2024",
+    "ipoListingDate": "Tue, Mar 12, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹85.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "24,00,000 shares (aggregating up to ₹20.40 Cr)",
+    "freshIssue": "24,00,000 shares (aggregating up to ₹20.40 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,21,600 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Mon, Mar 4, 2024",
+    "ipoCloseDate": "Wed, Mar 6, 2024",
+    "initiationOfRefunds": "Mon, Mar 11, 2024",
+    "creditOfSharesToDemat": "Mon, Mar 11, 2024",
+    "shareHoldingPreIssue": "64,80,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "64,80,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "88,80,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "88,80,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.97%"
+      }
+    ]
+  },
+  "closing_date": "2024-03-05T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91- 9737118885",
+    "email": "info@vrinfraspace.com",
+    "full_address": "V R Infraspace Limited, National Trade Center N. H. 8, Opp. L &amp; T, Bapod Na",
+    "website": "https://vrinfraspace.in/"
+  },
+  "createdAt": "2025-04-18T12:48:03.328Z",
+  "faqs": [
+    {
+      "question": "What is the V R Infraspace IPO?",
+      "answer": "<div itemprop=\"text\"><p>V R Infraspace IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2400000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->20.40<!-- --> Crores. The issue is priced at <span>₹85 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 4, 2024</b>, and <b>closes on <!-- -->March 6, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in V R Infraspace IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->V R Infraspace IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->V R Infraspace IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->V R Infraspace IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->V R Infraspace IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When V R Infraspace IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The V R Infraspace IPO opens on March 4, 2024 and closes on March 6, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of V R Infraspace IPO?",
+      "answer": "<div itemprop=\"text\"><p>V R Infraspace IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,36,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for V R Infraspace IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->V R Infraspace IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is V R Infraspace IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->V R Infraspace IPO<!-- --> will be done on <!-- -->Thursday, March 7, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, March 11, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/v-r-infraspace-ipo/1666/\" title=\"V R Infraspace IPO Allotment Status\">V R Infraspace IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is V R Infraspace IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->V R Infraspace IPO<!-- --> listing date is on <b>Tuesday, March 12, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "V R Infraspace",
+  "issue_price": "₹85.00",
+  "issue_price_numeric": 85,
+  "issue_size": "24,00,000 shares (aggregating up to ₹20.40 Cr)",
+  "issue_size_numeric": 24,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "85.00"
+      },
+      "open": {
+        "nse_sme": "90.00"
+      },
+      "low": {
+        "nse_sme": "85.50"
+      },
+      "high": {
+        "nse_sme": "91.00"
+      },
+      "last_trade": {
+        "nse_sme": "87.40"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 12 2024",
+    "nse_symbol": "VR",
+    "isin": "INE0QQM01017",
+    "final_issue_price": "85 per share"
+  },
+  "listing_date": "2024-03-11T18:30:00.000Z",
+  "listing_gains": "2.82%",
+  "listing_gains_numeric": 2.82,
+  "logo": "https://www.chittorgarh.net/images/ipo/vr-infraspace-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/vr-infraspace-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "136000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "136000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "272000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/v-r-infraspace-ipo/1666/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-03-03T18:30:00.000Z",
+  "pageHeading": "V R Infraspace Limited IPO (V R Infraspace IPO) Detail",
+  "pageTitle": "V R Infraspace IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Mr. Vipul Devchand Rupareliya and Mrs. Sumitaben Vipulbhai Rupareliya.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "72.97%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "V R Infraspace IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/VRInfraspace_DP.zip"
+    },
+    {
+      "text": "V R Infraspace IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/VRInfra_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "3"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/v-r-infraspace-ipo/1666/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "vrinfraspace.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "V R Infraspace IPO offers 2400000 shares. 1139200 (47.47%) to NII 1139200 (47.47%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "121600 (5.07%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1139200 (47.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1139200 (47.47%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2400000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.328Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The V R Infraspace IPO is subscribed 93.41 times on March 6 2024 6:22:00 PM (Day 3). The public issue subscribed 90.55 times in the retail category [.] times in the QIB category and 85.21 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "85.21",
+        "shares_offered": "1139200",
+        "shares_bid_for": "97068800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "90.55",
+        "shares_offered": "1139200",
+        "shares_bid_for": "103150400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "93.41",
+        "shares_offered": "2278400",
+        "shares_bid_for": "212825600"
+      }
+    },
+    "total_applications": "64469",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 6 2024",
+    "tentative_allotment": "Thu Mar 7 2024",
+    "initiation_of_refunds": "Mon Mar 11 2024",
+    "credit_of_shares_to_demat": "Mon Mar 11 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:19.245Z",
+  "updated_at": "2025-04-18T12:48:03.328Z",
+  "year": 2024,
+  "worst_listing_gains": "2.82%",
+  "worst_listing_gains_numeric": 2.82
+}

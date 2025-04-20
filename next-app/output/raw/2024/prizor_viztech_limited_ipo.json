@@ -1,0 +1,453 @@
+{
+  "_id": "68024a013ccffd1c7912c7dc",
+  "ipo_id": "2024_prizor_viztech_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:27:02.121Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/prizor-viztech-ipo/1773/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2017, Prizor Viztech Limited provides security and surveillance solutions with a wide range of CCTV cameras for retail, government, education, and infrastructure. In 2022, the company expanded its product line to include televisions, touch panels, and monitors, all sold under its brand name and manufactured by third parties. Additionally, the company offers video management software that provides surveillance features to customers on a single monitor and location.</p>\n<p>The company's product portfolio is divided into two main parts:</p>\n<ol>\n<li>Security and Surveillance Solutions, including network cameras, high-definition analogue cameras, network video recorders, and digital video recorders; and</li>\n<li>LED televisions, Monitors &amp; Touch Panels.</li>\n</ol>\n<p>The company has supplied products across 17 states and 2 union territories in India, namely: Andhra Pradesh, Assam, Delhi, Goa, Gujarat, Haryana, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Uttar Pradesh, and West Bengal, as well as the union territories of Andaman and Nicobar Islands and Jammu and Kashmir.</p>\n<div>The company's workshops are accredited with ISO 9001:2015 and ISO 14001:2015. Additionally, the company holds ISO 27001:2013 certification for the 'Information Security Management System Standard,' showcasing our commitment to data security and safeguarding sensitive information.</div>\n<div>As of July 2024, the company has&nbsp;29 permanent employees in various departments.</div>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Prizor Viztech Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2461.80",
+          "862.84",
+          "538.87"
+        ],
+        [
+          "Revenue",
+          "3568.62",
+          "1394.29",
+          "870.47"
+        ],
+        [
+          "Profit After Tax",
+          "557.44",
+          "21.06",
+          "3.60"
+        ],
+        [
+          "Net Worth",
+          "666.20",
+          "108.76",
+          "87.70"
+        ],
+        [
+          "Reserves and Surplus",
+          "586.20",
+          "28.76",
+          "7.70"
+        ],
+        [
+          "Total Borrowing",
+          "964.86",
+          "532.84",
+          "313.28"
+        ]
+      ]
+    },
+    {
+      "heading": "Prizor Viztech Limited Stock Quote & Charts",
+      "sanitizedHeading": "prizor_viztech_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "143.86%"
+        ],
+        [
+          "Debt/Equity",
+          "1.45"
+        ],
+        [
+          "RoNW",
+          "83.67%"
+        ],
+        [
+          "PAT Margin",
+          "15.63"
+        ],
+        [
+          "Price to Book Value",
+          "9.67"
+        ]
+      ]
+    },
+    {
+      "heading": "Prizor Viztech Limited Stock Quote & Charts",
+      "sanitizedHeading": "prizor_viztech_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.15",
+          "5.21"
+        ],
+        [
+          "P/E (x)",
+          "12.17",
+          "16.69"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Prizor Viztech IPO raises Rs 7.09 crore from anchor investors. Prizor Viztech IPO Anchor bid date is July 11 2024. Prizor Viztech IPO Anchor Investors list",
+    "list_link": {
+      "text": "Prizor Viztech IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/prizor_viztech_anchorallocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "October 16 2024",
+      "shares_offered": "814400",
+      "anchor_portion_size": "7.09"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "July 12, 2024 to July 16, 2024",
+    "ipoListingDate": "Mon, Jul 22, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹87.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "28,91,200 shares (aggregating up to ₹25.15 Cr)",
+    "freshIssue": "28,91,200 shares (aggregating up to ₹25.15 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,60,000 shares",
+      "maker_name": "Rikhav Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/337/"
+    },
+    "ipoOpenDate": "Fri, Jul 12, 2024",
+    "ipoCloseDate": "Tue, Jul 16, 2024",
+    "initiationOfRefunds": "Fri, Jul 19, 2024",
+    "creditOfSharesToDemat": "Fri, Jul 19, 2024",
+    "shareHoldingPreIssue": "78,00,003 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "78,00,003 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "93.59%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,06,91,203 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,06,91,203 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "68.28%"
+      }
+    ]
+  },
+  "closing_date": "2024-07-15T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 78618 04737",
+    "email": "investors@prizor.in",
+    "full_address": "Prizor Viztech Limited, 514 Maple Trade Centre Nr., Surdhara Circle, Thaltej Ahmedabad- 380054",
+    "website": "https://www.prizor.in/"
+  },
+  "createdAt": "2025-04-18T12:48:00.858Z",
+  "faqs": [
+    {
+      "question": "What is the Prizor Viztech IPO?",
+      "answer": "<div itemprop=\"text\"><p>Prizor Viztech IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2891200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->25.15<!-- --> Crores. The issue is priced at <span>₹87 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 12, 2024</b>, and <b>closes on <!-- -->July 16, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Prizor Viztech IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Prizor Viztech IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Prizor Viztech IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Prizor Viztech IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Prizor Viztech IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Prizor Viztech IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Prizor Viztech IPO opens on July 12, 2024 and closes on July 16, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Prizor Viztech IPO?",
+      "answer": "<div itemprop=\"text\"><p>Prizor Viztech IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,39,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Prizor Viztech IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Prizor Viztech IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Prizor Viztech IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Prizor Viztech IPO<!-- --> will be done on <!-- -->Thursday, July 18, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, July 19, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/prizor-viztech-ipo/1773/\" title=\"Prizor Viztech IPO Allotment Status\">Prizor Viztech IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Prizor Viztech IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Prizor Viztech IPO<!-- --> listing date is on <b>Monday, July 22, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Prizor Viztech",
+  "issue_price": "₹87.00",
+  "issue_price_numeric": 87,
+  "issue_size": "28,91,200 shares (aggregating up to ₹25.15 Cr)",
+  "issue_size_numeric": 28,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Shreni Shares Limited",
+      "url": "/report/ipo-lead-manager-review/112/449/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/449/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "87.00"
+      },
+      "open": {
+        "nse_sme": "165.30"
+      },
+      "low": {
+        "nse_sme": "165.30"
+      },
+      "high": {
+        "nse_sme": "173.55"
+      },
+      "last_trade": {
+        "nse_sme": "173.55"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "July 22 2024",
+    "nse_symbol": "PRIZOR",
+    "isin": "INE0V9N01017",
+    "final_issue_price": "87 per share"
+  },
+  "listing_date": "2024-07-21T18:30:00.000Z",
+  "listing_gains": "99.48%",
+  "listing_gains_numeric": 99.48,
+  "logo": "https://www.chittorgarh.net/images/ipo/prizor_viztech_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/prizor_viztech_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "139200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "139200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "278400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/prizor-viztech-ipo/1773/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-07-11T18:30:00.000Z",
+  "pageHeading": "Prizor Viztech Limited IPO (Prizor Viztech IPO) Detail",
+  "pageTitle": "Prizor Viztech IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the Company are Ms. Mitali Dasharathbharthi Gauswami and Mr. Gauswami Dasharathbharthi Gopalbharthi",
+    "holdings": {
+      "share_holding_pre_issue": "93.59%",
+      "share_holding_post_issue": "68.28%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Prizor Viztech IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/PrizorViztechLimited_DRHP.zip"
+    },
+    {
+      "text": "Prizor Viztech IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/PrizorViztechLimited_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Prizor Viztech IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/prizor_viztech_anchorallocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/prizor-viztech-ipo/1773/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Prizor Viztech IPO offers 2891200 shares. 544000 (18.82%) to QIB 412800 (14.28%) to NII 960000 (33.20%) to RII and 814400 (28.17%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "814400 (28.17%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "160000 (5.53%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "544000 (18.82%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "412800 (14.28%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "960000 (33.20%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2891200 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:00.857Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Prizor Viztech IPO is subscribed 219.45 times on July 16 2024 6:20:00 PM (Day 3). The public issue subscribed 264.2 times in the retail category 94.54 times in the QIB category and 280 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "94.54",
+        "shares_offered": "544000",
+        "shares_bid_for": "51428800"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "280",
+        "shares_offered": "412800",
+        "shares_bid_for": "115584000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "264.2",
+        "shares_offered": "960000",
+        "shares_bid_for": "253632000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "219.45",
+        "shares_offered": "1916800",
+        "shares_bid_for": "420644800"
+      }
+    },
+    "total_applications": "158520",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 16 2024",
+    "tentative_allotment": "Thu Jul 18 2024",
+    "initiation_of_refunds": "Fri Jul 19 2024",
+    "credit_of_shares_to_demat": "Fri Jul 19 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:10.181Z",
+  "updated_at": "2025-04-18T12:48:00.857Z",
+  "year": 2024,
+  "worst_listing_gains": "99.48%",
+  "worst_listing_gains_numeric": 99.48
+}

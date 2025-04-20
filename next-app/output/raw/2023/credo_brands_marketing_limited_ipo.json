@@ -1,0 +1,499 @@
+{
+  "_id": "68028e9b3ccffd1c7912c8d1",
+  "ipo_id": "2023_credo_brands_marketing_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:26:30.837Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/mufti-ipo/1595/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1999, Credo Brands Marketing Limited offers casual clothing for men with its flagship brand \"Mufti\".</p>\n<p>In 1998, the company's product range consisted only of shirts, T-shirts and trousers. Today, however, the company offers a wide range of products including sweatshirts, jeans, cargos, chinos, jackets, blazers and sweaters. These products are available in different categories, e.g. relaxed casual wear for vacations, authentic everyday wear, urban casual wear, party wear and athleisure.</p>\n<p>The company currently operates 1,773 retail outlets across India (as of May 31, 2023). These include 379 exclusive brand stores (EBOs), 89 large format stores (LFSs) and 1,305 multi-brand stores (MBOs).</p>\n<p>The company's reach extends from major metropolitan areas to Tier 3 cities. As of March 31, 2023, March 31, 2022, and March 31, 2021, the company is present in 582, 598 and 569 cities, respectively.</p>\n<p>As of May 31, 2023, the company's design team consisted of 15 members. They made it possible to create and produce more than 1,348 designs in the 2023 financial year.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Credo Brands Marketing Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "592.38",
+          "574.48",
+          "476.05",
+          "416.99"
+        ],
+        [
+          "Revenue",
+          "119.43",
+          "509.32",
+          "354.84",
+          "261.15"
+        ],
+        [
+          "Profit After Tax",
+          "8.58",
+          "77.51",
+          "35.74",
+          "3.44"
+        ],
+        [
+          "Net Worth",
+          "289.88",
+          "281.35",
+          "235.73",
+          "192.33"
+        ],
+        [
+          "Reserves and Surplus",
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "11.30",
+          "10.08",
+          "13.46",
+          "15.23"
+        ]
+      ]
+    },
+    {
+      "heading": "Credo Brands Marketing Limited Stock Quote & Charts",
+      "sanitizedHeading": "credo_brands_marketing_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "29.98%"
+        ],
+        [
+          "ROCE",
+          "28.16%"
+        ],
+        [
+          "Debt/Equity",
+          "0.65"
+        ],
+        [
+          "RoNW",
+          "29.98%"
+        ]
+      ]
+    },
+    {
+      "heading": "Credo Brands Marketing Limited Stock Quote & Charts",
+      "sanitizedHeading": "credo_brands_marketing_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "0.54",
+          null
+        ],
+        [
+          "P/E (x)",
+          "23.22",
+          "23.23"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Mufti Menswear IPO raises Rs 164.93 crore from anchor investors. Mufti Menswear IPO Anchor bid date is December 18 2023. Mufti Menswear IPO Anchor Investors list",
+    "list_link": {
+      "text": "Mufti Menswear IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/credo-brands-anchor-intimation.pdf"
+    },
+    "details": {
+      "ipo_date": "March 21 2024",
+      "shares_offered": "5890488",
+      "anchor_portion_size": "164.93"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 19, 2023 to December 21, 2023",
+    "ipoListingDate": "Wed, Dec 27, 2023",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹280.00",
+    "lotSize": "53 Shares",
+    "issueSize": "1,96,34,960 shares (aggregating up to ₹549.78 Cr)",
+    "offerForSale": "1,96,34,960 shares of ₹2 (aggregating up to ₹549.78 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Dec 19, 2023",
+    "ipoCloseDate": "Thu, Dec 21, 2023",
+    "initiationOfRefunds": "Tue, Dec 26, 2023",
+    "creditOfSharesToDemat": "Tue, Dec 26, 2023",
+    "shareHoldingPreIssue": "66.66%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "66.66%"
+      }
+    ],
+    "shareHoldingPostIssue": "6,43,01,880 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "6,43,01,880 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "53.66%"
+      }
+    ]
+  },
+  "closing_date": "2023-12-20T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 6141 7200",
+    "email": "investorrelations@mufti.in",
+    "full_address": "Credo Brands Marketing Limited, B-8 MIDC Central Road Marol, Next to MIDC Police Station, Andheri (E) Mumbai - 400093",
+    "website": "https://www.credobrands.in/"
+  },
+  "createdAt": "2025-04-18T17:40:43.631Z",
+  "faqs": [
+    {
+      "question": "What is the Mufti Menswear IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mufti Menswear IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->19634960<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->549.78<!-- --> Crores. The issue is priced at <span>₹280 per share</span>. The minimum order quantity is <!-- -->53<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 19, 2023</b>, and <b>closes on <!-- -->December 21, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Mufti Menswear IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Mufti Menswear IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Mufti Menswear IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Mufti Menswear IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Mufti Menswear IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Mufti Menswear IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Mufti Menswear IPO opens on December 19, 2023 and closes on December 21, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Mufti Menswear IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mufti Menswear IPO<!-- --> <b>lot size is <!-- -->53</b>, and the <b>minimum amount required is <span>₹14,840</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Mufti Menswear IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Mufti Menswear IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Mufti Menswear IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Mufti Menswear IPO<!-- --> will be done on <!-- -->Friday, December 22, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, December 26, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/mufti-ipo/1595/\" title=\"Mufti Menswear IPO Allotment Status\">Mufti Menswear IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Mufti Menswear IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Mufti Menswear IPO<!-- --> listing date is on <b>Wednesday, December 27, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Credo Brands Marketing",
+  "issue_price": "₹280.00",
+  "issue_price_numeric": 280,
+  "issue_size": "1,96,34,960 shares (aggregating up to ₹549.78 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Dam Capital Advisors Ltd",
+      "url": "/report/ipo-lead-manager-review/112/30/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/30/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Keynote Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/24/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/24/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "280.00",
+        "nse": "280.00"
+      },
+      "open": {
+        "bse": "282.00",
+        "nse": "282.35"
+      },
+      "low": {
+        "bse": "262.05",
+        "nse": "261.60"
+      },
+      "high": {
+        "bse": "324.55",
+        "nse": "324.80"
+      },
+      "last_trade": {
+        "bse": "312.50",
+        "nse": "312.20"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 27 2023",
+    "bse_script_code": "544058",
+    "nse_symbol": "MUFTI",
+    "isin": "INE220Q01020",
+    "final_issue_price": "280 per share"
+  },
+  "listing_date": "2023-12-26T18:30:00.000Z",
+  "listing_gains": "11.61%",
+  "listing_gains_numeric": 11.61,
+  "logo": "https://www.chittorgarh.net/images/ipo/mufti_jeans_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/mufti_jeans_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 53 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "53",
+        "amount": "14840"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "689",
+        "amount": "192920"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "742",
+        "amount": "207760"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "3551",
+        "amount": "994280"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "3604",
+        "amount": "1009120"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/mufti-ipo/1595/"
+    }
+  },
+  "lot_size": 53,
+  "opening_date": "2023-12-18T18:30:00.000Z",
+  "pageHeading": "Credo Brands Marketing Limited IPO (Mufti Menswear IPO) Detail",
+  "pageTitle": "Mufti Menswear IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Kamal Khushlani and Poonam Khushlani.",
+    "holdings": {
+      "share_holding_pre_issue": "66.66%",
+      "share_holding_post_issue": "53.66%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Mufti Menswear IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/340655/CBMLDRHP.PDF_20230714134236.pdf"
+    },
+    {
+      "text": "Mufti Menswear IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/credo-brands-marketing-limited-rhp_79859.html"
+    },
+    {
+      "text": "Anchor Investors in Mufti Menswear IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/credo-brands-anchor-intimation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "10",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/mufti-ipo/1595/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "credobrands.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Mufti Menswear IPO offers 19634960 shares. 3926992 (20.00%) to QIB 2945244 (15.00%) to NII 6872236 (35.00%) to RII and 5890488 (30.00%) to Anchor investors. 129664 RIIs will receive minimum 53 shares and 1323 (sNII) and 2646 (bNII) will receive minimum 742 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "5890488 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "3926992 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2945244 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1963496 (10.00%)",
+        "maximum_allottees": "2646"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "981748 (5.00%)",
+        "maximum_allottees": "1323"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "6872236 (35.00%)",
+        "maximum_allottees": "129664"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "19634960 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:43.630Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Mufti Menswear IPO is subscribed 51.85 times on December 21 2023 7:02:00 PM (Day 3). The public issue subscribed 19.94 times in the retail category 104.95 times in the QIB category and 55.52 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "104.95",
+        "shares_offered": "3926992",
+        "shares_bid_for": "412137752"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "55.52",
+        "shares_offered": "2945244",
+        "shares_bid_for": "163506325"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "55.73",
+        "shares_offered": "1963496",
+        "shares_bid_for": "109416751"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "55.1",
+        "shares_offered": "981748",
+        "shares_bid_for": "54089574"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "19.94",
+        "shares_offered": "6872236",
+        "shares_bid_for": "137058530"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "51.85",
+        "shares_offered": "13744472",
+        "shares_bid_for": "712702607"
+      }
+    },
+    "total_applications": "2392774"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 21 2023",
+    "tentative_allotment": "Fri Dec 22 2023",
+    "initiation_of_refunds": "Tue Dec 26 2023",
+    "credit_of_shares_to_demat": "Tue Dec 26 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:29.243Z",
+  "updated_at": "2025-04-18T17:40:43.630Z",
+  "year": 2023,
+  "worst_listing_gains": "11.61%",
+  "worst_listing_gains_numeric": 11.61
+}

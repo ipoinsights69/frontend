@@ -1,0 +1,388 @@
+{
+  "_id": "680293693ccffd1c7912ca6b",
+  "ipo_id": "2022_homesfy_realty_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:54:46.895Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/homesfy-realty-ipo/1356/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2011, Homesfy Realty Limited is <strong>Proptech</strong> engaged in <strong>providing real estate broking services to Real Estate Developers, retail buyers/sellers and investors for residential properties</strong>.</p>\n<p>The company runs its brokerage business in the name of <strong>Homesfy</strong> and is well-partnered with the <a href=\"http://mymagnet.io/\" title=\"mymagnet\" target=\"_blank\">mymagnet.io</a> co-broking platform.</p>\n<p>Homesfy Realty Limited has established and currently maintains a network of 7 offices located in 4 cities, Mumbai, Pune, Noida and Bangalore, which primarily engage in sales, marketing and payment collection activities for the business.</p>\n<p>Homesfy brokerage business is a combination of both offline and online presence and provides real estate broking-related services through the website <a href=\"http://www.homesfy.in/\" title=\"homesfy\" target=\"_blank\">http://www.homesfy.in/</a>, prospect calling, and digital advertisement platform.</p>\n<p>The company operating model is backed by strong expertise in Digital Marketing and Operational efficiency backed by process-driven expertise, technology and automation. As of October 2022, 245 out of 380 employees were in the sales department.</p>\n<p><strong>Strengths:</strong></p>\n<ul>\n\t<li>The company have highly experienced and stable management</li>\n\t<li>The company have long-standing relationships with the largest Developers in India</li>\n\t<li>Efficient Transaction Process</li>\n\t<li>Service Quality</li>\n\t<li>The company have a well-qualified and highly motivated workforce</li>\n\t<li>The company have established a wide network of offices to support and augment our sales and client management</li>\n\t<li>The company have the technological expertise for the improvement and development of a product portfolio</li>\n\t<li>Growth through a combination of acquisitions and organic growth</li>\n\t<li>Visit for an extensive set of information about the company: <a href=\"https://www.homesfy.in/investor_corner\" title=\"homesfy investor corner\" target=\"_blank\">https://www.homesfy.in/investor_corner</a></li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "793.63",
+          "1193.1",
+          "91.35",
+          "427.89",
+          "0"
+        ],
+        [
+          "31-Mar-21",
+          "1224.23",
+          "1475.92",
+          "199.14",
+          "627.04",
+          "0"
+        ],
+        [
+          "31-Mar-22",
+          "1718.99",
+          "3039.93",
+          "318.41",
+          "945.45",
+          "22.32"
+        ],
+        [
+          "30-Jun-22",
+          "1948.61",
+          "1239.34",
+          "138.51",
+          "1083.96",
+          "21.36"
+        ]
+      ]
+    },
+    {
+      "heading": "Homesfy Realty Limited Stock Quote & Charts",
+      "sanitizedHeading": "homesfy_realty_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "10.87",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 21, 2022 to December 23, 2022",
+    "ipoListingDate": "Mon, Jan 2, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹197.00",
+    "lotSize": "600 Shares",
+    "issueSize": "8,05,200 shares (aggregating up to ₹15.86 Cr)",
+    "freshIssue": "8,05,200 shares (aggregating up to ₹15.86 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "40,800 shares",
+      "maker_name": "Rikhav Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/337/"
+    },
+    "ipoOpenDate": "Wed, Dec 21, 2022",
+    "ipoCloseDate": "Fri, Dec 23, 2022",
+    "initiationOfRefunds": "Thu, Dec 29, 2022",
+    "creditOfSharesToDemat": "Fri, Dec 30, 2022",
+    "shareHoldingPreIssue": "22,50,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "22,50,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "71.69%"
+      }
+    ],
+    "shareHoldingPostIssue": "30,55,200 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "30,55,200 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "52.80%"
+      }
+    ]
+  },
+  "closing_date": "2022-12-22T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 4971 0264",
+    "email": "cs@homesfy.in",
+    "full_address": "Homesfy Realty Limited, 1602 16th Floor, Dev Corpora Near Cadbury Junction, Thane-400601 Maharashtra",
+    "website": "https://www.homesfy.in/"
+  },
+  "createdAt": "2025-04-18T18:01:13.228Z",
+  "faqs": [
+    {
+      "question": "What is the Homesfy Realty IPO?",
+      "answer": "<div itemprop=\"text\"><p>Homesfy Realty IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->805200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->15.86<!-- --> Crores. The issue is priced at <span>₹197 per share</span>. The minimum order quantity is <!-- -->600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 21, 2022</b>, and <b>closes on <!-- -->December 23, 2022</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Homesfy Realty IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Homesfy Realty IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Homesfy Realty IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Homesfy Realty IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Homesfy Realty IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Homesfy Realty IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Homesfy Realty IPO opens on December 21, 2022 and closes on December 23, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Homesfy Realty IPO?",
+      "answer": "<div itemprop=\"text\"><p>Homesfy Realty IPO<!-- --> <b>lot size is <!-- -->600</b>, and the <b>minimum amount required is <span>₹1,18,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Homesfy Realty IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Homesfy Realty IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Homesfy Realty IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Homesfy Realty IPO<!-- --> will be done on <!-- -->Wednesday, December 28, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, December 30, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/homesfy-realty-ipo/1356/\" title=\"Homesfy Realty IPO Allotment Status\">Homesfy Realty IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Homesfy Realty IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Homesfy Realty IPO<!-- --> listing date is on <b>Monday, January 2, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Homesfy Realty",
+  "issue_price": "₹197.00",
+  "issue_price_numeric": 197,
+  "issue_size": "8,05,200 shares (aggregating up to ₹15.86 Cr)",
+  "issue_size_numeric": 8,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Sarthi Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/104/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/104/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "197.00"
+      },
+      "open": {
+        "nse_sme": "275.05"
+      },
+      "low": {
+        "nse_sme": "263.00"
+      },
+      "high": {
+        "nse_sme": "288.80"
+      },
+      "last_trade": {
+        "nse_sme": "287.95"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "January 2 2023",
+    "nse_symbol": "HOMESFY",
+    "isin": "INE0N7F01017",
+    "final_issue_price": "197 per share"
+  },
+  "listing_date": "2023-01-01T18:30:00.000Z",
+  "listing_gains": "46.17%",
+  "listing_gains_numeric": 46.17,
+  "logo": "https://www.chittorgarh.net/images/ipo/homesfy-realty-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/homesfy-realty-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "118200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "118200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "1200",
+        "amount": "236400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/homesfy-realty-ipo/1356/"
+    }
+  },
+  "lot_size": 600,
+  "opening_date": "2022-12-20T18:30:00.000Z",
+  "pageHeading": "Homesfy Realty Limited IPO (Homesfy Realty IPO) Detail",
+  "pageTitle": "Homesfy Realty IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Ashish Kukreja is the company promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "71.69%",
+      "share_holding_post_issue": "52.80%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Homesfy Realty IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Homesfy_DP.pdf"
+    },
+    {
+      "text": "Homesfy Realty IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/homesfy-realty-limited-sme-issue-prospectus_66372.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/homesfy-realty-ipo/1356/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Homesfy Realty IPO offers 805200 shares. 382200 (47.47%) to NII 382200 (47.47%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "40800 (5.07%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "382200 (47.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "382200 (47.47%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "805200 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:13.228Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Homesfy Realty IPO is subscribed 21.69 times on December 23 2022 7:00:00 PM (Day 3). The public issue subscribed 16.55 times in the retail category [.] times in the QIB category and 26.82 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "26.82",
+        "shares_offered": "382200",
+        "shares_bid_for": "10251600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "16.55",
+        "shares_offered": "382200",
+        "shares_bid_for": "6326400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "21.69",
+        "shares_offered": "764400",
+        "shares_bid_for": "16578000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 23 2022",
+    "tentative_allotment": "Wed Dec 28 2022",
+    "initiation_of_refunds": "Thu Dec 29 2022",
+    "credit_of_shares_to_demat": "Fri Dec 30 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:26.217Z",
+  "updated_at": "2025-04-18T18:01:13.228Z",
+  "year": 2022,
+  "worst_listing_gains": "46.17%",
+  "worst_listing_gains_numeric": 46.17
+}

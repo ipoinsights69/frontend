@@ -1,0 +1,319 @@
+{
+  "_id": "6802917c3ccffd1c7912c9b9",
+  "ipo_id": "2020_unknown",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": false,
+      "listingDayTrading": false,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:43:54.861Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/iti-fpo/1034/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1950, Indian Telephone Industries Limited (ITI) is a Bengaluru based public sector company operating under the department of telecommunications. It has customers from diverse industries including defence, banks, telecommunications, financial institutions, information technology, and solar energy. The company has a wide product range; some of them are manufactured by in-house manufacturing units and some with other technology partners.</p><p>The product portfolio of the company includes optical and data network products, defence security encryption products, passive infrastructure products, multi-capacity encryption units, set-top boxes, smart energy meters, smart cards, and mini personal computers. Apart from this, the company also provides operation and maintenance of base transceiver stations (BTS), Aadhaar authentication services, National Population Register (NPR), annual maintenance contracts (AMC), and data centre hosting solutions.</p><p>Some of the famous Public Sector Units (PSUs) such as Bharat Broadband Network Limited (BBNL), Energy Efficiency Services Limited (EESL), Ministry of Rural Development (MORD), and Bharat Sanchar Nigam Limited (BSNL) are the customers of ITI Ltd. The company is also engaged in some government projects such as ASCON, BharatNet, Smart Energy Meters, and E-Governance Projects.</p><p>ITI Ltd has 5 manufacturing units located at Mankapur, Bengaluru, Palakkad, Naini and Raebareli. It also has an R&amp;D center in Bengaluru. As on August 31, 2018, it had 3,427 employees.</p><p><b>Competitive Strengths</b><br>1. Diverse product and services range<br>2. Projects with major clients<br>3. Modernised technology, equipment and infrastructure</p><p></p><div class=\"row\">\t<div id=\"dvStockQuotes\"></div>\t<script>\t\t$(document).ready(function(){\t\t\t$('#dvStockQuotes').load('/newportal/stock_quotes_gadget.asp?a=523610&b=ITI .div_stock_quotes', '', function(response, status, xhr) {\t\t\tif (status == 'error') {\t\t\t\tvar msg = \"Sorry but there was an error: \";\t\t\t\t$(\".content\").html(msg + xhr.status + \" \" + xhr.statusText);\t\t\t\t}\t\t\t\t});\t\t\t});\t</script></div><p></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15"
+        ],
+        [
+          "Total Assets",
+          "47057.38",
+          "32048.94",
+          "35230.86",
+          "30248.47"
+        ],
+        [
+          "Total Revenue",
+          "18116.17",
+          "20887.16",
+          "17903.11",
+          "6640.29"
+        ],
+        [
+          "Profit After Tax",
+          "2305.64",
+          "2663.91",
+          "2372.18",
+          "(2979.95)"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "January 24, 2020 to February 5, 2020",
+    "ipoListingDate": "Wed, Feb 5, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹71 to ₹77 per share",
+    "lotSize": "150 Shares",
+    "issueSize": "18,18,00,000 shares (aggregating up to ₹1,399.86 Cr)",
+    "freshIssue": "18,00,00,000 shares (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding FPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Jan 24, 2020",
+    "ipoCloseDate": "Wed, Feb 5, 2020",
+    "initiationOfRefunds": "Mon, Feb 3, 2020",
+    "creditOfSharesToDemat": "Tue, Feb 4, 2020",
+    "shareHoldingPreIssue": "89.97%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "89.97%"
+      }
+    ],
+    "shareHoldingPostIssue": "74.83%",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "74.83%"
+      }
+    ]
+  },
+  "closing_date": "2020-02-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 80 2561 7486",
+    "email": "cosecy_crp@itiltd.co.in",
+    "full_address": "ITI Ltd, ITI Bhavan, Doorvaninagar, Bengaluru 560 016",
+    "website": "http://www.itiltd.in/"
+  },
+  "createdAt": "2025-04-18T17:53:00.340Z",
+  "faqs": [
+    {
+      "question": "What is the ITI FPO?",
+      "answer": "<div itemprop=\"text\"><p>ITI FPO<!-- --> is a <b>main-board<!-- --> <!-- -->FPO<!-- --> of <!-- -->181800000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->1,399.86<!-- --> Crores. The issue is priced at <span>₹71 to ₹77 per share</span>. The minimum order quantity is <!-- -->150<!-- -->.</p><p>The <!-- -->FPO<!-- --> <b>opens on <!-- -->January 24, 2020</b>, and <b>closes on <!-- -->February 5, 2020</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->FPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in ITI FPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->ITI FPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->ITI FPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->ITI FPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->ITI FPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When ITI FPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The ITI FPO opens on January 24, 2020 and closes on February 5, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of ITI FPO?",
+      "answer": "<div itemprop=\"text\"><p>ITI FPO<!-- --> <b>lot size is <!-- -->150</b>, and the <b>minimum amount required is <span>₹11,550</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for ITI FPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->ITI FPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is ITI FPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->ITI FPO<!-- --> will be done on <!-- -->Friday, January 31, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, February 4, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/iti-fpo/1034/\" title=\"ITI FPO Allotment Status\">ITI FPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is ITI FPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->ITI FPO<!-- --> listing date is not yet announced. The <b>tentative date of <!-- -->ITI FPO<!-- --> listing is <!-- -->Wednesday, February 5, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "ITI Ltd FPO (ITI FPO) Detail",
+  "issue_price": "₹71 to ₹77 per share",
+  "issue_price_numeric": 71,
+  "issue_size": "18,18,00,000 shares (aggregating up to ₹1,399.86 Cr)",
+  "issue_size_numeric": 18,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Bob Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/48/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/48/"
+    },
+    {
+      "name": "Karvy Investor Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/51/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/51/"
+    },
+    {
+      "name": "Pnb Investment Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/89/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/89/"
+    }
+  ],
+  "listing_date": "2020-02-04T18:30:00.000Z",
+  "logo": "https://www.chittorgarh.net/images/ipo/iti_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/iti_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 150 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "150",
+        "amount": "11550"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "17",
+        "shares": "2550",
+        "amount": "196350"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "18",
+        "shares": "2700",
+        "amount": "207900"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "86",
+        "shares": "12900",
+        "amount": "993300"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "87",
+        "shares": "13050",
+        "amount": "1004850"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/iti-fpo/1034/"
+    }
+  },
+  "lot_size": 150,
+  "opening_date": "2020-01-23T18:30:00.000Z",
+  "pageHeading": "ITI Ltd FPO (ITI FPO) Detail",
+  "pageTitle": "ITI FPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The President of India acting through the Department of Telecommunications Ministry of Communications Government of India is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "89.97%",
+      "share_holding_post_issue": "74.83%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "ITI FPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/2018928173930ITI_DRHP.pdf"
+    },
+    {
+      "text": "ITI FPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2020/iti-limited_45729.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/iti-fpo/1034/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "itiltd.fpo@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "ITI FPO offers 181800000 shares. 135000000 (74.26%) to QIB 27000000 (14.85%) to NII 18000000 (9.90%) to RII 1800000 (0.99%) to employees. 120000 RIIs will receive minimum 150 shares and (sNII) and (bNII) will receive minimum 2700 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "135000000 (74.26%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "27000000 (14.85%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "18000000 (9.90%)",
+        "maximum_allottees": "120000"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "1800000 (0.99%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "181800000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:00.339Z",
+  "source_url": "",
+  "status": "listed",
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 5 2020",
+    "tentative_allotment": "Fri Jan 31 2020",
+    "initiation_of_refunds": "Mon Feb 3 2020",
+    "credit_of_shares_to_demat": "Tue Feb 4 2020"
+  },
+  "updatedAt": "2025-04-18T17:53:00.340Z",
+  "updated_at": "2025-04-18T17:53:00.339Z",
+  "year": 2020
+}

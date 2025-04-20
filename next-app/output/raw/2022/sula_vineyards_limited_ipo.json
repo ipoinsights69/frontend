@@ -1,0 +1,453 @@
+{
+  "_id": "6802936c3ccffd1c7912cab7",
+  "ipo_id": "2022_sula_vineyards_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:55:15.071Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sula-vineyards-ipo/1345/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2003, Sula Vineyards Limited is the <strong>India's largest wine producer and seller as of March 31, 2022</strong>. The company also distribute wines under a bouquet of popular brands including \"RASA,\" \"Dindori\", \"The source,\" \"Satori\", \"Madera\" &amp; \"Dia\" with its <strong>flagship brand \"Sula\" being the \"category creator\" of wine in India.</strong></p>\n<p>The company's business is broadly classified under two categories (i) the production of wine, the import of wines and spirits, and the distribution of wines and spirits (<strong>the \"Wine Business\"</strong>); and (ii) the sale of services from ownership and operation of wine tourism venues, including vineyard resorts and tasting rooms (<strong>the \"Wine Tourism Business</strong>\")</p>\n<p>Currently, the company produces 56 different labels of wine at four owned and two leased production facilities located in the Indian states of Maharashtra and Karnataka.</p>\n<p>The company have managed to build the largest distribution network among wine companies in India, with close to 13,000 retail touchpoints across the country in 2021.</p>\n<p>The company also have a strong direct-to-consumer (\"D2C\") selling channel primarily through the Wine Tourism Business facilities in Nashik and Bengaluru. Sula Vineyards Limited had entered into long-term supply arrangements (of up to 12 years) with grape growers for approximately 2,290 acres as of September 30, 2022.</p>\n<p>The company's distribution platform included over 50 distributors, 11 corporations, 14 licensed resellers, 7 company depots, and 3 defence units as of September 30, 2022. The company also has over 23,000 points of sale (including over 13,500 retail touchpoints and over 9,000 hotels, restaurants and caterers) as of March 31, 2022.</p>\n<p>As of September 30, 2022, the company had a sales force of 141 permanent employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "831.04",
+          "523.21",
+          "-15.94",
+          "299.95",
+          "368.24"
+        ],
+        [
+          "31-Mar-21",
+          "751.6",
+          "421.53",
+          "3.01",
+          "304.74",
+          "301.26"
+        ],
+        [
+          "30-Sep-21",
+          "717.55",
+          "160.46",
+          "4.53",
+          "344.32",
+          "262.45"
+        ],
+        [
+          "31-Mar-22",
+          "758.56",
+          "456.7",
+          "52.14",
+          "395.26",
+          "228.93"
+        ],
+        [
+          "30-Sep-22",
+          "770.95",
+          "225.76",
+          "30.51",
+          "449.18",
+          "214.64"
+        ]
+      ]
+    },
+    {
+      "heading": "Sula Vineyards Limited Stock Quote & Charts",
+      "sanitizedHeading": "sula_vineyards_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "49.24",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 12, 2022 to December 14, 2022",
+    "ipoListingDate": "Thu, Dec 22, 2022",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹357.00",
+    "lotSize": "42 Shares",
+    "issueSize": "2,69,00,530 shares (aggregating up to ₹960.35 Cr)",
+    "offerForSale": "2,69,00,530 shares of ₹2 (aggregating up to ₹960.35 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Dec 12, 2022",
+    "ipoCloseDate": "Wed, Dec 14, 2022",
+    "initiationOfRefunds": "Tue, Dec 20, 2022",
+    "creditOfSharesToDemat": "Wed, Dec 21, 2022",
+    "shareHoldingPreIssue": "8,41,98,748 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "8,41,98,748 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "28.44%"
+      }
+    ],
+    "shareHoldingPostIssue": "8,41,98,748 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "8,41,98,748 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "27.33%"
+      }
+    ]
+  },
+  "closing_date": "2022-12-13T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 6128 0606",
+    "email": "cs@sulawines.com",
+    "full_address": "Sula Vineyards Limited, 901 Hubtown Solaris, N.S. Phadke Marg, Andheri (East) Mumbai 400 069 Maharashtra",
+    "website": "https://www.sulavineyards.com/"
+  },
+  "createdAt": "2025-04-18T18:01:16.181Z",
+  "faqs": [
+    {
+      "question": "What is the Sula Vineyards IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sula Vineyards IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->26900530<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->960.35<!-- --> Crores. The issue is priced at <span>₹357 per share</span>. The minimum order quantity is <!-- -->42<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 12, 2022</b>, and <b>closes on <!-- -->December 14, 2022</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sula Vineyards IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sula Vineyards IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sula Vineyards IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sula Vineyards IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sula Vineyards IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sula Vineyards IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sula Vineyards IPO opens on December 12, 2022 and closes on December 14, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sula Vineyards IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sula Vineyards IPO<!-- --> <b>lot size is <!-- -->42</b>, and the <b>minimum amount required is <span>₹14,994</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sula Vineyards IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sula Vineyards IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sula Vineyards IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sula Vineyards IPO<!-- --> will be done on <!-- -->Monday, December 19, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, December 21, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/sula-vineyards-ipo/1345/\" title=\"Sula Vineyards IPO Allotment Status\">Sula Vineyards IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sula Vineyards IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sula Vineyards IPO<!-- --> listing date is on <b>Thursday, December 22, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sula Vineyards",
+  "issue_price": "₹357.00",
+  "issue_price_numeric": 357,
+  "issue_size": "2,69,00,530 shares (aggregating up to ₹960.35 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Clsa India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/142/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/142/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "357.00"
+      },
+      "open": {
+        "bse": "358.00"
+      },
+      "low": {
+        "bse": "328.60"
+      },
+      "high": {
+        "bse": "363.40"
+      },
+      "last_trade": {
+        "bse": "331.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 22 2022",
+    "bse_script_code": "543711",
+    "nse_symbol": "SULA",
+    "isin": "INE142Q01026",
+    "final_issue_price": "357 per share"
+  },
+  "listing_date": "2022-12-21T18:30:00.000Z",
+  "listing_gains": "-7.24%",
+  "listing_gains_numeric": -7.24,
+  "logo": "https://www.chittorgarh.net/images/ipo/sula-vineyards-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sula-vineyards-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 42 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "42",
+        "amount": "14994"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "546",
+        "amount": "194922"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "588",
+        "amount": "209916"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "2772",
+        "amount": "989604"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "2814",
+        "amount": "1004598"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sula-vineyards-ipo/1345/"
+    }
+  },
+  "lot_size": 42,
+  "opening_date": "2022-12-11T18:30:00.000Z",
+  "pageHeading": "Sula Vineyards Limited IPO (Sula Vineyards IPO) Detail",
+  "pageTitle": "Sula Vineyards IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Rajeev Samant is the company promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "28.44%",
+      "share_holding_post_issue": "27.33%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sula Vineyards IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/sula-vineyards-limited-prospectus_66248.html"
+    },
+    {
+      "text": "Sula Vineyards IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2022/sula-vineyards-limited_60878.html"
+    },
+    {
+      "text": "Anchor Investors in Sula Vineyards IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20221209-50&attachedId=71c8b5c3-881b-4969-b133-f8e15c3ca430"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "11",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "6",
+        "neutral": "5",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sula-vineyards-ipo/1345/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Sula Vineyards IPO offers 18830372 shares. 5380106 (28.57%) to QIB 4035080 (21.43%) to NII 9415186 (50.00%) to RII. 224171 RIIs will receive minimum 42 shares and 2287 (sNII) and 4574 (bNII) will receive minimum 588 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "5380106 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4035080 (21.43%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2690053 (14.29%)",
+        "maximum_allottees": "4574"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1345027 (7.14%)",
+        "maximum_allottees": "2287"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "9415186 (50.00%)",
+        "maximum_allottees": "224171"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "18830372 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:16.181Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sula Vineyards IPO is subscribed 2.33 times on December 14 2022 7:00:00 PM (Day 3). The public issue subscribed 1.65 times in the retail category 4.13 times in the QIB category and 1.51 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "4.13",
+        "shares_offered": "5380106",
+        "shares_bid_for": "22240512"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.51",
+        "shares_offered": "4035080",
+        "shares_bid_for": "6088446"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "1.69",
+        "shares_offered": "2690053",
+        "shares_bid_for": "4539066"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "1.15",
+        "shares_offered": "1345027",
+        "shares_bid_for": "1549380"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.65",
+        "shares_offered": "9415186",
+        "shares_bid_for": "15507996"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.33",
+        "shares_offered": "18830372",
+        "shares_bid_for": "43836954"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 14 2022",
+    "tentative_allotment": "Mon Dec 19 2022",
+    "initiation_of_refunds": "Tue Dec 20 2022",
+    "credit_of_shares_to_demat": "Wed Dec 21 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:36.330Z",
+  "updated_at": "2025-04-18T18:01:16.181Z",
+  "year": 2022,
+  "worst_listing_gains": "-7.24%",
+  "worst_listing_gains_numeric": -7.24
+}

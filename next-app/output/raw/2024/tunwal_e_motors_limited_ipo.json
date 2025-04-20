@@ -1,0 +1,426 @@
+{
+  "_id": "68024a033ccffd1c7912c819",
+  "ipo_id": "2024_tunwal_e_motors_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:26:51.456Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/tunwal-e-motors-ipo/1775/"
+  },
+  "about": {
+    "details": "<p>Incorporated in December 2018, Tunwal E-Motors Limited is an electric vehicle (EV) manufacturing company that specializes in designing, developing, manufacturing, and distributing high-quality electric two-wheelers.</p>\n<p>The company has introduced over 23 different models in the local market to cater to various needs.</p>\n<p>The company has its presence in 19 states through a network of more than 256 dealers.</p>\n<p>The company has a network of around 256 dealers in India. When a dealer is appointed, the company requires them to provide after-sales services such as routine maintenance, battery management, diagnostics, safety checks, and component replacement to customers.</p>\n<p>The manufacturing unit of the company is located in Palsana, Sikar spread across an area of 8000 square meters.</p>\n<p>Tunwal E-Motors Ltd manufactures electric bikes at its plant in Palsana and has the capacity to produce up to 41000 units.</p>\n<p>As of March 31, 2024, the company had 64 permanent employees. The company trains its employees regularly to increase operational excellence, improve productivity, and maintain compliance standards for quality and safety.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Tunwal E-Motors Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "7582.97",
+          "5694.49",
+          "5037.44"
+        ],
+        [
+          "Revenue",
+          "10553.69",
+          "7655.74",
+          "7566.42"
+        ],
+        [
+          "Profit After Tax",
+          "1181.17",
+          "372.48",
+          "233.94"
+        ],
+        [
+          "Net Worth",
+          "2053.08",
+          "821.91",
+          "424.43"
+        ],
+        [
+          "Reserves and Surplus",
+          "1224.06",
+          "409.40",
+          "321.55"
+        ]
+      ]
+    },
+    {
+      "heading": "Tunwal E-motors Limited Stock Quote & Charts",
+      "sanitizedHeading": "tunwal_e-motors_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "57.53%"
+        ],
+        [
+          "ROCE",
+          "59.38%"
+        ],
+        [
+          "Debt/Equity",
+          "1.00"
+        ],
+        [
+          "RoNW",
+          "57.53%"
+        ],
+        [
+          "PAT Margin",
+          "11.29"
+        ],
+        [
+          "Price to Book Value",
+          "11.92"
+        ]
+      ]
+    },
+    {
+      "heading": "Tunwal E-motors Limited Stock Quote & Charts",
+      "sanitizedHeading": "tunwal_e-motors_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.85",
+          "2.14"
+        ],
+        [
+          "P/E (x)",
+          "20.71",
+          "27.62"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "July 15, 2024 to July 18, 2024",
+    "ipoListingDate": "Tue, Jul 23, 2024",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹59.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "1,96,00,000 shares (aggregating up to ₹115.64 Cr)",
+    "freshIssue": "1,38,50,000 shares (aggregating up to ₹81.72 Cr)",
+    "offerForSale": "57,50,000 shares of ₹2 (aggregating up to ₹33.93 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "9,80,000 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Mon, Jul 15, 2024",
+    "ipoCloseDate": "Thu, Jul 18, 2024",
+    "initiationOfRefunds": "Mon, Jul 22, 2024",
+    "creditOfSharesToDemat": "Mon, Jul 22, 2024",
+    "shareHoldingPreIssue": "4,14,51,080 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "4,14,51,080 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "97.04%"
+      }
+    ],
+    "shareHoldingPostIssue": "5,53,01,080 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "5,53,01,080 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "62.34%"
+      }
+    ]
+  },
+  "closing_date": "2024-07-17T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-20-24336001",
+    "email": "cs@tunwal.com",
+    "full_address": "Tunwal E-Motors Limited, Rama Icon Commercial Building, Office No 501 S.No 24/2 C.T.S No. 2164, Plot No. 31/11 Sadashiv Peth Pune 4110",
+    "website": "https://tunwal.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.139Z",
+  "faqs": [
+    {
+      "question": "What is the Tunwal E-Motors IPO?",
+      "answer": "<div itemprop=\"text\"><p>Tunwal E-Motors IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->19600000<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->115.64<!-- --> Crores. The issue is priced at <span>₹59 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 15, 2024</b>, and <b>closes on <!-- -->July 18, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Tunwal E-Motors IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Tunwal E-Motors IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Tunwal E-Motors IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Tunwal E-Motors IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Tunwal E-Motors IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Tunwal E-Motors IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Tunwal E-Motors IPO opens on July 15, 2024 and closes on July 18, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Tunwal E-Motors IPO?",
+      "answer": "<div itemprop=\"text\"><p>Tunwal E-Motors IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,18,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Tunwal E-Motors IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Tunwal E-Motors IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Tunwal E-Motors IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Tunwal E-Motors IPO<!-- --> will be done on <!-- -->Friday, July 19, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, July 22, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/tunwal-e-motors-ipo/1775/\" title=\"Tunwal E-Motors IPO Allotment Status\">Tunwal E-Motors IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Tunwal E-Motors IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Tunwal E-Motors IPO<!-- --> listing date is on <b>Tuesday, July 23, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Tunwal E-Motors",
+  "issue_price": "₹59.00",
+  "issue_price_numeric": 59,
+  "issue_size": "1,96,00,000 shares (aggregating up to ₹115.64 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Horizon Management Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/406/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/406/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "59.00"
+      },
+      "open": {
+        "nse_sme": "64.00"
+      },
+      "low": {
+        "nse_sme": "60.80"
+      },
+      "high": {
+        "nse_sme": "64.00"
+      },
+      "last_trade": {
+        "nse_sme": "60.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "July 23 2024",
+    "nse_symbol": "TUNWAL",
+    "isin": "INE0OXV01027",
+    "final_issue_price": "59 per share"
+  },
+  "listing_date": "2024-07-22T18:30:00.000Z",
+  "listing_gains": "3.05%",
+  "listing_gains_numeric": 3.05,
+  "logo": "https://www.chittorgarh.net/images/ipo/tunwal_e_motor_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/tunwal_e_motor_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "118000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "118000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "236000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/tunwal-e-motors-ipo/1775/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-07-14T18:30:00.000Z",
+  "pageHeading": "Tunwal E-Motors Limited IPO (Tunwal E-Motors IPO) Detail",
+  "pageTitle": "Tunwal E-Motors IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Jhumarmal Pannaram Tunwal Amitkumar Pannaram Mali And Jhumarmal Pannaram Tunwal HUF",
+    "holdings": {
+      "share_holding_pre_issue": "97.04%",
+      "share_holding_post_issue": "62.34%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Tunwal E-Motors IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/TunwalE-MotorsLimited_DP.zip"
+    },
+    {
+      "text": "Tunwal E-Motors IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/TunwalE-MotorsLimited_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/tunwal-e-motors-ipo/1775/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Tunwal E-Motors IPO offers 19600000 shares. 9310000 (47.50%) to NII 9310000 (47.50%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "980000 (5.00%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "9310000 (47.50%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "9310000 (47.50%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "19600000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.136Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Tunwal E-Motors IPO is subscribed 12.31 times on July 18 2024 6:19:58 PM (Day 3). The public issue subscribed 16.64 times in the retail category [.] times in the QIB category and 7.61 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "7.61",
+        "shares_offered": "9310000",
+        "shares_bid_for": "70826000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "16.64",
+        "shares_offered": "9310000",
+        "shares_bid_for": "154916000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "12.31",
+        "shares_offered": "18620000",
+        "shares_bid_for": "229236000"
+      }
+    },
+    "total_applications": "77458",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 18 2024",
+    "tentative_allotment": "Fri Jul 19 2024",
+    "initiation_of_refunds": "Mon Jul 22 2024",
+    "credit_of_shares_to_demat": "Mon Jul 22 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:17.764Z",
+  "updated_at": "2025-04-18T12:48:03.136Z",
+  "year": 2024,
+  "worst_listing_gains": "3.05%",
+  "worst_listing_gains_numeric": 3.05
+}

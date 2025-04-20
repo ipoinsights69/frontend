@@ -1,0 +1,507 @@
+{
+  "_id": "68028e9c3ccffd1c7912c8f9",
+  "ipo_id": "2023_indian_renewable_energy_development_agency_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:28:00.428Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ireda-ipo/1569/"
+  },
+  "about": {
+    "details": "<p>Incorporated in March 1987, Indian Renewable Energy Development Agency Limited is a public limited government company.</p>\n<p>IREDA is an experienced financial institution that has been actively promoting, developing, and extending financial assistance for new and renewable energy projects, as well as energy efficiency and conservation projects for over 36 years.</p>\n<p>The company offers a comprehensive range of financial products and related services, from project conceptualization to post-commissioning, for RE projects and other value chain activities such as equipment manufacturing and transmission. IREDA is committed to facilitating the transition towards a greener and more sustainable future, and as a reliable partner, the company ensure that its clients receive the best possible support and guidance throughout their projects.</p>\n<p>As on March 31, 2023, our Term Loans Outstanding stood at ₹ 470,755.21 million, compared to ₹ 278,539.21 million as on March 31, 2021, increasing at a CAGR of 30.00%, and as of September 30, 2022 and September 30, 2023, our Term Loans Outstanding were ₹ 337,833.59 million and ₹ 475,144.83 million, respectively.</p>\n<p>As of September 30, 2023, the company have 175 employees out of which 152 are professionally qualified with engineering, finance, legal, human resource and IT background.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Indian Renewable Energy Development Agency Limited Financial Information (Restated Standalone)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "51208.36",
+          "50446.98",
+          "36708.41",
+          "30293.39"
+        ],
+        [
+          "Revenue",
+          "2320.46",
+          "3483.04",
+          "2874.16",
+          "2657.74"
+        ],
+        [
+          "Profit After Tax",
+          "579.32",
+          "864.63",
+          "633.53",
+          "346.38"
+        ],
+        [
+          "Net Worth",
+          "6580.61",
+          "5935.17",
+          "5268.11",
+          "2995.60"
+        ],
+        [
+          "Reserves and Surplus",
+          "2550.36",
+          "2310.96",
+          "1776.05",
+          "1386.12"
+        ],
+        [
+          "Total Borrowing",
+          "39850.19",
+          "40165.23",
+          "27613.07",
+          "24000.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Indian Renewable Energy Development Agency Limited Stock Quote & Charts",
+      "sanitizedHeading": "indian_renewable_energy_development_agency_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "15.44%"
+        ],
+        [
+          "Debt/Equity",
+          "6.77"
+        ],
+        [
+          "RoNW",
+          "15.44%"
+        ]
+      ]
+    },
+    {
+      "heading": "Indian Renewable Energy Development Agency Limited Stock Quote & Charts",
+      "sanitizedHeading": "indian_renewable_energy_development_agency_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.78",
+          null
+        ],
+        [
+          "P/E (x)",
+          "8.47",
+          "7.42"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "IREDA IPO raises Rs 643.26 crore from anchor investors. IREDA IPO Anchor bid date is November 20 2023. IREDA IPO Anchor Investors list",
+    "list_link": {
+      "text": "IREDA IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/irdea-anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "February 22 2024",
+      "shares_offered": "201019726",
+      "anchor_portion_size": "643.26"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "November 21, 2023 to November 23, 2023",
+    "ipoListingDate": "Wed, Nov 29, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹32.00",
+    "lotSize": "460 Shares",
+    "issueSize": "67,19,41,177 shares (aggregating up to ₹2,150.21 Cr)",
+    "freshIssue": "40,31,64,706 shares (aggregating up to ₹1,290.13 Cr)",
+    "offerForSale": "26,87,76,471 shares of ₹10 (aggregating up to ₹860.08 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Nov 21, 2023",
+    "ipoCloseDate": "Thu, Nov 23, 2023",
+    "initiationOfRefunds": "Sat, Nov 25, 2023",
+    "creditOfSharesToDemat": "Tue, Nov 28, 2023",
+    "shareHoldingPreIssue": "100%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,68,77,64,706 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,68,77,64,706 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "75%"
+      }
+    ]
+  },
+  "closing_date": "2023-11-22T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 11 24682206",
+    "email": "equityinvestor2023@ireda.in",
+    "full_address": "Indian Renewable Energy Development Agency Ltd, India Habitat Centre, East Court Core 4A, 1stFloor Lodhi Road New Delhi–110003",
+    "website": "https://www.ireda.in/"
+  },
+  "createdAt": "2025-04-18T17:40:44.482Z",
+  "faqs": [
+    {
+      "question": "What is the IREDA IPO?",
+      "answer": "<div itemprop=\"text\"><p>IREDA IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->671941177<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->2,150.21<!-- --> Crores. The issue is priced at <span>₹32 per share</span>. The minimum order quantity is <!-- -->460<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 21, 2023</b>, and <b>closes on <!-- -->November 23, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in IREDA IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->IREDA IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->IREDA IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->IREDA IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->IREDA IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When IREDA IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The IREDA IPO opens on November 21, 2023 and closes on November 23, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of IREDA IPO?",
+      "answer": "<div itemprop=\"text\"><p>IREDA IPO<!-- --> <b>lot size is <!-- -->460</b>, and the <b>minimum amount required is <span>₹14,720</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for IREDA IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->IREDA IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is IREDA IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->IREDA IPO<!-- --> will be done on <!-- -->Friday, November 24, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, November 28, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/ireda-ipo/1569/\" title=\"IREDA IPO Allotment Status\">IREDA IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is IREDA IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->IREDA IPO<!-- --> listing date is on <b>Wednesday, November 29, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Indian Renewable Energy Development Agency",
+  "issue_price": "₹32.00",
+  "issue_price_numeric": 32,
+  "issue_size": "67,19,41,177 shares (aggregating up to ₹2,150.21 Cr)",
+  "issue_size_numeric": 67,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Idbi Capital Market Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/47/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/47/"
+    },
+    {
+      "name": "Bob Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/48/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/48/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "32.00",
+        "nse": "32.00"
+      },
+      "open": {
+        "bse": "50.00",
+        "nse": "50.00"
+      },
+      "low": {
+        "bse": "49.99",
+        "nse": "50.00"
+      },
+      "high": {
+        "bse": "59.99",
+        "nse": "60.00"
+      },
+      "last_trade": {
+        "bse": "59.99",
+        "nse": "60.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 29 2023",
+    "bse_script_code": "544026",
+    "nse_symbol": "IREDA",
+    "isin": "INE202E01016",
+    "final_issue_price": "32 per share"
+  },
+  "listing_date": "2023-11-28T18:30:00.000Z",
+  "listing_gains": "87.47%",
+  "listing_gains_numeric": 87.47,
+  "logo": "https://www.chittorgarh.net/images/ipo/irdea-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/irdea-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 460 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "460",
+        "amount": "14720"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "5980",
+        "amount": "191360"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "6440",
+        "amount": "206080"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "30820",
+        "amount": "986240"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "31280",
+        "amount": "1000960"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ireda-ipo/1569/"
+    }
+  },
+  "lot_size": 460,
+  "opening_date": "2023-11-20T18:30:00.000Z",
+  "pageHeading": "Indian Renewable Energy Development Agency Ltd IPO (IREDA IPO) Detail",
+  "pageTitle": "IREDA IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The promoter of the company is The President of India acting through The Ministry of New & Renewable Energy Government of India.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "75%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "IREDA IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2023/indian-renewable-energy-development-agency-limited-drhp_76785.html"
+    },
+    {
+      "text": "IREDA IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2023/indian-renewable-energy-development-agency-limited-rhp_79087.html"
+    },
+    {
+      "text": "Anchor Investors in IREDA IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/irdea-anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "16",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "2"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ireda-ipo/1569/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "indianrenergy@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "IREDA IPO offers 671941177 shares. 134013152 (19.94%) to QIB 100509864 (14.96%) to NII 234523015 (34.90%) to RII 1875420 (0.28%) to employees and 201019726 (29.92%) to Anchor investors. 509832 RIIs will receive minimum 460 shares and 5202 (sNII) and 10404 (bNII) will receive minimum 6440 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "201019726 (29.92%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "134013152 (19.94%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "100509864 (14.96%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "67006576 (9.97%)",
+        "maximum_allottees": "10404"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "33503288 (4.99%)",
+        "maximum_allottees": "5202"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "234523015 (34.90%)",
+        "maximum_allottees": "509832"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "1875420 (0.28%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "671941177 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.482Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The IREDA IPO is subscribed 38.8 times on November 23 2023 5:39:00 PM (Day 3). The public issue subscribed 7.73 times in the retail category 104.57 times in the QIB category and 24.16 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "104.57",
+        "shares_offered": "134013152",
+        "shares_bid_for": "14013536140"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "24.16",
+        "shares_offered": "100509864",
+        "shares_bid_for": "2428284340"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "26.99",
+        "shares_offered": "67006576",
+        "shares_bid_for": "1808317500"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "18.5",
+        "shares_offered": "33503288",
+        "shares_bid_for": "619966840"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "7.73",
+        "shares_offered": "234523015",
+        "shares_bid_for": "1812283160"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "9.8",
+        "shares_offered": "1875420",
+        "shares_bid_for": "18370560"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "38.8",
+        "shares_offered": "470921451",
+        "shares_bid_for": "18272474200"
+      }
+    },
+    "total_applications": "2858909"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 23 2023",
+    "tentative_allotment": "Fri Nov 24 2023",
+    "initiation_of_refunds": "Sat Nov 25 2023",
+    "credit_of_shares_to_demat": "Tue Nov 28 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:34.134Z",
+  "updated_at": "2025-04-18T17:40:44.482Z",
+  "year": 2023,
+  "worst_listing_gains": "87.47%",
+  "worst_listing_gains_numeric": 87.47
+}

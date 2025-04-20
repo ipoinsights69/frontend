@@ -1,0 +1,415 @@
+{
+  "_id": "68028e9c3ccffd1c7912c90d",
+  "ipo_id": "2023_karnika_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:29:10.055Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/karnika-industries-ipo/1538/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2017, Karnika Industries Limited, previously known as Karni International, manufactures and exports garments in India.</p>\n<p>Karnika Industries manufactures all types of kids' wear i.e., shorts, joggers, capri, tees, rompers, sleepsuits, pajamas, winter wear, infant wear, etc. The company has well-established manufacturing units for designing, preparing the sample, quality inspection, ironing, and packing of Garments that are equipped with all the necessary hi-tech machines and tools that are required for a modern manufacturing unit.</p>\n<p>The company sells its products under the brand KARNIKA and sub-categories as KARNIKA Care, KARNIKA Cool, KARNIKA Cube, KARNIKA Life, KARNIKA Key, KARNIKA Club.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3055.87",
+          "5921.42",
+          "10071.04"
+        ],
+        [
+          "Revenue",
+          "4779.31",
+          "9892.52",
+          "12605.62"
+        ],
+        [
+          "Profit After Tax",
+          "81.61",
+          "454.01",
+          "826.74"
+        ],
+        [
+          "Net Worth",
+          "378.14",
+          "1860.88",
+          "1806.83"
+        ],
+        [
+          "Reserves and Surplus",
+          null,
+          null,
+          "896.80"
+        ],
+        [
+          "Total Borrowing",
+          "1570.94",
+          "2224.13",
+          "5245.53"
+        ]
+      ]
+    },
+    {
+      "heading": "Karnika Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "karnika_industries_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "Debt/Equity",
+          "2.90"
+        ],
+        [
+          "RoNW",
+          "45.76%"
+        ]
+      ]
+    },
+    {
+      "heading": "Karnika Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "karnika_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "9.66",
+          null
+        ],
+        [
+          "P/E (x)",
+          "7.57",
+          "11.06"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 29, 2023 to October 5, 2023",
+    "ipoListingDate": "Thu, Oct 12, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹76.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "32,99,200 shares (aggregating up to ₹25.07 Cr)",
+    "freshIssue": "32,99,200 shares (aggregating up to ₹25.07 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,66,400 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Fri, Sep 29, 2023",
+    "ipoCloseDate": "Thu, Oct 5, 2023",
+    "initiationOfRefunds": "Wed, Oct 11, 2023",
+    "creditOfSharesToDemat": "Thu, Oct 12, 2023",
+    "shareHoldingPreIssue": "91,00,300 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "91,00,300 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,23,99,500 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,23,99,500 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.39%"
+      }
+    ]
+  },
+  "closing_date": "2023-10-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "033-26558101",
+    "email": "info@karnikaindustries.com",
+    "full_address": "Karnika Industries Limited, 6&amp;6/1, Gurgola Ghat Road P.O. Salkia, Howrah - 711106",
+    "website": "http://www.karnikaindustries.com/Default/Index"
+  },
+  "createdAt": "2025-04-18T17:40:44.844Z",
+  "faqs": [
+    {
+      "question": "What is the Karnika Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Karnika Industries IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3299200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->25.07<!-- --> Crores. The issue is priced at <span>₹76 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 29, 2023</b>, and <b>closes on <!-- -->October 5, 2023</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Karnika Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Karnika Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Karnika Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Karnika Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Karnika Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Karnika Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Karnika Industries IPO opens on September 29, 2023 and closes on October 5, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Karnika Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Karnika Industries IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,21,600</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Karnika Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Karnika Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Karnika Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Karnika Industries IPO<!-- --> will be done on <!-- -->Tuesday, October 10, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, October 12, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/karnika-industries-ipo/1538/\" title=\"Karnika Industries IPO Allotment Status\">Karnika Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Karnika Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Karnika Industries IPO<!-- --> listing date is on <b>Thursday, October 12, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Karnika Industries",
+  "issue_price": "₹76.00",
+  "issue_price_numeric": 76,
+  "issue_size": "32,99,200 shares (aggregating up to ₹25.07 Cr)",
+  "issue_size_numeric": 32,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "76.00"
+      },
+      "open": {
+        "nse_sme": "81.00"
+      },
+      "low": {
+        "nse_sme": "81.00"
+      },
+      "high": {
+        "nse_sme": "85.05"
+      },
+      "last_trade": {
+        "nse_sme": "82.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 12 2023",
+    "nse_symbol": "KARNIKA",
+    "isin": "INE0MGA01012",
+    "final_issue_price": "76 per share"
+  },
+  "listing_date": "2023-10-11T18:30:00.000Z",
+  "listing_gains": "8.68%",
+  "listing_gains_numeric": 8.68,
+  "logo": "https://www.chittorgarh.net/images/ipo/karnika-industries-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/karnika-industries-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "121600"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "121600"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "243200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/karnika-industries-ipo/1538/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-09-28T18:30:00.000Z",
+  "pageHeading": "Karnika Industries Limited IPO (Karnika Industries IPO) Detail",
+  "pageTitle": "Karnika Industries IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Niranjan Mundhra Mr. Shiv Shankar Mundhra and Mr. Mahesh Kumar Mundhr are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "73.39%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Karnika Industries IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/KarnikaIndustries_DP.zip"
+    },
+    {
+      "text": "Karnika Industries IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2023/karnika-industries-limited-sme-prospectus_78646.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/karnika-industries-ipo/1538/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Karnika Industries IPO offers 3299200 shares. 1566400 (47.48%) to NII 1566400 (47.48%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "166400 (5.04%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1566400 (47.48%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1566400 (47.48%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3299200 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.844Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Karnika Industries IPO is subscribed 3.07 times on October 5 2023 7:29:00 PM (Day 4). The public issue subscribed 2.91 times in the retail category [.] times in the QIB category and 3.22 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "3.22",
+        "shares_offered": "1566400",
+        "shares_bid_for": "5041600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.91",
+        "shares_offered": "1566400",
+        "shares_bid_for": "4564800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "3.07",
+        "shares_offered": "3132800",
+        "shares_bid_for": "9619200"
+      }
+    },
+    "total_applications": "2853",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 5 2023",
+    "tentative_allotment": "Tue Oct 10 2023",
+    "initiation_of_refunds": "Wed Oct 11 2023",
+    "credit_of_shares_to_demat": "Thu Oct 12 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:36.787Z",
+  "updated_at": "2025-04-18T17:40:44.844Z",
+  "year": 2023,
+  "worst_listing_gains": "8.68%",
+  "worst_listing_gains_numeric": 8.68
+}

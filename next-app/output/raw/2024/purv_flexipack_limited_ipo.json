@@ -1,0 +1,455 @@
+{
+  "_id": "68024a013ccffd1c7912c7d7",
+  "ipo_id": "2024_purv_flexipack_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:39:38.907Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/purv-flexipack-ipo/1658/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2005, Purv Flexipack Limited distributes plastic products, including BOPP film, Polyester Films, CPP films, Plastic granules, Inks, Adhesives, Masterbatches, Ethyl Acedate, and Titanium Dioxide.</p>\n<p>The product portfolio of the company comprises Plastic Granules, Biaxially oriented polypropylene (BOPP) Films, HS BOPP, Matt BOPP, Glossy / Plain / Printing Grade BOPP, Tape and Textile BOPP, Pearlized, BOPP, Polyester Films, Cast Polypropylene (CPP) Films</p>\n<p>The company provides various packaging solutions for a diverse customer base. They have four warehouses for storing and managing inventory. The warehouse is equipped with modern facilities and equipment to ensure safe and secure storage of products. It is maintained under optimal conditions to preserve the quality and integrity of the stored items. Also, the company has implemented strict inventory management systems to ensure accurate inventory tracking.</p>\n<p>As of December 31, 2023, the company has 28 employees in various departments including Accounts &amp; Finance, Compliance, Maintenance, Marketing &amp; Logistics, Production &amp; Operations, Quality, Top Level Management, and Permanent Labour.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Purv Flexipack Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "28315.64",
+          "25852.83",
+          "18146.73",
+          "15417.62"
+        ],
+        [
+          "Revenue",
+          "13935.79",
+          "34107.83",
+          "22943.81",
+          "13780.26"
+        ],
+        [
+          "Profit After Tax",
+          "430.13",
+          "826.13",
+          "626.73",
+          "567.50"
+        ],
+        [
+          "Net Worth",
+          "8152.42",
+          "7619.22",
+          "6793.09",
+          "5898.36"
+        ],
+        [
+          "Reserves and Surplus",
+          "6740.54",
+          "6207.34",
+          "5381.21",
+          "4486.48"
+        ],
+        [
+          "Total Borrowing",
+          "15013.96",
+          "12350.98",
+          "8340.10",
+          "7077.77"
+        ]
+      ]
+    },
+    {
+      "heading": "Purv Flexipack Limited Stock Quote & Charts",
+      "sanitizedHeading": "purv_flexipack_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "11.46%"
+        ],
+        [
+          "ROCE",
+          "18.50%"
+        ],
+        [
+          "Debt/Equity",
+          "1.62"
+        ],
+        [
+          "RoNW",
+          "10.84%"
+        ],
+        [
+          "Price to Book Value",
+          "1.32"
+        ]
+      ]
+    },
+    {
+      "heading": "Purv Flexipack Limited Stock Quote & Charts",
+      "sanitizedHeading": "purv_flexipack_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "5.39",
+          "4.10"
+        ],
+        [
+          "P/E (x)",
+          "13.17",
+          "17.32"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Purv Flexipack IPO raises Rs 10.77 crore from anchor investors. Purv Flexipack IPO Anchor bid date is February 26 2024. Purv Flexipack IPO Anchor Investors list",
+    "list_link": {
+      "text": "Purv Flexipack IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/purv-flexipack-anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "May 30 2024",
+      "shares_offered": "1516800",
+      "anchor_portion_size": "10.77"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "February 27, 2024 to February 29, 2024",
+    "ipoListingDate": "Tue, Mar 5, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹71.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "56,64,000 shares (aggregating up to ₹40.21 Cr)",
+    "freshIssue": "56,64,000 shares (aggregating up to ₹40.21 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,48,800 shares",
+      "maker_name": "Holani Consultants Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/252/"
+    },
+    "ipoOpenDate": "Tue, Feb 27, 2024",
+    "ipoCloseDate": "Thu, Feb 29, 2024",
+    "initiationOfRefunds": "Mon, Mar 4, 2024",
+    "creditOfSharesToDemat": "Mon, Mar 4, 2024",
+    "shareHoldingPreIssue": "1,53,18,950 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,53,18,950 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "92.17%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,09,82,950 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,09,82,950 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-02-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 33 4070 3238",
+    "email": "cs@purvflexipack.in",
+    "full_address": "Purv Flexipack Limited, Annapurna Apartment Suit 1C, C 1st Floor, 23 Sarat Bose Road",
+    "website": "https://www.purvflexipack.in/"
+  },
+  "createdAt": "2025-04-18T12:48:00.843Z",
+  "faqs": [
+    {
+      "question": "What is the Purv Flexipack IPO?",
+      "answer": "<div itemprop=\"text\"><p>Purv Flexipack IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5664000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->40.21<!-- --> Crores. The issue is priced at <span>₹71 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 27, 2024</b>, and <b>closes on <!-- -->February 29, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Purv Flexipack IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Purv Flexipack IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Purv Flexipack IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Purv Flexipack IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Purv Flexipack IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Purv Flexipack IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Purv Flexipack IPO opens on February 27, 2024 and closes on February 29, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Purv Flexipack IPO?",
+      "answer": "<div itemprop=\"text\"><p>Purv Flexipack IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,13,600</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Purv Flexipack IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Purv Flexipack IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Purv Flexipack IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Purv Flexipack IPO<!-- --> will be done on <!-- -->Friday, March 1, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, March 4, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/purv-flexipack-ipo/1658/\" title=\"Purv Flexipack IPO Allotment Status\">Purv Flexipack IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Purv Flexipack IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Purv Flexipack IPO<!-- --> listing date is on <b>Tuesday, March 5, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Purv Flexipack",
+  "issue_price": "₹71.00",
+  "issue_price_numeric": 71,
+  "issue_size": "56,64,000 shares (aggregating up to ₹40.21 Cr)",
+  "issue_size_numeric": 56,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Holani Consultants Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/151/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/151/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "71.00"
+      },
+      "open": {
+        "nse_sme": "260.00"
+      },
+      "low": {
+        "nse_sme": "247.00"
+      },
+      "high": {
+        "nse_sme": "273.00"
+      },
+      "last_trade": {
+        "nse_sme": "247.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 5 2024",
+    "nse_symbol": "PURVFLEXI",
+    "isin": "INE0R6C01012",
+    "final_issue_price": "71 per share"
+  },
+  "listing_date": "2024-03-04T18:30:00.000Z",
+  "listing_gains": "247.89%",
+  "listing_gains_numeric": 247.89,
+  "logo": "https://www.chittorgarh.net/images/ipo/purv-flexiplex-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/purv-flexiplex-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "113600"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "113600"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "227200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/purv-flexipack-ipo/1658/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-02-26T18:30:00.000Z",
+  "pageHeading": "Purv Flexipack Limited IPO (Purv Flexipack IPO) Detail",
+  "pageTitle": "Purv Flexipack IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Mr. Rajeev Goenka Mrs. Poonam Goenka and M/s Purv Logistics Private Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "92.17%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Purv Flexipack IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/PurvFlexipack_DRHP.zip"
+    },
+    {
+      "text": "Purv Flexipack IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/PurvFlexipack_PROSP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Purv Flexipack IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/purv-flexipack-anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/purv-flexipack-ipo/1658/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "braceport.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Purv Flexipack IPO offers 5664000 shares. 1052800 (18.59%) to QIB 844800 (14.92%) to NII 1900800 (33.56%) to RII and 1516800 (26.78%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1516800 (26.78%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "348800 (6.16%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1052800 (18.59%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "844800 (14.92%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1900800 (33.56%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5664000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:00.843Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Purv Flexipack IPO is subscribed 421.78 times on February 29 2024 6:21:00 PM (Day 3). The public issue subscribed 448.73 times in the retail category 157.32 times in the QIB category and 690.72 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "157.32",
+        "shares_offered": "1052800",
+        "shares_bid_for": "165622400"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "690.72",
+        "shares_offered": "844800",
+        "shares_bid_for": "583521600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "448.73",
+        "shares_offered": "1900800",
+        "shares_bid_for": "852945600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "421.78",
+        "shares_offered": "3798400",
+        "shares_bid_for": "1602089600"
+      }
+    },
+    "total_applications": "533091",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 29 2024",
+    "tentative_allotment": "Fri Mar 1 2024",
+    "initiation_of_refunds": "Mon Mar 4 2024",
+    "credit_of_shares_to_demat": "Mon Mar 4 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:09.708Z",
+  "updated_at": "2025-04-18T12:48:00.843Z",
+  "year": 2024,
+  "worst_listing_gains": "247.89%",
+  "worst_listing_gains_numeric": 247.89
+}

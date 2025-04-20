@@ -1,0 +1,423 @@
+{
+  "_id": "68028e9a3ccffd1c7912c8bb",
+  "ipo_id": "2023_bondada_engineering_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:31:25.226Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/bondada-engineering-ipo/1481/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2012, Bondada Engineering Limited provides engineering, procurement, and construction (EPC) services and operations and maintenance (O&amp;M) services to companies operating in the telecom and solar energy industry.</p>\n<p>The company provides passive telecom infrastructure services which include cell site construction, erection, operation, and maintenance of telecom towers with civil, electrical, and mechanical works; supply of poles and towers, laying and maintenance of optical fiber cables, supply of power equipment and other telecom infrastructure related services to major telecom companies and telecom tower operators in India. The company has installed over 11,600 telecom towers and poles out of which, 7,700 telecom towers and poles were installed in the last three fiscal.</p>\n<p>Bondada Engineering also provides O&amp;M services to telecom and tower operating companies such as cell site maintenance with preventive and corrective maintenance of passive infrastructure and equipment, backup power systems, manning services and supply of riggers, surveillance, and corrective maintenance of optical fiber cable routes and other maintenance related facilities.</p>\n<p>Bondada's manufacturing facility is located in Keesara Mandal, Medchal, Telangana, with an installation capacity of ~12 thousand MTPA for tower fabrication.</p>\n<p>The company has over 550 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "17091.69",
+          "15761.73",
+          "25115.46"
+        ],
+        [
+          "Revenue",
+          "28832.29",
+          "33420.96",
+          "37095.77"
+        ],
+        [
+          "Profit After Tax",
+          "920.55",
+          "1013.53",
+          "1825.19"
+        ],
+        [
+          "Net Worth",
+          "4775.88",
+          "5789.41",
+          "7837.54"
+        ],
+        [
+          "Reserves and Surplus",
+          "4693.88",
+          "5707.41",
+          "6246.93"
+        ],
+        [
+          "Total Borrowing",
+          "4667.31",
+          "3803.23",
+          "8422.65"
+        ]
+      ]
+    },
+    {
+      "heading": "Bondada Engineering Ltd Stock Quote & Charts",
+      "sanitizedHeading": "bondada_engineering_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "22.77%"
+        ],
+        [
+          "ROCE",
+          "35.63%"
+        ],
+        [
+          "Debt/Equity",
+          "1.07"
+        ],
+        [
+          "RoNW",
+          "22.77%"
+        ]
+      ]
+    },
+    {
+      "heading": "Bondada Engineering Ltd Stock Quote & Charts",
+      "sanitizedHeading": "bondada_engineering_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "11.43",
+          null
+        ],
+        [
+          "P/E (x)",
+          "6.56",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 18, 2023 to August 22, 2023",
+    "ipoListingDate": "Wed, Aug 30, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹75.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "56,96,000 shares (aggregating up to ₹42.72 Cr)",
+    "freshIssue": "56,96,000 shares (aggregating up to ₹42.72 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "2,88,000 shares",
+      "maker_name": "Rikhav Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/337/"
+    },
+    "ipoOpenDate": "Fri, Aug 18, 2023",
+    "ipoCloseDate": "Tue, Aug 22, 2023",
+    "initiationOfRefunds": "Mon, Aug 28, 2023",
+    "creditOfSharesToDemat": "Tue, Aug 29, 2023",
+    "shareHoldingPreIssue": "1,59,06,059 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,59,06,059 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "86.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,16,02,059 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,16,02,059 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "63.33%"
+      }
+    ]
+  },
+  "closing_date": "2023-08-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 72070 34662",
+    "email": "cs@bondada.net",
+    "full_address": "Bondada Engineering Limited, 1-1-27/37, Ashok Manoj Nagar Kapra, Hyderabad - 500062",
+    "website": "https://bondada.net/"
+  },
+  "createdAt": "2025-04-18T17:40:42.393Z",
+  "faqs": [
+    {
+      "question": "What is the Bondada Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>Bondada Engineering IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5696000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->42.72<!-- --> Crores. The issue is priced at <span>₹75 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 18, 2023</b>, and <b>closes on <!-- -->August 22, 2023</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Bondada Engineering IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Bondada Engineering IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Bondada Engineering IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Bondada Engineering IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Bondada Engineering IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Bondada Engineering IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Bondada Engineering IPO opens on August 18, 2023 and closes on August 22, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Bondada Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>Bondada Engineering IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Bondada Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Bondada Engineering IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Bondada Engineering IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Bondada Engineering IPO<!-- --> will be done on <!-- -->Friday, August 25, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, August 29, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/bondada-engineering-ipo/1481/\" title=\"Bondada Engineering IPO Allotment Status\">Bondada Engineering IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Bondada Engineering IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Bondada Engineering IPO<!-- --> listing date is on <b>Wednesday, August 30, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Bondada Engineering",
+  "issue_price": "₹75.00",
+  "issue_price_numeric": 75,
+  "issue_size": "56,96,000 shares (aggregating up to ₹42.72 Cr)",
+  "issue_size_numeric": 56,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Vivro Financial Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/62/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/62/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "75.00"
+      },
+      "open": {
+        "bse_sme": "142.50"
+      },
+      "low": {
+        "bse_sme": "142.50"
+      },
+      "high": {
+        "bse_sme": "149.62"
+      },
+      "last_trade": {
+        "bse_sme": "149.62"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 30 2023",
+    "bse_script_code": "543971",
+    "isin": "INE0Q8P01011",
+    "final_issue_price": "75 per share"
+  },
+  "listing_date": "2023-08-29T18:30:00.000Z",
+  "listing_gains": "99.49%",
+  "listing_gains_numeric": 99.49,
+  "logo": "https://www.chittorgarh.net/images/ipo/bondada-engineering-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/bondada-engineering-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/bondada-engineering-ipo/1481/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-08-17T18:30:00.000Z",
+  "pageHeading": "Bondada Engineering Limited IPO (Bondada Engineering IPO) Detail",
+  "pageTitle": "Bondada Engineering IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Raghavendra Rao Bondada Neelima Bondada and Satyanarayana Baratam are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "86.00%",
+      "share_holding_post_issue": "63.33%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Bondada Engineering IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/337568/Draft%20Prospectus_20230630190627.pdf"
+    },
+    {
+      "text": "Bondada Engineering IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/337568/SME_IPO%20Open/Annexure%20I%20-%20Prospectus_20230810151253.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "4",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/bondada-engineering-ipo/1481/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "bel.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Bondada Engineering IPO offers 5696000 shares. 2704000 (47.47%) to NII 2704000 (47.47%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "288000 (5.06%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2704000 (47.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2704000 (47.47%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5696000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:42.393Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Bondada Engineering IPO is subscribed 112.28 times on August 22 2023 7:02:00 PM (Day 3). The public issue subscribed 100.05 times in the retail category [.] times in the QIB category and 115.46 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "115.46",
+        "shares_offered": "2704000",
+        "shares_bid_for": "312203200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "100.05",
+        "shares_offered": "2704000",
+        "shares_bid_for": "270547200"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "112.28",
+        "shares_offered": "5408000",
+        "shares_bid_for": "607211200"
+      }
+    },
+    "total_applications": "146586",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 22 2023",
+    "tentative_allotment": "Fri Aug 25 2023",
+    "initiation_of_refunds": "Mon Aug 28 2023",
+    "credit_of_shares_to_demat": "Tue Aug 29 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:26.755Z",
+  "updated_at": "2025-04-18T17:40:42.393Z",
+  "year": 2023,
+  "worst_listing_gains": "99.49%",
+  "worst_listing_gains_numeric": 99.49
+}

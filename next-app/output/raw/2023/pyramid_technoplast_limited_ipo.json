@@ -1,0 +1,484 @@
+{
+  "_id": "68028e9e3ccffd1c7912c936",
+  "ipo_id": "2023_pyramid_technoplast_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:31:22.729Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/pyramid-technoplast-ipo/1479/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1997, Pyramid Technoplast Limited manufactures polymer-based molded products (Polymer Drums) mainly used by chemical, agrochemical, specialty chemical, and pharmaceutical companies for their packaging requirements.</p>\n<p>The company manufactures polymer-based bulk packaging drums and Intermediate Bulk Containers (IBC), as well as MS Drums for packaging used in the packaging and transport of chemicals, agrochemicals, and specialty chemicals.</p>\n<p>Pyramid Technoplast started its commercial production in 1998 and now has over 6 manufacturing units out of which four are situated in Bharuch, GIDC, Gujarat, and two are situated at Silvassa, UT of Dadra and Nagar Haveli. The total installed capacity of their Polymer Drum manufacturing units is 20,612 MTPA, the total installed capacity of the IBC manufacturing unit is 12,820 MTPA and the total installed capacity of the MS Drums unit is 6,200 MTPA. The company is in the process of constructing its seventh manufacturing unit which will also be situated in Bharuch, GIDC, Gujarat.</p>\n<p>The company has obtained UN certification outlined by United Nations Recommendation for IBC and MS Drums to meet safety levels. The manufacturing units are ISO 9001:2015/ ISO 14001:2015/ISO 45001:2018 certified by quality, environment, health, and safety management systems for the manufacture of Polymer Drums, carboys, jerry cans, IBC &amp; MS Drums and accessories, and their MS Drums meet the quality standards as per IS 1783:2014 (Part 1 and 2) laid down by Bureau of Indian Standards.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "153.46",
+          "183.76",
+          "225.78"
+        ],
+        [
+          "Revenue",
+          "316.18",
+          "402.64",
+          "482.03"
+        ],
+        [
+          "Profit After Tax",
+          "16.99",
+          "26.15",
+          "31.76"
+        ],
+        [
+          "Net Worth",
+          "48.85",
+          "75.20",
+          "107.25"
+        ],
+        [
+          "Reserves and Surplus",
+          "44.94",
+          "71.29",
+          "75.97"
+        ],
+        [
+          "Total Borrowing",
+          "51.30",
+          "64.77",
+          "55.34"
+        ]
+      ]
+    },
+    {
+      "heading": "Pyramid Technoplast Limited Stock Quote & Charts",
+      "sanitizedHeading": "pyramid_technoplast_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "29.61%"
+        ],
+        [
+          "ROCE",
+          "21.37%"
+        ],
+        [
+          "RoNW",
+          "29.61%"
+        ]
+      ]
+    },
+    {
+      "heading": "Pyramid Technoplast Limited Stock Quote & Charts",
+      "sanitizedHeading": "pyramid_technoplast_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "10.24",
+          null
+        ],
+        [
+          "P/E (x)",
+          "16.21",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Pyramid Technoplast IPO raises Rs 27.55 crore from anchor investors. Pyramid Technoplast IPO Anchor bid date is August 17 2023. Pyramid Technoplast IPO Anchor Investors list",
+    "list_link": {
+      "text": "Pyramid Technoplast IPO Anchor Investors list",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20230817-16&attachedId=9e30da3a-7b45-4551-b349-8dac69adb1dd"
+    },
+    "details": {
+      "ipo_date": "November 23 2023",
+      "shares_offered": "1659600",
+      "anchor_portion_size": "27.55"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 18, 2023 to August 22, 2023",
+    "ipoListingDate": "Tue, Aug 29, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹166.00",
+    "lotSize": "90 Shares",
+    "issueSize": "92,20,000 shares (aggregating up to ₹153.05 Cr)",
+    "freshIssue": "55,00,000 shares (aggregating up to ₹91.30 Cr)",
+    "offerForSale": "37,20,000 shares of ₹10 (aggregating up to ₹61.75 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Aug 18, 2023",
+    "ipoCloseDate": "Tue, Aug 22, 2023",
+    "initiationOfRefunds": "Mon, Aug 28, 2023",
+    "creditOfSharesToDemat": "Tue, Aug 29, 2023",
+    "shareHoldingPreIssue": "100.00%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "3,67,84,800 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "3,67,84,800 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "74.94%"
+      }
+    ]
+  },
+  "closing_date": "2023-08-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 4276 1547",
+    "email": "cs@pyramidtechnoplast.com",
+    "full_address": "Pyramid Technoplast Limited, Office No.2 2nd Floor Shah Trade Centre, Rani Sati Marg Near W.E Highway, Malad (East) Mumbai - 400 097",
+    "website": "https://pyramidtechnoplast.com/"
+  },
+  "createdAt": "2025-04-18T17:40:46.019Z",
+  "faqs": [
+    {
+      "question": "What is the Pyramid Technoplast IPO?",
+      "answer": "<div itemprop=\"text\"><p>Pyramid Technoplast IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->9220000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->153.05<!-- --> Crores. The issue is priced at <span>₹166 per share</span>. The minimum order quantity is <!-- -->90<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 18, 2023</b>, and <b>closes on <!-- -->August 22, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Pyramid Technoplast IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Pyramid Technoplast IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Pyramid Technoplast IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Pyramid Technoplast IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Pyramid Technoplast IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Pyramid Technoplast IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Pyramid Technoplast IPO opens on August 18, 2023 and closes on August 22, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Pyramid Technoplast IPO?",
+      "answer": "<div itemprop=\"text\"><p>Pyramid Technoplast IPO<!-- --> <b>lot size is <!-- -->90</b>, and the <b>minimum amount required is <span>₹14,940</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Pyramid Technoplast IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Pyramid Technoplast IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Pyramid Technoplast IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Pyramid Technoplast IPO<!-- --> will be done on <!-- -->Friday, August 25, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, August 29, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/pyramid-technoplast-ipo/1479/\" title=\"Pyramid Technoplast IPO Allotment Status\">Pyramid Technoplast IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Pyramid Technoplast IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Pyramid Technoplast IPO<!-- --> listing date is on <b>Tuesday, August 29, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Pyramid Technoplast",
+  "issue_price": "₹166.00",
+  "issue_price_numeric": 166,
+  "issue_size": "92,20,000 shares (aggregating up to ₹153.05 Cr)",
+  "issue_size_numeric": 92,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Pnb Investment Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/89/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/89/"
+    },
+    {
+      "name": "First Overseas Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/110/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/110/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "166.00",
+        "nse": "166.00"
+      },
+      "open": {
+        "bse": "185.00",
+        "nse": "187.00"
+      },
+      "low": {
+        "bse": "175.75",
+        "nse": "177.65"
+      },
+      "high": {
+        "bse": "188.00",
+        "nse": "188.00"
+      },
+      "last_trade": {
+        "bse": "175.75",
+        "nse": "177.65"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 29 2023",
+    "bse_script_code": "543969",
+    "nse_symbol": "PYRAMID",
+    "isin": "INE0MIS01010",
+    "final_issue_price": "166 per share"
+  },
+  "listing_date": "2023-08-28T18:30:00.000Z",
+  "listing_gains": "5.87%",
+  "listing_gains_numeric": 5.87,
+  "logo": "https://www.chittorgarh.net/images/ipo/pyramid-technoplast-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/pyramid-technoplast-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 90 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "90",
+        "amount": "14940"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1170",
+        "amount": "194220"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1260",
+        "amount": "209160"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "5940",
+        "amount": "986040"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "6030",
+        "amount": "1000980"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/pyramid-technoplast-ipo/1479/"
+    }
+  },
+  "lot_size": 90,
+  "opening_date": "2023-08-17T18:30:00.000Z",
+  "pageHeading": "Pyramid Technoplast Limited IPO (Pyramid Technoplast IPO) Detail",
+  "pageTitle": "Pyramid Technoplast IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Bijaykumar Agarwal Jaiprakash Agarwal Pushpa Devi Agarwal Madhu Agarwal Yash Synthetics Private Limited and Credence Financial Consultancy LLP are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "74.94%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Pyramid Technoplast IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2023/pyramid-technoplast-limited-drhp_69688.html"
+    },
+    {
+      "text": "Pyramid Technoplast IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2023/pyramid-technoplast-limited-rhp_75120.html"
+    },
+    {
+      "text": "Anchor Investors in Pyramid Technoplast IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20230817-16&attachedId=9e30da3a-7b45-4551-b349-8dac69adb1dd"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "3",
+        "neutral": "2",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/pyramid-technoplast-ipo/1479/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Pyramid Technoplast IPO offers 9220000 shares. 1106400 (12.00%) to QIB 1844000 (20.00%) to NII 4610000 (50.00%) to RII 1659600 (18.00%) to Anchor investors. 51222 RIIs will receive minimum 90 shares and 487 (sNII) and 975 (bNII) will receive minimum 1260 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1659600 (18.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1106400 (12.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1844000 (20.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1229333 (13.33%)",
+        "maximum_allottees": "975"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "614667 (6.67%)",
+        "maximum_allottees": "487"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4610000 (50.00%)",
+        "maximum_allottees": "51222"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "9220000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.018Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Pyramid Technoplast IPO is subscribed 18.29 times on August 22 2023 7:02:00 PM (Day 3). The public issue subscribed 14.72 times in the retail category 9.94 times in the QIB category and 32.24 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "9.94",
+        "shares_offered": "1106400",
+        "shares_bid_for": "11001330"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "32.24",
+        "shares_offered": "1844000",
+        "shares_bid_for": "59441400"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "33.81",
+        "shares_offered": "1229333",
+        "shares_bid_for": "41559750"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "29.09",
+        "shares_offered": "614667",
+        "shares_bid_for": "17881650"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "14.72",
+        "shares_offered": "4610000",
+        "shares_bid_for": "67843710"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "18.29",
+        "shares_offered": "7560400",
+        "shares_bid_for": "138286440"
+      }
+    },
+    "total_applications": "731756"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 22 2023",
+    "tentative_allotment": "Fri Aug 25 2023",
+    "initiation_of_refunds": "Mon Aug 28 2023",
+    "credit_of_shares_to_demat": "Tue Aug 29 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:42.844Z",
+  "updated_at": "2025-04-18T17:40:46.018Z",
+  "year": 2023,
+  "worst_listing_gains": "5.87%",
+  "worst_listing_gains_numeric": 5.87
+}

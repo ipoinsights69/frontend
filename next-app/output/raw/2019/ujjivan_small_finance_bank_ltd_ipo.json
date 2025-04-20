@@ -1,0 +1,406 @@
+{
+  "_id": "6802985c3ccffd1c7912cc64",
+  "ipo_id": "2019_ujjivan_small_finance_bank_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:18:27.294Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ujjivan-bank-ipo/1023/"
+  },
+  "about": {
+    "details": "Incorporated in 2017, Ujjivan Small Finance Bank Limited (USFB) offers small finance to <strong>underserved &amp; unserved segments</strong> in India. The bank aims to work for the financial inclusion of the country. USFB Bank is promoted by Ujjivan Financial Services Limited (UFSL) which is an NBFC providing financial services to the economically active poor, who are not served by the Financial Institutions. \n\nUFSL offers small size loan products to economically poor women, individual loans to Micro and Small Enterprises (MSEs). It follows the integrated lending approach where the company considers technology infrastructure and back-end support functioning before lending.\n\nUSFB has a wide presence across 24 states and union territories in India. As on 30 June 2019, it has 4.72 million customers, 474 Banking Outlets, 387 ATMs, two 24/7 phone banking units (in Bengaluru and Pune) and 50 additionally operated Asset Centres. Customers can use USFB mobile banking application in 5 languages. \n<h2>USFB Loan Product</h2><p>1. Agriculture and allied loans\n2. Affordable housing loans\n3. Loans to micro banking customers\n4. Personal loans\n5. Financial institutions group loans\n6. Vehicle loans\n7. MSE loans</p>\n\nThe bank has a diversified portfolio offering savings, current &amp; deposit accounts, Aadhaar enrolment services, ATM-cum-debit cards, point of sales terminals, and distributing 3rd party insurance products. USFB is focussed on digital platform and provides bill payments, SMS banking, mobile banking, RuPay Platinum debit cards, internet banking, biometric ATMs services digitally. The bank also allows registering savings account on UPI based mobile applications. It has an automated tablet-based loan origination system, digitalised credit processing and automated receipt collection system to reduce the turn around time of customers. \n\n<h2>Competitive Strengths</h2><p>1. Serving mass-market segment of unserved and underserved\n2. Multiple delivery channels\n3. Pan-India presence\n4. Digitally advanced platform\n5. An established risk management framework</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sept-19",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "161078.96",
+          "137422.15",
+          "94728.73"
+        ],
+        [
+          "Total Revenue",
+          "14348.57",
+          "20375.75",
+          "15793.55"
+        ],
+        [
+          "Profit After Tax",
+          "1871.10",
+          "1992.18",
+          "68.63"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 2, 2019 to December 4, 2019",
+    "ipoListingDate": "Thu, Dec 12, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹37.00",
+    "lotSize": "400 Shares",
+    "issueSize": "20,83,33,333 shares (aggregating up to ₹750.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Dec 2, 2019",
+    "ipoCloseDate": "Wed, Dec 4, 2019",
+    "initiationOfRefunds": "Tue, Dec 10, 2019",
+    "creditOfSharesToDemat": "Wed, Dec 11, 2019",
+    "shareHoldingPreIssue": "1,52,55,20,467 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,52,55,20,467 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "94.40%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,72,82,23,169 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,72,82,23,169 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "83.32%"
+      }
+    ]
+  },
+  "closing_date": "2019-12-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 11 3043 2121",
+    "email": "https://www.ujjivansfb.in/",
+    "full_address": "Ujjivan Small Finance Bank Ltd, Plot No. 2364/ 8, Khampur Raya Village Shadi Kampur, Main Patel Road New Delhi 110 008 India",
+    "website": "https://www.ujjivansfb.in/"
+  },
+  "createdAt": "2025-04-18T18:22:20.018Z",
+  "faqs": [
+    {
+      "question": "What is the Ujjivan Bank IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ujjivan Bank IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->208333333<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->750.00<!-- --> Crores. The issue is priced at <span>₹37 per share</span>. The minimum order quantity is <!-- -->400<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 2, 2019</b>, and <b>closes on <!-- -->December 4, 2019</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Ujjivan Bank IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Ujjivan Bank IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Ujjivan Bank IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Ujjivan Bank IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Ujjivan Bank IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Ujjivan Bank IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Ujjivan Bank IPO opens on December 2, 2019 and closes on December 4, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Ujjivan Bank IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ujjivan Bank IPO<!-- --> <b>lot size is <!-- -->400</b>, and the <b>minimum amount required is <span>₹14,800</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Ujjivan Bank IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Ujjivan Bank IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Ujjivan Bank IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Ujjivan Bank IPO<!-- --> will be done on <!-- -->Monday, December 9, 2019<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, December 11, 2019<!-- -->. Check the <a href=\"/ipo_allotment_status/ujjivan-bank-ipo/1023/\" title=\"Ujjivan Bank IPO Allotment Status\">Ujjivan Bank IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Ujjivan Bank IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Ujjivan Bank IPO<!-- --> listing date is on <b>Thursday, December 12, 2019</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Ujjivan Small Finance Bank",
+  "issue_price": "₹37.00",
+  "issue_price_numeric": 37,
+  "issue_size": "20,83,33,333 shares (aggregating up to ₹750.00 Cr)",
+  "issue_size_numeric": 20,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "37.00",
+        "nse": "37.00"
+      },
+      "open": {
+        "bse": "58.00",
+        "nse": "58.75"
+      },
+      "low": {
+        "bse": "53.10",
+        "nse": "53.05"
+      },
+      "high": {
+        "bse": "62.80",
+        "nse": "62.80"
+      },
+      "last_trade": {
+        "bse": "55.90",
+        "nse": "55.95"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 12 2019",
+    "bse_script_code": "542904",
+    "nse_symbol": "UJJIVANSFB",
+    "isin": "INE551W01018",
+    "final_issue_price": "37 per share"
+  },
+  "listing_date": "2019-12-11T18:30:00.000Z",
+  "listing_gains": "51.08%",
+  "listing_gains_numeric": 51.08,
+  "logo": "https://www.chittorgarh.net/images/ipo/usfb-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/usfb-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 400 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "400",
+        "amount": "14800"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "5200",
+        "amount": "192400"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "5600",
+        "amount": "207200"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "26800",
+        "amount": "991600"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "27200",
+        "amount": "1006400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ujjivan-bank-ipo/1023/"
+    }
+  },
+  "lot_size": 400,
+  "opening_date": "2019-12-01T18:30:00.000Z",
+  "pageHeading": "Ujjivan Small Finance Bank Ltd IPO (Ujjivan Bank IPO) Detail",
+  "pageTitle": "Ujjivan Bank IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Ujjivan Financial Services Limited (UFSL) is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "94.40%",
+      "share_holding_post_issue": "83.32%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Ujjivan Bank IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2019/ujjivan-small-finance-bank-limited_43982.html"
+    },
+    {
+      "text": "Ujjivan Bank IPO RHP",
+      "url": "https://nsearchives.nseindia.com/corporate/FP_INE551W01018_05DEC2019.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "18",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ujjivan-bank-ipo/1023/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Ujjivan Bank IPO offers 123958333 shares. 56250000 (45.38%) to QIB 28125000 (22.69%) to NII 18750000 (15.13%) to RII. 46875 RIIs will receive minimum 400 shares and (sNII) and (bNII) will receive minimum 5600 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "56250000 (45.38%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "28125000 (22.69%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "18750000 (15.13%)",
+        "maximum_allottees": "46875"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "20833333 (16.81%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "123958333 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:20.017Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Ujjivan Bank IPO is subscribed 165.66 times on December 4 2019 7:49:03 PM (Day 3). The public issue subscribed 48.97 times in the retail category 110.72 times in the QIB category and 473 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "110.72",
+        "shares_offered": "56250000",
+        "shares_bid_for": "6228032000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "473",
+        "shares_offered": "28125000",
+        "shares_bid_for": "13303191200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "48.97",
+        "shares_offered": "18750000",
+        "shares_bid_for": "918187600"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "4.13",
+        "shares_offered": "20833333",
+        "shares_bid_for": "86010400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "165.66",
+        "shares_offered": "123958333",
+        "shares_bid_for": "20535421200"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 4 2019",
+    "tentative_allotment": "Mon Dec 9 2019",
+    "initiation_of_refunds": "Tue Dec 10 2019",
+    "credit_of_shares_to_demat": "Wed Dec 11 2019"
+  },
+  "updatedAt": "2025-04-19T04:39:40.019Z",
+  "updated_at": "2025-04-18T18:22:20.017Z",
+  "year": 2019,
+  "worst_listing_gains": "51.08%",
+  "worst_listing_gains_numeric": 51.08
+}

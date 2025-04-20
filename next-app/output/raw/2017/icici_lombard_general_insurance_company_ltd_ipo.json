@@ -1,0 +1,398 @@
+{
+  "_id": "680298553ccffd1c7912cb13",
+  "ipo_id": "2017_icici_lombard_general_insurance_company_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:07:22.817Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/icici-lombard-ipo/714/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2000, ICICI Lombard General Insurance Company Ltd founded as a joint venture with ICICI Bank Limited, is engaged in providing various general insurance products and services in India. They mainly offers fire, engineering, hull, aviation, motor, casualty, health, travel, energy, personal accident, marine, liability, home, rural, and credit insurance products and services.</p><p>They also provides reinsurance, insurance claims management, and investment management services. They were the largest private sector non life insurer in India based on gross direct premium income in fiscal 2017. They offer comprehensive and well diversified range of products including  motor,health, crop/weather, fire, personal accident, marine, engineering <br>and liability insurance through multiple distribution channels.</p><p>They provide services to conglomerates, small and medium enterprises, state and central governments or government-owned enterprises, rural customers, and individual customers through various channels, such as agents, brokers, bancassurance, telesales, direct alliances and online platforms.</p><p>Competitive Strengths</p><p>1. Consistent market leadership and demonstrated growth<br>2. Diverse product line with multi - channel distribution network<br>3. Robust risk selection and management framework<br>4. Focus on investments in technology and innovation</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "48885.8",
+          "35445.0",
+          "32414.2",
+          "25070.8",
+          "20290.5"
+        ],
+        [
+          "Total Revenue",
+          "9836.5",
+          "7242.2",
+          "7424.4",
+          "5563.1",
+          "4162.1"
+        ],
+        [
+          "Profit After Tax",
+          "6418.2",
+          "5053.4",
+          "5853.2",
+          "5200.7",
+          "3527.8"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 15, 2017 to September 19, 2017",
+    "ipoListingDate": "Wed, Sep 27, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹661.00",
+    "lotSize": "22 Shares",
+    "issueSize": "8,62,47,187 shares (aggregating up to ₹5,700.94 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Sep 15, 2017",
+    "ipoCloseDate": "Tue, Sep 19, 2017",
+    "initiationOfRefunds": "Mon, Sep 25, 2017",
+    "creditOfSharesToDemat": "Tue, Sep 26, 2017",
+    "shareHoldingPreIssue": "45,39,48,304 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "45,39,48,304 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "45,39,48,304 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "45,39,48,304 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-09-18T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+(91 22) 6196 1100",
+    "email": "investors@icicilombard.com",
+    "full_address": "ICICI Lombard General Insurance Company Ltd, ICICI Lombard House, 14 Veer Savarkar Marg Near Siddhivinayak Temp., Prabhadevi Mumbai 400 025",
+    "website": "https://www.icicilombard.com"
+  },
+  "createdAt": "2025-04-18T18:22:13.405Z",
+  "faqs": [
+    {
+      "question": "What is the ICICI Lombard IPO?",
+      "answer": "<div itemprop=\"text\"><p>ICICI Lombard IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->86247187<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->5,700.94<!-- --> Crores. The issue is priced at <span>₹661 per share</span>. The minimum order quantity is <!-- -->22<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 15, 2017</b>, and <b>closes on <!-- -->September 19, 2017</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in ICICI Lombard IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->ICICI Lombard IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->ICICI Lombard IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->ICICI Lombard IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->ICICI Lombard IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When ICICI Lombard IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The ICICI Lombard IPO opens on September 15, 2017 and closes on September 19, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of ICICI Lombard IPO?",
+      "answer": "<div itemprop=\"text\"><p>ICICI Lombard IPO<!-- --> <b>lot size is <!-- -->22</b>, and the <b>minimum amount required is <span>₹14,542</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for ICICI Lombard IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->ICICI Lombard IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is ICICI Lombard IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->ICICI Lombard IPO<!-- --> will be done on <!-- -->Friday, September 22, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, September 26, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/icici-lombard-ipo/714/\" title=\"ICICI Lombard IPO Allotment Status\">ICICI Lombard IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is ICICI Lombard IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->ICICI Lombard IPO<!-- --> listing date is on <b>Wednesday, September 27, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "ICICI Lombard General Insurance Company",
+  "issue_price": "₹661.00",
+  "issue_price_numeric": 661,
+  "issue_size": "8,62,47,187 shares (aggregating up to ₹5,700.94 Cr)",
+  "issue_size_numeric": 8,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Clsa India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/142/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/142/"
+    },
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "661.00",
+        "nse": "661.00"
+      },
+      "open": {
+        "bse": "650.00",
+        "nse": "651.10"
+      },
+      "low": {
+        "bse": "638.15",
+        "nse": "638.65"
+      },
+      "high": {
+        "bse": "694.00",
+        "nse": "694.00"
+      },
+      "last_trade": {
+        "bse": "681.55",
+        "nse": "681.20"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 27 2017",
+    "bse_script_code": "540716",
+    "nse_symbol": "ICICIGI",
+    "isin": "INE765G01017",
+    "final_issue_price": "661 per share"
+  },
+  "listing_date": "2017-09-26T18:30:00.000Z",
+  "listing_gains": "3.11%",
+  "listing_gains_numeric": 3.11,
+  "logo": "https://www.chittorgarh.net/images/ipo/icici_lombard_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/icici_lombard_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 22 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "22",
+        "amount": "14542"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "286",
+        "amount": "189046"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "308",
+        "amount": "203588"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "1496",
+        "amount": "988856"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "1518",
+        "amount": "1003398"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/icici-lombard-ipo/714/"
+    }
+  },
+  "lot_size": 22,
+  "opening_date": "2017-09-14T18:30:00.000Z",
+  "pageHeading": "ICICI Lombard General Insurance Company Ltd IPO (ICICI Lombard IPO) Detail",
+  "pageTitle": "ICICI Lombard IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "ICICI Lombard IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2017/icici-lombard-general-insurance-company-limited_35321.html"
+    },
+    {
+      "text": "ICICI Lombard IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2017/icici-lombard-general-insurance-company-limited_36054.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/icici-lombard-ipo/714/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "ICICI Lombard IPO offers 61666740 shares. 16386966 (26.57%) to QIB 12290225 (19.93%) to NII 28677190 (46.50%) to RII. 1303508 RIIs will receive minimum 22 shares and (sNII) and (bNII) will receive minimum 308 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "16386966 (26.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "12290225 (19.93%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "28677190 (46.50%)",
+        "maximum_allottees": "1303508"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "4312359 (6.99%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "61666740 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:13.405Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The ICICI Lombard IPO is subscribed 2.98 times on September 19 2017 5:00:00 PM (Day 3). The public issue subscribed 1.23 times in the retail category 8.17 times in the QIB category and 0.83 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "8.17",
+        "shares_offered": "16386966",
+        "shares_bid_for": "133939432"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.83",
+        "shares_offered": "12290225",
+        "shares_bid_for": "10149480"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.23",
+        "shares_offered": "28677190",
+        "shares_bid_for": "35193972"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "0.99",
+        "shares_offered": "4312359",
+        "shares_bid_for": "4282212"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.98",
+        "shares_offered": "61666740",
+        "shares_bid_for": "183565096"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 19 2017",
+    "tentative_allotment": "Fri Sep 22 2017",
+    "initiation_of_refunds": "Mon Sep 25 2017",
+    "credit_of_shares_to_demat": "Tue Sep 26 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:51.297Z",
+  "updated_at": "2025-04-18T18:22:13.405Z",
+  "year": 2017,
+  "worst_listing_gains": "3.11%",
+  "worst_listing_gains_numeric": 3.11
+}

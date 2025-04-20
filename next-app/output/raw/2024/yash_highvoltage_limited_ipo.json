@@ -1,0 +1,468 @@
+{
+  "_id": "68024a043ccffd1c7912c843",
+  "ipo_id": "2024_yash_highvoltage_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:16:16.603Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/yash-highvoltage-ipo/1929/"
+  },
+  "about": {
+    "details": "<p>Incorporated in June 2002, Yash Highvoltage Limited specializes in the manufacturing and distributing a wide range of transformer bushings.</p>\n<p>The company's product portfolio includes Oil-Impregnated Paper (OIP) condenser bushings, Resin-Impregnated Paper (RIP) and Resin-Impregnated Synthetic (RIS) condenser bushings, high-voltage and high-current bushings, OIP wall bushings, and oil-to-oil bushings. The company&nbsp;also provides repair, retrofitting, and replacement services for old bushings.</p>\n<p>The company's manufacturing unit is situated in Vadodara, Gujarat, and has an annual production capacity of 7,000 bushings. This capacity is divided into 3,700 units of Oil-Immersed Paper (OIP) Bushings, 3,000 units of Resin-Impregnated Paper (RIP) Bushings, and 300 units of High Current Bushings. The factory is fully equipped with in-house quality testing facilities.</p>\n<p>As of November 30, 2024, the company has 157 full time employees.</p>\n<p><strong>Competitive Strength</strong></p>\n<ul>\n<li>Unique positioning in the Indian Transformer Bushing Market</li>\n<li>The demand for bushings will increase due to strong industry trends.</li>\n<li>Strong track record of supply and installation creates entry barriers for new players</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Yash Highvoltage Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "8084.36",
+          "7039.29",
+          "5914.59",
+          "4315.83"
+        ],
+        [
+          "Revenue",
+          "2777.84",
+          "10912.25",
+          "9061.15",
+          "6537.90"
+        ],
+        [
+          "Profit After Tax",
+          "312.75",
+          "1206.27",
+          "1142.22",
+          "871.23"
+        ],
+        [
+          "Net Worth",
+          "4526.20",
+          "4213.45",
+          "3208.21",
+          "2450.65"
+        ],
+        [
+          "Reserves and Surplus",
+          "3787.99",
+          "3905.86",
+          "2900.62",
+          "2143.06"
+        ],
+        [
+          "Total Borrowing",
+          "1256.97",
+          "707.64",
+          "777.60",
+          "744.49"
+        ]
+      ]
+    },
+    {
+      "heading": "Yash Highvoltage Ltd Stock Quote & Charts",
+      "sanitizedHeading": "yash_highvoltage_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "32.51%"
+        ],
+        [
+          "ROCE",
+          "44.07%"
+        ],
+        [
+          "Debt/Equity",
+          "0.17"
+        ],
+        [
+          "RoNW",
+          "32.51%"
+        ],
+        [
+          "PAT Margin",
+          "11.12"
+        ],
+        [
+          "Price to Book Value",
+          "1.07"
+        ]
+      ]
+    },
+    {
+      "heading": "Yash Highvoltage Ltd Stock Quote & Charts",
+      "sanitizedHeading": "yash_highvoltage_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "5.45",
+          "4.38"
+        ],
+        [
+          "P/E (x)",
+          "26.8",
+          "33.32"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Yash Highvoltage IPO raises Rs 31.33 crore from anchor investors. Yash Highvoltage IPO Anchor bid date is December 11 2024. Yash Highvoltage IPO Anchor Investors list",
+    "list_link": {
+      "text": "Yash Highvoltage IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/yash_highvoltage_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "March 17 2025",
+      "shares_offered": "2146000",
+      "anchor_portion_size": "31.33"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 12, 2024 to December 16, 2024",
+    "ipoListingDate": "Thu, Dec 19, 2024",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹146.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "75,35,000 shares (aggregating up to ₹110.01 Cr)",
+    "freshIssue": "64,05,000 shares (aggregating up to ₹93.51 Cr)",
+    "offerForSale": "11,30,000 shares of ₹5 (aggregating up to ₹16.50 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "3,77,000 shares",
+      "maker_name": "Alacrity Securities Ltd.",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/205/"
+    },
+    "ipoOpenDate": "Thu, Dec 12, 2024",
+    "ipoCloseDate": "Mon, Dec 16, 2024",
+    "initiationOfRefunds": "Wed, Dec 18, 2024",
+    "creditOfSharesToDemat": "Wed, Dec 18, 2024",
+    "shareHoldingPreIssue": "2,21,46,249 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,21,46,249 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "79.48%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,85,51,249 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,85,51,249 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-12-15T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 74900 28892",
+    "email": "cs@yashhv.com",
+    "full_address": "Yash Highvoltage Limited, 84/1B, PO Khakharia, Taluka-Savli Vadodara 391510",
+    "website": "https://www.yashhv.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.966Z",
+  "faqs": [
+    {
+      "question": "What is the Yash Highvoltage IPO?",
+      "answer": "<div itemprop=\"text\"><p>Yash Highvoltage IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->7535000<!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->110.01<!-- --> Crores. The issue is priced at <span>₹146 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 12, 2024</b>, and <b>closes on <!-- -->December 16, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Yash Highvoltage IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Yash Highvoltage IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Yash Highvoltage IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Yash Highvoltage IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Yash Highvoltage IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Yash Highvoltage IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Yash Highvoltage IPO opens on December 12, 2024 and closes on December 16, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Yash Highvoltage IPO?",
+      "answer": "<div itemprop=\"text\"><p>Yash Highvoltage IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,46,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Yash Highvoltage IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Yash Highvoltage IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Yash Highvoltage IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Yash Highvoltage IPO<!-- --> will be done on <!-- -->Tuesday, December 17, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, December 18, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/yash-highvoltage-ipo/1929/\" title=\"Yash Highvoltage IPO Allotment Status\">Yash Highvoltage IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Yash Highvoltage IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Yash Highvoltage IPO<!-- --> listing date is on <b>Thursday, December 19, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Yash Highvoltage",
+  "issue_price": "₹146.00",
+  "issue_price_numeric": 146,
+  "issue_size": "75,35,000 shares (aggregating up to ₹110.01 Cr)",
+  "issue_size_numeric": 75,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Indorient Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/175/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/175/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "146.00"
+      },
+      "open": {
+        "bse_sme": "277.40"
+      },
+      "low": {
+        "bse_sme": "277.40"
+      },
+      "high": {
+        "bse_sme": "291.25"
+      },
+      "last_trade": {
+        "bse_sme": "285.63"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 19 2024",
+    "bse_script_code": "544310",
+    "isin": "INE00GK01023",
+    "final_issue_price": "146 per share"
+  },
+  "listing_date": "2024-12-18T18:30:00.000Z",
+  "listing_gains": "95.64%",
+  "listing_gains_numeric": 95.64,
+  "logo": "https://www.chittorgarh.net/images/ipo/yash_highvoltage_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/yash_highvoltage_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "146000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "146000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "292000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/yash-highvoltage-ipo/1929/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-12-11T18:30:00.000Z",
+  "pageHeading": "Yash Highvoltage Limited IPO (Yash Highvoltage IPO) Detail",
+  "pageTitle": "Yash Highvoltage IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoter of the Company is Mr. Keyur Girishchandra Shah.",
+    "holdings": {
+      "share_holding_pre_issue": "79.48%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Yash Highvoltage IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/313881/DRHPYASHHVBSE_20241016001946.pdf"
+    },
+    {
+      "text": "Yash Highvoltage IPO Addendum DRHP",
+      "url": "https://www.bsesme.com/download/313881/YASHDRHPAddendum_20241129125945.pdf"
+    },
+    {
+      "text": "Yash Highvoltage IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2025/yash-highvoltage-limited_90412.html"
+    },
+    {
+      "text": "Anchor Investors in Yash Highvoltage IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/yash_highvoltage_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/yash-highvoltage-ipo/1929/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Yash Highvoltage IPO offers 7535000 shares. 1432000 (19%) to QIB 1074000 (14.25%) to NII 2506000 (33.26%) to RII and 2146000 (28.48%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "2146000 (28.48%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "377000 (5%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1432000 (19%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1074000 (14.25%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2506000 (33.26%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "7535000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.966Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Yash Highvoltage IPO is subscribed 181.82 times on December 16 2024 6:15:10 PM (Day 3). The public issue subscribed 151.52 times in the retail category 123.7 times in the QIB category and 330.03 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "123.7",
+        "shares_offered": "1432000",
+        "shares_bid_for": "177141000",
+        "total_application": "111"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "330.03",
+        "shares_offered": "1074000",
+        "shares_bid_for": "354448000",
+        "total_application": "21436"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "151.52",
+        "shares_offered": "2506000",
+        "shares_bid_for": "379699000",
+        "total_application": "379749"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "181.82",
+        "shares_offered": "5012000",
+        "shares_bid_for": "911288000",
+        "total_application": "401296"
+      }
+    },
+    "total_applications": "401296",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 16 2024",
+    "tentative_allotment": "Tue Dec 17 2024",
+    "initiation_of_refunds": "Wed Dec 18 2024",
+    "credit_of_shares_to_demat": "Wed Dec 18 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:23.387Z",
+  "updated_at": "2025-04-18T12:48:03.966Z",
+  "year": 2024,
+  "worst_listing_gains": "95.64%",
+  "worst_listing_gains_numeric": 95.64
+}

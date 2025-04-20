@@ -1,0 +1,427 @@
+{
+  "_id": "68028e9b3ccffd1c7912c8d3",
+  "ipo_id": "2023_electro_force_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:26:39.486Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/electro-force-india-ipo/1596/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2010, Electro Force (India) Limited designs and manufactures electrical components and metal/plastic contact parts for India's electronics, lighting, switchgear, and allied industries.</p>\n<p>Electro Force designs and manufactures stamping components and plastic components by metal stamping, injection molding and insert molding for electrical MCBs (Miniature Circuit Breakers), 63A electrical manual transfer switches, electrical MCCBs &amp; RCBs, brushless DC motors for medical devices/aerospace/defense and automation, electrical motor starters, Electrical Control Gears, and electrical switches.</p>\n<p>The company also provides quality testing, packaging, assembly, secondary operations and logistics services.</p>\n<p>The company has a leased manufacturing facility in Vasai, Maharashtra, with an area of over 10,000 square feet.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Electro Force (India) Limited Financial Information (Restated)",
+      "sanitizedHeading": "electro_force",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "7827.00",
+          "7231.51",
+          "4783.37",
+          "1719.96"
+        ],
+        [
+          "Revenue",
+          "2314.19",
+          "3028.81",
+          "3443.55",
+          "1587.13"
+        ],
+        [
+          "Profit After Tax",
+          "711.08",
+          "799.60",
+          "864.26",
+          "-223.69"
+        ],
+        [
+          "Net Worth",
+          "2546.41",
+          "1835.33",
+          "1035.73",
+          "171.47"
+        ],
+        [
+          "Reserves and Surplus",
+          "806.41",
+          "95.33",
+          "535.73",
+          "-328.53"
+        ],
+        [
+          "Total Borrowing",
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "heading": "Electro Force (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "electro_force_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "43.57%"
+        ],
+        [
+          "ROCE",
+          "58.23%"
+        ],
+        [
+          "RoNW",
+          "43.57%"
+        ]
+      ]
+    },
+    {
+      "heading": "Electro Force (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "electro_force_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.60",
+          null
+        ],
+        [
+          "P/E (x)",
+          "20.22",
+          "15.3"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 19, 2023 to December 21, 2023",
+    "ipoListingDate": "Wed, Dec 27, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹93.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "86,74,800 shares (aggregating up to ₹80.68 Cr)",
+    "freshIssue": "60,00,000 shares (aggregating up to ₹55.80 Cr)",
+    "offerForSale": "26,74,800 shares of ₹10 (aggregating up to ₹24.88 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "4,35,600 shares",
+      "maker_name": "Arham Shares Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/413/"
+    },
+    "ipoOpenDate": "Tue, Dec 19, 2023",
+    "ipoCloseDate": "Thu, Dec 21, 2023",
+    "initiationOfRefunds": "Tue, Dec 26, 2023",
+    "creditOfSharesToDemat": "Tue, Dec 26, 2023",
+    "shareHoldingPreIssue": "1,74,00,001 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,74,00,001 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,34,00,001 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,34,00,001 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "62.93%"
+      }
+    ]
+  },
+  "closing_date": "2023-12-20T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 35722456",
+    "email": "compliance@electroforceindia.com",
+    "full_address": "Electro Force (India) Limited, 39/5 Village - Waliv, Taluka - Vasai East, Palghar - 401 208",
+    "website": "https://electroforceindia.com/"
+  },
+  "createdAt": "2025-04-18T17:40:43.795Z",
+  "faqs": [
+    {
+      "question": "What is the Electro Force India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Electro Force India IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->8674800<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->80.68<!-- --> Crores. The issue is priced at <span>₹93 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 19, 2023</b>, and <b>closes on <!-- -->December 21, 2023</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Electro Force India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Electro Force India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Electro Force India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Electro Force India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Electro Force India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Electro Force India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Electro Force India IPO opens on December 19, 2023 and closes on December 21, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Electro Force India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Electro Force India IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,11,600</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Electro Force India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Electro Force India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Electro Force India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Electro Force India IPO<!-- --> will be done on <!-- -->Friday, December 22, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, December 26, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/electro-force-india-ipo/1596/\" title=\"Electro Force India IPO Allotment Status\">Electro Force India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Electro Force India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Electro Force India IPO<!-- --> listing date is on <b>Wednesday, December 27, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Electro Force (India)",
+  "issue_price": "₹93.00",
+  "issue_price_numeric": 93,
+  "issue_size": "86,74,800 shares (aggregating up to ₹80.68 Cr)",
+  "issue_size_numeric": 86,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "First Overseas Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/110/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/110/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "93.00"
+      },
+      "open": {
+        "nse_sme": "100.00"
+      },
+      "low": {
+        "nse_sme": "95.10"
+      },
+      "high": {
+        "nse_sme": "105.00"
+      },
+      "last_trade": {
+        "nse_sme": "105.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "December 27 2023",
+    "nse_symbol": "EFORCE",
+    "isin": "INE0Q1W01012",
+    "final_issue_price": "93 per share"
+  },
+  "listing_date": "2023-12-26T18:30:00.000Z",
+  "listing_gains": "12.90%",
+  "listing_gains_numeric": 12.9,
+  "logo": "https://www.chittorgarh.net/images/ipo/electro-force-india-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/electro-force-india-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "111600"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "111600"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "223200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/electro-force-india-ipo/1596/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-12-18T18:30:00.000Z",
+  "pageHeading": "Electro Force (India) Limited IPO (Electro Force India IPO) Detail",
+  "pageTitle": "Electro Force India IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Ayesspea Holdings and Investments Private Limited Garuda Television Private Limited and Pravin Kumar Brijendra Kumar Agarwal are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "62.93%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Electro Force India IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ElectroForce_DP.zip"
+    },
+    {
+      "text": "Electro Force India IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/electro-force-india-limited-sme-issue-prospectus_79819.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/electro-force-india-ipo/1596/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Electro Force India IPO offers 8674800 shares. 4119600 (47.49%) to NII 4119600 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "435600 (5.02%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "4119600 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4119600 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "8674800 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:43.794Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Electro Force India IPO is subscribed 4.28 times on December 21 2023 7:29:00 PM (Day 3). The public issue subscribed 6.44 times in the retail category [.] times in the QIB category and 2.12 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.12",
+        "shares_offered": "4119600",
+        "shares_bid_for": "8728800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "6.44",
+        "shares_offered": "4119600",
+        "shares_bid_for": "26541600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "4.28",
+        "shares_offered": "8239200",
+        "shares_bid_for": "35296800"
+      }
+    },
+    "total_applications": "22118",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 21 2023",
+    "tentative_allotment": "Fri Dec 22 2023",
+    "initiation_of_refunds": "Tue Dec 26 2023",
+    "credit_of_shares_to_demat": "Tue Dec 26 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:29.572Z",
+  "updated_at": "2025-04-18T17:40:43.794Z",
+  "year": 2023,
+  "worst_listing_gains": "12.90%",
+  "worst_listing_gains_numeric": 12.9
+}

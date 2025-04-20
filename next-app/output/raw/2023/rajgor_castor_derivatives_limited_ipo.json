@@ -1,0 +1,459 @@
+{
+  "_id": "68028e9e3ccffd1c7912c938",
+  "ipo_id": "2023_rajgor_castor_derivatives_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:28:49.102Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/rajgor-castor-derivatives-ipo/1527/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2018, Rajgor Castor Derivatives Limited manufactures castor oil-based products for the Indian market.</p>\n<p>The company's product list includes:</p>\n<ol>\n<li>Refined Castor Oil First Stage Grade (F.S.G.): F.S.G. Castor Oil is Castor Oil bleached to British Standard Specifications. It is used in Lubricants, Paints, Pharmaceuticals, Cable insulators, Sealants, Inks, Rubber and Textiles, etc. It is also used to relief Constipation, Eyelashes growth, Hair grow, Skin moisturiser ad to improve immunity function as well as for applying on food grains to protect from insects/fungi.</li>\n<li>Castor De-Oiled Cake: It is produced by crushing castor seeds in an expeller to extract oil from it at a controlled temperature with the help of steam. It is used as a fertilizer because of the high content of Nitrogen, Phosphoric Acid, Potash, and moisture retention.</li>\n<li>High Protein Castor De-Oiled Cake: It is an organic manure that enhances the fertility of the soil without causing any damage or decay.</li>\n</ol>\n<p>The company's manufacturing unit is located in Banaskantha. As of July 31, 2023, the company employs over 60 employees.</p>\n<p>Rajgor Castor Derivatives' clientele includes manufacturers of Lubricants, Paints, Pharmaceuticals, Cable insulators, Sealants, Inks, Rubber, and Textiles, farmers and manufacturers of organic fertilizers, poultry farms, and manufacturers of organic fertilizers.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Rajgor Castor Derivatives Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021",
+        "31 Mar 2020"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "9847.95",
+          "7782.64",
+          "3753.42",
+          "2578.48",
+          "2645.34"
+        ],
+        [
+          "Revenue",
+          "11276.10",
+          "42887.35",
+          "4091.30",
+          "1100.69",
+          "1497.33"
+        ],
+        [
+          "Profit After Tax",
+          "192.57",
+          "554.47",
+          "52.19",
+          "-180.18",
+          "-97.02"
+        ],
+        [
+          "Net Worth",
+          "2558.24",
+          "2365.55",
+          "201.90",
+          "149.71",
+          null
+        ],
+        [
+          "Reserves and Surplus",
+          "2343.54",
+          "2150.97",
+          "190.12",
+          "137.93",
+          "318.12"
+        ],
+        [
+          "Total Borrowing",
+          "5178.96",
+          "4450.93",
+          "1809.51",
+          "2286.28",
+          null
+        ]
+      ]
+    },
+    {
+      "heading": "Rajgor Castor Derivatives Limited Stock Quote & Charts",
+      "sanitizedHeading": "rajgor_castor_derivatives_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "43.19%"
+        ],
+        [
+          "ROCE",
+          "22.97%"
+        ],
+        [
+          "Debt/Equity",
+          "1.88"
+        ],
+        [
+          "RoNW",
+          "23.44%"
+        ]
+      ]
+    },
+    {
+      "heading": "Rajgor Castor Derivatives Limited Stock Quote & Charts",
+      "sanitizedHeading": "rajgor_castor_derivatives_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "30.06",
+          null
+        ],
+        [
+          "P/E (x)",
+          "1.66",
+          "15.48"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Rajgor Castor Derivatives IPO raises Rs 13.56 crore from anchor investors. Rajgor Castor Derivatives IPO Anchor bid date is October 16 2023. Rajgor Castor Derivatives IPO Anchor Investors list",
+    "list_link": {
+      "text": "Rajgor Castor Derivatives IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rajgor-anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "January 24 2024",
+      "shares_offered": "2712000",
+      "anchor_portion_size": "13.56"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "October 17, 2023 to October 20, 2023",
+    "ipoListingDate": "Tue, Oct 31, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹50.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "95,61,000 shares (aggregating up to ₹47.81 Cr)",
+    "freshIssue": "88,95,000 shares (aggregating up to ₹44.48 Cr)",
+    "offerForSale": "6,66,000 shares of ₹10 (aggregating up to ₹3.33 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "5,01,000 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Tue, Oct 17, 2023",
+    "ipoCloseDate": "Fri, Oct 20, 2023",
+    "initiationOfRefunds": "Fri, Oct 27, 2023",
+    "creditOfSharesToDemat": "Mon, Oct 30, 2023",
+    "shareHoldingPreIssue": "1,50,20,852 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,50,20,852 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,39,15,852 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,39,15,852 shares"
+      }
+    ]
+  },
+  "closing_date": "2023-10-19T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9898926368",
+    "email": "cs@rajgorcastor.com",
+    "full_address": "Rajgor Castor Derivatives Limited, 807 Titanium One Nr. Pakwan Cross Road, Nr. Shabri Water Works S.G. Highway, Bodakdev Ahmedabad-380054",
+    "website": "https://www.rajgorcastor.com/"
+  },
+  "createdAt": "2025-04-18T17:40:46.030Z",
+  "faqs": [
+    {
+      "question": "What is the Rajgor Castor Derivatives IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rajgor Castor Derivatives IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->9561000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->47.81<!-- --> Crores. The issue is priced at <span>₹50 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->October 17, 2023</b>, and <b>closes on <!-- -->October 20, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Rajgor Castor Derivatives IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Rajgor Castor Derivatives IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Rajgor Castor Derivatives IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Rajgor Castor Derivatives IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Rajgor Castor Derivatives IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Rajgor Castor Derivatives IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Rajgor Castor Derivatives IPO opens on October 17, 2023 and closes on October 20, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Rajgor Castor Derivatives IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rajgor Castor Derivatives IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,50,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Rajgor Castor Derivatives IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Rajgor Castor Derivatives IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Rajgor Castor Derivatives IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Rajgor Castor Derivatives IPO<!-- --> will be done on <!-- -->Thursday, October 26, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, October 30, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/rajgor-castor-derivatives-ipo/1527/\" title=\"Rajgor Castor Derivatives IPO Allotment Status\">Rajgor Castor Derivatives IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Rajgor Castor Derivatives IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Rajgor Castor Derivatives IPO<!-- --> listing date is on <b>Tuesday, October 31, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Rajgor Castor Derivatives",
+  "issue_price": "₹50.00",
+  "issue_price_numeric": 50,
+  "issue_size": "95,61,000 shares (aggregating up to ₹47.81 Cr)",
+  "issue_size_numeric": 95,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "50.00"
+      },
+      "open": {
+        "nse_sme": "59.00"
+      },
+      "low": {
+        "nse_sme": "56.05"
+      },
+      "high": {
+        "nse_sme": "61.95"
+      },
+      "last_trade": {
+        "nse_sme": "61.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 31 2023",
+    "nse_symbol": "RCDL",
+    "isin": "INE0BZQ01011",
+    "final_issue_price": "50 per share"
+  },
+  "listing_date": "2023-10-30T18:30:00.000Z",
+  "listing_gains": "22.20%",
+  "listing_gains_numeric": 22.2,
+  "logo": "https://www.chittorgarh.net/images/ipo/rajgor-castor-derivatives-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/rajgor-castor-derivatives-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "150000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "150000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "300000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/rajgor-castor-derivatives-ipo/1527/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2023-10-16T18:30:00.000Z",
+  "pageHeading": "Rajgor Castor Derivatives Limited IPO (Rajgor Castor Derivatives IPO) Detail",
+  "pageTitle": "Rajgor Castor Derivatives IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Brijeshkumar Vasantlal Rajgor Mr. Vasantkumar Shankarlal Rajgor and Mr. Maheshkumar Shankarlal Rajgor are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Rajgor Castor Derivatives IPO DRHP",
+      "url": "https://archives.nseindia.com/emerge/corporates/content/RajgorCastor_DRHP.pdf"
+    },
+    {
+      "text": "Rajgor Castor Derivatives IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2023/rajgor-castor-derivatives-limited_78892.html"
+    },
+    {
+      "text": "Anchor Investors in Rajgor Castor Derivatives IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rajgor-anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/rajgor-castor-derivatives-ipo/1527/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "rajgorcastorderivatives.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Rajgor Castor Derivatives IPO offers 9439000 shares. 1722000 (18.24%) to QIB 1362000 (14.43%) to NII 3142000 (33.29%) to RII 2712000 (28.73%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "2712000 (28.73%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "501000 (5.31%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1722000 (18.24%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1362000 (14.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3142000 (33.29%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "9439000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.030Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Rajgor Castor Derivatives IPO is subscribed 107.43 times on October 20 2023 7:29:00 PM (Day 4). The public issue subscribed 80.7 times in the retail category 35.52 times in the QIB category and 260.01 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "35.52",
+        "shares_offered": "1722000",
+        "shares_bid_for": "61173000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "260.01",
+        "shares_offered": "1362000",
+        "shares_bid_for": "354129000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "80.7",
+        "shares_offered": "3142000",
+        "shares_bid_for": "253551000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "107.43",
+        "shares_offered": "6226000",
+        "shares_bid_for": "668853000"
+      }
+    },
+    "total_applications": "84517",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 20 2023",
+    "tentative_allotment": "Thu Oct 26 2023",
+    "initiation_of_refunds": "Fri Oct 27 2023",
+    "credit_of_shares_to_demat": "Mon Oct 30 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:43.105Z",
+  "updated_at": "2025-04-18T17:40:46.030Z",
+  "year": 2023,
+  "worst_listing_gains": "22.20%",
+  "worst_listing_gains_numeric": 22.2
+}

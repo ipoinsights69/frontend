@@ -1,0 +1,400 @@
+{
+  "_id": "6802918c3ccffd1c7912ca25",
+  "ipo_id": "2021_supriya_lifescience_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:44:44.543Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/supriya-lifescience-ipo/1197/"
+  },
+  "about": {
+    "details": "<p>Supriya Lifescience is engaged in the manufacturing of Active pharmaceutical ingredients (APIs). As of March 31, 2021, the company produces 38 APIs focused on diverse therapeutic segments such as antihistamine, analgesic, anaesthetic, vitamin, anti-asthmatic and anti-allergic. The company has been the largest exporter of Chlorpheniramine Maleate and Ketamine Hydrochloride from India between Fiscal 2017 and 2021. The company is also one of the largest exporters of Salbutamol Sulphate from India in FY 2021 in terms of volume.</p>\n<p>In Fiscal 2021, the company's products were exported to 86 countries to 1,296 customers including 346 distributors. The company has API business in Europe, Latin America, Asia, and North America.</p>\n<p>Supriya Lifescience has a modern manufacturing facility in Maharashtra spread across 23,806 sq. mts, having a reactor capacity of 547 KL/ day including 7 clean rooms. The company has also acquired a plot of land, admeasuring 12,551 sq. mt, near the present manufacturing facility, to expand its manufacturing infrastructure. The company's manufacturing facility has received approvals from USFDA, EDQM TGA-Australia, KFDA-Korea, PMDA Japan, NMPA (previously known as SFDA)- China, Health Canada, in relation to&nbsp;API products being exported to the relevant jurisdictions by the company.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-21",
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "5041.02",
+          "4458.24",
+          "3364.01",
+          "2530.52"
+        ],
+        [
+          "Total Revenue",
+          "2300.61",
+          "3962.21",
+          "3227.13",
+          "2858.62"
+        ],
+        [
+          "Profit After Tax",
+          "659.59",
+          "1238.28",
+          "733.74",
+          "394.24"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 16, 2021 to December 20, 2021",
+    "ipoListingDate": "Tue, Dec 28, 2021",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹274.00",
+    "lotSize": "54 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹700.00 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹200.00 Cr)",
+    "offerForSale": "[.] shares of ₹2 (aggregating up to ₹500.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Dec 16, 2021",
+    "ipoCloseDate": "Mon, Dec 20, 2021",
+    "initiationOfRefunds": "Fri, Dec 24, 2021",
+    "creditOfSharesToDemat": "Mon, Dec 27, 2021",
+    "shareHoldingPreIssue": "7,31,83,530 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "7,31,83,530 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.98%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,55,47,445 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,55,47,445 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "68.24%"
+      }
+    ]
+  },
+  "closing_date": "2021-12-19T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-22-40332727",
+    "email": "cs@supriyalifescience.com",
+    "full_address": "Supriya Lifescience Limited, 207/208 Udyog Bhavan, Sonawala Road Goregaon, East Mumbai – 400063 Maharashtra India",
+    "website": "https://supriyalifescience.com/"
+  },
+  "createdAt": "2025-04-18T17:53:16.660Z",
+  "faqs": [
+    {
+      "question": "What is the Supriya Lifescience IPO?",
+      "answer": "<div itemprop=\"text\"><p>Supriya Lifescience IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->700.00<!-- --> Crores. The issue is priced at <span>₹274 per share</span>. The minimum order quantity is <!-- -->54<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 16, 2021</b>, and <b>closes on <!-- -->December 20, 2021</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Supriya Lifescience IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Supriya Lifescience IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Supriya Lifescience IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Supriya Lifescience IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Supriya Lifescience IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Supriya Lifescience IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Supriya Lifescience IPO opens on December 16, 2021 and closes on December 20, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Supriya Lifescience IPO?",
+      "answer": "<div itemprop=\"text\"><p>Supriya Lifescience IPO<!-- --> <b>lot size is <!-- -->54</b>, and the <b>minimum amount required is <span>₹14,796</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Supriya Lifescience IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Supriya Lifescience IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Supriya Lifescience IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Supriya Lifescience IPO<!-- --> will be done on <!-- -->Thursday, December 23, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, December 27, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/supriya-lifescience-ipo/1197/\" title=\"Supriya Lifescience IPO Allotment Status\">Supriya Lifescience IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Supriya Lifescience IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Supriya Lifescience IPO<!-- --> listing date is on <b>Tuesday, December 28, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Supriya Lifescience",
+  "issue_price": "₹274.00",
+  "issue_price_numeric": 274,
+  "issue_size": "[.] shares (aggregating up to ₹700.00 Cr)",
+  "issue_size_numeric": 700,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "274.00",
+        "nse": "274.00"
+      },
+      "open": {
+        "bse": "425.00",
+        "nse": "421.00"
+      },
+      "low": {
+        "bse": "383.15",
+        "nse": "383.20"
+      },
+      "high": {
+        "bse": "425.00",
+        "nse": "421.00"
+      },
+      "last_trade": {
+        "bse": "390.35",
+        "nse": "390.85"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 28 2021",
+    "bse_script_code": "543434",
+    "nse_symbol": "SUPRIYA",
+    "isin": "INE07RO01027",
+    "final_issue_price": "274 per share"
+  },
+  "listing_date": "2021-12-27T18:30:00.000Z",
+  "listing_gains": "42.46%",
+  "listing_gains_numeric": 42.46,
+  "logo": "https://www.chittorgarh.net/images/ipo/supriya-lifescience-ltd-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/supriya-lifescience-ltd-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 54 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "54",
+        "amount": "14796"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "702",
+        "amount": "192348"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "756",
+        "amount": "207144"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "3618",
+        "amount": "991332"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "3672",
+        "amount": "1006128"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/supriya-lifescience-ipo/1197/"
+    }
+  },
+  "lot_size": 54,
+  "opening_date": "2021-12-15T18:30:00.000Z",
+  "pageHeading": "Supriya Lifescience Limited IPO (Supriya Lifescience IPO) Detail",
+  "pageTitle": "Supriya Lifescience IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Satish Waman Wagh is the company promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "99.98%",
+      "share_holding_post_issue": "68.24%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Supriya Lifescience IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2021/supriya-lifescience-limited_50137.html"
+    },
+    {
+      "text": "Supriya Lifescience IPO RHP",
+      "url": "https://nsearchives.nseindia.com/corporate/FP_INE07RO01027_24DEC2021.pdf"
+    },
+    {
+      "text": "Anchor Investors in Supriya Lifescience IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20211215-64&attachedId=972650e9-3a7c-4945-9bc8-ecb076e0dacc"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "3",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/supriya-lifescience-ipo/1197/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "supriyalife.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Supriya Lifescience IPO offers 14528299 shares. 7924527 (54.55%) to QIB 3962263 (27.27%) to NII 2641509 (18.18%) to RII. 48916 RIIs will receive minimum 54 shares and (sNII) and (bNII) will receive minimum 756 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "7924527 (54.55%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3962263 (27.27%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2641509 (18.18%)",
+        "maximum_allottees": "48916"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "14528299 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:16.660Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Supriya Lifescience IPO is subscribed 71.51 times on December 20 2021 7:52:00 PM (Day 4). The public issue subscribed 56.01 times in the retail category 31.83 times in the QIB category and 161.22 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "31.83",
+        "shares_offered": "7924527",
+        "shares_bid_for": "252234270"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "161.22",
+        "shares_offered": "3962263",
+        "shares_bid_for": "638780418"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "56.01",
+        "shares_offered": "2641509",
+        "shares_bid_for": "147942450"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "71.51",
+        "shares_offered": "14528299",
+        "shares_bid_for": "1038957138"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 20 2021",
+    "tentative_allotment": "Thu Dec 23 2021",
+    "initiation_of_refunds": "Fri Dec 24 2021",
+    "credit_of_shares_to_demat": "Mon Dec 27 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:17.287Z",
+  "updated_at": "2025-04-18T17:53:16.660Z",
+  "year": 2021,
+  "worst_listing_gains": "42.46%",
+  "worst_listing_gains_numeric": 42.46
+}

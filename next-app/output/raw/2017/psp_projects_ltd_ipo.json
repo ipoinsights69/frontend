@@ -1,0 +1,384 @@
+{
+  "_id": "680298563ccffd1c7912cb47",
+  "ipo_id": "2017_psp_projects_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:09:26.239Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/psp-projects-ipo/660/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2008, PSP Projects Ltd is an India based construction company offering a diversified range of construction and allied services across industrial, institutional, government, government residential and residential projects.</p><p>The company constructs industrial buildings for pharmaceutical plants, food processing units, engineering units and manufacturing and processing facilities; and buildings for hospitals and healthcare services, educational institutes, malls, hospitality services, and corporate offices. They also undertakes government projects and government residential projects; and constructs buildings for group housing and townships, as well as independent residences for select private customers, as well as manufactures ready mix concrete.</p><p>They have successfully executed a number of prestigious projects across Gujarat. One of the first major projects that they completed was the construction of the GCS Medical College,  Hospital and Research Centre (managed by the Gujarat Cancer Society) in June 2012.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Dec-16",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13",
+          "31-Mar-12"
+        ],
+        [
+          "Total Assets",
+          "2741.50",
+          "2287.13",
+          "1863.78",
+          "1362.71",
+          "1009.60",
+          "918.53"
+        ],
+        [
+          "Total Revenue",
+          "2494.15",
+          "4677.14",
+          "2869.67",
+          "2147.97",
+          "2609.69",
+          "1807.53"
+        ],
+        [
+          "Profit After Tax (PAT)",
+          "214.83",
+          "249.31",
+          "140.54",
+          "100.70",
+          "122.50",
+          "83.52"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "May 17, 2017 to May 19, 2017",
+    "ipoListingDate": "Mon, May 29, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹210.00",
+    "lotSize": "70 Shares",
+    "issueSize": "1,00,80,000 shares (aggregating up to ₹211.68 Cr)",
+    "freshIssue": "72,00,000 shares (aggregating up to ₹[.] Cr)",
+    "offerForSale": "28,80,000 shares of ₹10 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, May 17, 2017",
+    "ipoCloseDate": "Fri, May 19, 2017",
+    "initiationOfRefunds": "Fri, May 26, 2017",
+    "creditOfSharesToDemat": "Fri, May 26, 2017",
+    "shareHoldingPreIssue": "2,88,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,88,00,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "3,60,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "3,60,00,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-05-18T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 79 26936200/300/400",
+    "email": "grievance@pspprojects.com",
+    "full_address": "PSP Projects Ltd, PSP House opposite Celesta Courtyard, opposite lane of Vikram Nagar Colony, Iscon-Ambli Road Ahmedabad - 380 054",
+    "website": "http://www.pspprojects.com"
+  },
+  "createdAt": "2025-04-18T18:22:14.296Z",
+  "faqs": [
+    {
+      "question": "What is the PSP Projects IPO?",
+      "answer": "<div itemprop=\"text\"><p>PSP Projects IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->10080000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->211.68<!-- --> Crores. The issue is priced at <span>₹210 per share</span>. The minimum order quantity is <!-- -->70<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 17, 2017</b>, and <b>closes on <!-- -->May 19, 2017</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in PSP Projects IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->PSP Projects IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->PSP Projects IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->PSP Projects IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->PSP Projects IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When PSP Projects IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The PSP Projects IPO opens on May 17, 2017 and closes on May 19, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of PSP Projects IPO?",
+      "answer": "<div itemprop=\"text\"><p>PSP Projects IPO<!-- --> <b>lot size is <!-- -->70</b>, and the <b>minimum amount required is <span>₹14,700</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for PSP Projects IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->PSP Projects IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is PSP Projects IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->PSP Projects IPO<!-- --> will be done on <!-- -->Wednesday, May 24, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, May 26, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/psp-projects-ipo/660/\" title=\"PSP Projects IPO Allotment Status\">PSP Projects IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is PSP Projects IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->PSP Projects IPO<!-- --> listing date is on <b>Monday, May 29, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "PSP Projects",
+  "issue_price": "₹210.00",
+  "issue_price_numeric": 210,
+  "issue_size": "1,00,80,000 shares (aggregating up to ₹211.68 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Karvy Investor Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/51/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/51/"
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "210.00",
+        "nse": "210.00"
+      },
+      "open": {
+        "bse": "199.00",
+        "nse": "190.00"
+      },
+      "low": {
+        "bse": "189.05",
+        "nse": "190.00"
+      },
+      "high": {
+        "bse": "208.95",
+        "nse": "199.50"
+      },
+      "last_trade": {
+        "bse": "208.95",
+        "nse": "199.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 29 2017",
+    "bse_script_code": "540544",
+    "nse_symbol": "PSPPROJECT",
+    "isin": "INE488V01015",
+    "final_issue_price": "210 per share"
+  },
+  "listing_date": "2017-05-28T18:30:00.000Z",
+  "listing_gains": "-0.50%",
+  "listing_gains_numeric": -0.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/psp_projects_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/psp_projects_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 70 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "70",
+        "amount": "14700"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "910",
+        "amount": "191100"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "980",
+        "amount": "205800"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "4760",
+        "amount": "999600"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "4830",
+        "amount": "1014300"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/psp-projects-ipo/660/"
+    }
+  },
+  "lot_size": 70,
+  "opening_date": "2017-05-16T18:30:00.000Z",
+  "pageHeading": "PSP Projects Ltd IPO (PSP Projects IPO) Detail",
+  "pageTitle": "PSP Projects IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "PSP Projects IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2016/psp-projects-limited_33915.html"
+    },
+    {
+      "text": "PSP Projects IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2017/psp-projects-limited_34844.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "3",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/psp-projects-ipo/660/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "pspprojects.ipo@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "PSP Projects IPO offers 5544000 shares. 3024000 (54.55%) to QIB 1512000 (27.27%) to NII 1008000 (18.18%) to RII. 14400 RIIs will receive minimum 70 shares and (sNII) and (bNII) will receive minimum 980 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "3024000 (54.55%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1512000 (27.27%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1008000 (18.18%)",
+        "maximum_allottees": "14400"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5544000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:14.296Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The PSP Projects IPO is subscribed 8.58 times on May 19 2017 5:00:00 PM (Day 3). The public issue subscribed 6.47 times in the retail category 8.38 times in the QIB category and 10.39 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "8.38",
+        "shares_offered": "3024000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "10.39",
+        "shares_offered": "1512000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "6.47",
+        "shares_offered": "1008000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "8.58",
+        "shares_offered": "5544000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 19 2017",
+    "tentative_allotment": "Wed May 24 2017",
+    "initiation_of_refunds": "Fri May 26 2017",
+    "credit_of_shares_to_demat": "Fri May 26 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:58.711Z",
+  "updated_at": "2025-04-18T18:22:14.296Z",
+  "year": 2017,
+  "worst_listing_gains": "-0.50%",
+  "worst_listing_gains_numeric": -0.5
+}

@@ -1,0 +1,443 @@
+{
+  "_id": "68028e9d3ccffd1c7912c922",
+  "ipo_id": "2023_oriana_power_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:31:50.172Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/oriana-power-ipo/1468/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2013, Oriana Power Limited provides solar energy solutions. They offer their services to industrial and commercial customers. Their vision is to offer high-quality solar energy solutions such that individuals and organizations can use sustainable and renewable energy sources for a better future.</p>\n<p>Oriana Power offers low-carbon energy solutions, which involve on-site solar project installations i.e., rooftop and ground-mounted systems and off-site solar farms i.e. Open access.</p>\n<p>Oriana Power Limited's operations can be divided into the following:</p>\n<ul>\n<li>Capital Expenditure (CAPEX): This involves Engineering, Procurement, construction, and operation of solar projects</li>\n<li>Renewable Energy Service Company (RESCO): In this model, they provide solar energy solutions on a BOOT (Build, own, operate, transfer) model basis.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-21",
+          "2964.83",
+          "3376.98",
+          "282.38",
+          "771.29",
+          "464.29",
+          "75.23"
+        ],
+        [
+          "31-Mar-22",
+          "5572.69",
+          "10146.86",
+          "695.53",
+          "1775.82",
+          "1159.82",
+          "769.07"
+        ],
+        [
+          "31-Mar-23",
+          "7799.99",
+          "13395.37",
+          "1268.52",
+          "3621.84",
+          "2950.84",
+          "1489.19"
+        ]
+      ]
+    },
+    {
+      "heading": "Oriana Power Limited Stock Quote & Charts",
+      "sanitizedHeading": "oriana_power_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "1.97"
+        ],
+        [
+          "ROCE",
+          "46%"
+        ],
+        [
+          "Debt/Equity",
+          "0.41"
+        ],
+        [
+          "RoNW",
+          "35.36%"
+        ]
+      ]
+    },
+    {
+      "heading": "Oriana Power Limited Stock Quote & Charts",
+      "sanitizedHeading": "oriana_power_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "20.85",
+          null
+        ],
+        [
+          "P/E (x)",
+          "20.7",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Oriana Power IPO raises Rs 16.99 crore from anchor investors. Oriana Power IPO Anchor bid date is July 31 2023. Oriana Power IPO Anchor Investors list",
+    "list_link": {
+      "text": "Oriana Power IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/anchor-investor-intimation-oriana-power.pdf"
+    },
+    "details": {
+      "ipo_date": "November 6 2023",
+      "shares_offered": "1440000",
+      "anchor_portion_size": "16.99"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 1, 2023 to August 3, 2023",
+    "ipoListingDate": "Fri, Aug 11, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹118.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "50,55,600 shares (aggregating up to ₹59.66 Cr)",
+    "freshIssue": "50,55,600 shares (aggregating up to ₹59.66 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,55,600 shares",
+      "maker_name": "Share India Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/343/"
+    },
+    "ipoOpenDate": "Tue, Aug 1, 2023",
+    "ipoCloseDate": "Thu, Aug 3, 2023",
+    "initiationOfRefunds": "Wed, Aug 9, 2023",
+    "creditOfSharesToDemat": "Thu, Aug 10, 2023",
+    "shareHoldingPreIssue": "1,41,27,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,41,27,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "83.40%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,91,82,600 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,91,82,600 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "61.41%"
+      }
+    ]
+  },
+  "closing_date": "2023-08-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 – 78178 03330",
+    "email": "cs@orianapower.com",
+    "full_address": "Oriana Power Limited, Flat No. 412A Building No. 43, Chiranjiv Tower Nehru Place, New Delhi - 110019",
+    "website": "https://orianapower.com/"
+  },
+  "createdAt": "2025-04-18T17:40:45.654Z",
+  "faqs": [
+    {
+      "question": "What is the Oriana Power IPO?",
+      "answer": "<div itemprop=\"text\"><p>Oriana Power IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5055600<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->59.66<!-- --> Crores. The issue is priced at <span>₹118 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 1, 2023</b>, and <b>closes on <!-- -->August 3, 2023</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Oriana Power IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Oriana Power IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Oriana Power IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Oriana Power IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Oriana Power IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Oriana Power IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Oriana Power IPO opens on August 1, 2023 and closes on August 3, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Oriana Power IPO?",
+      "answer": "<div itemprop=\"text\"><p>Oriana Power IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,41,600</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Oriana Power IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Oriana Power IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Oriana Power IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Oriana Power IPO<!-- --> will be done on <!-- -->Tuesday, August 8, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, August 10, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/oriana-power-ipo/1468/\" title=\"Oriana Power IPO Allotment Status\">Oriana Power IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Oriana Power IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Oriana Power IPO<!-- --> listing date is on <b>Friday, August 11, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Oriana Power",
+  "issue_price": "₹118.00",
+  "issue_price_numeric": 118,
+  "issue_size": "50,55,600 shares (aggregating up to ₹59.66 Cr)",
+  "issue_size_numeric": 50,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Corporate Capitalventures Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/143/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/143/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "118.00"
+      },
+      "open": {
+        "nse_sme": "302.00"
+      },
+      "low": {
+        "nse_sme": "286.90"
+      },
+      "high": {
+        "nse_sme": "317.10"
+      },
+      "last_trade": {
+        "nse_sme": "317.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "August 11 2023",
+    "nse_symbol": "ORIANA",
+    "isin": "INE0OUT01019",
+    "final_issue_price": "118 per share"
+  },
+  "listing_date": "2023-08-10T18:30:00.000Z",
+  "listing_gains": "168.73%",
+  "listing_gains_numeric": 168.73,
+  "logo": "https://www.chittorgarh.net/images/ipo/oriana-power-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/oriana-power-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "141600"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "141600"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "283200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/oriana-power-ipo/1468/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-07-31T18:30:00.000Z",
+  "pageHeading": "Oriana Power Limited IPO (Oriana Power IPO) Detail",
+  "pageTitle": "Oriana Power IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Anirudh Saraswat Mr. Rupal Gupta and Parveen Kumar are the Promoters of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "83.40%",
+      "share_holding_post_issue": "61.41%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Oriana Power IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Oriana_DRHP.zip"
+    },
+    {
+      "text": "Oriana Power IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2023/oriana-power-limited_77357.html"
+    },
+    {
+      "text": "Anchor Investors in Oriana Power IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/anchor-investor-intimation-oriana-power.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/oriana-power-ipo/1468/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Oriana Power IPO offers 5055600 shares. 960000 (18.99%) to QIB 720000 (14.24%) to NII 1680000 (33.23%) to RII 1440000 (28.48%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1440000 (28.48%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "255600 (5.06%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "960000 (18.99%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "720000 (14.24%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1680000 (33.23%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5055600 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:45.653Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Oriana Power IPO is subscribed 176.58 times on August 3 2023 7:29:00 PM (Day 3). The public issue subscribed 204.04 times in the retail category 72.16 times in the QIB category and 251.74 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "72.16",
+        "shares_offered": "960000",
+        "shares_bid_for": "69272400"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "251.74",
+        "shares_offered": "720000",
+        "shares_bid_for": "181249200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "204.04",
+        "shares_offered": "1680000",
+        "shares_bid_for": "342781200"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "176.58",
+        "shares_offered": "3360000",
+        "shares_bid_for": "593302800"
+      }
+    },
+    "total_applications": "285651",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 3 2023",
+    "tentative_allotment": "Tue Aug 8 2023",
+    "initiation_of_refunds": "Wed Aug 9 2023",
+    "credit_of_shares_to_demat": "Thu Aug 10 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:40.067Z",
+  "updated_at": "2025-04-18T17:40:45.653Z",
+  "year": 2023,
+  "worst_listing_gains": "168.73%",
+  "worst_listing_gains_numeric": 168.73
+}

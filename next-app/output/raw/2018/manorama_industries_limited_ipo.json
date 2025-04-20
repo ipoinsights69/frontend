@@ -1,0 +1,353 @@
+{
+  "_id": "680298593ccffd1c7912cbd3",
+  "ipo_id": "2018_manorama_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:12:38.490Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/manorama-industries-ipo/927/"
+  },
+  "about": {
+    "details": "Incorporated in 2005, Mumbai based Manorama Industries Limited is a company engaged in the business of manufacturing, processing and supply of exotic and specialty fats &amp; oils like Sal butter, Sal fat, Sal oil, Sal Stearine, Sal olein, Mango butter, Mango fat, Mango oil, Mango Stearine, Kokum butter, Kokum oil, Mowrah fat, and other tailor-made products. It majorly caters to the chocolate and cosmetic industry. \n\nWith an annual production of 3,000-4,000 tonnes, the company is one of the leading manufacturers of Sal Oils and Stearine globally. It is also one of the top 10 manufacturers of Stearine. \n\nManorama Industries has partnered with one of the leading chocolate manufacturers for supply of CBE for a 2 year period starting 2018. Currently, it has an order book to supply CBE worth Rs. 7680.00 lakhs. \n\nThe company has been recognized as a Star Export House by Government of India. Internationally, it supplies its products to Japan, Italy, Malaysia, Germany, Sweden, Denmark, Indonesia, Singapore, Netherlands,  and the UK. \n\nSome of the major customers of the company include global chocolate/ CBE manufacturers like Ferrero (Italy), Ferrero (India), Mitsui (Japan), Unigra (Italy), Walter Rau (Germany), Adeka Corporation (Japan), Olvea Vegetable Oils (France), etc. The company has also entered into an agreement with The Body Shop International Ltd. (U.K.) for the supply of Mango Butter. \n\nFrom 2013-14 to 2017-18-\n\n-Total revenue has grown from Rs. 10,532.50 lakhs to Rs. 22,189.33 lakhs, at a CAGR of 20.46%.\n\n-EBITDA has grown from Rs. 462.26 lakhs to Rs. 1,851.48 lakhs, at a CAGR of 41.43%. \n\n-PAT has grown from Rs. 89.62 lakhs to a profit of Rs. 1,035.56 lakhs at a CAGR of 84.29%.\n\nThe Company is in the process of setting up an integrated manufacturing facility at Raipur, Chattisgarh to carry out its entire manufacturing operations under one roof. The facility will have a capacity of around 11,250 tonnes p.a. of specialty fats and CBE.\n\nThe company has 66 permanent employees on its payroll.\n\nCompetitive Strengths-\n\n1. A robust network of raw material suppliers across Chhattisgarh, Odisha, Jharkhand and Madhya Pradesh etc., with over 18,000 collection centers\n\n2. Large global businesses as customers with a history of repeat orders."
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "4676.47",
+          "2260.94",
+          "2022.82",
+          "1659.75",
+          "2120.32"
+        ],
+        [
+          "Total Revenue",
+          "22189.33",
+          "14638.20",
+          "13169.45",
+          "13343.50",
+          "10532.50"
+        ],
+        [
+          "Profit After Tax",
+          "1035.56",
+          "137.52",
+          "108.21",
+          "94.16",
+          "89.62"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 21, 2018 to September 25, 2018",
+    "ipoListingDate": "October 4, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹188.00",
+    "lotSize": "600 Shares",
+    "issueSize": "34,04,400 shares (aggregating up to ₹64.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "1,71,000 shares",
+    "ipoOpenDate": "Fri, Sep 21, 2018",
+    "ipoCloseDate": "Tue, Sep 25, 2018",
+    "shareHoldingPreIssue": "77,23,510 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "77,23,510 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,11,27,910 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,11,27,910 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-09-24T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "022-67088148",
+    "email": "investors@manoramagroup.co.in",
+    "full_address": "Manorama Industries Limited, Office No 403 4th Floor, Midas Sahar Plaza Andheri Kurla Road, Andheri East Mumbai- 400059",
+    "website": "http://www.manoramagroup.co.in"
+  },
+  "createdAt": "2025-04-18T18:22:17.154Z",
+  "faqs": [
+    {
+      "question": "What is the Manorama Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Manorama Industries IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3404400<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->64.00<!-- --> Crores. The issue is priced at <span>₹188 per share</span>. The minimum order quantity is <!-- -->600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 21, 2018</b>, and <b>closes on <!-- -->September 25, 2018</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Manorama Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Manorama Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Manorama Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Manorama Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Manorama Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Manorama Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Manorama Industries IPO opens on September 21, 2018 and closes on September 25, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Manorama Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Manorama Industries IPO<!-- --> <b>lot size is <!-- -->600</b>, and the <b>minimum amount required is <span>₹1,12,800</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Manorama Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Manorama Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Manorama Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Manorama Industries IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/manorama-industries-ipo/927/\" title=\"Manorama Industries IPO Allotment Status\">Manorama Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Manorama Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Manorama Industries IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Manorama Industries",
+  "issue_price": "₹188.00",
+  "issue_price_numeric": 188,
+  "issue_size": "34,04,400 shares (aggregating up to ₹64.00 Cr)",
+  "issue_size_numeric": 34,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Pantomath Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/107/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/107/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "188.00"
+      },
+      "open": {
+        "bse_sme": "190.20"
+      },
+      "low": {
+        "bse_sme": "180.00"
+      },
+      "high": {
+        "bse_sme": "187.25"
+      },
+      "last_trade": {
+        "bse_sme": "183.65"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "October 4 2018",
+    "bse_script_code": "541974",
+    "nse_symbol": "MANORAMA",
+    "isin": "INE00VM01010",
+    "final_issue_price": "188 per share"
+  },
+  "listing_date": "2018-10-03T18:30:00.000Z",
+  "listing_gains": "-2.31%",
+  "listing_gains_numeric": -2.31,
+  "logo": "https://www.chittorgarh.net/images/ipo/manorama-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/manorama-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "112800"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "112800"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "1200",
+        "amount": "225600"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/manorama-industries-ipo/927/"
+    }
+  },
+  "lot_size": 600,
+  "opening_date": "2018-09-20T18:30:00.000Z",
+  "pageHeading": "Manorama Industries Limited IPO (Manorama Industries IPO) Detail",
+  "pageTitle": "Manorama Industries IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Manorama Industries IPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/20186111437DRHP_MIL.pdf"
+    },
+    {
+      "text": "Manorama Industries IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2018/manorama-industries-limited_40555.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/manorama-industries-ipo/927/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "manorama.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Manorama Industries IPO offers 3404400 shares. 532200 (15.63%) to QIB 1350600 (39.67%) to NII 1350600 (39.67%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "171000 (5.02%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "532200 (15.63%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1350600 (39.67%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1350600 (39.67%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3404400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:17.153Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Manorama Industries IPO is subscribed 1.08 times on September 25 2018 6:50:02 PM (Day 3). The public issue subscribed 0.37 times in the retail category 1.56 times in the QIB category and 1.59 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.56",
+        "shares_offered": "532200",
+        "shares_bid_for": "828000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.59",
+        "shares_offered": "1350600",
+        "shares_bid_for": "2149800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.37",
+        "shares_offered": "1350600",
+        "shares_bid_for": "498000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.08",
+        "shares_offered": "3233400",
+        "shares_bid_for": "3475800"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 25 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:16.736Z",
+  "updated_at": "2025-04-18T18:22:17.153Z",
+  "year": 2018,
+  "worst_listing_gains": "-2.31%",
+  "worst_listing_gains_numeric": -2.31
+}

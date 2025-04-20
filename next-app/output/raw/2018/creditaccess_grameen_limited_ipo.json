@@ -1,0 +1,392 @@
+{
+  "_id": "680298583ccffd1c7912cb9d",
+  "ipo_id": "2018_creditaccess_grameen_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:13:23.897Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/creditaccess-grameen-ipo/900/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1991, Bengaluru based CreditAccess Grameen Limited is a company engaged in providing micro-loans to women in Rural Areas in India. According to CRISIL Research,as of March 31, 2017, the company is third largest NBFC-MFI in gross loan portfolio in the country. </p><p>The company primarily focuses on providing income generating loans to women with low annual household income in Rural Areas. It also provides other types of loans for family welfare, home improvement and emergency funds.</p><p>The loans are provided primarily under the joint liability group (\"JLG\") model. Income generation loans comprise 87.02% the total JLG loan portfolio.  </p><p>Presently the company covers 132 districts in the eight states (Chhattisgarh, Goa, Karnataka, Kerala, Maharashtra, Madhya Pradesh, Odisha,  Tamil Nadu,) and Puducherry. It has a network of 516 branches and 4,544 loan officers.</p><p>The Gross AUM was Rs 49,746.61 million as of March 31, 2018. </p><p>The loan disbursements were Rs 33,488.46 million, Rs 34,026.29 million and Rs 60,817.22 million, the financial years ended March 31, 2016, 2017 and 2018 respectively. </p><p>The net interest income was Rs 2,487.04 million, Rs 3,852.04 million and Rs 5,109.85 million for the fiscal years ended March 31, 2016, 2017 and 2018 respectively.</p><p><b>Strengths of the Company-</b></p><p>1. Promoted by  CreditAccess Asia N.V., a multinational company specializing in MSE financing.<br>2. Strong financial performance with Gross AUM growth at a CAGR of 57.45% from Rs 8,095.22 million in March 31, 2014 to Rs 49,746.61<br>million in March 31, 2018.<br>3. Deep penetration in the rural market with  1.85 million active Customers out of the total Customer base of 2.19 million. The company's 422 out of 516 branches are categorized as rural branches.<br>4. Well-diversified operations with no single district contributing more than 5% of Gross AUM<br>5. Strong operational efficiency with the lowest operating expense ratio amongst the top-eight NBFC-MFIs and SFBs for 2017, according to CRISIL</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "52183.48",
+          "35640.72",
+          "28079.76",
+          "17268.09",
+          "10580.80"
+        ],
+        [
+          "Total Revenue",
+          "8752.05",
+          "7092.61",
+          "4667.19",
+          "2814.28",
+          "1478.29"
+        ],
+        [
+          "Profit After Tax",
+          "1246.41",
+          "802.98",
+          "832.41",
+          "487.32",
+          "166.26"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 8, 2018 to August 10, 2018",
+    "ipoListingDate": "Thu, Aug 23, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹422.00",
+    "lotSize": "35 Shares",
+    "issueSize": "2,68,05,394 shares (aggregating up to ₹1,131.19 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Aug 8, 2018",
+    "ipoCloseDate": "Fri, Aug 10, 2018",
+    "initiationOfRefunds": "Mon, Aug 20, 2018",
+    "creditOfSharesToDemat": "Tue, Aug 21, 2018",
+    "shareHoldingPreIssue": "12,84,27,337 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "12,84,27,337 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "14,33,56,246 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "14,33,56,246 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-08-09T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 80 2263 7300",
+    "email": "csinvestors@grameenkoota.org",
+    "full_address": "CreditAccess Grameen Limited, New No. 49 (Old No. 725) 46th Cross 8th Block, Jayanagar Next to Rajalakshmi Kalyan Mantap, Bangalore 560 071",
+    "website": "http://www.grameenkoota.org/"
+  },
+  "createdAt": "2025-04-18T18:22:16.207Z",
+  "faqs": [
+    {
+      "question": "What is the CreditAccess Grameen IPO?",
+      "answer": "<div itemprop=\"text\"><p>CreditAccess Grameen IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->26805394<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->1,131.19<!-- --> Crores. The issue is priced at <span>₹422 per share</span>. The minimum order quantity is <!-- -->35<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 8, 2018</b>, and <b>closes on <!-- -->August 10, 2018</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in CreditAccess Grameen IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->CreditAccess Grameen IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->CreditAccess Grameen IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->CreditAccess Grameen IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->CreditAccess Grameen IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When CreditAccess Grameen IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The CreditAccess Grameen IPO opens on August 8, 2018 and closes on August 10, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of CreditAccess Grameen IPO?",
+      "answer": "<div itemprop=\"text\"><p>CreditAccess Grameen IPO<!-- --> <b>lot size is <!-- -->35</b>, and the <b>minimum amount required is <span>₹14,770</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for CreditAccess Grameen IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->CreditAccess Grameen IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is CreditAccess Grameen IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->CreditAccess Grameen IPO<!-- --> will be done on <!-- -->Thursday, August 16, 2018<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, August 21, 2018<!-- -->. Check the <a href=\"/ipo_allotment_status/creditaccess-grameen-ipo/900/\" title=\"CreditAccess Grameen IPO Allotment Status\">CreditAccess Grameen IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is CreditAccess Grameen IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->CreditAccess Grameen IPO<!-- --> listing date is on <b>Thursday, August 23, 2018</b>.</p></div>"
+    }
+  ],
+  "ipoName": "CreditAccess Grameen",
+  "issue_price": "₹422.00",
+  "issue_price_numeric": 422,
+  "issue_size": "2,68,05,394 shares (aggregating up to ₹1,131.19 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Credit Suisse Securities",
+      "url": "/report/ipo-lead-manager-review/112/111/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/111/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "422.00",
+        "nse": "422.00"
+      },
+      "open": {
+        "bse": "385.00",
+        "nse": "390.00"
+      },
+      "low": {
+        "bse": "385.00",
+        "nse": "385.00"
+      },
+      "high": {
+        "bse": "423.30",
+        "nse": "426.90"
+      },
+      "last_trade": {
+        "bse": "420.80",
+        "nse": "422.05"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 23 2018",
+    "bse_script_code": "541770",
+    "nse_symbol": "CREDITACC",
+    "isin": "INE741K01010",
+    "final_issue_price": "422 per share"
+  },
+  "listing_date": "2018-08-22T18:30:00.000Z",
+  "listing_gains": "-0.28%",
+  "listing_gains_numeric": -0.28,
+  "logo": "https://www.chittorgarh.net/images/ipo/creditaccess-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/creditaccess-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 35 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "35",
+        "amount": "14770"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "455",
+        "amount": "192010"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "490",
+        "amount": "206780"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2345",
+        "amount": "989590"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2380",
+        "amount": "1004360"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/creditaccess-grameen-ipo/900/"
+    }
+  },
+  "lot_size": 35,
+  "opening_date": "2018-08-07T18:30:00.000Z",
+  "pageHeading": "CreditAccess Grameen Limited IPO (CreditAccess Grameen IPO) Detail",
+  "pageTitle": "CreditAccess Grameen IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "CreditAccess Grameen IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2018/credit-access-grameen-limited_37590.html"
+    },
+    {
+      "text": "CreditAccess Grameen IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2018/creditaccess-grameen-limited_40055.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "3",
+        "neutral": "0",
+        "avoid": "3"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/creditaccess-grameen-ipo/900/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "cgl.ipo@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "CreditAccess Grameen IPO offers 18829684 shares. 5355555 (28.44%) to QIB 4042239 (21.47%) to NII 9431890 (50.09%) to RII. 269482 RIIs will receive minimum 35 shares and (sNII) and (bNII) will receive minimum 490 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "5355555 (28.44%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4042239 (21.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "9431890 (50.09%)",
+        "maximum_allottees": "269482"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "18829684 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:16.207Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The CreditAccess Grameen IPO is subscribed 2.22 times on August 10 2018 6:29:03 PM (Day 3). The public issue subscribed 0.87 times in the retail category 5.52 times in the QIB category and 0.98 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "5.52",
+        "shares_offered": "5355555",
+        "shares_bid_for": "29577065"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.98",
+        "shares_offered": "4042239",
+        "shares_bid_for": "3944395"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.87",
+        "shares_offered": "9431890",
+        "shares_bid_for": "8211210"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.22",
+        "shares_offered": "18829684",
+        "shares_bid_for": "41732670"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 10 2018",
+    "tentative_allotment": "Thu Aug 16 2018",
+    "initiation_of_refunds": "Mon Aug 20 2018",
+    "credit_of_shares_to_demat": "Tue Aug 21 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:09.107Z",
+  "updated_at": "2025-04-18T18:22:16.207Z",
+  "year": 2018,
+  "worst_listing_gains": "-0.28%",
+  "worst_listing_gains_numeric": -0.28
+}

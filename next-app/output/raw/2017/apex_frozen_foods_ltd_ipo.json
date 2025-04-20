@@ -1,0 +1,388 @@
+{
+  "_id": "680298533ccffd1c7912cadc",
+  "ipo_id": "2017_apex_frozen_foods_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:08:01.892Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/apex-frozen-foods-ipo/698/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1995, Apex Frozen Foods Limited is in the business of produces and exports aquaculture products. They supply their products to food companies, retail chains, restaurants, club stores and distributors. Apex produces two kinds of shrimps namely the Whiteleg shrimp (Litopenaeus vannamei) and the Black Tiger Shrimp (Penaeus monodon).</p><p>They have operations in the United States, United Kingdom and various European countries. Company's output majorly comprises of variants of processed Vannamei shrimp (White shrimp) and are sold under the brands namely Bay fresh, Bay Harvest and BayPremium.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Crore)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "257.44",
+          "178.79",
+          "165.14",
+          "140.46",
+          "94.35"
+        ],
+        [
+          "Total Revenue",
+          "709.68",
+          "608.27",
+          "604.37",
+          "514.57",
+          "255.48"
+        ],
+        [
+          "Profit After Tax",
+          "24.93",
+          "19.70",
+          "18.57",
+          "13.42",
+          "9.42"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 22, 2017 to August 24, 2017",
+    "ipoListingDate": "Mon, Sep 4, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹175.00",
+    "lotSize": "80 Shares",
+    "issueSize": "87,00,000 shares (aggregating up to ₹152.25 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Aug 22, 2017",
+    "ipoCloseDate": "Thu, Aug 24, 2017",
+    "initiationOfRefunds": "Fri, Sep 1, 2017",
+    "creditOfSharesToDemat": "Fri, Sep 1, 2017",
+    "shareHoldingPreIssue": "2,40,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,40,00,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "3,12,50,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "3,12,50,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-08-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 884 2383 902/03/04",
+    "email": "cs@apexfrozenfoods.com",
+    "full_address": "Apex Frozen Foods Ltd, 3-160 Panasapadu, Kakinada, East Godavari - 533 005",
+    "website": "http://www.apexfrozenfoods.in"
+  },
+  "createdAt": "2025-04-18T18:22:11.503Z",
+  "faqs": [
+    {
+      "question": "What is the Apex Frozen Foods IPO?",
+      "answer": "<div itemprop=\"text\"><p>Apex Frozen Foods IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->8700000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->152.25<!-- --> Crores. The issue is priced at <span>₹175 per share</span>. The minimum order quantity is <!-- -->80<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 22, 2017</b>, and <b>closes on <!-- -->August 24, 2017</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Apex Frozen Foods IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Apex Frozen Foods IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Apex Frozen Foods IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Apex Frozen Foods IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Apex Frozen Foods IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Apex Frozen Foods IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Apex Frozen Foods IPO opens on August 22, 2017 and closes on August 24, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Apex Frozen Foods IPO?",
+      "answer": "<div itemprop=\"text\"><p>Apex Frozen Foods IPO<!-- --> <b>lot size is <!-- -->80</b>, and the <b>minimum amount required is <span>₹14,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Apex Frozen Foods IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Apex Frozen Foods IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Apex Frozen Foods IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Apex Frozen Foods IPO<!-- --> will be done on <!-- -->Wednesday, August 30, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, September 1, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/apex-frozen-foods-ipo/698/\" title=\"Apex Frozen Foods IPO Allotment Status\">Apex Frozen Foods IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Apex Frozen Foods IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Apex Frozen Foods IPO<!-- --> listing date is on <b>Monday, September 4, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Apex Frozen Foods",
+  "issue_price": "₹175.00",
+  "issue_price_numeric": 175,
+  "issue_size": "87,00,000 shares (aggregating up to ₹152.25 Cr)",
+  "issue_size_numeric": 87,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Karvy Investor Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/51/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/51/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "175.00",
+        "nse": "175.00"
+      },
+      "open": {
+        "bse": "199.90",
+        "nse": "202.00"
+      },
+      "low": {
+        "bse": "195.00",
+        "nse": "202.00"
+      },
+      "high": {
+        "bse": "209.85",
+        "nse": "212.10"
+      },
+      "last_trade": {
+        "bse": "209.85",
+        "nse": "212.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 4 2017",
+    "bse_script_code": "540692",
+    "nse_symbol": "APEX",
+    "isin": "INE346W01013",
+    "final_issue_price": "175 per share"
+  },
+  "listing_date": "2017-09-03T18:30:00.000Z",
+  "listing_gains": "19.91%",
+  "listing_gains_numeric": 19.91,
+  "logo": "https://www.chittorgarh.net/images/ipo/apex_frozen_foods.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/apex_frozen_foods.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 80 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "80",
+        "amount": "14000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "14",
+        "shares": "1120",
+        "amount": "196000"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "15",
+        "shares": "1200",
+        "amount": "210000"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "71",
+        "shares": "5680",
+        "amount": "994000"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "72",
+        "shares": "5760",
+        "amount": "1008000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/apex-frozen-foods-ipo/698/"
+    }
+  },
+  "lot_size": 80,
+  "opening_date": "2017-08-21T18:30:00.000Z",
+  "pageHeading": "Apex Frozen Foods Ltd IPO (Apex Frozen Foods IPO) Detail",
+  "pageTitle": "Apex Frozen Foods IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Apex Frozen Foods IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2017/apex-frozen-foods-limited_34510.html"
+    },
+    {
+      "text": "Apex Frozen Foods IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2017/apex-frozen-foods-ltd_35810.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/apex-frozen-foods-ipo/698/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "investor@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Apex Frozen Foods IPO offers 6210000 shares. 1660000 (26.73%) to QIB 1245000 (20.05%) to NII 2905000 (46.78%) to RII 400000 (6.44%) to employees. 36312 RIIs will receive minimum 80 shares and (sNII) and (bNII) will receive minimum 1200 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1660000 (26.73%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1245000 (20.05%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2905000 (46.78%)",
+        "maximum_allottees": "36312"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "400000 (6.44%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6210000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:11.503Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Apex Frozen Foods IPO is subscribed 6.14 times on August 24 2017 5:00:00 PM (Day 3). The public issue subscribed 8.53 times in the retail category 1.91 times in the QIB category and 7.82 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.91",
+        "shares_offered": "1660000",
+        "shares_bid_for": "3178400"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "7.82",
+        "shares_offered": "1245000",
+        "shares_bid_for": "9732400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "8.53",
+        "shares_offered": "2905000",
+        "shares_bid_for": "24786480"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.1",
+        "shares_offered": "400000",
+        "shares_bid_for": "440320"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "6.14",
+        "shares_offered": "6210000",
+        "shares_bid_for": "38137600"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 24 2017",
+    "tentative_allotment": "Wed Aug 30 2017",
+    "initiation_of_refunds": "Fri Sep 1 2017",
+    "credit_of_shares_to_demat": "Fri Sep 1 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:41.960Z",
+  "updated_at": "2025-04-18T18:22:11.503Z",
+  "year": 2017,
+  "worst_listing_gains": "19.91%",
+  "worst_listing_gains_numeric": 19.91
+}

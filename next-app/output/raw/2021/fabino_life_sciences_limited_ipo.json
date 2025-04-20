@@ -1,0 +1,376 @@
+{
+  "_id": "680291893ccffd1c7912c9de",
+  "ipo_id": "2021_fabino_life_sciences_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:44:23.001Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/fabino-life-sciences-ipo/1208/"
+  },
+  "about": {
+    "details": "<p>Fabino Life Sciences <strong>is engaged in the manufacturing, marketing, trading, and packing of pharmaceutical and other wellness-focused consumer products</strong>. The company's core business is the marketing of pharmaceutical formulation &amp; products in the domestic market through their own distribution network and sales force under their brand name, getting ayurvedic formulations manufactured through loan licensing facilities, packing, labeling, etc. The company export wellness and FMCG products like coffee, malt powder, protein powder, hair shampoo marketed by them.</p>\n<p>Currently, the company has over 70 launched and active products available in markets categorized into (i) Allopathic, (ii) Covid 19, (iii) Food &amp; Wellness, (iv) Herbal, (v) Veterinary, (vi) Multi-Vitamin, segments. The shampoo and hair maintenance products from the company are under the brand - Keepshine, while all the others products are marketed under the brand - Fabino. The company has its manufacturing unit in the&nbsp;National Capital Region, India.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>An experienced promoter from the pharmaceutical industry</li>\n<li>Diverse product portfolio</li>\n<li>More than 70 registrations for trademarks of products</li>\n<li>Low debt balance sheet</li>\n<li>Strong marketing and distribution network</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Jun-21",
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "28.14",
+          "22.51",
+          "35.88",
+          "85.53"
+        ],
+        [
+          "Total Revenue",
+          "11.29",
+          "30.59",
+          "75.16",
+          "27.61"
+        ],
+        [
+          "Profit After Tax",
+          "0.14",
+          "0.30",
+          "0.68",
+          "0.001"
+        ]
+      ]
+    },
+    {
+      "heading": "Fabino Enterprises Limited Stock Quote & Charts",
+      "sanitizedHeading": "fabino_enterprises_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "133",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 31, 2021 to January 5, 2022",
+    "ipoListingDate": "Thu, Jan 13, 2022",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹36.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "9,00,000 shares (aggregating up to ₹3.24 Cr)",
+    "freshIssue": "9,00,000 shares (aggregating up to ₹3.24 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "48,000 shares",
+    "ipoOpenDate": "Fri, Dec 31, 2021",
+    "ipoCloseDate": "Wed, Jan 5, 2022",
+    "initiationOfRefunds": "Tue, Jan 11, 2022",
+    "creditOfSharesToDemat": "Wed, Jan 12, 2022",
+    "shareHoldingPreIssue": "12,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "12,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.43%"
+      }
+    ],
+    "shareHoldingPostIssue": "21,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "21,00,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "56.82%"
+      }
+    ]
+  },
+  "closing_date": "2022-01-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-9883900021",
+    "email": "info@fabinolife.com",
+    "full_address": "Fabino Life Sciences Limited, 105 1st Floor Barodia Tower Plot No 12, D Block Central Market Prashant Vihar, New Delhi 110085",
+    "website": "https://www.fabinolife.com/"
+  },
+  "createdAt": "2025-04-18T17:53:13.371Z",
+  "faqs": [
+    {
+      "question": "What is the Fabino Life Sciences IPO?",
+      "answer": "<div itemprop=\"text\"><p>Fabino Life Sciences IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->900000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->3.24<!-- --> Crores. The issue is priced at <span>₹36 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 31, 2021</b>, and <b>closes on <!-- -->January 5, 2022</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Fabino Life Sciences IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Fabino Life Sciences IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Fabino Life Sciences IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Fabino Life Sciences IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Fabino Life Sciences IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Fabino Life Sciences IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Fabino Life Sciences IPO opens on December 31, 2021 and closes on January 5, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Fabino Life Sciences IPO?",
+      "answer": "<div itemprop=\"text\"><p>Fabino Life Sciences IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,08,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Fabino Life Sciences IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Fabino Life Sciences IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Fabino Life Sciences IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Fabino Life Sciences IPO<!-- --> will be done on <!-- -->Monday, January 10, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, January 12, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/fabino-life-sciences-ipo/1208/\" title=\"Fabino Life Sciences IPO Allotment Status\">Fabino Life Sciences IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Fabino Life Sciences IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Fabino Life Sciences IPO<!-- --> listing date is on <b>Thursday, January 13, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Fabino Life Sciences",
+  "issue_price": "₹36.00",
+  "issue_price_numeric": 36,
+  "issue_size": "9,00,000 shares (aggregating up to ₹3.24 Cr)",
+  "issue_size_numeric": 9,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Aryaman Financial Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/77/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/77/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "36.00"
+      },
+      "open": {
+        "bse_sme": "38.45"
+      },
+      "low": {
+        "bse_sme": "36.55"
+      },
+      "high": {
+        "bse_sme": "40.35"
+      },
+      "last_trade": {
+        "bse_sme": "40.35"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "January 13 2022",
+    "bse_script_code": "543444",
+    "isin": "INE0DRT01018",
+    "final_issue_price": "36 per share"
+  },
+  "listing_date": "2022-01-12T18:30:00.000Z",
+  "listing_gains": "12.08%",
+  "listing_gains_numeric": 12.08,
+  "logo": "https://www.chittorgarh.net/images/ipo/fabino-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/fabino-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "108000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "108000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "216000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/fabino-life-sciences-ipo/1208/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2021-12-30T18:30:00.000Z",
+  "pageHeading": "Fabino Life Sciences Limited IPO (Fabino Life Sciences IPO) Detail",
+  "pageTitle": "Fabino Life Sciences IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Atul Kumar Jain is the company promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "99.43%",
+      "share_holding_post_issue": "56.82%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Fabino Life Sciences IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/398923/Fabino%20Life%20Sciences%20Limited%20-%20Draft%20Prospectus_20211126171026.pdf"
+    },
+    {
+      "text": "Fabino Life Sciences IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/fabino-life-sciences-limited-sme-ipo_55093.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/fabino-life-sciences-ipo/1208/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Fabino Life Sciences IPO offers 900000 shares. 426000 (47.33%) to NII 426000 (47.33%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "48000 (5.33%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "426000 (47.33%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "426000 (47.33%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "900000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:13.371Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Fabino Life Sciences IPO is subscribed 6.93 times on January 5 2022 7:53:00 PM (Day 4). The public issue subscribed 10.36 times in the retail category [.] times in the QIB category and 3.49 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "3.49",
+        "shares_offered": "426000",
+        "shares_bid_for": "1488000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "10.36",
+        "shares_offered": "426000",
+        "shares_bid_for": "4413000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "6.93",
+        "shares_offered": "852000",
+        "shares_bid_for": "5901000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 5 2022",
+    "tentative_allotment": "Mon Jan 10 2022",
+    "initiation_of_refunds": "Tue Jan 11 2022",
+    "credit_of_shares_to_demat": "Wed Jan 12 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:07.723Z",
+  "updated_at": "2025-04-18T17:53:13.371Z",
+  "year": 2021,
+  "worst_listing_gains": "12.08%",
+  "worst_listing_gains_numeric": 12.08
+}

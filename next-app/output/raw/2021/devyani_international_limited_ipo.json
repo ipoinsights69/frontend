@@ -1,0 +1,413 @@
+{
+  "_id": "680291883ccffd1c7912c9d6",
+  "ipo_id": "2021_devyani_international_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:47:04.347Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/devyani-international-ipo/1136/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1991, Devyani International Ltd is the largest franchisee of Yum Brands and among the largest quick-service restaurants (QSR) chain operators in India with 655 stores across 155 cities all over the country as of Mar 31, 2021. Yum Brands Inc operates many fast food brands i.e. Pizza Hut, KFC, and Taco Bell brands.</p>\n\n<p>It operates 3 business verticals; 1. Core Brands (KFC, Pizza Hut, and Costa Coffee stores in India), 2. International Business (stores in foreign countries i.e. Nepal and Nigeria), and 3. Other Businesses (own branded stores i.e. Vaango, Food Street, Masala Twist, Ile Bar, Amreli, and Ckrussh Juice Bar).Initially, the business started with a Pizza Hut store in Jaipur but subsequently expanded operations in both KFC and Pizza hut, as of March 31, 2021, it operates 264 KFC stores, 297 Pizza Hut stores, and 44 Costa Coffee stores in India.</p>\n\n<p><strong>Competitive strengths</strong></p>\n<ul>\n<li>The product portfolio of well-recognized QSR brands.</li>\n<li>Largest franchisee of Yum Brands in India.</li>\n<li>Cross brand synergies provide operating leverage benefits.</li>\n<li>Disciplined financial approach with a strong focus on cash flow management.</li>\n<li>Strong store network; 264 KFC Stores, 297 Pizza Hut stores, and 44 Costa coffee stores.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "16684.07",
+          "18835.76",
+          "18074.90"
+        ],
+        [
+          "Total Revenue",
+          "11988.95",
+          "15350.41",
+          "13236.83"
+        ],
+        [
+          "Profit After Tax",
+          "(629.87)",
+          "(1214.18)",
+          "(941.44)"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 4, 2021 to August 6, 2021",
+    "ipoListingDate": "Mon, Aug 16, 2021",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹90.00",
+    "lotSize": "165 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹1,838.00 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹440.00 Cr)",
+    "offerForSale": "15,53,33,330 shares of ₹1 (aggregating up to ₹1,398.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Aug 4, 2021",
+    "ipoCloseDate": "Fri, Aug 6, 2021",
+    "initiationOfRefunds": "Thu, Aug 12, 2021",
+    "creditOfSharesToDemat": "Fri, Aug 13, 2021",
+    "shareHoldingPreIssue": "1,15,36,34,990 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,15,36,34,990 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "75.79%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,20,25,23,878 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,20,25,23,878 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "67.99%"
+      }
+    ]
+  },
+  "closing_date": "2021-08-05T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "011 4170 6720",
+    "email": "companysecretary@dil-rjcorp.com",
+    "full_address": "Devyani International Limited, F-2/7 Okhla Industrial Area, Phase-I New Delhi 110 020",
+    "website": "http://www.dil-rjcorp.com/"
+  },
+  "createdAt": "2025-04-18T17:53:12.397Z",
+  "faqs": [
+    {
+      "question": "What is the Devyani International IPO?",
+      "answer": "<div itemprop=\"text\"><p>Devyani International IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->1,838.00<!-- --> Crores. The issue is priced at <span>₹90 per share</span>. The minimum order quantity is <!-- -->165<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 4, 2021</b>, and <b>closes on <!-- -->August 6, 2021</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Devyani International IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Devyani International IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Devyani International IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Devyani International IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Devyani International IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Devyani International IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Devyani International IPO opens on August 4, 2021 and closes on August 6, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Devyani International IPO?",
+      "answer": "<div itemprop=\"text\"><p>Devyani International IPO<!-- --> <b>lot size is <!-- -->165</b>, and the <b>minimum amount required is <span>₹14,850</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Devyani International IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Devyani International IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Devyani International IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Devyani International IPO<!-- --> will be done on <!-- -->Wednesday, August 11, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, August 13, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/devyani-international-ipo/1136/\" title=\"Devyani International IPO Allotment Status\">Devyani International IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Devyani International IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Devyani International IPO<!-- --> listing date is on <b>Monday, August 16, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Devyani International",
+  "issue_price": "₹90.00",
+  "issue_price_numeric": 90,
+  "issue_size": "[.] shares (aggregating up to ₹1,838.00 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Clsa India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/142/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/142/"
+    },
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "90.00",
+        "nse": "90.00"
+      },
+      "open": {
+        "bse": "141.00",
+        "nse": "140.90"
+      },
+      "low": {
+        "bse": "120.75",
+        "nse": "120.80"
+      },
+      "high": {
+        "bse": "141.05",
+        "nse": "140.90"
+      },
+      "last_trade": {
+        "bse": "123.35",
+        "nse": "123.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 16 2021",
+    "bse_script_code": "543330",
+    "nse_symbol": "DEVYANI",
+    "isin": "INE872J01023",
+    "final_issue_price": "90 per share"
+  },
+  "listing_date": "2021-08-15T18:30:00.000Z",
+  "listing_gains": "37.06%",
+  "listing_gains_numeric": 37.06,
+  "logo": "https://www.chittorgarh.net/images/ipo/devyani-international-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/devyani-international-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 165 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "165",
+        "amount": "14850"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "2145",
+        "amount": "193050"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "2310",
+        "amount": "207900"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "11055",
+        "amount": "994950"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "11220",
+        "amount": "1009800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/devyani-international-ipo/1136/"
+    }
+  },
+  "lot_size": 165,
+  "opening_date": "2021-08-03T18:30:00.000Z",
+  "pageHeading": "Devyani International Limited IPO (Devyani International IPO) Detail",
+  "pageTitle": "Devyani International IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Ravi Kant Jaipuria Varun Jaipuria and RJ Corp Limited are the company promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "75.79%",
+      "share_holding_post_issue": "67.99%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Devyani International IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2021/devyani-international-limited_50136.html"
+    },
+    {
+      "text": "Devyani International IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/devyani-international-limited_51770.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "12",
+        "neutral": "4",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/devyani-international-ipo/1136/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "devyani.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Devyani International IPO offers 112569719 shares. 61101666 (54.28%) to QIB 30550832 (27.14%) to NII 20367221 (18.09%) to RII 550000 (0.49%) to employees. 123437 RIIs will receive minimum 165 shares and (sNII) and (bNII) will receive minimum 2310 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "61101666 (54.28%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "30550832 (27.14%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "20367221 (18.09%)",
+        "maximum_allottees": "123437"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "550000 (0.49%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "112569719 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:12.397Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Devyani International IPO is subscribed 116.7 times on August 6 2021 6:50:00 PM (Day 3). The public issue subscribed 39.48 times in the retail category 95.27 times in the QIB category and 213.06 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "95.27",
+        "shares_offered": "61101666",
+        "shares_bid_for": "5821349490"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "213.06",
+        "shares_offered": "30550832",
+        "shares_bid_for": "6509055465"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "39.48",
+        "shares_offered": "20367221",
+        "shares_bid_for": "804152745"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "4.7",
+        "shares_offered": "550000",
+        "shares_bid_for": "2583240"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "116.7",
+        "shares_offered": "112569719",
+        "shares_bid_for": "13137140940"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 6 2021",
+    "tentative_allotment": "Wed Aug 11 2021",
+    "initiation_of_refunds": "Thu Aug 12 2021",
+    "credit_of_shares_to_demat": "Fri Aug 13 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:06.483Z",
+  "updated_at": "2025-04-18T17:53:12.397Z",
+  "year": 2021,
+  "worst_listing_gains": "37.06%",
+  "worst_listing_gains_numeric": 37.06
+}

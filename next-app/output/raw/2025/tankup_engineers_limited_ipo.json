@@ -1,0 +1,391 @@
+{
+  "_id": "680232b83ccffd1c7912c6e8",
+  "ipo_id": "2025_tankup_engineers_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": false,
+      "listingDayTrading": false,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T11:01:53.493Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/tankup-engineers-ipo/2398/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2020, Tankup Engineers Limited is engaged in the manufacturing of vehicle superstructure for complex mobility and storage solutions.</p>\n<p>The company offers products including self-bunded fuel tanks, mobile diesel bowsers, aircraft refuelers, fire tenders, and ground support equipment.</p>\n<p>The company specializes in manufacturing custom-built tanks for transporting or storing liquids, gases, or solids, tailored to client specifications in size, material, capacity, and functional features.</p>\n<p>The company serves sectors such as agriculture, mining, construction, logistics, aviation, defense, and infrastructure.</p>\n<div>The company operates a 2,665 sq. mtr. facility in Lucknow, accredited with ISO certifications and PESO approval, and holds MSME ZED certification for Zero Defect Zero Effect manufacturing.</div>\n<p><strong>Products:</strong></p>\n<ul>\n<li><strong>Mobile Refuellers:</strong>IoT-enabled fuel solutions optimize management across multiple industrial sectors.</li>\n<li><strong>Water sprinkler:</strong>Custom water sprinklers enhance efficiency, conserve water, ensure safety.</li>\n<li><strong>Mobile Service Van:</strong>Customized service vans enable safe, efficient on-site equipment maintenance.</li>\n</ul>\n<p>As on March 31, 2024, the company has employed approximately 45 employees at various levels of the Organization.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>Diverse range of product portfolio having applications across various industry verticals.</li>\n<li>In-house product fabrication capabilities.</li>\n<li>Sustainable Order Book</li>\n<li>Stringent quality control mechanism ensuring standardized product quality</li>\n<li>Experienced and Qualified Management and Employee base</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Tankup Engineers Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Nov 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "17.67",
+          "10.35",
+          "8.68",
+          "2.32"
+        ],
+        [
+          "Revenue",
+          "12.48",
+          "19.54",
+          "11.85",
+          "1.4"
+        ],
+        [
+          "Profit After Tax",
+          "0.95",
+          "2.57",
+          "0.79",
+          "0.05"
+        ],
+        [
+          "Net Worth",
+          "6.17",
+          "3.68",
+          "1.11",
+          "0.2"
+        ],
+        [
+          "Reserves and Surplus",
+          "2.27",
+          "3.43",
+          "0.86",
+          "0.05"
+        ],
+        [
+          "Total Borrowing",
+          "7.59",
+          "3.69",
+          "2.57",
+          "1.42"
+        ]
+      ]
+    },
+    {
+      "heading": "Tankup Engineers IPO Details",
+      "sanitizedHeading": "tankup_engineers",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "107.11%"
+        ],
+        [
+          "ROCE",
+          "46.49%"
+        ],
+        [
+          "Debt/Equity",
+          "1.00"
+        ],
+        [
+          "RoNW",
+          "69.75%"
+        ],
+        [
+          "PAT Margin",
+          "13.23"
+        ],
+        [
+          "Price to Book Value",
+          "10.46"
+        ]
+      ]
+    },
+    {
+      "heading": "Tankup Engineers IPO Details",
+      "sanitizedHeading": "tankup_engineers",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "6.59",
+          "2.68"
+        ],
+        [
+          "P/E (x)",
+          "21.26",
+          "52.19"
+        ]
+      ]
+    },
+    {
+      "heading": "Tankup Engineers IPO Details",
+      "sanitizedHeading": "tankup_engineers",
+      "headers": [
+        "S.No.",
+        "Objects of the Issue",
+        "Expected Amount (in Millions)"
+      ],
+      "rows": [
+        [
+          "1",
+          "Repayment in full or in part of certain of the outstanding borrowings;",
+          "35"
+        ],
+        [
+          "2",
+          "Funding to meet working capital requirements",
+          "100"
+        ],
+        [
+          "3",
+          "General Corporate Purpose",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "April 23, 2025 to April 25, 2025",
+    "ipoListingDate": "Wed, Apr 30, 2025",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹133 to ₹140 per share",
+    "lotSize": "1,000 Shares",
+    "issueSize": "13,95,000 shares (aggregating up to ₹19.53 Cr)",
+    "freshIssue": "13,95,000 shares (aggregating up to ₹19.53 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "70,000 shares",
+    "ipoOpenDate": "Wed, Apr 23, 2025",
+    "ipoCloseDate": "Fri, Apr 25, 2025",
+    "initiationOfRefunds": "Tue, Apr 29, 2025",
+    "creditOfSharesToDemat": "Tue, Apr 29, 2025",
+    "shareHoldingPreIssue": "39,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "39,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "52,95,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "52,95,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.65%"
+      }
+    ]
+  },
+  "closing_date": "2025-04-24T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-7800008707",
+    "email": "cs@tankup.co.in",
+    "full_address": "Tankup Engineers Limited, 1262, SA Goila, Chinhat",
+    "website": "https://www.tankup.co.in/"
+  },
+  "createdAt": "2025-04-18T11:08:40.291Z",
+  "faqs": [
+    {
+      "question": "What is the Tankup Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Tankup Engineers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1395000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->19.53<!-- --> Crores. The issue is priced at <span>₹133 to ₹140 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->April 23, 2025</b>, and <b>closes on <!-- -->April 25, 2025</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Tankup Engineers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Tankup Engineers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Tankup Engineers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Tankup Engineers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Tankup Engineers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Tankup Engineers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Tankup Engineers IPO opens on April 23, 2025 and closes on April 25, 2025.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Tankup Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Tankup Engineers IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,40,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Tankup Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Tankup Engineers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Tankup Engineers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Tankup Engineers IPO<!-- --> will be done on <!-- -->Monday, April 28, 2025<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, April 29, 2025<!-- -->. Check the <a href=\"/ipo_allotment_status/tankup-engineers-ipo/2398/\" title=\"Tankup Engineers IPO Allotment Status\">Tankup Engineers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Tankup Engineers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Tankup Engineers IPO<!-- --> listing date is not yet announced. The <b>tentative date of <!-- -->Tankup Engineers IPO<!-- --> listing is <!-- -->Wednesday, April 30, 2025</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Tankup Engineers",
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listing_date": "2025-04-29T18:30:00.000Z",
+  "logo": "https://www.chittorgarh.net/images/ipo/tankup-ipo-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "140000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "140000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "280000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/tankup-engineers-ipo/2398/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2025-04-22T18:30:00.000Z",
+  "pageHeading": "Tankup Engineers Limited IPO (Tankup Engineers IPO) Detail",
+  "pageTitle": "Tankup Engineers IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Gaurav Lath Pankhuri Lath Govind Prasad Lath and Tank-Up Petro Ventures LLP are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "73.65%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Tankup Engineers IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/TankupEngineersLimited_DP.zip"
+    },
+    {
+      "text": "Tankup Engineers IPO Addendum DRHP",
+      "url": "https://www.tankup.co.in/wp-content/uploads/2025/01/Addendum-DRHP_Tankup-with-Cover-Page1.pdf"
+    },
+    {
+      "text": "Tankup Engineers IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_TANKUP.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/tankup-engineers-ipo/2398/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "allocation": [
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "Not more than 50% of the Net Issue"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "Not less than 35% of the Net Issue"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "Not less than 15% of the Net Issue"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T11:54:41.173Z",
+  "source_url": "",
+  "status": "upcoming",
+  "tentativeDetails": {
+    "ipo_date": "5 PM on April 25 2025",
+    "tentative_allotment": "Mon Apr 28 2025",
+    "initiation_of_refunds": "Tue Apr 29 2025",
+    "credit_of_shares_to_demat": "Tue Apr 29 2025"
+  },
+  "updatedAt": "2025-04-18T11:54:41.174Z",
+  "updated_at": "2025-04-18T11:54:41.173Z",
+  "year": 2025,
+  "issue_price": "₹133 to ₹140 per share",
+  "issue_price_numeric": 133,
+  "issue_size": "13,95,000 shares (aggregating up to ₹19.53 Cr)",
+  "issue_size_numeric": 13,
+  "logo_url": "https://www.chittorgarh.net/images/ipo/tankup-ipo-logo.png"
+}

@@ -1,0 +1,456 @@
+{
+  "_id": "68028e993ccffd1c7912c8a9",
+  "ipo_id": "2023_akanksha_power_and_infrastructure_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:26:02.962Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/akanksha-power-and-infrastructure-ipo/1608/"
+  },
+  "about": {
+    "details": "<p>Founded in July 2008, Akanksha Power and Infrastructure Limited manufactures electrical equipment such as switchboards, transformers and vacuum contactors for institutions, industries and utilities.</p>\n<p>The company's product portfolio includes manufacturing and supply of CT-PT, metering units, cubic automatic power correction panels (capacitor panels), fixed capacitor banks, motor control centre (MCC), power control centre (PCC), variable frequency drive (VFD) panels, thyristor switches and vacuum contactors. The company also offers energy management systems and smart energy metres (Advanced Metering Infrastructure). In addition, the company offers engineering and implementation services for turnkey electrical projects.</p>\n<p>In addition to production and manufacturing, the company also offers services related to the distribution and management of electricity. The company's operations include setting up electrical infrastructure that includes power quality testing, site analytics, online cloud-based multiple monitoring and data analytics for better management. The company aims to reduce losses in transmission, distribution and at the user level.</p>\n<p>The company's customer base includes Military Engineer Services, Hindustan Aeronautics Limited, Coal India Limited, HINDALCO Industries Limited, Indian Oil Corporation Limited, Ordnance Factory Board, Larson &amp; Toubro Limited, NALCO, ABB India Private Limited, Hitachi Energy India Limited, TPCODL (Tata Power Group), Jindal Stainless Limited, National Mineral Development Corporation Limited, Steel Authority of India Limited, Thyssenkrupp Electrical Steels Limited, Kutch Copper Limited (Adani Group) and TPNODL (Tata Power Northern Odissa Distribution Limited).</p>\n<p>The company is certified as an ISO 9001:2015 compliant organisation</p>\n<p>The company has two manufacturing facilities in Satpur, Nashik, Maharashtra, India.</p>\n<p>As of June 30, 2023, the company has 62 permanent employees and 387 contract employees who are paid on a daily basis.</p>\n<p>As of June 30, 2023, Odisha contributed 34.61% to the company's total revenue, while Maharashtra, Chhattisgarh, Karnataka and Gujrat contributed 8.77%, 0.10%, 3.19% and 1.30%, respectively.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Akanksha Power and Infrastructure Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5530.82",
+          "4762.65",
+          "3838.92",
+          "3781.19"
+        ],
+        [
+          "Revenue",
+          "1027.27",
+          "4644.03",
+          "5206.50",
+          "7441.05"
+        ],
+        [
+          "Profit After Tax",
+          "71.06",
+          "290.50",
+          "240.92",
+          "392.12"
+        ],
+        [
+          "Net Worth",
+          "2074.75",
+          "1595.94",
+          "1305.42",
+          "1064.50"
+        ],
+        [
+          "Reserves and Surplus",
+          "722.70",
+          "1414.44",
+          "1123.92",
+          "883.00"
+        ],
+        [
+          "Total Borrowing",
+          "1722.62",
+          "1527.68",
+          "1055.03",
+          "891.47"
+        ]
+      ]
+    },
+    {
+      "heading": "Akanksha Power And Infrastructure Limited Stock Quote & Charts",
+      "sanitizedHeading": "akanksha_power_and_infrastructure_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "18.20%"
+        ],
+        [
+          "ROCE",
+          "22.75%"
+        ],
+        [
+          "Debt/Equity",
+          "0.96"
+        ],
+        [
+          "RoNW",
+          "18.20%"
+        ]
+      ]
+    },
+    {
+      "heading": "Akanksha Power And Infrastructure Limited Stock Quote & Charts",
+      "sanitizedHeading": "akanksha_power_and_infrastructure_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.29",
+          null
+        ],
+        [
+          "P/E (x)",
+          "24.02",
+          "35.72"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Akanksha Power and Infrastructure IPO raises Rs 7.80 crore from anchor investors. Akanksha Power and Infrastructure IPO Anchor bid date is December 26 2023. Akanksha Power and Infrastructure IPO Anchor Investors list",
+    "list_link": {
+      "text": "Akanksha Power and Infrastructure IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/akanshapower_anchor_allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "March 31 2024",
+      "shares_offered": "1418000",
+      "anchor_portion_size": "7.80"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 27, 2023 to December 29, 2023",
+    "ipoListingDate": "Wed, Jan 3, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹55.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "49,98,000 shares (aggregating up to ₹27.49 Cr)",
+    "freshIssue": "49,98,000 shares (aggregating up to ₹27.49 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,60,000 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Wed, Dec 27, 2023",
+    "ipoCloseDate": "Fri, Dec 29, 2023",
+    "initiationOfRefunds": "Tue, Jan 2, 2024",
+    "creditOfSharesToDemat": "Tue, Jan 2, 2024",
+    "shareHoldingPreIssue": "1,35,20,520 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,35,20,520 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "83.28%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,62,58,200 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,62,58,200 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "60.81%"
+      }
+    ]
+  },
+  "closing_date": "2023-12-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9370345000",
+    "email": "bdm@apil.co.in",
+    "full_address": "Akanksha Power and Infrastructure Limited, Plot No. 87/4, MIDC, Satpur",
+    "website": "https://www.apil.co.in/"
+  },
+  "createdAt": "2025-04-18T17:40:41.445Z",
+  "faqs": [
+    {
+      "question": "What is the Akanksha Power and Infrastructure IPO?",
+      "answer": "<div itemprop=\"text\"><p>Akanksha Power and Infrastructure IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4998000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->27.49<!-- --> Crores. The issue is priced at <span>₹55 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 27, 2023</b>, and <b>closes on <!-- -->December 29, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Akanksha Power and Infrastructure IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Akanksha Power and Infrastructure IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Akanksha Power and Infrastructure IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Akanksha Power and Infrastructure IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Akanksha Power and Infrastructure IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Akanksha Power and Infrastructure IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Akanksha Power and Infrastructure IPO opens on December 27, 2023 and closes on December 29, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Akanksha Power and Infrastructure IPO?",
+      "answer": "<div itemprop=\"text\"><p>Akanksha Power and Infrastructure IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,10,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Akanksha Power and Infrastructure IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Akanksha Power and Infrastructure IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Akanksha Power and Infrastructure IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Akanksha Power and Infrastructure IPO<!-- --> will be done on <!-- -->Monday, January 1, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, January 2, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/akanksha-power-and-infrastructure-ipo/1608/\" title=\"Akanksha Power and Infrastructure IPO Allotment Status\">Akanksha Power and Infrastructure IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Akanksha Power and Infrastructure IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Akanksha Power and Infrastructure IPO<!-- --> listing date is on <b>Wednesday, January 3, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Akanksha Power and Infrastructure",
+  "issue_price": "₹55.00",
+  "issue_price_numeric": 55,
+  "issue_size": "49,98,000 shares (aggregating up to ₹27.49 Cr)",
+  "issue_size_numeric": 49,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Narnolia Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/185/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/185/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "55.00"
+      },
+      "open": {
+        "nse_sme": "62.00"
+      },
+      "low": {
+        "nse_sme": "62.00"
+      },
+      "high": {
+        "nse_sme": "65.10"
+      },
+      "last_trade": {
+        "nse_sme": "65.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "January 3 2024",
+    "nse_symbol": "AKANKSHA",
+    "isin": "INE0PCY01014",
+    "final_issue_price": "55 per share"
+  },
+  "listing_date": "2024-01-02T18:30:00.000Z",
+  "listing_gains": "18.36%",
+  "listing_gains_numeric": 18.36,
+  "logo": "https://www.chittorgarh.net/images/ipo/akansha-power-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/akansha-power-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "110000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "110000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "220000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/akanksha-power-and-infrastructure-ipo/1608/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-12-26T18:30:00.000Z",
+  "pageHeading": "Akanksha Power and Infrastructure Limited IPO (Akanksha Power and Infrastructure IPO) Detail",
+  "pageTitle": "Akanksha Power and Infrastructure IPO Date, Details",
+  "promoterHolding": {
+    "promoters": "The promoter of the Company is Mr Bipin Bihari Das Mohapatra and Ms Chaitali Bipin Dasmohapatra.",
+    "holdings": {
+      "share_holding_pre_issue": "83.28%",
+      "share_holding_post_issue": "60.81%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Akanksha Power and Infrastructure IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AkankshaPower_DRHP.zip"
+    },
+    {
+      "text": "Akanksha Power and Infrastructure IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AkankshaPowerandInfra_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Akanksha Power and Infrastructure IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/akanshapower_anchor_allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/akanksha-power-and-infrastructure-ipo/1608/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "akanksha.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Akanksha Power and Infrastructure IPO offers 4998000 shares. 948000 (18.97%) to QIB 712000 (14.25%) to NII 1660000 (33.21%) to RII and 1418000 (28.37%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1418000 (28.37%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "260000 (5.20%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "948000 (18.97%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "712000 (14.25%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1660000 (33.21%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4998000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:41.444Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Akanksha Power and Infrastructure IPO is subscribed 117.39 times on December 29 2023 7:29:00 PM (Day 3). The public issue subscribed 110.44 times in the retail category 38.51 times in the QIB category and 238.6 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "38.51",
+        "shares_offered": "948000",
+        "shares_bid_for": "36504000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "238.6",
+        "shares_offered": "712000",
+        "shares_bid_for": "169880000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "110.44",
+        "shares_offered": "1660000",
+        "shares_bid_for": "183336000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "117.39",
+        "shares_offered": "3320000",
+        "shares_bid_for": "389720000"
+      }
+    },
+    "total_applications": "91668",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 29 2023",
+    "tentative_allotment": "Mon Jan 1 2024",
+    "initiation_of_refunds": "Tue Jan 2 2024",
+    "credit_of_shares_to_demat": "Tue Jan 2 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:24.628Z",
+  "updated_at": "2025-04-18T17:40:41.444Z",
+  "year": 2023,
+  "worst_listing_gains": "18.36%",
+  "worst_listing_gains_numeric": 18.36
+}

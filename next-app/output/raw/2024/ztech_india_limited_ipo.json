@@ -1,0 +1,464 @@
+{
+  "_id": "68024a043ccffd1c7912c842",
+  "ipo_id": "2024_ztech_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:29:56.783Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ztech-india-ipo/1735/"
+  },
+  "about": {
+    "details": "<p>Incorporated in November 1994, Z-Tech (India) Limited designs civil engineering products and provides state-of-the-art specialty Geo-Technical Solutions for infrastructure and civil construction projects in India.</p>\n<p>The company is actively involved in the waste management sector, focusing on creating theme parks using recycled scrap materials.</p>\n<p>The company provides innovative, safe, and eco-friendly engineering solutions in three major categories:</p>\n<ol>\n<li>Sustainable Theme Park Development</li>\n<li>Industrial Wastewater Management, and</li>\n<li>Geotechnical Specialized Solutions.</li>\n</ol>\n<p>The clientele of the company includes Bhartia Infra Projects Limited, Dilip Buildcon Limited,GMR Infra Limited, Punj Llyod Limited, NCC Limited, Mep Infrastrastructure Developers Limited, IRCON International Limited, Hindustan Construction Co. Ltd., Madhucon Sugar and Power Industries Limited and GVR Infra Projects Limited.</p>\n<p>As of May 10, 2024, the company has 72 employees in various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Ztech India Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "4192.24",
+          "2339.62",
+          "1925.11",
+          "1973.14"
+        ],
+        [
+          "Revenue",
+          "6737.02",
+          "2588.40",
+          "3083.89",
+          "2395.67"
+        ],
+        [
+          "Profit After Tax",
+          "779.83",
+          "196.71",
+          "8.42",
+          "64.62"
+        ],
+        [
+          "Net Worth",
+          "2191.00",
+          "998.95",
+          "802.24",
+          "793.82"
+        ],
+        [
+          "Reserves and Surplus",
+          "1250.39",
+          "888.95",
+          "692.25",
+          "683.82"
+        ],
+        [
+          "Total Borrowing",
+          "130.84",
+          "71.03",
+          "71.74",
+          "93.75"
+        ]
+      ]
+    },
+    {
+      "heading": "Z-tech (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "z-tech_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "34%"
+        ],
+        [
+          "ROCE",
+          "44.02%"
+        ],
+        [
+          "Debt/Equity",
+          "0.06"
+        ],
+        [
+          "RoNW",
+          "34%"
+        ],
+        [
+          "PAT Margin",
+          "12.00"
+        ],
+        [
+          "Price to Book Value",
+          "4.52"
+        ]
+      ]
+    },
+    {
+      "heading": "Z-tech (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "z-tech_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.29",
+          "6.09"
+        ],
+        [
+          "P/E (x)",
+          "13.27",
+          "18.05"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Ztech India IPO raises Rs 10.61 crore from anchor investors. Ztech India IPO Anchor bid date is May 28 2024. Ztech India IPO Anchor Investors list",
+    "list_link": {
+      "text": "Ztech India IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/ztech_india_anchorallocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "September 1 2024",
+      "shares_offered": "964800",
+      "anchor_portion_size": "10.61"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "May 29, 2024 to May 31, 2024",
+    "ipoListingDate": "Wed, Jun 5, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹110.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "33,91,200 shares (aggregating up to ₹37.30 Cr)",
+    "freshIssue": "33,91,200 shares (aggregating up to ₹37.30 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,70,400 shares",
+      "maker_name": "Nvs Brokerage Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/313/"
+    },
+    "ipoOpenDate": "Wed, May 29, 2024",
+    "ipoCloseDate": "Fri, May 31, 2024",
+    "initiationOfRefunds": "Wed, Jun 5, 2024",
+    "creditOfSharesToDemat": "Wed, Jun 5, 2024",
+    "shareHoldingPreIssue": "94,06,048 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "94,06,048 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "82.65%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,27,97,248 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,27,97,248 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "60.75%"
+      }
+    ]
+  },
+  "closing_date": "2024-05-30T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+ 011-35017243",
+    "email": "cs@ztech-india.com",
+    "full_address": "Ztech India Limited, Plot 140 Khasra, No. 249 Mangla Puri, Gadaipur",
+    "website": "https://www.z-techindia.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.960Z",
+  "faqs": [
+    {
+      "question": "What is the Ztech India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ztech India IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3391200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->37.30<!-- --> Crores. The issue is priced at <span>₹110 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 29, 2024</b>, and <b>closes on <!-- -->May 31, 2024</b>.</p><p>Maashitla Securities Private Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Ztech India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Ztech India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Ztech India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Ztech India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Ztech India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Ztech India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Ztech India IPO opens on May 29, 2024 and closes on May 31, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Ztech India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ztech India IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,32,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Ztech India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Ztech India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Ztech India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Ztech India IPO<!-- --> will be done on <!-- -->Monday, June 3, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, June 5, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/ztech-india-ipo/1735/\" title=\"Ztech India IPO Allotment Status\">Ztech India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Ztech India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Ztech India IPO<!-- --> listing date is on <b>Wednesday, June 5, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Ztech India",
+  "issue_price": "₹110.00",
+  "issue_price_numeric": 110,
+  "issue_size": "33,91,200 shares (aggregating up to ₹37.30 Cr)",
+  "issue_size_numeric": 33,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Narnolia Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/185/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/185/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "110.00"
+      },
+      "open": {
+        "nse_sme": "100.00"
+      },
+      "low": {
+        "nse_sme": "99.20"
+      },
+      "high": {
+        "nse_sme": "105.00"
+      },
+      "last_trade": {
+        "nse_sme": "105.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "June 5 2024",
+    "nse_symbol": "ZTECH",
+    "isin": "INE0ISZ01012",
+    "final_issue_price": "110 per share"
+  },
+  "listing_date": "2024-06-04T18:30:00.000Z",
+  "listing_gains": "-4.55%",
+  "listing_gains_numeric": -4.55,
+  "logo": "https://www.chittorgarh.net/images/ipo/ztech-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/ztech-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "132000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "132000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "264000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ztech-india-ipo/1735/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-05-28T18:30:00.000Z",
+  "pageHeading": "Ztech India Limited IPO (Ztech India IPO) Detail",
+  "pageTitle": "Ztech India IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Ms Sanghamitra Borgohain and M/s Terramaya Enterprises Private Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "82.65%",
+      "share_holding_post_issue": "60.75%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Ztech India IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Z-TechIndiaLimited_DRHP.zip"
+    },
+    {
+      "text": "Ztech India IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Z-TechIndiaLimited_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Ztech India IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/ztech_india_anchorallocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ztech-india-ipo/1735/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Maashitla Securities Private Limited",
+    "phone": "+91-11-45121795-96",
+    "email": "investor.ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "reservation": {
+    "summary": "Ztech India IPO offers 3391200 shares. 644400 (19.00%) to QIB 483600 (14.26%) to NII 1128000 (33.26%) to RII and 964800 (28.45%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "964800 (28.45%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "170400 (5.02%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "644400 (19.00%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "483600 (14.26%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1128000 (33.26%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3391200 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.959Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Ztech India IPO is subscribed 371.39 times on May 31 2024 6:19:56 PM (Day 3). The public issue subscribed 315.59 times in the retail category 123.1 times in the QIB category and 832.37 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "123.1",
+        "shares_offered": "644400",
+        "shares_bid_for": "79326000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "832.37",
+        "shares_offered": "483600",
+        "shares_bid_for": "402535200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "315.59",
+        "shares_offered": "1128000",
+        "shares_bid_for": "355988400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "371.39",
+        "shares_offered": "2256000",
+        "shares_bid_for": "837849600"
+      }
+    },
+    "total_applications": "296658",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 31 2024",
+    "tentative_allotment": "Mon Jun 3 2024",
+    "initiation_of_refunds": "Wed Jun 5 2024",
+    "credit_of_shares_to_demat": "Wed Jun 5 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:23.285Z",
+  "updated_at": "2025-04-18T12:48:03.959Z",
+  "year": 2024,
+  "worst_listing_gains": "-4.55%",
+  "worst_listing_gains_numeric": -4.55
+}

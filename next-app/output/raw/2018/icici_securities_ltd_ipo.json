@@ -1,0 +1,408 @@
+{
+  "_id": "680298583ccffd1c7912cbbf",
+  "ipo_id": "2018_icici_securities_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:15:48.936Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/icici-securities-ipo/839/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1995, ICICI Securities Ltd is a leading technology-based securities firm in India that offers a wide range of financial services including brokerage, financial product distribution and investment banking and focuses on both retail and institutional clients. </p><p>They provide equity capital market products including initial public offerings (IPO), further public offerings, rights offerings, convertible offerings, qualified institutional placements, non-convertible debentures, buyback, delisting, and open offers and international offerings for unlisted and listed entities. They offers their services to corporates, financial institutions, high net-worth individuals, and retail investors.</p><p>The company operates ICICIdirect.com, an online broking platform for investors to invest in equity, derivatives, currency futures, mutual funds, and other financial products, as well as to access research information, stock picks, and mutual fund recommendations.  As of September 30, 2017, ICICIdirect had approximately 3.8 million operational accounts of whom 0.7 million had traded on NSE in the preceding 12 months. Since inception, the company had acquired a total of 4.4 million customers through this platform as of September 30, 2017. </p><p>As on September 30,  2017, ICICI Securities' retail brokerage and distribution businesses consists of over 200 of our own branches, over 2,600 branches of ICICI Bank through which our electronic brokerage platform is marketed and over 4,600 sub-brokers, authorised persons, independent financial associates and independent associates.</p><p>Strengths of the company</p><p>1. Largest Equity Broker in India Powered by Proprietary Technology Platform: ICICIdirect<br>2. Strong and Growing Distribution Business with an “Open-Source” Distribution Model<br>3. Superior Customer Experience through Product and Technology Innovation<br>4. Strategic Component of the ICICI Ecosystem<br>5. Leading Institutional Platform<br>6. Strong Financial Performance with Significant Operating Efficiency</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "20401.6",
+          "13920.2",
+          "13611.4",
+          "16203.7",
+          "9029.2"
+        ],
+        [
+          "Total Revenue",
+          "14039.0",
+          "11235.6",
+          "12094.6",
+          "8117.4",
+          "7049.7"
+        ],
+        [
+          "Profit After Tax",
+          "3376.1",
+          "2357.4",
+          "2439.6",
+          "733.0",
+          "756.6"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 22, 2018 to March 26, 2018",
+    "ipoListingDate": "Wed, Apr 4, 2018",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹520.00",
+    "lotSize": "28 Shares",
+    "issueSize": "7,72,49,508 shares (aggregating up to ₹4,016.97 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Mar 22, 2018",
+    "ipoCloseDate": "Mon, Mar 26, 2018",
+    "initiationOfRefunds": "Tue, Apr 3, 2018",
+    "creditOfSharesToDemat": "Wed, Apr 4, 2018",
+    "shareHoldingPreIssue": "32,21,41,400 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "32,21,41,400 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "32,21,41,400 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "32,21,41,400 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-03-25T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 6637 7100",
+    "email": "investors@icicisecurities.com",
+    "full_address": "ICICI Securities Ltd, ICICI Centre, H.T. Parekh Marg, Churchgate Mumbai 400 020",
+    "website": "http://www.icicisecurities.com"
+  },
+  "createdAt": "2025-04-18T18:22:16.758Z",
+  "faqs": [
+    {
+      "question": "What is the ICICI Securities IPO?",
+      "answer": "<div itemprop=\"text\"><p>ICICI Securities IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->77249508<!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->4,016.97<!-- --> Crores. The issue is priced at <span>₹520 per share</span>. The minimum order quantity is <!-- -->28<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 22, 2018</b>, and <b>closes on <!-- -->March 26, 2018</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in ICICI Securities IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->ICICI Securities IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->ICICI Securities IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->ICICI Securities IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->ICICI Securities IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When ICICI Securities IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The ICICI Securities IPO opens on March 22, 2018 and closes on March 26, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of ICICI Securities IPO?",
+      "answer": "<div itemprop=\"text\"><p>ICICI Securities IPO<!-- --> <b>lot size is <!-- -->28</b>, and the <b>minimum amount required is <span>₹14,560</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for ICICI Securities IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->ICICI Securities IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is ICICI Securities IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->ICICI Securities IPO<!-- --> will be done on <!-- -->Monday, April 2, 2018<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, April 4, 2018<!-- -->. Check the <a href=\"/ipo_allotment_status/icici-securities-ipo/839/\" title=\"ICICI Securities IPO Allotment Status\">ICICI Securities IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is ICICI Securities IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->ICICI Securities IPO<!-- --> listing date is on <b>Wednesday, April 4, 2018</b>.</p></div>"
+    }
+  ],
+  "ipoName": "ICICI Securities",
+  "issue_price": "₹520.00",
+  "issue_price_numeric": 520,
+  "issue_size": "7,72,49,508 shares (aggregating up to ₹4,016.97 Cr)",
+  "issue_size_numeric": 7,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Bofa Securities India Limited",
+      "url": "/report/ipo-lead-manager-review/112/22/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/22/"
+    },
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "Clsa India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/142/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/142/"
+    },
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "520.00",
+        "nse": "520.00"
+      },
+      "open": {
+        "bse": "431.10",
+        "nse": "435.00"
+      },
+      "low": {
+        "bse": "431.10",
+        "nse": "435.00"
+      },
+      "high": {
+        "bse": "462.70",
+        "nse": "463.00"
+      },
+      "last_trade": {
+        "bse": "445.05",
+        "nse": "445.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "April 4 2018",
+    "bse_script_code": "541179",
+    "nse_symbol": "ISEC",
+    "isin": "INE763G01038",
+    "final_issue_price": "520 per share"
+  },
+  "listing_date": "2018-04-03T18:30:00.000Z",
+  "listing_gains": "-14.41%",
+  "listing_gains_numeric": -14.41,
+  "logo": "https://www.chittorgarh.net/images/ipo/icici_securities_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/icici_securities_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 28 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "28",
+        "amount": "14560"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "364",
+        "amount": "189280"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "392",
+        "amount": "203840"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "1904",
+        "amount": "990080"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "1932",
+        "amount": "1004640"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/icici-securities-ipo/839/"
+    }
+  },
+  "lot_size": 28,
+  "opening_date": "2018-03-21T18:30:00.000Z",
+  "pageHeading": "ICICI Securities Ltd IPO (ICICI Securities IPO) Detail",
+  "pageTitle": "ICICI Securities IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "ICICI Securities IPO DRHP",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/dec-2017/1513588238933.pdf"
+    },
+    {
+      "text": "ICICI Securities IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2018/icici-securities-limited_38507.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "6",
+        "neutral": "0",
+        "avoid": "2"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/icici-securities-ipo/839/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "ICICI Securities IPO offers 44225343 shares. 22016111 (49.78%) to QIB 11008054 (24.89%) to NII 7338703 (16.59%) to RII. 262096 RIIs will receive minimum 28 shares and (sNII) and (bNII) will receive minimum 392 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "22016111 (49.78%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "11008054 (24.89%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "7338703 (16.59%)",
+        "maximum_allottees": "262096"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "3862475 (8.73%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "44225343 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:16.757Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The ICICI Securities IPO is subscribed 0.78 times on March 26 2018 7:45:00 PM (Day 3). The public issue subscribed 0.89 times in the retail category 1.04 times in the QIB category and 0.36 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.04",
+        "shares_offered": "22016111"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.36",
+        "shares_offered": "11008054"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.89",
+        "shares_offered": "7338703"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "0.34",
+        "shares_offered": "3862475"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "0.78",
+        "shares_offered": "44225343"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 26 2018",
+    "tentative_allotment": "Mon Apr 2 2018",
+    "initiation_of_refunds": "Tue Apr 3 2018",
+    "credit_of_shares_to_demat": "Wed Apr 4 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:13.339Z",
+  "updated_at": "2025-04-18T18:22:16.757Z",
+  "year": 2018,
+  "worst_listing_gains": "-14.41%",
+  "worst_listing_gains_numeric": -14.41
+}

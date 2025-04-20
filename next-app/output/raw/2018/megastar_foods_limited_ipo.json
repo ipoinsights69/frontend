@@ -1,0 +1,347 @@
+{
+  "_id": "680298593ccffd1c7912cbd9",
+  "ipo_id": "2018_megastar_foods_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:14:45.782Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/megastar-foods-ipo/871/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2011, Megastar Foods Limited is engaged in the manufacturing of food-based products such as wheat flour, organic wheat flour products, and allied flour products. Basically, the company produces food products related to wheat i.e. Atta-wheat flour products, Maida-Fine wheat flour products, Suji/Rawa-Semolina, Chokar/Wheat Bran, Organic Atta, Organic Whole Wheat flour and Organic wheat flour etc.</p><p>Megastar is an FSSC 22000 certified company for food safety systems including ISO 22000:2005, ISO 22002-1:2009 and additional FSSC 22000 requirements in respect of Processing (Pre Cleaning, Cleaning, milling, Sifting) of Wheat products like Atta, Maida, Suzi, Bran and its packaging in HDPE laminated bags and Poly Pouch bags by Intertek Certification Limited, United Kingdom. The Company is having FSSAI license, Organic Certificate for in accordance with the requirements of India's National<br>Programme for Organic Production Standards by the Ecocert India Pvt. Limited, HALAL certified by HALAL India Pvt. Ltd etc. </p><p>Megastar has a state of the art wheat processing plant in Punjab, India, with an installed capacity of 81000 MT per year. The company has have 62 employees including Key Managerial Personnel.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "3160.33",
+          "3081.85",
+          "2007.93",
+          "1313.84",
+          "286.15"
+        ],
+        [
+          "Total Revenue",
+          "9776.25",
+          "7804.31",
+          "4450.16",
+          "785.36",
+          "--"
+        ],
+        [
+          "Profit After Tax",
+          "105.86",
+          "58.92",
+          "(28.15)",
+          "(0.11)",
+          "--"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "May 14, 2018 to May 16, 2018",
+    "ipoListingDate": "May 24, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹30.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "26,80,000 shares (aggregating up to ₹8.04 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "1,36,000 shares",
+    "ipoOpenDate": "Mon, May 14, 2018",
+    "ipoCloseDate": "Wed, May 16, 2018",
+    "shareHoldingPreIssue": "72,23,700 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "72,23,700 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "99,03,700 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "99,03,700 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-05-15T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-0172-5005024",
+    "email": "info@megastarfoods.com",
+    "full_address": "Megastar Foods Limited, Plot No. 807, Industrial Area Phase-II, Chandigarh-160102",
+    "website": "http://www.megastarfoods.com"
+  },
+  "createdAt": "2025-04-18T18:22:17.281Z",
+  "faqs": [
+    {
+      "question": "What is the Megastar Foods IPO?",
+      "answer": "<div itemprop=\"text\"><p>Megastar Foods IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2680000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->8.04<!-- --> Crores. The issue is priced at <span>₹30 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 14, 2018</b>, and <b>closes on <!-- -->May 16, 2018</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Megastar Foods IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Megastar Foods IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Megastar Foods IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Megastar Foods IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Megastar Foods IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Megastar Foods IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Megastar Foods IPO opens on May 14, 2018 and closes on May 16, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Megastar Foods IPO?",
+      "answer": "<div itemprop=\"text\"><p>Megastar Foods IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Megastar Foods IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Megastar Foods IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Megastar Foods IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Megastar Foods IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/megastar-foods-ipo/871/\" title=\"Megastar Foods IPO Allotment Status\">Megastar Foods IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Megastar Foods IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Megastar Foods IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Megastar Foods",
+  "issue_price": "₹30.00",
+  "issue_price_numeric": 30,
+  "issue_size": "26,80,000 shares (aggregating up to ₹8.04 Cr)",
+  "issue_size_numeric": 26,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swastika Investmart Ltd",
+      "url": "/report/ipo-lead-manager-review/112/122/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/122/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "30.00"
+      },
+      "open": {
+        "bse_sme": "30.50"
+      },
+      "low": {
+        "bse_sme": "30.50"
+      },
+      "high": {
+        "bse_sme": "31.95"
+      },
+      "last_trade": {
+        "bse_sme": "31.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 24 2018",
+    "bse_script_code": "541352",
+    "nse_symbol": "MEGASTAR",
+    "isin": "INE00EM01016",
+    "final_issue_price": "30 per share"
+  },
+  "listing_date": "2018-05-23T18:30:00.000Z",
+  "listing_gains": "3.33%",
+  "listing_gains_numeric": 3.33,
+  "logo": "https://www.chittorgarh.net/images/ipo/ms-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/ms-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/megastar-foods-ipo/871/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2018-05-13T18:30:00.000Z",
+  "pageHeading": "Megastar Foods Limited IPO (Megastar Foods IPO) Detail",
+  "pageTitle": "Megastar Foods IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Megastar Foods IPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/2018426183347DRHP_MegastarFoods.pdf"
+    },
+    {
+      "text": "Megastar Foods IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2018/megastar-foods-limted_38909.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/megastar-foods-ipo/871/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "virenr@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Megastar Foods IPO offers 2816000 shares. 1272000 (45.17%) to NII 1272000 (45.17%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "136000 (4.83%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1272000 (45.17%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1272000 (45.17%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "136000 (4.83%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2816000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:17.280Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Megastar Foods IPO is subscribed 1.7 times on May 16 2018 5:00:00 PM (Day 3). The public issue subscribed 1.52 times in the retail category [.] times in the QIB category and 1.88 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.88",
+        "shares_offered": "1272000",
+        "shares_bid_for": "2392000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.52",
+        "shares_offered": "1272000",
+        "shares_bid_for": "1928000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.7",
+        "shares_offered": "2544000",
+        "shares_bid_for": "4320000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 16 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:17.492Z",
+  "updated_at": "2025-04-18T18:22:17.280Z",
+  "year": 2018,
+  "worst_listing_gains": "3.33%",
+  "worst_listing_gains_numeric": 3.33
+}

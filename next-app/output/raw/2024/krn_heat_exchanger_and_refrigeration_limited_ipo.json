@@ -1,0 +1,508 @@
+{
+  "_id": "680249fe3ccffd1c7912c795",
+  "ipo_id": "2024_krn_heat_exchanger_and_refrigeration_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:20:49.752Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/krn-heat-exchanger-ipo/1864/"
+  },
+  "about": {
+    "details": "<p>KRN Heat Exchanger and Refrigeration Ltd is a <strong>leading manufacturer of fin and tube-type heat exchangers.</strong> The company manufactures Copper and Aluminium fins and copper tubes heat exchangers, water coils, condenser coils, and evaporator coils. It manufactures heat exchanger tubes of different shapes and sizes from 5 mm diameter to 7 mm, 9.52 mm, 12.7 mm, and 15.88 mm. All the products offered are used in the domestic, commercial, and industrial Heating, Ventilation, air conditioning and refrigeration (HVAC&amp;R) industry.</p>\n<p>Daikin Airconditioning India Pvt Ltd, Schnieder Electric IT Business India Pvt Ltd, Kirloskar Chillers Private Ltd, Blue Star Ltd, Climaventa Climate Technologies Pvt Ltd and Frigel Intelligent Cooling Systems India Pvt Ltd are some of the prestigious customers. The company also export products overseas to countries including UAE, USA, Italy, Saudi Arabia, Norway, Czech Republic, Germany, UK, and more.</p>\n<p>Its <strong>manufacturing facility is situated in Neemrana, Rajasthan</strong> over an aggregated area of 7,800 sq. mt. The company uses the latest coil manufacturing machines including Hair Pin Bender, Fin Press Machine, CNC Tube Bender, and Vertical Expander.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "KRN Heat Exchanger and Refrigeration Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "258.36"
+        ],
+        [
+          "Revenue",
+          "313.54"
+        ],
+        [
+          "Profit After Tax",
+          "39.07"
+        ],
+        [
+          "Net Worth",
+          "131.65"
+        ],
+        [
+          "Total Borrowing",
+          "59.69"
+        ]
+      ]
+    },
+    {
+      "heading": "Krn Heat Exchanger And Refrigeration Limited Stock Quote & Charts",
+      "sanitizedHeading": "krn_heat_exchanger_and_refrigeration_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "40.86%"
+        ],
+        [
+          "ROCE",
+          "31.21%"
+        ],
+        [
+          "Debt/Equity",
+          "0.45"
+        ],
+        [
+          "RoNW",
+          "29.68%"
+        ],
+        [
+          "PAT Margin",
+          "12.67"
+        ]
+      ]
+    },
+    {
+      "heading": "Krn Heat Exchanger And Refrigeration Limited Stock Quote & Charts",
+      "sanitizedHeading": "krn_heat_exchanger_and_refrigeration_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.88",
+          "6.56"
+        ],
+        [
+          "P/E (x)",
+          "24.78",
+          "33.52"
+        ]
+      ]
+    },
+    {
+      "heading": "Krn Heat Exchanger And Refrigeration Limited Stock Quote & Charts",
+      "sanitizedHeading": "krn_heat_exchanger_and_refrigeration_stock_quote_charts",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          null,
+          "Standalone",
+          "Standalone"
+        ],
+        [
+          "Assets",
+          "148.76",
+          "92.79"
+        ],
+        [
+          "Revenue",
+          "249.89",
+          "158.23"
+        ],
+        [
+          "Profit After Tax",
+          "32.31",
+          "10.59"
+        ],
+        [
+          "Net Worth",
+          "59.57",
+          "25.53"
+        ],
+        [
+          "Total Borrowing",
+          "36.64",
+          "22.12"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "KRN Heat Exchanger IPO raises Rs 100.10 crore from anchor investors. KRN Heat Exchanger IPO Anchor bid date is September 24 2024. KRN Heat Exchanger IPO Anchor Investors list",
+    "list_link": {
+      "text": "KRN Heat Exchanger IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/krn_heat_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "December 29 2024",
+      "shares_offered": "4550000",
+      "anchor_portion_size": "100.10"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 25, 2024 to September 27, 2024",
+    "ipoListingDate": "Thu, Oct 3, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹220.00",
+    "lotSize": "65 Shares",
+    "issueSize": "1,55,43,000 shares (aggregating up to ₹341.95 Cr)",
+    "freshIssue": "1,55,43,000 shares (aggregating up to ₹341.95 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Sep 25, 2024",
+    "ipoCloseDate": "Fri, Sep 27, 2024",
+    "initiationOfRefunds": "Tue, Oct 1, 2024",
+    "creditOfSharesToDemat": "Tue, Oct 1, 2024",
+    "shareHoldingPreIssue": "4,39,99,980 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "4,39,99,980 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "94.39%"
+      }
+    ],
+    "shareHoldingPostIssue": "5,95,42,980 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "5,95,42,980 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-09-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 – 9257025440",
+    "email": "cs@krnheatexchanger.com",
+    "full_address": "KRN Heat Exchanger and Refrigeration Limited, Plot No. F - 46 47 48 49 EPIP, RIICO Industrial Area, Neemrana Alwar",
+    "website": "http://www.krnheatexchanger.com/"
+  },
+  "createdAt": "2025-04-18T12:47:58.214Z",
+  "faqs": [
+    {
+      "question": "What is the KRN Heat Exchanger IPO?",
+      "answer": "<div itemprop=\"text\"><p>KRN Heat Exchanger IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->15543000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->341.95<!-- --> Crores. The issue is priced at <span>₹220 per share</span>. The minimum order quantity is <!-- -->65<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 25, 2024</b>, and <b>closes on <!-- -->September 27, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in KRN Heat Exchanger IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->KRN Heat Exchanger IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->KRN Heat Exchanger IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->KRN Heat Exchanger IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->KRN Heat Exchanger IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When KRN Heat Exchanger IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The KRN Heat Exchanger IPO opens on September 25, 2024 and closes on September 27, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of KRN Heat Exchanger IPO?",
+      "answer": "<div itemprop=\"text\"><p>KRN Heat Exchanger IPO<!-- --> <b>lot size is <!-- -->65</b>, and the <b>minimum amount required is <span>₹14,300</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for KRN Heat Exchanger IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->KRN Heat Exchanger IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is KRN Heat Exchanger IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->KRN Heat Exchanger IPO<!-- --> will be done on <!-- -->Monday, September 30, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, October 1, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/krn-heat-exchanger-ipo/1864/\" title=\"KRN Heat Exchanger IPO Allotment Status\">KRN Heat Exchanger IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is KRN Heat Exchanger IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->KRN Heat Exchanger IPO<!-- --> listing date is on <b>Thursday, October 3, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "KRN Heat Exchanger and Refrigeration",
+  "issue_price": "₹220.00",
+  "issue_price_numeric": 220,
+  "issue_size": "1,55,43,000 shares (aggregating up to ₹341.95 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Holani Consultants Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/151/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/151/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "220.00",
+        "nse": "220.00"
+      },
+      "open": {
+        "bse": "470.00",
+        "nse": "480.00"
+      },
+      "low": {
+        "bse": "450.00",
+        "nse": "450.00"
+      },
+      "high": {
+        "bse": "513.40",
+        "nse": "513.50"
+      },
+      "last_trade": {
+        "bse": "478.45",
+        "nse": "478.79"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "October 3 2024",
+    "bse_script_code": "544263",
+    "nse_symbol": "KRN",
+    "isin": "INE0Q3J01015",
+    "final_issue_price": "220 per share"
+  },
+  "listing_date": "2024-10-02T18:30:00.000Z",
+  "listing_gains": "117.48%",
+  "listing_gains_numeric": 117.48,
+  "logo": "https://www.chittorgarh.net/images/ipo/krn-heat-exchangers-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/krn-heat-exchangers-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 65 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "65",
+        "amount": "14300"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "845",
+        "amount": "185900"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "910",
+        "amount": "200200"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "4485",
+        "amount": "986700"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "4550",
+        "amount": "1001000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/krn-heat-exchanger-ipo/1864/"
+    }
+  },
+  "lot_size": 65,
+  "opening_date": "2024-09-24T18:30:00.000Z",
+  "pageHeading": "KRN Heat Exchanger and Refrigeration Limited IPO (KRN Heat Exchanger IPO) Detail",
+  "pageTitle": "KRN Heat Exchanger IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Santosh Kumar Yadav Mrs. Anju Devi and Mr. Manohar Lal are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "94.39%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "KRN Heat Exchanger IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2024/krn-heat-exchanger-and-refrigeration-limited-drhp_82668.html"
+    },
+    {
+      "text": "KRN Heat Exchanger IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/krn-heat-exchanger-and-refrigeration-limited-rhp_86708.html"
+    },
+    {
+      "text": "Anchor Investors in KRN Heat Exchanger IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/krn_heat_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "5",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "3",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/krn-heat-exchanger-ipo/1864/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "KRN Heat Exchanger IPO offers 15543000 shares. 3107455 (19.99%) to QIB 2387215 (15.36%) to NII 5498330 (35.37%) to RII and 4550000 (29.27%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "4550000 (29.27%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "3107455 (19.99%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2387215 (15.36%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1591477 (10.24%)",
+        "maximum_allottees": "1748"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "795738 (5.12%)",
+        "maximum_allottees": "874"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "5498330 (35.37%)",
+        "maximum_allottees": "84589"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "15543000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.213Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The KRN Heat Exchanger IPO is subscribed 213.41 times on September 27 2024 6:19:07 PM (Day 3). The public issue subscribed 96.74 times in the retail category 253.04 times in the QIB category and 430.54 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "253.04",
+        "shares_offered": "3107455",
+        "shares_bid_for": "786300710"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "430.54",
+        "shares_offered": "2387215",
+        "shares_bid_for": "1027799890"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "445.31",
+        "shares_offered": "1591477",
+        "shares_bid_for": "708701695"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "401.01",
+        "shares_offered": "795738",
+        "shares_bid_for": "319098195"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "96.74",
+        "shares_offered": "5498330",
+        "shares_bid_for": "531887980"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "213.41",
+        "shares_offered": "10993000",
+        "shares_bid_for": "2345988580"
+      }
+    },
+    "total_applications": "6291460"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 27 2024",
+    "tentative_allotment": "Mon Sep 30 2024",
+    "initiation_of_refunds": "Tue Oct 1 2024",
+    "credit_of_shares_to_demat": "Tue Oct 1 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:00.665Z",
+  "updated_at": "2025-04-18T12:47:58.213Z",
+  "year": 2024,
+  "worst_listing_gains": "117.48%",
+  "worst_listing_gains_numeric": 117.48
+}

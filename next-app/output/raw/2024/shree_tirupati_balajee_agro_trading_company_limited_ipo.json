@@ -1,0 +1,500 @@
+{
+  "_id": "68024a013ccffd1c7912c800",
+  "ipo_id": "2024_shree_tirupati_balajee_agro_trading_company_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:23:01.746Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/shree-tirupati-balajee-ipo/1835/"
+  },
+  "about": {
+    "details": "<p>Established in October 2001, Shree Tirupati Balajee Agro Trading Company Limited manufactures and sells Flexible Intermediate Bulk Containers (FIBCs), i.e., large flexible bags, and other industrial packaging products such as woven sacks, woven fabric, narrow fabric, and tapes in the Indian domestic market and overseas.</p>\n<p>The company offers customized products and caters to the bulk packaging needs of clients from various industries, including chemicals, agrochemicals, food, mining, waste disposal, agriculture, lubricants, and edible oil.</p>\n<p>The company operates through subsidiaries such as Honourable Packaging Private Limited (HPPL), Shree Tirupati Balajee FIBC Limited (STBFL), and Jagannath Plastics Private Limited (JPPL).</p>\n<p>The company operates five manufacturing units. Units I and II are certified with ISO 9001:2015 and ISO 14001:2018. Unit III is certified with ISO 9001:2015, ISO 45001:2018, ISO 14001:2015, ISO 14064-1:2018, and the SEDEX SMETA four-pillar. The company's certifications cover the production of Flexible Intermediate Bulk Containers (FIBC), Woven Sacks, and Fabrics of PP (Polypropylene) and HDPE (High-Density Polyethylene).</p>\n<p>As of July 2024, the company has 857 department employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Shree Tirupati Balajee Agro Trading Company Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "516.94",
+          "392.46",
+          "391.89"
+        ],
+        [
+          "Revenue",
+          "552.82",
+          "478.14",
+          "453.79"
+        ],
+        [
+          "Profit After Tax",
+          "36.07",
+          "20.72",
+          "13.66"
+        ],
+        [
+          "Net Worth",
+          "173.07",
+          "110.21",
+          "92.23"
+        ],
+        [
+          "Reserves and Surplus",
+          "106.24",
+          "109.05",
+          null
+        ],
+        [
+          "Total Borrowing",
+          "243.69",
+          "223.81",
+          "240.06"
+        ]
+      ]
+    },
+    {
+      "heading": "Shree Tirupati Balajee Agro Trading Company Limited Stock Quote & Charts",
+      "sanitizedHeading": "shree_tirupati_balajee_agro_trading_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "20.84%"
+        ],
+        [
+          "ROCE",
+          "16.29%"
+        ],
+        [
+          "Debt/Equity",
+          "1.41"
+        ],
+        [
+          "RoNW",
+          "20.84%"
+        ],
+        [
+          "PAT Margin",
+          "6.53"
+        ],
+        [
+          "Price to Book Value",
+          "3.01"
+        ]
+      ]
+    },
+    {
+      "heading": "Shree Tirupati Balajee Agro Trading Company Limited Stock Quote & Charts",
+      "sanitizedHeading": "shree_tirupati_balajee_agro_trading_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "5.40",
+          "4.42"
+        ],
+        [
+          "P/E (x)",
+          "15.37",
+          "18.77"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Shree Tirupati Balajee IPO raises Rs 50.90 crore from anchor investors. Shree Tirupati Balajee IPO Anchor bid date is September 4 2024. Shree Tirupati Balajee IPO Anchor Investors list",
+    "list_link": {
+      "text": "Shree Tirupati Balajee IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/shree-tirupati-balajee-agro-trading-company-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "December 8 2024",
+      "shares_offered": "6132000",
+      "anchor_portion_size": "50.90"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 5, 2024 to September 9, 2024",
+    "ipoListingDate": "Thu, Sep 12, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹83.00",
+    "lotSize": "180 Shares",
+    "issueSize": "2,04,40,000 shares (aggregating up to ₹169.65 Cr)",
+    "freshIssue": "1,47,50,000 shares (aggregating up to ₹122.43 Cr)",
+    "offerForSale": "56,90,000 shares of ₹10 (aggregating up to ₹47.23 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Sep 5, 2024",
+    "ipoCloseDate": "Mon, Sep 9, 2024",
+    "initiationOfRefunds": "Wed, Sep 11, 2024",
+    "creditOfSharesToDemat": "Wed, Sep 11, 2024",
+    "shareHoldingPreIssue": "6,68,20,852 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "6,68,20,852 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "88.38%"
+      }
+    ],
+    "shareHoldingPostIssue": "8,15,70,852 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "8,15,70,852 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "65.42%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-08T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+917314217400",
+    "email": "info@tirupatibalajee.net",
+    "full_address": "Shree Tirupati Balajee Agro Trading Company Limited, Plot No.192 Sector 1, Pithampur, Dhar - 454775",
+    "website": "https://www.tirupatibalajee.net/"
+  },
+  "createdAt": "2025-04-18T12:48:01.835Z",
+  "faqs": [
+    {
+      "question": "What is the Shree Tirupati Balajee IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shree Tirupati Balajee IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->20440000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->169.65<!-- --> Crores. The issue is priced at <span>₹83 per share</span>. The minimum order quantity is <!-- -->180<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 5, 2024</b>, and <b>closes on <!-- -->September 9, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Shree Tirupati Balajee IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Shree Tirupati Balajee IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Shree Tirupati Balajee IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Shree Tirupati Balajee IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Shree Tirupati Balajee IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Shree Tirupati Balajee IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Shree Tirupati Balajee IPO opens on September 5, 2024 and closes on September 9, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Shree Tirupati Balajee IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shree Tirupati Balajee IPO<!-- --> <b>lot size is <!-- -->180</b>, and the <b>minimum amount required is <span>₹14,940</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Shree Tirupati Balajee IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Shree Tirupati Balajee IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Shree Tirupati Balajee IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Shree Tirupati Balajee IPO<!-- --> will be done on <!-- -->Tuesday, September 10, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, September 11, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/shree-tirupati-balajee-ipo/1835/\" title=\"Shree Tirupati Balajee IPO Allotment Status\">Shree Tirupati Balajee IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Shree Tirupati Balajee IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Shree Tirupati Balajee IPO<!-- --> listing date is on <b>Thursday, September 12, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Shree Tirupati Balajee Agro Trading Company",
+  "issue_price": "₹83.00",
+  "issue_price_numeric": 83,
+  "issue_size": "2,04,40,000 shares (aggregating up to ₹169.65 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Pnb Investment Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/89/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/89/"
+    },
+    {
+      "name": "Unistone Capital Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/176/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/176/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "83.00",
+        "nse": "83.00"
+      },
+      "open": {
+        "bse": "92.90",
+        "nse": "90.00"
+      },
+      "low": {
+        "bse": "92.00",
+        "nse": "90.00"
+      },
+      "high": {
+        "bse": "97.54",
+        "nse": "94.50"
+      },
+      "last_trade": {
+        "bse": "97.54",
+        "nse": "94.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 12 2024",
+    "bse_script_code": "544249",
+    "nse_symbol": "BALAJEE",
+    "isin": "INE0S2G01011",
+    "final_issue_price": "83 per share"
+  },
+  "listing_date": "2024-09-11T18:30:00.000Z",
+  "listing_gains": "17.52%",
+  "listing_gains_numeric": 17.52,
+  "logo": "https://www.chittorgarh.net/images/ipo/stbalc_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/stbalc_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 180 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "180",
+        "amount": "14940"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "2340",
+        "amount": "194220"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "2520",
+        "amount": "209160"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "11880",
+        "amount": "986040"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "12060",
+        "amount": "1000980"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/shree-tirupati-balajee-ipo/1835/"
+    }
+  },
+  "lot_size": 180,
+  "opening_date": "2024-09-04T18:30:00.000Z",
+  "pageHeading": "Shree Tirupati Balajee Agro Trading Company Limited IPO (Shree Tirupati Balajee IPO) Detail",
+  "pageTitle": "Shree Tirupati Balajee IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoter of the company is Binod Kumar Agarwal.",
+    "holdings": {
+      "share_holding_pre_issue": "88.38%",
+      "share_holding_post_issue": "65.42%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Shree Tirupati Balajee IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2024/shree-tirupati-balajee-agro-trading-company-limited-drhp_82507.html"
+    },
+    {
+      "text": "Shree Tirupati Balajee IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/shree-tirupati-balajee-agro-trading-company-limited-rhp_86384.html"
+    },
+    {
+      "text": "Anchor Investors in Shree Tirupati Balajee IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/shree-tirupati-balajee-agro-trading-company-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "6",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "1",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/shree-tirupati-balajee-ipo/1835/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "shreetirupatibalajee.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Shree Tirupati Balajee IPO offers 20440000 shares. 4088000 (20%) to QIB 3066000 (15%) to NII 7154000 (35%) to RII and 6132000 (30%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "6132000 (30%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4088000 (20%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3066000 (15%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2044000 (10%)",
+        "maximum_allottees": "811"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1022000 (5%)",
+        "maximum_allottees": "405"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "7154000 (35%)",
+        "maximum_allottees": "39744"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "20440000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.834Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Shree Tirupati Balajee IPO is subscribed 124.74 times on September 9 2024 6:19:09 PM (Day 3). The public issue subscribed 73.22 times in the retail category 150.87 times in the QIB category and 210.12 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "150.87",
+        "shares_offered": "4088000",
+        "shares_bid_for": "616776120"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "210.12",
+        "shares_offered": "3066000",
+        "shares_bid_for": "644222340"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "225.47",
+        "shares_offered": "2044000",
+        "shares_bid_for": "460865340"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "179.41",
+        "shares_offered": "1022000",
+        "shares_bid_for": "183357000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "73.22",
+        "shares_offered": "7154000",
+        "shares_bid_for": "523828620"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "124.74",
+        "shares_offered": "14308000",
+        "shares_bid_for": "1784827080"
+      }
+    },
+    "total_applications": "2736926"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 9 2024",
+    "tentative_allotment": "Tue Sep 10 2024",
+    "initiation_of_refunds": "Wed Sep 11 2024",
+    "credit_of_shares_to_demat": "Wed Sep 11 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:14.472Z",
+  "updated_at": "2025-04-18T12:48:01.834Z",
+  "year": 2024,
+  "worst_listing_gains": "17.52%",
+  "worst_listing_gains_numeric": 17.52
+}

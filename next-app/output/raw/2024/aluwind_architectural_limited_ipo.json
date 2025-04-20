@@ -1,0 +1,439 @@
+{
+  "_id": "680249fa3ccffd1c7912c708",
+  "ipo_id": "2024_aluwind_architectural_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:34:25.249Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/aluwind-architectural-ipo/1691/"
+  },
+  "about": {
+    "details": "<p>Incorporated in April 2003, Aluwind Architectural Limited manufactures and installs a diverse range of aluminium products. These include windows, doors, curtain walls, cladding, and glazing systems, all meticulously crafted to meet architects, consultants, builders, institutions, and corporations' unique needs.</p>\n<p>The company has expanded its market presence, selling products in various cities across India, including Mumbai, Pune, Bangalore, and Hyderabad. This demonstrates a wide reach and commitment to serving customers nationwide.</p>\n<p>The company's profits after tax for FY21, FY22, FY23, and H1 FY23 were INR 76.92L, INR 78.80L, INR 270.05L, and INR 372.83L, respectively.</p>\n<p>The company has a manufacturing unit located in Pune, Maharastra spread across an area of 45000 square foot.</p>\n<p>The company's clientele includes real estate developers such as L&amp;T and Birla, which helps them to bag diverse projects through competitive bidding.</p>\n<p>As of September 30, 2023, the company had 178 permanent employees. The company regularly trains its employees to increase operational excellence, improve productivity, and maintain compliance standards on quality and safety.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Aluwind Architectural Limited\t Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "4907.14",
+          "4086.53",
+          "3232.74",
+          "2177.73"
+        ],
+        [
+          "Revenue",
+          "4142.97",
+          "4900.62",
+          "2925.13",
+          "2139.29"
+        ],
+        [
+          "Profit After Tax",
+          "372.83",
+          "270.05",
+          "78.80",
+          "76.92"
+        ],
+        [
+          "Net Worth",
+          "2069.53",
+          "1702.56",
+          "1429.87",
+          "1041.33"
+        ],
+        [
+          "Reserves and Surplus",
+          "1816.09",
+          "1449.13",
+          "1417.80",
+          "1030.56"
+        ],
+        [
+          "Total Borrowing",
+          "993.98",
+          "707.52",
+          "638.92",
+          "436.06"
+        ]
+      ]
+    },
+    {
+      "heading": "Aluwind Architectural Limited Stock Quote & Charts",
+      "sanitizedHeading": "aluwind_architectural_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "19.77%"
+        ],
+        [
+          "ROCE",
+          "24.55%"
+        ],
+        [
+          "Debt/Equity",
+          "0.48"
+        ],
+        [
+          "RoNW",
+          "19.77%"
+        ],
+        [
+          "PAT Margin",
+          "9.01"
+        ],
+        [
+          "Price to Book Value",
+          "5.40"
+        ]
+      ]
+    },
+    {
+      "heading": "Aluwind Architectural Limited Stock Quote & Charts",
+      "sanitizedHeading": "aluwind_architectural_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "1.48",
+          "3.00"
+        ],
+        [
+          "P/E (x)",
+          "30.41",
+          "15"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 28, 2024 to April 4, 2024",
+    "ipoListingDate": "Tue, Apr 9, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹45.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "66,00,000 shares (aggregating up to ₹29.70 Cr)",
+    "freshIssue": "66,00,000 shares (aggregating up to ₹29.70 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,30,000 shares",
+      "maker_name": "Nnm Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/312/"
+    },
+    "ipoOpenDate": "Thu, Mar 28, 2024",
+    "ipoCloseDate": "Thu, Apr 4, 2024",
+    "initiationOfRefunds": "Mon, Apr 8, 2024",
+    "creditOfSharesToDemat": "Mon, Apr 8, 2024",
+    "shareHoldingPreIssue": "1,82,47,420 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,82,47,420 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "98.22%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,48,47,420 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,48,47,420 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.13%"
+      }
+    ]
+  },
+  "closing_date": "2024-04-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "022- 35135036",
+    "email": "compliance@aluwind.net",
+    "full_address": "Aluwind Architectural Limited, 604 Palm Spring Centre, Link Road Malad (West), Mumbai City Mumbai - 400064",
+    "website": "https://www.aluwind.net/"
+  },
+  "createdAt": "2025-04-18T12:47:54.000Z",
+  "faqs": [
+    {
+      "question": "What is the Aluwind Architectural IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aluwind Architectural IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6600000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->29.70<!-- --> Crores. The issue is priced at <span>₹45 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 28, 2024</b>, and <b>closes on <!-- -->April 4, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Aluwind Architectural IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Aluwind Architectural IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Aluwind Architectural IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Aluwind Architectural IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Aluwind Architectural IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Aluwind Architectural IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Aluwind Architectural IPO opens on March 28, 2024 and closes on April 4, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Aluwind Architectural IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aluwind Architectural IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,35,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Aluwind Architectural IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Aluwind Architectural IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Aluwind Architectural IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Aluwind Architectural IPO<!-- --> will be done on <!-- -->Friday, April 5, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, April 8, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/aluwind-architectural-ipo/1691/\" title=\"Aluwind Architectural IPO Allotment Status\">Aluwind Architectural IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Aluwind Architectural IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Aluwind Architectural IPO<!-- --> listing date is on <b>Tuesday, April 9, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Aluwind Architectural Limited",
+  "issue_price": "₹45.00",
+  "issue_price_numeric": 45,
+  "issue_size": "66,00,000 shares (aggregating up to ₹29.70 Cr)",
+  "issue_size_numeric": 66,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Corpwis Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/420/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/420/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "45.00"
+      },
+      "open": {
+        "nse_sme": "45.00"
+      },
+      "low": {
+        "nse_sme": "45.00"
+      },
+      "high": {
+        "nse_sme": "47.25"
+      },
+      "last_trade": {
+        "nse_sme": "47.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "April 9 2024",
+    "nse_symbol": "ALUWIND",
+    "isin": "INE0STM01017",
+    "final_issue_price": "45 per share"
+  },
+  "listing_date": "2024-04-08T18:30:00.000Z",
+  "listing_gains": "5.00%",
+  "listing_gains_numeric": 5,
+  "logo": "https://www.chittorgarh.net/images/ipo/aluwind-architecture-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/aluwind-architecture-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "270000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/aluwind-architectural-ipo/1691/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2024-03-27T18:30:00.000Z",
+  "pageHeading": "Aluwind Architectural Limited\t IPO (Aluwind Architectural IPO) Detail",
+  "pageTitle": "Aluwind Architectural IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Mr. Murli Manohar Ramshankar Kabra Mr. Rajesh Kabra Mr. Jagmohan Ramshankar Kabra and Jagmohan Kabra HUF",
+    "holdings": {
+      "share_holding_pre_issue": "98.22%",
+      "share_holding_post_issue": "72.13%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Aluwind Architectural IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AluwindArchitecturalLimited_DP.zip"
+    },
+    {
+      "text": "Aluwind Architectural IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AluwindArchitecturalLimited_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/aluwind-architectural-ipo/1691/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "grievances@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Aluwind Architectural IPO offers 6600000 shares. 3135000 (47.50%) to NII 3135000 (47.50%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "330000 (5.00%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "3135000 (47.50%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3135000 (47.50%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6600000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:54.000Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Aluwind Architectural IPO is subscribed 8.19 times on April 4 2024 6:22:03 PM (Day 5). The public issue subscribed 10.71 times in the retail category [.] times in the QIB category and 5.23 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "5.23",
+        "shares_offered": "3135000",
+        "shares_bid_for": "16395000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "10.71",
+        "shares_offered": "3135000",
+        "shares_bid_for": "33585000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "8.19",
+        "shares_offered": "6270000",
+        "shares_bid_for": "51342000"
+      }
+    },
+    "total_applications": "11195",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on April 4 2024",
+    "tentative_allotment": "Fri Apr 5 2024",
+    "initiation_of_refunds": "Mon Apr 8 2024",
+    "credit_of_shares_to_demat": "Mon Apr 8 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:37.386Z",
+  "updated_at": "2025-04-18T12:47:54.000Z",
+  "year": 2024,
+  "worst_listing_gains": "5.00%",
+  "worst_listing_gains_numeric": 5,
+  "last_performance_update": "2025-04-19T04:43:37.386Z"
+}

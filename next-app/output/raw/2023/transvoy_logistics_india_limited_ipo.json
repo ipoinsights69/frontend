@@ -1,0 +1,393 @@
+{
+  "_id": "68028e9f3ccffd1c7912c96a",
+  "ipo_id": "2023_transvoy_logistics_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:35:32.655Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/transvoy-logistics-india-ipo/1368/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2015, Transvoy Logistics India Limited is engaged in the business of integrated logistics solutions. The company offers services like NVOCC, Freight Forwarding, Custom Clearance, Transportation handling, and Advisory on MEIS License Trading.</p>\n<p>Transvoy Logistics India operates primarily in India along with expanding to different parts of the world including Sri Lanka, China, Malaysia, Middle East, and Singapore. They maintain highest quality in the service and strive at satisfying the requirements of the customers.</p>\n<p>The customers of the company are catered in the following horizons-</p>\n<ol>\n<li>Freight Forwarding</li>\n<li>Customs Clearance</li>\n<li>Allied Logistics and Transportation Services</li>\n</ol>\n<p>Transvoy also operates through its wholly-owned subsidiary Aashirvad Shipping &amp; Allied Private Limited (ASAPL) which offers custom clearing services. Recently, Transvoy Logistics India Limited formed another company in Singapore with the name Transvoy Logistics PTE. Ltd engaged in the non-vessel owning common carrier (NVOCC) services.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "11.48",
+          "42.9",
+          "1.33",
+          "0.06",
+          "-0.94",
+          "0"
+        ],
+        [
+          "31-Mar-21",
+          "12.47",
+          "62.21",
+          "1.18",
+          "1.25",
+          "0.25",
+          "0"
+        ],
+        [
+          "31-Mar-22",
+          "109.89",
+          "503.02",
+          "56.69",
+          "52.91",
+          "56.91",
+          "0.97"
+        ],
+        [
+          "25-Nov-22",
+          "748.23",
+          "1048",
+          "34.48",
+          "229.49",
+          "35.19",
+          "141.3"
+        ]
+      ]
+    },
+    {
+      "heading": "Transvoy Logistics India Ltd Stock Quote & Charts",
+      "sanitizedHeading": "transvoy_logistics_india_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "34.63",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "January 20, 2023 to January 24, 2023",
+    "ipoListingDate": "Thu, Feb 2, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹71.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "7,20,000 shares (aggregating up to ₹5.11 Cr)",
+    "freshIssue": "7,20,000 shares (aggregating up to ₹5.11 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "38,400 shares",
+      "maker_name": "Sunflower Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/357/"
+    },
+    "ipoOpenDate": "Fri, Jan 20, 2023",
+    "ipoCloseDate": "Tue, Jan 24, 2023",
+    "initiationOfRefunds": "Tue, Jan 31, 2023",
+    "creditOfSharesToDemat": "Wed, Feb 1, 2023",
+    "shareHoldingPreIssue": "19,43,040 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "19,43,040 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "97.94%"
+      }
+    ],
+    "shareHoldingPostIssue": "26,63,040 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "26,63,040 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "71.46%"
+      }
+    ]
+  },
+  "closing_date": "2023-01-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "079 – 29705456",
+    "email": "info@transvoy.com",
+    "full_address": "Transvoy Logistics India Limited, B-504 Mondeal Heights B/S Novotel Hotel, S.G. Highway, Ahmedabad -380015",
+    "website": "http://www.transvoy.com/"
+  },
+  "createdAt": "2025-04-18T17:40:47.037Z",
+  "faqs": [
+    {
+      "question": "What is the Transvoy Logistics India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Transvoy Logistics India IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->720000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->5.11<!-- --> Crores. The issue is priced at <span>₹71 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 20, 2023</b>, and <b>closes on <!-- -->January 24, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Transvoy Logistics India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Transvoy Logistics India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Transvoy Logistics India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Transvoy Logistics India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Transvoy Logistics India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Transvoy Logistics India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Transvoy Logistics India IPO opens on January 20, 2023 and closes on January 24, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Transvoy Logistics India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Transvoy Logistics India IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,13,600</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Transvoy Logistics India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Transvoy Logistics India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Transvoy Logistics India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Transvoy Logistics India IPO<!-- --> will be done on <!-- -->Monday, January 30, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, February 1, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/transvoy-logistics-india-ipo/1368/\" title=\"Transvoy Logistics India IPO Allotment Status\">Transvoy Logistics India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Transvoy Logistics India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Transvoy Logistics India IPO<!-- --> listing date is on <b>Thursday, February 2, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Transvoy Logistics India",
+  "issue_price": "₹71.00",
+  "issue_price_numeric": 71,
+  "issue_size": "7,20,000 shares (aggregating up to ₹5.11 Cr)",
+  "issue_size_numeric": 7,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "71.00"
+      },
+      "open": {
+        "bse_sme": "71.00"
+      },
+      "low": {
+        "bse_sme": "67.50"
+      },
+      "high": {
+        "bse_sme": "74.55"
+      },
+      "last_trade": {
+        "bse_sme": "74.55"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 2 2023",
+    "bse_script_code": "543754",
+    "isin": "INE0MPU01011",
+    "final_issue_price": "71 per share"
+  },
+  "listing_date": "2023-02-01T18:30:00.000Z",
+  "listing_gains": "5.00%",
+  "listing_gains_numeric": 5,
+  "logo": "https://www.chittorgarh.net/images/ipo/transvoy-logistics-india-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/transvoy-logistics-india-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "113600"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "113600"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "227200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/transvoy-logistics-india-ipo/1368/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-01-19T18:30:00.000Z",
+  "pageHeading": "Transvoy Logistics India Limited IPO (Transvoy Logistics India IPO) Detail",
+  "pageTitle": "Transvoy Logistics India IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Ravindrakumar Kumarchandra Joshi Mr. Naitik Ravindrakumar Joshi and Mrs. Dipti Ravindrabhai Joshi are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "97.94%",
+      "share_holding_post_issue": "71.46%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Transvoy Logistics India IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/370499/Draft%20Prospectus%20-%20Transvoy%20Logistics%20India%20Limited_20221004201615.pdf"
+    },
+    {
+      "text": "Transvoy Logistics India IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2023/transvoy-logistics-india-limited-sme-issue-prospectus_67735.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "4"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/transvoy-logistics-india-ipo/1368/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "translogic.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Transvoy Logistics India IPO offers 720000 shares. 340800 (47.33%) to NII 340800 (47.33%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "38400 (5.33%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "340800 (47.33%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "340800 (47.33%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "720000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.036Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Transvoy Logistics India IPO is subscribed 184.34 times on January 24 2023 6:57:00 PM (Day 3). The public issue subscribed 168.67 times in the retail category [.] times in the QIB category and 200 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "200",
+        "shares_offered": "340800",
+        "shares_bid_for": "68160000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "168.67",
+        "shares_offered": "340800",
+        "shares_bid_for": "57483209"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "184.34",
+        "shares_offered": "681600",
+        "shares_bid_for": "125643209"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 24 2023",
+    "tentative_allotment": "Mon Jan 30 2023",
+    "initiation_of_refunds": "Tue Jan 31 2023",
+    "credit_of_shares_to_demat": "Wed Feb 1 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:49.951Z",
+  "updated_at": "2025-04-18T17:40:47.036Z",
+  "year": 2023,
+  "worst_listing_gains": "5.00%",
+  "worst_listing_gains_numeric": 5
+}

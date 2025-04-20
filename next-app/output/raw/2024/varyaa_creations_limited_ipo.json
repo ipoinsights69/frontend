@@ -1,0 +1,434 @@
+{
+  "_id": "68024a033ccffd1c7912c833",
+  "ipo_id": "2024_varyaa_creations_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:32:56.397Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/varyaa-creations-ipo/1705/"
+  },
+  "about": {
+    "details": "<p>Incorporated in July 2005, Varyaa Creations Limited deals in wholesale trading of gold, silver, precious stones, and semi-precious stones.</p>\n<p>The product portfolio includes Necklaces, Earrings, Tops, Rings, Bracelets, Bangles, Gemstones, Diamonds, Lab-grown diamonds, and Pearls. The company also create custom-made jewellery based on customers' requirements.</p>\n<p>The portfolio offers customers various jewellery designs for all occasions and price points.</p>\n<p>As of 31st March 2024, the company employs 8 people in various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Varyaa Creations Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1049.17",
+          "2000.55",
+          "143.78",
+          "218.32"
+        ],
+        [
+          "Revenue",
+          "1762.49",
+          "538.03",
+          "253.13",
+          "12.05"
+        ],
+        [
+          "Profit After Tax",
+          "351.11",
+          "78.93",
+          "57.98",
+          "-13.06"
+        ],
+        [
+          "Net Worth",
+          "410.56",
+          "59.45",
+          "-19.47",
+          "-77.46"
+        ],
+        [
+          "Reserves and Surplus",
+          "65.56",
+          "44.45",
+          "-34.47",
+          "-92.46"
+        ],
+        [
+          "Total Borrowing",
+          null,
+          null,
+          "44.81",
+          "283.82"
+        ]
+      ]
+    },
+    {
+      "heading": "Varyaa Creations Ltd Stock Quote & Charts",
+      "sanitizedHeading": "varyaa_creations_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "85.52%"
+        ],
+        [
+          "ROCE",
+          "114.57%"
+        ],
+        [
+          "RoNW",
+          "85.52%"
+        ],
+        [
+          "PAT Margin",
+          "19.92"
+        ],
+        [
+          "Price to Book Value",
+          "12.61"
+        ]
+      ]
+    },
+    {
+      "heading": "Varyaa Creations Ltd Stock Quote & Charts",
+      "sanitizedHeading": "varyaa_creations_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.29",
+          "14.66"
+        ],
+        [
+          "P/E (x)",
+          "65.56",
+          "10.23"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "April 22, 2024 to April 25, 2024",
+    "ipoListingDate": "Tue, Apr 30, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹150.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "13,40,000 shares (aggregating up to ₹20.10 Cr)",
+    "freshIssue": "13,40,000 shares (aggregating up to ₹20.10 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "70,000 shares",
+      "maker_name": "Svcm Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/359/"
+    },
+    "ipoOpenDate": "Mon, Apr 22, 2024",
+    "ipoCloseDate": "Thu, Apr 25, 2024",
+    "initiationOfRefunds": "Mon, Apr 29, 2024",
+    "creditOfSharesToDemat": "Mon, Apr 29, 2024",
+    "shareHoldingPreIssue": "34,50,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "34,50,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "47,90,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "47,90,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.02%"
+      }
+    ]
+  },
+  "closing_date": "2024-04-24T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9920558483",
+    "email": "info@varyaacreations.com",
+    "full_address": "Varyaa Creations Limited, 11 Floor-3rd Plot 5/1721 Kailash Darshan, Jagannath Shankarseth Marg-Kennedy Bridge, Gamdevi Grant Road Mumbai-400007",
+    "website": "https://varyaacreations.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.677Z",
+  "faqs": [
+    {
+      "question": "What is the Varyaa Creations IPO?",
+      "answer": "<div itemprop=\"text\"><p>Varyaa Creations IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1340000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->20.10<!-- --> Crores. The issue is priced at <span>₹150 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->April 22, 2024</b>, and <b>closes on <!-- -->April 25, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Varyaa Creations IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Varyaa Creations IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Varyaa Creations IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Varyaa Creations IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Varyaa Creations IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Varyaa Creations IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Varyaa Creations IPO opens on April 22, 2024 and closes on April 25, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Varyaa Creations IPO?",
+      "answer": "<div itemprop=\"text\"><p>Varyaa Creations IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,50,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Varyaa Creations IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Varyaa Creations IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Varyaa Creations IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Varyaa Creations IPO<!-- --> will be done on <!-- -->Friday, April 26, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, April 29, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/varyaa-creations-ipo/1705/\" title=\"Varyaa Creations IPO Allotment Status\">Varyaa Creations IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Varyaa Creations IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Varyaa Creations IPO<!-- --> listing date is on <b>Tuesday, April 30, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Varyaa Creations",
+  "issue_price": "₹150.00",
+  "issue_price_numeric": 150,
+  "issue_size": "13,40,000 shares (aggregating up to ₹20.10 Cr)",
+  "issue_size_numeric": 13,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Inventure Merchant Banker Services Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/92/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/92/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "150.00"
+      },
+      "open": {
+        "bse_sme": "285.00"
+      },
+      "low": {
+        "bse_sme": "270.75"
+      },
+      "high": {
+        "bse_sme": "299.25"
+      },
+      "last_trade": {
+        "bse_sme": "270.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "April 30 2024",
+    "bse_script_code": "544168",
+    "isin": "INE0R6801013",
+    "final_issue_price": "150 per share"
+  },
+  "listing_date": "2024-04-29T18:30:00.000Z",
+  "listing_gains": "80.50%",
+  "listing_gains_numeric": 80.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/varyaa-creation-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/varyaa-creation-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "150000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "150000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "300000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/varyaa-creations-ipo/1705/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-04-21T18:30:00.000Z",
+  "pageHeading": "Varyaa Creations Limited IPO (Varyaa Creations IPO) Detail",
+  "pageTitle": "Varyaa Creations IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the Company are Mrs. Pooja Vineet Naheta and Mrs. Sarika Amit Naheta",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "72.02%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Varyaa Creations IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/345104/Draft%20Prospectus_Varyaa%20Creations%20Limited_20230926174707.pdf"
+    },
+    {
+      "text": "Varyaa Creations IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/345104/SME_IPO%20Open/Varyaa%20Creation%20Limited_20240417155644.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/varyaa-creations-ipo/1705/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Varyaa Creations IPO offers 1340000 shares. 635000 (47.39%) to NII 635000 (47.39%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "70000 (5.22%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "635000 (47.39%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "635000 (47.39%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1340000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.676Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Varyaa Creations IPO is subscribed 3.59 times on April 25 2024 7:02:06 PM (Day 4). The public issue subscribed 6.09 times in the retail category [.] times in the QIB category and 1.08 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.08",
+        "shares_offered": "635000",
+        "shares_bid_for": "688000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "6.09",
+        "shares_offered": "635000",
+        "shares_bid_for": "3864000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "3.59",
+        "shares_offered": "1270000",
+        "shares_bid_for": "4554000"
+      }
+    },
+    "total_applications": "4269",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on April 25 2024",
+    "tentative_allotment": "Fri Apr 26 2024",
+    "initiation_of_refunds": "Mon Apr 29 2024",
+    "credit_of_shares_to_demat": "Mon Apr 29 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:21.338Z",
+  "updated_at": "2025-04-18T12:48:03.676Z",
+  "year": 2024,
+  "worst_listing_gains": "80.50%",
+  "worst_listing_gains_numeric": 80.5
+}

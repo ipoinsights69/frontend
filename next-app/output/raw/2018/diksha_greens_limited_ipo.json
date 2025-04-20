@@ -1,0 +1,346 @@
+{
+  "_id": "680298583ccffd1c7912cbab",
+  "ipo_id": "2018_diksha_greens_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:11:40.292Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/diksha-greens-ipo/956/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2004, Kolkata based Diksha Greens Limited is a company engaged in the business of trading of timber, wooden logs, sawn timber and manufacturing of veneer sheets.</p><p>In 2006 the company obtained Importer-Exporter code (IEC) and started importing the wooden logs and timber. It imports logs and timbers from many countries including Malaysia, Vietnam, Burma, Nigeria, Ghana, Ivory Coast, Ecuador, Salvador, Costa Rica, Solomon Island, Papua and Guinea etc. </p><p>Diksha has a Factory located in Baidyabati, Hooghly, West Bengal. In this unit, the logs are sold in raw form as well as sawn timber. Here veneer sheets are also produced as per the customer requirements.</p><p>This year the company has decided to expand its business. It purchased a Multi-Commodity Cold Storage wherein storage facilities for fruits and vegetables are offered to traders/farmers.</p><p>The company plans to involve into trading of fruits, vegetables, Dry Fruits, Egg, Fish and Spices in future.</p><p>Diksha Green has 9 employees on its payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-18",
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "3095.12",
+          "2464.57",
+          "3230.98",
+          "1850.08",
+          "2057.95",
+          "2133.56"
+        ],
+        [
+          "Total Revenue",
+          "1256.07",
+          "4182.95",
+          "5446.68",
+          "5422.61",
+          "5424.85",
+          "5300.53"
+        ],
+        [
+          "Profit After Tax",
+          "41.45",
+          "55.05",
+          "63.78",
+          "45.99",
+          "40.33",
+          "38.59"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "November 26, 2018 to November 28, 2018",
+    "ipoListingDate": "December 5, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹30.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "44,40,000 shares (aggregating up to ₹13.32 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "2,24,000 shares",
+    "ipoOpenDate": "Mon, Nov 26, 2018",
+    "ipoCloseDate": "Wed, Nov 28, 2018",
+    "shareHoldingPreIssue": "54,27,290 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "54,27,290 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "98,67,290 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "98,67,290 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-11-27T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "03322198219",
+    "email": "cs@dikshagreens.co.in",
+    "full_address": "Diksha Greens Limited, 11 Sambhu Chaterjee Street, Jorasanko, Jorasanko Kolkata-700007",
+    "website": "http://www.dikshagreens.co.in/"
+  },
+  "createdAt": "2025-04-18T18:22:16.506Z",
+  "faqs": [
+    {
+      "question": "What is the Diksha Greens IPO?",
+      "answer": "<div itemprop=\"text\"><p>Diksha Greens IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4440000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->13.32<!-- --> Crores. The issue is priced at <span>₹30 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 26, 2018</b>, and <b>closes on <!-- -->November 28, 2018</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Diksha Greens IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Diksha Greens IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Diksha Greens IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Diksha Greens IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Diksha Greens IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Diksha Greens IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Diksha Greens IPO opens on November 26, 2018 and closes on November 28, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Diksha Greens IPO?",
+      "answer": "<div itemprop=\"text\"><p>Diksha Greens IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Diksha Greens IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Diksha Greens IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Diksha Greens IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Diksha Greens IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/diksha-greens-ipo/956/\" title=\"Diksha Greens IPO Allotment Status\">Diksha Greens IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Diksha Greens IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Diksha Greens IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Diksha Greens",
+  "issue_price": "₹30.00",
+  "issue_price_numeric": 30,
+  "issue_size": "44,40,000 shares (aggregating up to ₹13.32 Cr)",
+  "issue_size_numeric": 44,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Finshore Management Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/147/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/147/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "30.00"
+      },
+      "open": {
+        "bse_sme": "36.20"
+      },
+      "low": {
+        "bse_sme": "35.90"
+      },
+      "high": {
+        "bse_sme": "36.20"
+      },
+      "last_trade": {
+        "bse_sme": "35.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 5 2018",
+    "bse_script_code": "542155",
+    "isin": "INE01GR01018",
+    "final_issue_price": "30 per share"
+  },
+  "listing_date": "2018-12-04T18:30:00.000Z",
+  "listing_gains": "19.67%",
+  "listing_gains_numeric": 19.67,
+  "logo": "https://www.chittorgarh.net/images/ipo/diksha-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/diksha-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/diksha-greens-ipo/956/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2018-11-25T18:30:00.000Z",
+  "pageHeading": "Diksha Greens Limited IPO (Diksha Greens IPO) Detail",
+  "pageTitle": "Diksha Greens IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Diksha Greens IPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/20188239354DGL_DRHP.pdf"
+    },
+    {
+      "text": "Diksha Greens IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2018/diksha-greens-limited_41056.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/diksha-greens-ipo/956/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "investor@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "Diksha Greens IPO offers 4440000 shares. 2108000 (47.48%) to NII 2108000 (47.48%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "224000 (5.05%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2108000 (47.48%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2108000 (47.48%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4440000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:16.506Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Diksha Greens IPO is subscribed 1.07 times on November 28 2018 7:49:03 PM (Day 3). The public issue subscribed 0.07 times in the retail category [.] times in the QIB category and 1.99 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.99",
+        "shares_offered": "2108000",
+        "shares_bid_for": "4200000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.07",
+        "shares_offered": "2108000",
+        "shares_bid_for": "144000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.07",
+        "shares_offered": "4216000",
+        "shares_bid_for": "4504000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 28 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:10.818Z",
+  "updated_at": "2025-04-18T18:22:16.506Z",
+  "year": 2018,
+  "worst_listing_gains": "19.67%",
+  "worst_listing_gains_numeric": 19.67
+}

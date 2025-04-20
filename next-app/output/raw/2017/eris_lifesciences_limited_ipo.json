@@ -1,0 +1,399 @@
+{
+  "_id": "680298543ccffd1c7912caff",
+  "ipo_id": "2017_eris_lifesciences_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:09:07.044Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/eris-lifesciences-ipo/668/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2007, Eris Lifescience Ltd is Ahmedabad, Gujrat based pharmaceutical company engaged in research, development, manufacturing and selling of select therapeutic areas within the chronic and acute categories of the Indian Pharmaceutical Market.</p><p>Eris product portfolio is primarily focused on therapeutic areas which require the intervention of super specialist and specialist doctors such as Diabetologists, Endocrinologists Cardiologists, and Gastroenterologists.</p><p>Eris products in the chronic category cater primarily to the therapeutic areas including cardiovascular, anti-diabetics and neurology, chronic respiratory and chronic pain (analgesics).</p><p>In acute category, the product portfolio includes vitamins, gastroenterology, anti-infectives, gynaecology, cute respiratory, acute pain (analgesics), hepatoprotectives, hormones, hematology, dermatology, anti-obesity products and products for injury healing.</p><p>Eris Lifescience own and operate a manufacturing facility in Guwahati, Assam. They also outsource the manufacturing of certain of its products to 20 manufacturers. Eris strong sales team comprised of 1,310 marketing representatives.</p><p>Eris Lifescience Strengths:</p><p>• Focus on branded prescription based pharmaceutical products catering to lifestyle related disorders<br>• Portfolio of high volume and leading brands<br>• Focus on metro cities and class 1 towns in India which have higher incidence of lifestyle disorders and concentration of specialists and super specialists<br>• Multi-faceted product selection and engagement model leading to growth in prescription<br>• Strong sales, marketing and distribution capabilities</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13",
+          "31-Mar-12"
+        ],
+        [
+          "Total Assets",
+          "3973.59",
+          "3572.85",
+          "2705.99",
+          "1718.05",
+          "1019.67"
+        ],
+        [
+          "Total Revenue",
+          "5970.21",
+          "5455.58",
+          "5088.22",
+          "3930.64",
+          "2739.40"
+        ],
+        [
+          "Profit After Tax",
+          "1348.58",
+          "892.59",
+          "709.12",
+          "584.40",
+          "370.63"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 16, 2017 to June 20, 2017",
+    "ipoListingDate": "Thu, Jun 29, 2017",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹603.00",
+    "lotSize": "24 Shares",
+    "issueSize": "2,88,75,000 shares (aggregating up to ₹1,741.16 Cr)",
+    "offerForSale": "2,88,75,000 shares of ₹1 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Jun 16, 2017",
+    "ipoCloseDate": "Tue, Jun 20, 2017",
+    "initiationOfRefunds": "Tue, Jun 27, 2017",
+    "creditOfSharesToDemat": "Wed, Jun 28, 2017",
+    "shareHoldingPreIssue": "13,75,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "13,75,00,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "13,75,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "13,75,00,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-06-19T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 79 3045 1111",
+    "email": "complianceofficer@erislifesciences.com",
+    "full_address": "Eris Lifesciences Limited, 7th Floor Commerce House IV, Beside Shell Petrol Pump 100 Feet Road, Prahladnagar Ahmedabad 380 015",
+    "website": "http://eris.co.in/"
+  },
+  "createdAt": "2025-04-18T18:22:12.848Z",
+  "faqs": [
+    {
+      "question": "What is the Eris Lifesciences IPO?",
+      "answer": "<div itemprop=\"text\"><p>Eris Lifesciences IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->28875000<!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->1,741.16<!-- --> Crores. The issue is priced at <span>₹603 per share</span>. The minimum order quantity is <!-- -->24<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 16, 2017</b>, and <b>closes on <!-- -->June 20, 2017</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Eris Lifesciences IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Eris Lifesciences IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Eris Lifesciences IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Eris Lifesciences IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Eris Lifesciences IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Eris Lifesciences IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Eris Lifesciences IPO opens on June 16, 2017 and closes on June 20, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Eris Lifesciences IPO?",
+      "answer": "<div itemprop=\"text\"><p>Eris Lifesciences IPO<!-- --> <b>lot size is <!-- -->24</b>, and the <b>minimum amount required is <span>₹14,472</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Eris Lifesciences IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Eris Lifesciences IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Eris Lifesciences IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Eris Lifesciences IPO<!-- --> will be done on <!-- -->Friday, June 23, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, June 28, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/eris-lifesciences-ipo/668/\" title=\"Eris Lifesciences IPO Allotment Status\">Eris Lifesciences IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Eris Lifesciences IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Eris Lifesciences IPO<!-- --> listing date is on <b>Thursday, June 29, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Eris Lifesciences",
+  "issue_price": "₹603.00",
+  "issue_price_numeric": 603,
+  "issue_size": "2,88,75,000 shares (aggregating up to ₹1,741.16 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "Credit Suisse Securities",
+      "url": "/report/ipo-lead-manager-review/112/111/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/111/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "603.00",
+        "nse": "603.00"
+      },
+      "open": {
+        "bse": "612.00",
+        "nse": "611.00"
+      },
+      "low": {
+        "bse": "592.30",
+        "nse": "593.25"
+      },
+      "high": {
+        "bse": "627.70",
+        "nse": "628.00"
+      },
+      "last_trade": {
+        "bse": "601.05",
+        "nse": "601.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "June 29 2017",
+    "bse_script_code": "540596",
+    "nse_symbol": "ERIS",
+    "isin": "INE406M01024",
+    "final_issue_price": "603 per share"
+  },
+  "listing_date": "2017-06-28T18:30:00.000Z",
+  "listing_gains": "-0.32%",
+  "listing_gains_numeric": -0.32,
+  "logo": "https://www.chittorgarh.net/images/ipo/eris-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/eris-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 24 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "24",
+        "amount": "14472"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "312",
+        "amount": "188136"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "336",
+        "amount": "202608"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "1656",
+        "amount": "998568"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "1680",
+        "amount": "1013040"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/eris-lifesciences-ipo/668/"
+    }
+  },
+  "lot_size": 24,
+  "opening_date": "2017-06-15T18:30:00.000Z",
+  "pageHeading": "Eris Lifesciences Limited IPO (Eris Lifesciences IPO) Detail",
+  "pageTitle": "Eris Lifesciences IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Eris Lifesciences IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2017/eris-lifesciences-limited_34167.html"
+    },
+    {
+      "text": "Eris Lifesciences IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2017/eris-lifesciences-limited_35090.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "5",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/eris-lifesciences-ipo/668/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "eris.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Eris Lifesciences IPO offers 15948750 shares. 8617500 (54.03%) to QIB 4308750 (27.02%) to NII 2872500 (18.01%) to RII 150000 (0.94%) to employees. 119687 RIIs will receive minimum 24 shares and (sNII) and (bNII) will receive minimum 336 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "8617500 (54.03%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4308750 (27.02%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2872500 (18.01%)",
+        "maximum_allottees": "119687"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "150000 (0.94%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "15948750 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:12.848Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Eris Lifesciences IPO is subscribed 3.29 times on June 20 2017 5:00:00 PM (Day 3). The public issue subscribed 3.51 times in the retail category 4.68 times in the QIB category and 0.45 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "4.68",
+        "shares_offered": "8617500",
+        "shares_bid_for": "40367832"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.45",
+        "shares_offered": "4308750",
+        "shares_bid_for": "1937736"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.51",
+        "shares_offered": "2872500",
+        "shares_bid_for": "10095624"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "0.86",
+        "shares_offered": "150000",
+        "shares_bid_for": "129720"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "3.29",
+        "shares_offered": "15948750",
+        "shares_bid_for": "52530912"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 20 2017",
+    "tentative_allotment": "Fri Jun 23 2017",
+    "initiation_of_refunds": "Tue Jun 27 2017",
+    "credit_of_shares_to_demat": "Wed Jun 28 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:47.902Z",
+  "updated_at": "2025-04-18T18:22:12.848Z",
+  "year": 2017,
+  "worst_listing_gains": "-0.32%",
+  "worst_listing_gains_numeric": -0.32
+}

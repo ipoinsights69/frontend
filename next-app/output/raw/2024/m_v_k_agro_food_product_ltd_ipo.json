@@ -1,0 +1,438 @@
+{
+  "_id": "680249fe3ccffd1c7912c79b",
+  "ipo_id": "2024_m_v_k_agro_food_product_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:39:22.845Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/m-v-k-agro-food-ipo/1661/"
+  },
+  "about": {
+    "details": "<p>Incorporated in February 2018, MVK Agro Food Product Limited is a manufacturer of integrated sugar and other related products. The company has a licensed crushing capacity of 2,500 TCD and sells its by-products, Molasses, Bagasse, and Pressmud.&nbsp;</p>\n<p>The company sells its products through brokers who, in turn, sell to export houses such as PepsiCo Holdings India Private Limited, Parle Biscuits Private Limited and Britannia Industries Limited. In addition to selling its products to brokers, the company also supplies commodities to export-oriented traders like Sakuma Exports Limited, Indian Sugar Exim Corporation, Garden Court, and HRMM Agro Overseas Private Limited.</p>\n<p>The company operates a zero-waste manufacturing facility. Waste generated is either sold or used to generate power.</p>\n<p>The revenues from operations for the six months ended September 30, 2023, and the fiscal years 2023, 2022, and 2021 were ₹6,012.52 lakhs, ₹9,327.65 lakhs, ₹13,067.11 lakhs, and ₹2,283.40 lakhs, respectively.</p>\n<p>The company's manufacturing facility is located in Nanded District, Maharashtra.</p>\n<p>As of September 2023, the company has 160 employees across various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "M.V.K. Agro Food Product Ltd Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "14804.05",
+          "15471.93",
+          "11602.06",
+          "11445.70"
+        ],
+        [
+          "Revenue",
+          "6044.36",
+          "9393.63",
+          "13263.56",
+          "2583.10"
+        ],
+        [
+          "Profit After Tax",
+          "430.07",
+          "377.45",
+          "319.81",
+          "140.41"
+        ],
+        [
+          "Net Worth",
+          "1767.74",
+          "1337.67",
+          "960.22",
+          "640.41"
+        ],
+        [
+          "Reserves and Surplus",
+          "1267.74",
+          "837.67",
+          "460.22",
+          "140.41"
+        ],
+        [
+          "Total Borrowing",
+          "6281.23",
+          "9156.10",
+          "6001.32",
+          "7496.33"
+        ]
+      ]
+    },
+    {
+      "heading": "M.v.k. Agro Food Product Limited Stock Quote & Charts",
+      "sanitizedHeading": "mvk_agro_food_product_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "32.85%"
+        ],
+        [
+          "ROCE",
+          "13.44%"
+        ],
+        [
+          "Debt/Equity",
+          "6.84"
+        ],
+        [
+          "RoNW",
+          "32.85%"
+        ],
+        [
+          "PAT Margin",
+          "4.02"
+        ],
+        [
+          "Price to Book Value",
+          "4.49"
+        ]
+      ]
+    },
+    {
+      "heading": "M.v.k. Agro Food Product Limited Stock Quote & Charts",
+      "sanitizedHeading": "mvk_agro_food_product_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.77",
+          "5.55"
+        ],
+        [
+          "P/E (x)",
+          "31.79",
+          "21.61"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 29, 2024 to March 4, 2024",
+    "ipoListingDate": "Thu, Mar 7, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹120.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "54,90,000 shares (aggregating up to ₹65.88 Cr)",
+    "freshIssue": "54,90,000 shares (aggregating up to ₹65.88 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,74,800 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Thu, Feb 29, 2024",
+    "ipoCloseDate": "Mon, Mar 4, 2024",
+    "initiationOfRefunds": "Wed, Mar 6, 2024",
+    "creditOfSharesToDemat": "Wed, Mar 6, 2024",
+    "shareHoldingPreIssue": "1,00,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,00,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,54,90,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,54,90,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "64.56%"
+      }
+    ]
+  },
+  "closing_date": "2024-03-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 862 309 4480",
+    "email": "info@mvkagrofood.com",
+    "full_address": "M.V.K. Agro Food Product Ltd, GUT No. 44 and 46, Kusumnagar At Post, Waghalwada Umari Nanded – 431 807",
+    "website": "https://mvkagrofood.com/"
+  },
+  "createdAt": "2025-04-18T12:47:58.896Z",
+  "faqs": [
+    {
+      "question": "What is the M.V.K. Agro Food IPO?",
+      "answer": "<div itemprop=\"text\"><p>M.V.K. Agro Food IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5490000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->65.88<!-- --> Crores. The issue is priced at <span>₹120 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 29, 2024</b>, and <b>closes on <!-- -->March 4, 2024</b>.</p><p>Mas Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in M.V.K. Agro Food IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->M.V.K. Agro Food IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->M.V.K. Agro Food IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->M.V.K. Agro Food IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->M.V.K. Agro Food IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When M.V.K. Agro Food IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The M.V.K. Agro Food IPO opens on February 29, 2024 and closes on March 4, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of M.V.K. Agro Food IPO?",
+      "answer": "<div itemprop=\"text\"><p>M.V.K. Agro Food IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,44,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for M.V.K. Agro Food IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->M.V.K. Agro Food IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is M.V.K. Agro Food IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->M.V.K. Agro Food IPO<!-- --> will be done on <!-- -->Tuesday, March 5, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, March 6, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/m-v-k-agro-food-ipo/1661/\" title=\"M.V.K. Agro Food IPO Allotment Status\">M.V.K. Agro Food IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is M.V.K. Agro Food IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->M.V.K. Agro Food IPO<!-- --> listing date is on <b>Thursday, March 7, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "M.V.K. Agro Food Product",
+  "issue_price": "₹120.00",
+  "issue_price_numeric": 120,
+  "issue_size": "54,90,000 shares (aggregating up to ₹65.88 Cr)",
+  "issue_size_numeric": 54,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Horizon Management Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/406/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/406/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "120.00"
+      },
+      "open": {
+        "nse_sme": "79.00"
+      },
+      "low": {
+        "nse_sme": "75.05"
+      },
+      "high": {
+        "nse_sme": "82.95"
+      },
+      "last_trade": {
+        "nse_sme": "82.95"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 7 2024",
+    "nse_symbol": "MVKAGRO",
+    "isin": "INE0SGC01015",
+    "final_issue_price": "120 per share"
+  },
+  "listing_date": "2024-03-06T18:30:00.000Z",
+  "listing_gains": "-30.87%",
+  "listing_gains_numeric": -30.87,
+  "logo": "https://www.chittorgarh.net/images/ipo/mvk-agro-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/mvk-agro-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "144000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "144000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "288000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/m-v-k-agro-food-ipo/1661/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-02-28T18:30:00.000Z",
+  "pageHeading": "M.V.K. Agro Food Product Ltd IPO (M.V.K. Agro Food IPO) Detail",
+  "pageTitle": "M.V.K. Agro Food IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Marotrao Vyankatrao Kawale Sagarbai Marotrao Kawale Ganeshrao Vyankatrao Kawale Kishanrao Vyankatarao Kawale and Sandip Marotrao Kawale",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "64.56%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "M.V.K. Agro Food IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/MVKAgroFood_DP.pdf"
+    },
+    {
+      "text": "M.V.K. Agro Food IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_MVKAGRO.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/m-v-k-agro-food-ipo/1661/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Mas Services Limited",
+    "phone": "(011) 2610 4142",
+    "email": "ipo@masserv.com",
+    "website": "https://www.masserv.com/opt.asp"
+  },
+  "reservation": {
+    "summary": "M.V.K. Agro Food IPO offers 5490000 shares. 2607600 (47.50%) to NII 2607600 (47.50%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "274800 (5.01%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2607600 (47.50%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2607600 (47.50%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5490000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.896Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The M.V.K. Agro Food IPO is subscribed 8.46 times on March 4 2024 6:21:00 PM (Day 3). The public issue subscribed 13.01 times in the retail category [.] times in the QIB category and 3.9 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "3.9",
+        "shares_offered": "2607600",
+        "shares_bid_for": "10174800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "13.01",
+        "shares_offered": "2607600",
+        "shares_bid_for": "33921600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "8.46",
+        "shares_offered": "5215200",
+        "shares_bid_for": "44136000"
+      }
+    },
+    "total_applications": "28268",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 4 2024",
+    "tentative_allotment": "Tue Mar 5 2024",
+    "initiation_of_refunds": "Wed Mar 6 2024",
+    "credit_of_shares_to_demat": "Wed Mar 6 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:01.537Z",
+  "updated_at": "2025-04-18T12:47:58.896Z",
+  "year": 2024,
+  "worst_listing_gains": "-30.87%",
+  "worst_listing_gains_numeric": -30.87
+}

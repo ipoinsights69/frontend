@@ -1,0 +1,435 @@
+{
+  "_id": "68028e9c3ccffd1c7912c8f7",
+  "ipo_id": "2023_indifra_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": true,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:26:17.098Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/indifra-ipo/1602/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2009, Indifra Limited provides infrastructure management contracting, gas pipeline laying and electrical equipment distribution services. The company was previously known as Starleads Consultants Private Limited.</p>\n<p>The company has two business verticals:</p>\n<ol>\n<li>Pipeline and Infrastructure Management Contracting Services.</li>\n<li>Distribution of electrical appliances.</li>\n</ol>\n<p>The company provides gas supply companies with the management of their gas supply pipelines. As of December 2023, the company is providing gas pipeline management services to Charotar Gas Sahakari Mandali Limited (CGSML). The company has also worked for Adani Gas Limited.</p>\n<p>The company also provides voltage stabilizers, induction cooktops, inverters, batteries, ceiling fans, domestic switch gears and DBs, air coolers, water heaters, modular switches, solar water heaters, air source heat pump water heaters, energy-saving fans and space heaters.</p>\n<p>As of June 30, 2023, Indifra Limited have a total of 11 Employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Indifra Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "630.24",
+          "312.46",
+          "420.10",
+          "229.63"
+        ],
+        [
+          "Revenue",
+          "64.28",
+          "1001.69",
+          "1092.41",
+          "306.54"
+        ],
+        [
+          "Profit After Tax",
+          "3.54",
+          "99.08",
+          "39.94",
+          "10.51"
+        ],
+        [
+          "Net Worth",
+          "533.25",
+          "169.70",
+          "70.62",
+          "30.68"
+        ],
+        [
+          "Reserves and Surplus",
+          "20.25",
+          "168.70",
+          "69.62",
+          "29.68"
+        ],
+        [
+          "Total Borrowing",
+          null,
+          "38.26",
+          "50.61",
+          "45.05"
+        ]
+      ]
+    },
+    {
+      "heading": "Indifra Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "82.45%"
+        ],
+        [
+          "ROCE",
+          "86.21%"
+        ],
+        [
+          "RoNW",
+          "82.45%"
+        ]
+      ]
+    },
+    {
+      "heading": "Indifra Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "5.79",
+          null
+        ],
+        [
+          "P/E (x)",
+          "11.23",
+          "342"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 21, 2023 to December 26, 2023",
+    "ipoListingDate": "Fri, Dec 29, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹65.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "21,60,000 shares (aggregating up to ₹14.04 Cr)",
+    "freshIssue": "21,60,000 shares (aggregating up to ₹14.04 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,08,000 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Thu, Dec 21, 2023",
+    "ipoCloseDate": "Tue, Dec 26, 2023",
+    "initiationOfRefunds": "Thu, Dec 28, 2023",
+    "creditOfSharesToDemat": "Thu, Dec 28, 2023",
+    "shareHoldingPreIssue": "51,30,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "51,30,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "96%"
+      }
+    ],
+    "shareHoldingPostIssue": "72,90,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72,90,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "67.55%"
+      }
+    ]
+  },
+  "closing_date": "2023-12-25T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "02692-360191",
+    "email": "shares@indifra.in",
+    "full_address": "Indifra Limited, 9 Krishna Villa, Nr. Aamrakunj Society Karamsad V.V. Nagar Road, Karamsad",
+    "website": "https://www.indifra.com/#"
+  },
+  "createdAt": "2025-04-18T17:40:44.472Z",
+  "faqs": [
+    {
+      "question": "What is the Indifra IPO?",
+      "answer": "<div itemprop=\"text\"><p>Indifra IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2160000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->14.04<!-- --> Crores. The issue is priced at <span>₹65 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 21, 2023</b>, and <b>closes on <!-- -->December 26, 2023</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Indifra IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Indifra IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Indifra IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Indifra IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Indifra IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Indifra IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Indifra IPO opens on December 21, 2023 and closes on December 26, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Indifra IPO?",
+      "answer": "<div itemprop=\"text\"><p>Indifra IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,30,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Indifra IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Indifra IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Indifra IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Indifra IPO<!-- --> will be done on <!-- -->Wednesday, December 27, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, December 28, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/indifra-ipo/1602/\" title=\"Indifra IPO Allotment Status\">Indifra IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Indifra IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Indifra IPO<!-- --> listing date is on <b>Friday, December 29, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Indifra",
+  "issue_price": "₹65.00",
+  "issue_price_numeric": 65,
+  "issue_size": "21,60,000 shares (aggregating up to ₹14.04 Cr)",
+  "issue_size_numeric": 21,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "65.00"
+      },
+      "open": {
+        "nse_sme": "72.00"
+      },
+      "low": {
+        "nse_sme": "68.40"
+      },
+      "high": {
+        "nse_sme": "73.00"
+      },
+      "last_trade": {
+        "nse_sme": "68.40"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "December 29 2023",
+    "nse_symbol": "INDIFRA",
+    "isin": "INE0PS301014",
+    "final_issue_price": "65 per share"
+  },
+  "listing_date": "2023-12-28T18:30:00.000Z",
+  "listing_gains": "5.23%",
+  "listing_gains_numeric": 5.23,
+  "logo": "https://www.chittorgarh.net/images/ipo/indifra-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/indifra-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "130000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "130000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "260000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/indifra-ipo/1602/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-12-20T18:30:00.000Z",
+  "pageHeading": "Indifra Limited IPO (Indifra IPO) Detail",
+  "pageTitle": "Indifra IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Mr. Abhishek Sandeepkumar Agrawal and Sandeepkumar Vishwanath Agrawal HUF are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "96%",
+      "share_holding_post_issue": "67.55%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Indifra IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Indifra_DP.zip"
+    },
+    {
+      "text": "Indifra IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Indifra_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/indifra-ipo/1602/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "indifra.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Indifra IPO offers 2160000 shares. 1026000 (47.50%) to NII 1026000 (47.50%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "108000 (5.00%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1026000 (47.50%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1026000 (47.50%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2160000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.472Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Indifra IPO is subscribed 7.21 times on December 26 2023 6:48:00 PM (Day 3). The public issue subscribed 12.07 times in the retail category [.] times in the QIB category and 2.34 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.34",
+        "shares_offered": "1026000",
+        "shares_bid_for": "2400000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "12.07",
+        "shares_offered": "1026000",
+        "shares_bid_for": "12382000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "7.21",
+        "shares_offered": "2052000",
+        "shares_bid_for": "14786000"
+      }
+    },
+    "total_applications": "6191",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 26 2023",
+    "tentative_allotment": "Wed Dec 27 2023",
+    "initiation_of_refunds": "Thu Dec 28 2023",
+    "credit_of_shares_to_demat": "Thu Dec 28 2023"
+  },
+  "timeline": {
+    "summary": "Indifra IPO opens on December 21 2023 and closes on December 26 2023.",
+    "schedule": {
+      "ipo_date": "5 PM on December 26 2023",
+      "tentative_allotment": "Wed Dec 27 2023",
+      "initiation_of_refunds": "Thu Dec 28 2023",
+      "credit_of_shares_to_demat": "Thu Dec 28 2023"
+    }
+  },
+  "updatedAt": "2025-04-19T04:37:33.894Z",
+  "updated_at": "2025-04-18T17:40:44.472Z",
+  "year": 2023,
+  "worst_listing_gains": "5.23%",
+  "worst_listing_gains_numeric": 5.23
+}

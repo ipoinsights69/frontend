@@ -1,0 +1,522 @@
+{
+  "_id": "68024a013ccffd1c7912c7da",
+  "ipo_id": "2024_r_k_swamy_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:38:56.236Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/r-k-swamy-ipo/1620/"
+  },
+  "about": {
+    "details": "<p>Founded in 1973, R K Swamy Limited is engaged in the business of integrated marketing communications, customer data analysis, full-service market research and syndicated studies.</p>\n<p>R K Swamy is a data-driven, integrated marketing services provider that leverages digital initiatives extensively across all areas of its business.</p>\n<p>In FY2023, the company published more than 818 creative campaigns on behalf of its clients across various media. It also processed more than 97.69 terabytes of data and conducted over 2.37 million consumer interviews in the form of quantitative, qualitative and telephone surveys.</p>\n<p>The company's numerous clients include Aditya Birla Sun Life AMC Limited, Cera Sanitaryware Limited, Dr. Reddy's Laboratories Limited, E.I.D. - Parry (India) Limited, Fujitsu General (India) Private Limited, Gemini Edibles and Fats India Limited, Havells India Limited, Hawkins Cookers Limited, Himalaya Wellness Company, Hindustan Petroleum Corporation Limited, ICICI Prudential Life Insurance Company Limited, IFB Industries Limited, Mahindra and Mahindra Limited, Oil and Natural Gas Corporation Limited, Royal Enfield (a unit of Eicher Motors), Shriram Finance Limited, Tata Play Limited, Ultratech Cement Limited, and Union Bank of India.</p>\n<p>The company employs 2,391 people across 12 offices and 12 field offices in 12 cities in three business segments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "R K SWAMY Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "252.23",
+          "313.65",
+          "406.44",
+          "390.06"
+        ],
+        [
+          "Revenue",
+          "142.55",
+          "299.91",
+          "244.97",
+          "183.22"
+        ],
+        [
+          "Profit After Tax",
+          "7.93",
+          "31.26",
+          "19.26",
+          "3.08"
+        ],
+        [
+          "Net Worth",
+          "146.66",
+          "140.81",
+          "111.93",
+          "98.22"
+        ],
+        [
+          "Reserves and Surplus",
+          "28.85",
+          "40.79",
+          "12.27",
+          "-0.43"
+        ],
+        [
+          "Total Borrowing",
+          "51.05",
+          "4.51",
+          "28.73",
+          "45.68"
+        ]
+      ]
+    },
+    {
+      "heading": "R K Swamy Limited Stock Quote & Charts",
+      "sanitizedHeading": "r_k_swamy_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "16.47%"
+        ],
+        [
+          "ROCE",
+          "6.29%"
+        ],
+        [
+          "Debt/Equity",
+          "1.50"
+        ],
+        [
+          "RoNW",
+          "5.41%"
+        ],
+        [
+          "PAT Margin",
+          "5.56"
+        ],
+        [
+          "Price to Book Value",
+          "8.73"
+        ]
+      ]
+    },
+    {
+      "heading": "R K Swamy Limited Stock Quote & Charts",
+      "sanitizedHeading": "r_k_swamy_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.03",
+          "3.14"
+        ],
+        [
+          "P/E (x)",
+          "40.96",
+          "91.63"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "R K SWAMY IPO raises Rs 187.23 crore from anchor investors. R K SWAMY IPO Anchor bid date is March 1 2024. R K SWAMY IPO Anchor Investors list",
+    "list_link": {
+      "text": "R K SWAMY IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rks_anchor_intimation.pdf"
+    },
+    "details": {
+      "ipo_date": "June 5 2024",
+      "shares_offered": "6500937",
+      "anchor_portion_size": "187.23"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "March 4, 2024 to March 6, 2024",
+    "ipoListingDate": "Tue, Mar 12, 2024",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹288.00",
+    "lotSize": "50 Shares",
+    "issueSize": "1,47,06,944 shares (aggregating up to ₹423.56 Cr)",
+    "freshIssue": "60,06,944 shares (aggregating up to ₹173.00 Cr)",
+    "offerForSale": "87,00,000 shares of ₹5 (aggregating up to ₹250.56 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Mar 4, 2024",
+    "ipoCloseDate": "Wed, Mar 6, 2024",
+    "initiationOfRefunds": "Mon, Mar 11, 2024",
+    "creditOfSharesToDemat": "Mon, Mar 11, 2024",
+    "shareHoldingPreIssue": "4,44,57,140 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "4,44,57,140 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "83.03%"
+      }
+    ],
+    "shareHoldingPostIssue": "5,04,64,084 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "5,04,64,084 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-03-05T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 4057 6499",
+    "email": "secretarial@rkswamy.com",
+    "full_address": "R K SWAMY Limited, No. 19 Wheatcrofts Road, Nungambakkam, Chennai-600 034",
+    "website": "https://www.rkswamy.com/"
+  },
+  "createdAt": "2025-04-18T12:48:00.837Z",
+  "faqs": [
+    {
+      "question": "What is the R K SWAMY IPO?",
+      "answer": "<div itemprop=\"text\"><p>R K SWAMY IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->14706944<!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->423.56<!-- --> Crores. The issue is priced at <span>₹288 per share</span>. The minimum order quantity is <!-- -->50<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 4, 2024</b>, and <b>closes on <!-- -->March 6, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in R K SWAMY IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->R K SWAMY IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->R K SWAMY IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->R K SWAMY IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->R K SWAMY IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When R K SWAMY IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The R K SWAMY IPO opens on March 4, 2024 and closes on March 6, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of R K SWAMY IPO?",
+      "answer": "<div itemprop=\"text\"><p>R K SWAMY IPO<!-- --> <b>lot size is <!-- -->50</b>, and the <b>minimum amount required is <span>₹14,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for R K SWAMY IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->R K SWAMY IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is R K SWAMY IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->R K SWAMY IPO<!-- --> will be done on <!-- -->Thursday, March 7, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, March 11, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/r-k-swamy-ipo/1620/\" title=\"R K SWAMY IPO Allotment Status\">R K SWAMY IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is R K SWAMY IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->R K SWAMY IPO<!-- --> listing date is on <b>Tuesday, March 12, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "R K SWAMY",
+  "issue_price": "₹288.00",
+  "issue_price_numeric": 288,
+  "issue_size": "1,47,06,944 shares (aggregating up to ₹423.56 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "288.00",
+        "nse": "288.00"
+      },
+      "open": {
+        "bse": "252.00",
+        "nse": "250.00"
+      },
+      "low": {
+        "bse": "248.00",
+        "nse": "243.00"
+      },
+      "high": {
+        "bse": "284.50",
+        "nse": "284.90"
+      },
+      "last_trade": {
+        "bse": "263.25",
+        "nse": "262.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 12 2024",
+    "bse_script_code": "544136",
+    "nse_symbol": "RKSWAMY",
+    "isin": "INE0NQ801033",
+    "final_issue_price": "288 per share"
+  },
+  "listing_date": "2024-03-11T18:30:00.000Z",
+  "listing_gains": "-8.59%",
+  "listing_gains_numeric": -8.59,
+  "logo": "https://www.chittorgarh.net/images/ipo/rk_swamy_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/rk_swamy_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 50 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "50",
+        "amount": "14400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "650",
+        "amount": "187200"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "700",
+        "amount": "201600"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "3450",
+        "amount": "993600"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "3500",
+        "amount": "1008000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/r-k-swamy-ipo/1620/"
+    }
+  },
+  "lot_size": 50,
+  "opening_date": "2024-03-03T18:30:00.000Z",
+  "pageHeading": "R K SWAMY Limited IPO (R K SWAMY IPO) Detail",
+  "pageTitle": "R K SWAMY IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Srinivasan K Swamy (Sundar Swamy) and Narasimhan Krishnaswamy (Shekar Swamy).",
+    "holdings": {
+      "share_holding_pre_issue": "83.03%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "R K SWAMY IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2023/r-k-swamy-limited-drhp_75323.html"
+    },
+    {
+      "text": "R K SWAMY IPO Addendum DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2023/rk-swamy-limited-addendum-to-drhp_79086.html"
+    },
+    {
+      "text": "R K SWAMY IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/r-k-swamy-limited-red-herring-prospectus_81766.html"
+    },
+    {
+      "text": "Anchor Investors in R K SWAMY IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rks_anchor_intimation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "7",
+        "neutral": "2",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/r-k-swamy-ipo/1620/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "rkswamy.ipo@motilaloswal.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "R K SWAMY IPO offers 14733883 shares. 4333959 (29.41%) to QIB 2166979 (14.71%) to NII 1444652 (9.80%) to RII 287356 (1.95%) to employees and 6500937 (44.12%) to Anchor investors. 28893 RIIs will receive minimum 50 shares and 1031 (sNII) and 2063 (bNII) will receive minimum 700 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "6500937 (44.12%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4333959 (29.41%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2166979 (14.71%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1444652 (9.80%)",
+        "maximum_allottees": "2063"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "722327 (4.90%)",
+        "maximum_allottees": "1031"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1444652 (9.80%)",
+        "maximum_allottees": "28893"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "287356 (1.95%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "14733883 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:00.837Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The R K SWAMY IPO is subscribed 25.78 times on March 6 2024 6:21:00 PM (Day 3). The public issue subscribed 33.31 times in the retail category 20.58 times in the QIB category and 34.24 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "20.58",
+        "shares_offered": "4333959",
+        "shares_bid_for": "89203500"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "34.24",
+        "shares_offered": "2166979",
+        "shares_bid_for": "74204950"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "35.73",
+        "shares_offered": "1444652",
+        "shares_bid_for": "51616050"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "31.27",
+        "shares_offered": "722327",
+        "shares_bid_for": "22588900"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "33.31",
+        "shares_offered": "1444652",
+        "shares_bid_for": "48121350"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "2.46",
+        "shares_offered": "287356",
+        "shares_bid_for": "707950"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "25.78",
+        "shares_offered": "8232946",
+        "shares_bid_for": "212237750"
+      }
+    },
+    "total_applications": "874166"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 6 2024",
+    "tentative_allotment": "Thu Mar 7 2024",
+    "initiation_of_refunds": "Mon Mar 11 2024",
+    "credit_of_shares_to_demat": "Mon Mar 11 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:09.972Z",
+  "updated_at": "2025-04-18T12:48:00.837Z",
+  "year": 2024,
+  "worst_listing_gains": "-8.59%",
+  "worst_listing_gains_numeric": -8.59
+}

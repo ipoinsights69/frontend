@@ -1,0 +1,374 @@
+{
+  "_id": "6802917a3ccffd1c7912c9a0",
+  "ipo_id": "2020_hindprakash_industries_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:44:02.046Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/hindprakash-ipo/1031/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2008, Ahmedabad based Hindprakash Industries Limited manufactures Disperse Dyes, Reactive Dyes, Textile auxiliaries, Intermediates and Chemicals. Along with production, the company is also engaged in the trading of its products to various industries. Some of the industries are Speciality Chemicals, Construction Chemicals, Dye intermediates, Textiles and Dyestuff. </p><p>The company is located at Vatva (Gujarat) which is known for blending, formulation, and manufacturing of auxiliaries, dyes and intermediaries. Hindprakash has a manufacturing unit and a separate laboratory for operational efficiency. For business operations, the company has all the related types of machinery. </p><p>All the process starting from raw material procurement to inspection to synthesizing to drying to blending to packaging to delivery are carried out in-house by the company. HindPrakash Industries Ltd has two warehouses to store the raw material and finished goods. HindPrakash uses a 3rd party transportation facility. </p><p><b>Key Strengths of the Company are:</b></p><p>1. Quality products at reasonable prices<br>2. Prime location advantage<br>3. Long-term clients<br></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Lakh)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sept-19",
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Mar-17"
+        ],
+        [
+          "Total Assets",
+          "4793.36",
+          "4813.53",
+          "3116.38",
+          "3467.16"
+        ],
+        [
+          "Total Revenue",
+          "5063.80",
+          "9799.48",
+          "8747.58",
+          "8611.78"
+        ],
+        [
+          "Profit After Tax",
+          "177.81",
+          "283.42",
+          "231.91",
+          "214.26"
+        ]
+      ]
+    },
+    {
+      "heading": "Hindprakash Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "hindprakash_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "11.7",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "January 15, 2020 to January 17, 2020",
+    "ipoListingDate": "Mon, Jan 27, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹40.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "28,80,000 shares (aggregating up to ₹11.52 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "1,50,000 shares",
+    "ipoOpenDate": "Wed, Jan 15, 2020",
+    "ipoCloseDate": "Fri, Jan 17, 2020",
+    "initiationOfRefunds": "Thu, Jan 23, 2020",
+    "creditOfSharesToDemat": "Fri, Jan 24, 2020",
+    "shareHoldingPreIssue": "75,44,110 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "75,44,110 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,04,24,110 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,04,24,110 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.37%"
+      }
+    ]
+  },
+  "closing_date": "2020-01-16T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-79-6812 7000-10",
+    "email": "info@hindprakash.com",
+    "full_address": "HindPrakash Industries Ltd, 301 Hindprakash House Plot No.10/6, GIDC Vatva, Ahmedabad- 382445 India",
+    "website": "http://www.hindprakash.in/"
+  },
+  "createdAt": "2025-04-18T17:52:57.899Z",
+  "faqs": [
+    {
+      "question": "What is the HindPrakash IPO?",
+      "answer": "<div itemprop=\"text\"><p>HindPrakash IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2880000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->11.52<!-- --> Crores. The issue is priced at <span>₹40 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 15, 2020</b>, and <b>closes on <!-- -->January 17, 2020</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in HindPrakash IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->HindPrakash IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->HindPrakash IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->HindPrakash IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->HindPrakash IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When HindPrakash IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The HindPrakash IPO opens on January 15, 2020 and closes on January 17, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of HindPrakash IPO?",
+      "answer": "<div itemprop=\"text\"><p>HindPrakash IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for HindPrakash IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->HindPrakash IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is HindPrakash IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->HindPrakash IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, January 24, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/hindprakash-ipo/1031/\" title=\"HindPrakash IPO Allotment Status\">HindPrakash IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is HindPrakash IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->HindPrakash IPO<!-- --> listing date is on <b>Monday, January 27, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "HindPrakash Industries",
+  "issue_price": "₹40.00",
+  "issue_price_numeric": 40,
+  "issue_size": "28,80,000 shares (aggregating up to ₹11.52 Cr)",
+  "issue_size_numeric": 28,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "40.00"
+      },
+      "open": {
+        "nse_sme": "40.70"
+      },
+      "low": {
+        "nse_sme": "40.70"
+      },
+      "high": {
+        "nse_sme": "42.70"
+      },
+      "last_trade": {
+        "nse_sme": "41.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "January 27 2020",
+    "nse_symbol": "HPIL",
+    "isin": "INE05X901010",
+    "final_issue_price": "40 per share"
+  },
+  "listing_date": "2020-01-26T18:30:00.000Z",
+  "listing_gains": "3.25%",
+  "listing_gains_numeric": 3.25,
+  "logo": "https://www.chittorgarh.net/images/ipo/hindprakash_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/hindprakash_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/hindprakash-ipo/1031/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2020-01-14T18:30:00.000Z",
+  "pageHeading": "HindPrakash Industries Ltd IPO (HindPrakash IPO) Detail",
+  "pageTitle": "HindPrakash IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Sanjay Prakash Mangal Mr. Om Prakash Mangal and Mr. Santosh Narayan Nambiar are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "72.37%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "HindPrakash IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/HindprakashI_DP.pdf"
+    },
+    {
+      "text": "HindPrakash IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/HindprakashI_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/hindprakash-ipo/1031/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "HindPrakash IPO offers 2880000 shares. 1365000 (47.40%) to NII 1365000 (47.40%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "150000 (5.21%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1365000 (47.40%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1365000 (47.40%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2880000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:57.899Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The HindPrakash IPO is subscribed 2.16 times on January 17 2020 5:00:00 PM (Day 3). The public issue subscribed 1.37 times in the retail category [.] times in the QIB category and 2.96 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.96",
+        "shares_offered": "1365000",
+        "shares_bid_for": "4038000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.37",
+        "shares_offered": "1365000",
+        "shares_bid_for": "1866000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.16",
+        "shares_offered": "2730000",
+        "shares_bid_for": "5904000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 17 2020",
+    "initiation_of_refunds": "Thu Jan 23 2020",
+    "credit_of_shares_to_demat": "Fri Jan 24 2020"
+  },
+  "updatedAt": "2025-04-19T04:37:58.598Z",
+  "updated_at": "2025-04-18T17:52:57.899Z",
+  "year": 2020,
+  "worst_listing_gains": "3.25%",
+  "worst_listing_gains_numeric": 3.25
+}

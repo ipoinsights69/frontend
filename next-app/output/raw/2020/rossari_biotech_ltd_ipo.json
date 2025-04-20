@@ -1,0 +1,412 @@
+{
+  "_id": "6802917b3ccffd1c7912c9ae",
+  "ipo_id": "2020_rossari_biotech_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:43:19.660Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/rossari-biotech-ipo/1049/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2009, Rossari Biotech Ltd is a manufacturer of textiles specialty chemicals. It provides customized solutions to the apparel, animal &amp; poultry feed, and FMCG industries by offering a diversified product portfolio. Rossari Biotech operates in 18 countries including India, Bangladesh, Vietnam, and Mauritius. <br> <br>As per the F&amp;S Report published on 30th Sept 2019, it is the largest textile specialty chemical manufacturer in India. The business of the company can be classified into three main categories which are textile specialty chemicals; animal health &amp; nutrition products; and home, personal care &amp; performance chemicals. The company has  1,948 different products range under these three categories. <br> <br>Most of the products of the company are manufactured in-house. It has a manufacturing unit located at Silvassa, Dadra &amp; Nagar Haveli with an installed capacity of 100,000 MTPA. The company is also setting up a manufacturing unit at Dahej in Gujarat with an installed capacity of 132,500 MTPA. Rossari Biotech also has two R&amp;D facilities in Silvassa and Mumbai locations to focus on new product development, formulations, and cost competitiveness. It has more than 194 distributors across India and 27 distributors spread in other 17 countries.<br> <br><strong>Competitive Strengths</strong></p><p>1. Diversified product portfolio<br>2. Well-known textile specialty chemical manufacturer in India<br>3. In-house manufacturing unit<br>4. Strong R&amp;D facility<br>5. Pan-India distribution network<br></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Mar-17"
+        ],
+        [
+          "Total Assets",
+          "4715.15",
+          "2489.45",
+          "1649.50",
+          "1308.94"
+        ],
+        [
+          "Total Revenue",
+          "6038.18",
+          "5171.24",
+          "3004.29",
+          "2605.97"
+        ],
+        [
+          "Profit After Tax",
+          "652.53",
+          "456.83",
+          "254.03",
+          "142.85"
+        ]
+      ]
+    },
+    {
+      "heading": "Rossari Biotech Limited Stock Quote & Charts",
+      "sanitizedHeading": "rossari_biotech_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "33.81",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "July 13, 2020 to July 15, 2020",
+    "ipoListingDate": "Thu, Jul 23, 2020",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹425.00",
+    "lotSize": "35 Shares",
+    "issueSize": "1,16,82,033 shares (aggregating up to ₹496.49 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹50.00 Cr)",
+    "offerForSale": "1,05,00,000 shares of ₹2 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Jul 13, 2020",
+    "ipoCloseDate": "Wed, Jul 15, 2020",
+    "initiationOfRefunds": "Tue, Jul 21, 2020",
+    "creditOfSharesToDemat": "Wed, Jul 22, 2020",
+    "shareHoldingPreIssue": "5,07,52,920 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "5,07,52,920 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "95.06%"
+      }
+    ],
+    "shareHoldingPostIssue": "5,19,29,390 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "5,19,29,390 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73%"
+      }
+    ]
+  },
+  "closing_date": "2020-07-14T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-22-6123 3800",
+    "email": "info@rossarimail.com",
+    "full_address": "Rossari Biotech Ltd, 201 A - B 2nd Floor Akruti Corporate Park, L.B.S. Marg next to GE Gardens, Kanjurmarg (W) Mumbai 400 079 India",
+    "website": "https://www.rossari.com/"
+  },
+  "createdAt": "2025-04-18T17:52:59.605Z",
+  "faqs": [
+    {
+      "question": "What is the Rossari Biotech IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rossari Biotech IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->11682033<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->496.49<!-- --> Crores. The issue is priced at <span>₹425 per share</span>. The minimum order quantity is <!-- -->35<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 13, 2020</b>, and <b>closes on <!-- -->July 15, 2020</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Rossari Biotech IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Rossari Biotech IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Rossari Biotech IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Rossari Biotech IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Rossari Biotech IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Rossari Biotech IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Rossari Biotech IPO opens on July 13, 2020 and closes on July 15, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Rossari Biotech IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rossari Biotech IPO<!-- --> <b>lot size is <!-- -->35</b>, and the <b>minimum amount required is <span>₹14,875</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Rossari Biotech IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Rossari Biotech IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Rossari Biotech IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Rossari Biotech IPO<!-- --> will be done on <!-- -->Monday, July 20, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, July 22, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/rossari-biotech-ipo/1049/\" title=\"Rossari Biotech IPO Allotment Status\">Rossari Biotech IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Rossari Biotech IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Rossari Biotech IPO<!-- --> listing date is on <b>Thursday, July 23, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Rossari Biotech",
+  "issue_price": "₹425.00",
+  "issue_price_numeric": 425,
+  "issue_size": "1,16,82,033 shares (aggregating up to ₹496.49 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/42/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/42/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "425.00",
+        "nse": "425.00"
+      },
+      "open": {
+        "bse": "670.00",
+        "nse": "669.25"
+      },
+      "low": {
+        "bse": "663.55",
+        "nse": "664.00"
+      },
+      "high": {
+        "bse": "804.00",
+        "nse": "803.10"
+      },
+      "last_trade": {
+        "bse": "742.35",
+        "nse": "741.65"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "July 23 2020",
+    "bse_script_code": "543213",
+    "nse_symbol": "ROSSARI",
+    "isin": "INE02A801020",
+    "final_issue_price": "425 per share"
+  },
+  "listing_date": "2020-07-22T18:30:00.000Z",
+  "listing_gains": "74.67%",
+  "listing_gains_numeric": 74.67,
+  "logo": "https://www.chittorgarh.net/images/ipo/rossari-biotech-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/rossari-biotech-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 35 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "35",
+        "amount": "14875"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "455",
+        "amount": "193375"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "490",
+        "amount": "208250"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2345",
+        "amount": "996625"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2380",
+        "amount": "1011500"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/rossari-biotech-ipo/1049/"
+    }
+  },
+  "lot_size": 35,
+  "opening_date": "2020-07-12T18:30:00.000Z",
+  "pageHeading": "Rossari Biotech Ltd IPO (Rossari Biotech IPO) Detail",
+  "pageTitle": "Rossari Biotech IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Edward Menezes and Mr. Sunil Chari are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "95.06%",
+      "share_holding_post_issue": "73%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Rossari Biotech IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2019/rossari-biotech-limited_45405.html"
+    },
+    {
+      "text": "Rossari Biotech IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2020/rossari-biotech-ltd-_47014.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "12",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/rossari-biotech-ipo/1049/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "rossaribio.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Rossari Biotech IPO offers 8173530 shares. 2335294 (28.57%) to QIB 1751471 (21.43%) to NII 4086765 (50.00%) to RII. 116764 RIIs will receive minimum 35 shares and (sNII) and (bNII) will receive minimum 490 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2335294 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1751471 (21.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4086765 (50.00%)",
+        "maximum_allottees": "116764"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "8173530 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:59.605Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Rossari Biotech IPO is subscribed 79.37 times on July 15 2020 5:00:02 PM (Day 3). The public issue subscribed 7.23 times in the retail category 85.26 times in the QIB category and 239.83 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "85.26",
+        "shares_offered": "2335294",
+        "shares_bid_for": "199114615"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "239.83",
+        "shares_offered": "1751471",
+        "shares_bid_for": "420059220"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "7.23",
+        "shares_offered": "4086765",
+        "shares_bid_for": "29559810"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "79.37",
+        "shares_offered": "8173530",
+        "shares_bid_for": "648733645"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 15 2020",
+    "tentative_allotment": "Mon Jul 20 2020",
+    "initiation_of_refunds": "Tue Jul 21 2020",
+    "credit_of_shares_to_demat": "Wed Jul 22 2020"
+  },
+  "updatedAt": "2025-04-19T04:38:00.669Z",
+  "updated_at": "2025-04-18T17:52:59.605Z",
+  "year": 2020,
+  "worst_listing_gains": "74.67%",
+  "worst_listing_gains_numeric": 74.67
+}

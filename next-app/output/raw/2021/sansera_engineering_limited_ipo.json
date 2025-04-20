@@ -1,0 +1,407 @@
+{
+  "_id": "6802918c3ccffd1c7912ca18",
+  "ipo_id": "2021_sansera_engineering_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:46:30.569Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sansera-engineering-ipo/1149/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1981, Sansera manufactures complex and critical precision engineered components and caters across automotive and non-automotive sectors. The company manufactures and supplies a wide range of precision forged and machined components and assemblies which are critical for the two-wheeler, passenger vehicle, and commercial vehicle verticals for the automotive sector. For the non-automotive sector, the company manufactures and supplies a wide range of precision components for aerospace, off-road, agriculture, and other segments. The company mostly supplies forged &amp; machined products to OEM’s.</p>\n<p></p>For FY’21, the Automotive sector contributed 88.45% and non-automotive 11.45% of the revenue. The company derives around 65% of its revenue from India and the rest 35% from other countries. The company is one of the major suppliers of connecting rods globally. The company has 15 manufacturing plants across India of which 9 are in Bangalore. <p></p>\n<p><strong>Competitive strengths</strong></p>\n<ul>\n<li> Leading supplier of complex and high-quality precision engineered components across automotive and non-automotive sectors which are poised to grow strongly.</li>\n<li> A well-diversified portfolio of segments, products, customers, and geography.</li>\n<li> Strong Engineering &amp; Designing capabilities.</li>\n<li> Strong relationships with respected Indian and Global OEM’s.</li>\n<li> Strong financial performance.</li>\n<li> Skilled and experienced management team.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "19288.83",
+          "18282.36",
+          "17454.84"
+        ],
+        [
+          "Total Revenue",
+          "15723.64",
+          "14731.39",
+          "16408.09"
+        ],
+        [
+          "Profit After Tax",
+          "1098.60",
+          "799.05",
+          "980.64"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 14, 2021 to September 16, 2021",
+    "ipoListingDate": "Fri, Sep 24, 2021",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹744.00",
+    "lotSize": "20 Shares",
+    "issueSize": "1,72,44,328 shares (aggregating up to ₹1,282.98 Cr)",
+    "offerForSale": "1,72,44,328 shares of ₹2 (aggregating up to ₹1,282.98 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Sep 14, 2021",
+    "ipoCloseDate": "Thu, Sep 16, 2021",
+    "initiationOfRefunds": "Wed, Sep 22, 2021",
+    "creditOfSharesToDemat": "Thu, Sep 23, 2021",
+    "shareHoldingPreIssue": "5,13,77,850 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "5,13,77,850 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "43.91%"
+      }
+    ],
+    "shareHoldingPostIssue": "5,13,77,850 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "5,13,77,850 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "36.56%"
+      }
+    ]
+  },
+  "closing_date": "2021-09-15T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 80 2783 9081",
+    "email": "rajesh.modi@sansera.in",
+    "full_address": "Sansera Engineering Limited, Plant 7 Plot No. 143/A, Jigani Link Road Bommasandra Industrial Area, Anekal Taluk Bengaluru 560 105",
+    "website": "https://sansera.in/"
+  },
+  "createdAt": "2025-04-18T17:53:16.108Z",
+  "faqs": [
+    {
+      "question": "What is the Sansera Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sansera Engineering IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->17244328<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->1,282.98<!-- --> Crores. The issue is priced at <span>₹744 per share</span>. The minimum order quantity is <!-- -->20<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 14, 2021</b>, and <b>closes on <!-- -->September 16, 2021</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sansera Engineering IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sansera Engineering IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sansera Engineering IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sansera Engineering IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sansera Engineering IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sansera Engineering IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sansera Engineering IPO opens on September 14, 2021 and closes on September 16, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sansera Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sansera Engineering IPO<!-- --> <b>lot size is <!-- -->20</b>, and the <b>minimum amount required is <span>₹14,880</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sansera Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sansera Engineering IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sansera Engineering IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sansera Engineering IPO<!-- --> will be done on <!-- -->Tuesday, September 21, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, September 23, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/sansera-engineering-ipo/1149/\" title=\"Sansera Engineering IPO Allotment Status\">Sansera Engineering IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sansera Engineering IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sansera Engineering IPO<!-- --> listing date is on <b>Friday, September 24, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sansera Engineering",
+  "issue_price": "₹744.00",
+  "issue_price_numeric": 744,
+  "issue_size": "1,72,44,328 shares (aggregating up to ₹1,282.98 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Nomura Financial Advisory And Securities",
+      "url": "/report/ipo-lead-manager-review/112/72/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/72/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "744.00",
+        "nse": "744.00"
+      },
+      "open": {
+        "bse": "811.35",
+        "nse": "811.50"
+      },
+      "low": {
+        "bse": "800.80",
+        "nse": "801.00"
+      },
+      "high": {
+        "bse": "842.00",
+        "nse": "841.95"
+      },
+      "last_trade": {
+        "bse": "818.70",
+        "nse": "818.55"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 24 2021",
+    "bse_script_code": "543358",
+    "nse_symbol": "SANSERA",
+    "isin": "INE953O01021",
+    "final_issue_price": "744 per share"
+  },
+  "listing_date": "2021-09-23T18:30:00.000Z",
+  "listing_gains": "10.04%",
+  "listing_gains_numeric": 10.04,
+  "logo": "https://www.chittorgarh.net/images/ipo/sansera-engineering-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sansera-engineering-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 20 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "20",
+        "amount": "14880"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "260",
+        "amount": "193440"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "280",
+        "amount": "208320"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "1340",
+        "amount": "996960"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "1360",
+        "amount": "1011840"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sansera-engineering-ipo/1149/"
+    }
+  },
+  "lot_size": 20,
+  "opening_date": "2021-09-13T18:30:00.000Z",
+  "pageHeading": "Sansera Engineering Limited IPO (Sansera Engineering IPO) Detail",
+  "pageTitle": "Sansera Engineering IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "S Sekhar Vasan F R Singhvi Unni Rajagopal K and D Devaraj are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "43.91%",
+      "share_holding_post_issue": "36.56%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sansera Engineering IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2021/sansera-engineering-limited_50499.html"
+    },
+    {
+      "text": "Sansera Engineering IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2021/sansera-engineering-limited-prospectus_53146.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "6",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sansera-engineering-ipo/1149/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "sansera.ipo@linktime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Sansera Engineering IPO offers 12109166 shares. 3423442 (28.27%) to QIB 2567582 (21.20%) to NII 5991024 (49.48%) to RII 127118 (1.05%) to employees. 299551 RIIs will receive minimum 20 shares and (sNII) and (bNII) will receive minimum 280 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "3423442 (28.27%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2567582 (21.20%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "5991024 (49.48%)",
+        "maximum_allottees": "299551"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "127118 (1.05%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "12109166 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:16.107Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sansera Engineering IPO is subscribed 11.47 times on September 16 2021 5:00:00 PM (Day 3). The public issue subscribed 3.15 times in the retail category 26.47 times in the QIB category and 11.37 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "26.47",
+        "shares_offered": "3423442",
+        "shares_bid_for": "90615020"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "11.37",
+        "shares_offered": "2567582",
+        "shares_bid_for": "29194540"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.15",
+        "shares_offered": "5991024",
+        "shares_bid_for": "18855300"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.37",
+        "shares_offered": "127118",
+        "shares_bid_for": "174140"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "11.47",
+        "shares_offered": "12109166",
+        "shares_bid_for": "138839000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 16 2021",
+    "tentative_allotment": "Tue Sep 21 2021",
+    "initiation_of_refunds": "Wed Sep 22 2021",
+    "credit_of_shares_to_demat": "Thu Sep 23 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:15.062Z",
+  "updated_at": "2025-04-18T17:53:16.107Z",
+  "year": 2021,
+  "worst_listing_gains": "10.04%",
+  "worst_listing_gains_numeric": 10.04
+}

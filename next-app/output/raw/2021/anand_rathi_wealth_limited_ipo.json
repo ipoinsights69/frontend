@@ -1,0 +1,420 @@
+{
+  "_id": "680291863ccffd1c7912c9c3",
+  "ipo_id": "2021_anand_rathi_wealth_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:45:09.419Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/anand-rathi-ipo/1186/"
+  },
+  "about": {
+    "details": "<p>Anand Rathi Wealth is one of the leading non-bank wealth solutions firms in India and has been ranked amongst the top three non-bank mutual fund distributors in the country. The company offers a wide product portfolio of wealth solutions, financial product distribution, and technology solutions to its clients. The company provides services primarily through its flagship Private Wealth (PW) vertical where it manages ₹ 294.72 Bn in AuM as of August 31, 2021. The company's PW vertical caters to 6,564 active client families, through a team of 233 RMs. In addition to the PW vertical, the company has 2 other new-age technology-led business verticals, i.e., Digital Wealth (DW) and Omni Financial Advisors (OFA).</p>\n<p>The company has achieved a dominant position in the distribution of financial products, with a focus on the growing HNI segment. Currently, the company has a presence across 11 cities in India.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>Focus on the underserved HNI segment of great market potential</li>\n<li>Standardized solutions offered to clients based on an objective-driven approach</li>\n<li>One of the top 3 leading mutual fund distributors in India</li>\n<li>Focus on value-added services</li>\n<li>Attracting and retaining talent through an entrepreneurial work culture</li>\n<li>Unique marketing initiatives</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Aug-21",
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "4023.24",
+          "3394.42",
+          "4090.64",
+          "2308.27"
+        ],
+        [
+          "Total Revenue",
+          "1689.03",
+          "2792.48",
+          "3364.14",
+          "2841.87"
+        ],
+        [
+          "Profit After Tax",
+          "510.88",
+          "450.95",
+          "616.14",
+          "584.33"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 2, 2021 to December 6, 2021",
+    "ipoListingDate": "Tue, Dec 14, 2021",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹550.00",
+    "lotSize": "27 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹660.00 Cr)",
+    "offerForSale": "1,20,00,000 shares of ₹5 (aggregating up to ₹660.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Dec 2, 2021",
+    "ipoCloseDate": "Mon, Dec 6, 2021",
+    "initiationOfRefunds": "Fri, Dec 10, 2021",
+    "creditOfSharesToDemat": "Mon, Dec 13, 2021",
+    "shareHoldingPreIssue": "4,16,16,227 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "4,16,16,227 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "74.73%"
+      }
+    ],
+    "shareHoldingPostIssue": "4,16,16,227 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "4,16,16,227 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "48.82%"
+      }
+    ]
+  },
+  "closing_date": "2021-12-05T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 (22) 6281 7000",
+    "email": "csarwsl@rathi.com",
+    "full_address": "Anand Rathi Wealth Limited, Express Zone A Wing 10th Floor, Western Express Highway Goregaon (E), Mumbai 400 063 Maharashtra India.",
+    "website": "https://rathi.com/Wealth/index.php"
+  },
+  "createdAt": "2025-04-18T17:53:10.327Z",
+  "faqs": [
+    {
+      "question": "What is the Anand Rathi IPO?",
+      "answer": "<div itemprop=\"text\"><p>Anand Rathi IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->660.00<!-- --> Crores. The issue is priced at <span>₹550 per share</span>. The minimum order quantity is <!-- -->27<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 2, 2021</b>, and <b>closes on <!-- -->December 6, 2021</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Anand Rathi IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Anand Rathi IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Anand Rathi IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Anand Rathi IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Anand Rathi IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Anand Rathi IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Anand Rathi IPO opens on December 2, 2021 and closes on December 6, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Anand Rathi IPO?",
+      "answer": "<div itemprop=\"text\"><p>Anand Rathi IPO<!-- --> <b>lot size is <!-- -->27</b>, and the <b>minimum amount required is <span>₹14,850</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Anand Rathi IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Anand Rathi IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Anand Rathi IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Anand Rathi IPO<!-- --> will be done on <!-- -->Thursday, December 9, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, December 13, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/anand-rathi-ipo/1186/\" title=\"Anand Rathi IPO Allotment Status\">Anand Rathi IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Anand Rathi IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Anand Rathi IPO<!-- --> listing date is on <b>Tuesday, December 14, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Anand Rathi Wealth",
+  "issue_price": "₹550.00",
+  "issue_price_numeric": 550,
+  "issue_size": "[.] shares (aggregating up to ₹660.00 Cr)",
+  "issue_size_numeric": 660,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Anand Rathi Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/34/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/34/"
+    },
+    {
+      "name": "Bnp Paribas",
+      "url": "/report/ipo-lead-manager-review/112/137/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/137/"
+    },
+    {
+      "name": "Equirus Capital Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/133/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/133/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "550.00",
+        "nse": "550.00"
+      },
+      "open": {
+        "bse": "602.05",
+        "nse": "600.00"
+      },
+      "low": {
+        "bse": "566.10",
+        "nse": "565.55"
+      },
+      "high": {
+        "bse": "614.95",
+        "nse": "615.00"
+      },
+      "last_trade": {
+        "bse": "583.50",
+        "nse": "583.55"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 14 2021",
+    "bse_script_code": "543415",
+    "nse_symbol": "ANANDRATHI",
+    "isin": "INE463V01026",
+    "final_issue_price": "550 per share"
+  },
+  "listing_date": "2021-12-13T18:30:00.000Z",
+  "listing_gains": "6.09%",
+  "listing_gains_numeric": 6.09,
+  "logo": "https://www.chittorgarh.net/images/ipo/anand-rathi-wealth-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/anand-rathi-wealth-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 27 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "27",
+        "amount": "14850"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "351",
+        "amount": "193050"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "378",
+        "amount": "207900"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "1809",
+        "amount": "994950"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "1836",
+        "amount": "1009800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/anand-rathi-ipo/1186/"
+    }
+  },
+  "lot_size": 27,
+  "opening_date": "2021-12-01T18:30:00.000Z",
+  "pageHeading": "Anand Rathi Wealth Limited IPO (Anand Rathi IPO) Detail",
+  "pageTitle": "Anand Rathi IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Anand Rathi Mr. Pradeep Gupta and Anand Rathi Financial Services Limited are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "74.73%",
+      "share_holding_post_issue": "48.82%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Anand Rathi IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2021/anand-rathi-wealth-limited_51249.html"
+    },
+    {
+      "text": "Anand Rathi IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/anand-rathi-wealth-limited-prospectus_54489.html"
+    },
+    {
+      "text": "Anchor Investors in Anand Rathi IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20211201-34&attachedId=2b0841d1-ee63-462e-80d0-9376c5c08b2d"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "5",
+        "neutral": "3",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/anand-rathi-ipo/1186/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "anandrathi.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Anand Rathi IPO offers 8475000 shares. 2350000 (27.73%) to QIB 1762500 (20.80%) to NII 4112500 (48.53%) to RII 250000 (2.95%) to employees. 152314 RIIs will receive minimum 27 shares and (sNII) and (bNII) will receive minimum 378 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2350000 (27.73%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1762500 (20.80%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4112500 (48.53%)",
+        "maximum_allottees": "152314"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "250000 (2.95%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "8475000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:10.326Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Anand Rathi IPO is subscribed 9.78 times on December 6 2021 5:00:00 PM (Day 4). The public issue subscribed 7.76 times in the retail category 2.5 times in the QIB category and 25.42 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "2.5",
+        "shares_offered": "2350000",
+        "shares_bid_for": "5883435"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "25.42",
+        "shares_offered": "1762500",
+        "shares_bid_for": "44808147"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "7.76",
+        "shares_offered": "4112500",
+        "shares_bid_for": "31900851"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.32",
+        "shares_offered": "250000",
+        "shares_bid_for": "329076"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "9.78",
+        "shares_offered": "8475000",
+        "shares_bid_for": "82921509"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 6 2021",
+    "tentative_allotment": "Thu Dec 9 2021",
+    "initiation_of_refunds": "Fri Dec 10 2021",
+    "credit_of_shares_to_demat": "Mon Dec 13 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:03.787Z",
+  "updated_at": "2025-04-18T17:53:10.326Z",
+  "year": 2021,
+  "worst_listing_gains": "6.09%",
+  "worst_listing_gains_numeric": 6.09
+}

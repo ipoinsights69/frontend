@@ -1,0 +1,478 @@
+{
+  "_id": "68024a033ccffd1c7912c83c",
+  "ipo_id": "2024_western_carriers_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": false,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:21:59.808Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/western-carriers-india-ipo/1844/"
+  },
+  "about": {
+    "details": "<p>Incorporated in March 2011, Western Carriers (India) Limited is a Multi-modal, rail-focused, 4PL asset-light logistics company. The company offers fully customizable, multi-modal logistics solutions encompassing road, rail, water, and air transportation and a tailored range of value-added services.</p>\n<p>The company offers sectors such as metals, fast-moving consumer goods (“FMCG”), pharmaceuticals, chemicals, engineering, oil and gas and retail. The company's clientele includes&nbsp;Tata Steel Limited (“Tata Steel”), Hindalco Industries Limited (“Hindalco”), Jindal Stainless Limited (“JSL”), JSW Steel Coated Products Limited (“JSW”), Bharat Aluminium Company Limited(“BALCO”)and Vedanta Limited(“Vedanta”), Hindustan Unilever Limited (“HUL”), Hindustan Coca Cola Beverages Private Limited (“Coca Cola India”), Tata Consumer Products Limited (“Tata Consumer”), Gujarat Tea Processors and Packers Limited (“Wagh Bakri”) and CG Foods India Private Limited (“CG Foods”), Cipla Limited (“Cipla”), Materials Chemicals and Performance Intermediaries Private Limited (“MCPI”) (formerly, MCC PTA India Corp. Private Limited, a subsidiary of Mitsubishi Chemical Corporation), Haldia Petrochemicals Limited (“Haldia”) and Gujarat Heavy Chemicals Limited(“GHCL”)Oil and Gas Brahmaputra Cracker and Polymer Limited(“BCPL”)Utilities and others*Sheela Foam Limited(“Sleepwell”)and DHL Logistics Private Limited.</p>\n<p>The company provides chartering services to overseas destinations, stevedoring services at Indian ports, and coastal movement of cargo within India. They specialize in combining rail with road movements through an asset-light business model. The company manages and handles the supply chain for increased imports, exports, and production levels for a leading metals and resource group company.</p>\n<p>As of December 31, 2022, the company served a d over 1,100 customers.</p>\n<p>As of December 31, 2022, the company had 1,350 employees in various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Western Carriers (India) Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "western_carriers",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "754.01",
+          "604.14",
+          "490.33"
+        ],
+        [
+          "Revenue",
+          "1691.41",
+          "1637.84",
+          "1475.79"
+        ],
+        [
+          "Profit After Tax",
+          "80.35",
+          "71.57",
+          "61.13"
+        ],
+        [
+          "Net Worth",
+          "398.36",
+          "318.61",
+          "257.58"
+        ],
+        [
+          "Reserves and Surplus",
+          "359.01",
+          "279.08",
+          "157.12"
+        ],
+        [
+          "Total Borrowing",
+          "266",
+          "210.47",
+          "150.4"
+        ]
+      ]
+    },
+    {
+      "heading": "Western Carriers (India) Limited Stock Quote & Charts",
+      "sanitizedHeading": "western_carriers_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "22.41%"
+        ],
+        [
+          "ROCE",
+          "29.23%"
+        ],
+        [
+          "Debt/Equity",
+          "0.67"
+        ],
+        [
+          "RoNW",
+          "20.17%"
+        ],
+        [
+          "Price to Book Value",
+          "3.40"
+        ]
+      ]
+    },
+    {
+      "heading": "Western Carriers (India) Limited Stock Quote & Charts",
+      "sanitizedHeading": "western_carriers_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "10.21",
+          "7.88"
+        ],
+        [
+          "P/E (x)",
+          "16.85",
+          "21.83"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Western Carriers (India) IPO raises Rs 147.86 crore from anchor investors. Western Carriers (India) IPO Anchor bid date is September 12 2024. Western Carriers (India) IPO Anchor Investors list",
+    "list_link": {
+      "text": "Western Carriers (India) IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/westerncarriers_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "December 18 2024",
+      "shares_offered": "8596743",
+      "anchor_portion_size": "147.86"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 13, 2024 to September 19, 2024",
+    "ipoListingDate": "Tue, Sep 24, 2024",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹172.00",
+    "lotSize": "87 Shares",
+    "issueSize": "2,86,55,813 shares (aggregating up to ₹492.88 Cr)",
+    "freshIssue": "2,32,55,813 shares (aggregating up to ₹400.00 Cr)",
+    "offerForSale": "54,00,000 shares of ₹5 (aggregating up to ₹92.88 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Sep 13, 2024",
+    "ipoCloseDate": "Thu, Sep 19, 2024",
+    "initiationOfRefunds": "Mon, Sep 23, 2024",
+    "creditOfSharesToDemat": "Mon, Sep 23, 2024",
+    "shareHoldingPreIssue": "7,86,99,400 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "7,86,99,400 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.99%"
+      }
+    ],
+    "shareHoldingPostIssue": "10,19,55,213 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "10,19,55,213 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "71.89%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-18T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 33 2485 8519",
+    "email": "investors@westcong.com",
+    "full_address": "Western Carriers (India) Limited, 2/6 Sarat Bose Road, 2nd Floor, Kolkata-700020",
+    "website": "https://western-carriers.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.825Z",
+  "faqs": [
+    {
+      "question": "What is the Western Carriers (India) IPO?",
+      "answer": "<div itemprop=\"text\"><p>Western Carriers (India) IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->28655813<!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->492.88<!-- --> Crores. The issue is priced at <span>₹172 per share</span>. The minimum order quantity is <!-- -->87<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 13, 2024</b>, and <b>closes on <!-- -->September 19, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Western Carriers (India) IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Western Carriers (India) IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Western Carriers (India) IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Western Carriers (India) IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Western Carriers (India) IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Western Carriers (India) IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Western Carriers (India) IPO opens on September 13, 2024 and closes on September 19, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Western Carriers (India) IPO?",
+      "answer": "<div itemprop=\"text\"><p>Western Carriers (India) IPO<!-- --> <b>lot size is <!-- -->87</b>, and the <b>minimum amount required is <span>₹14,964</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Western Carriers (India) IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Western Carriers (India) IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Western Carriers (India) IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Western Carriers (India) IPO<!-- --> will be done on <!-- -->Friday, September 20, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, September 23, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/western-carriers-india-ipo/1844/\" title=\"Western Carriers (India) IPO Allotment Status\">Western Carriers (India) IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Western Carriers (India) IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Western Carriers (India) IPO<!-- --> listing date is on <b>Tuesday, September 24, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Western Carriers (India)",
+  "issue_price": "₹172.00",
+  "issue_price_numeric": 172,
+  "issue_size": "2,86,55,813 shares (aggregating up to ₹492.88 Cr)",
+  "issue_size_numeric": 2,
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "172.00",
+        "nse": "172.00"
+      },
+      "open": {
+        "bse": "170.00",
+        "nse": "171.00"
+      },
+      "low": {
+        "bse": "158.50",
+        "nse": "158.51"
+      },
+      "high": {
+        "bse": "177.00",
+        "nse": "177.00"
+      },
+      "last_trade": {
+        "bse": "159.45",
+        "nse": "159.44"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 24 2024",
+    "bse_script_code": "544258",
+    "nse_symbol": "WCIL",
+    "isin": "INE0CJF01024",
+    "final_issue_price": "172 per share"
+  },
+  "listing_date": "2024-09-23T18:30:00.000Z",
+  "listing_gains": "-7.30%",
+  "listing_gains_numeric": -7.3,
+  "logo": "https://www.chittorgarh.net/images/ipo/western-carriers-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/western-carriers-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 87 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "87",
+        "amount": "14964"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1131",
+        "amount": "194532"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1218",
+        "amount": "209496"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "5742",
+        "amount": "987624"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "5829",
+        "amount": "1002588"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/western-carriers-india-ipo/1844/"
+    }
+  },
+  "lot_size": 87,
+  "opening_date": "2024-09-12T18:30:00.000Z",
+  "pageHeading": "Western Carriers (India) Limited IPO (Western Carriers (India) IPO) Detail",
+  "pageTitle": "Western Carriers (India) IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Promoters of the company and Rajendra Sethia and Kanishka Sethia.",
+    "holdings": {
+      "share_holding_pre_issue": "99.99%",
+      "share_holding_post_issue": "71.89%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Western Carriers (India) IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2023/western-carriers-india-limited-drhp_72492.html"
+    },
+    {
+      "text": "Western Carriers (India) IPO Addendum DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2023/western-carriers-india-limited-corrigendum-to-drhp_75498.html"
+    },
+    {
+      "text": "Western Carriers (India) IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/western-carriers-india-limited-prospectus_86886.html"
+    },
+    {
+      "text": "Anchor Investors in Western Carriers (India) IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/westerncarriers_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "3",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "5"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/western-carriers-india-ipo/1844/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "westerncarriers.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Western Carriers (India) IPO offers 28655813 shares. 5731163 (20%) to QIB 4298372 (15%) to NII 10029535 (35%) to RII and 8596743 (30%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "8596743 (30%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "5731163 (20%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4298372 (15%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2865581 (10%)",
+        "maximum_allottees": "2352"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1432791 (5%)",
+        "maximum_allottees": "1176"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "10029535 (35%)",
+        "maximum_allottees": "115282"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "28655813 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.825Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Western Carriers (India) IPO is subscribed 31.69 times on September 19 2024 6:16:07 PM (Day 5). The public issue subscribed 26.92 times in the retail category 28.81 times in the QIB category and 46.68 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "28.81",
+        "shares_offered": "5731163",
+        "shares_bid_for": "165092679"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "46.68",
+        "shares_offered": "4298372",
+        "shares_bid_for": "200627307"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "41.65",
+        "shares_offered": "2865581",
+        "shares_bid_for": "119345817"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "56.73",
+        "shares_offered": "1432791",
+        "shares_bid_for": "81281490"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "26.92",
+        "shares_offered": "10029535",
+        "shares_bid_for": "269992668"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "31.69",
+        "shares_offered": "20059070",
+        "shares_bid_for": "635712654"
+      }
+    },
+    "total_applications": "2887712"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 19 2024",
+    "tentative_allotment": "Fri Sep 20 2024",
+    "initiation_of_refunds": "Mon Sep 23 2024",
+    "credit_of_shares_to_demat": "Mon Sep 23 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:22.521Z",
+  "updated_at": "2025-04-18T12:48:03.825Z",
+  "year": 2024,
+  "worst_listing_gains": "-7.30%",
+  "worst_listing_gains_numeric": -7.3
+}

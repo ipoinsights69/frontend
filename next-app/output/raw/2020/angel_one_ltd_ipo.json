@@ -1,0 +1,432 @@
+{
+  "_id": "680291783ccffd1c7912c98f",
+  "ipo_id": "2020_angel_one_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:42:51.087Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/angel-broking-ipo/1057/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1996, Angel One Ltd is one of India's oldest stockbroking houses providing broking, marging funding, advisory,and financial services through brands \"Angel One\" and \"Angel Bee\" powered by \"ARQ\". They have a strong market presence with active clientele on the National Stock Exchange (NSE) with a market share of around 6.3% and 2.15 million operational broking accounts as of June 2020.</p>\n<p>It's digital transformation helped it being the 4th Largest comapany in terms of active NSE clients and 2nd largest in terms of incremental NSE clients in Q1 - FY21. Angel One being a pioneer in new client activation has access to approximately 79.55 miliion persons as of June 30, 2020. From Q1 FY20 to Q1 FY21, its average daily turnover has been increased from Rs. 253,176 million to Rs. 618,945 million.</p>\n<p>Angel One Ltd offers some of the key products and financial services to the clients:</p>\n\n1. Broking and Advisory\n2. Margin Trading Facility\n3. Investor Education\n4. Loans against shares\n5. Research Services\n\n<strong>Competitive Strengths</strong>\n\n1.\tStrong brand name\n2.\tAdvanced technology and digitalization\n3.\tStrong client base\n4.\tPan-India presence\n5.\tStrong financial performance\n\n<h2>Important Links</h2><ul><li><a href=\"/article/angel-broking-ipo-and-brokerage-industry/493/\" title=\"The brokerage Industry and Angel One IPO\">The brokerage Industry and Angel One IPO</a></li></ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Summary of financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "30 June 2020",
+          "31 March 2020",
+          "31 March 2019",
+          "31 March 2018"
+        ],
+        [
+          "Total Assets",
+          "29731.02",
+          "21592.05",
+          "21690.56",
+          "22828.67"
+        ],
+        [
+          "Total Revenue",
+          "2440.86",
+          "7427.79",
+          "7626.47",
+          "7536.55"
+        ],
+        [
+          "Profit After Tax",
+          "381.83",
+          "866.24",
+          "766.94",
+          "1010.52"
+        ]
+      ]
+    },
+    {
+      "heading": "Angel One IPO Offer Size by Investor Category",
+      "sanitizedHeading": "angel_one_offer_size_by_investor_category",
+      "headers": [
+        "Category",
+        "No. of shares",
+        "%"
+      ],
+      "rows": [
+        [
+          "Anchor",
+          "5882353",
+          "30%"
+        ],
+        [
+          "QIB",
+          "3934425",
+          "20%"
+        ],
+        [
+          "NII",
+          "2950820",
+          "15%"
+        ],
+        [
+          "Retail",
+          "6885246",
+          "35%"
+        ],
+        [
+          "Total",
+          "19652844",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 22, 2020 to September 24, 2020",
+    "ipoListingDate": "Mon, Oct 5, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹306.00",
+    "lotSize": "49 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹600.00 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹300.00 Cr)",
+    "offerForSale": "[.] shares of ₹10 (aggregating up to ₹300.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Sep 22, 2020",
+    "ipoCloseDate": "Thu, Sep 24, 2020",
+    "initiationOfRefunds": "Wed, Sep 30, 2020",
+    "creditOfSharesToDemat": "Thu, Oct 1, 2020",
+    "shareHoldingPreIssue": "7,19,95,003 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "7,19,95,003 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "65.42%"
+      }
+    ],
+    "shareHoldingPostIssue": "8,17,98,924 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "8,17,98,924 shares"
+      }
+    ]
+  },
+  "closing_date": "2020-09-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 4000 3600",
+    "email": "investors@angelbroking.com",
+    "full_address": "Angel One Ltd, G-1 Ground Floor Akruti Trade Centre, Road No. 7 MIDC, Andheri (East) Mumbai 400 093",
+    "website": "https://www.angelbroking.com/"
+  },
+  "createdAt": "2025-04-18T17:52:56.131Z",
+  "faqs": [
+    {
+      "question": "What is the Angel One IPO?",
+      "answer": "<div itemprop=\"text\"><p>Angel One IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->600.00<!-- --> Crores. The issue is priced at <span>₹306 per share</span>. The minimum order quantity is <!-- -->49<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 22, 2020</b>, and <b>closes on <!-- -->September 24, 2020</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Angel One IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Angel One IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Angel One IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Angel One IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Angel One IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Angel One IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Angel One IPO opens on September 22, 2020 and closes on September 24, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Angel One IPO?",
+      "answer": "<div itemprop=\"text\"><p>Angel One IPO<!-- --> <b>lot size is <!-- -->49</b>, and the <b>minimum amount required is <span>₹14,994</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Angel One IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Angel One IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Angel One IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Angel One IPO<!-- --> will be done on <!-- -->Tuesday, September 29, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, October 1, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/angel-broking-ipo/1057/\" title=\"Angel One IPO Allotment Status\">Angel One IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Angel One IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Angel One IPO<!-- --> listing date is on <b>Monday, October 5, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Angel One",
+  "issue_price": "₹306.00",
+  "issue_price_numeric": 306,
+  "issue_size": "[.] shares (aggregating up to ₹600.00 Cr)",
+  "issue_size_numeric": 600,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "306.00",
+        "nse": "306.00"
+      },
+      "open": {
+        "bse": "275.00",
+        "nse": "275.00"
+      },
+      "low": {
+        "bse": "256.60",
+        "nse": "257.00"
+      },
+      "high": {
+        "bse": "296.45",
+        "nse": "296.70"
+      },
+      "last_trade": {
+        "bse": "275.85",
+        "nse": "275.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "October 5 2020",
+    "bse_script_code": "543235",
+    "nse_symbol": "ANGELONE",
+    "isin": "INE732I01013",
+    "final_issue_price": "306 per share"
+  },
+  "listing_date": "2020-10-04T18:30:00.000Z",
+  "listing_gains": "-9.85%",
+  "listing_gains_numeric": -9.85,
+  "logo": "https://www.chittorgarh.net/images/ipo/angel-broking-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/angel-broking-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 49 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "49",
+        "amount": "14994"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "637",
+        "amount": "194922"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "686",
+        "amount": "209916"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "3234",
+        "amount": "989604"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "3283",
+        "amount": "1004598"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/angel-broking-ipo/1057/"
+    }
+  },
+  "lot_size": 49,
+  "opening_date": "2020-09-21T18:30:00.000Z",
+  "pageHeading": "Angel One Ltd IPO (Angel One IPO) Detail",
+  "pageTitle": "Angel One IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Dinesh D. Thakkar Ashok D. Thakkar and Sunita A. Magnani are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "65.42%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Angel One IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2018/angel-broking-limited_40269.html"
+    },
+    {
+      "text": "Angel One IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2020/angel-broking-limited_47803.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "3",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/angel-broking-ipo/1057/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "angel.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Angel One IPO offers 13770491 shares. 3934425 (28.57%) to QIB 2950820 (21.43%) to NII 6885246 (50.00%) to RII. 140515 RIIs will receive minimum 49 shares and (sNII) and (bNII) will receive minimum 686 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "3934425 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2950820 (21.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "6885246 (50.00%)",
+        "maximum_allottees": "140515"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "13770491 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:56.125Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Angel One IPO is subscribed 3.94 times on September 24 2020 5:00:04 PM (Day 3). The public issue subscribed 4.31 times in the retail category 5.74 times in the QIB category and 0.69 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "5.74",
+        "shares_offered": "3934425",
+        "shares_bid_for": "22578514"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.69",
+        "shares_offered": "2950820",
+        "shares_bid_for": "2039772"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "4.31",
+        "shares_offered": "6885246",
+        "shares_bid_for": "29646568"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "3.94",
+        "shares_offered": "13770491",
+        "shares_bid_for": "54264854"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 24 2020",
+    "tentative_allotment": "Tue Sep 29 2020",
+    "initiation_of_refunds": "Wed Sep 30 2020",
+    "credit_of_shares_to_demat": "Thu Oct 1 2020"
+  },
+  "updatedAt": "2025-04-19T04:37:55.703Z",
+  "updated_at": "2025-04-18T17:52:56.125Z",
+  "year": 2020,
+  "worst_listing_gains": "-9.85%",
+  "worst_listing_gains_numeric": -9.85
+}

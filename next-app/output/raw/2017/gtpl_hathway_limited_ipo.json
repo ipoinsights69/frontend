@@ -1,0 +1,390 @@
+{
+  "_id": "680298553ccffd1c7912cb05",
+  "ipo_id": "2017_gtpl_hathway_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:09:03.887Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/gtpl-hathway-ipo/669/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2006, GTPL Hathway Limited is Gujrat based Multi System Operator offering cable television and broadband services. GTPL Hathway is number 1 cable service provider in Gujarat with a market share of 67% of cable television subscribers.</p><p>GTPL Hathway provides digital cable television services in 169 towns across India. We provide cable television signals in both digital and analog modes of re-transmission.</p><p>GTPL's source of revenue for cable services is subscription income received from subscribers and carriage and placement revenues received from broadcasters for carrying their channels and placing their channels on their preferred channel number or position. GTPL also have the right to place the 'Gujarat News' channel on our network, which is produced by our Group Company, Gujarat Television Private Limited. GTPL produce its own content and also offer third-party content on its local channels to ensure that it has a suitable mix of content that appeals to a range of demographics.<br></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Dec-16",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "16969.16",
+          "14910.26",
+          "11231.49",
+          "10722.93"
+        ],
+        [
+          "Total Revenue",
+          "6634.61",
+          "7462.03",
+          "6272.01",
+          "5288.09"
+        ],
+        [
+          "Profit After Tax",
+          "163.01",
+          "45.98",
+          "154.85",
+          "(84.62)"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 21, 2017 to June 23, 2017",
+    "ipoListingDate": "Tue, Jul 4, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹170.00",
+    "lotSize": "88 Shares",
+    "issueSize": "2,85,17,650 shares (aggregating up to ₹484.80 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹240.00 Cr)",
+    "offerForSale": "1,44,00,000 shares of ₹10 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Jun 21, 2017",
+    "ipoCloseDate": "Fri, Jun 23, 2017",
+    "initiationOfRefunds": "Fri, Jun 30, 2017",
+    "creditOfSharesToDemat": "Mon, Jul 3, 2017",
+    "shareHoldingPreIssue": "9,83,45,388 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "9,83,45,388 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "11,24,63,038 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "11,24,63,038 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-06-22T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 79 6140 0000",
+    "email": "complianceofficer@gtpl.net",
+    "full_address": "GTPL Hathway Limited, Shree One Building Opposite Armieda, Sindhu Bhavan Road Near Pakwan Cross Road, Bodakdev Ahmedabad 380059",
+    "website": "http://www.gtpl.net/"
+  },
+  "createdAt": "2025-04-18T18:22:13.058Z",
+  "faqs": [
+    {
+      "question": "What is the GTPL Hathway IPO?",
+      "answer": "<div itemprop=\"text\"><p>GTPL Hathway IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->28517650<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->484.80<!-- --> Crores. The issue is priced at <span>₹170 per share</span>. The minimum order quantity is <!-- -->88<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 21, 2017</b>, and <b>closes on <!-- -->June 23, 2017</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in GTPL Hathway IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->GTPL Hathway IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->GTPL Hathway IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->GTPL Hathway IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->GTPL Hathway IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When GTPL Hathway IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The GTPL Hathway IPO opens on June 21, 2017 and closes on June 23, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of GTPL Hathway IPO?",
+      "answer": "<div itemprop=\"text\"><p>GTPL Hathway IPO<!-- --> <b>lot size is <!-- -->88</b>, and the <b>minimum amount required is <span>₹14,960</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for GTPL Hathway IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->GTPL Hathway IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is GTPL Hathway IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->GTPL Hathway IPO<!-- --> will be done on <!-- -->Thursday, June 29, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, July 3, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/gtpl-hathway-ipo/669/\" title=\"GTPL Hathway IPO Allotment Status\">GTPL Hathway IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is GTPL Hathway IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->GTPL Hathway IPO<!-- --> listing date is on <b>Tuesday, July 4, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "GTPL Hathway",
+  "issue_price": "₹170.00",
+  "issue_price_numeric": 170,
+  "issue_size": "2,85,17,650 shares (aggregating up to ₹484.80 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Bnp Paribas",
+      "url": "/report/ipo-lead-manager-review/112/137/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/137/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    },
+    {
+      "name": "Yes Securities",
+      "url": "/report/ipo-lead-manager-review/112/136/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/136/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "170.00",
+        "nse": "170.00"
+      },
+      "open": {
+        "bse": "170.00",
+        "nse": "170.00"
+      },
+      "low": {
+        "bse": "162.25",
+        "nse": "162.00"
+      },
+      "high": {
+        "bse": "174.50",
+        "nse": "175.00"
+      },
+      "last_trade": {
+        "bse": "171.65",
+        "nse": "171.65"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "July 4 2017",
+    "bse_script_code": "540602",
+    "nse_symbol": "GTPL",
+    "isin": "INE869I01013",
+    "final_issue_price": "170 per share"
+  },
+  "listing_date": "2017-07-03T18:30:00.000Z",
+  "listing_gains": "0.97%",
+  "listing_gains_numeric": 0.97,
+  "logo": "https://www.chittorgarh.net/images/ipo/gtpl_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/gtpl_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 88 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "88",
+        "amount": "14960"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1144",
+        "amount": "194480"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1232",
+        "amount": "209440"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "5808",
+        "amount": "987360"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "5896",
+        "amount": "1002320"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/gtpl-hathway-ipo/669/"
+    }
+  },
+  "lot_size": 88,
+  "opening_date": "2017-06-20T18:30:00.000Z",
+  "pageHeading": "GTPL Hathway Limited IPO (GTPL Hathway IPO) Detail",
+  "pageTitle": "GTPL Hathway IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "GTPL Hathway IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2017/gtpl-hathway-limited_33943.html"
+    },
+    {
+      "text": "GTPL Hathway IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2017/gtpl-hathway-limited_35104.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/gtpl-hathway-ipo/669/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "gtpl.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "GTPL Hathway IPO offers 20215966 shares. 5830336 (28.84%) to QIB 4315689 (21.35%) to NII 10069941 (49.81%) to RII. 114431 RIIs will receive minimum 88 shares and (sNII) and (bNII) will receive minimum 1232 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "5830336 (28.84%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4315689 (21.35%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "10069941 (49.81%)",
+        "maximum_allottees": "114431"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "20215966 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:13.057Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The GTPL Hathway IPO is subscribed 1.53 times on June 23 2017 5:00:00 PM (Day 3). The public issue subscribed 0.99 times in the retail category 1.48 times in the QIB category and 2.85 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.48",
+        "shares_offered": "5830336",
+        "shares_bid_for": "8646968"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.85",
+        "shares_offered": "4315689",
+        "shares_bid_for": "12320528"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.99",
+        "shares_offered": "10069941",
+        "shares_bid_for": "10004720"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.53",
+        "shares_offered": "20215966",
+        "shares_bid_for": "30972216"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 23 2017",
+    "tentative_allotment": "Thu Jun 29 2017",
+    "initiation_of_refunds": "Fri Jun 30 2017",
+    "credit_of_shares_to_demat": "Mon Jul 3 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:49.294Z",
+  "updated_at": "2025-04-18T18:22:13.057Z",
+  "year": 2017,
+  "worst_listing_gains": "0.97%",
+  "worst_listing_gains_numeric": 0.97
+}

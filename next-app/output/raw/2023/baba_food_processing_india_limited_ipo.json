@@ -1,0 +1,430 @@
+{
+  "_id": "68028e9a3ccffd1c7912c8b4",
+  "ipo_id": "2023_baba_food_processing_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:28:20.287Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/baba-food-processing-ipo/1561/"
+  },
+  "about": {
+    "details": "<p>Incorporated in&nbsp;April 2015, Baba Food Processing is an agro-food manufacturing company. The company has established its footprints in branded consumer as well as bulk food markets producing&nbsp;wheat floor products. The company manufactures wide range of products including&nbsp;Whole Wheat Atta (Wheat Flour), Refined Flour (Maida), Tandoori Atta and Semolina flour (Sooji).</p>\n<p>The company owns&nbsp;a manufacturing unit in&nbsp;Nagri, Ranchi and plans to set up another unit in&nbsp;Patna Bihar. The company employes more than 120 people and has annual sales of 1900 million.</p>\n<p>The core strength of the company lies in the following&nbsp;</p>\n<ul>\n<li>Extensive distribution network and presence in various retail channels.</li>\n<li>Wide range of products such as&nbsp;Whole Wheat Atta (Wheat Flour), Refined Flour (Maida), Tandori Atta and Semolina flour (Sooji),&nbsp;to address a large consumer base.</li>\n<li>Strong Client and supplier relationship.</li>\n<li>Quality Assurance and Quality Control of our products.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Baba Food Processing India Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "6980.33",
+          "6811.54",
+          "5467.80",
+          "4583.95"
+        ],
+        [
+          "Revenue",
+          "4138.75",
+          "18964.17",
+          "9756.30",
+          "10769.55"
+        ],
+        [
+          "Profit After Tax",
+          "192.29",
+          "503.44",
+          "201.26",
+          "198.14"
+        ],
+        [
+          "Net Worth",
+          "2692.36",
+          "2499.97",
+          "1996.53",
+          "1648.95"
+        ],
+        [
+          "Reserves and Surplus",
+          "1492.26",
+          "2019.97",
+          "1516.53",
+          "1168.95"
+        ],
+        [
+          "Total Borrowing",
+          "3250.94",
+          "3266.54",
+          "2766.60",
+          "2325.45"
+        ]
+      ]
+    },
+    {
+      "heading": "Baba Food Processing (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "baba_food_processing_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "20.14%"
+        ],
+        [
+          "ROCE",
+          "15.81%"
+        ],
+        [
+          "RoNW",
+          "20.14%"
+        ]
+      ]
+    },
+    {
+      "heading": "Baba Food Processing (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "baba_food_processing_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.20",
+          null
+        ],
+        [
+          "P/E (x)",
+          null,
+          "16.14"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "November 3, 2023 to November 7, 2023",
+    "ipoListingDate": "Wed, Nov 15, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹76.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "43,42,105 shares (aggregating up to ₹33.00 Cr)",
+    "freshIssue": "43,42,105 shares (aggregating up to ₹33.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,17,600 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Fri, Nov 3, 2023",
+    "ipoCloseDate": "Tue, Nov 7, 2023",
+    "initiationOfRefunds": "Mon, Nov 13, 2023",
+    "creditOfSharesToDemat": "Wed, Nov 15, 2023",
+    "shareHoldingPreIssue": "1,20,00,003 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,20,00,003 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.99"
+      }
+    ],
+    "shareHoldingPostIssue": "1,63,42,108 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,63,42,108 shares"
+      }
+    ]
+  },
+  "closing_date": "2023-11-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 915 519 2834",
+    "full_address": "Baba Food Processing India Limited, 6th Floor Home Decor Building, Opposite Durga Mandir Ratu Road, Ranchi G.P.O. Ranchi – 834 001",
+    "website": "https://www.babafood.in/"
+  },
+  "createdAt": "2025-04-18T17:40:42.341Z",
+  "faqs": [
+    {
+      "question": "What is the Baba Food Processing IPO?",
+      "answer": "<div itemprop=\"text\"><p>Baba Food Processing IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4342105<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->33.00<!-- --> Crores. The issue is priced at <span>₹76 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 3, 2023</b>, and <b>closes on <!-- -->November 7, 2023</b>.</p><p>Mas Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Baba Food Processing IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Baba Food Processing IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Baba Food Processing IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Baba Food Processing IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Baba Food Processing IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Baba Food Processing IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Baba Food Processing IPO opens on November 3, 2023 and closes on November 7, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Baba Food Processing IPO?",
+      "answer": "<div itemprop=\"text\"><p>Baba Food Processing IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,21,600</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Baba Food Processing IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Baba Food Processing IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Baba Food Processing IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Baba Food Processing IPO<!-- --> will be done on <!-- -->Friday, November 10, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, November 15, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/baba-food-processing-ipo/1561/\" title=\"Baba Food Processing IPO Allotment Status\">Baba Food Processing IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Baba Food Processing IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Baba Food Processing IPO<!-- --> listing date is on <b>Wednesday, November 15, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Baba Food Processing India",
+  "issue_price": "₹76.00",
+  "issue_price_numeric": 76,
+  "issue_size": "43,42,105 shares (aggregating up to ₹33.00 Cr)",
+  "issue_size_numeric": 43,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Horizon Management Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/406/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/406/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "76.00"
+      },
+      "open": {
+        "nse_sme": "76.00"
+      },
+      "low": {
+        "nse_sme": "72.20"
+      },
+      "high": {
+        "nse_sme": "76.00"
+      },
+      "last_trade": {
+        "nse_sme": "72.20"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "November 15 2023",
+    "nse_symbol": "BABAFP",
+    "isin": "INE0QW501012",
+    "final_issue_price": "76 per share"
+  },
+  "listing_date": "2023-11-14T18:30:00.000Z",
+  "listing_gains": "-5.00%",
+  "listing_gains_numeric": -5,
+  "logo": "https://www.chittorgarh.net/images/ipo/baba-foods-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/baba-foods-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "121600"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "121600"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "243200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/baba-food-processing-ipo/1561/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-11-02T18:30:00.000Z",
+  "pageHeading": "Baba Food Processing India Limited IPO (Baba Food Processing IPO) Detail",
+  "pageTitle": "Baba Food Processing IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoter of our Company is Yogesh Kumar Sahu",
+    "holdings": {
+      "share_holding_pre_issue": "99.99"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Baba Food Processing IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/BabaFood_DRHP.zip"
+    },
+    {
+      "text": "Baba Food Processing IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/BabaFood_RHP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/baba-food-processing-ipo/1561/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Mas Services Limited",
+    "phone": "(011) 2610 4142",
+    "email": "info@masserv.com",
+    "website": "https://www.masserv.com/opt.asp"
+  },
+  "reservation": {
+    "summary": "Baba Food Processing IPO offers 4326400 shares. 80000 (1.85%) to QIB 1193600 (27.59%) to NII 2835200 (65.53%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "217600 (5.03%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "80000 (1.85%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1193600 (27.59%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2835200 (65.53%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4326400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:42.341Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Baba Food Processing IPO is subscribed 69.44 times on November 7 2023 7:29:00 PM (Day 3). The public issue subscribed 60.82 times in the retail category 147.02 times in the QIB category and 84.73 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "147.02",
+        "shares_offered": "80000",
+        "shares_bid_for": "11761600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "84.73",
+        "shares_offered": "1193600",
+        "shares_bid_for": "101139200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "60.82",
+        "shares_offered": "2835200",
+        "shares_bid_for": "172424000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "69.44",
+        "shares_offered": "4108800",
+        "shares_bid_for": "285324800"
+      }
+    },
+    "total_applications": "107765",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 7 2023",
+    "tentative_allotment": "Fri Nov 10 2023",
+    "initiation_of_refunds": "Mon Nov 13 2023",
+    "credit_of_shares_to_demat": "Wed Nov 15 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:25.845Z",
+  "updated_at": "2025-04-18T17:40:42.341Z",
+  "year": 2023,
+  "worst_listing_gains": "-5.00%",
+  "worst_listing_gains_numeric": -5
+}

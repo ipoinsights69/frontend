@@ -1,0 +1,493 @@
+{
+  "_id": "68028ea03ccffd1c7912c98c",
+  "ipo_id": "2023_yatra_online_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:30:19.219Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/yatra-online-ipo/1507/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2005, Yatra Online Limited provides information, pricing, availability, and booking facilities for domestic and international customers.</p>\n<p>The company provides domestic and international air ticketing on Indian and international airlines, as well as bus ticketing, rail ticketing, cab bookings, and ancillary services within India, hotels, homestays, and other accommodations bookings, with about 105,600 hotels in 1,490 cities and towns in India, as on Fiscal 2023 and more than two million hotels globally through its website yatra.com, mobile applications, corporate SaaS platform, and other associated platforms.</p>\n<p>Yatra Online has over 94,000 hotels and homestays contracted in approximately 1,400 cities across India as well as more than 2 million hotels around the world. The company is India's largest platform for domestic hotels. Yatra Online recently launched a freight forwarding business called Yatra Freight to further expand its corporate service offerings.</p>\n<p>The company's clientele includes both B2B and B2C customers, this enables the company to target India's most frequent and high-spending travelers, namely, educated urban consumers. As of fiscal 2023, the company has over 813 corporate customers and over 49,800 registered SME customers and is the third largest consumer online travel company (OTC) in the country in terms of gross booking revenue as well as has the largest number of hotel and accommodation tie-ups amongst key domestic OTA players of over 2,105,600 tie-ups.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "562.91",
+          "547.78",
+          "681.25"
+        ],
+        [
+          "Revenue",
+          "143.62",
+          "218.81",
+          "397.47"
+        ],
+        [
+          "Profit After Tax",
+          "-118.86",
+          "-30.79",
+          "7.63"
+        ],
+        [
+          "Net Worth",
+          "123.49",
+          "100.93",
+          "169.52"
+        ],
+        [
+          "Reserves and Surplus",
+          null,
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "13.11",
+          "35.86",
+          "153.07"
+        ]
+      ]
+    },
+    {
+      "heading": "Yatra Online Limited Stock Quote & Charts",
+      "sanitizedHeading": "yatra_online_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "18.1%"
+        ],
+        [
+          "ROCE",
+          "26.0%"
+        ],
+        [
+          "Debt/Equity",
+          "0.90"
+        ],
+        [
+          "RoNW",
+          "4.50%"
+        ]
+      ]
+    },
+    {
+      "heading": "Yatra Online Limited Stock Quote & Charts",
+      "sanitizedHeading": "yatra_online_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "0.69",
+          null
+        ],
+        [
+          "P/E (x)",
+          "205.8",
+          "289.8"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Yatra Online IPO raises Rs 348.75 crore from anchor investors. Yatra Online IPO Anchor bid date is September 14 2023. Yatra Online IPO Anchor Investors list",
+    "list_link": {
+      "text": "Yatra Online IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/yatra-online-anchor-allocation-list.pdf"
+    },
+    "details": {
+      "ipo_date": "December 24 2023",
+      "shares_offered": "24559860",
+      "anchor_portion_size": "348.75"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 15, 2023 to September 20, 2023",
+    "ipoListingDate": "Thu, Sep 28, 2023",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹142.00",
+    "lotSize": "105 Shares",
+    "issueSize": "5,45,77,465 shares (aggregating up to ₹775.00 Cr)",
+    "freshIssue": "4,23,94,366 shares (aggregating up to ₹602.00 Cr)",
+    "offerForSale": "1,21,83,099 shares of ₹1 (aggregating up to ₹173.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Sep 15, 2023",
+    "ipoCloseDate": "Wed, Sep 20, 2023",
+    "initiationOfRefunds": "Tue, Sep 26, 2023",
+    "creditOfSharesToDemat": "Wed, Sep 27, 2023",
+    "shareHoldingPreIssue": "98.59%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "98.59%"
+      }
+    ],
+    "shareHoldingPostIssue": "15,42,88,496 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "15,42,88,496 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "64.46"
+      }
+    ]
+  },
+  "closing_date": "2023-09-19T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 44357700",
+    "email": "investors@yatra.com",
+    "full_address": "Yatra Online Limited, B2/101 Marathon Innova Marathon Nextgen, Complex B Wing G. Kadam Marg Opp. Peninsula, Corp Park Lower Parel (W) Mumbai – 400013",
+    "website": "https://www.yatra.com/"
+  },
+  "createdAt": "2025-04-18T17:40:47.973Z",
+  "faqs": [
+    {
+      "question": "What is the Yatra Online IPO?",
+      "answer": "<div itemprop=\"text\"><p>Yatra Online IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->54577465<!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->775.00<!-- --> Crores. The issue is priced at <span>₹142 per share</span>. The minimum order quantity is <!-- -->105<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 15, 2023</b>, and <b>closes on <!-- -->September 20, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Yatra Online IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Yatra Online IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Yatra Online IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Yatra Online IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Yatra Online IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Yatra Online IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Yatra Online IPO opens on September 15, 2023 and closes on September 20, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Yatra Online IPO?",
+      "answer": "<div itemprop=\"text\"><p>Yatra Online IPO<!-- --> <b>lot size is <!-- -->105</b>, and the <b>minimum amount required is <span>₹14,910</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Yatra Online IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Yatra Online IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Yatra Online IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Yatra Online IPO<!-- --> will be done on <!-- -->Monday, September 25, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, September 27, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/yatra-online-ipo/1507/\" title=\"Yatra Online IPO Allotment Status\">Yatra Online IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Yatra Online IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Yatra Online IPO<!-- --> listing date is on <b>Thursday, September 28, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Yatra Online",
+  "issue_price": "₹142.00",
+  "issue_price_numeric": 142,
+  "issue_size": "5,45,77,465 shares (aggregating up to ₹775.00 Cr)",
+  "issue_size_numeric": 5,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    },
+    {
+      "name": "Dam Capital Advisors Ltd",
+      "url": "/report/ipo-lead-manager-review/112/30/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/30/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "142.00",
+        "nse": "142.00"
+      },
+      "open": {
+        "bse": "130.00",
+        "nse": "127.50"
+      },
+      "low": {
+        "bse": "127.40",
+        "nse": "127.50"
+      },
+      "high": {
+        "bse": "138.50",
+        "nse": "138.55"
+      },
+      "last_trade": {
+        "bse": "135.95",
+        "nse": "135.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 28 2023",
+    "bse_script_code": "543992",
+    "nse_symbol": "YATRA",
+    "isin": "INE0JR601024",
+    "final_issue_price": "142 per share"
+  },
+  "listing_date": "2023-09-27T18:30:00.000Z",
+  "listing_gains": "-4.26%",
+  "listing_gains_numeric": -4.26,
+  "logo": "https://www.chittorgarh.net/images/ipo/yatra-online-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/yatra-online-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 105 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "105",
+        "amount": "14910"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1365",
+        "amount": "193830"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1470",
+        "amount": "208740"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "7035",
+        "amount": "998970"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "7140",
+        "amount": "1013880"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/yatra-online-ipo/1507/"
+    }
+  },
+  "lot_size": 105,
+  "opening_date": "2023-09-14T18:30:00.000Z",
+  "pageHeading": "Yatra Online Limited IPO (Yatra Online IPO) Detail",
+  "pageTitle": "Yatra Online IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "THCL Travel Holding Cyprus Limited and Asia Consolidated DMC Pte. Ltd. are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "98.59%",
+      "share_holding_post_issue": "64.46"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Yatra Online IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2022/yatra-online-limited_57218.html"
+    },
+    {
+      "text": "Yatra Online IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2023/yatra-online-limited-rhp_76734.html"
+    },
+    {
+      "text": "Anchor Investors in Yatra Online IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/yatra-online-anchor-allocation-list.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "2",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "10"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/yatra-online-ipo/1507/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "yatra.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Yatra Online IPO offers 54577464 shares. 16373239 (30.00%) to QIB 8186619 (15.00%) to NII 5457746 (10.00%) to RII 24559860 (45.00%) to Anchor investors. 51978 RIIs will receive minimum 105 shares and 1856 (sNII) and 3712 (bNII) will receive minimum 1470 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "24559860 (45.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "16373239 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "8186619 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "5457746 (10.00%)",
+        "maximum_allottees": "3712"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "2728873 (5.00%)",
+        "maximum_allottees": "1856"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "5457746 (10.00%)",
+        "maximum_allottees": "51978"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "54577464 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.973Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Yatra Online IPO is subscribed 1.66 times on September 20 2023 7:02:00 PM (Day 3). The public issue subscribed 2.19 times in the retail category 2.1 times in the QIB category and 0.43 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "2.1",
+        "shares_offered": "16373239",
+        "shares_bid_for": "34386765"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.43",
+        "shares_offered": "8186619",
+        "shares_bid_for": "3541545"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "0.51",
+        "shares_offered": "5457746",
+        "shares_bid_for": "2779140"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "0.28",
+        "shares_offered": "2728873",
+        "shares_bid_for": "762405"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.19",
+        "shares_offered": "5457746",
+        "shares_bid_for": "11964120"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.66",
+        "shares_offered": "30017604",
+        "shares_bid_for": "49892430"
+      }
+    },
+    "total_applications": "86841"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 20 2023",
+    "tentative_allotment": "Mon Sep 25 2023",
+    "initiation_of_refunds": "Tue Sep 26 2023",
+    "credit_of_shares_to_demat": "Wed Sep 27 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:54.883Z",
+  "updated_at": "2025-04-18T17:40:47.973Z",
+  "year": 2023,
+  "worst_listing_gains": "-4.26%",
+  "worst_listing_gains_numeric": -4.26
+}

@@ -1,0 +1,443 @@
+{
+  "_id": "68028e9f3ccffd1c7912c985",
+  "ipo_id": "2023_vinsys_it_services_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:31:44.052Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/vinsys-it-services-ipo/1465/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2008, Vinsys IT Services India Limited is engaged in offering services in IT skill development, tranings, and certification domain. The company is a part of Vinsys Group.</p>\n<p>As of now, the group comprises 8 entities operating in India, as well as having a marked global footprint in the USA and Middle Eastern Countries.</p>\n<p>Vinsys IT Services India Limited offers:</p>\n<ul>\n<li>Training and Certification</li>\n<li>IT Development Services</li>\n<li>Digital Learning</li>\n<li>Project Management</li>\n<li>Technology training</li>\n</ul>\n<p>Vinsys IT is an ISO 9001:2015 certified organization and is dedicated as an accredited training service provider to meet the growing demand for training and workforce development.</p>\n<p>The company specializes in corporate training and consulting across a broad range of domains. They are a trusted partner for entities like Skillsoft, CompTIA, Oracle, PECB, EC-Council, AWS, Microsoft, ;Hybris Software, Red Hat, CISCO, IBM, Autodesk, PMI, PRINCE2, ISACA, ITIL, PeopleCert, and Citrix.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-21",
+          "2739.97",
+          "2041.04",
+          "34.78",
+          "773.51",
+          "673.51",
+          "1427.08"
+        ],
+        [
+          "31-Mar-22",
+          "3493.16",
+          "3202.69",
+          "-51.61",
+          "716.07",
+          "616.07",
+          "2050.32"
+        ],
+        [
+          "31-Mar-23",
+          "7293.60",
+          "9632.25",
+          "1501.38",
+          "2472.51",
+          "1472.51",
+          "2310.80"
+        ]
+      ]
+    },
+    {
+      "heading": "Vinsys It Services India Limited Stock Quote & Charts",
+      "sanitizedHeading": "vinsys_it_services_india_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "94.17%"
+        ],
+        [
+          "ROCE",
+          "51.46%"
+        ],
+        [
+          "Debt/Equity",
+          "0.93"
+        ],
+        [
+          "RoNW",
+          "60.72%"
+        ]
+      ]
+    },
+    {
+      "heading": "Vinsys It Services India Limited Stock Quote & Charts",
+      "sanitizedHeading": "vinsys_it_services_india_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "15.01",
+          null
+        ],
+        [
+          "P/E (x)",
+          "12.51",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Vinsys IT Services IPO raises Rs 14.18 crore from anchor investors. Vinsys IT Services IPO Anchor bid date is July 31 2023. Vinsys IT Services IPO Anchor Investors list",
+    "list_link": {
+      "text": "Vinsys IT Services IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "November 7 2023",
+      "shares_offered": "1108000",
+      "anchor_portion_size": "14.18"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 1, 2023 to August 4, 2023",
+    "ipoListingDate": "Fri, Aug 11, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹128.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "38,94,000 shares (aggregating up to ₹49.84 Cr)",
+    "freshIssue": "38,94,000 shares (aggregating up to ₹49.84 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,95,000 shares",
+      "maker_name": "Sunflower Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/357/"
+    },
+    "ipoOpenDate": "Tue, Aug 1, 2023",
+    "ipoCloseDate": "Fri, Aug 4, 2023",
+    "initiationOfRefunds": "Thu, Aug 10, 2023",
+    "creditOfSharesToDemat": "Fri, Aug 11, 2023",
+    "shareHoldingPreIssue": "1,07,83,927 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,07,83,927 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "92.74%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,46,77,927 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,46,77,927 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "68.13%"
+      }
+    ]
+  },
+  "closing_date": "2023-08-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 2025382807/43",
+    "email": "compliance@vinsys.com",
+    "full_address": "Vinsys IT Services Limited, S. No. 28/11- 12 Shivaji Niketan C.T.S. No. 458A, Tejas Housing Society, Kothrud Pune - 411038",
+    "website": "https://www.vinsys.com/"
+  },
+  "createdAt": "2025-04-18T17:40:47.760Z",
+  "faqs": [
+    {
+      "question": "What is the Vinsys IT Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vinsys IT Services IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3894000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->49.84<!-- --> Crores. The issue is priced at <span>₹128 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 1, 2023</b>, and <b>closes on <!-- -->August 4, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Vinsys IT Services IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Vinsys IT Services IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Vinsys IT Services IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Vinsys IT Services IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Vinsys IT Services IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Vinsys IT Services IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Vinsys IT Services IPO opens on August 1, 2023 and closes on August 4, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Vinsys IT Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vinsys IT Services IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,28,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Vinsys IT Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Vinsys IT Services IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Vinsys IT Services IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Vinsys IT Services IPO<!-- --> will be done on <!-- -->Wednesday, August 9, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, August 11, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/vinsys-it-services-ipo/1465/\" title=\"Vinsys IT Services IPO Allotment Status\">Vinsys IT Services IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Vinsys IT Services IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Vinsys IT Services IPO<!-- --> listing date is on <b>Friday, August 11, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Vinsys IT Services",
+  "issue_price": "₹128.00",
+  "issue_price_numeric": 128,
+  "issue_size": "38,94,000 shares (aggregating up to ₹49.84 Cr)",
+  "issue_size_numeric": 38,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "128.00"
+      },
+      "open": {
+        "nse_sme": "207.25"
+      },
+      "low": {
+        "nse_sme": "200.10"
+      },
+      "high": {
+        "nse_sme": "217.60"
+      },
+      "last_trade": {
+        "nse_sme": "217.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "August 11 2023",
+    "nse_symbol": "VINSYS",
+    "isin": "INE0OSJ01014",
+    "final_issue_price": "128 per share"
+  },
+  "listing_date": "2023-08-10T18:30:00.000Z",
+  "listing_gains": "70.00%",
+  "listing_gains_numeric": 70,
+  "logo": "https://www.chittorgarh.net/images/ipo/vinsys-it-services-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/vinsys-it-services-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "128000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "128000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "256000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/vinsys-it-services-ipo/1465/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-07-31T18:30:00.000Z",
+  "pageHeading": "Vinsys IT Services Limited IPO (Vinsys IT Services IPO) Detail",
+  "pageTitle": "Vinsys IT Services IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Vikrant Shivajirao Patil and Mrs. Vinaya Vikrant Patil are the Promoters of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "92.74%",
+      "share_holding_post_issue": "68.13%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Vinsys IT Services IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/VinsysIT_DRHP.zip"
+    },
+    {
+      "text": "Vinsys IT Services IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/VinsysIT_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Vinsys IT Services IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/vinsys-it-services-ipo/1465/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "vinsys.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Vinsys IT Services IPO offers 3894000 shares. 740000 (19.00%) to QIB 556000 (14.28%) to NII 1295000 (33.26%) to RII 1108000 (28.45%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1108000 (28.45%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "195000 (5.01%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "740000 (19.00%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "556000 (14.28%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1295000 (33.26%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3894000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.760Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Vinsys IT Services IPO is subscribed 89 times on August 4 2023 7:29:00 PM (Day 4). The public issue subscribed 111.56 times in the retail category 36.95 times in the QIB category and 105.75 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "36.95",
+        "shares_offered": "740000",
+        "shares_bid_for": "27342000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "105.75",
+        "shares_offered": "556000",
+        "shares_bid_for": "58798000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "111.56",
+        "shares_offered": "1295000",
+        "shares_bid_for": "144469000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "89",
+        "shares_offered": "2591000",
+        "shares_bid_for": "230609000"
+      }
+    },
+    "total_applications": "144469",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 4 2023",
+    "tentative_allotment": "Wed Aug 9 2023",
+    "initiation_of_refunds": "Thu Aug 10 2023",
+    "credit_of_shares_to_demat": "Fri Aug 11 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:54.030Z",
+  "updated_at": "2025-04-18T17:40:47.760Z",
+  "year": 2023,
+  "worst_listing_gains": "70.00%",
+  "worst_listing_gains_numeric": 70
+}

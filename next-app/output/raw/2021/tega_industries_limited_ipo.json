@@ -1,0 +1,399 @@
+{
+  "_id": "6802918d3ccffd1c7912ca2e",
+  "ipo_id": "2021_tega_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:45:16.801Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/tega-industries-ipo/1185/"
+  },
+  "about": {
+    "details": "<p>Established in 1976, Tega Industries is a leading manufacturer and distributor of specialized, critical, and recurring consumable products for the global mineral beneficiation, mining, and bulk solids handling industry. Globally, Tega industries are the second largest producers of polymer-based mill liners, based on revenues for the year 2020.</p>\n<p>The company offers a wide product portfolio of specialized abrasion and wear-resistant rubber, polyurethane, steel, and ceramic-based lining components used by their customers across different stages of mining and mineral processing, screening, grinding, and material handling. The company's product portfolio comprises more than 55 mineral processing and material handling products.</p>\n<p>The company has 6 manufacturing sites, including 3 in India, at Dahej in Gujarat, and at Samali and Kalyani in West Bengal, and 3 sites in major mining hubs of Chile, South Africa, and Australia, with a total built-up area of 74255 Sq. mts. In the last three Fiscals, the company has a presence in 513, 498, and 479 installation sites in over 70 countries. Majority of the company's revenue (86.42% in 2021) comes from operations outside India. The company has 18 global and 14 domestic sales offices located close to its key customers and mining sites. Tega Industries are further expanding their operations in major markets including North America, South America, Australia, and South Africa.</p>\n<p><strong>Competitive strengths</strong>:</p>\n<ul>\n<li>One of the world's largest producers of polymer-based mill liners</li>\n<li>Products cater to after-market spends providing recurring revenues</li>\n<li>In-house R&amp;D and manufacturing capabilities and a strong focus on quality control</li>\n<li>Global customer base, and strong global manufacturing and sales capabilities</li>\n<li>Consistent market growth and operational efficiency</li>\n<li>Experienced management team supported by a large, and diversified workforce</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Jun-21",
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "10561.72",
+          "10183.39",
+          "8873.15",
+          "7902.68"
+        ],
+        [
+          "Total Revenue",
+          "1793.86",
+          "8566.84",
+          "6955.42",
+          "6430.13"
+        ],
+        [
+          "Profit After Tax",
+          "118.82",
+          "1364.05",
+          "655.04",
+          "326.70"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 1, 2021 to December 3, 2021",
+    "ipoListingDate": "Mon, Dec 13, 2021",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹453.00",
+    "lotSize": "33 Shares",
+    "issueSize": "1,36,69,478 shares (aggregating up to ₹619.23 Cr)",
+    "offerForSale": "1,36,69,478 shares of ₹10 (aggregating up to ₹619.23 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Dec 1, 2021",
+    "ipoCloseDate": "Fri, Dec 3, 2021",
+    "initiationOfRefunds": "Thu, Dec 9, 2021",
+    "creditOfSharesToDemat": "Fri, Dec 10, 2021",
+    "shareHoldingPreIssue": "6,62,93,149 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "6,62,93,149 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "85.17%"
+      }
+    ],
+    "shareHoldingPostIssue": "6,62,93,149 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "6,62,93,149 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "79.17%"
+      }
+    ]
+  },
+  "closing_date": "2021-12-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 33 3001 9000",
+    "email": "compliance.officer@tegaindustries.com",
+    "full_address": "Tega Industries Limited, 147 Block-G New Alipore, Kolkata 700 053, West Bengal India",
+    "website": "https://www.tegaindustries.com/"
+  },
+  "createdAt": "2025-04-18T17:53:17.022Z",
+  "faqs": [
+    {
+      "question": "What is the Tega Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Tega Industries IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->13669478<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->619.23<!-- --> Crores. The issue is priced at <span>₹453 per share</span>. The minimum order quantity is <!-- -->33<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 1, 2021</b>, and <b>closes on <!-- -->December 3, 2021</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Tega Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Tega Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Tega Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Tega Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Tega Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Tega Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Tega Industries IPO opens on December 1, 2021 and closes on December 3, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Tega Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Tega Industries IPO<!-- --> <b>lot size is <!-- -->33</b>, and the <b>minimum amount required is <span>₹14,949</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Tega Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Tega Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Tega Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Tega Industries IPO<!-- --> will be done on <!-- -->Wednesday, December 8, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, December 10, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/tega-industries-ipo/1185/\" title=\"Tega Industries IPO Allotment Status\">Tega Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Tega Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Tega Industries IPO<!-- --> listing date is on <b>Monday, December 13, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Tega Industries",
+  "issue_price": "₹453.00",
+  "issue_price_numeric": 453,
+  "issue_size": "1,36,69,478 shares (aggregating up to ₹619.23 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "453.00",
+        "nse": "453.00"
+      },
+      "open": {
+        "bse": "753.00",
+        "nse": "760.00"
+      },
+      "low": {
+        "bse": "711.50",
+        "nse": "712.25"
+      },
+      "high": {
+        "bse": "767.10",
+        "nse": "767.70"
+      },
+      "last_trade": {
+        "bse": "725.50",
+        "nse": "726.05"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 13 2021",
+    "bse_script_code": "543413",
+    "nse_symbol": "TEGA",
+    "isin": "INE011K01018",
+    "final_issue_price": "453 per share"
+  },
+  "listing_date": "2021-12-12T18:30:00.000Z",
+  "listing_gains": "60.15%",
+  "listing_gains_numeric": 60.15,
+  "logo": "https://www.chittorgarh.net/images/ipo/tega-industries-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/tega-industries-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 33 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "33",
+        "amount": "14949"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "429",
+        "amount": "194337"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "462",
+        "amount": "209286"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "2178",
+        "amount": "986634"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "2211",
+        "amount": "1001583"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/tega-industries-ipo/1185/"
+    }
+  },
+  "lot_size": 33,
+  "opening_date": "2021-11-30T18:30:00.000Z",
+  "pageHeading": "Tega Industries Limited IPO (Tega Industries IPO) Detail",
+  "pageTitle": "Tega Industries IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Madan Mohan Mohanka Manju Mohanka Manish Mohanka Mehul Mohanka and Nihal Fiscal Services Private Limited are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "85.17%",
+      "share_holding_post_issue": "79.17%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Tega Industries IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/tega-industries-limited-drhp_51954.html"
+    },
+    {
+      "text": "Tega Industries IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/tega-industries-limited_54488.html"
+    },
+    {
+      "text": "Anchor Investors in Tega Industries IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20211130-58&attachedId=3094b9ba-92f7-4690-90c8-707ff8eb9729"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "11",
+        "neutral": "5",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/tega-industries-ipo/1185/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "tega.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Tega Industries IPO offers 9568636 shares. 2733896 (28.57%) to QIB 2050422 (21.43%) to NII 4784318 (50.00%) to RII. 144979 RIIs will receive minimum 33 shares and (sNII) and (bNII) will receive minimum 462 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2733896 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2050422 (21.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4784318 (50.00%)",
+        "maximum_allottees": "144979"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "9568636 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:17.022Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Tega Industries IPO is subscribed 219.04 times on December 3 2021 5:00:00 PM (Day 3). The public issue subscribed 29.44 times in the retail category 215.45 times in the QIB category and 666.19 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "215.45",
+        "shares_offered": "2733896",
+        "shares_bid_for": "589017198"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "666.19",
+        "shares_offered": "2050422",
+        "shares_bid_for": "1365978966"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "29.44",
+        "shares_offered": "4784318",
+        "shares_bid_for": "140873436"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "219.04",
+        "shares_offered": "9568636",
+        "shares_bid_for": "2095869600"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 3 2021",
+    "tentative_allotment": "Wed Dec 8 2021",
+    "initiation_of_refunds": "Thu Dec 9 2021",
+    "credit_of_shares_to_demat": "Fri Dec 10 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:18.608Z",
+  "updated_at": "2025-04-18T17:53:17.022Z",
+  "year": 2021,
+  "worst_listing_gains": "60.15%",
+  "worst_listing_gains_numeric": 60.15
+}

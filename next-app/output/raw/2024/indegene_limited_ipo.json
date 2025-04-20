@@ -1,0 +1,525 @@
+{
+  "_id": "680249fd3ccffd1c7912c772",
+  "ipo_id": "2024_indegene_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": true,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:31:44.851Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/indegene-ipo/1713/"
+  },
+  "about": {
+    "details": "<p>Founded in 1998, Indegene Limited provides digital services for the life sciences industry. They assist with drug development, clinical trials, regulatory submissions, pharmacovigilance, complaints management, and sales/marketing support.</p>\n<p>The company's services can be divided into following categories</p>\n<ol>\n<li>Enterprise Commercial Solutions</li>\n<li>Omnichannel Activation</li>\n<li>Enterprise Medical Solutions</li>\n<li>Enterprise Clinical Solutions and consultancy services</li>\n</ol>\n<p>The subsidiary of the company, DT Associates Limited, provides consulting services under the \"DT Consulting\" brand. It helps life sciences companies manage their digital transformation efforts to ensure continued success in customer experience.</p>\n<p>The company received the Platinum Level award at the 2023 Healthy Workplace Conference and Awards, a recognition given by Arogya World India Trust in partnership with the Public Health Foundation of India.</p>\n<p>As of December 31, 2023, the company had 65 clients actively engaged with its services.</p>\n<p>As of December 31, 2023, the company employed 5,181 people worldwide. Of these, 4,461 are based in India, 530 work in North America, 105 in Europe, 73 in China, and 12 in other regions.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Indegene Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2518.15",
+          "2203.87",
+          "1353.47",
+          "596.04"
+        ],
+        [
+          "Revenue",
+          "1969.75",
+          "2364.10",
+          "1690.50",
+          "996.92"
+        ],
+        [
+          "Profit After Tax",
+          "241.90",
+          "266.10",
+          "162.82",
+          "149.41"
+        ],
+        [
+          "Net Worth",
+          "1327.00",
+          "1063.72",
+          "763.90",
+          "324.51"
+        ],
+        [
+          "Reserves and Surplus",
+          "1282.65",
+          "1019.43",
+          "763.55",
+          "324.19"
+        ],
+        [
+          "Total Borrowing",
+          "399.33",
+          "394.34",
+          "18.24",
+          "24.76"
+        ]
+      ]
+    },
+    {
+      "heading": "Indegene Ltd Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "Debt/Equity",
+          "0.30"
+        ],
+        [
+          "RoNW",
+          "18.23%"
+        ],
+        [
+          "PAT Margin",
+          "12.62"
+        ],
+        [
+          "Price to Book Value",
+          "7.55"
+        ]
+      ]
+    },
+    {
+      "heading": "Indegene Ltd Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "11.96",
+          "13.48"
+        ],
+        [
+          "P/E (x)",
+          "37.78",
+          "33.53"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Indegene IPO raises Rs 548.78 crore from anchor investors. Indegene IPO Anchor bid date is May 3 2024. Indegene IPO Anchor Investors list",
+    "list_link": {
+      "text": "Indegene IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/indegene_anchor_intimation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "August 7 2024",
+      "shares_offered": "12141102",
+      "anchor_portion_size": "548.78"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "May 6, 2024 to May 8, 2024",
+    "ipoListingDate": "Mon, May 13, 2024",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹452.00",
+    "lotSize": "33 Shares",
+    "issueSize": "4,07,46,891 shares (aggregating up to ₹1,841.76 Cr)",
+    "freshIssue": "1,68,14,159 shares (aggregating up to ₹760.00 Cr)",
+    "offerForSale": "2,39,32,732 shares of ₹2 (aggregating up to ₹1,081.76 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, May 6, 2024",
+    "ipoCloseDate": "Wed, May 8, 2024",
+    "initiationOfRefunds": "Fri, May 10, 2024",
+    "creditOfSharesToDemat": "Fri, May 10, 2024",
+    "shareHoldingPreIssue": "22,24,35,091 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "22,24,35,091 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "30.71%"
+      }
+    ],
+    "shareHoldingPostIssue": "23,92,49,250 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "23,92,49,250 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-05-07T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 80 4674 4567",
+    "email": "compliance.officer@indegene.com",
+    "full_address": "Indegene Limited, Aspen Block G4 3 rd Floor Manyata Embassy, Business Park Outer Ring Road Nagawara, Bengaluru 560 045",
+    "website": "https://www.indegene.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.427Z",
+  "faqs": [
+    {
+      "question": "What is the Indegene IPO?",
+      "answer": "<div itemprop=\"text\"><p>Indegene IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->40746891<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->1,841.76<!-- --> Crores. The issue is priced at <span>₹452 per share</span>. The minimum order quantity is <!-- -->33<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 6, 2024</b>, and <b>closes on <!-- -->May 8, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Indegene IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Indegene IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Indegene IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Indegene IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Indegene IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Indegene IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Indegene IPO opens on May 6, 2024 and closes on May 8, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Indegene IPO?",
+      "answer": "<div itemprop=\"text\"><p>Indegene IPO<!-- --> <b>lot size is <!-- -->33</b>, and the <b>minimum amount required is <span>₹14,916</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Indegene IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Indegene IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Indegene IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Indegene IPO<!-- --> will be done on <!-- -->Thursday, May 9, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, May 10, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/indegene-ipo/1713/\" title=\"Indegene IPO Allotment Status\">Indegene IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Indegene IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Indegene IPO<!-- --> listing date is on <b>Monday, May 13, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Indegene",
+  "issue_price": "₹452.00",
+  "issue_price_numeric": 452,
+  "issue_size": "4,07,46,891 shares (aggregating up to ₹1,841.76 Cr)",
+  "issue_size_numeric": 4,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "J.P. Morgan India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/19/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/19/"
+    },
+    {
+      "name": "Nomura Financial Advisory And Securities",
+      "url": "/report/ipo-lead-manager-review/112/72/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/72/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "452.00",
+        "nse": "452.00"
+      },
+      "open": {
+        "bse": "659.70",
+        "nse": "655.00"
+      },
+      "low": {
+        "bse": "527.80",
+        "nse": "527.10"
+      },
+      "high": {
+        "bse": "659.70",
+        "nse": "660.00"
+      },
+      "last_trade": {
+        "bse": "570.65",
+        "nse": "570.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 13 2024",
+    "bse_script_code": "544172",
+    "nse_symbol": "INDGN",
+    "isin": "INE065X01017",
+    "final_issue_price": "452 per share"
+  },
+  "listing_date": "2024-05-12T18:30:00.000Z",
+  "listing_gains": "26.25%",
+  "listing_gains_numeric": 26.25,
+  "logo": "https://www.chittorgarh.net/images/ipo/indegene-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/indegene-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 33 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "33",
+        "amount": "14916"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "429",
+        "amount": "193908"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "462",
+        "amount": "208824"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2211",
+        "amount": "999372"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2244",
+        "amount": "1014288"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/indegene-ipo/1713/"
+    }
+  },
+  "lot_size": 33,
+  "opening_date": "2024-05-05T18:30:00.000Z",
+  "pageHeading": "Indegene Limited IPO (Indegene IPO) Detail",
+  "pageTitle": "Indegene IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": ">BCP Topco VII Pte. Ltd. is the promoter of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "30.71%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Indegene IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/indegene-limited-drhp_66254.html"
+    },
+    {
+      "text": "Indegene IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2024/indegene-limited-rhp_83139.html"
+    },
+    {
+      "text": "Anchor Investors in Indegene IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/indegene_anchor_intimation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "9",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/indegene-ipo/1713/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "indegene.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Indegene IPO offers 40766552 shares. 8094069 (19.85%) to QIB 6070552 (14.89%) to NII 14164620 (34.75%) to RII 296209 (0.73%) to employees and 12141102 (29.78%) to Anchor investors. 429230 RIIs will receive minimum 33 shares and 4379 (sNII) and 8759 (bNII) will receive minimum 462 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "12141102 (29.78%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "8094069 (19.85%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "6070552 (14.89%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "4047034 (9.93%)",
+        "maximum_allottees": "8759"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "2023518 (4.96%)",
+        "maximum_allottees": "4379"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "14164620 (34.75%)",
+        "maximum_allottees": "429230"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "296209 (0.73%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "40766552 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.426Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Indegene IPO is subscribed 70.3 times on May 8 2024 6:19:05 PM (Day 3). The public issue subscribed 7.86 times in the retail category 192.72 times in the QIB category and 55.91 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "192.72",
+        "shares_offered": "8094069",
+        "shares_bid_for": "1559865945"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "55.91",
+        "shares_offered": "6070552",
+        "shares_bid_for": "339399126"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "62.23",
+        "shares_offered": "4047034",
+        "shares_bid_for": "251864613"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "43.26",
+        "shares_offered": "2023518",
+        "shares_bid_for": "87534513"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "7.86",
+        "shares_offered": "14164620",
+        "shares_bid_for": "111271347"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "6.62",
+        "shares_offered": "296209",
+        "shares_bid_for": "1962114"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "70.3",
+        "shares_offered": "28625450",
+        "shares_bid_for": "2012498532"
+      }
+    },
+    "total_applications": "2793616"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 8 2024",
+    "tentative_allotment": "Thu May 9 2024",
+    "initiation_of_refunds": "Fri May 10 2024",
+    "credit_of_shares_to_demat": "Fri May 10 2024"
+  },
+  "timeline": {
+    "summary": "Indegene IPO opens on May 6 2024 and closes on May 8 2024.",
+    "schedule": {
+      "ipo_date": "5 PM on May 8 2024",
+      "tentative_allotment": "Thu May 9 2024",
+      "initiation_of_refunds": "Fri May 10 2024",
+      "credit_of_shares_to_demat": "Fri May 10 2024"
+    }
+  },
+  "updatedAt": "2025-04-19T04:43:51.832Z",
+  "updated_at": "2025-04-18T12:47:57.426Z",
+  "year": 2024,
+  "worst_listing_gains": "26.25%",
+  "worst_listing_gains_numeric": 26.25,
+  "last_performance_update": "2025-04-19T04:43:51.832Z"
+}

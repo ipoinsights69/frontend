@@ -1,0 +1,464 @@
+{
+  "_id": "680293693ccffd1c7912ca72",
+  "ipo_id": "2022_global_health_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:55:44.768Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/global-health-ipo/1330/"
+  },
+  "about": {
+    "details": "<p>Global Health Limited is <strong>one of the largest private multi-speciality tertiary care providers operating in the North and East regions of India</strong>. The company has key specialities in cardiology and cardiac science, neurosciences, oncology, digestive and hepatobiliary sciences, orthopaedics, liver transplant, and kidney and urology.</p>\n<p>Global Health Limited have a network of four hospitals currently in operation (Gurugram, Indore, Ranchi and Lucknow) under the \"<strong>Medanta</strong>\" brand. The company established \"The Medanta Institutional Tissue Repository\" in 2017 to promote biomarker and other tissue-based research.</p>\n<p>In Fiscals 2020, 2021 and 2022 and the three months ended June 30, 2021 and 2022, the company generated income from healthcare services of Rs. 14,805.71 million, Rs. 14,178.41 million, Rs. 21,003.95 million, Rs. 4,732.10 million and Rs. 5,960.89 226 million, respectively, and had EBITDA of Rs. 2,304.54 million, Rs. 2,228.52 million, Rs. 4,897.57 million, Rs. 1,057.69 million and Rs. 1,416.46 million, respectively.</p>\n<p>As of June 30, 2022, the company provide healthcare services in over 30 medical specialities and engage over 1,300 doctors led by experienced department heads, spanning an area of 4.7 million sq. ft., the operational hospitals have 2,467 installed beds. </p>\n<p>Global Health Limited's hospital at Gurugram was ranked as the best private hospital in India for three consecutive years in 2020, 2021 and 2022, and was the only Indian private hospital to be featured in the list of top 200 global hospitals in 2021 and was featured in the list of top 250 global hospitals in 2022 by Newsweek</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>Leading tertiary and quaternary care provider in India, well recognised for clinical expertise in particular in dealing with complicated cases.</li>\n<li>Focus on Clinical Research and Academics.</li>\n<li>Large-scale hospitals with world-class infrastructure, high-end medical equipment, and technology.</li>\n<li>Track record of strong operational and financial performance.</li>\n<li>Focus on under-served areas with dense population and presence in top or capital cities of large states (NCR, Lucknow and Patna).</li>\n<li>Growth opportunities in existing facilities and diversification into new services, including digital health.</li>\n<li>Experienced senior management team with strong institutional shareholder support.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "2666.29",
+          "1544.27",
+          "36.33",
+          "1349.54",
+          "621.94"
+        ],
+        [
+          "30-Jun-20",
+          "2855.11",
+          "491.58",
+          "41.76",
+          "1425.38",
+          "725.07"
+        ],
+        [
+          "31-Mar-21",
+          "2694.1",
+          "1478.16",
+          "28.8",
+          "1382.34",
+          "644.6"
+        ],
+        [
+          "31-Mar-22",
+          "3145.52",
+          "2205.82",
+          "196.2",
+          "1616.01",
+          "837.86"
+        ],
+        [
+          "30-Jun-22",
+          "3221.94",
+          "626.54",
+          "58.71",
+          "1675.55",
+          "794.45"
+        ]
+      ]
+    },
+    {
+      "heading": "Global Health Limited Stock Quote & Charts",
+      "sanitizedHeading": "global_health_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "38.36",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "November 3, 2022 to November 7, 2022",
+    "ipoListingDate": "Wed, Nov 16, 2022",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹336.00",
+    "lotSize": "44 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹2,205.57 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹500.00 Cr)",
+    "offerForSale": "5,07,61,000 shares of ₹2 (aggregating up to ₹1,705.57 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Nov 3, 2022",
+    "ipoCloseDate": "Mon, Nov 7, 2022",
+    "initiationOfRefunds": "Mon, Nov 14, 2022",
+    "creditOfSharesToDemat": "Tue, Nov 15, 2022",
+    "shareHoldingPreIssue": "25,33,03,930 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "25,33,03,930 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "35%"
+      }
+    ],
+    "shareHoldingPostIssue": "26,81,84,882 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "26,81,84,882 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "33%"
+      }
+    ]
+  },
+  "closing_date": "2022-11-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 124 483 4060",
+    "email": "compliance@medanta.org",
+    "full_address": "Global Health Limited, Medanta – Mediclinic, E-18 Defence Colony, New Delhi Delhi 110 024",
+    "website": "https://www.medanta.org/"
+  },
+  "createdAt": "2025-04-18T18:01:13.261Z",
+  "faqs": [
+    {
+      "question": "What is the Global Health IPO?",
+      "answer": "<div itemprop=\"text\"><p>Global Health IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->2,205.57<!-- --> Crores. The issue is priced at <span>₹336 per share</span>. The minimum order quantity is <!-- -->44<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 3, 2022</b>, and <b>closes on <!-- -->November 7, 2022</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Global Health IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Global Health IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Global Health IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Global Health IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Global Health IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Global Health IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Global Health IPO opens on November 3, 2022 and closes on November 7, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Global Health IPO?",
+      "answer": "<div itemprop=\"text\"><p>Global Health IPO<!-- --> <b>lot size is <!-- -->44</b>, and the <b>minimum amount required is <span>₹14,784</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Global Health IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Global Health IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Global Health IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Global Health IPO<!-- --> will be done on <!-- -->Friday, November 11, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, November 15, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/global-health-ipo/1330/\" title=\"Global Health IPO Allotment Status\">Global Health IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Global Health IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Global Health IPO<!-- --> listing date is on <b>Wednesday, November 16, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Global Health",
+  "issue_price": "₹336.00",
+  "issue_price_numeric": 336,
+  "issue_size": "[.] shares (aggregating up to ₹2,205.57 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Credit Suisse Securities",
+      "url": "/report/ipo-lead-manager-review/112/111/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/111/"
+    },
+    {
+      "name": "Jefferies India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/112/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/112/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "336.00",
+        "nse": "336.00"
+      },
+      "open": {
+        "bse": "398.15",
+        "nse": "401.00"
+      },
+      "low": {
+        "bse": "391.05",
+        "nse": "390.55"
+      },
+      "high": {
+        "bse": "424.90",
+        "nse": "424.65"
+      },
+      "last_trade": {
+        "bse": "415.65",
+        "nse": "415.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 16 2022",
+    "bse_script_code": "543654",
+    "nse_symbol": "MEDANTA",
+    "isin": "INE474Q01031",
+    "final_issue_price": "336 per share"
+  },
+  "listing_date": "2022-11-15T18:30:00.000Z",
+  "listing_gains": "23.71%",
+  "listing_gains_numeric": 23.71,
+  "logo": "https://www.chittorgarh.net/images/ipo/global-health-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/global-health-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 44 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "44",
+        "amount": "14784"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "572",
+        "amount": "192192"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "616",
+        "amount": "206976"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2948",
+        "amount": "990528"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2992",
+        "amount": "1005312"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/global-health-ipo/1330/"
+    }
+  },
+  "lot_size": 44,
+  "opening_date": "2022-11-02T18:30:00.000Z",
+  "pageHeading": "Global Health Limited IPO (Global Health IPO) Detail",
+  "pageTitle": "Global Health IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Dr. Naresh Trehan is the company promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "35%",
+      "share_holding_post_issue": "33%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Global Health IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2021/global-health-limited_53030.html"
+    },
+    {
+      "text": "Global Health IPO RHP",
+      "url": "https://nsearchives.nseindia.com/corporate/FP_INE474Q01031_10NOV2022.pdf"
+    },
+    {
+      "text": "Anchor Investors in Global Health IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20221102-36&attachedId=ee72a20d-bc76-4265-b3f9-bc7bcf34a07a"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "9",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "7",
+        "neutral": "3",
+        "avoid": "3"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/global-health-ipo/1330/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "globalhealth.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Global Health IPO offers 46742397 shares. 13524905 (28.93%) to QIB 9965248 (21.32%) to NII 23252244 (49.75%) to RII. 528460 RIIs will receive minimum 44 shares and 5392 (sNII) and 10784 (bNII) will receive minimum 616 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "13524905 (28.93%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "9965248 (21.32%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "6643498 (14.21%)",
+        "maximum_allottees": "10784"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "3321750 (7.11%)",
+        "maximum_allottees": "5392"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "23252244 (49.75%)",
+        "maximum_allottees": "528460"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "46742397 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:13.261Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Global Health IPO is subscribed 9.58 times on November 7 2022 7:00:00 PM (Day 3). The public issue subscribed 0.88 times in the retail category 28.64 times in the QIB category and 4.02 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "28.64",
+        "shares_offered": "13524905",
+        "shares_bid_for": "387358840"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "4.02",
+        "shares_offered": "9965248",
+        "shares_bid_for": "40055620"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "5.16",
+        "shares_offered": "6643498",
+        "shares_bid_for": "34297032"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "1.73",
+        "shares_offered": "3321750",
+        "shares_bid_for": "5758588"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.88",
+        "shares_offered": "23252244",
+        "shares_bid_for": "20571188"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "9.58",
+        "shares_offered": "46742397",
+        "shares_bid_for": "447985648"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 7 2022",
+    "tentative_allotment": "Fri Nov 11 2022",
+    "initiation_of_refunds": "Mon Nov 14 2022",
+    "credit_of_shares_to_demat": "Tue Nov 15 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:27.257Z",
+  "updated_at": "2025-04-18T18:01:13.261Z",
+  "year": 2022,
+  "worst_listing_gains": "23.71%",
+  "worst_listing_gains_numeric": 23.71
+}

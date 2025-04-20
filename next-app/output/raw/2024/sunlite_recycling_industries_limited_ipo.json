@@ -1,0 +1,464 @@
+{
+  "_id": "68024a023ccffd1c7912c807",
+  "ipo_id": "2024_sunlite_recycling_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:24:50.871Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sunlite-recycling-industries-ipo/1805/"
+  },
+  "about": {
+    "details": "<p>Sunlite Recycling Industries Limited was established in 2012 and manufactures copper rods and wires, copper earthing wires, copper earthing strips, copper conductors, copper wire rods etc. by recycling copper scrap for power generation, transmission, distribution and electronics industries.</p>\n<p>The company's product portfolio offers a diversified product range that includes a variety of grades, thicknesses, widths and standards in all types of copper products according to customer specifications.</p>\n<p>Sunlite Recycling Industries currently has a registered office and manufacturing facility in Kheda, Gujarat, with a total area of approximately 12,152 square metres and over 20 machines for manufacturing a wide range of copper products.</p>\n<p>The company recorded a total revenue from operations of Rs. 85,168.31 lacs and employed 38 people as on March 31, 2024.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Sunlite Recycling Industries Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "6321.24",
+          "7162.56",
+          "4802.05",
+          "3743.20"
+        ],
+        [
+          "Revenue",
+          "116655.09",
+          "115039.91",
+          "93791.80",
+          "39400.84"
+        ],
+        [
+          "Profit After Tax",
+          "890.36",
+          "560.27",
+          "426.03",
+          "252.55"
+        ],
+        [
+          "Net Worth",
+          "2003.90",
+          "362.08",
+          "1158.58",
+          "622.18"
+        ],
+        [
+          "Reserves and Surplus",
+          "1203.90",
+          "312.08",
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "3491.74",
+          "4646.82",
+          "2532.38",
+          "1711.39"
+        ]
+      ]
+    },
+    {
+      "heading": "Sunlite Recycling Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "sunlite_recycling_industries_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "75.26%"
+        ],
+        [
+          "ROCE",
+          "29.49%"
+        ],
+        [
+          "Debt/Equity",
+          "1.74"
+        ],
+        [
+          "RoNW",
+          "44.43%"
+        ],
+        [
+          "PAT Margin",
+          "0.76"
+        ],
+        [
+          "Price to Book Value",
+          "2.41"
+        ]
+      ]
+    },
+    {
+      "heading": "Sunlite Recycling Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "sunlite_recycling_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "11.13",
+          "8.18"
+        ],
+        [
+          "P/E (x)",
+          "9.43",
+          "12.83"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Sunlite Recycling Industries IPO raises Rs 8.59 crore from anchor investors. Sunlite Recycling Industries IPO Anchor bid date is August 9 2024. Sunlite Recycling Industries IPO Anchor Investors list",
+    "list_link": {
+      "text": "Sunlite Recycling Industries IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sunlite_recycling_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "November 14 2024",
+      "shares_offered": "818400",
+      "anchor_portion_size": "8.59"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 12, 2024 to August 14, 2024",
+    "ipoListingDate": "Tue, Aug 20, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹105.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "28,80,000 shares (aggregating up to ₹30.24 Cr)",
+    "freshIssue": "28,80,000 shares (aggregating up to ₹30.24 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,48,800 shares",
+      "maker_name": "Hem Finlease Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/250/"
+    },
+    "ipoOpenDate": "Mon, Aug 12, 2024",
+    "ipoCloseDate": "Wed, Aug 14, 2024",
+    "initiationOfRefunds": "Mon, Aug 19, 2024",
+    "creditOfSharesToDemat": "Mon, Aug 19, 2024",
+    "shareHoldingPreIssue": "80,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "80,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,08,80,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,08,80,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.53%"
+      }
+    ]
+  },
+  "closing_date": "2024-08-13T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-9265111757",
+    "email": "cs@sunliteindustries.com",
+    "full_address": "Sunlite Recycling Industries Limited, Survey No. 270A &amp; Plot No. 1, Survey No. 267 Chhatha Mile, Dantali Vaso Kheda - 387350",
+    "website": "http://www.sunliteindustries.com/"
+  },
+  "createdAt": "2025-04-18T12:48:02.649Z",
+  "faqs": [
+    {
+      "question": "What is the Sunlite Recycling Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sunlite Recycling Industries IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2880000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->30.24<!-- --> Crores. The issue is priced at <span>₹105 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 12, 2024</b>, and <b>closes on <!-- -->August 14, 2024</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sunlite Recycling Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sunlite Recycling Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sunlite Recycling Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sunlite Recycling Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sunlite Recycling Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sunlite Recycling Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sunlite Recycling Industries IPO opens on August 12, 2024 and closes on August 14, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sunlite Recycling Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sunlite Recycling Industries IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,26,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sunlite Recycling Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sunlite Recycling Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sunlite Recycling Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sunlite Recycling Industries IPO<!-- --> will be done on <!-- -->Friday, August 16, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, August 19, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/sunlite-recycling-industries-ipo/1805/\" title=\"Sunlite Recycling Industries IPO Allotment Status\">Sunlite Recycling Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sunlite Recycling Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sunlite Recycling Industries IPO<!-- --> listing date is on <b>Tuesday, August 20, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sunlite Recycling Industries",
+  "issue_price": "₹105.00",
+  "issue_price_numeric": 105,
+  "issue_size": "28,80,000 shares (aggregating up to ₹30.24 Cr)",
+  "issue_size_numeric": 28,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "105.00"
+      },
+      "open": {
+        "nse_sme": "199.50"
+      },
+      "low": {
+        "nse_sme": "199.50"
+      },
+      "high": {
+        "nse_sme": "209.45"
+      },
+      "last_trade": {
+        "nse_sme": "209.45"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "August 20 2024",
+    "nse_symbol": "SUNLITE",
+    "isin": "INE0U2N01013",
+    "final_issue_price": "105 per share"
+  },
+  "listing_date": "2024-08-19T18:30:00.000Z",
+  "listing_gains": "99.48%",
+  "listing_gains_numeric": 99.48,
+  "logo": "https://www.chittorgarh.net/images/ipo/sunlite-recycling-industries-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sunlite-recycling-industries-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "126000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "126000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "252000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sunlite-recycling-industries-ipo/1805/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-08-11T18:30:00.000Z",
+  "pageHeading": "Sunlite Recycling Industries Limited IPO (Sunlite Recycling Industries IPO) Detail",
+  "pageTitle": "Sunlite Recycling Industries IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Nitin Kumar Heda Prahladrai Ramdayal Heda & Khushboo Manishkumar Heda are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "73.53%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sunlite Recycling Industries IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SunliteRecyclingIndustriesLimited_DRHP.zip"
+    },
+    {
+      "text": "Sunlite Recycling Industries IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SunliteRecyclingIndustriesLimited_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Sunlite Recycling Industries IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sunlite_recycling_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sunlite-recycling-industries-ipo/1805/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "ipo@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "Sunlite Recycling Industries IPO offers 2880000 shares. 546000 (18.96%) to QIB 410400 (14.25%) to NII 956400 (33.21%) to RII and 818400 (28.42%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "818400 (28.42%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "148800 (5.17%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "546000 (18.96%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "410400 (14.25%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "956400 (33.21%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2880000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:02.649Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sunlite Recycling Industries IPO is subscribed 282.45 times on August 14 2024 6:19:59 PM (Day 3). The public issue subscribed 252 times in the retail category 109.05 times in the QIB category and 584.1 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "109.05",
+        "shares_offered": "546000",
+        "shares_bid_for": "59544000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "584.1",
+        "shares_offered": "410400",
+        "shares_bid_for": "239713200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "252",
+        "shares_offered": "956400",
+        "shares_bid_for": "241012800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "282.45",
+        "shares_offered": "1912800",
+        "shares_bid_for": "540270000"
+      }
+    },
+    "total_applications": "200844",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 14 2024",
+    "tentative_allotment": "Fri Aug 16 2024",
+    "initiation_of_refunds": "Mon Aug 19 2024",
+    "credit_of_shares_to_demat": "Mon Aug 19 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:15.239Z",
+  "updated_at": "2025-04-18T12:48:02.649Z",
+  "year": 2024,
+  "worst_listing_gains": "99.48%",
+  "worst_listing_gains_numeric": 99.48
+}

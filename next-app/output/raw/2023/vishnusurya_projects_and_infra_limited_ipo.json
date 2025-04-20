@@ -1,0 +1,423 @@
+{
+  "_id": "68028e9f3ccffd1c7912c982",
+  "ipo_id": "2023_vishnusurya_projects_and_infra_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:29:02.837Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/vishnusurya-projects-and-infra-ipo/1530/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1996, Vishnusurya Projects and Infra Limited is engaged in the mining of rough stones and manufacturing of aggregates and manufacture-sand by using Crushing Plants and Sand washing plants.</p>\n<p>The company has three business verticals:</p>\n<ol>\n<li>Engineering, Procurement, and Construction (EPC): The company offers a diverse range of capabilities in property development and the realty industry such as Commercial and Mixed Development Construction, IT and Institutional Space, Retail (Malls), Offices, Industrial Parks, Residential Projects, Luxury Villas, Resorts, Factories and Warehouses, Stadiums, Exhibition and Convention Centres, Entertainment, Industrial Construction, and Brownfield Development.</li>\n<li>Mining of aggregates and production of manufactured sand: The Company owns and operates two quarries in Tamil Nadu, India. The first blue metal mining quarry and crushing facility is spread over 105 acres at Aruppukottai, Virudhunagar District, Tamil Nadu. This facility handles the entire rock breaking and rock auguring operations and the crushing machine here is capable of producing an output of 250 tonnes per hour and 100 tonnes of sand washing at a given point in time. The second aggregates and manufactured sand unit is located in Vandavasi, Tiruvannamalai District, Tamil Nadu. This facility is equipped with a crushing machine capable of handling 350 tonnes and 150 tonnes of sand washing at a given point in time. The facility is located 100 km from Chennai.</li>\n<li>Drones or unarmed aerial vehicles</li>\n</ol>\n<p>The company has been accredited as a Class I contractor with various departments and agencies viz. (1) Greater Chennai Corporation (GCC), (2) Government of Tamil Nadu Water Resources Department, (3) Tamil Nadu Water Supply and Drainage Board, and (4) Highways Departments pursuant to which the company is eligible to participate and undertake projects awarded by various other departments and agencies.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "9594.72",
+          "11849.39",
+          "12105.28"
+        ],
+        [
+          "Revenue",
+          "6339.33",
+          "9603.62",
+          "13326.06"
+        ],
+        [
+          "Profit After Tax",
+          "229.18",
+          "2158.97",
+          "1736.64"
+        ],
+        [
+          "Net Worth",
+          "3573.72",
+          "4155.88",
+          "5952.39"
+        ],
+        [
+          "Reserves and Surplus",
+          "3078.32",
+          "3660.48",
+          "5043.99"
+        ],
+        [
+          "Total Borrowing",
+          "1472.32",
+          "3489.49",
+          "3625.24"
+        ]
+      ]
+    },
+    {
+      "heading": "Vishnusurya Projects And Infra Limited Stock Quote & Charts",
+      "sanitizedHeading": "vishnusurya_projects_and_infra_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "27.86%"
+        ],
+        [
+          "ROCE",
+          "31.22%"
+        ],
+        [
+          "Debt/Equity",
+          "1.03"
+        ],
+        [
+          "RoNW",
+          "27.86%"
+        ]
+      ]
+    },
+    {
+      "heading": "Vishnusurya Projects And Infra Limited Stock Quote & Charts",
+      "sanitizedHeading": "vishnusurya_projects_and_infra_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "25.30",
+          null
+        ],
+        [
+          "P/E (x)",
+          "2.69",
+          "9.63"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 29, 2023 to October 5, 2023",
+    "ipoListingDate": "Tue, Oct 10, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹68.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "73,50,000 shares (aggregating up to ₹49.98 Cr)",
+    "freshIssue": "73,50,000 shares (aggregating up to ₹49.98 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,70,000 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Fri, Sep 29, 2023",
+    "ipoCloseDate": "Thu, Oct 5, 2023",
+    "initiationOfRefunds": "Tue, Oct 10, 2023",
+    "creditOfSharesToDemat": "Tue, Oct 10, 2023",
+    "shareHoldingPreIssue": "1,72,59,671 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,72,59,671 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "88.74%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,46,09,671 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,46,09,671 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "62.24%"
+      }
+    ]
+  },
+  "closing_date": "2023-10-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 44 2495 0019",
+    "email": "cs@vishnusurya.com",
+    "full_address": "Vishnusurya Projects and Infra Limited, 2 nd Floor Qbas Temple Tower, No. 76/25 North Mada Street Mylapore, Chennai - 600 004",
+    "website": "https://www.vishnusurya.com/"
+  },
+  "createdAt": "2025-04-18T17:40:47.737Z",
+  "faqs": [
+    {
+      "question": "What is the Vishnusurya Projects and Infra IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vishnusurya Projects and Infra IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->7350000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->49.98<!-- --> Crores. The issue is priced at <span>₹68 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 29, 2023</b>, and <b>closes on <!-- -->October 5, 2023</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Vishnusurya Projects and Infra IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Vishnusurya Projects and Infra IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Vishnusurya Projects and Infra IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Vishnusurya Projects and Infra IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Vishnusurya Projects and Infra IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Vishnusurya Projects and Infra IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Vishnusurya Projects and Infra IPO opens on September 29, 2023 and closes on October 5, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Vishnusurya Projects and Infra IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vishnusurya Projects and Infra IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,36,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Vishnusurya Projects and Infra IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Vishnusurya Projects and Infra IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Vishnusurya Projects and Infra IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Vishnusurya Projects and Infra IPO<!-- --> will be done on <!-- -->Monday, October 9, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, October 10, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/vishnusurya-projects-and-infra-ipo/1530/\" title=\"Vishnusurya Projects and Infra IPO Allotment Status\">Vishnusurya Projects and Infra IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Vishnusurya Projects and Infra IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Vishnusurya Projects and Infra IPO<!-- --> listing date is on <b>Tuesday, October 10, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Vishnusurya Projects and Infra",
+  "issue_price": "₹68.00",
+  "issue_price_numeric": 68,
+  "issue_size": "73,50,000 shares (aggregating up to ₹49.98 Cr)",
+  "issue_size_numeric": 73,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Khandwala Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/53/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/53/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "68.00"
+      },
+      "open": {
+        "nse_sme": "73.00"
+      },
+      "low": {
+        "nse_sme": "73.00"
+      },
+      "high": {
+        "nse_sme": "76.65"
+      },
+      "last_trade": {
+        "nse_sme": "76.65"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 10 2023",
+    "nse_symbol": "VISHNUINFR",
+    "isin": "INE0PQ001012",
+    "final_issue_price": "68 per share"
+  },
+  "listing_date": "2023-10-09T18:30:00.000Z",
+  "listing_gains": "12.72%",
+  "listing_gains_numeric": 12.72,
+  "logo": "https://www.chittorgarh.net/images/ipo/vishnusurya-projects-and-infra-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/vishnusurya-projects-and-infra-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "136000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "136000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "272000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/vishnusurya-projects-and-infra-ipo/1530/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-09-28T18:30:00.000Z",
+  "pageHeading": "Vishnusurya Projects and Infra Limited IPO (Vishnusurya Projects and Infra IPO) Detail",
+  "pageTitle": "Vishnusurya Projects and Infra IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Bhavani Jayaprakash is the company's promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "88.74%",
+      "share_holding_post_issue": "62.24%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Vishnusurya Projects and Infra IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/VISHNUSURYA_DP.pdf"
+    },
+    {
+      "text": "Vishnusurya Projects and Infra IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/VishnusuryaPIL_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/vishnusurya-projects-and-infra-ipo/1530/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "priya@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "Vishnusurya Projects and Infra IPO offers 7350000 shares. 3490000 (47.48%) to NII 3490000 (47.48%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "370000 (5.03%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "3490000 (47.48%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3490000 (47.48%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "7350000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.737Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Vishnusurya Projects and Infra IPO is subscribed 44.11 times on October 5 2023 7:29:00 PM (Day 4). The public issue subscribed 43.63 times in the retail category [.] times in the QIB category and 36.32 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "36.32",
+        "shares_offered": "3490000",
+        "shares_bid_for": "126762000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "43.63",
+        "shares_offered": "3490000",
+        "shares_bid_for": "152260000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "44.11",
+        "shares_offered": "6980000",
+        "shares_bid_for": "307864000"
+      }
+    },
+    "total_applications": "76130",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 5 2023",
+    "tentative_allotment": "Mon Oct 9 2023",
+    "initiation_of_refunds": "Tue Oct 10 2023",
+    "credit_of_shares_to_demat": "Tue Oct 10 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:53.713Z",
+  "updated_at": "2025-04-18T17:40:47.737Z",
+  "year": 2023,
+  "worst_listing_gains": "12.72%",
+  "worst_listing_gains_numeric": 12.72
+}

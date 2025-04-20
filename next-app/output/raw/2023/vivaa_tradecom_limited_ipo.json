@@ -1,0 +1,415 @@
+{
+  "_id": "68028ea03ccffd1c7912c98e",
+  "ipo_id": "2023_vivaa_tradecom_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:29:13.270Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/vivaa-tradecom-ipo/1540/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2010, Vivaa Tradecom Limited is engaged in the manufacturing as well as trading of clothes and garments.</p>\n<p>The company's product list includes Denim Fabric, readymade garments such as Denim/Cotton Jeans for Men, Denim/Cotton Jeans for Women, and also undertake the Cotton Printing Job work and trade in Printed Cotton Fabric.</p>\n<p>In the year 2013, the company acquired the ongoing manufacturing business of Readymade Garments under the Slump Sale Agreement from M/s. Parikh Impex Private Limited. The company carried on manufacturing activity and trading activity from 2013 to 2022. In 2022, the company sold the manufacturing unit to Globe Textiles (India) Ltd and from April 2022 the company was involved in trading activity only.</p>\n<p>Along with trading in the garment industry, the company has decided to expand the business by entering into the trading of other segments as well. In March 2023, Vivaa entered into an agreement with Rushil Décor Limited for distributing VIR MDF Boards of various thicknesses and Prelam MDF Boards, which are used in the furniture industry, in Karnataka, Kerala, Delhi, Punjab, Haryana, Uttar Pradesh, Chandigarh, Himachal Pradesh, Jammu &amp; Kashmir, Rajasthan, and Uttarakhand states of India.</p>\n<p>Vivaa Tradecom's clientele includes Lifestyle International Pvt. Ltd., Aditya Birla Fashion and Retail Ltd., Lajja Polyfab Pvt. Ltd., Nandan Denim Limited, Bajaj Impex, Reliance Retail Limited, and so on.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "9430.20",
+          "9803.46",
+          "4918.80"
+        ],
+        [
+          "Revenue",
+          "14734.56",
+          "24728.70",
+          "13402.83"
+        ],
+        [
+          "Profit After Tax",
+          "-6.48",
+          "44.39",
+          "25.48"
+        ],
+        [
+          "Net Worth",
+          "1118.58",
+          "1162.97",
+          "1211.70"
+        ],
+        [
+          "Reserves and Surplus",
+          "1116.26",
+          "1160.65",
+          "974.55"
+        ],
+        [
+          "Total Borrowing",
+          "1354.91",
+          "1113.05",
+          "457.36"
+        ]
+      ]
+    },
+    {
+      "heading": "Vivaa Tradecom Ltd Stock Quote & Charts",
+      "sanitizedHeading": "vivaa_tradecom_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "Debt/Equity",
+          "0.38"
+        ],
+        [
+          "RoNW",
+          "2.10%"
+        ]
+      ]
+    },
+    {
+      "heading": "Vivaa Tradecom Ltd Stock Quote & Charts",
+      "sanitizedHeading": "vivaa_tradecom_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "11.07",
+          null
+        ],
+        [
+          "P/E (x)",
+          "47.66",
+          "78.46"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 27, 2023 to October 4, 2023",
+    "ipoListingDate": "Thu, Oct 12, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹51.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "15,66,000 shares (aggregating up to ₹7.99 Cr)",
+    "freshIssue": "15,66,000 shares (aggregating up to ₹7.99 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "82,000 shares",
+      "maker_name": "Asnani Stock Broker Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/221/"
+    },
+    "ipoOpenDate": "Wed, Sep 27, 2023",
+    "ipoCloseDate": "Wed, Oct 4, 2023",
+    "initiationOfRefunds": "Tue, Oct 10, 2023",
+    "creditOfSharesToDemat": "Wed, Oct 11, 2023",
+    "shareHoldingPreIssue": "23,71,500 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "23,71,500 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "50%"
+      }
+    ],
+    "shareHoldingPostIssue": "39,37,500 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "39,37,500 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "30.11%"
+      }
+    ]
+  },
+  "closing_date": "2023-10-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 99248 22188",
+    "email": "account@vivaatrade.com",
+    "full_address": "Vivaa Tradecom Limited, 17 Pirana Piplej Road, Saijpur (Gopalpur), Piplej Ahmedabad – 382405",
+    "website": "https://www.vivaatrade.com/"
+  },
+  "createdAt": "2025-04-18T17:40:47.983Z",
+  "faqs": [
+    {
+      "question": "What is the Vivaa Tradecom IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vivaa Tradecom IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1566000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->7.99<!-- --> Crores. The issue is priced at <span>₹51 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 27, 2023</b>, and <b>closes on <!-- -->October 4, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Vivaa Tradecom IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Vivaa Tradecom IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Vivaa Tradecom IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Vivaa Tradecom IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Vivaa Tradecom IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Vivaa Tradecom IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Vivaa Tradecom IPO opens on September 27, 2023 and closes on October 4, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Vivaa Tradecom IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vivaa Tradecom IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,02,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Vivaa Tradecom IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Vivaa Tradecom IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Vivaa Tradecom IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Vivaa Tradecom IPO<!-- --> will be done on <!-- -->Monday, October 9, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, October 11, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/vivaa-tradecom-ipo/1540/\" title=\"Vivaa Tradecom IPO Allotment Status\">Vivaa Tradecom IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Vivaa Tradecom IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Vivaa Tradecom IPO<!-- --> listing date is on <b>Thursday, October 12, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Vivaa Tradecom",
+  "issue_price": "₹51.00",
+  "issue_price_numeric": 51,
+  "issue_size": "15,66,000 shares (aggregating up to ₹7.99 Cr)",
+  "issue_size_numeric": 15,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Interactive Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/188/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/188/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "51.00"
+      },
+      "open": {
+        "bse_sme": "40.80"
+      },
+      "low": {
+        "bse_sme": "38.76"
+      },
+      "high": {
+        "bse_sme": "42.82"
+      },
+      "last_trade": {
+        "bse_sme": "42.54"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "October 12 2023",
+    "bse_script_code": "544002",
+    "isin": "INE0PA601017",
+    "final_issue_price": "51 per share"
+  },
+  "listing_date": "2023-10-11T18:30:00.000Z",
+  "listing_gains": "-16.59%",
+  "listing_gains_numeric": -16.59,
+  "logo": "https://www.chittorgarh.net/images/ipo/vivaa-tradecom-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/vivaa-tradecom-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "102000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "102000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "204000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/vivaa-tradecom-ipo/1540/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-09-26T18:30:00.000Z",
+  "pageHeading": "Vivaa Tradecom Limited IPO (Vivaa Tradecom IPO) Detail",
+  "pageTitle": "Vivaa Tradecom IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoter of the company is Mr. Mitesh Adani.",
+    "holdings": {
+      "share_holding_pre_issue": "50%",
+      "share_holding_post_issue": "30.11%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Vivaa Tradecom IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/394894/Final%20Draft%20Prospectus-07.02_20230207173455.pdf"
+    },
+    {
+      "text": "Vivaa Tradecom IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/394894/SME_IPO%20Open/Prospectus_Vivaa_19.09.2023_Final_20230921193308.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/vivaa-tradecom-ipo/1540/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Vivaa Tradecom IPO offers 1566000 shares. 742000 (47.38%) to NII 742000 (47.38%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "82000 (5.24%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "742000 (47.38%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "742000 (47.38%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1566000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.983Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Vivaa Tradecom IPO is subscribed 1.81 times on October 4 2023 7:02:00 PM (Day 5). The public issue subscribed 2.86 times in the retail category [.] times in the QIB category and 0.7 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.7",
+        "shares_offered": "742000",
+        "shares_bid_for": "520000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.86",
+        "shares_offered": "742000",
+        "shares_bid_for": "2122000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.81",
+        "shares_offered": "1484000",
+        "shares_bid_for": "2682000"
+      }
+    },
+    "total_applications": "1349",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 4 2023",
+    "tentative_allotment": "Mon Oct 9 2023",
+    "initiation_of_refunds": "Tue Oct 10 2023",
+    "credit_of_shares_to_demat": "Wed Oct 11 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:55.567Z",
+  "updated_at": "2025-04-18T17:40:47.983Z",
+  "year": 2023,
+  "worst_listing_gains": "-16.59%",
+  "worst_listing_gains_numeric": -16.59
+}

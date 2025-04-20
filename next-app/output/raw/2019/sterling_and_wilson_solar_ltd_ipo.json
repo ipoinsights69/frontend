@@ -1,0 +1,421 @@
+{
+  "_id": "6802985b3ccffd1c7912cc5a",
+  "ipo_id": "2019_sterling_and_wilson_solar_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:19:09.401Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sterling-and-wilson-ipo/1007/"
+  },
+  "about": {
+    "details": "<p>Incorporated on 2017, Mumbai based Sterling &amp; Wilson Solar Limited (SWSL) is engaged in providing solar engineering, procurement and construction (EPC) solutions to the end-users. SWSL is focused on utility-scale solar power projects and manages the solar projects from conceptualizing to commissioning. It provides operations and maintenance (O&amp;M) services for the 3rd party projects as well. It was previously named as Rashmika Energy Private Limited.</p><p>The company started its operation as a Solar EPC Division of SWPL in 2011 and demerged on April 1, 2017. According to IHS Markit, the company was the world's largest solar EPC solutions provider in 2018 based on annual installations of utility-scale PV systems. Currently, it has a wide presence across 26 countries. </p><p>Sterling &amp; Wilson offers customized solutions to its customers for solar power projects. The company follows a \"hub-and-spoke\" business model where services go from the central hub to several spokes or routes to reach the end-users. India works as a hub of the company for the complete supply chain including engineering functions, design, and engage 3rd party subcontractors and suppliers. The company aims to improve the performance ratio by offering cost-effective and innovative designing solutions supported by an engineering and competent design team. It has 138 employees in the design and engineering team.<br></p><h2>Competitive Strengths</h2><br>1. World's largest solar EPC solutions provider<br>2. A dedicated design and engineering team<br>3. Takes benefits of the brand image of the SP group and S&amp;W<br>4. Strong financial performance<br>5. Strong promoter<br><h2>Risk to Investors</h2><br><ul><li>The six global coordinators and book running lead managers and two book running lead managers associated with the offer have handled 48 public issue in the past three years out of which 18 closed below the issue price on listing date.</li><li>The Price/Earnings ratio based on diluted EPS for fiscal 2019 for the issuer at the upper end of the Price Band is as high as 19.57.</li><li>The average cost of acquisition per Equity Share for the promoter selling shareholders is nil per equity share.</li></ul><p></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. 10 Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Dec-17"
+        ],
+        [
+          "Total Assets",
+          "53919.19",
+          "49203.81",
+          "35701.70"
+        ],
+        [
+          "Total Revenue",
+          "82404.08",
+          "68717.08",
+          "32324.81"
+        ],
+        [
+          "Profit After Tax",
+          "6382.33",
+          "4505.35",
+          "1733.62"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 6, 2019 to August 8, 2019",
+    "ipoListingDate": "Tue, Aug 20, 2019",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹780.00",
+    "lotSize": "19 Shares",
+    "issueSize": "4,03,22,580 shares (aggregating up to ₹3,145.16 Cr)",
+    "offerForSale": "[.] shares of ₹1 (aggregating up to ₹3,125.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Aug 6, 2019",
+    "ipoCloseDate": "Thu, Aug 8, 2019",
+    "initiationOfRefunds": "Fri, Aug 16, 2019",
+    "creditOfSharesToDemat": "Mon, Aug 19, 2019",
+    "shareHoldingPreIssue": "16,03,60,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "16,03,60,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "16,03,60,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "16,03,60,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "75%"
+      }
+    ]
+  },
+  "closing_date": "2019-08-07T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 2548 5300",
+    "email": "ir@sterlingwilson.com",
+    "full_address": "Sterling and Wilson Solar Ltd, 9th Floor, Universal Majestic P L Lokhande Marg, Chembur (West) Mumbai 400 043",
+    "website": "https://sterlingandwilson.com/"
+  },
+  "createdAt": "2025-04-18T18:22:19.819Z",
+  "faqs": [
+    {
+      "question": "What is the Sterling and Wilson IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sterling and Wilson IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->40322580<!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->3,145.16<!-- --> Crores. The issue is priced at <span>₹780 per share</span>. The minimum order quantity is <!-- -->19<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 6, 2019</b>, and <b>closes on <!-- -->August 8, 2019</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sterling and Wilson IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sterling and Wilson IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sterling and Wilson IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sterling and Wilson IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sterling and Wilson IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sterling and Wilson IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sterling and Wilson IPO opens on August 6, 2019 and closes on August 8, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sterling and Wilson IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sterling and Wilson IPO<!-- --> <b>lot size is <!-- -->19</b>, and the <b>minimum amount required is <span>₹14,820</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sterling and Wilson IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sterling and Wilson IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sterling and Wilson IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sterling and Wilson IPO<!-- --> will be done on <!-- -->Wednesday, August 14, 2019<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, August 19, 2019<!-- -->. Check the <a href=\"/ipo_allotment_status/sterling-and-wilson-ipo/1007/\" title=\"Sterling and Wilson IPO Allotment Status\">Sterling and Wilson IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sterling and Wilson IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sterling and Wilson IPO<!-- --> listing date is on <b>Tuesday, August 20, 2019</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sterling and Wilson Solar",
+  "issue_price": "₹780.00",
+  "issue_price_numeric": 780,
+  "issue_size": "4,03,22,580 shares (aggregating up to ₹3,145.16 Cr)",
+  "issue_size_numeric": 4,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Credit Suisse Securities",
+      "url": "/report/ipo-lead-manager-review/112/111/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/111/"
+    },
+    {
+      "name": "Deutsche Equities India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/15/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/15/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Indusind Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/170/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/170/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    },
+    {
+      "name": "Yes Securities",
+      "url": "/report/ipo-lead-manager-review/112/136/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/136/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "780.00",
+        "nse": "780.00"
+      },
+      "open": {
+        "bse": "700.00",
+        "nse": "706.00"
+      },
+      "low": {
+        "bse": "691.00",
+        "nse": "690.10"
+      },
+      "high": {
+        "bse": "755.50",
+        "nse": "753.45"
+      },
+      "last_trade": {
+        "bse": "725.35",
+        "nse": "726.20"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 20 2019",
+    "bse_script_code": "542760",
+    "nse_symbol": "SWSOLAR",
+    "isin": "INE00M201021",
+    "final_issue_price": "780 per share"
+  },
+  "listing_date": "2019-08-19T18:30:00.000Z",
+  "listing_gains": "-7.01%",
+  "listing_gains_numeric": -7.01,
+  "logo": "https://www.chittorgarh.net/images/ipo/sterlingwilson.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sterlingwilson.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 19 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "19",
+        "amount": "14820"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "247",
+        "amount": "192660"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "266",
+        "amount": "207480"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "1273",
+        "amount": "992940"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "1292",
+        "amount": "1007760"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sterling-and-wilson-ipo/1007/"
+    }
+  },
+  "lot_size": 19,
+  "opening_date": "2019-08-05T18:30:00.000Z",
+  "pageHeading": "Sterling and Wilson Solar Ltd IPO (Sterling and Wilson IPO) Detail",
+  "pageTitle": "Sterling and Wilson IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the Company are Shapoorji Pallonji and Company Pvt Ltd and Khurshed Yazdi Daruvala.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "75%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sterling and Wilson IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2019/sterling-and-wilson-solar-limited_42763.html"
+    },
+    {
+      "text": "Sterling and Wilson IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2019/sterling-and-wilson-solar-limited_44024.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "9",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sterling-and-wilson-ipo/1007/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "sterlingwilson.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Sterling and Wilson IPO offers 40322580 shares. 30241935 (75.00%) to QIB 6048387 (15.00%) to NII 4032258 (10.00%) to RII. 212224 RIIs will receive minimum 19 shares and (sNII) and (bNII) will receive minimum 266 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "30241935 (75.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "6048387 (15.00%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4032258 (10.00%)",
+        "maximum_allottees": "212224"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "40322580 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:19.819Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sterling and Wilson IPO is subscribed 0.85 times on August 8 2019 5:00:00 PM (Day 3). The public issue subscribed 0.3 times in the retail category 1.02 times in the QIB category and 0.89 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.02",
+        "shares_offered": "12096774",
+        "shares_bid_for": "12332273"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.89",
+        "shares_offered": "6048387",
+        "shares_bid_for": "5406697"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.3",
+        "shares_offered": "4032258",
+        "shares_bid_for": "1193865"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "0.85",
+        "shares_offered": "22177419",
+        "shares_bid_for": "18932835"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 8 2019",
+    "tentative_allotment": "Wed Aug 14 2019",
+    "initiation_of_refunds": "Fri Aug 16 2019",
+    "credit_of_shares_to_demat": "Mon Aug 19 2019"
+  },
+  "updatedAt": "2025-04-19T04:39:38.862Z",
+  "updated_at": "2025-04-18T18:22:19.819Z",
+  "year": 2019,
+  "worst_listing_gains": "-7.01%",
+  "worst_listing_gains_numeric": -7.01
+}

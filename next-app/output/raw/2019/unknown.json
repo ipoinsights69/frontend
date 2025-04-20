@@ -1,0 +1,289 @@
+{
+  "_id": "6802985c3ccffd1c7912cc65",
+  "ipo_id": "2019_unknown",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": false,
+      "listingDayTrading": false,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:20:22.738Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sudarshan-pharma-ipo/992/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2008, Mumbai based Sudarshan Pharma Industries Limited (SPIL) has a contract manufacturing facility to source and supply generic formulations. It is also engaged in import &amp; export activities, and supply of specialty chemicals, API (Active Pharmaceutical Ingredients), and Intermediates. Based on clients' specifications and requirements, they outsource the manufacturing facility from the suppliers in India and abroad. </p><p>The generic products supplied by the company have a wide application in paint, food, pharma, and adhesive industry. The company is involved in a contract manufacturing facility, supply and outsource of medicines and pharma formulation to hospitals, NGO, government and healthcare institutes. SPIL has 50 pharma formulations which are supplied under the brand name in the form of tablets, ointment, capsules, and injectable.</p><p>The company has its own sales force and distribution network in 5 states for ethical marketing of pharmaceutical formulation &amp; products under the brand name in Indian and international markets. It also offers formulation development and QC services and provides customised solutions. </p><p>The competitive strengths of the company are:</p><p>1. Customer-centric and order driven business model<br>2. Wide range of product offerings<br>3. Contract manufacturing facility arrangements <br>4. Strong distribution, marketing and sales network<br>5. Diversified business operations</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16"
+        ],
+        [
+          "Total Assets",
+          "5013.72",
+          "3096.37",
+          "1992.93",
+          "827.24"
+        ],
+        [
+          "Total Revenue",
+          "14001.96",
+          "8976.43",
+          "5551.72",
+          "3794.33"
+        ],
+        [
+          "Profit After Tax",
+          "234.79",
+          "73.98",
+          "15.63",
+          "9.27"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 12, 2019 to June 21, 2019",
+    "ipoListingDate": "Tue, Jun 25, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹72 per share",
+    "lotSize": "1,600 Shares",
+    "issueSize": "34,40,000 shares (aggregating up to ₹24.77 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "1,76,000 shares",
+    "ipoOpenDate": "Wed, Jun 12, 2019",
+    "ipoCloseDate": "Fri, Jun 21, 2019",
+    "initiationOfRefunds": "Fri, Jun 21, 2019",
+    "creditOfSharesToDemat": "Mon, Jun 24, 2019",
+    "shareHoldingPreIssue": "89.29%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "89.29%"
+      }
+    ],
+    "shareHoldingPostIssue": "65.63%",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "65.63%"
+      }
+    ]
+  },
+  "closing_date": "2019-06-20T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 242221111",
+    "email": "compliance.spil@gmail.com",
+    "full_address": "Sudarshan Pharma Industries Limited, 301 3rd Floor Aura Biplex, Above Kalyan Jewellers S V Road, Borivali (West) Mumbai - 400 092",
+    "website": "http://www.sudarshanpharma.com/"
+  },
+  "createdAt": "2025-04-18T18:22:20.023Z",
+  "faqs": [
+    {
+      "question": "What is the Sudarshan Pharma IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sudarshan Pharma IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3440000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->24.77<!-- --> Crores. The issue is priced at <span>₹72 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 12, 2019</b>, and <b>closes on <!-- -->June 21, 2019</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sudarshan Pharma IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sudarshan Pharma IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sudarshan Pharma IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sudarshan Pharma IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sudarshan Pharma IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sudarshan Pharma IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sudarshan Pharma IPO opens on June 12, 2019 and closes on June 21, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sudarshan Pharma IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sudarshan Pharma IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,15,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sudarshan Pharma IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sudarshan Pharma IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sudarshan Pharma IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sudarshan Pharma IPO<!-- --> will be done on <!-- -->Thursday, June 20, 2019<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, June 24, 2019<!-- -->. Check the <a href=\"/ipo_allotment_status/sudarshan-pharma-ipo/992/\" title=\"Sudarshan Pharma IPO Allotment Status\">Sudarshan Pharma IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sudarshan Pharma IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sudarshan Pharma IPO<!-- --> listing date is not yet announced. The <b>tentative date of <!-- -->Sudarshan Pharma IPO<!-- --> listing is <!-- -->Tuesday, June 25, 2019</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sudarshan Pharma Industries",
+  "issue_price": "₹72 per share",
+  "issue_price_numeric": 72,
+  "issue_size": "34,40,000 shares (aggregating up to ₹24.77 Cr)",
+  "issue_size_numeric": 34,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "First Overseas Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/110/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/110/"
+    }
+  ],
+  "listing_date": "2019-06-24T18:30:00.000Z",
+  "logo": "https://www.chittorgarh.net/images/ipo/sudarshan-pharma-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sudarshan-pharma-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "115200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "115200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "230400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sudarshan-pharma-ipo/992/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2019-06-11T18:30:00.000Z",
+  "pageHeading": "Sudarshan Pharma Industries Limited IPO (Sudarshan Pharma IPO) Detail",
+  "pageTitle": "Sudarshan Pharma IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Hemal V. Mehta and Mr. Sachin V. Mehta are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "89.29%",
+      "share_holding_post_issue": "65.63%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sudarshan Pharma IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/341854/DRHP_Sudarshan_v12.2_20221210202654.pdf"
+    },
+    {
+      "text": "Sudarshan Pharma IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2023/sudarshan-pharma-industries-limited_68717.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sudarshan-pharma-ipo/992/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Sudarshan Pharma IPO offers 3440000 shares. 1632000 (47.44%) to NII 1632000 (47.44%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "176000 (5.12%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1632000 (47.44%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1632000 (47.44%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3440000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:20.022Z",
+  "source_url": "",
+  "status": "listed",
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 21 2019",
+    "tentative_allotment": "Thu Jun 20 2019",
+    "initiation_of_refunds": "Fri Jun 21 2019",
+    "credit_of_shares_to_demat": "Mon Jun 24 2019"
+  },
+  "updatedAt": "2025-04-18T18:22:20.023Z",
+  "updated_at": "2025-04-18T18:22:20.022Z",
+  "year": 2019
+}

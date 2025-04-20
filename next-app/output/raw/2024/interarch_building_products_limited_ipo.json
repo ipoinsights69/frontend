@@ -1,0 +1,501 @@
+{
+  "_id": "680249fd3ccffd1c7912c780",
+  "ipo_id": "2024_interarch_building_products_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:24:30.064Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/interarch-building-products-ipo/1811/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1983, Interarch Building Limited provides turnkey pre-engineered steel construction solutions in India. The company offers integrated facilities for design, engineering, manufacturing, and on-site project management for the installation and erection of pre-engineered steel buildings (PEB).</p>\n<p>As of March 31, 2023, the company had the second-highest installed capacity of 141,000 metric tonnes per year. In the financial year 2023, it also held a 6.1% market share in operating income among integrated PEB players in India.</p>\n<p>The company offers PEBs through pre-engineered steel building contracts (\"PEB Contracts\") and the sale of pre-engineered steel building materials (\"PEB Sales\"), including metal ceilings, corrugated roofing, PEB steel structures, and light gauge framing systems.</p>\n<p>The company's industrial/manufacturing construction category customers include Grasim Industries Limited, Berger Paints India Limited, Blue Star Climatech Limited, Timken India Limited, and Addverb Technologies Limited. In the infrastructure construction category, the company serves InstaKart Services Private Limited.</p>\n<p>The company has four manufacturing facility out of which two are situated in Sriperumbudur, Tamil Nadu, India, one in Pantnagar, Uttarakhand and and one in and Kichha, Uttarakhand, India.</p>\n<p>The company has sales and marketing employees in Chandigarh, Punjab, and Haryana; Lucknow, Uttar Pradesh; Coimbatore, Tamil Nadu; Bhubaneshwar, Odisha; and Raipur, Chhattisgarh.</p>\n<p>The company's Manufacturing Facilities are each accredited as ISO 9001:2015 certified in Quality Management System.</p>\n<p>As of September 30, 2023, the company has 111 qualified structural design engineers and detailers in its in-house design and engineering team. On average, these team members have 8.05 years of work experience with the company.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Interarch Building Products Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "755.01",
+          "675.03",
+          "543.75"
+        ],
+        [
+          "Revenue",
+          "1306.32",
+          "1136.39",
+          "840.86"
+        ],
+        [
+          "Profit After Tax",
+          "86.26",
+          "81.46",
+          "17.13"
+        ],
+        [
+          "Net Worth",
+          "262.65",
+          "343.8",
+          "262.65"
+        ],
+        [
+          "Total Borrowing",
+          "3.36",
+          "11.38",
+          "3.36"
+        ]
+      ]
+    },
+    {
+      "heading": "Interarch Building Products Ltd Stock Quote & Charts",
+      "sanitizedHeading": "interarch_building_products_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "19.40%"
+        ],
+        [
+          "ROCE",
+          "25.79%"
+        ],
+        [
+          "Debt/Equity",
+          "-0.11"
+        ],
+        [
+          "RoNW",
+          "22.26%"
+        ],
+        [
+          "Price to Book Value",
+          "0.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Interarch Building Products Ltd Stock Quote & Charts",
+      "sanitizedHeading": "interarch_building_products_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "59.84",
+          "51.85"
+        ],
+        [
+          "P/E (x)",
+          "15.04",
+          "17.36"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Interarch Building Products IPO raises Rs 179.49 crore from anchor investors. Interarch Building Products IPO Anchor bid date is August 16 2024. Interarch Building Products IPO Anchor Investors list",
+    "list_link": {
+      "text": "Interarch Building Products IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/interarch_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "November 19 2024",
+      "shares_offered": "1994288",
+      "anchor_portion_size": "179.49"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 19, 2024 to August 21, 2024",
+    "ipoListingDate": "Mon, Aug 26, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹900.00",
+    "lotSize": "16 Shares",
+    "issueSize": "66,69,852 shares (aggregating up to ₹600.29 Cr)",
+    "freshIssue": "22,22,222 shares (aggregating up to ₹200.00 Cr)",
+    "offerForSale": "44,47,630 shares of ₹10 (aggregating up to ₹400.29 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Aug 19, 2024",
+    "ipoCloseDate": "Wed, Aug 21, 2024",
+    "initiationOfRefunds": "Fri, Aug 23, 2024",
+    "creditOfSharesToDemat": "Fri, Aug 23, 2024",
+    "shareHoldingPreIssue": "1,44,15,892 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,44,15,892 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "87.53%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,66,38,114 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,66,38,114 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "59.9%"
+      }
+    ]
+  },
+  "closing_date": "2024-08-20T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-12041 70200",
+    "email": "compliance@interarchbuildings.com",
+    "full_address": "Interarch Building Products Limited, Farm No. 8 Khasara No. 56/23/2, Dera Mandi Road, Mandi Village Mehrauli New Delhi -110047",
+    "website": "https://www.interarchbuildings.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.870Z",
+  "faqs": [
+    {
+      "question": "What is the Interarch Building Products IPO?",
+      "answer": "<div itemprop=\"text\"><p>Interarch Building Products IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->6669852<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->600.29<!-- --> Crores. The issue is priced at <span>₹900 per share</span>. The minimum order quantity is <!-- -->16<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 19, 2024</b>, and <b>closes on <!-- -->August 21, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Interarch Building Products IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Interarch Building Products IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Interarch Building Products IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Interarch Building Products IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Interarch Building Products IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Interarch Building Products IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Interarch Building Products IPO opens on August 19, 2024 and closes on August 21, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Interarch Building Products IPO?",
+      "answer": "<div itemprop=\"text\"><p>Interarch Building Products IPO<!-- --> <b>lot size is <!-- -->16</b>, and the <b>minimum amount required is <span>₹14,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Interarch Building Products IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Interarch Building Products IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Interarch Building Products IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Interarch Building Products IPO<!-- --> will be done on <!-- -->Thursday, August 22, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, August 23, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/interarch-building-products-ipo/1811/\" title=\"Interarch Building Products IPO Allotment Status\">Interarch Building Products IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Interarch Building Products IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Interarch Building Products IPO<!-- --> listing date is on <b>Monday, August 26, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Interarch Building Products",
+  "issue_price": "₹900.00",
+  "issue_price_numeric": 900,
+  "issue_size": "66,69,852 shares (aggregating up to ₹600.29 Cr)",
+  "issue_size_numeric": 66,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Ambit Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/119/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/119/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "900.00",
+        "nse": "900.00"
+      },
+      "open": {
+        "bse": "1222.00",
+        "nse": "1220.00"
+      },
+      "low": {
+        "bse": "1192.05",
+        "nse": "1192.00"
+      },
+      "high": {
+        "bse": "1230.00",
+        "nse": "1230.00"
+      },
+      "last_trade": {
+        "bse": "1195.55",
+        "nse": "1196.45"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 26 2024",
+    "bse_script_code": "544232",
+    "nse_symbol": "INTERARCH",
+    "isin": "INE00M901018",
+    "final_issue_price": "900 per share"
+  },
+  "listing_date": "2024-08-25T18:30:00.000Z",
+  "listing_gains": "32.84%",
+  "listing_gains_numeric": 32.84,
+  "logo": "https://www.chittorgarh.net/images/ipo/interarch_building_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/interarch_building_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 16 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "16",
+        "amount": "14400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "208",
+        "amount": "187200"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "224",
+        "amount": "201600"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "1104",
+        "amount": "993600"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "1120",
+        "amount": "1008000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/interarch-building-products-ipo/1811/"
+    }
+  },
+  "lot_size": 16,
+  "opening_date": "2024-08-18T18:30:00.000Z",
+  "pageHeading": "Interarch Building Products Limited IPO (Interarch Building Products IPO) Detail",
+  "pageTitle": "Interarch Building Products IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Arvind Nanda Gautam Suri Ishaan Suri and Viraj Nanda are the company's Promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "87.53%",
+      "share_holding_post_issue": "59.9%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Interarch Building Products IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2024/interarch-building-products-limited-drhp_82452.html"
+    },
+    {
+      "text": "Interarch Building Products IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/interarch-building-products-limited-rhp_85658.html"
+    },
+    {
+      "text": "Anchor Investors in Interarch Building Products IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/interarch_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "9",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "3",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/interarch-building-products-ipo/1811/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "interarch.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Interarch Building Products IPO offers 6672169 shares. 1329526 (19.93%) to QIB 997145 (14.94%) to NII 2326671 (34.87%) to RII 24539 (0.37%) to employees and 1994288 (29.89%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1994288 (29.89%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1329526 (19.93%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "997145 (14.94%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "664764 (9.96%)",
+        "maximum_allottees": "2967"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "332381 (4.98%)",
+        "maximum_allottees": "1483"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2326671 (34.87%)",
+        "maximum_allottees": "145416"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "24539 (0.37%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6672169 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.869Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Interarch Building Products IPO is subscribed 93.79 times on August 21 2024 6:19:08 PM (Day 3). The public issue subscribed 19.46 times in the retail category 197.29 times in the QIB category and 130.91 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "197.29",
+        "shares_offered": "1329526",
+        "shares_bid_for": "262298016"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "130.91",
+        "shares_offered": "997145",
+        "shares_bid_for": "130538896"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "148.31",
+        "shares_offered": "664764",
+        "shares_bid_for": "98593744"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "96.11",
+        "shares_offered": "332381",
+        "shares_bid_for": "31945152"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "19.46",
+        "shares_offered": "2326671",
+        "shares_bid_for": "45286768"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "25.75",
+        "shares_offered": "24539",
+        "shares_bid_for": "631888"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "93.79",
+        "shares_offered": "4677881",
+        "shares_bid_for": "438755568"
+      }
+    },
+    "total_applications": "2437913"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 21 2024",
+    "tentative_allotment": "Thu Aug 22 2024",
+    "initiation_of_refunds": "Fri Aug 23 2024",
+    "credit_of_shares_to_demat": "Fri Aug 23 2024"
+  },
+  "updatedAt": "2025-04-19T04:36:58.123Z",
+  "updated_at": "2025-04-18T12:47:57.869Z",
+  "year": 2024,
+  "worst_listing_gains": "32.84%",
+  "worst_listing_gains_numeric": 32.84
+}

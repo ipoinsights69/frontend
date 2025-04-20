@@ -1,0 +1,511 @@
+{
+  "_id": "68024a023ccffd1c7912c817",
+  "ipo_id": "2024_suraksha_diagnostic_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:17:43.998Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/suraksha-diagnostic-ipo/1918/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2005, Suraksha Diagnostic Limited offers pathology, radiology testing and medical consultancy services. The company has a central reference laboratory with 8 satellite laboratories and 215 customer touchpoints, including 49 diagnostic centres and 166 sample collection centres as of June 30, 2024, across West Bengal, Bihar, Assam, and Meghalaya.</p>\n<p>The company offers its customers online and offline medical consultation services under one roof via 44 diagnostic centres, which house 120 polyclinics with more than 750 doctors.</p>\n<p>The operation of the <strong>diagnostic centres is supported by the technology platforms and systems</strong> that the company uses to streamline, such as its Laboratory Information Management System (\"LIMS\"), its fully integrated Radiology Information System (\"RIS\"), its Picture Archive Communication System (\"PACS\") and its Enterprise Resource Planning System (\"ERP\").</p>\n<p>The company offers vaccination services and customized testing packages for disease prediction/early detection. The company uses digital pathology and artificial intelligence to generate blood tests. All radiology reporting is done through a digital platform that allows cases to be reported from all diagnostic centres, significantly reducing turnaround time.</p>\n<p><strong>Competitive Strengths are:</strong></p>\n<ol>\n<li>Well-positioned diagnostics chain to capture the large growth opportunities for organized diagnostics chains in the fragmented markets for diagnostic services in eastern and northeastern India.</li>\n<li>Integrated diagnostics provider offering pathology and radiology testing and medical consultancy services from a single source.</li>\n<li>Well-invested and technologically advanced clinical infrastructure.</li>\n<li>Commitment to quality driving high individual consumer business share and customer retention.</li>\n<li>Management team with relevant industry experience.</li>\n</ol>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Suraksha Diagnostic Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "314.20",
+          "300.21",
+          "281.20",
+          "275.96"
+        ],
+        [
+          "Revenue",
+          "61.85",
+          "222.26",
+          "193.69",
+          "225.77"
+        ],
+        [
+          "Profit After Tax",
+          "7.67",
+          "23.13",
+          "6.07",
+          "20.82"
+        ],
+        [
+          "Net Worth",
+          "187.05",
+          "179.41",
+          "155.93",
+          "145.84"
+        ],
+        [
+          "Reserves and Surplus",
+          "176.80",
+          "170.88",
+          "147.40",
+          "137.31"
+        ],
+        [
+          "Total Borrowing",
+          "7.57",
+          "8.64",
+          "14.01",
+          "19.03"
+        ]
+      ]
+    },
+    {
+      "heading": "Suraksha Diagnostic Limited Stock Quote & Charts",
+      "sanitizedHeading": "suraksha_diagnostic_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "14.09%"
+        ],
+        [
+          "ROCE",
+          "21.46%"
+        ],
+        [
+          "Debt/Equity",
+          "0.20"
+        ],
+        [
+          "RoNW",
+          "14.09%"
+        ],
+        [
+          "PAT Margin",
+          "10.57"
+        ],
+        [
+          "Price to Book Value",
+          "13.10"
+        ]
+      ]
+    },
+    {
+      "heading": "Suraksha Diagnostic Limited Stock Quote & Charts",
+      "sanitizedHeading": "suraksha_diagnostic_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.44",
+          "5.89"
+        ],
+        [
+          "P/E (x)",
+          "99.31",
+          "74.89"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Suraksha Diagnostic IPO raises Rs 253.87 crore from anchor investors. Suraksha Diagnostic IPO Anchor bid date is November 28 2024. Suraksha Diagnostic IPO Anchor Investors list",
+    "list_link": {
+      "text": "Suraksha Diagnostic IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/suraksha_diagnostics_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "March 4 2025",
+      "shares_offered": "5756797",
+      "anchor_portion_size": "253.87"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "November 29, 2024 to December 3, 2024",
+    "ipoListingDate": "Fri, Dec 6, 2024",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹441.00",
+    "lotSize": "34 Shares",
+    "issueSize": "1,91,89,330 shares (aggregating up to ₹846.25 Cr)",
+    "offerForSale": "1,91,89,330 shares of ₹2 (aggregating up to ₹846.25 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Nov 29, 2024",
+    "ipoCloseDate": "Tue, Dec 3, 2024",
+    "initiationOfRefunds": "Thu, Dec 5, 2024",
+    "creditOfSharesToDemat": "Thu, Dec 5, 2024",
+    "shareHoldingPreIssue": "5,20,80,758 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "5,20,80,758 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "61.07%"
+      }
+    ],
+    "shareHoldingPostIssue": "5,20,80,758 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "5,20,80,758 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "48.78%"
+      }
+    ]
+  },
+  "closing_date": "2024-12-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "91 33 66059750",
+    "email": "investors@surakshanet.com",
+    "full_address": "Suraksha Diagnostic Limited, Plot No. DG-12/1, Action Area 1D Premises No. 02-0327, New Town Rajarhat Kolkata 700 156",
+    "website": "https://www.surakshanet.com/"
+  },
+  "createdAt": "2025-04-18T12:48:02.890Z",
+  "faqs": [
+    {
+      "question": "What is the Suraksha Diagnostic IPO?",
+      "answer": "<div itemprop=\"text\"><p>Suraksha Diagnostic IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->19189330<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->846.25<!-- --> Crores. The issue is priced at <span>₹441 per share</span>. The minimum order quantity is <!-- -->34<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 29, 2024</b>, and <b>closes on <!-- -->December 3, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Suraksha Diagnostic IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Suraksha Diagnostic IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Suraksha Diagnostic IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Suraksha Diagnostic IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Suraksha Diagnostic IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Suraksha Diagnostic IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Suraksha Diagnostic IPO opens on November 29, 2024 and closes on December 3, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Suraksha Diagnostic IPO?",
+      "answer": "<div itemprop=\"text\"><p>Suraksha Diagnostic IPO<!-- --> <b>lot size is <!-- -->34</b>, and the <b>minimum amount required is <span>₹14,994</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Suraksha Diagnostic IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Suraksha Diagnostic IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Suraksha Diagnostic IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Suraksha Diagnostic IPO<!-- --> will be done on <!-- -->Wednesday, December 4, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, December 5, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/suraksha-diagnostic-ipo/1918/\" title=\"Suraksha Diagnostic IPO Allotment Status\">Suraksha Diagnostic IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Suraksha Diagnostic IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Suraksha Diagnostic IPO<!-- --> listing date is on <b>Friday, December 6, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Suraksha Diagnostic",
+  "issue_price": "₹441.00",
+  "issue_price_numeric": 441,
+  "issue_size": "1,91,89,330 shares (aggregating up to ₹846.25 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Nuvama Wealth Management Limited",
+      "url": "/report/ipo-lead-manager-review/112/408/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/408/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "441.00",
+        "nse": "441.00"
+      },
+      "open": {
+        "bse": "437.00",
+        "nse": "438.00"
+      },
+      "low": {
+        "bse": "414.80",
+        "nse": "414.95"
+      },
+      "high": {
+        "bse": "449.00",
+        "nse": "449.00"
+      },
+      "last_trade": {
+        "bse": "417.95",
+        "nse": "441.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 6 2024",
+    "bse_script_code": "544293",
+    "nse_symbol": "SURAKSHA",
+    "isin": "INE877V01027",
+    "final_issue_price": "441 per share"
+  },
+  "listing_date": "2024-12-05T18:30:00.000Z",
+  "listing_gains": "-5.23%",
+  "listing_gains_numeric": -5.23,
+  "logo": "https://www.chittorgarh.net/images/ipo/suraksha_diagnostics-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/suraksha_diagnostics-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 34 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "34",
+        "amount": "14994"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "442",
+        "amount": "194922"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "476",
+        "amount": "209916"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "2244",
+        "amount": "989604"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "2278",
+        "amount": "1004598"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/suraksha-diagnostic-ipo/1918/"
+    }
+  },
+  "lot_size": 34,
+  "opening_date": "2024-11-28T18:30:00.000Z",
+  "pageHeading": "Suraksha Diagnostic Limited IPO (Suraksha Diagnostic IPO) Detail",
+  "pageTitle": "Suraksha Diagnostic IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Dr. Somnath Chatterjee Ritu Mittal and Satish Kumar Verma.",
+    "holdings": {
+      "share_holding_pre_issue": "61.07%",
+      "share_holding_post_issue": "48.78%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Suraksha Diagnostic IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2024/suraksha-diagnostic-limited_85320.html"
+    },
+    {
+      "text": "Suraksha Diagnostic IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/suraksha-diagnostic-limited-prospectus_89299.html"
+    },
+    {
+      "text": "Anchor Investors in Suraksha Diagnostic IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/suraksha_diagnostics_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "2"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "3",
+        "avoid": "8"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/suraksha-diagnostic-ipo/1918/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "sdl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Suraksha Diagnostic IPO offers 19189330 shares. 3837867 (20%) to QIB 2878400 (15%) to NII 6716266 (35%) to RII and 5756797 (30%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "5756797 (30%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "3837867 (20%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2878400 (15%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1918934 (10%)",
+        "maximum_allottees": "4031"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "959466 (5%)",
+        "maximum_allottees": "2015"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "6716266 (35%)",
+        "maximum_allottees": "197537"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "19189330 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:02.890Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Suraksha Diagnostic IPO is subscribed 1.27 times on December 3 2024 6:19:07 PM (Day 3). The public issue subscribed 0.94 times in the retail category 1.74 times in the QIB category and 1.4 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.74",
+        "shares_offered": "3837867",
+        "shares_bid_for": "6667332"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.4",
+        "shares_offered": "2878400",
+        "shares_bid_for": "4042124"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "1.53",
+        "shares_offered": "1918934",
+        "shares_bid_for": "2929950"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "1.16",
+        "shares_offered": "959466",
+        "shares_bid_for": "1112174"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.94",
+        "shares_offered": "6716266",
+        "shares_bid_for": "6299078"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.27",
+        "shares_offered": "13432533",
+        "shares_bid_for": "17008534"
+      }
+    },
+    "total_applications": "147938"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 3 2024",
+    "tentative_allotment": "Wed Dec 4 2024",
+    "initiation_of_refunds": "Thu Dec 5 2024",
+    "credit_of_shares_to_demat": "Thu Dec 5 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:17.531Z",
+  "updated_at": "2025-04-18T12:48:02.890Z",
+  "year": 2024,
+  "worst_listing_gains": "-5.23%",
+  "worst_listing_gains_numeric": -5.23
+}

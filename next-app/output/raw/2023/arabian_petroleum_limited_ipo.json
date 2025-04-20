@@ -1,0 +1,423 @@
+{
+  "_id": "68028e993ccffd1c7912c8ac",
+  "ipo_id": "2023_arabian_petroleum_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:29:46.511Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/arabian-petroleum-ipo/1526/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2006, Arabian Petroleum Limited manufactures a wide range of Lubricants including Specialty Oils, Coolants, etc. used for application in automobiles and industrial machines and appliances.</p>\n<p>The company has two product divisions:</p>\n<ol>\n<li>Automotive Lubricants - Arzol: This includes Two Wheeler Four Stroke Engine Oils, Passenger Car Motor Oils, Diesel Engine Oils, Gear and transmission Oils, Universal Tractor and Transmission Oils, Pump Set Oils, and Hydraulic Oils.</li>\n<li>Industrial Lubricants - SPL: SPL brand of Industrial Lubricants provides products that improve productivity, reduce mechanical wear, prevent system failure, and reduce energy costs, by extending the efficiency and performance of machines.</li>\n</ol>\n<p>Arabian Petroleum's clientele comes from domestic and international markets spread across multiple industries, including pharmaceutical, FMCG, chemicals, steel, rubber and tyre, power, civil engineering, electrical appliances, textile, telecommunication, chemical, cables and conductors, and automobile industry, etc.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5031.88",
+          "7134.94",
+          "7650.88"
+        ],
+        [
+          "Revenue",
+          "11024.54",
+          "19159.10",
+          "24394.68"
+        ],
+        [
+          "Profit After Tax",
+          "287.54",
+          "414.34",
+          "486.48"
+        ],
+        [
+          "Net Worth",
+          "1301.98",
+          "1716.32",
+          "2202.80"
+        ],
+        [
+          "Reserves and Surplus",
+          "1101.98",
+          "1516.32",
+          "1402.80"
+        ],
+        [
+          "Total Borrowing",
+          "2197.75",
+          "2948.97",
+          "3830.66"
+        ]
+      ]
+    },
+    {
+      "heading": "Arabian Petroleum Limited Stock Quote & Charts",
+      "sanitizedHeading": "arabian_petroleum_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "22.08%"
+        ],
+        [
+          "ROCE",
+          "32.47%"
+        ],
+        [
+          "Debt/Equity",
+          "1.75"
+        ],
+        [
+          "RoNW",
+          "22.08%"
+        ]
+      ]
+    },
+    {
+      "heading": "Arabian Petroleum Limited Stock Quote & Charts",
+      "sanitizedHeading": "arabian_petroleum_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "6.08",
+          null
+        ],
+        [
+          "P/E (x)",
+          "11.51",
+          "15.66"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 25, 2023 to September 27, 2023",
+    "ipoListingDate": "Mon, Oct 9, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹70.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "28,92,000 shares (aggregating up to ₹20.24 Cr)",
+    "freshIssue": "28,92,000 shares (aggregating up to ₹20.24 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,48,000 shares",
+      "maker_name": "Hem Finlease Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/250/"
+    },
+    "ipoOpenDate": "Mon, Sep 25, 2023",
+    "ipoCloseDate": "Wed, Sep 27, 2023",
+    "initiationOfRefunds": "Thu, Oct 5, 2023",
+    "creditOfSharesToDemat": "Fri, Oct 6, 2023",
+    "shareHoldingPreIssue": "80,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "80,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,08,92,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,08,92,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.45%"
+      }
+    ]
+  },
+  "closing_date": "2023-09-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+0251-2395601",
+    "email": "cs@arabianpetroleum.co.in",
+    "full_address": "Arabian Petroleum Limited, Plot 14-B Morivali M.I.D.C., Opp. Positive Packaging Ambernath (W), Ambernath Thane - 421505",
+    "website": "https://www.arabianpetroleum.co.in/index.php"
+  },
+  "createdAt": "2025-04-18T17:40:41.689Z",
+  "faqs": [
+    {
+      "question": "What is the Arabian Petroleum IPO?",
+      "answer": "<div itemprop=\"text\"><p>Arabian Petroleum IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2892000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->20.24<!-- --> Crores. The issue is priced at <span>₹70 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 25, 2023</b>, and <b>closes on <!-- -->September 27, 2023</b>.</p><p>Purva Sharegistry India Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Arabian Petroleum IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Arabian Petroleum IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Arabian Petroleum IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Arabian Petroleum IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Arabian Petroleum IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Arabian Petroleum IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Arabian Petroleum IPO opens on September 25, 2023 and closes on September 27, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Arabian Petroleum IPO?",
+      "answer": "<div itemprop=\"text\"><p>Arabian Petroleum IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,40,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Arabian Petroleum IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Arabian Petroleum IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Arabian Petroleum IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Arabian Petroleum IPO<!-- --> will be done on <!-- -->Wednesday, October 4, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, October 6, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/arabian-petroleum-ipo/1526/\" title=\"Arabian Petroleum IPO Allotment Status\">Arabian Petroleum IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Arabian Petroleum IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Arabian Petroleum IPO<!-- --> listing date is on <b>Monday, October 9, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Arabian Petroleum",
+  "issue_price": "₹70.00",
+  "issue_price_numeric": 70,
+  "issue_size": "28,92,000 shares (aggregating up to ₹20.24 Cr)",
+  "issue_size_numeric": 28,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "70.00"
+      },
+      "open": {
+        "nse_sme": "77.40"
+      },
+      "low": {
+        "nse_sme": "74.25"
+      },
+      "high": {
+        "nse_sme": "78.80"
+      },
+      "last_trade": {
+        "nse_sme": "76.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 9 2023",
+    "nse_symbol": "ARABIAN",
+    "isin": "INE08NJ01024",
+    "final_issue_price": "70 per share"
+  },
+  "listing_date": "2023-10-08T18:30:00.000Z",
+  "listing_gains": "8.93%",
+  "listing_gains_numeric": 8.93,
+  "logo": "https://www.chittorgarh.net/images/ipo/arabian-petroleum-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/arabian-petroleum-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "140000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "140000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "280000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/arabian-petroleum-ipo/1526/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-09-24T18:30:00.000Z",
+  "pageHeading": "Arabian Petroleum Limited IPO (Arabian Petroleum IPO) Detail",
+  "pageTitle": "Arabian Petroleum IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Hemant Dalsukhrai Mehta and Mr. Manan Hemant Mehta are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "73.45%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Arabian Petroleum IPO DRHP",
+      "url": "https://archives.nseindia.com/emerge/corporates/content/ArabianP_DP.pdf"
+    },
+    {
+      "text": "Arabian Petroleum IPO RHP",
+      "url": "https://archives.nseindia.com/emerge/corporates/content/ArabianP_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/arabian-petroleum-ipo/1526/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Purva Sharegistry India Pvt Ltd",
+    "phone": "+91-022-23018261/ 23016761",
+    "email": "support@purvashare.com",
+    "website": "https://www.purvashare.com/investor-service/ipo-query"
+  },
+  "reservation": {
+    "summary": "Arabian Petroleum IPO offers 2892000 shares. 1372000 (47.44%) to NII 1372000 (47.44%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "148000 (5.12%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1372000 (47.44%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1372000 (47.44%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2892000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:41.689Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Arabian Petroleum IPO is subscribed 19.91 times on September 27 2023 7:29:00 PM (Day 3). The public issue subscribed 23.19 times in the retail category [.] times in the QIB category and 15.72 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "15.72",
+        "shares_offered": "1372000",
+        "shares_bid_for": "21574000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "23.19",
+        "shares_offered": "1372000",
+        "shares_bid_for": "31818000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "19.91",
+        "shares_offered": "2744000",
+        "shares_bid_for": "54640000"
+      }
+    },
+    "total_applications": "15909",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 27 2023",
+    "tentative_allotment": "Wed Oct 4 2023",
+    "initiation_of_refunds": "Thu Oct 5 2023",
+    "credit_of_shares_to_demat": "Fri Oct 6 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:24.928Z",
+  "updated_at": "2025-04-18T17:40:41.689Z",
+  "year": 2023,
+  "worst_listing_gains": "8.93%",
+  "worst_listing_gains_numeric": 8.93
+}

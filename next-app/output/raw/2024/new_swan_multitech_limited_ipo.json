@@ -1,0 +1,461 @@
+{
+  "_id": "680249ff3ccffd1c7912c7ae",
+  "ipo_id": "2024_new_swan_multitech_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:42:38.088Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/new-swan-multitech-ipo/1610/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2014, New Swan Multitech Limited specialises in the manufacture of precision-engineered components and parts for two sectors: the automotive industry and modern farming.</p>\n<p>The company's product portfolio for the automotive industry includes assembly engine hangers, hinge body covers, front cover stay components, fuel filler cap components, main stand complete assemblies, engine guard plates, rear brake arm assemblies, separator breathers, cable guide assemblies, battery tray components, and many other parts that are important for two-wheeler vehicles.</p>\n<p>They also design and manufacture various types of brackets, such as cooling recovery reservoir brackets, exhaust tailpipe brackets, fuse block brackets, floor panel brackets, and passenger car air cleaner inlet hose brackets.</p>\n<p>For farming, the company manufactures rotovators, seeders, super seeders, weeders, potato planters, potato diggers, fertilizer spreaders, mulchers, puddlers, laser land levellers, disc ploughs and many other agricultural implements.</p>\n<p>The agricultural components manufacturing facility is located in Raian, Ludhiana, Punjab, while the auto parts manufacturing facility is located in Vithlapur village, Ahmedabad, Gujarat.</p>\n<p>As of September 30, 2023, the company's product portfolio comprises 300 SKUs of agricultural equipment and auto parts.</p>\n<p>In the automotive industry, the company's customer base includes Honda Motorcycle, Scooter India, MG Motors and Mahindra &amp; Mahindra. On the other hand, the company distributes its agricultural implements to 200 dealers in 11 Indian states, namely Punjab, Rajasthan, Jammu &amp; Kashmir, Karnataka, Tamil Nadu, Haryana, Uttar Pradesh, Madhya Pradesh, Bihar, Jharkhand and Maharashtra.</p>\n<p>In FY 2023, the operating income of the company amounted to Rs. 15,116.04 lakhs.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "New Swan Multitech Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "13801.10",
+          "12876.43",
+          "12348.80",
+          "11769.68"
+        ],
+        [
+          "Revenue",
+          "7788.21",
+          "15142.17",
+          "14552.40",
+          "14960.55"
+        ],
+        [
+          "Profit After Tax",
+          "497.53",
+          "991.93",
+          "363.14",
+          "342.63"
+        ],
+        [
+          "Net Worth",
+          "3479.28",
+          "2981.75",
+          "1989.82",
+          "1626.68"
+        ],
+        [
+          "Reserves and Surplus",
+          "2079.26",
+          "2631.74",
+          "1639.81",
+          "1276.67"
+        ],
+        [
+          "Total Borrowing",
+          "4799.12",
+          "3915.70",
+          "4800.59",
+          "4580.55"
+        ]
+      ]
+    },
+    {
+      "heading": "New Swan Multitech Ltd Stock Quote & Charts",
+      "sanitizedHeading": "new_swan_multitech_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "33.27%"
+        ],
+        [
+          "ROCE",
+          "24.86%"
+        ],
+        [
+          "Debt/Equity",
+          "1.31"
+        ],
+        [
+          "RoNW",
+          "33.27%"
+        ],
+        [
+          "Price to Book Value",
+          "0.00"
+        ]
+      ]
+    },
+    {
+      "heading": "New Swan Multitech Ltd Stock Quote & Charts",
+      "sanitizedHeading": "new_swan_multitech_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.09",
+          "5.22"
+        ],
+        [
+          "P/E (x)",
+          "9.32",
+          "12.65"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "New Swan Multitech IPO raises Rs 9.42 crore from anchor investors. New Swan Multitech IPO Anchor bid date is January 10 2024. New Swan Multitech IPO Anchor Investors list",
+    "list_link": {
+      "text": "New Swan Multitech IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/newswan-anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "April 15 2024",
+      "shares_offered": "1428000",
+      "anchor_portion_size": "9.42"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "January 11, 2024 to January 15, 2024",
+    "ipoListingDate": "Thu, Jan 18, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹66.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "50,16,000 shares (aggregating up to ₹33.11 Cr)",
+    "freshIssue": "50,16,000 shares (aggregating up to ₹33.11 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "2,56,000 shares",
+      "maker_name": "Hem Finlease Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/250/"
+    },
+    "ipoOpenDate": "Thu, Jan 11, 2024",
+    "ipoCloseDate": "Mon, Jan 15, 2024",
+    "initiationOfRefunds": "Wed, Jan 17, 2024",
+    "creditOfSharesToDemat": "Wed, Jan 17, 2024",
+    "shareHoldingPreIssue": "100%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,90,16,240 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,90,16,240 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.62%"
+      }
+    ]
+  },
+  "closing_date": "2024-01-14T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-161-4346000",
+    "email": "cs@swanagro.in",
+    "full_address": "New Swan Multitech Limited, 310 Vardhman Crown Mall Plot No. 2 Sector-19, District Court Complex Dwarka, New Delhi South West Delhi - 110 075",
+    "website": "https://www.swanagro.in/"
+  },
+  "createdAt": "2025-04-18T12:47:59.382Z",
+  "faqs": [
+    {
+      "question": "What is the New Swan Multitech IPO?",
+      "answer": "<div itemprop=\"text\"><p>New Swan Multitech IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5016000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->33.11<!-- --> Crores. The issue is priced at <span>₹66 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 11, 2024</b>, and <b>closes on <!-- -->January 15, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in New Swan Multitech IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->New Swan Multitech IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->New Swan Multitech IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->New Swan Multitech IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->New Swan Multitech IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When New Swan Multitech IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The New Swan Multitech IPO opens on January 11, 2024 and closes on January 15, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of New Swan Multitech IPO?",
+      "answer": "<div itemprop=\"text\"><p>New Swan Multitech IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,32,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for New Swan Multitech IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->New Swan Multitech IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is New Swan Multitech IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->New Swan Multitech IPO<!-- --> will be done on <!-- -->Tuesday, January 16, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, January 17, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/new-swan-multitech-ipo/1610/\" title=\"New Swan Multitech IPO Allotment Status\">New Swan Multitech IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is New Swan Multitech IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->New Swan Multitech IPO<!-- --> listing date is on <b>Thursday, January 18, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "New Swan Multitech",
+  "issue_price": "₹66.00",
+  "issue_price_numeric": 66,
+  "issue_size": "50,16,000 shares (aggregating up to ₹33.11 Cr)",
+  "issue_size_numeric": 50,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    },
+    {
+      "name": "Share India Capital Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/162/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/162/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "66.00"
+      },
+      "open": {
+        "bse_sme": "125.40"
+      },
+      "low": {
+        "bse_sme": "125.40"
+      },
+      "high": {
+        "bse_sme": "131.67"
+      },
+      "last_trade": {
+        "bse_sme": "131.67"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "January 18 2024",
+    "bse_script_code": "544082",
+    "isin": "INE0GEN01012",
+    "final_issue_price": "66 per share"
+  },
+  "listing_date": "2024-01-17T18:30:00.000Z",
+  "listing_gains": "99.50%",
+  "listing_gains_numeric": 99.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/swan-agro-multitech-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/swan-agro-multitech-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "132000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "132000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "264000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/new-swan-multitech-ipo/1610/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-01-10T18:30:00.000Z",
+  "pageHeading": "New Swan Multitech Limited IPO (New Swan Multitech IPO) Detail",
+  "pageTitle": "New Swan Multitech IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Upkar Singh Barunpreet Singh Ahuja and Kanwardeep Singh",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "73.62%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "New Swan Multitech IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/392419/DRHPwithaddendum_20231121131147.pdf"
+    },
+    {
+      "text": "New Swan Multitech IPO RHP",
+      "url": "https://www.bsesme.com/download/392419/SME_IPO%20BasisOfAllotment/Prospectus_20240116135400.pdf"
+    },
+    {
+      "text": "Anchor Investors in New Swan Multitech IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/newswan-anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "3",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/new-swan-multitech-ipo/1610/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "New Swan Multitech IPO offers 5016000 shares. 952000 (18.98%) to QIB 714000 (14.23%) to NII 1666000 (33.21%) to RII and 1428000 (28.47%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1428000 (28.47%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "256000 (5.10%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "952000 (18.98%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "714000 (14.23%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1666000 (33.21%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5016000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.382Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The New Swan Multitech IPO is subscribed 384.26 times on January 15 2024 7:02:00 PM (Day 3). The public issue subscribed 388.23 times in the retail category 110.69 times in the QIB category and 739.72 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "110.69",
+        "shares_offered": "952000",
+        "shares_bid_for": "105380000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "739.72",
+        "shares_offered": "714000",
+        "shares_bid_for": "528162000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "388.23",
+        "shares_offered": "1666000",
+        "shares_bid_for": "646798000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "384.26",
+        "shares_offered": "3332000",
+        "shares_bid_for": "1280340000"
+      }
+    },
+    "total_applications": "356724",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 15 2024",
+    "tentative_allotment": "Tue Jan 16 2024",
+    "initiation_of_refunds": "Wed Jan 17 2024",
+    "credit_of_shares_to_demat": "Wed Jan 17 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:04.161Z",
+  "updated_at": "2025-04-18T12:47:59.382Z",
+  "year": 2024,
+  "worst_listing_gains": "99.50%",
+  "worst_listing_gains_numeric": 99.5
+}

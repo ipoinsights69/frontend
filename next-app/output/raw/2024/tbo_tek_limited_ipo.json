@@ -1,0 +1,511 @@
+{
+  "_id": "68024a023ccffd1c7912c814",
+  "ipo_id": "2024_tbo_tek_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:31:20.670Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/tbo-tek-ipo/1716/"
+  },
+  "about": {
+    "details": "<p>Established in 2006, TBO Tek Limited, formerly known as Tek Travels Private Limited, is a travel distribution platform that offers travel inventory according to the needs of its customers and supports a wide range of currencies along with forex help.</p>\n<p>The company simplifies the travel business for suppliers such as hotels, airlines, car rentals, transfers, cruises, insurance, rail companies, and others, as well as for retail customers such as travel agencies and independent travel consultants, and corporate customers such as tour operators, travel management companies, online travel companies, super apps and loyalty apps through our two-sided technology platform that enables suppliers and customers to connect seamlessly.</p>\n<p>The company's platform enables sellers to show and market their inventory and set prices for buyers. For buyers, the platform is an integrated, multi-currency, and multi-lingual, one-stop solution that helps them discover and book travel to destinations around the world, across various travel segments such as leisure, business and religious travel.</p>\n<p>As at December 31, 2023, the company had sold over 7,500 destinations in more than 100 countries and employed over 2,000 people.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "TBO Tek Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3754.05",
+          "2557.93",
+          "1271.43",
+          "576.16"
+        ],
+        [
+          "Revenue",
+          "1039.56",
+          "1085.77",
+          "511.93",
+          "176.55"
+        ],
+        [
+          "Profit After Tax",
+          "154.18",
+          "148.49",
+          "33.72",
+          "-34.14"
+        ],
+        [
+          "Net Worth",
+          "501.21",
+          "337.19",
+          "231.90",
+          "204.07"
+        ],
+        [
+          "Reserves and Surplus",
+          "478.43",
+          "317.57",
+          "214.08",
+          "197.58"
+        ],
+        [
+          "Total Borrowing",
+          "2.93",
+          "6.36",
+          "2.69",
+          null
+        ]
+      ]
+    },
+    {
+      "heading": "TBO TEK Limited Stock Quote & Charts",
+      "sanitizedHeading": "tbo_tek_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "RoNW",
+          "30.76"
+        ],
+        [
+          "Price to Book Value",
+          "18.66"
+        ]
+      ]
+    },
+    {
+      "heading": "TBO TEK Limited Stock Quote & Charts",
+      "sanitizedHeading": "tbo_tek_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "14.25",
+          "18.93"
+        ],
+        [
+          "P/E (x)",
+          "64.58",
+          "48.6"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "TBO Tek IPO raises Rs 696.51 crore from anchor investors. TBO Tek IPO Anchor bid date is May 7 2024. TBO Tek IPO Anchor Investors list",
+    "list_link": {
+      "text": "TBO Tek IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/tbotek-anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "August 11 2024",
+      "shares_offered": "7570807",
+      "anchor_portion_size": "696.51"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "May 8, 2024 to May 10, 2024",
+    "ipoListingDate": "Wed, May 15, 2024",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹920.00",
+    "lotSize": "16 Shares",
+    "issueSize": "1,68,56,623 shares (aggregating up to ₹1,550.81 Cr)",
+    "freshIssue": "43,47,826 shares (aggregating up to ₹400.00 Cr)",
+    "offerForSale": "1,25,08,797 shares of ₹1 (aggregating up to ₹1,150.81 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, May 8, 2024",
+    "ipoCloseDate": "Fri, May 10, 2024",
+    "initiationOfRefunds": "Tue, May 14, 2024",
+    "creditOfSharesToDemat": "Tue, May 14, 2024",
+    "shareHoldingPreIssue": "10,42,39,961 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "10,42,39,961 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "51.26%"
+      }
+    ],
+    "shareHoldingPostIssue": "10,85,87,787 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "10,85,87,787 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-05-09T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 124 499 8999",
+    "email": "corporatesecretarial@tbo.com",
+    "full_address": "TBO Tek Limited, E - 78, South Extension Part I, New Delhi – 110 049",
+    "website": "http://www.tbo.com/"
+  },
+  "createdAt": "2025-04-18T12:48:02.870Z",
+  "faqs": [
+    {
+      "question": "What is the TBO Tek IPO?",
+      "answer": "<div itemprop=\"text\"><p>TBO Tek IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->16856623<!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->1,550.81<!-- --> Crores. The issue is priced at <span>₹920 per share</span>. The minimum order quantity is <!-- -->16<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 8, 2024</b>, and <b>closes on <!-- -->May 10, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in TBO Tek IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->TBO Tek IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->TBO Tek IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->TBO Tek IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->TBO Tek IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When TBO Tek IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The TBO Tek IPO opens on May 8, 2024 and closes on May 10, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of TBO Tek IPO?",
+      "answer": "<div itemprop=\"text\"><p>TBO Tek IPO<!-- --> <b>lot size is <!-- -->16</b>, and the <b>minimum amount required is <span>₹14,720</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for TBO Tek IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->TBO Tek IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is TBO Tek IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->TBO Tek IPO<!-- --> will be done on <!-- -->Monday, May 13, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, May 14, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/tbo-tek-ipo/1716/\" title=\"TBO Tek IPO Allotment Status\">TBO Tek IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is TBO Tek IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->TBO Tek IPO<!-- --> listing date is on <b>Wednesday, May 15, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "TBO Tek",
+  "issue_price": "₹920.00",
+  "issue_price_numeric": 920,
+  "issue_size": "1,68,56,623 shares (aggregating up to ₹1,550.81 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Jefferies India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/112/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/112/"
+    },
+    {
+      "name": "Goldman Sachs",
+      "url": "/report/ipo-lead-manager-review/112/75/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/75/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "920.00",
+        "nse": "920.00"
+      },
+      "open": {
+        "bse": "1380.00",
+        "nse": "1426.00"
+      },
+      "low": {
+        "bse": "1275.00",
+        "nse": "1275.00"
+      },
+      "high": {
+        "bse": "1455.95",
+        "nse": "1455.95"
+      },
+      "last_trade": {
+        "bse": "1404.85",
+        "nse": "1406.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 15 2024",
+    "bse_script_code": "544174",
+    "nse_symbol": "TBOTEK",
+    "isin": "INE673O01025",
+    "final_issue_price": "920 per share"
+  },
+  "listing_date": "2024-05-14T18:30:00.000Z",
+  "listing_gains": "52.70%",
+  "listing_gains_numeric": 52.7,
+  "logo": "https://www.chittorgarh.net/images/ipo/tbo-tek-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/tbo-tek-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 16 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "16",
+        "amount": "14720"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "208",
+        "amount": "191360"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "224",
+        "amount": "206080"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "1072",
+        "amount": "986240"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "1088",
+        "amount": "1000960"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/tbo-tek-ipo/1716/"
+    }
+  },
+  "lot_size": 16,
+  "opening_date": "2024-05-07T18:30:00.000Z",
+  "pageHeading": "TBO Tek Limited IPO (TBO Tek IPO) Detail",
+  "pageTitle": "TBO Tek IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Ankush Nijhawan Gaurav Bhatnagar Manish Dhingra and Arjun Nijhawan are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "51.26%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "TBO Tek IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2023/tbo-tek-limited-drhp_79211.html"
+    },
+    {
+      "text": "TBO Tek IPO Addendum DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/tbo-tek-ltd-addendum-to-drhp_81568.html"
+    },
+    {
+      "text": "TBO Tek IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2024/tbo-tek-limited-rhp_83137.html"
+    },
+    {
+      "text": "Anchor Investors in TBO Tek IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/tbotek-anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "13",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/tbo-tek-ipo/1716/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "tbo.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "TBO Tek IPO offers 16856623 shares. 5047204 (29.94%) to QIB 2523602 (14.97%) to NII 1682401 (9.98%) to RII 32609 (0.19%) to employees and 7570807 (44.91%) to Anchor investors. 105150 RIIs will receive minimum 16 shares and 3755 (sNII) and 7510 (bNII) will receive minimum 224 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "7570807 (44.91%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "5047204 (29.94%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2523602 (14.97%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1682401 (9.98%)",
+        "maximum_allottees": "7510"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "841201 (4.99%)",
+        "maximum_allottees": "3755"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1682401 (9.98%)",
+        "maximum_allottees": "105150"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "32609 (0.19%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "16856623 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:02.870Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The TBO Tek IPO is subscribed 86.69 times on May 10 2024 6:19:07 PM (Day 3). The public issue subscribed 25.72 times in the retail category 125.51 times in the QIB category and 50.6 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "125.51",
+        "shares_offered": "5047204",
+        "shares_bid_for": "633476128"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "50.6",
+        "shares_offered": "2523602",
+        "shares_bid_for": "127688320"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "55.82",
+        "shares_offered": "1682401",
+        "shares_bid_for": "93909920"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "40.15",
+        "shares_offered": "841201",
+        "shares_bid_for": "33778400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "25.72",
+        "shares_offered": "1682401",
+        "shares_bid_for": "43275456"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "17.81",
+        "shares_offered": "32609",
+        "shares_bid_for": "580720"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "86.69",
+        "shares_offered": "9285816",
+        "shares_bid_for": "805020624"
+      }
+    },
+    "total_applications": "2381094"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 10 2024",
+    "tentative_allotment": "Mon May 13 2024",
+    "initiation_of_refunds": "Tue May 14 2024",
+    "credit_of_shares_to_demat": "Tue May 14 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:17.212Z",
+  "updated_at": "2025-04-18T12:48:02.870Z",
+  "year": 2024,
+  "worst_listing_gains": "52.70%",
+  "worst_listing_gains_numeric": 52.7
+}

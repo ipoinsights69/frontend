@@ -1,0 +1,446 @@
+{
+  "_id": "680249ff3ccffd1c7912c7bf",
+  "ipo_id": "2024_petro_carbon_and_chemicals_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:27:49.015Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/petro-carbon-and-chemicals-ipo/1759/"
+  },
+  "about": {
+    "details": "<p>Petro Carbon and Chemicals Limited, an ATHA Group company, was founded in 2007 and is engaged in the production of calcined petroleum coke (CPC) for the carbon industry.</p>\n<p>The company produces calcined petroleum coke, commonly known as CPC, from raw petroleum coke (RPC), also known as green petroleum coke, for use in the manufacture and production of aluminum, steel and various other carbon-based products.</p>\n<p>The company's production facility is located in Purba Medinipur, West Bengal, and has a capacity of around 93,744 tons of CPC per annum; the plant is spread over an area of around 30 acres.</p>\n<p>The company employs around 74 people at various levels in the areas of production, maintenance, marketing, sales, administration and corporate services. In addition, the company employs around 290 contract workers at its current production facility.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Petro Carbon and Chemicals Limited Financial Information (Restated Standalone)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "27432.35",
+          "26379.12",
+          "27703.56",
+          "15992.29"
+        ],
+        [
+          "Revenue",
+          "44711.11",
+          "51760.99",
+          "27990.70",
+          "15528.68"
+        ],
+        [
+          "Profit After Tax",
+          "7031.16",
+          "672.65",
+          "570.99",
+          "11.64"
+        ],
+        [
+          "Net Worth",
+          "10653.34",
+          "3752.81",
+          "3080.17",
+          "2509.17"
+        ],
+        [
+          "Reserves and Surplus",
+          "12528.21",
+          "5561.06",
+          "4973.20",
+          "4489.97"
+        ],
+        [
+          "Total Borrowing",
+          "8063.02",
+          "17582.78",
+          "19418.00",
+          "8182.43"
+        ]
+      ]
+    },
+    {
+      "heading": "Petro Carbon And Chemicals Limited Stock Quote & Charts",
+      "sanitizedHeading": "petro_carbon_and_chemicals_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROCE",
+          "60.36%"
+        ],
+        [
+          "Debt/Equity",
+          "0.54"
+        ],
+        [
+          "RoNW",
+          "66.00%"
+        ],
+        [
+          "PAT Margin",
+          "15.78"
+        ]
+      ]
+    },
+    {
+      "heading": "Petro Carbon And Chemicals Limited Stock Quote & Charts",
+      "sanitizedHeading": "petro_carbon_and_chemicals_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "66.02",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Petro Carbon and Chemicals IPO raises Rs 31.72 crore from anchor investors. Petro Carbon and Chemicals IPO Anchor bid date is June 24 2024. Petro Carbon and Chemicals IPO Anchor Investors list",
+    "list_link": {
+      "text": "Petro Carbon and Chemicals IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/pccl_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "September 26 2024",
+      "shares_offered": "1855200",
+      "anchor_portion_size": "31.72"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "June 25, 2024 to June 27, 2024",
+    "ipoListingDate": "Tue, Jul 2, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹171.00",
+    "lotSize": "800 Shares",
+    "issueSize": "66,17,600 shares (aggregating up to ₹113.16 Cr)",
+    "offerForSale": "66,17,600 shares of ₹10 (aggregating up to ₹113.16 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "4,30,400 shares",
+      "maker_name": "Giriraj Stock Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/245/"
+    },
+    "ipoOpenDate": "Tue, Jun 25, 2024",
+    "ipoCloseDate": "Thu, Jun 27, 2024",
+    "initiationOfRefunds": "Mon, Jul 1, 2024",
+    "creditOfSharesToDemat": "Mon, Jul 1, 2024",
+    "shareHoldingPreIssue": "2,47,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,47,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,47,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,47,00,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-06-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "033-40118400",
+    "email": "pccl@athagroup.in",
+    "full_address": "Petro Carbon and Chemicals Limited, Avani Signature 6th Floor, 91A/1 Park Street, Kolkata - 700016",
+    "website": "http://www.pccl.in/"
+  },
+  "createdAt": "2025-04-18T12:47:59.681Z",
+  "faqs": [
+    {
+      "question": "What is the Petro Carbon and Chemicals IPO?",
+      "answer": "<div itemprop=\"text\"><p>Petro Carbon and Chemicals IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6617600<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->113.16<!-- --> Crores. The issue is priced at <span>₹171 per share</span>. The minimum order quantity is <!-- -->800<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 25, 2024</b>, and <b>closes on <!-- -->June 27, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Petro Carbon and Chemicals IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Petro Carbon and Chemicals IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Petro Carbon and Chemicals IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Petro Carbon and Chemicals IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Petro Carbon and Chemicals IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Petro Carbon and Chemicals IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Petro Carbon and Chemicals IPO opens on June 25, 2024 and closes on June 27, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Petro Carbon and Chemicals IPO?",
+      "answer": "<div itemprop=\"text\"><p>Petro Carbon and Chemicals IPO<!-- --> <b>lot size is <!-- -->800</b>, and the <b>minimum amount required is <span>₹1,36,800</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Petro Carbon and Chemicals IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Petro Carbon and Chemicals IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Petro Carbon and Chemicals IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Petro Carbon and Chemicals IPO<!-- --> will be done on <!-- -->Friday, June 28, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, July 1, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/petro-carbon-and-chemicals-ipo/1759/\" title=\"Petro Carbon and Chemicals IPO Allotment Status\">Petro Carbon and Chemicals IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Petro Carbon and Chemicals IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Petro Carbon and Chemicals IPO<!-- --> listing date is on <b>Tuesday, July 2, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Petro Carbon and Chemicals",
+  "issue_price": "₹171.00",
+  "issue_price_numeric": 171,
+  "issue_size": "66,17,600 shares (aggregating up to ₹113.16 Cr)",
+  "issue_size_numeric": 66,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "GYR Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/182/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/182/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "171.00"
+      },
+      "open": {
+        "nse_sme": "300.00"
+      },
+      "low": {
+        "nse_sme": "285.00"
+      },
+      "high": {
+        "nse_sme": "315.00"
+      },
+      "last_trade": {
+        "nse_sme": "315.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "July 2 2024",
+    "nse_symbol": "PCCL",
+    "isin": "INE998U01015",
+    "final_issue_price": "171 per share"
+  },
+  "listing_date": "2024-07-01T18:30:00.000Z",
+  "listing_gains": "84.21%",
+  "listing_gains_numeric": 84.21,
+  "logo": "https://www.chittorgarh.net/images/ipo/petro-carbon-and-chemicals-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/petro-carbon-and-chemicals-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 800 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "800",
+        "amount": "136800"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "800",
+        "amount": "136800"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "1600",
+        "amount": "273600"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/petro-carbon-and-chemicals-ipo/1759/"
+    }
+  },
+  "lot_size": 800,
+  "opening_date": "2024-06-24T18:30:00.000Z",
+  "pageHeading": "Petro Carbon and Chemicals Limited IPO (Petro Carbon and Chemicals IPO) Detail",
+  "pageTitle": "Petro Carbon and Chemicals IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Promoters of the company being Kishor Kumar Atha Dilip Kumar Atha Gaurav Atha Vishal Atha and Bharat Atha.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Petro Carbon and Chemicals IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/PetroCarbonandChemicalsLimited_DRHP.zip"
+    },
+    {
+      "text": "Petro Carbon and Chemicals IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/PetroCarbonandChemicalsLimited_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Petro Carbon and Chemicals IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/pccl_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/petro-carbon-and-chemicals-ipo/1759/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Petro Carbon and Chemicals IPO offers 6617600 shares. 1236800 (18.69%) to QIB 928800 (14.04%) to NII 2166400 (32.74%) to RII and 1855200 (28.03%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1855200 (28.03%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "430400 (6.50%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1236800 (18.69%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "928800 (14.04%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2166400 (32.74%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6617600 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.681Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Petro Carbon and Chemicals IPO is subscribed 92.01 times on June 27 2024 6:19:55 PM (Day 3). The public issue subscribed 74.34 times in the retail category 94.49 times in the QIB category and 129.91 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "94.49",
+        "shares_offered": "1236800",
+        "shares_bid_for": "116869600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "129.91",
+        "shares_offered": "928800",
+        "shares_bid_for": "120663200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "74.34",
+        "shares_offered": "2166400",
+        "shares_bid_for": "161051200"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "92.01",
+        "shares_offered": "4332000",
+        "shares_bid_for": "398584000"
+      }
+    },
+    "total_applications": "201314",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 27 2024",
+    "tentative_allotment": "Fri Jun 28 2024",
+    "initiation_of_refunds": "Mon Jul 1 2024",
+    "credit_of_shares_to_demat": "Mon Jul 1 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:06.511Z",
+  "updated_at": "2025-04-18T12:47:59.681Z",
+  "year": 2024,
+  "worst_listing_gains": "84.21%",
+  "worst_listing_gains_numeric": 84.21
+}

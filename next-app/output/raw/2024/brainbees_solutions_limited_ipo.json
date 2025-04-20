@@ -1,0 +1,458 @@
+{
+  "_id": "680249fb3ccffd1c7912c721",
+  "ipo_id": "2024_brainbees_solutions_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": false,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:24:51.070Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/brainbees-solutions-firstcry-ipo/1801/"
+  },
+  "about": {
+    "details": "<p>Founded in 2010, Brainbees Solutions Limited offers products for mothers, babies, and Kids via its online platform 'FirstCry'.</p>\n<p>Brainbees Solutions (Firstcry)'s mission is to create a one-stop store for parents' retail, content, community engagement, and education needs. The company offers everything needed for an infant up to the age of 12, including apparel, footwear, baby gear, nursery, diapers, toys, and personal care, amongst others. The company offers products from Indian third-party brands, global brands, and its own brands. The company has an extensive offering for mothers, babies, and Kids with more than 1.5 million SKUs from more than 7,500 brands on its multi-channel platform across categories including apparel and fashion, toys, books, school supplies, diapers, bath and skincare, nutrition and breastfeeding, health and safety, baby gear and maternity wear (as of December 31, 2023).</p>\n<p>Brainbees Solutions (Firstcry)'s strong brand awareness and customer trust are reflected in the launch of BabyHug, one of Brainbees Solutions (Firstcry)'s house brands. According to a RedSeer report, this is the largest multi-category brand for mother, baby, and kids products in India, regarding GMV, for the year ending December 2023. Its other key house brands include Pine Kids, Cute Walk by BabyHug, and Babyoye.</p>\n<p>According to a report by RedSeer Report, Brainbees Solutions (Firstcry) is the largest specialized online retail platform for maternal, baby, and Kids' products in the UAE, in terms of GMV, for the year ending December 2023.</p>\n<p>For the nine months ended December 31, 2023, and the financial years 2023, 2022, and 2021, the Company had a network of more than 900 contract manufacturers in India and other countries for its house brands, excluding contract manufacturers engaged by Globalbees Brands and its subsidiaries.</p>\n<p>As of December 31, 2023, the company employed 3,411 full-time employees and 2,475 employees on a contract basis.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Brainbees Solutions Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "7510.38",
+          "7119.83",
+          "6197.16"
+        ],
+        [
+          "Revenue",
+          "6575.08",
+          "5731.28",
+          "2516.92"
+        ],
+        [
+          "Profit After Tax",
+          "-321.51",
+          "-486.06",
+          "-78.69"
+        ],
+        [
+          "Net Worth",
+          "3170.74",
+          "3456.26",
+          "3527.94"
+        ],
+        [
+          "Reserves and Surplus",
+          "3081.74",
+          "3367.21",
+          "3439.17"
+        ],
+        [
+          "Total Borrowing",
+          "462.72",
+          "176.47",
+          "90.16"
+        ]
+      ]
+    },
+    {
+      "heading": "Brainbees Solutions Limited Stock Quote & Charts",
+      "sanitizedHeading": "brainbees_solutions_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "RoNW",
+          "-8.65%"
+        ],
+        [
+          "Price to Book Value",
+          "6.49"
+        ]
+      ]
+    },
+    {
+      "heading": "Brainbees Solutions Limited Stock Quote & Charts",
+      "sanitizedHeading": "brainbees_solutions_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "-6.65",
+          "-6.19"
+        ],
+        [
+          "P/E (x)",
+          "-69.91",
+          "-75.09"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Brainbees Solutions (Firstcry) IPO raises Rs 1885.83 crore from anchor investors. Brainbees Solutions (Firstcry) IPO Anchor bid date is August 5 2024. Brainbees Solutions (Firstcry) IPO Anchor Investors list",
+    "list_link": {
+      "text": "Brainbees Solutions (Firstcry) IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/brainbees-solutions-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "November 7 2024",
+      "shares_offered": "40555428",
+      "anchor_portion_size": "1885.83"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 6, 2024 to August 8, 2024",
+    "ipoListingDate": "Tue, Aug 13, 2024",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹465.00",
+    "lotSize": "32 Shares",
+    "issueSize": "9,01,87,690 shares (aggregating up to ₹4,193.73 Cr)",
+    "freshIssue": "3,58,27,957 shares (aggregating up to ₹1,666.00 Cr)",
+    "offerForSale": "5,43,59,733 shares of ₹2 (aggregating up to ₹2,527.73 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Aug 6, 2024",
+    "ipoCloseDate": "Thu, Aug 8, 2024",
+    "initiationOfRefunds": "Mon, Aug 12, 2024",
+    "creditOfSharesToDemat": "Mon, Aug 12, 2024",
+    "shareHoldingPreIssue": "48,33,49,470 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "48,33,49,470 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "51,91,77,427 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "51,91,77,427 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-08-07T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 84829 89157",
+    "email": "companysecretary@firstcry.com",
+    "full_address": "Brainbees Solutions Limited, Rajashree Business Park Survey No. 338, Next to Sohrabh Hall, Tadiwala Road Pune - 411 001",
+    "website": "https://www.firstcry.com/"
+  },
+  "createdAt": "2025-04-18T12:47:55.602Z",
+  "faqs": [
+    {
+      "question": "What is the Brainbees Solutions (Firstcry) IPO?",
+      "answer": "<div itemprop=\"text\"><p>Brainbees Solutions (Firstcry) IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->90187690<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->4,193.73<!-- --> Crores. The issue is priced at <span>₹465 per share</span>. The minimum order quantity is <!-- -->32<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 6, 2024</b>, and <b>closes on <!-- -->August 8, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Brainbees Solutions (Firstcry) IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Brainbees Solutions (Firstcry) IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Brainbees Solutions (Firstcry) IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Brainbees Solutions (Firstcry) IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Brainbees Solutions (Firstcry) IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Brainbees Solutions (Firstcry) IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Brainbees Solutions (Firstcry) IPO opens on August 6, 2024 and closes on August 8, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Brainbees Solutions (Firstcry) IPO?",
+      "answer": "<div itemprop=\"text\"><p>Brainbees Solutions (Firstcry) IPO<!-- --> <b>lot size is <!-- -->32</b>, and the <b>minimum amount required is <span>₹14,880</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Brainbees Solutions (Firstcry) IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Brainbees Solutions (Firstcry) IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Brainbees Solutions (Firstcry) IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Brainbees Solutions (Firstcry) IPO<!-- --> will be done on <!-- -->Friday, August 9, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, August 12, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/brainbees-solutions-firstcry-ipo/1801/\" title=\"Brainbees Solutions (Firstcry) IPO Allotment Status\">Brainbees Solutions (Firstcry) IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Brainbees Solutions (Firstcry) IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Brainbees Solutions (Firstcry) IPO<!-- --> listing date is on <b>Tuesday, August 13, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Brainbees Solutions",
+  "issue_price": "₹465.00",
+  "issue_price_numeric": 465,
+  "issue_size": "9,01,87,690 shares (aggregating up to ₹4,193.73 Cr)",
+  "issue_size_numeric": 9,
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "465.00",
+        "nse": "465.00"
+      },
+      "open": {
+        "bse": "625.00",
+        "nse": "651.00"
+      },
+      "low": {
+        "bse": "625.00",
+        "nse": "640.00"
+      },
+      "high": {
+        "bse": "707.05",
+        "nse": "707.70"
+      },
+      "last_trade": {
+        "bse": "678.25",
+        "nse": "679.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 13 2024",
+    "bse_script_code": "544226",
+    "nse_symbol": "FIRSTCRY",
+    "isin": "INE02RE01045",
+    "final_issue_price": "465 per share"
+  },
+  "listing_date": "2024-08-12T18:30:00.000Z",
+  "listing_gains": "45.86%",
+  "listing_gains_numeric": 45.86,
+  "logo": "https://www.chittorgarh.net/images/ipo/brainbees-solutions-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/brainbees-solutions-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 32 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "32",
+        "amount": "14880"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "416",
+        "amount": "193440"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "448",
+        "amount": "208320"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2144",
+        "amount": "996960"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2176",
+        "amount": "1011840"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/brainbees-solutions-firstcry-ipo/1801/"
+    }
+  },
+  "lot_size": 32,
+  "opening_date": "2024-08-05T18:30:00.000Z",
+  "pageHeading": "Brainbees Solutions Limited IPO (Brainbees Solutions (Firstcry) IPO) Detail",
+  "pageTitle": "Brainbees Solutions (Firstcry) IPO Date, Price, GMP, Details",
+  "prospectusLinks": [
+    {
+      "text": "Brainbees Solutions (Firstcry) IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2024/brainbees-solutions-limited-drhp_83166.html"
+    },
+    {
+      "text": "Brainbees Solutions (Firstcry) IPO RHP",
+      "url": "https://nsearchives.nseindia.com/content/equities/IPO_RHP_FIRSTCRY.pdf"
+    },
+    {
+      "text": "Anchor Investors in Brainbees Solutions (Firstcry) IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/brainbees-solutions-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "11",
+        "neutral": "3",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "3",
+        "neutral": "0",
+        "avoid": "2"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/brainbees-solutions-firstcry-ipo/1801/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "brainbees.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Brainbees Solutions (Firstcry) IPO offers 90194432 shares. 27036953 (29.98%) to QIB 13518476 (14.99%) to NII 9012317 (9.99%) to RII 71258 (0.08%) to employees and 40555428 (44.96%) to Anchor investors. 281634 RIIs will receive minimum 32 shares and 10058 (sNII) and 20116 (bNII) will receive minimum 448 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "40555428 (44.96%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "27036953 (29.98%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "13518476 (14.99%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "9012318 (9.99%)",
+        "maximum_allottees": "20116"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "4506158 (5.00%)",
+        "maximum_allottees": "10058"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "9012317 (9.99%)",
+        "maximum_allottees": "281634"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "71258 (0.08%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "90194432 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:55.601Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Brainbees Solutions (Firstcry) IPO is subscribed 12.22 times on August 8 2024 6:19:08 PM (Day 3). The public issue subscribed 2.31 times in the retail category 19.3 times in the QIB category and 4.68 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "19.3",
+        "shares_offered": "27036953",
+        "shares_bid_for": "521904896"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "4.68",
+        "shares_offered": "13518476",
+        "shares_bid_for": "63238304"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "5.32",
+        "shares_offered": "9012318",
+        "shares_bid_for": "47978944"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "3.39",
+        "shares_offered": "4506158",
+        "shares_bid_for": "15259360"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.31",
+        "shares_offered": "9012317",
+        "shares_bid_for": "20816224"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "6.57",
+        "shares_offered": "71258",
+        "shares_bid_for": "468000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "12.22",
+        "shares_offered": "49639004",
+        "shares_bid_for": "606427424"
+      }
+    },
+    "total_applications": "573431"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 8 2024",
+    "tentative_allotment": "Fri Aug 9 2024",
+    "initiation_of_refunds": "Mon Aug 12 2024",
+    "credit_of_shares_to_demat": "Mon Aug 12 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:41.104Z",
+  "updated_at": "2025-04-18T12:47:55.601Z",
+  "year": 2024,
+  "worst_listing_gains": "45.86%",
+  "worst_listing_gains_numeric": 45.86,
+  "last_performance_update": "2025-04-19T04:43:41.103Z"
+}

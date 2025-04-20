@@ -1,0 +1,555 @@
+{
+  "_id": "68024a033ccffd1c7912c830",
+  "ipo_id": "2024_ventive_hospitality_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:15:22.364Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ventive-hospitality-ipo/1939/"
+  },
+  "about": {
+    "details": "<p>Incorporated in February 2002, Ventive Hospitality Limited is in the hospitality business, primarily focusing on business and leisure segments. The company primarily focuses on developing and managing high-end luxury hotels and resorts.</p>\n<p>As of September 30, 2024, the company has 11 operational hospitality assets in India and the Maldives, with 2,036 keys across various upscale segments.</p>\n<p>The company's hospitality assets are operated by or franchised by global operators such as Marriott, Hilton, Minor and Atmosphere.</p>\n<p>The company's hotels are located in prime areas like Pune and Bengaluru, popular tourist spots such as the Maldives, and significant spiritual and cultural centres like Varanasi.</p>\n<p>The company's pre-acquisition luxury hospitality asset comprises JW Marriott, Pune, and its post-acquisition luxury hospitality assets comprise JW Marriott, Pune, The Ritz-Carlton, Pune, Conrad, Maldives, Anantara, Maldives and Raaya by Atmosphere, Maldives.</p>\n<p>As of September 30, 2024, the company had 2,791 permanent employees and employed 632 personnel on a contract basis across its hospitality assets.</p>\n<p><strong>Competitive Strengths</strong></p>\n<ul>\n<li>Premium hospitality assets complemented by Grade A annuity assets</li>\n<li>Established track record of development and acquisition-led growth in India and the Maldives</li>\n<li>Renowned Promoters with global and local expertise</li>\n<li>Professional and experienced management team</li>\n<li>Proven track record of adding value through active asset management</li>\n<li>Well-positioned to benefit from strong industry tailwinds</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Ventive Hospitality IPO Details",
+      "sanitizedHeading": "ventive_hospitality",
+      "headers": [
+        "Application Category",
+        "Maximum Bidding Limits",
+        "Bidding at Cut-off Price Allowed"
+      ],
+      "rows": [
+        [
+          "Only RII",
+          "Up to Rs 2 Lakhs",
+          "Yes"
+        ],
+        [
+          "Only sNII",
+          "Rs 2 Lakhs to Rs 10 Lakhs",
+          "No"
+        ],
+        [
+          "Only bNII",
+          "Rs 10 Lakhs to NII Reservation Portion",
+          "No"
+        ],
+        [
+          "Only employee",
+          "Up to Rs 5 Lakhs",
+          "Yes"
+        ],
+        [
+          "Employee + RII/NII",
+          "Employee limit: Up to Rs 5 Lakhs (In certain cases employees are given discount if bidding amount is upto Rs. 2 lakhs) If applying as RII: Upto Rs. 2 lakhs If applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+          "Yes for Employee and RII/NII"
+        ]
+      ]
+    },
+    {
+      "heading": "Ventive Hospitality Limited Financial Information (Proforma Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          null,
+          "8794.1",
+          "8606.17",
+          "8010.41"
+        ],
+        [
+          "Revenue",
+          "875.9",
+          "1907.38",
+          "1762.19",
+          "1197.61"
+        ],
+        [
+          "Profit After Tax",
+          "-137.83",
+          "-66.75",
+          "15.68",
+          "-146.2"
+        ],
+        [
+          "Net Worth",
+          null,
+          "3665.83",
+          "3657.15",
+          "3441.39"
+        ],
+        [
+          "Total Borrowing",
+          null,
+          "3682.13",
+          "3599.66",
+          "3291.07"
+        ]
+      ]
+    },
+    {
+      "heading": "Ventive Hospitality Limited Stock Quote & Charts",
+      "sanitizedHeading": "ventive_hospitality_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "RoNW",
+          "-1.82%"
+        ],
+        [
+          "Price to Book Value",
+          "3.66"
+        ]
+      ]
+    },
+    {
+      "heading": "Ventive Hospitality Limited Stock Quote & Charts",
+      "sanitizedHeading": "ventive_hospitality_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "-3.20",
+          "-11.80"
+        ],
+        [
+          "P/E (x)",
+          "-201.01",
+          "-54.48"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Ventive Hospitality IPO raises Rs 719.55 crore from anchor investors. Ventive Hospitality IPO Anchor bid date is December 19 2024. Ventive Hospitality IPO Anchor Investors list",
+    "list_link": {
+      "text": "Ventive Hospitality IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/ventive_hospitality_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "March 25 2025",
+      "shares_offered": "11190513",
+      "anchor_portion_size": "719.55"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 20, 2024 to December 24, 2024",
+    "ipoListingDate": "Mon, Dec 30, 2024",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹643.00",
+    "lotSize": "23 Shares",
+    "issueSize": "2,48,83,358 shares (aggregating up to ₹1,600.00 Cr)",
+    "freshIssue": "2,48,83,358 shares (aggregating up to ₹1,600.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Dec 20, 2024",
+    "ipoCloseDate": "Tue, Dec 24, 2024",
+    "initiationOfRefunds": "Fri, Dec 27, 2024",
+    "creditOfSharesToDemat": "Fri, Dec 27, 2024",
+    "shareHoldingPreIssue": "20,86,57,830 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "20,86,57,830 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.59%"
+      }
+    ],
+    "shareHoldingPostIssue": "23,35,41,188 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "23,35,41,188 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "88.98%"
+      }
+    ]
+  },
+  "closing_date": "2024-12-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 2069061900",
+    "email": "CS@ventivehospitality.com",
+    "full_address": "Ventive Hospitality Limited, 2 nd Floor Tower D Tech Park One, Yerwada, Pune 411006",
+    "website": "https://www.ventivehospitality.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.656Z",
+  "faqs": [
+    {
+      "question": "What is the Ventive Hospitality IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ventive Hospitality IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->24883358<!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->1,600.00<!-- --> Crores. The issue is priced at <span>₹643 per share</span>. The minimum order quantity is <!-- -->23<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 20, 2024</b>, and <b>closes on <!-- -->December 24, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Ventive Hospitality IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Ventive Hospitality IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Ventive Hospitality IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Ventive Hospitality IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Ventive Hospitality IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Ventive Hospitality IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Ventive Hospitality IPO opens on December 20, 2024 and closes on December 24, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Ventive Hospitality IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ventive Hospitality IPO<!-- --> <b>lot size is <!-- -->23</b>, and the <b>minimum amount required is <span>₹14,789</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Ventive Hospitality IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Ventive Hospitality IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Ventive Hospitality IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Ventive Hospitality IPO<!-- --> will be done on <!-- -->Thursday, December 26, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, December 27, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/ventive-hospitality-ipo/1939/\" title=\"Ventive Hospitality IPO Allotment Status\">Ventive Hospitality IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Ventive Hospitality IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Ventive Hospitality IPO<!-- --> listing date is on <b>Monday, December 30, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Ventive Hospitality",
+  "issue_price": "₹643.00",
+  "issue_price_numeric": 643,
+  "issue_size": "2,48,83,358 shares (aggregating up to ₹1,600.00 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Hsbc Securities & Capital Markets Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/69/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/69/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "643.00",
+        "nse": "643.00"
+      },
+      "open": {
+        "bse": "718.15",
+        "nse": "716.00"
+      },
+      "low": {
+        "bse": "701.55",
+        "nse": "702.00"
+      },
+      "high": {
+        "bse": "748.80",
+        "nse": "749.00"
+      },
+      "last_trade": {
+        "bse": "704.55",
+        "nse": "704.35"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 30 2024",
+    "bse_script_code": "544321",
+    "nse_symbol": "VENTIVE",
+    "isin": "INE781S01027",
+    "final_issue_price": "643 per share"
+  },
+  "listing_date": "2024-12-29T18:30:00.000Z",
+  "listing_gains": "9.57%",
+  "listing_gains_numeric": 9.57,
+  "logo": "https://www.chittorgarh.net/images/ipo/ventive_hospitality-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/ventive_hospitality-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 23 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "23",
+        "amount": "14789"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "299",
+        "amount": "192257"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "322",
+        "amount": "207046"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "1541",
+        "amount": "990863"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "1564",
+        "amount": "1005652"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ventive-hospitality-ipo/1939/"
+    }
+  },
+  "lot_size": 23,
+  "opening_date": "2024-12-19T18:30:00.000Z",
+  "pageHeading": "Ventive Hospitality Limited IPO (Ventive Hospitality IPO) Detail",
+  "pageTitle": "Ventive Hospitality IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The company's Promoters are Atul I. Chordia Atul I. Chordia HUF Premsagar Infra Realty Private Limited BRE Asia ICC Holdings Ltd and BREP Asia III India Holding Co VI Pte. Ltd.",
+    "holdings": {
+      "share_holding_pre_issue": "99.59%",
+      "share_holding_post_issue": "88.98%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Ventive Hospitality IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/ventive-hospitality-limited_86694.html"
+    },
+    {
+      "text": "Ventive Hospitality IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/ventive-hospitality-limited-rhp_89974.html"
+    },
+    {
+      "text": "Anchor Investors in Ventive Hospitality IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/ventive_hospitality_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "2",
+        "neutral": "2",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ventive-hospitality-ipo/1939/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "ventive.ipo@sbicaps.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Ventive Hospitality IPO offers 24884119 shares. 7460342 (29.98%) to QIB 3730171 (14.99%) to NII 2486781 (9.99%) to RII 16313 (0.07%) to employees and 11190513 (44.97%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "11190513 (44.97%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "7460342 (29.98%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3730171 (14.99%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2486929 (9.99%)",
+        "maximum_allottees": "7723"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1243242 (5%)",
+        "maximum_allottees": "3861"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2486781 (9.99%)",
+        "maximum_allottees": "108120"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "16313 (0.07%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "24884119 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.656Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Ventive Hospitality IPO is subscribed 10.33 times on December 24 2024 6:19:09 PM (Day 3). The public issue subscribed 6.19 times in the retail category 9.58 times in the QIB category and 14.6 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "9.58",
+        "shares_offered": "7460342",
+        "shares_bid_for": "71441565"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "14.6",
+        "shares_offered": "3730171",
+        "shares_bid_for": "54471935"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "15.86",
+        "shares_offered": "2486929",
+        "shares_bid_for": "39447415"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "12.08",
+        "shares_offered": "1243242",
+        "shares_bid_for": "15024520"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "6.19",
+        "shares_offered": "2486781",
+        "shares_bid_for": "15384838"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "10.03",
+        "shares_offered": "16313",
+        "shares_bid_for": "163668"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "10.33",
+        "shares_offered": "13693606",
+        "shares_bid_for": "141462006"
+      }
+    },
+    "total_applications": "727669"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 24 2024",
+    "tentative_allotment": "Thu Dec 26 2024",
+    "initiation_of_refunds": "Fri Dec 27 2024",
+    "credit_of_shares_to_demat": "Fri Dec 27 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:20.914Z",
+  "updated_at": "2025-04-18T12:48:03.656Z",
+  "year": 2024,
+  "worst_listing_gains": "9.57%",
+  "worst_listing_gains_numeric": 9.57
+}

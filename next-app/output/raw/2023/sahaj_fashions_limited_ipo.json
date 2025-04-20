@@ -1,0 +1,379 @@
+{
+  "_id": "68028e9e3ccffd1c7912c947",
+  "ipo_id": "2023_sahaj_fashions_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:31:10.430Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sahaj-fashions-ipo/1484/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2011, Sahaj Fashions Limited manufactures fabric for garment making, home furnishings, and industrial applications.</p>\n<p>The company manufactures cotton suiting fabric and cotton shirting fabric, polyester-based and cotton-polyster blended fabrics. It also manufactures cotton yarn-dyed fabrics which are its most in-demand product in the garment manufacturing industry.</p>\n<p>Sahaj's product list includes Piece Dyed Shirtings, Cotton Yarn Dyed Shirtings, Cotton yarn dyed Chambray, and Cotton fabric for Self Designed Shirting from count 40s to 100s in the Shirtings segment; Cotton Spandex Fabric, Cotton Suiting Fabric, Cotton Dobby Designs, and Cotton Power Lycra Fabrics in the Suitings segment; Slub Yarn Fabrics and Linen Fabrics in the Fancy Fabrics segment; and Cotton Duck Fabric, Cotton Drill Fabric, Cotton Twill Fabric, and Cotton Tusser Fabric in the Industrial Cloth segment.</p>\n<p>Sahaj Fashions' manufacturing unit is located on Kishangarh Bhilwara Express Highway i.e. NH 79, at village Srinagar District Ajmer.</p>\n<p>The company recorded Rs. 9,097.58 Lakhs in total revenue for the financial periods ending February 28, 2023.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2020",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "28 Feb 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "6476.39",
+          "6711.73",
+          "6998.59",
+          "7179.34"
+        ],
+        [
+          "Revenue",
+          "9933.61",
+          "7475.54",
+          "8698.36",
+          "9101.07"
+        ],
+        [
+          "Profit After Tax",
+          "27.19",
+          "31.90",
+          "42.64",
+          "288.71"
+        ],
+        [
+          "Net Worth",
+          "1361.63",
+          "1393.53",
+          "1435.78",
+          "1724.07"
+        ],
+        [
+          "Reserves and Surplus",
+          "620.41",
+          "652.32",
+          "694.56",
+          "982.85"
+        ],
+        [
+          "Total Borrowing",
+          "1019.03",
+          "1608.65",
+          "1795.46",
+          "1519.24"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 25, 2023 to August 29, 2023",
+    "ipoListingDate": "Wed, Sep 6, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹30.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "46,52,000 shares (aggregating up to ₹13.96 Cr)",
+    "freshIssue": "44,76,000 shares (aggregating up to ₹13.43 Cr)",
+    "offerForSale": "1,76,000 shares of ₹10 (aggregating up to ₹0.53 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,36,000 shares",
+      "maker_name": "Nnm Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/312/"
+    },
+    "ipoOpenDate": "Fri, Aug 25, 2023",
+    "ipoCloseDate": "Tue, Aug 29, 2023",
+    "initiationOfRefunds": "Mon, Sep 4, 2023",
+    "creditOfSharesToDemat": "Tue, Sep 5, 2023",
+    "shareHoldingPreIssue": "86,92,160 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "86,92,160 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "97.95%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,31,68,160 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,31,68,160 shares"
+      }
+    ]
+  },
+  "closing_date": "2023-08-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9462788792",
+    "email": "cfo@sahajfashions.in",
+    "full_address": "Sahaj Fashions Limited, Shree Bhawan Ajmer Road, Madanganj Kishangarh - 305801",
+    "website": "https://sahajfashions.in/"
+  },
+  "createdAt": "2025-04-18T17:40:46.223Z",
+  "faqs": [
+    {
+      "question": "What is the Sahaj Fashions IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sahaj Fashions IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4652000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->13.96<!-- --> Crores. The issue is priced at <span>₹30 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 25, 2023</b>, and <b>closes on <!-- -->August 29, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sahaj Fashions IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sahaj Fashions IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sahaj Fashions IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sahaj Fashions IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sahaj Fashions IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sahaj Fashions IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sahaj Fashions IPO opens on August 25, 2023 and closes on August 29, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sahaj Fashions IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sahaj Fashions IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sahaj Fashions IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sahaj Fashions IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sahaj Fashions IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sahaj Fashions IPO<!-- --> will be done on <!-- -->Friday, September 1, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, September 5, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/sahaj-fashions-ipo/1484/\" title=\"Sahaj Fashions IPO Allotment Status\">Sahaj Fashions IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sahaj Fashions IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sahaj Fashions IPO<!-- --> listing date is on <b>Wednesday, September 6, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sahaj Fashions",
+  "issue_price": "₹30.00",
+  "issue_price_numeric": 30,
+  "issue_size": "46,52,000 shares (aggregating up to ₹13.96 Cr)",
+  "issue_size_numeric": 46,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Khambatta Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/154/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/154/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "30.00"
+      },
+      "open": {
+        "nse_sme": "31.00"
+      },
+      "low": {
+        "nse_sme": "29.45"
+      },
+      "high": {
+        "nse_sme": "32.00"
+      },
+      "last_trade": {
+        "nse_sme": "30.35"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 6 2023",
+    "nse_symbol": "SAHAJ",
+    "isin": "INE013901017",
+    "final_issue_price": "30 per share"
+  },
+  "listing_date": "2023-09-05T18:30:00.000Z",
+  "listing_gains": "1.17%",
+  "listing_gains_numeric": 1.17,
+  "logo": "https://www.chittorgarh.net/images/ipo/sahaj-fashions-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sahaj-fashions-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sahaj-fashions-ipo/1484/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2023-08-24T18:30:00.000Z",
+  "pageHeading": "Sahaj Fashions Limited IPO (Sahaj Fashions IPO) Detail",
+  "pageTitle": "Sahaj Fashions IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Rohit Toshniwal Ms. Sadhana Toshniwal Mr. Norat Mal Choudhary Ms. Prabha Lakhotia Mr. Rakesh Choudhary Mr. Mukul Lakhotia and Mr. Nitin Toshniwal are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "97.95%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sahaj Fashions IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SFL_DP.pdf"
+    },
+    {
+      "text": "Sahaj Fashions IPO RHP",
+      "url": "https://archives.nseindia.com/emerge/corporates/content/Sahaj_PROSP.pdf "
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "2",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sahaj-fashions-ipo/1484/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Sahaj Fashions IPO offers 4652000 shares. 2208000 (47.46%) to NII 2208000 (47.46%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "236000 (5.07%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2208000 (47.46%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2208000 (47.46%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4652000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.222Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sahaj Fashions IPO is subscribed 7.75 times on August 29 2023 7:29:00 PM (Day 3). The public issue subscribed 11.72 times in the retail category [.] times in the QIB category and 3.78 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "3.78",
+        "shares_offered": "2208000",
+        "shares_bid_for": "8340000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "11.72",
+        "shares_offered": "2208000",
+        "shares_bid_for": "25872000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "7.75",
+        "shares_offered": "4416000",
+        "shares_bid_for": "34228000"
+      }
+    },
+    "total_applications": "6468",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 29 2023",
+    "tentative_allotment": "Fri Sep 1 2023",
+    "initiation_of_refunds": "Mon Sep 4 2023",
+    "credit_of_shares_to_demat": "Tue Sep 5 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:45.397Z",
+  "updated_at": "2025-04-18T17:40:46.222Z",
+  "year": 2023,
+  "worst_listing_gains": "1.17%",
+  "worst_listing_gains_numeric": 1.17
+}

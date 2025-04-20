@@ -1,0 +1,481 @@
+{
+  "_id": "68028e9c3ccffd1c7912c8f8",
+  "ipo_id": "2023_ikio_lighting_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:33:23.766Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ikio-lighting-ipo/1430/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2016, IKIO Lighting Limited is an <strong>Indian manufacturer</strong> of <strong>light-emitting diode (LED)</strong> lighting solutions. In its journey of over seven years, the entity focused on providing sustainability and low-energy LED products to help India meet its sustainability goals.</p>\n<p>The product portfolio of IKIO can be categorized as LED lighting, Refrigeration lights, ABS (acrylonitrile butadiene styrene) piping and other products.</p>\n<p>The company is primarily an Original Design Manufacturer (ODM). They design, develop, manufacture and supply products to customers. Thereon, the customers further distribute the products under their own brands. Alongside, they also work with the customers to develop, manufacture and supply products as designed by the customers.</p>\n<p>The company's LED lighting offerings focus on the premium segment and include lighting, fittings, fixtures, accessories, and components. The products are designed and created to cater to the distinct requirements and expectations of the customers.</p>\n<p>The total revenue of IKIO Lighting Limited in the preceding financial years 2022, 2021, and 2020 was 3,339.95 million, .72 million, and 2,218.28 million, respectively.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "144.83",
+          "221.83",
+          "21.41",
+          "35.90",
+          "46.86"
+        ],
+        [
+          "31-Mar-21",
+          "174.45",
+          "214.57",
+          "28.81",
+          "62.86",
+          "69.36"
+        ],
+        [
+          "31-Mar-22",
+          "264.87",
+          "334.00",
+          "50.52",
+          "108.87",
+          "106.56"
+        ],
+        [
+          "31-Dec-22",
+          "335.50",
+          "332.79",
+          "51.35",
+          "140.83",
+          "136.33"
+        ]
+      ]
+    },
+    {
+      "heading": "IKIO Lighting Limited Stock Quote & Charts",
+      "sanitizedHeading": "ikio_lighting_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "36.00%"
+        ],
+        [
+          "ROCE",
+          "26.00%"
+        ],
+        [
+          "Debt/Equity",
+          "1.03"
+        ],
+        [
+          "RoNW",
+          "36.46%"
+        ]
+      ]
+    },
+    {
+      "heading": "IKIO Lighting Limited Stock Quote & Charts",
+      "sanitizedHeading": "ikio_lighting_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.90",
+          null
+        ],
+        [
+          "P/E (x)",
+          "32.13",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "IKIO Lighting IPO raises Rs 181.95 crore from anchor investors. IKIO Lighting IPO Anchor bid date is June 5 2023. IKIO Lighting IPO Anchor Investors list",
+    "list_link": {
+      "text": "IKIO Lighting IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/ipo_notes/anchor-intimation-letter-to-stock-exchange.pdf"
+    },
+    "details": {
+      "ipo_date": "September 11 2023",
+      "shares_offered": "6384209",
+      "anchor_portion_size": "181.95"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "June 6, 2023 to June 8, 2023",
+    "ipoListingDate": "Fri, Jun 16, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹285.00",
+    "lotSize": "52 Shares",
+    "issueSize": "2,12,80,701 shares (aggregating up to ₹606.50 Cr)",
+    "freshIssue": "1,22,80,701 shares (aggregating up to ₹350.00 Cr)",
+    "offerForSale": "90,00,000 shares of ₹10 (aggregating up to ₹256.50 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Jun 6, 2023",
+    "ipoCloseDate": "Thu, Jun 8, 2023",
+    "initiationOfRefunds": "Wed, Jun 14, 2023",
+    "creditOfSharesToDemat": "Thu, Jun 15, 2023",
+    "shareHoldingPreIssue": "100.00%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "7,72,80,701 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "7,72,80,701 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.46%"
+      }
+    ]
+  },
+  "closing_date": "2023-06-07T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 120 – 4116186",
+    "email": "secretarial@ikiolighting.com",
+    "full_address": "IKIO Lighting Limited, 411 Arunachal Building, 19 Barakhamba Road Connaught Place, New Delhi – 110 001",
+    "website": "http://www.ikio.in/"
+  },
+  "createdAt": "2025-04-18T17:40:44.477Z",
+  "faqs": [
+    {
+      "question": "What is the IKIO Lighting IPO?",
+      "answer": "<div itemprop=\"text\"><p>IKIO Lighting IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->21280701<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->606.50<!-- --> Crores. The issue is priced at <span>₹285 per share</span>. The minimum order quantity is <!-- -->52<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 6, 2023</b>, and <b>closes on <!-- -->June 8, 2023</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in IKIO Lighting IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->IKIO Lighting IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->IKIO Lighting IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->IKIO Lighting IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->IKIO Lighting IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When IKIO Lighting IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The IKIO Lighting IPO opens on June 6, 2023 and closes on June 8, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of IKIO Lighting IPO?",
+      "answer": "<div itemprop=\"text\"><p>IKIO Lighting IPO<!-- --> <b>lot size is <!-- -->52</b>, and the <b>minimum amount required is <span>₹14,820</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for IKIO Lighting IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->IKIO Lighting IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is IKIO Lighting IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->IKIO Lighting IPO<!-- --> will be done on <!-- -->Tuesday, June 13, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, June 15, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/ikio-lighting-ipo/1430/\" title=\"IKIO Lighting IPO Allotment Status\">IKIO Lighting IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is IKIO Lighting IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->IKIO Lighting IPO<!-- --> listing date is on <b>Friday, June 16, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "IKIO Lighting",
+  "issue_price": "₹285.00",
+  "issue_price_numeric": 285,
+  "issue_size": "2,12,80,701 shares (aggregating up to ₹606.50 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "285.00",
+        "nse": "285.00"
+      },
+      "open": {
+        "bse": "391.00",
+        "nse": "392.50"
+      },
+      "low": {
+        "bse": "391.00",
+        "nse": "392.00"
+      },
+      "high": {
+        "bse": "427.40",
+        "nse": "427.50"
+      },
+      "last_trade": {
+        "bse": "403.75",
+        "nse": "403.85"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "June 16 2023",
+    "bse_script_code": "543923",
+    "nse_symbol": "IKIO",
+    "isin": "INE0LOJ01019",
+    "final_issue_price": "285 per share"
+  },
+  "listing_date": "2023-06-15T18:30:00.000Z",
+  "listing_gains": "41.67%",
+  "listing_gains_numeric": 41.67,
+  "logo": "https://www.chittorgarh.net/images/ipo/ikio-lighting-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/ikio-lighting-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 52 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "52",
+        "amount": "14820"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "676",
+        "amount": "192660"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "728",
+        "amount": "207480"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "3484",
+        "amount": "992940"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "3536",
+        "amount": "1007760"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ikio-lighting-ipo/1430/"
+    }
+  },
+  "lot_size": 52,
+  "opening_date": "2023-06-05T18:30:00.000Z",
+  "pageHeading": "IKIO Lighting Limited IPO (IKIO Lighting IPO) Detail",
+  "pageTitle": "IKIO Lighting IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Hardeep Singh and Surmeet Kaur are the Promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "72.46%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "IKIO Lighting IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2022/ikio-lighting-limited-drhp_63658.html"
+    },
+    {
+      "text": "IKIO Lighting IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2023/ikio-lighting-limited-rhp_71907.html"
+    },
+    {
+      "text": "Anchor Investors in IKIO Lighting IPO",
+      "url": "https://www.chittorgarh.net/reports/ipo_notes/anchor-intimation-letter-to-stock-exchange.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "6",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "6",
+        "neutral": "2",
+        "avoid": "3"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ikio-lighting-ipo/1430/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "ikiolighting.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "IKIO Lighting IPO offers 21280702 shares. 4256140 (20.00%) to QIB 3192107 (15.00%) to NII 7448246 (35.00%) to RII 6384209 (30.00%) to Anchor investors. 143235 RIIs will receive minimum 52 shares and 1461 (sNII) and 2923 (bNII) will receive minimum 728 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "6384209 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4256140 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3192107 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2128071 (10.00%)",
+        "maximum_allottees": "2923"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1064036 (5.00%)",
+        "maximum_allottees": "1461"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "7448246 (35.00%)",
+        "maximum_allottees": "143235"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "21280702 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.477Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The IKIO Lighting IPO is subscribed 67.75 times on June 8 2023 7:02:00 PM (Day 3). The public issue subscribed 14.31 times in the retail category 163.06 times in the QIB category and 65.38 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "163.06",
+        "shares_offered": "4256140",
+        "shares_bid_for": "694010148"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "65.38",
+        "shares_offered": "3192107",
+        "shares_bid_for": "208714480"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "69.01",
+        "shares_offered": "2128071",
+        "shares_bid_for": "146860324"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "58.13",
+        "shares_offered": "1064036",
+        "shares_bid_for": "61854156"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "14.31",
+        "shares_offered": "7448246",
+        "shares_bid_for": "106564068"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "67.75",
+        "shares_offered": "14896493",
+        "shares_bid_for": "1009288696"
+      }
+    },
+    "total_applications": "1633854"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 8 2023",
+    "tentative_allotment": "Tue Jun 13 2023",
+    "initiation_of_refunds": "Wed Jun 14 2023",
+    "credit_of_shares_to_demat": "Thu Jun 15 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:34.000Z",
+  "updated_at": "2025-04-18T17:40:44.477Z",
+  "year": 2023,
+  "worst_listing_gains": "41.67%",
+  "worst_listing_gains_numeric": 41.67
+}

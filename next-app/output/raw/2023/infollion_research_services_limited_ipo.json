@@ -1,0 +1,422 @@
+{
+  "_id": "68028e9c3ccffd1c7912c8f4",
+  "ipo_id": "2023_infollion_research_services_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:33:30.195Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/infollion-research-services-ipo/1425/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2009, Infollion Research Services is a B2B marketplace. They are operating in the B2B Human Cloud segment, catering to on-demand contingent hiring of subject matter experts. They provide a platform for workers or knowledge providers (gig workers) and employers or knowledge seekers to connect with each other.</p>\n<p>Key clients include top-tier Global Management Consulting firms, renowned Private Equity funds, Hedge funds, and mid-tier Corporates.</p>\n<p>They operate in the premium segment of the gig-economy and are one of the leading enablers of contingent hiring, temporary workforce management, contracting SOW-employees, high-level independent consultations, knowledge tours, and more.</p>\n<p>Their direct competitors are other expert networks and freelancing platforms, while indirectly they compete with staffing firms.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-21",
+          "848.74",
+          "1606.46",
+          "207.65",
+          "702.47",
+          "700.98",
+          "0.00"
+        ],
+        [
+          "31-Mar-22",
+          "1181.32",
+          "2220.13",
+          "340.66",
+          "1043.12",
+          "1041.64",
+          "0.00"
+        ],
+        [
+          "31-Mar-23",
+          "1800.55",
+          "3529.92",
+          "557.92",
+          "1601.05",
+          "854.36",
+          "0.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Infollion Research Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "infollion_research_services_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "42.20%"
+        ]
+      ]
+    },
+    {
+      "heading": "Infollion Research Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "infollion_research_services_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "14.24",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Infollion Research Services IPO raises Rs 5.94 crore from anchor investors. Infollion Research Services IPO Anchor bid date is May 26 2023. Infollion Research Services IPO Anchor Investors list",
+    "list_link": {
+      "text": "Infollion Research Services IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/others/infollion-intimation-anchor-investment-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "September 3 2023",
+      "shares_offered": "724800",
+      "anchor_portion_size": "5.94"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "May 29, 2023 to May 31, 2023",
+    "ipoListingDate": "Thu, Jun 8, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹82.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "26,16,000 shares (aggregating up to ₹21.45 Cr)",
+    "freshIssue": "22,24,000 shares (aggregating up to ₹18.24 Cr)",
+    "offerForSale": "3,92,000 shares of ₹10 (aggregating up to ₹3.21 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,32,800 shares",
+      "maker_name": "Holani Consultants Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/252/"
+    },
+    "ipoOpenDate": "Mon, May 29, 2023",
+    "ipoCloseDate": "Wed, May 31, 2023",
+    "initiationOfRefunds": "Tue, Jun 6, 2023",
+    "creditOfSharesToDemat": "Wed, Jun 7, 2023",
+    "shareHoldingPreIssue": "74,66,904 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "74,66,904 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "67.09%"
+      }
+    ],
+    "shareHoldingPostIssue": "96,90,904 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "96,90,904 shares"
+      }
+    ]
+  },
+  "closing_date": "2023-05-30T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "9836468248",
+    "email": "madhumita.pramanik@infollion.com",
+    "full_address": "Infollion Research Services Limited, 80/28, Malviya Nagar, New Delhi - 110017",
+    "website": "http://www.infollion.com/"
+  },
+  "createdAt": "2025-04-18T17:40:44.458Z",
+  "faqs": [
+    {
+      "question": "What is the Infollion Research Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Infollion Research Services IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2616000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->21.45<!-- --> Crores. The issue is priced at <span>₹82 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 29, 2023</b>, and <b>closes on <!-- -->May 31, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Infollion Research Services IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Infollion Research Services IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Infollion Research Services IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Infollion Research Services IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Infollion Research Services IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Infollion Research Services IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Infollion Research Services IPO opens on May 29, 2023 and closes on May 31, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Infollion Research Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Infollion Research Services IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,31,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Infollion Research Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Infollion Research Services IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Infollion Research Services IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Infollion Research Services IPO<!-- --> will be done on <!-- -->Monday, June 5, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, June 7, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/infollion-research-services-ipo/1425/\" title=\"Infollion Research Services IPO Allotment Status\">Infollion Research Services IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Infollion Research Services IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Infollion Research Services IPO<!-- --> listing date is on <b>Thursday, June 8, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Infollion Research Services",
+  "issue_price": "₹82.00",
+  "issue_price_numeric": 82,
+  "issue_size": "26,16,000 shares (aggregating up to ₹21.45 Cr)",
+  "issue_size_numeric": 26,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Holani Consultants Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/151/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/151/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "82.00"
+      },
+      "open": {
+        "nse_sme": "209.00"
+      },
+      "low": {
+        "nse_sme": "198.55"
+      },
+      "high": {
+        "nse_sme": "218.00"
+      },
+      "last_trade": {
+        "nse_sme": "198.55"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "June 8 2023",
+    "nse_symbol": "INFOLLION",
+    "isin": "INE0NNZ01013",
+    "final_issue_price": "82 per share"
+  },
+  "listing_date": "2023-06-07T18:30:00.000Z",
+  "listing_gains": "142.13%",
+  "listing_gains_numeric": 142.13,
+  "logo": "https://www.chittorgarh.net/images/ipo/infollion-research-services-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/infollion-research-services-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "131200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "131200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "262400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/infollion-research-services-ipo/1425/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-05-28T18:30:00.000Z",
+  "pageHeading": "Infollion Research Services Limited IPO (Infollion Research Services IPO) Detail",
+  "pageTitle": "Infollion Research Services IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Gaurav Munjal is the Promoter of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "67.09%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Infollion Research Services IPO DRHP",
+      "url": "https://archives.nseindia.com/emerge/corporates/content/InfollionResearch_DRHP.pdf "
+    },
+    {
+      "text": "Infollion Research Services IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2023/infollion-research-services-limited_71491.html"
+    },
+    {
+      "text": "Anchor Investors in Infollion Research Services IPO",
+      "url": "https://www.chittorgarh.net/reports/others/infollion-intimation-anchor-investment-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "6",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/infollion-research-services-ipo/1425/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "infollionresearch.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Infollion Research Services IPO offers 2616000 shares. 483200 (18.47%) to QIB 404800 (15.47%) to NII 870400 (33.27%) to RII 724800 (27.71%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "724800 (27.71%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "132800 (5.08%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "483200 (18.47%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "404800 (15.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "870400 (33.27%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2616000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.457Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Infollion Research Services IPO is subscribed 279.24 times on May 31 2023 7:29:00 PM (Day 3). The public issue subscribed 264.1 times in the retail category 70.72 times in the QIB category and 560.71 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "70.72",
+        "shares_offered": "483200",
+        "shares_bid_for": "34169600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "560.71",
+        "shares_offered": "404800",
+        "shares_bid_for": "226976000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "264.1",
+        "shares_offered": "870400",
+        "shares_bid_for": "229876800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "279.24",
+        "shares_offered": "1758400",
+        "shares_bid_for": "491022400"
+      }
+    },
+    "total_applications": "143673",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 31 2023",
+    "tentative_allotment": "Mon Jun 5 2023",
+    "initiation_of_refunds": "Tue Jun 6 2023",
+    "credit_of_shares_to_demat": "Wed Jun 7 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:33.509Z",
+  "updated_at": "2025-04-18T17:40:44.457Z",
+  "year": 2023,
+  "worst_listing_gains": "142.13%",
+  "worst_listing_gains_numeric": 142.13
+}

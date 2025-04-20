@@ -1,0 +1,346 @@
+{
+  "_id": "680298573ccffd1c7912cb97",
+  "ipo_id": "2018_avon_moldplast_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:13:43.323Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/avon-moldplast-ipo/902/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1996, Uttar Pradesh based Avon Moldplast Limited is a company engaged in manufacturing of quality plastic molded furniture under the brand name of \"AVON\".</p><p>The Company's Product Portfolio includes Molded Chairs, Molded Stools, Molded Tables, Molded Baby Chairs and Baby Desks.  It has a fully functional manufacturing facility located Ghaziabad, Uttar Pradesh.</p><p>The products manufactured by the company are supplied to its distributor network spread PAN India, from where it is sold into the retail market. It has a long-standing and established network of more than 100 distributors, who further have well established retail network which roughly works out to 10,000 direct selling agents.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs.)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Jan-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "120301979",
+          "101884836",
+          "80429705",
+          "67795401",
+          "47997018",
+          "45409170"
+        ],
+        [
+          "Total Revenue",
+          "189244030",
+          "138506251",
+          "99979236",
+          "80397967",
+          "61757249",
+          "60746589"
+        ],
+        [
+          "Profit After Tax",
+          "6932735",
+          "996751",
+          "555158",
+          "365599",
+          "489218",
+          "27157"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "July 12, 2018 to July 18, 2018",
+    "ipoListingDate": "July 26, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹51.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "8,84,000 shares (aggregating up to ₹4.51 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "46,000 shares",
+    "ipoOpenDate": "Thu, Jul 12, 2018",
+    "ipoCloseDate": "Wed, Jul 18, 2018",
+    "shareHoldingPreIssue": "23,70,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "23,70,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "32,54,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "32,54,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-07-17T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-120-4376091",
+    "email": "cs@avonmpl.com",
+    "full_address": "Avon Moldplast Limited, A-7/36-39 South of G. T. Road Industrial Area, Electrosteel Casting Compound, Ghaziabad 201009",
+    "website": "http://www.avonmpl.com/"
+  },
+  "createdAt": "2025-04-18T18:22:15.848Z",
+  "faqs": [
+    {
+      "question": "What is the Avon Moldplast IPO?",
+      "answer": "<div itemprop=\"text\"><p>Avon Moldplast IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->884000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->4.51<!-- --> Crores. The issue is priced at <span>₹51 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 12, 2018</b>, and <b>closes on <!-- -->July 18, 2018</b>.</p><p>Mas Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Avon Moldplast IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Avon Moldplast IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Avon Moldplast IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Avon Moldplast IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Avon Moldplast IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Avon Moldplast IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Avon Moldplast IPO opens on July 12, 2018 and closes on July 18, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Avon Moldplast IPO?",
+      "answer": "<div itemprop=\"text\"><p>Avon Moldplast IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,02,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Avon Moldplast IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Avon Moldplast IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Avon Moldplast IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Avon Moldplast IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/avon-moldplast-ipo/902/\" title=\"Avon Moldplast IPO Allotment Status\">Avon Moldplast IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Avon Moldplast IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Avon Moldplast IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Avon Moldplast",
+  "issue_price": "₹51.00",
+  "issue_price_numeric": 51,
+  "issue_size": "8,84,000 shares (aggregating up to ₹4.51 Cr)",
+  "issue_size_numeric": 8,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Turnaround Corporate Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/157/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/157/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "51.00"
+      },
+      "open": {
+        "nse_sme": "52.00"
+      },
+      "low": {
+        "nse_sme": "49.50"
+      },
+      "high": {
+        "nse_sme": "51.50"
+      },
+      "last_trade": {
+        "nse_sme": "51.65"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "July 26 2018",
+    "nse_symbol": "AVROIND",
+    "isin": "INE652Z01017",
+    "final_issue_price": "51 per share"
+  },
+  "listing_date": "2018-07-25T18:30:00.000Z",
+  "listing_gains": "1.27%",
+  "listing_gains_numeric": 1.27,
+  "logo": "https://www.chittorgarh.net/images/ipo/avonmold.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/avonmold.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "102000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "102000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "204000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/avon-moldplast-ipo/902/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2018-07-11T18:30:00.000Z",
+  "pageHeading": "Avon Moldplast Limited IPO (Avon Moldplast IPO) Detail",
+  "pageTitle": "Avon Moldplast IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Avon Moldplast IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AVON_DP.pdf"
+    },
+    {
+      "text": "Avon Moldplast IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AVON_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/avon-moldplast-ipo/902/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Mas Services Limited",
+    "phone": "(011) 2610 4142",
+    "email": "info@masserv.com",
+    "website": "https://www.masserv.com/opt.asp"
+  },
+  "reservation": {
+    "summary": "Avon Moldplast IPO offers 884000 shares. 419000 (47.40%) to NII 419000 (47.40%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "46000 (5.20%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "419000 (47.40%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "419000 (47.40%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "884000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:15.848Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Avon Moldplast IPO is subscribed 1.38 times on July 18 2018 5:00:00 PM (Day 5). The public issue subscribed 0.4 times in the retail category [.] times in the QIB category and 2.24 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.24",
+        "shares_offered": "419000",
+        "shares_bid_for": "940000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.4",
+        "shares_offered": "419000",
+        "shares_bid_for": "168000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.38",
+        "shares_offered": "838000",
+        "shares_bid_for": "1158000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 18 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:08.430Z",
+  "updated_at": "2025-04-18T18:22:15.848Z",
+  "year": 2018,
+  "worst_listing_gains": "1.27%",
+  "worst_listing_gains_numeric": 1.27
+}

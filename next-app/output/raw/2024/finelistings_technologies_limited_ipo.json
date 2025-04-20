@@ -1,0 +1,414 @@
+{
+  "_id": "680249fc3ccffd1c7912c754",
+  "ipo_id": "2024_finelistings_technologies_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": false,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:31:33.447Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/finelistings-technologies-ipo/1698/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2018, Finelistings Technologies Limited is engaged in various businesses, namely (a) retail of used luxury cars and (b) software development services.</p>\n<p>1. Retail used luxury cars: In this segment, the Company sells used premium and high-end luxury vehicles with an average selling price of ₹ 40.00 lakhs. These include sedans, SUVs, sports cars, and convertibles. The company offers after-sales services and repairs through affiliated service centers. The company also helps its customers get financial support from third-party financiers. The company commenced operations and opened its first showroom under the Finecars brand \"in August 2022 at Ambience Mall, Vasant Kunj, National Capital Region (NCR).</p>\n<p>2. Software development services: Under this framework, the company offers cloud-based services, IT consulting services such as big data analytics, cloud architecture, data engineering, IoT solutions, and solutions such as business intelligence analytics, cloud development, cloud solutions, data management, digital transformation, IoT development, and web development.</p>\n<p>As at October 31, 2023, the company had a total of 5 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Finelistings Technologies Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "29 Feb 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "968.92",
+          "1015.99",
+          "154.33",
+          "59.69"
+        ],
+        [
+          "Revenue",
+          "1359.97",
+          "1390.62",
+          "694.32",
+          "146.43"
+        ],
+        [
+          "Profit After Tax",
+          "276.99",
+          "178.92",
+          "-8.33",
+          "-17.26"
+        ],
+        [
+          "Net Worth",
+          "618.96",
+          "351.83",
+          "47.91",
+          "56.24"
+        ],
+        [
+          "Reserves and Surplus",
+          "375.20",
+          "98.21",
+          "46.79",
+          "55.12"
+        ]
+      ]
+    },
+    {
+      "heading": "Finelistings Technologies Ltd Stock Quote & Charts",
+      "sanitizedHeading": "listing_details",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "43.16%"
+        ],
+        [
+          "ROCE",
+          "21.73%"
+        ],
+        [
+          "RoNW",
+          "44.05%"
+        ],
+        [
+          "PAT Margin",
+          "19.65"
+        ],
+        [
+          "Price to Book Value",
+          "8.87"
+        ]
+      ]
+    },
+    {
+      "heading": "Finelistings Technologies Ltd Stock Quote & Charts",
+      "sanitizedHeading": "listing_details",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.05",
+          "8.31"
+        ],
+        [
+          "P/E (x)",
+          "17.44",
+          "14.8"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "May 7, 2024 to May 9, 2024",
+    "ipoListingDate": "Tue, May 14, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹123.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "11,00,000 shares (aggregating up to ₹13.53 Cr)",
+    "freshIssue": "11,00,000 shares (aggregating up to ₹13.53 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "58,000 shares",
+      "maker_name": "Rikhav Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/337/"
+    },
+    "ipoOpenDate": "Tue, May 7, 2024",
+    "ipoCloseDate": "Thu, May 9, 2024",
+    "initiationOfRefunds": "Mon, May 13, 2024",
+    "creditOfSharesToDemat": "Mon, May 13, 2024",
+    "shareHoldingPreIssue": "25,36,250 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "25,36,250 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "71.65%"
+      }
+    ],
+    "shareHoldingPostIssue": "36,36,250 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "36,36,250 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "49.98%"
+      }
+    ]
+  },
+  "closing_date": "2024-05-08T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 93551 11911",
+    "email": "cs@finelistings.com",
+    "full_address": "Finelistings Technologies Limited, G-07 Ground Floor Ambience Mall, Nelson Mandela Road Vasant Kunj, South West Delhi New Delhi - 110070",
+    "website": "https://www.finecars.co.in/"
+  },
+  "createdAt": "2025-04-18T12:47:56.824Z",
+  "faqs": [
+    {
+      "question": "What is the Finelistings Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Finelistings Technologies IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1100000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->13.53<!-- --> Crores. The issue is priced at <span>₹123 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 7, 2024</b>, and <b>closes on <!-- -->May 9, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Finelistings Technologies IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Finelistings Technologies IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Finelistings Technologies IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Finelistings Technologies IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Finelistings Technologies IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Finelistings Technologies IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Finelistings Technologies IPO opens on May 7, 2024 and closes on May 9, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Finelistings Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Finelistings Technologies IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,23,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Finelistings Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Finelistings Technologies IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Finelistings Technologies IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Finelistings Technologies IPO<!-- --> will be done on <!-- -->Friday, May 10, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, May 13, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/finelistings-technologies-ipo/1698/\" title=\"Finelistings Technologies IPO Allotment Status\">Finelistings Technologies IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Finelistings Technologies IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Finelistings Technologies IPO<!-- --> listing date is on <b>Tuesday, May 14, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Finelistings Technologies",
+  "issue_price": "₹123.00",
+  "issue_price_numeric": 123,
+  "issue_size": "11,00,000 shares (aggregating up to ₹13.53 Cr)",
+  "issue_size_numeric": 11,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fedex Securities Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/144/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/144/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "123.00"
+      },
+      "open": {
+        "bse_sme": "127.00"
+      },
+      "low": {
+        "bse_sme": "127.00"
+      },
+      "high": {
+        "bse_sme": "133.35"
+      },
+      "last_trade": {
+        "bse_sme": "133.35"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      },
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/finelistings-technologies-ipo/1698/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ],
+    "ipo_date": "May 14 2024",
+    "bse_script_code": "544173",
+    "isin": "INE0QOQ01013",
+    "final_issue_price": "123 per share",
+    "brokers": "1",
+    "members": "0"
+  },
+  "listing_date": "2024-05-13T18:30:00.000Z",
+  "listing_gains": "8.41%",
+  "listing_gains_numeric": 8.41,
+  "logo": "https://www.chittorgarh.net/images/ipo/finelistings-technologies-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/finelistings-technologies-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "123000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "123000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "246000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/finelistings-technologies-ipo/1698/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-05-06T18:30:00.000Z",
+  "pageHeading": "Finelistings Technologies Limited IPO (Finelistings Technologies IPO) Detail",
+  "pageTitle": "Finelistings Technologies IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Aneesh Mathur and Arjun Singh Rajput are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "71.65%",
+      "share_holding_post_issue": "49.98%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Finelistings Technologies IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/396490/DRHP_Finelistings_22112023%20-%20UPLOAD_20231123130603.pdf"
+    },
+    {
+      "text": "Finelistings Technologies IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/396490/SME_IPO%20Open/Prospectus_Finelistings%20Technologies%20Limited__20240430165703.pdf"
+    }
+  ],
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Finelistings Technologies IPO offers 1100000 shares. 521000 (47.36%) to NII 521000 (47.36%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "58000 (5.27%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "521000 (47.36%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "521000 (47.36%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1100000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:56.823Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Finelistings Technologies IPO is subscribed 37.44 times on May 9 2024 6:18:03 PM (Day 3). The public issue subscribed 38.96 times in the retail category [.] times in the QIB category and 29.85 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "29.85",
+        "shares_offered": "521000",
+        "shares_bid_for": "15552000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "38.96",
+        "shares_offered": "521000",
+        "shares_bid_for": "20296000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "37.44",
+        "shares_offered": "1042000",
+        "shares_bid_for": "39011000"
+      }
+    },
+    "total_applications": "23784",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 9 2024",
+    "tentative_allotment": "Fri May 10 2024",
+    "initiation_of_refunds": "Mon May 13 2024",
+    "credit_of_shares_to_demat": "Mon May 13 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:47.912Z",
+  "updated_at": "2025-04-18T12:47:56.823Z",
+  "year": 2024,
+  "worst_listing_gains": "8.41%",
+  "worst_listing_gains_numeric": 8.41,
+  "last_performance_update": "2025-04-19T04:43:47.911Z"
+}

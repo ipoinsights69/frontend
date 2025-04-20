@@ -1,0 +1,345 @@
+{
+  "_id": "680298593ccffd1c7912cbd6",
+  "ipo_id": "2018_mishra_dhatu_nigam_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": false,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:15:58.180Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/mishra-dhatu-nigam-ipo/835/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1973, Mishra Dhatu Nigam Ltd is Hyderabad based PSU engaged in the business of manufacturering of special steels, superalloys and titanium alloys in India. These high value products cater to niche sectors including defense, space and power. Company is Mini Ratna, Category-I company since 2009.</p><p>Mishra Dhatu Nigam manufactures:<br>1. Special steels like martensitic steel, ultra high strength steel, austenitic steel and precipitation hardening steel.<br>2. Three varieties of Superalloys - nickel base, iron base and cobalt base.<br>3. Titanium alloys.</p><p>Mishra Dhatu Nigam has a manufacturing facility in Hyderabad. Compant is in the process of setting up two new manufacturing facilities in Rohtak and Nellore. Company has an in-house research and development team comprising of 14 officers. Company has 836 employees.</p><p>Competitive Strengths<br>1. Only facility in India to carry out vacuum based melting and refining<br>2. Capability to manufacture wide range of advanced products<br>3. Research and development based technology development</p>"
+  },
+  "basicDetails": {
+    "ipoDate": "March 21, 2018 to March 23, 2018",
+    "ipoListingDate": "Wed, Apr 4, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹90.00",
+    "lotSize": "150 Shares",
+    "issueSize": "4,87,08,400 shares (aggregating up to ₹438.38 Cr)",
+    "offerForSale": "4,87,08,400 shares of ₹10 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Mar 21, 2018",
+    "ipoCloseDate": "Fri, Mar 23, 2018",
+    "initiationOfRefunds": "Mon, Apr 2, 2018",
+    "creditOfSharesToDemat": "Tue, Apr 3, 2018",
+    "shareHoldingPreIssue": "18,73,40,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "18,73,40,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "18,73,40,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "18,73,40,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-03-22T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-040-24340853",
+    "email": "secretary@midhani.com",
+    "full_address": "Mishra Dhatu Nigam Limited, P.O. Kanchanbagh, Hyderabad - 500 058",
+    "website": "http://www.midhani.com/"
+  },
+  "createdAt": "2025-04-18T18:22:17.267Z",
+  "faqs": [
+    {
+      "question": "What is the Mishra Dhatu Nigam IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mishra Dhatu Nigam IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->48708400<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->438.38<!-- --> Crores. The issue is priced at <span>₹90 per share</span>. The minimum order quantity is <!-- -->150<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 21, 2018</b>, and <b>closes on <!-- -->March 23, 2018</b>.</p><p>Alankit Assignments Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Mishra Dhatu Nigam IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Mishra Dhatu Nigam IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Mishra Dhatu Nigam IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Mishra Dhatu Nigam IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Mishra Dhatu Nigam IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Mishra Dhatu Nigam IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Mishra Dhatu Nigam IPO opens on March 21, 2018 and closes on March 23, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Mishra Dhatu Nigam IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mishra Dhatu Nigam IPO<!-- --> <b>lot size is <!-- -->150</b>, and the <b>minimum amount required is <span>₹13,500</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Mishra Dhatu Nigam IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Mishra Dhatu Nigam IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Mishra Dhatu Nigam IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Mishra Dhatu Nigam IPO<!-- --> will be done on <!-- -->Wednesday, March 28, 2018<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, April 3, 2018<!-- -->. Check the <a href=\"/ipo_allotment_status/mishra-dhatu-nigam-ipo/835/\" title=\"Mishra Dhatu Nigam IPO Allotment Status\">Mishra Dhatu Nigam IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Mishra Dhatu Nigam IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Mishra Dhatu Nigam IPO<!-- --> listing date is on <b>Wednesday, April 4, 2018</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Mishra Dhatu Nigam",
+  "issue_price": "₹90.00",
+  "issue_price_numeric": 90,
+  "issue_size": "4,87,08,400 shares (aggregating up to ₹438.38 Cr)",
+  "issue_size_numeric": 4,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Idbi Capital Market Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/47/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/47/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "90.00",
+        "nse": "90.00"
+      },
+      "open": {
+        "bse": "87.00",
+        "nse": "87.00"
+      },
+      "low": {
+        "bse": "86.35",
+        "nse": "86.05"
+      },
+      "high": {
+        "bse": "90.90",
+        "nse": "91.00"
+      },
+      "last_trade": {
+        "bse": "90.00",
+        "nse": "90.05"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "April 4 2018",
+    "bse_script_code": "541195",
+    "nse_symbol": "MIDHANI",
+    "isin": "INE099Z01011",
+    "final_issue_price": "90 per share"
+  },
+  "listing_date": "2018-04-03T18:30:00.000Z",
+  "listing_gains": "0.00%",
+  "listing_gains_numeric": 0,
+  "logo": "https://www.chittorgarh.net/images/ipo/mishra-dhatu-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/mishra-dhatu-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 150 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "150",
+        "amount": "13500"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "14",
+        "shares": "2100",
+        "amount": "189000"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "15",
+        "shares": "2250",
+        "amount": "202500"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "74",
+        "shares": "11100",
+        "amount": "999000"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "75",
+        "shares": "11250",
+        "amount": "1012500"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/mishra-dhatu-nigam-ipo/835/"
+    }
+  },
+  "lot_size": 150,
+  "opening_date": "2018-03-20T18:30:00.000Z",
+  "pageHeading": "Mishra Dhatu Nigam Limited IPO (Mishra Dhatu Nigam IPO) Detail",
+  "pageTitle": "Mishra Dhatu Nigam IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Mishra Dhatu Nigam IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2018/mishra-dhatu-nigam-limited_37428.html"
+    },
+    {
+      "text": "Mishra Dhatu Nigam IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2018/mishra-dhatu-nigam-limited_38576.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "2"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/mishra-dhatu-nigam-ipo/835/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Alankit Assignments Ltd",
+    "phone": "(011) 4254 1234",
+    "email": "midhani_ipo@alankit.com",
+    "website": "http://ipo.alankit.com/"
+  },
+  "reservation": {
+    "summary": "Mishra Dhatu Nigam IPO offers 48708400 shares. 23417500 (48.08%) to QIB 7025250 (14.42%) to NII 16392250 (33.65%) to RII 1873400 (3.85%) to employees. 109281 RIIs will receive minimum 150 shares and (sNII) and (bNII) will receive minimum 2250 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "23417500 (48.08%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "7025250 (14.42%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "16392250 (33.65%)",
+        "maximum_allottees": "109281"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "1873400 (3.85%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "48708400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:17.267Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Mishra Dhatu Nigam IPO is subscribed 1.21 times on March 23 2018 7:30:00 PM (Day 3). The public issue subscribed 0.72 times in the retail category 1.96 times in the QIB category and 0.13 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.96",
+        "shares_offered": "23417500"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.13",
+        "shares_offered": "7025250"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.72",
+        "shares_offered": "16392250"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "0.26",
+        "shares_offered": "1873400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.21",
+        "shares_offered": "48708400"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 23 2018",
+    "tentative_allotment": "Wed Mar 28 2018",
+    "initiation_of_refunds": "Mon Apr 2 2018",
+    "credit_of_shares_to_demat": "Tue Apr 3 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:17.103Z",
+  "updated_at": "2025-04-18T18:22:17.267Z",
+  "year": 2018,
+  "worst_listing_gains": "0.00%",
+  "worst_listing_gains_numeric": 0
+}

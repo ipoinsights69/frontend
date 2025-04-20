@@ -1,0 +1,434 @@
+{
+  "_id": "68024a013ccffd1c7912c7ef",
+  "ipo_id": "2024_rudra_gas_enterprise_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:40:48.058Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/rudra-gas-enterprise-ipo/1644/"
+  },
+  "about": {
+    "details": "<p>Rudra Gas Enterprise Limited was founded in 2015 and is active in gas distribution network projects, fiber cable networks, construction equipment, and vehicle rental.</p>\n<p>The company provides services in the fields of pipeline construction, civil works, and operation and maintenance of pipeline networks in city gas distribution. The company also provides services for the installation of fiber optic cables and their maintenance.</p>\n<p>The company has three business verticals:</p>\n<ol>\n<li>Gas pipeline projects: These include the laying of pipelines for the distribution of city gas network and the construction of associated facilities such as CNG (compressed natural gas) stations, the construction, installation, testing, and commissioning of underground pipelines, maintenance, and repair facilities, the construction and installation of gas stations and their physical infrastructure such as pipelines, valves and stations required to carry out the works in accordance with the scope and specifications of the project. The company also provides comprehensive operation and maintenance services to city gas distribution companies(CGD).</li>\n<li>Fiber optic cable projects: This involves the development of special cables for the transmission of data using light signals.</li>\n<li>Rental of construction machinery and vehicles: This includes the rental of construction machinery and vehicles to subcontractors for specific projects.</li>\n</ol>\n<p>The company's customers include companies in the city gas distribution and telecommunications sectors, both in the public and private sectors.</p>\n<p>As of October 31, 2023, the company had 512 permanent employees on the payroll of the company.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Rudra Gas Enterprise Limited Financial Information (Restated Standalone)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Oct 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "4345.39",
+          "3380.56",
+          "2804.92",
+          "1960.50"
+        ],
+        [
+          "Revenue",
+          "3446.81",
+          "4957.02",
+          "4395.95",
+          "2816.96"
+        ],
+        [
+          "Profit After Tax",
+          "247.41",
+          "352.02",
+          "179.41",
+          "127.05"
+        ],
+        [
+          "Net Worth",
+          "1149.10",
+          "798.50",
+          "446.48",
+          "267.07"
+        ],
+        [
+          "Reserves and Surplus",
+          "540.10",
+          "773.50",
+          "421.48",
+          "242.07"
+        ],
+        [
+          "Total Borrowing",
+          "1990.15",
+          "1738.34",
+          "1379.98",
+          "1008.22"
+        ]
+      ]
+    },
+    {
+      "heading": "Rudra Gas Enterprise Ltd Stock Quote & Charts",
+      "sanitizedHeading": "rudra_gas_enterprise_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "57%"
+        ],
+        [
+          "ROCE",
+          "25%"
+        ],
+        [
+          "Debt/Equity",
+          "2.18"
+        ],
+        [
+          "RoNW",
+          "44.09%"
+        ],
+        [
+          "Price to Book Value",
+          "4.14"
+        ]
+      ]
+    },
+    {
+      "heading": "Rudra Gas Enterprise Ltd Stock Quote & Charts",
+      "sanitizedHeading": "rudra_gas_enterprise_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "5.78",
+          "5.09"
+        ],
+        [
+          "P/E (x)",
+          "10.9",
+          "12.39"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 8, 2024 to February 12, 2024",
+    "ipoListingDate": "Thu, Feb 15, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹63.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "22,48,000 shares (aggregating up to ₹14.16 Cr)",
+    "freshIssue": "22,48,000 shares (aggregating up to ₹14.16 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "1,16,000 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Thu, Feb 8, 2024",
+    "ipoCloseDate": "Mon, Feb 12, 2024",
+    "initiationOfRefunds": "Wed, Feb 14, 2024",
+    "creditOfSharesToDemat": "Wed, Feb 14, 2024",
+    "shareHoldingPreIssue": "60,90,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "60,90,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.99%"
+      }
+    ],
+    "shareHoldingPostIssue": "83,38,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "83,38,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.03%"
+      }
+    ]
+  },
+  "closing_date": "2024-02-11T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 98751 39472",
+    "email": "cs@rudragasenterprise.com",
+    "full_address": "Rudra Gas Enterprise Limited, B-702 The Capital Building, Science City Road Opp. Hetarth Party Plot, Sola Ahmedabad-380060",
+    "website": "https://www.rudragasenterprise.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.288Z",
+  "faqs": [
+    {
+      "question": "What is the Rudra Gas Enterprise IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rudra Gas Enterprise IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2248000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->14.16<!-- --> Crores. The issue is priced at <span>₹63 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 8, 2024</b>, and <b>closes on <!-- -->February 12, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Rudra Gas Enterprise IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Rudra Gas Enterprise IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Rudra Gas Enterprise IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Rudra Gas Enterprise IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Rudra Gas Enterprise IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Rudra Gas Enterprise IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Rudra Gas Enterprise IPO opens on February 8, 2024 and closes on February 12, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Rudra Gas Enterprise IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rudra Gas Enterprise IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,26,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Rudra Gas Enterprise IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Rudra Gas Enterprise IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Rudra Gas Enterprise IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Rudra Gas Enterprise IPO<!-- --> will be done on <!-- -->Tuesday, February 13, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, February 14, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/rudra-gas-enterprise-ipo/1644/\" title=\"Rudra Gas Enterprise IPO Allotment Status\">Rudra Gas Enterprise IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Rudra Gas Enterprise IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Rudra Gas Enterprise IPO<!-- --> listing date is on <b>Thursday, February 15, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Rudra Gas Enterprise",
+  "issue_price": "₹63.00",
+  "issue_price_numeric": 63,
+  "issue_size": "22,48,000 shares (aggregating up to ₹14.16 Cr)",
+  "issue_size_numeric": 22,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "63.00"
+      },
+      "open": {
+        "bse_sme": "119.70"
+      },
+      "low": {
+        "bse_sme": "119.70"
+      },
+      "high": {
+        "bse_sme": "125.68"
+      },
+      "last_trade": {
+        "bse_sme": "125.68"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 15 2024",
+    "bse_script_code": "544121",
+    "isin": "INE0OYK01010",
+    "final_issue_price": "63 per share"
+  },
+  "listing_date": "2024-02-14T18:30:00.000Z",
+  "listing_gains": "99.49%",
+  "listing_gains_numeric": 99.49,
+  "logo": "https://www.chittorgarh.net/images/ipo/rudra-gas-enterprise-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/rudra-gas-enterprise-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "126000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "126000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "252000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/rudra-gas-enterprise-ipo/1644/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-02-07T18:30:00.000Z",
+  "pageHeading": "Rudra Gas Enterprise Limited IPO (Rudra Gas Enterprise IPO) Detail",
+  "pageTitle": "Rudra Gas Enterprise IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mrs. Manjulaben Sureshbhai Patel Mr. Kush Sureshbhai Patel and Mr. Kashyap Sureshbhai Patel are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "99.99%",
+      "share_holding_post_issue": "73.03%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Rudra Gas Enterprise IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/327791/Draft%20Prospectus_Rudra%20Gas%20Enterprise%20Limited_20231229162905.pdf"
+    },
+    {
+      "text": "Rudra Gas Enterprise IPO RHP",
+      "url": "https://www.bseindia.com/downloads/ipo/Rudra%20Gas%20Enterprise%20Limited_070220241425.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/rudra-gas-enterprise-ipo/1644/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "rudragas@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Rudra Gas Enterprise IPO offers 2248000 shares. 1066000 (47.42%) to NII 1066000 (47.42%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "116000 (5.16%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1066000 (47.42%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1066000 (47.42%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2248000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.288Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Rudra Gas Enterprise IPO is subscribed 350.75 times on February 12 2024 7:02:00 PM (Day 3). The public issue subscribed 404.38 times in the retail category [.] times in the QIB category and 286.62 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "286.62",
+        "shares_offered": "1066000",
+        "shares_bid_for": "305532000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "404.38",
+        "shares_offered": "1066000",
+        "shares_bid_for": "431070000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "350.75",
+        "shares_offered": "2132000",
+        "shares_bid_for": "747800000"
+      }
+    },
+    "total_applications": "253183",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 12 2024",
+    "tentative_allotment": "Tue Feb 13 2024",
+    "initiation_of_refunds": "Wed Feb 14 2024",
+    "credit_of_shares_to_demat": "Wed Feb 14 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:12.533Z",
+  "updated_at": "2025-04-18T12:48:01.288Z",
+  "year": 2024,
+  "worst_listing_gains": "99.49%",
+  "worst_listing_gains_numeric": 99.49
+}

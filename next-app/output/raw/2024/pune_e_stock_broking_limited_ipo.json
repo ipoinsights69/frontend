@@ -1,0 +1,464 @@
+{
+  "_id": "68024a013ccffd1c7912c7db",
+  "ipo_id": "2024_pune_e_stock_broking_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:38:32.635Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/pune-e-stock-broking-ipo/1662/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2007, Pune E-Stock Broking Limited (PESB) is a corporate broking house.</p>\n<p>The company offers</p>\n<ul>\n<li>Client Broking: where users can invest or trade in shares via PESB's platform, receiving real-time quotes, easy execution via mobile app, website or call, the latest market news and updates, and the service of support staff.</li>\n<li>Depository facility: The company also offers a depository facility to Equity trading clients as part of an integrated service offering through CDSL. The company has a client base of 23,155 active clients in its Depository.</li>\n<li>Mutual funds: The company offers various mutual fund investment options in equity, debt, and hybrid funds.</li>\n<li>Corporate Deposits: Investors can make corporate deposits directly through the company's website or use the convenience of online investment platforms or brokers to facilitate their investments.</li>\n<li>Currency trading services: The company offers foreign exchange trading through multiple trading channels, creating unique investment opportunities and limitless creativity for hedging, speculation, and portfolio diversification.</li>\n</ul>\n<p>The company offers its services via its web-based trading platform Aero and its mobile trading app. Users can manage their investments, keep up to date with market trends, and make trades on the go.</p>\n<p>As of March 2023, the company had a total of 60,640 customers, including authorized persons (spread across more than 10 cities) and direct customers, and has two branches in Ahmedabad and Delhi.</p>\n<p>In FY 2023, the company has 79 employees, including directors and KMP, administrative/managerial staff, and unskilled workers.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Pune E-Stock Broking Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "22224.76",
+          "15801.00",
+          "16314.24",
+          "13288.68"
+        ],
+        [
+          "Revenue",
+          "3010.80",
+          "4103.10",
+          "4665.70",
+          "3474.64"
+        ],
+        [
+          "Profit After Tax",
+          "610.67",
+          "964.52",
+          "1012.03",
+          "650.48"
+        ],
+        [
+          "Net Worth",
+          "8259.66",
+          "7654.66",
+          "6754.55",
+          "5806.65"
+        ],
+        [
+          "Reserves and Surplus",
+          "7155.22",
+          "6918.36",
+          "6018.26",
+          "5070.35"
+        ],
+        [
+          "Total Borrowing",
+          "826.19",
+          "1853.74",
+          "1640.17",
+          "1195.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Pune E - Stock Broking Ltd Stock Quote & Charts",
+      "sanitizedHeading": "pune_e_-_stock_broking_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "7.30%"
+        ],
+        [
+          "ROCE",
+          "8.25%"
+        ],
+        [
+          "RoNW",
+          "7.39%"
+        ],
+        [
+          "PAT Margin",
+          "22.90"
+        ],
+        [
+          "Price to Book Value",
+          "0.77"
+        ]
+      ]
+    },
+    {
+      "heading": "Pune E - Stock Broking Ltd Stock Quote & Charts",
+      "sanitizedHeading": "pune_e_-_stock_broking_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.73",
+          "7.04"
+        ],
+        [
+          "P/E (x)",
+          "9.5",
+          "11.79"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Pune E-Stock Broking IPO raises Rs 9.73 crore from anchor investors. Pune E-Stock Broking IPO Anchor bid date is March 6 2024. Pune E-Stock Broking IPO Anchor Investors list",
+    "list_link": {
+      "text": "Pune E-Stock Broking IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/pune-e-stock-anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "June 11 2024",
+      "shares_offered": "1172800",
+      "anchor_portion_size": "9.73"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "March 7, 2024 to March 12, 2024",
+    "ipoListingDate": "Fri, Mar 15, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹83.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "46,06,400 shares (aggregating up to ₹38.23 Cr)",
+    "freshIssue": "46,06,400 shares (aggregating up to ₹38.23 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "6,91,200 shares",
+      "maker_name": "Share India Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/343/"
+    },
+    "ipoOpenDate": "Thu, Mar 7, 2024",
+    "ipoCloseDate": "Tue, Mar 12, 2024",
+    "initiationOfRefunds": "Thu, Mar 14, 2024",
+    "creditOfSharesToDemat": "Thu, Mar 14, 2024",
+    "shareHoldingPreIssue": "1,10,44,458 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,10,44,458 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "72.75%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,56,50,858 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,56,50,858 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "51.34%"
+      }
+    ]
+  },
+  "closing_date": "2024-03-11T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-020-41000600",
+    "email": "info@pesb.co.in",
+    "full_address": "Pune E-Stock Broking Limited, 1198 Shukrawar Peth, Shubhash Nagar, Lane No 3",
+    "website": "http://www.pesb.co.in/"
+  },
+  "createdAt": "2025-04-18T12:48:00.853Z",
+  "faqs": [
+    {
+      "question": "What is the Pune E-Stock Broking IPO?",
+      "answer": "<div itemprop=\"text\"><p>Pune E-Stock Broking IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4606400<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->38.23<!-- --> Crores. The issue is priced at <span>₹83 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 7, 2024</b>, and <b>closes on <!-- -->March 12, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Pune E-Stock Broking IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Pune E-Stock Broking IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Pune E-Stock Broking IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Pune E-Stock Broking IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Pune E-Stock Broking IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Pune E-Stock Broking IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Pune E-Stock Broking IPO opens on March 7, 2024 and closes on March 12, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Pune E-Stock Broking IPO?",
+      "answer": "<div itemprop=\"text\"><p>Pune E-Stock Broking IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,32,800</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Pune E-Stock Broking IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Pune E-Stock Broking IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Pune E-Stock Broking IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Pune E-Stock Broking IPO<!-- --> will be done on <!-- -->Wednesday, March 13, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, March 14, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/pune-e-stock-broking-ipo/1662/\" title=\"Pune E-Stock Broking IPO Allotment Status\">Pune E-Stock Broking IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Pune E-Stock Broking IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Pune E-Stock Broking IPO<!-- --> listing date is on <b>Friday, March 15, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Pune E-Stock Broking",
+  "issue_price": "₹83.00",
+  "issue_price_numeric": 83,
+  "issue_size": "46,06,400 shares (aggregating up to ₹38.23 Cr)",
+  "issue_size_numeric": 46,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Share India Capital Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/162/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/162/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "83.00"
+      },
+      "open": {
+        "bse_sme": "130.00"
+      },
+      "low": {
+        "bse_sme": "123.50"
+      },
+      "high": {
+        "bse_sme": "136.50"
+      },
+      "last_trade": {
+        "bse_sme": "133.18"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 15 2024",
+    "bse_script_code": "544141",
+    "isin": "INE510U01018",
+    "final_issue_price": "83 per share"
+  },
+  "listing_date": "2024-03-14T18:30:00.000Z",
+  "listing_gains": "60.46%",
+  "listing_gains_numeric": 60.46,
+  "logo": "https://www.chittorgarh.net/images/ipo/pune-e-stock-broking-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/pune-e-stock-broking-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "132800"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "132800"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "265600"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/pune-e-stock-broking-ipo/1662/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-03-06T18:30:00.000Z",
+  "pageHeading": "Pune E-Stock Broking Limited IPO (Pune E-Stock Broking IPO) Detail",
+  "pageTitle": "Pune E-Stock Broking IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Vrajesh Krishnakumar Shah Mr. Devendra Ramchandra Ghodnadikar Mr. Vrajesh Navnitbhai Shah Mr. Sandip Sunderlal Shah Mr. Paresh Sunderlal Shah and Daidipya Ghodnadikar are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "72.75%",
+      "share_holding_post_issue": "51.34%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Pune E-Stock Broking IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/355897/DRHP%20-%20Pune%20E%20-%20Stock%20Broking%20Limited_20231204180703.pdf"
+    },
+    {
+      "text": "Pune E-Stock Broking IPO Addendum DRHP",
+      "url": "https://www.bseindia.com/corporates/download/355897/Pune%20E%20-%20Stock%20Broking%20Limited_DRHP%20along%20with%20Addendum_20240213193104.pdf"
+    },
+    {
+      "text": "Pune E-Stock Broking IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/355897/SME_IPO%20Open/RHP-withQR%20code-PESB_20240227133625.PDF"
+    },
+    {
+      "text": "Anchor Investors in Pune E-Stock Broking IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/pune-e-stock-anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/pune-e-stock-broking-ipo/1662/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Pune E-Stock Broking IPO offers 4606400 shares. 782400 (16.99%) to QIB 588800 (12.78%) to NII 1371200 (29.77%) to RII and 1172800 (25.46%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1172800 (25.46%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "691200 (15.01%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "782400 (16.99%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "588800 (12.78%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1371200 (29.77%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4606400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:00.852Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Pune E-Stock Broking IPO is subscribed 371.16 times on March 12 2024 7:02:00 PM (Day 3). The public issue subscribed 338.92 times in the retail category 123.02 times in the QIB category and 775.99 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "123.02",
+        "shares_offered": "782400",
+        "shares_bid_for": "96249600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "775.99",
+        "shares_offered": "588800",
+        "shares_bid_for": "456902400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "338.92",
+        "shares_offered": "1371200",
+        "shares_bid_for": "464728000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "371.16",
+        "shares_offered": "2742400",
+        "shares_bid_for": "1017880000"
+      }
+    },
+    "total_applications": "438216",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 12 2024",
+    "tentative_allotment": "Wed Mar 13 2024",
+    "initiation_of_refunds": "Thu Mar 14 2024",
+    "credit_of_shares_to_demat": "Thu Mar 14 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:10.068Z",
+  "updated_at": "2025-04-18T12:48:00.852Z",
+  "year": 2024,
+  "worst_listing_gains": "60.46%",
+  "worst_listing_gains_numeric": 60.46
+}

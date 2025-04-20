@@ -1,0 +1,452 @@
+{
+  "_id": "680249fd3ccffd1c7912c77a",
+  "ipo_id": "2024_jay_kailash_namkeen_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:34:56.870Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/jay-kailash-namkeen-ipo/1690/"
+  },
+  "about": {
+    "details": "<p>Jay Kailash Namkeen Limited was established in 2021 and manufactures packaged Indian snacks.</p>\n<p>The company's product portfolio includes Chana Jor Namkeen, Masala Chana Jor, Pudina Chana, Masala Mung Jor, Plain Mung Jor, Soya Sticks, Haldi Chanas, Chana dal, Sev Murmura &amp; Garlic Sev Murmura, Bhavnagari Gathiya, Chana Dal, Sing Bhujia, Popcorn, Roasted Peanuts, etc.</p>\n<p>The company has 186 SKUs of 56 products in sizes of ₹5, ₹10, 200 grams, 400 grams, 500 grams, 5 kilograms and 20 kilograms.</p>\n<p>Jay Kailash Namkeen's customers come from Assam, Bihar, Chhattisgarh, Gujarat, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Telangana and Uttar Pradesh.</p>\n<p>The company's production facility is located in Rajkot, Gujarat, and has a production capacity of 10 tons per working day.</p>\n<p>As of November 30, 2023, the company employed 14 permanent employees and 35 hourly paid on-call workers for production and shipping and 6 employees for marketing and sales.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Jay Kailash Namkeen Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Nov 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1118.30",
+          "671.19",
+          "613.46",
+          "373.57"
+        ],
+        [
+          "Revenue",
+          "646.19",
+          "987.74",
+          "1043.12",
+          "1314.80"
+        ],
+        [
+          "Profit After Tax",
+          "40.45",
+          "88.79",
+          "54.57",
+          "8.81"
+        ],
+        [
+          "Net Worth",
+          "582.45",
+          "359.21",
+          "83.20",
+          "28.42"
+        ],
+        [
+          "Reserves and Surplus",
+          "246.12",
+          "65.88",
+          "49.42",
+          null
+        ],
+        [
+          "Total Borrowing",
+          "354.67",
+          "238.44",
+          "65.76",
+          "111.58"
+        ]
+      ]
+    },
+    {
+      "heading": "Jay Kailash Namkeen Ltd Stock Quote & Charts",
+      "sanitizedHeading": "jay_kailash_namkeen_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "24.72%"
+        ],
+        [
+          "ROCE",
+          "31.91%"
+        ],
+        [
+          "Debt/Equity",
+          "0.61"
+        ],
+        [
+          "RoNW",
+          "24.72%"
+        ],
+        [
+          "PAT Margin",
+          "9.06"
+        ],
+        [
+          "Price to Book Value",
+          "5.95"
+        ]
+      ]
+    },
+    {
+      "heading": "Jay Kailash Namkeen Ltd Stock Quote & Charts",
+      "sanitizedHeading": "jay_kailash_namkeen_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.64",
+          "1.21"
+        ],
+        [
+          "P/E (x)",
+          "27.65",
+          "60.12"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 28, 2024 to April 3, 2024",
+    "ipoListingDate": "Mon, Apr 8, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹73.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "16,33,600 shares (aggregating up to ₹11.93 Cr)",
+    "freshIssue": "16,33,600 shares (aggregating up to ₹11.93 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "83,200 shares",
+      "maker_name": "Rikhav Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/337/"
+    },
+    "ipoOpenDate": "Thu, Mar 28, 2024",
+    "ipoCloseDate": "Wed, Apr 3, 2024",
+    "initiationOfRefunds": "Fri, Apr 5, 2024",
+    "creditOfSharesToDemat": "Fri, Apr 5, 2024",
+    "shareHoldingPreIssue": "33,63,333 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "33,63,333 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "71.82%"
+      }
+    ],
+    "shareHoldingPostIssue": "49,96,933 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "49,96,933 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "48.33%"
+      }
+    ]
+  },
+  "closing_date": "2024-04-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "0281-2993110",
+    "email": "cs@jaykailashnamkeen.com",
+    "full_address": "Jay Kailash Namkeen Limited, Deeva House Fourth Floor, Diwanpara 11/12 corner Rajkot City, Rajkot - 360001",
+    "website": "http://www.jaykailashnamkeen.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.813Z",
+  "faqs": [
+    {
+      "question": "What is the Jay Kailash Namkeen IPO?",
+      "answer": "<div itemprop=\"text\"><p>Jay Kailash Namkeen IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1633600<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->11.93<!-- --> Crores. The issue is priced at <span>₹73 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 28, 2024</b>, and <b>closes on <!-- -->April 3, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Jay Kailash Namkeen IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Jay Kailash Namkeen IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Jay Kailash Namkeen IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Jay Kailash Namkeen IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Jay Kailash Namkeen IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Jay Kailash Namkeen IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Jay Kailash Namkeen IPO opens on March 28, 2024 and closes on April 3, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Jay Kailash Namkeen IPO?",
+      "answer": "<div itemprop=\"text\"><p>Jay Kailash Namkeen IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,16,800</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Jay Kailash Namkeen IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Jay Kailash Namkeen IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Jay Kailash Namkeen IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Jay Kailash Namkeen IPO<!-- --> will be done on <!-- -->Thursday, April 4, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, April 5, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/jay-kailash-namkeen-ipo/1690/\" title=\"Jay Kailash Namkeen IPO Allotment Status\">Jay Kailash Namkeen IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Jay Kailash Namkeen IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Jay Kailash Namkeen IPO<!-- --> listing date is on <b>Monday, April 8, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Jay Kailash Namkeen",
+  "issue_price": "₹73.00",
+  "issue_price_numeric": 73,
+  "issue_size": "16,33,600 shares (aggregating up to ₹11.93 Cr)",
+  "issue_size_numeric": 16,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Expert Global Consultants Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/196/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/196/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "73.00"
+      },
+      "open": {
+        "bse_sme": "85.00"
+      },
+      "low": {
+        "bse_sme": "80.75"
+      },
+      "high": {
+        "bse_sme": "86.90"
+      },
+      "last_trade": {
+        "bse_sme": "80.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "April 8 2024",
+    "bse_script_code": "544160",
+    "isin": "INE0MSS01019",
+    "final_issue_price": "73 per share"
+  },
+  "listing_date": "2024-04-07T18:30:00.000Z",
+  "listing_gains": "10.62%",
+  "listing_gains_numeric": 10.62,
+  "logo": "https://www.chittorgarh.net/images/ipo/jay-kailash-namkeen-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/jay-kailash-namkeen-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "116800"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "116800"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "233600"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/jay-kailash-namkeen-ipo/1690/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-03-27T18:30:00.000Z",
+  "pageHeading": "Jay Kailash Namkeen Limited IPO (Jay Kailash Namkeen IPO) Detail",
+  "pageTitle": "Jay Kailash Namkeen IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The company's Promoters are Mr. Neel Narendrabhai Pujara and Ms. Tulsi Neel Pujara.",
+    "holdings": {
+      "share_holding_pre_issue": "71.82%",
+      "share_holding_post_issue": "48.33%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Jay Kailash Namkeen IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/368435/SME_IPO/DRHP_JayKailashNamkeenLimited_29122023_20240109190449.pdf"
+    },
+    {
+      "text": "Jay Kailash Namkeen IPO Addendum DRHP",
+      "url": "https://www.expertglobal.in/wp-content/uploads/2024/03/Jay_Kailash_Namkeen_Addendum.pdf"
+    },
+    {
+      "text": "Jay Kailash Namkeen IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/368435/SME_IPO%20Open/JayKailashNamkeenLimited_RHP_19032024_20240322133030.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/jay-kailash-namkeen-ipo/1690/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Jay Kailash Namkeen IPO offers 1633600 shares. 464000 (28.40%) to QIB 310400 (19.00%) to NII 776000 (47.50%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "83200 (5.09%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "464000 (28.40%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "310400 (19.00%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "776000 (47.50%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1633600 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.812Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Jay Kailash Namkeen IPO is subscribed 40.02 times on April 3 2024 6:21:07 PM (Day 4). The public issue subscribed 50.99 times in the retail category 2.32 times in the QIB category and 68.93 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "2.32",
+        "shares_offered": "464000",
+        "shares_bid_for": "1078400"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "68.93",
+        "shares_offered": "310400",
+        "shares_bid_for": "21396800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "50.99",
+        "shares_offered": "776000",
+        "shares_bid_for": "39568000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "40.02",
+        "shares_offered": "1550400",
+        "shares_bid_for": "62043200"
+      }
+    },
+    "total_applications": "32073",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on April 3 2024",
+    "tentative_allotment": "Thu Apr 4 2024",
+    "initiation_of_refunds": "Fri Apr 5 2024",
+    "credit_of_shares_to_demat": "Fri Apr 5 2024"
+  },
+  "updatedAt": "2025-04-19T04:36:56.945Z",
+  "updated_at": "2025-04-18T12:47:57.812Z",
+  "year": 2024,
+  "worst_listing_gains": "10.62%",
+  "worst_listing_gains_numeric": 10.62
+}

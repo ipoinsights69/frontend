@@ -1,0 +1,456 @@
+{
+  "_id": "68028e9e3ccffd1c7912c957",
+  "ipo_id": "2023_shri_balaji_valve_components_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:25:55.226Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/balaji-valve-components-ipo/1604/"
+  },
+  "about": {
+    "details": "<p>Founded in November 2011, Shri Balaji Valve Components Ltd. produces valve components for ball valves, butterfly valves and other valves, including forged products.</p>\n<p>The company produces various valve components such as balls, spindles, valve bodies, ports, trunnions, flanges, housings, rings, shafts, hoods, discs and sleeves. These components are used in various types of valves such as ball valves, butterfly valves, control valves, gate valves and check valves.</p>\n<p>The company has two manufacturing facilities in Pune, Maharashtra. These plants have machinery and facilities for forging, heating and machining materials. One plant in Bhosari, Pune, is equipped for forging and heat treatment. The other plant in Chakan MIDC, Bhamboli, Pune, is responsible for machining.</p>\n<p>The company offers a wide range of products, enabling it to serve a large customer base across India. In addition, the company has expanded its reach to international locations such as Dubai, Germany, Singapore, Taiwan, Italy, South Africa, the US, the UK, Qatar and Pennsylvania.</p>\n<p>As of June 30, 2023, the company has 168 employees. When additional help is needed for the factories, the company hires contract labour.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Shri Balaji Valve Component Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5132.00",
+          "5023.02",
+          "3973.46",
+          "1758.63"
+        ],
+        [
+          "Revenue",
+          "1654.64",
+          "6294.10",
+          "3906.05",
+          "1616.49"
+        ],
+        [
+          "Profit After Tax",
+          "184.84",
+          "643.15",
+          "153.47",
+          "-3.22"
+        ],
+        [
+          "Net Worth",
+          "975.66",
+          "789.14",
+          "144.64",
+          "-10.85"
+        ],
+        [
+          "Reserves and Surplus",
+          "377.01",
+          "790.85",
+          "147.70",
+          "-5.77"
+        ],
+        [
+          "Total Borrowing",
+          "2879.49",
+          "2877.99",
+          "2799.71",
+          "1399.54"
+        ]
+      ]
+    },
+    {
+      "heading": "Shri Balaji Valve Components Ltd Stock Quote & Charts",
+      "sanitizedHeading": "shri_balaji_valve_components_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "136.76%"
+        ],
+        [
+          "ROCE",
+          "26.47%"
+        ],
+        [
+          "Debt/Equity",
+          "3.63"
+        ],
+        [
+          "RoNW",
+          "81.50%"
+        ]
+      ]
+    },
+    {
+      "heading": "Shri Balaji Valve Components Ltd Stock Quote & Charts",
+      "sanitizedHeading": "shri_balaji_valve_components_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "10.72",
+          null
+        ],
+        [
+          "P/E (x)",
+          "9.33",
+          "11.04"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Balaji Valve Components IPO raises Rs 6.13 crore from anchor investors. Balaji Valve Components IPO Anchor bid date is December 26 2023. Balaji Valve Components IPO Anchor Investors list",
+    "list_link": {
+      "text": "Balaji Valve Components IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/shree-balaji-valve-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "March 31 2024",
+      "shares_offered": "613200",
+      "anchor_portion_size": "6.13"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 27, 2023 to December 29, 2023",
+    "ipoListingDate": "Wed, Jan 3, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹100.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "21,60,000 shares (aggregating up to ₹21.60 Cr)",
+    "freshIssue": "21,60,000 shares (aggregating up to ₹21.60 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "1,14,000 shares",
+      "maker_name": "Hem Finlease Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/250/"
+    },
+    "ipoOpenDate": "Wed, Dec 27, 2023",
+    "ipoCloseDate": "Fri, Dec 29, 2023",
+    "initiationOfRefunds": "Tue, Jan 2, 2024",
+    "creditOfSharesToDemat": "Tue, Jan 2, 2024",
+    "shareHoldingPreIssue": "60,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "60,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "81,60,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "81,60,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.53%"
+      }
+    ]
+  },
+  "closing_date": "2023-12-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 97655 65409",
+    "email": "info@balajivalvecomponents.com",
+    "full_address": "Shri Balaji Valve Components Limited, Plot No - PAP B 31, Chakan MIDC PH, 2 Khed Bhamboli Pune India 410501",
+    "website": "https://www.balajivalvecomponents.com/"
+  },
+  "createdAt": "2025-04-18T17:40:46.616Z",
+  "faqs": [
+    {
+      "question": "What is the Balaji Valve Components IPO?",
+      "answer": "<div itemprop=\"text\"><p>Balaji Valve Components IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2160000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->21.60<!-- --> Crores. The issue is priced at <span>₹100 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 27, 2023</b>, and <b>closes on <!-- -->December 29, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Balaji Valve Components IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Balaji Valve Components IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Balaji Valve Components IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Balaji Valve Components IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Balaji Valve Components IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Balaji Valve Components IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Balaji Valve Components IPO opens on December 27, 2023 and closes on December 29, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Balaji Valve Components IPO?",
+      "answer": "<div itemprop=\"text\"><p>Balaji Valve Components IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Balaji Valve Components IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Balaji Valve Components IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Balaji Valve Components IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Balaji Valve Components IPO<!-- --> will be done on <!-- -->Monday, January 1, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, January 2, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/balaji-valve-components-ipo/1604/\" title=\"Balaji Valve Components IPO Allotment Status\">Balaji Valve Components IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Balaji Valve Components IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Balaji Valve Components IPO<!-- --> listing date is on <b>Wednesday, January 3, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Shri Balaji Valve Components",
+  "issue_price": "₹100.00",
+  "issue_price_numeric": 100,
+  "issue_size": "21,60,000 shares (aggregating up to ₹21.60 Cr)",
+  "issue_size_numeric": 21,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "100.00"
+      },
+      "open": {
+        "bse_sme": "190.00"
+      },
+      "low": {
+        "bse_sme": "190.00"
+      },
+      "high": {
+        "bse_sme": "199.50"
+      },
+      "last_trade": {
+        "bse_sme": "199.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "January 3 2024",
+    "bse_script_code": "544074",
+    "isin": "INE0RNZ01014",
+    "final_issue_price": "100 per share"
+  },
+  "listing_date": "2024-01-02T18:30:00.000Z",
+  "listing_gains": "99.50%",
+  "listing_gains_numeric": 99.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/shree-balaji-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/shree-balaji-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/balaji-valve-components-ipo/1604/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-12-26T18:30:00.000Z",
+  "pageHeading": "Shri Balaji Valve Components Limited IPO (Balaji Valve Components IPO) Detail",
+  "pageTitle": "Balaji Valve Components IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Laxmikant Sadashiv Kole Madhuri Laxmikant Kole and Shrinivas Laxmikant Kole.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "73.53%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Balaji Valve Components IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/382759/DRHP-Balaji%20Valve_20231121132008.pdf"
+    },
+    {
+      "text": "Balaji Valve Components IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/382759/SME_IPO%20Open/RHP%20-%20Shri%20Balaji%20Valve_20231221160919.pdf"
+    },
+    {
+      "text": "Anchor Investors in Balaji Valve Components IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/shree-balaji-valve-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/balaji-valve-components-ipo/1604/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Balaji Valve Components IPO offers 2160000 shares. 409200 (18.94%) to QIB 307200 (14.22%) to NII 716400 (33.17%) to RII and 613200 (28.39%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "613200 (28.39%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "114000 (5.28%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "409200 (18.94%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "307200 (14.22%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "716400 (33.17%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2160000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.616Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Balaji Valve Components IPO is subscribed 276.44 times on December 29 2023 7:02:00 PM (Day 3). The public issue subscribed 169.95 times in the retail category 70.04 times in the QIB category and 799.7 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "70.04",
+        "shares_offered": "409200",
+        "shares_bid_for": "28659600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "799.7",
+        "shares_offered": "307200",
+        "shares_bid_for": "245667600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "169.95",
+        "shares_offered": "716400",
+        "shares_bid_for": "121755600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "276.44",
+        "shares_offered": "1432800",
+        "shares_bid_for": "396082800"
+      }
+    },
+    "total_applications": "121553",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 29 2023",
+    "tentative_allotment": "Mon Jan 1 2024",
+    "initiation_of_refunds": "Tue Jan 2 2024",
+    "credit_of_shares_to_demat": "Tue Jan 2 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:47.489Z",
+  "updated_at": "2025-04-18T17:40:46.616Z",
+  "year": 2023,
+  "worst_listing_gains": "99.50%",
+  "worst_listing_gains_numeric": 99.5
+}

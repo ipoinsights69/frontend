@@ -1,0 +1,377 @@
+{
+  "_id": "6802936a3ccffd1c7912ca91",
+  "ipo_id": "2022_qms_medical_allied_services_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:56:43.075Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/qms-medical-allied-ipo/1305/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2017, QMS Medical Allied Services Limited is engaged in the <strong>marketing and distribution of a wide range of medical products as well as medical education services.</strong> The company's products are sold under brand name \"QDevices\" and they also manage the distribution for other brands such as 3M, Heine, Rossmax etc.</p>\n<p>The company offers medical products such as Blood Pressure Monitors, Glucose Monitoring Kits and strips, Dental Products, Personal protection kits eg-PPE kits, Infection prevention, Stethoscope and Oxygen Concentrator.</p>\n<p>The company also aims to impact the lives of people through continuous skill development and hence provides various medical courses like PG Diploma in Cardiology, Masterclass in Diabetes &amp; renel management, cardiology and cardiac rehabilitation etc. for continuous skill development.</p>\n<p>The company markets and help in the distribution of the products across India through offline and online mode using the website i.e. <a href=\"https://qmsmas.com\">https://qmsmas.com</a>. The company's eCommerce platform is called Qmeds- https://qmsmeds.com, which provides online service to medical equipment dealers, distributors, surgeons and clinicians for sourcing medical supplies from the surgical supply store.</p>\n<p><strong>Competitive Strength :</strong></p>\n<ul>\n<li>Experienced Promoter and management team with strong industry expertise and successful track record.</li>\n<li>Existing well-established goodwill and client relationships.</li>\n<li>Asset light business model and competitive products.</li>\n<li>Quality assurance.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "3348",
+          "7277.81",
+          "635.35",
+          "940.58",
+          "639.58"
+        ],
+        [
+          "31-Mar-21",
+          "6037.43",
+          "12209",
+          "1091.75",
+          "2032.33",
+          "1656.08"
+        ],
+        [
+          "31-Mar-22",
+          "8266.53",
+          "14774.77",
+          "1070.64",
+          "3102.97",
+          "2726.72"
+        ]
+      ]
+    },
+    {
+      "heading": "Qms Medical Allied Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "qms_medical_allied_services_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "20.1",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 27, 2022 to September 30, 2022",
+    "ipoListingDate": "Tue, Oct 11, 2022",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹121.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "47,00,000 shares (aggregating up to ₹56.87 Cr)",
+    "freshIssue": "28,00,000 shares (aggregating up to ₹33.88 Cr)",
+    "offerForSale": "19,00,000 shares of ₹10 (aggregating up to ₹22.99 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "2,36,000 shares",
+    "ipoOpenDate": "Tue, Sep 27, 2022",
+    "ipoCloseDate": "Fri, Sep 30, 2022",
+    "initiationOfRefunds": "Fri, Oct 7, 2022",
+    "creditOfSharesToDemat": "Mon, Oct 10, 2022",
+    "shareHoldingPreIssue": "1,50,50,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,50,50,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,78,50,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,78,50,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.67%"
+      }
+    ]
+  },
+  "closing_date": "2022-09-29T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "022 6288 1111",
+    "email": "contact@qmsmas.com",
+    "full_address": "QMS Medical Allied Services Ltd, A1 A2/B1 B2 Navkala Bharti Bldg Plot No16, Prabhat Colony Near Santacruz Bus Depot, Santacruz East",
+    "website": "https://qmsmas.com/"
+  },
+  "createdAt": "2025-04-18T18:01:14.732Z",
+  "faqs": [
+    {
+      "question": "What is the QMS Medical Allied IPO?",
+      "answer": "<div itemprop=\"text\"><p>QMS Medical Allied IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4700000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->56.87<!-- --> Crores. The issue is priced at <span>₹121 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 27, 2022</b>, and <b>closes on <!-- -->September 30, 2022</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in QMS Medical Allied IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->QMS Medical Allied IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->QMS Medical Allied IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->QMS Medical Allied IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->QMS Medical Allied IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When QMS Medical Allied IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The QMS Medical Allied IPO opens on September 27, 2022 and closes on September 30, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of QMS Medical Allied IPO?",
+      "answer": "<div itemprop=\"text\"><p>QMS Medical Allied IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,21,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for QMS Medical Allied IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->QMS Medical Allied IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is QMS Medical Allied IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->QMS Medical Allied IPO<!-- --> will be done on <!-- -->Thursday, October 6, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, October 10, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/qms-medical-allied-ipo/1305/\" title=\"QMS Medical Allied IPO Allotment Status\">QMS Medical Allied IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is QMS Medical Allied IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->QMS Medical Allied IPO<!-- --> listing date is on <b>Tuesday, October 11, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "QMS Medical Allied Services",
+  "issue_price": "₹121.00",
+  "issue_price_numeric": 121,
+  "issue_size": "47,00,000 shares (aggregating up to ₹56.87 Cr)",
+  "issue_size_numeric": 47,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "First Overseas Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/110/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/110/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "121.00"
+      },
+      "open": {
+        "nse_sme": "128.00"
+      },
+      "low": {
+        "nse_sme": "128.00"
+      },
+      "high": {
+        "nse_sme": "134.40"
+      },
+      "last_trade": {
+        "nse_sme": "134.40"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 11 2022",
+    "nse_symbol": "QMSMEDI",
+    "isin": "INE0FMW01018",
+    "final_issue_price": "121 per share"
+  },
+  "listing_date": "2022-10-10T18:30:00.000Z",
+  "listing_gains": "11.07%",
+  "listing_gains_numeric": 11.07,
+  "logo": "https://www.chittorgarh.net/images/ipo/qms-medical-allied-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/qms-medical-allied-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "121000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "121000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "242000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/qms-medical-allied-ipo/1305/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2022-09-26T18:30:00.000Z",
+  "pageHeading": "QMS Medical Allied Services Ltd IPO (QMS Medical Allied IPO) Detail",
+  "pageTitle": "QMS Medical Allied IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mahesh Makhija is the company promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "73.67%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "QMS Medical Allied IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/QMSMedicalA_DP.PDF"
+    },
+    {
+      "text": "QMS Medical Allied IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2022/prospectus-of-qms-medical-allied-services-limited-sme-ipo_63251.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/qms-medical-allied-ipo/1305/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "QMS Medical Allied IPO offers 4700000 shares. 2232000 (47.49%) to NII 2232000 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "236000 (5.02%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2232000 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2232000 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4700000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:14.731Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The QMS Medical Allied IPO is subscribed 0.88 times on September 30 2022 7:00:00 PM (Day 4). The public issue subscribed 0.51 times in the retail category [.] times in the QIB category and 1.25 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.25",
+        "shares_offered": "2232000",
+        "shares_bid_for": "2789000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.51",
+        "shares_offered": "2232000",
+        "shares_bid_for": "1133000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "0.88",
+        "shares_offered": "4464000",
+        "shares_bid_for": "3922000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 30 2022",
+    "tentative_allotment": "Thu Oct 6 2022",
+    "initiation_of_refunds": "Fri Oct 7 2022",
+    "credit_of_shares_to_demat": "Mon Oct 10 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:31.689Z",
+  "updated_at": "2025-04-18T18:01:14.731Z",
+  "year": 2022,
+  "worst_listing_gains": "11.07%",
+  "worst_listing_gains_numeric": 11.07
+}

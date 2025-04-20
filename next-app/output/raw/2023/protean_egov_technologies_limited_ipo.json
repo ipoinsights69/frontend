@@ -1,0 +1,487 @@
+{
+  "_id": "68028e9d3ccffd1c7912c92f",
+  "ipo_id": "2023_protean_egov_technologies_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:28:13.577Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/protean-egov-technologies-ipo/1545/"
+  },
+  "about": {
+    "details": "<p>Incorporated in December 1995, Protean eGov Technologies Limited provides IT services. The Company offers citizen services, e-governance solutions, system integration, business process re-engineering, data centre co-location, and IT consulting services for citizens, corporations and the Government.</p>\n<p>The key projects that Protean eGov Technologies Limited has executed or is involved in are Tax Information Network (TIN), PAN services, Central Recordkeeping Agency (CRA) - National Pension System (NPS), Atal Pension Yojana (APY), Unique Identification (UID/Aadhaar) - Registrar, Goods and Services Tax( GST), Aadhaar Authentication &amp; e-KYC Services, and more.</p>\n<p>Since December 2022, the company has implemented and managed 19 projects spread across several ministries. The company have a pan-India physical network of over 167,000 centres, which includes over 79,000 PAN and TIN facilitation centres and over 88,000 points of presence, as of June 30, 2023.</p>\n<p>The company's vital role in developing digital infrastructural solutions has led to the achievement of multiple milestones. Among them is Modernizing direct tax infrastructure by introducing projects like PAN issuance. The company has enabled the universal social security system for all Indians, particularly for unorganised workers, by creating technology infrastructure as a CRA for the Atal Pension Yojana. The company has also been instrumental in improving accessibility to education and skill financing by developing efficient digital marketplaces. This has led to the discovery of financial resources through platforms such as Vidya Lakshmi and Vidyasaarathi.</p>\n<p>The company has contributed to and supported open digital building blocks such as Open Network for Digital Commerce (ONDC) for use cases across sectors like e-commerce, mobility, healthcare, agriculture, and education. It is worth mentioning that Protean eGov Technologies Limited is one of the key and early contributors to the open-source community and protocols that power ONDC.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Protean eGov Technologies Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1133.86",
+          "1104.10",
+          "988.14",
+          "862.39"
+        ],
+        [
+          "Revenue",
+          "233.17",
+          "783.87",
+          "770.18",
+          "652.03"
+        ],
+        [
+          "Profit After Tax",
+          "32.21",
+          "107.04",
+          "143.94",
+          "92.19"
+        ],
+        [
+          "Net Worth",
+          "888.10",
+          "856.94",
+          "788.00",
+          "667.46"
+        ],
+        [
+          "Reserves and Surplus",
+          "847.48",
+          "816.33",
+          "747.43",
+          "627.14"
+        ],
+        [
+          "Total Borrowing",
+          null,
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "heading": "Protean Egov Technologies Ltd Stock Quote & Charts",
+      "sanitizedHeading": "protean_egov_technologies_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "12.49%"
+        ],
+        [
+          "ROCE",
+          "16.13%"
+        ],
+        [
+          "RoNW",
+          "12.49%"
+        ]
+      ]
+    },
+    {
+      "heading": "Protean Egov Technologies Ltd Stock Quote & Charts",
+      "sanitizedHeading": "protean_egov_technologies_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "26.48",
+          null
+        ],
+        [
+          "P/E (x)",
+          "29.91",
+          "24.86"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Protean eGov Technologies IPO raises Rs 143.53 crore from anchor investors. Protean eGov Technologies IPO Anchor bid date is November 3 2023. Protean eGov Technologies IPO Anchor Investors list",
+    "list_link": {
+      "text": "Protean eGov Technologies IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/protean-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "February 11 2024",
+      "shares_offered": "1812300",
+      "anchor_portion_size": "143.53"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "November 6, 2023 to November 8, 2023",
+    "ipoListingDate": "Mon, Nov 13, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹792.00",
+    "lotSize": "18 Shares",
+    "issueSize": "61,91,000 shares (aggregating up to ₹490.33 Cr)",
+    "offerForSale": "61,91,000 shares of ₹10 (aggregating up to ₹490.33 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE",
+    "ipoOpenDate": "Mon, Nov 6, 2023",
+    "ipoCloseDate": "Wed, Nov 8, 2023",
+    "initiationOfRefunds": "Wed, Nov 15, 2023",
+    "creditOfSharesToDemat": "Thu, Nov 16, 2023",
+    "shareHoldingPostIssue": "4,04,46,732 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "4,04,46,732 shares"
+      }
+    ]
+  },
+  "closing_date": "2023-11-07T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 4090 4242",
+    "email": "cs@proteantech.in",
+    "full_address": "Protean eGov Technologies Limited, Times Tower 1st Floor, Kamala Mills Compound Senapati Bapat Marg, Lower Parel Mumbai 400 013",
+    "website": "https://www.proteantech.in/"
+  },
+  "createdAt": "2025-04-18T17:40:45.895Z",
+  "faqs": [
+    {
+      "question": "What is the Protean eGov Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Protean eGov Technologies IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->6191000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->490.33<!-- --> Crores. The issue is priced at <span>₹792 per share</span>. The minimum order quantity is <!-- -->18<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 6, 2023</b>, and <b>closes on <!-- -->November 8, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Protean eGov Technologies IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Protean eGov Technologies IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Protean eGov Technologies IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Protean eGov Technologies IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Protean eGov Technologies IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Protean eGov Technologies IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Protean eGov Technologies IPO opens on November 6, 2023 and closes on November 8, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Protean eGov Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Protean eGov Technologies IPO<!-- --> <b>lot size is <!-- -->18</b>, and the <b>minimum amount required is <span>₹14,256</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Protean eGov Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Protean eGov Technologies IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Protean eGov Technologies IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Protean eGov Technologies IPO<!-- --> will be done on <!-- -->Monday, November 13, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, November 16, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/protean-egov-technologies-ipo/1545/\" title=\"Protean eGov Technologies IPO Allotment Status\">Protean eGov Technologies IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Protean eGov Technologies IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Protean eGov Technologies IPO<!-- --> listing date is on <b>Monday, November 13, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Protean eGov Technologies",
+  "issue_price": "₹792.00",
+  "issue_price_numeric": 792,
+  "issue_size": "61,91,000 shares (aggregating up to ₹490.33 Cr)",
+  "issue_size_numeric": 61,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Equirus Capital Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/133/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/133/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Nomura Financial Advisory And Securities",
+      "url": "/report/ipo-lead-manager-review/112/72/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/72/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "792.00"
+      },
+      "open": {
+        "bse": "792.00"
+      },
+      "low": {
+        "bse": "775.00"
+      },
+      "high": {
+        "bse": "890.90"
+      },
+      "last_trade": {
+        "bse": "883.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 13 2023",
+    "bse_script_code": "544021",
+    "nse_symbol": "PROTEAN",
+    "isin": "INE004A01022",
+    "final_issue_price": "792 per share"
+  },
+  "listing_date": "2023-11-12T18:30:00.000Z",
+  "listing_gains": "11.49%",
+  "listing_gains_numeric": 11.49,
+  "logo": "https://www.chittorgarh.net/images/ipo/protean-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/protean-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 18 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "18",
+        "amount": "14256"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "14",
+        "shares": "252",
+        "amount": "199584"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "15",
+        "shares": "270",
+        "amount": "213840"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "70",
+        "shares": "1260",
+        "amount": "997920"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "71",
+        "shares": "1278",
+        "amount": "1012176"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/protean-egov-technologies-ipo/1545/"
+    }
+  },
+  "lot_size": 18,
+  "opening_date": "2023-11-05T18:30:00.000Z",
+  "pageHeading": "Protean eGov Technologies Limited IPO (Protean eGov Technologies IPO) Detail",
+  "pageTitle": "Protean eGov Technologies IPO Date, Price, GMP, Details",
+  "prospectusLinks": [
+    {
+      "text": "Protean eGov Technologies IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/protean-egov-technologies-limited_55005.html"
+    },
+    {
+      "text": "Protean eGov Technologies IPO Addendum DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2023/protean-egov-technologies-limited-addendum-ii-to-the-drhp_70669.html"
+    },
+    {
+      "text": "Protean eGov Technologies IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2023/protean-egov-technologies-limited-rhp_78630.html"
+    },
+    {
+      "text": "Anchor Investors in Protean eGov Technologies IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/protean-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "7",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/protean-egov-technologies-ipo/1545/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "protean.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Protean eGov Technologies IPO offers 6191000 shares. 1208200 (19.52%) to QIB 906150 (14.64%) to NII 2114350 (34.15%) to RII 150000 (2.42%) to employees and 1812300 (29.27%) to Anchor investors. 117463 RIIs will receive minimum 18 shares and 1118 (sNII) and 2237 (bNII) will receive minimum 270 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1812300 (29.27%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1208200 (19.52%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "906150 (14.64%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "604100 (9.76%)",
+        "maximum_allottees": "2237"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "302050 (4.88%)",
+        "maximum_allottees": "1118"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2114350 (34.15%)",
+        "maximum_allottees": "117463"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "150000 (2.42%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6191000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:45.895Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Protean eGov Technologies IPO is subscribed 23.86 times on November 8 2023 7:02:00 PM (Day 3). The public issue subscribed 8.93 times in the retail category 46.94 times in the QIB category and 31.62 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "46.94",
+        "shares_offered": "1208200",
+        "shares_bid_for": "56709342"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "31.62",
+        "shares_offered": "906150",
+        "shares_bid_for": "28653840"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "33.14",
+        "shares_offered": "604100",
+        "shares_bid_for": "20020662"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "28.58",
+        "shares_offered": "302050",
+        "shares_bid_for": "8633178"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "8.93",
+        "shares_offered": "2114350",
+        "shares_bid_for": "18878454"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.49",
+        "shares_offered": "150000",
+        "shares_bid_for": "223614"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "23.86",
+        "shares_offered": "4378700",
+        "shares_bid_for": "104465250"
+      }
+    },
+    "total_applications": "890571"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 8 2023",
+    "tentative_allotment": "Mon Nov 13 2023",
+    "initiation_of_refunds": "Wed Nov 15 2023",
+    "credit_of_shares_to_demat": "Thu Nov 16 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:42.015Z",
+  "updated_at": "2025-04-18T17:40:45.895Z",
+  "year": 2023,
+  "worst_listing_gains": "11.49%",
+  "worst_listing_gains_numeric": 11.49
+}

@@ -1,0 +1,375 @@
+{
+  "_id": "6802917c3ccffd1c7912c9b6",
+  "ipo_id": "2020_suratwwala_business_group_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:43:11.705Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/suratwwala-business-ipo/1053/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2008, Suratwwala Business Group Ltd is a real estate development company developing commercial and residential projects in Pune District. The company focusses on the development, sale, and maintenance business of properties. Suratwwala also provides the space on rent for banners, hoardings, and towers on buildings and unsold space for a particular time duration.</p><p>The company has completed one residential projet of 16 one BHK Apartments and one commercial project named Suratwwala Mark Plazzo - Phase I in Pune district. The company is working on Phase II of the commercial project.</p><p>A major portion of the revenue of the company is derived from the development of real estate projects. The project of the company includes both affordable housing and premium housing developments. For maintenance business, Suratwwala Business charges fees from the owners of the units of each project.</p><p><strong>Competitive Strengths</strong></p><p>1. Diversified Business Model<br>2. Strong presence in Pune district<br>3. Land identification capabilities and strong execution<br></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-March-20",
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Mar-17"
+        ],
+        [
+          "Total Assets",
+          "5390.82",
+          "4487.52",
+          "3129.14",
+          "2752.49"
+        ],
+        [
+          "Total Revenue",
+          "1088.35",
+          "912.62",
+          "1119.91",
+          "1657.82"
+        ],
+        [
+          "Profit After Tax",
+          "32.46",
+          "85.86",
+          "296.49",
+          "214.38"
+        ]
+      ]
+    },
+    {
+      "heading": "Suratwwala Business Group Ltd Stock Quote & Charts",
+      "sanitizedHeading": "suratwwala_business_group_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "83",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 3, 2020 to August 5, 2020",
+    "ipoListingDate": "Thu, Aug 13, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹15.00",
+    "lotSize": "8,000 Shares",
+    "issueSize": "46,00,000 shares (aggregating up to ₹6.90 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "2,40,000 shares",
+    "ipoOpenDate": "Mon, Aug 3, 2020",
+    "ipoCloseDate": "Wed, Aug 5, 2020",
+    "initiationOfRefunds": "Tue, Aug 11, 2020",
+    "creditOfSharesToDemat": "Wed, Aug 12, 2020",
+    "shareHoldingPreIssue": "1,27,41,644 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,27,41,644 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.92%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,73,41,644 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,73,41,644 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.42%"
+      }
+    ]
+  },
+  "closing_date": "2020-08-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 020 25434392",
+    "email": "cs@suratwwala.co.in",
+    "full_address": "Suratwwala Business Group Ltd, S. No. 4/38 Sumangal First Floor, Sahakar Colony behind SBI Off Karve Road, Erandwane Pune 411004 Maharashtra",
+    "website": "http://www.suratwwala.co.in/"
+  },
+  "createdAt": "2025-04-18T17:53:00.000Z",
+  "faqs": [
+    {
+      "question": "What is the Suratwwala Business IPO?",
+      "answer": "<div itemprop=\"text\"><p>Suratwwala Business IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4600000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->6.90<!-- --> Crores. The issue is priced at <span>₹15 per share</span>. The minimum order quantity is <!-- -->8000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 3, 2020</b>, and <b>closes on <!-- -->August 5, 2020</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Suratwwala Business IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Suratwwala Business IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Suratwwala Business IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Suratwwala Business IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Suratwwala Business IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Suratwwala Business IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Suratwwala Business IPO opens on August 3, 2020 and closes on August 5, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Suratwwala Business IPO?",
+      "answer": "<div itemprop=\"text\"><p>Suratwwala Business IPO<!-- --> <b>lot size is <!-- -->8000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Suratwwala Business IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Suratwwala Business IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Suratwwala Business IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Suratwwala Business IPO<!-- --> will be done on <!-- -->Monday, August 10, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, August 12, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/suratwwala-business-ipo/1053/\" title=\"Suratwwala Business IPO Allotment Status\">Suratwwala Business IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Suratwwala Business IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Suratwwala Business IPO<!-- --> listing date is on <b>Thursday, August 13, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Suratwwala Business Group",
+  "issue_price": "₹15.00",
+  "issue_price_numeric": 15,
+  "issue_size": "46,00,000 shares (aggregating up to ₹6.90 Cr)",
+  "issue_size_numeric": 46,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "15.00"
+      },
+      "open": {
+        "bse_sme": "15.45"
+      },
+      "low": {
+        "bse_sme": "15.45"
+      },
+      "high": {
+        "bse_sme": "16.22"
+      },
+      "last_trade": {
+        "bse_sme": "16.22"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 13 2020",
+    "bse_script_code": "543218",
+    "isin": "INB05ST01010",
+    "final_issue_price": "15 per share"
+  },
+  "listing_date": "2020-08-12T18:30:00.000Z",
+  "listing_gains": "8.13%",
+  "listing_gains_numeric": 8.13,
+  "logo": "https://www.chittorgarh.net/images/ipo/suratwwala_business_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/suratwwala_business_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 8000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "8000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "8000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "16000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/suratwwala-business-ipo/1053/"
+    }
+  },
+  "lot_size": 8,
+  "opening_date": "2020-08-02T18:30:00.000Z",
+  "pageHeading": "Suratwwala Business Group Ltd IPO (Suratwwala Business IPO) Detail",
+  "pageTitle": "Suratwwala Business IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr.Jatin Dhansukhlal Suratwala and Mr. Manoj Dhansukhlal Suratwala are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "99.92%",
+      "share_holding_post_issue": "73.42%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Suratwwala Business IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/353686/DP_SBGL_20200210153931.pdf"
+    },
+    {
+      "text": "Suratwwala Business IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/353686/SME_IPO%20Open/SBGL%20-%20Prospectus-Final_20200729142937.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/suratwwala-business-ipo/1053/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "sbgl.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Suratwwala Business IPO offers 4600000 shares. 2180000 (47.39%) to NII 2180000 (47.39%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "240000 (5.22%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2180000 (47.39%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2180000 (47.39%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4600000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:59.999Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Suratwwala Business IPO is subscribed 1.31 times on August 5 2020 6:49:02 PM (Day 3). The public issue subscribed 0.28 times in the retail category [.] times in the QIB category and 2.35 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.35",
+        "shares_offered": "2180000",
+        "shares_bid_for": "5112000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.28",
+        "shares_offered": "2180000",
+        "shares_bid_for": "616000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.31",
+        "shares_offered": "4360000",
+        "shares_bid_for": "5728000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 5 2020",
+    "tentative_allotment": "Mon Aug 10 2020",
+    "initiation_of_refunds": "Tue Aug 11 2020",
+    "credit_of_shares_to_demat": "Wed Aug 12 2020"
+  },
+  "updatedAt": "2025-04-19T04:38:01.702Z",
+  "updated_at": "2025-04-18T17:52:59.999Z",
+  "year": 2020,
+  "worst_listing_gains": "8.13%",
+  "worst_listing_gains_numeric": 8.13
+}

@@ -1,0 +1,401 @@
+{
+  "_id": "680298563ccffd1c7912cb53",
+  "ipo_id": "2017_shalby_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:05:10.661Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/shalby-hospital-ipo/772/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2004, Shalby Limited is Ahmedabad, Gujrat based one of the leading multi-specialty chain of hospitals in India. Company provides inpatient and outpatient healthcare services through 8 fully operational hospitals with an aggregate operational bed count of 781 beds. Company also provides outpatient consultative healthcare services through 3 hospitals and 68 Outpatient Clinics. Company has 8 shared surgery centers within third party hospitals.</p><p>Shalby hospitals are well known for its orthopaedic services. Shalby Hospital had a 15% market share of all joint replacement surgeries conducted by private corporate hospitals in India in 2016. Apart from a focus on orthopaedics, Shalby hospitals provide advanced levels of care across various specialties such as neurology, cardiac care, critical care, oncology, and nephrology.</p><p>Since March 2007, Shalby hospitals have conducted an aggregate of 84,579 surgeries, and provided healthcare services to an aggregate of 923,441 patients, consisting 121,576 inpatients and 801,865 outpatients.</p><p>Shalby hospitals operate across five states and Outpatient Clinics operate across 53 cities in 16 states in India. Company also has six Outpatient Clinics and one Shalby Arthroplasty Centre of Excellence (SACE) in Africa, and two SACE in the UAE.</p><p>Shalby hospital is led by Dr Vikram Shah, an orthopaedic surgeon with more than 25 years of professional experience. Dr Vikram Shah is one of the promoters of the company.</p><p>As of December 31, 2016, Shalby hospital employed 1,599 employees and engaged 267 professional consultants, consisting 242 doctors who are full-time consultants and 25 doctors who are part-time consultants. Hospital's staff strength also comprises 458 nurses and 1,141 paramedical, corporate and support staff and pharmacists.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "7181.75",
+          "5039.14",
+          "3513.41",
+          "2168.30",
+          "1520.96"
+        ],
+        [
+          "Total Revenue",
+          "3328.62",
+          "2925.56",
+          "2776.26",
+          "2616.76",
+          "2298.28"
+        ],
+        [
+          "Profit After Tax",
+          "615.74",
+          "363.19",
+          "245.52",
+          "377.47",
+          "150.09",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 5, 2017 to December 7, 2017",
+    "ipoListingDate": "Fri, Dec 15, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹248.00",
+    "lotSize": "60 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹504.80 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹480.00 Cr)",
+    "offerForSale": "10,00,000 shares of ₹10 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Dec 5, 2017",
+    "ipoCloseDate": "Thu, Dec 7, 2017",
+    "initiationOfRefunds": "Wed, Dec 13, 2017",
+    "creditOfSharesToDemat": "Thu, Dec 14, 2017",
+    "shareHoldingPreIssue": "8,86,54,932 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "8,86,54,932 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "10,80,09,770 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "10,80,09,770 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-12-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 79 4020 3000",
+    "email": "companysecretary@shalby.in",
+    "full_address": "Shalby Limited, Opposite Karnawati Club, Sarkhej Gandhinagar Highway, Near Prahlad Nagar Garden Ahmedabad 380 015",
+    "website": "https://www.shalby.org/"
+  },
+  "createdAt": "2025-04-18T18:22:14.517Z",
+  "faqs": [
+    {
+      "question": "What is the Shalby Hospital IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shalby Hospital IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->504.80<!-- --> Crores. The issue is priced at <span>₹248 per share</span>. The minimum order quantity is <!-- -->60<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 5, 2017</b>, and <b>closes on <!-- -->December 7, 2017</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Shalby Hospital IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Shalby Hospital IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Shalby Hospital IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Shalby Hospital IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Shalby Hospital IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Shalby Hospital IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Shalby Hospital IPO opens on December 5, 2017 and closes on December 7, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Shalby Hospital IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shalby Hospital IPO<!-- --> <b>lot size is <!-- -->60</b>, and the <b>minimum amount required is <span>₹14,880</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Shalby Hospital IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Shalby Hospital IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Shalby Hospital IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Shalby Hospital IPO<!-- --> will be done on <!-- -->Tuesday, December 12, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, December 14, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/shalby-hospital-ipo/772/\" title=\"Shalby Hospital IPO Allotment Status\">Shalby Hospital IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Shalby Hospital IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Shalby Hospital IPO<!-- --> listing date is on <b>Friday, December 15, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Shalby",
+  "issue_price": "₹248.00",
+  "issue_price_numeric": 248,
+  "issue_size": "[.] shares (aggregating up to ₹504.80 Cr)",
+  "issue_size_numeric": 504.8,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Idfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/134/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/134/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "248.00",
+        "nse": "248.00"
+      },
+      "open": {
+        "bse": "237.00",
+        "nse": "239.70"
+      },
+      "low": {
+        "bse": "236.15",
+        "nse": "236.45"
+      },
+      "high": {
+        "bse": "254.65",
+        "nse": "254.80"
+      },
+      "last_trade": {
+        "bse": "239.25",
+        "nse": "239.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 15 2017",
+    "bse_script_code": "540797",
+    "nse_symbol": "SHALBY",
+    "isin": "INE597J01018",
+    "final_issue_price": "248 per share"
+  },
+  "listing_date": "2017-12-14T18:30:00.000Z",
+  "listing_gains": "-3.53%",
+  "listing_gains_numeric": -3.53,
+  "logo": "https://www.chittorgarh.net/images/ipo/shalby-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/shalby-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 60 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "60",
+        "amount": "14880"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "780",
+        "amount": "193440"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "840",
+        "amount": "208320"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "4020",
+        "amount": "996960"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "4080",
+        "amount": "1011840"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/shalby-hospital-ipo/772/"
+    }
+  },
+  "lot_size": 60,
+  "opening_date": "2017-12-04T18:30:00.000Z",
+  "pageHeading": "Shalby Limited IPO (Shalby Hospital IPO) Detail",
+  "pageTitle": "Shalby Hospital IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Shalby Hospital IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2017/shalby-limited_34932.html"
+    },
+    {
+      "text": "Shalby Hospital IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2017/shalby-limited_36950.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/shalby-hospital-ipo/772/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Shalby Hospital IPO offers 14521686 shares. 4165267 (28.68%) to QIB 3070626 (21.15%) to NII 7164793 (49.34%) to RII 121000 (0.83%) to employees. 119413 RIIs will receive minimum 60 shares and (sNII) and (bNII) will receive minimum 840 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4165267 (28.68%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3070626 (21.15%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "7164793 (49.34%)",
+        "maximum_allottees": "119413"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "121000 (0.83%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "14521686 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:14.517Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Shalby Hospital IPO is subscribed 2.82 times on December 7 2017 8:20:00 PM (Day 3). The public issue subscribed 2.98 times in the retail category 4.34 times in the QIB category and 0.42 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "4.34",
+        "shares_offered": "4165267",
+        "shares_bid_for": "18093000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.42",
+        "shares_offered": "3070626",
+        "shares_bid_for": "1299060"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.98",
+        "shares_offered": "7164793",
+        "shares_bid_for": "21326760"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.44",
+        "shares_offered": "121000",
+        "shares_bid_for": "174180"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.82",
+        "shares_offered": "14521686",
+        "shares_bid_for": "40893000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 7 2017",
+    "tentative_allotment": "Tue Dec 12 2017",
+    "initiation_of_refunds": "Wed Dec 13 2017",
+    "credit_of_shares_to_demat": "Thu Dec 14 2017"
+  },
+  "updatedAt": "2025-04-19T04:39:00.341Z",
+  "updated_at": "2025-04-18T18:22:14.517Z",
+  "year": 2017,
+  "worst_listing_gains": "-3.53%",
+  "worst_listing_gains_numeric": -3.53
+}

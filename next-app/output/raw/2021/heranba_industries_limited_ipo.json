@@ -1,0 +1,396 @@
+{
+  "_id": "6802918a3ccffd1c7912c9e4",
+  "ipo_id": "2021_heranba_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:48:51.430Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/heranba-industries-ipo/1085/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1992, Heranba Industries Limited is a Gujarat-based crop protection chemical manufacturer.&nbsp;It is one of the leading domestic producers of synthetic pyrethroids like cypermethrin, deltamethrin, lambda-cyhalothrin, etc. The company manufactures different types of pesticides including insecticides, fungicides, herbicides, and other pest control products.</p>\n<p>Heranba Industries operates in different verticals including 1. Domestic sales of Technicals to companies 2. Technicals exports, 3. Domestic sales of Branded formulations under its own brand name, 4. Formulations export, and 5. Manufacturing and selling of insect control chemicals. It has a strong network in the domestic as well as the overseas market. In India, it has 8600 dealers across 16 states and 1 union territory whereas, in the overseas market, it exports its products to more than 60 countries through international distribution partners.</p>\n<p>The company has 3 well-equipped manufacturing units in Vapi, Gujarat with an aggregate manufacturing capacity of 14,024 MTPA. It further has an in-house R&amp;D team at Unit I and II that are recognized by the Department of Scientific and Industrial Research (DSIR) and its new R&amp;D facility at Unit III, Sarigam will become operational from December 2020.</p>\n<p><strong>Competitive strengths</strong></p>\n<ul>\n<li>Range of product portfolio including Intermediates, Formulations, and&nbsp;Technicals.</li>\n<li>Domestic as well as global reach.</li>\n<li>Strong distribution network.</li>\n<li>Large customer base.</li>\n<li>Experienced promoters and management team.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in million)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-20",
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "7881.20",
+          "6247.63",
+          "5604.43",
+          "4504.65"
+        ],
+        [
+          "Total Revenue",
+          "6192.11",
+          "9679.06",
+          "10118.38",
+          "7504.10"
+        ],
+        [
+          "Profit After Tax",
+          "663.11",
+          "977.50",
+          "754.02",
+          "468.76"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 23, 2021 to February 25, 2021",
+    "ipoListingDate": "Fri, Mar 5, 2021",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹627.00",
+    "lotSize": "23 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹625.24 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹60.00 Cr)",
+    "offerForSale": "90,15,000 shares of ₹10 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Feb 23, 2021",
+    "ipoCloseDate": "Thu, Feb 25, 2021",
+    "initiationOfRefunds": "Wed, Mar 3, 2021",
+    "creditOfSharesToDemat": "Thu, Mar 4, 2021",
+    "shareHoldingPreIssue": "3,90,56,530 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "3,90,56,530 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "98.1%"
+      }
+    ],
+    "shareHoldingPostIssue": "4,86,26,603 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "4,86,26,603 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "74.1%"
+      }
+    ]
+  },
+  "closing_date": "2021-02-24T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "91 260 240 1646",
+    "email": "compliance@heranba.com",
+    "full_address": "Heranba Industries Limited, Plot No. 1504 / 1505 / 1506/1 GIDC, Phase-III Vapi, Valsad – 396195",
+    "website": "https://www.heranba.co.in/"
+  },
+  "createdAt": "2025-04-18T17:53:14.320Z",
+  "faqs": [
+    {
+      "question": "What is the Heranba Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Heranba Industries IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->625.24<!-- --> Crores. The issue is priced at <span>₹627 per share</span>. The minimum order quantity is <!-- -->23<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 23, 2021</b>, and <b>closes on <!-- -->February 25, 2021</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Heranba Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Heranba Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Heranba Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Heranba Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Heranba Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Heranba Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Heranba Industries IPO opens on February 23, 2021 and closes on February 25, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Heranba Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Heranba Industries IPO<!-- --> <b>lot size is <!-- -->23</b>, and the <b>minimum amount required is <span>₹14,421</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Heranba Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Heranba Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Heranba Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Heranba Industries IPO<!-- --> will be done on <!-- -->Tuesday, March 2, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, March 4, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/heranba-industries-ipo/1085/\" title=\"Heranba Industries IPO Allotment Status\">Heranba Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Heranba Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Heranba Industries IPO<!-- --> listing date is on <b>Friday, March 5, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Heranba Industries",
+  "issue_price": "₹627.00",
+  "issue_price_numeric": 627,
+  "issue_size": "[.] shares (aggregating up to ₹625.24 Cr)",
+  "issue_size_numeric": 625.24,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Batlivala & Karani Securities India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/167/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/167/"
+    },
+    {
+      "name": "Emkay Global Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/179/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/179/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "627.00",
+        "nse": "627.00"
+      },
+      "open": {
+        "bse": "900.00",
+        "nse": "900.00"
+      },
+      "low": {
+        "bse": "796.35",
+        "nse": "796.55"
+      },
+      "high": {
+        "bse": "944.95",
+        "nse": "945.00"
+      },
+      "last_trade": {
+        "bse": "812.25",
+        "nse": "627.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 5 2021",
+    "bse_script_code": "543266",
+    "nse_symbol": "HERANBA",
+    "isin": "INE694N01015",
+    "final_issue_price": "627 per share"
+  },
+  "listing_date": "2021-03-04T18:30:00.000Z",
+  "listing_gains": "29.55%",
+  "listing_gains_numeric": 29.55,
+  "logo": "https://www.chittorgarh.net/images/ipo/heranba-industries-limited-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/heranba-industries-limited-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 23 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "23",
+        "amount": "14421"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "299",
+        "amount": "187473"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "322",
+        "amount": "201894"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "1587",
+        "amount": "995049"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "1610",
+        "amount": "1009470"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/heranba-industries-ipo/1085/"
+    }
+  },
+  "lot_size": 23,
+  "opening_date": "2021-02-22T18:30:00.000Z",
+  "pageHeading": "Heranba Industries Limited IPO (Heranba Industries IPO) Detail",
+  "pageTitle": "Heranba Industries IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Sadashiv K. Shetty and Raghuram K. Shetty are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "98.1%",
+      "share_holding_post_issue": "74.1%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Heranba Industries IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2020/heranba-industries-limited_47782.html"
+    },
+    {
+      "text": "Heranba Industries IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2021/heranba-industries-limited_49129.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "7",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/heranba-industries-ipo/1085/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Heranba Industries IPO offers 6981417 shares. 1995448 (28.58%) to QIB 1495791 (21.43%) to NII 3490178 (49.99%) to RII. 151746 RIIs will receive minimum 23 shares and (sNII) and (bNII) will receive minimum 322 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1995448 (28.58%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1495791 (21.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3490178 (49.99%)",
+        "maximum_allottees": "151746"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6981417 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:14.318Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Heranba Industries IPO is subscribed 83.29 times on February 25 2021 5:00:00 AM (Day 3). The public issue subscribed 11.84 times in the retail category 67.45 times in the QIB category and 271.15 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "67.45",
+        "shares_offered": "1995448",
+        "shares_bid_for": "134588157"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "271.15",
+        "shares_offered": "1495791",
+        "shares_bid_for": "405588923"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "11.84",
+        "shares_offered": "3490178",
+        "shares_bid_for": "41324583"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "83.29",
+        "shares_offered": "6981417",
+        "shares_bid_for": "581501663"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 25 2021",
+    "tentative_allotment": "Tue Mar 2 2021",
+    "initiation_of_refunds": "Wed Mar 3 2021",
+    "credit_of_shares_to_demat": "Thu Mar 4 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:08.575Z",
+  "updated_at": "2025-04-18T17:53:14.318Z",
+  "year": 2021,
+  "worst_listing_gains": "29.55%",
+  "worst_listing_gains_numeric": 29.55
+}

@@ -1,0 +1,484 @@
+{
+  "_id": "680249ff3ccffd1c7912c7b1",
+  "ipo_id": "2024_nisus_finance_services_co_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:17:25.052Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/nisus-finance-services-ipo/1907/"
+  },
+  "about": {
+    "details": "<p>Founded in 2013, Nisus Finance Services Co Limited offers financial services such as Transaction Advisory Services, Fund and Asset Management, Private Equity and Venture Debt and Capital Solutions to Corporate Clients.</p>\n<p>Nisus Finance Services has two business segments:</p>\n<p>1. <strong>Transaction Advisory Services:</strong> assist and support the partners in transactions such as outright sales, joint ventures, joint development, capital structuring etc. The company helps businesses connect with private equity funds, risk capital providers, and financial institutions to support their growth. The company also offer advice on corporate real estate matters, helping to structure and finalize transactions efficiently.</p>\n<p>2. <strong>Fund and Asset Management:</strong> includes providing growth capital, project financing, or special situation funding to developers, and asset management for Alternative Investment Funds focused on the real estate and infrastructure sector. As of date, we manage four schemes under the subsidiaries, step-down subsidiaries, and associate companies through SEBI, IFSC, and DIFC-registered AIFs, which include:</p>\n<ol>\n<li>Real Estate Special Opportunities Fund – 1</li>\n<li>Real Estate Credit Opportunities Fund – 1</li>\n<li>Nisus High Yield Growth Fund – 1</li>\n<li>Nisus High Yield Growth Fund Closed-Ended</li>\n</ol>\n<p>The company's main sources of revenue are fund management fees earned by the fund manager/advisor entities for managing AIF fund pools.</p>\n<p>Assets Under Management (AUM): Approximately Rs 1,000 crore (FY2024) across real estate and urban infrastructure.</p>\n<p>Office Network: Three offices, including two in India and one international, as of January 31, 2024.</p>\n<p><strong>Competitve Strengths:</strong></p>\n<ul>\n<li>A well-established, credible and customer-focused NiFCO brand.</li>\n<li>Diversified Business Model.</li>\n<li>Ability to identify emerging market trends on time.</li>\n<li>Strong Management and distinctive people and culture.</li>\n<li>Prudent governance, risk management, and internal control frameworks.</li>\n</ul>\n<p>As of January 31, 2024, the company employed 24 people in the Nisus Group (NiFCO).</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Nisus Finance Services Co Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5835.66",
+          "4903.31",
+          "3106.22",
+          "2077.43"
+        ],
+        [
+          "Revenue",
+          "1500.53",
+          "4224.92",
+          "1153.83",
+          "749.51"
+        ],
+        [
+          "Profit After Tax",
+          "835.72",
+          "2305.29",
+          "302.02",
+          "129.43"
+        ],
+        [
+          "Net Worth",
+          "3876.66",
+          "3129.80",
+          "938.95",
+          "638.90"
+        ],
+        [
+          "Reserves and Surplus",
+          "2236.20",
+          "3119.19",
+          "831.70",
+          "531.65"
+        ],
+        [
+          "Total Borrowing",
+          "663.83",
+          "726.50",
+          "1813.50",
+          "1041.56"
+        ]
+      ]
+    },
+    {
+      "heading": "Nisus Finance Services Co Ltd Stock Quote & Charts",
+      "sanitizedHeading": "nisus_finance_services_co_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "109.83%"
+        ],
+        [
+          "ROCE",
+          "101.63%"
+        ],
+        [
+          "Debt/Equity",
+          "0.23"
+        ],
+        [
+          "RoNW",
+          "73.09%"
+        ],
+        [
+          "PAT Margin",
+          "54.30"
+        ],
+        [
+          "Price to Book Value",
+          "10.48"
+        ]
+      ]
+    },
+    {
+      "heading": "Nisus Finance Services Co Ltd Stock Quote & Charts",
+      "sanitizedHeading": "nisus_finance_services_co_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "12.64",
+          "14.00"
+        ],
+        [
+          "P/E (x)",
+          "14.24",
+          "12.86"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Nisus Finance Services IPO raises Rs 32.21 crore from anchor investors. Nisus Finance Services IPO Anchor bid date is December 3 2024. Nisus Finance Services IPO Anchor Investors list",
+    "list_link": {
+      "text": "Nisus Finance Services IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/nifco_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "March 9 2025",
+      "shares_offered": "1789600",
+      "anchor_portion_size": "32.21"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 4, 2024 to December 6, 2024",
+    "ipoListingDate": "Wed, Dec 11, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹180.00",
+    "lotSize": "800 Shares",
+    "issueSize": "63,46,400 shares (aggregating up to ₹114.24 Cr)",
+    "freshIssue": "56,45,600 shares (aggregating up to ₹101.62 Cr)",
+    "offerForSale": "7,00,800 shares of ₹10 (aggregating up to ₹12.61 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "3,51,200 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Wed, Dec 4, 2024",
+    "ipoCloseDate": "Fri, Dec 6, 2024",
+    "initiationOfRefunds": "Tue, Dec 10, 2024",
+    "creditOfSharesToDemat": "Tue, Dec 10, 2024",
+    "shareHoldingPreIssue": "1,82,32,500 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,82,32,500 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.74%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,38,78,100 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,38,78,100 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.22%"
+      }
+    ]
+  },
+  "closing_date": "2024-12-05T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-22-6164 8888",
+    "email": "cs@nisusfin.com",
+    "full_address": "Nisus Finance Services Co Limited, Unit No 502-A Floor-5, A-Wing Poonam Chambers Dr. Annie Besant Road, Worli Mumbai - 400018",
+    "website": "http://www.nisusfin.com/"
+  },
+  "createdAt": "2025-04-18T12:47:59.404Z",
+  "faqs": [
+    {
+      "question": "What is the Nisus Finance Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Nisus Finance Services IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6346400<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->114.24<!-- --> Crores. The issue is priced at <span>₹180 per share</span>. The minimum order quantity is <!-- -->800<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 4, 2024</b>, and <b>closes on <!-- -->December 6, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Nisus Finance Services IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Nisus Finance Services IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Nisus Finance Services IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Nisus Finance Services IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Nisus Finance Services IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Nisus Finance Services IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Nisus Finance Services IPO opens on December 4, 2024 and closes on December 6, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Nisus Finance Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Nisus Finance Services IPO<!-- --> <b>lot size is <!-- -->800</b>, and the <b>minimum amount required is <span>₹1,44,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Nisus Finance Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Nisus Finance Services IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Nisus Finance Services IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Nisus Finance Services IPO<!-- --> will be done on <!-- -->Monday, December 9, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, December 10, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/nisus-finance-services-ipo/1907/\" title=\"Nisus Finance Services IPO Allotment Status\">Nisus Finance Services IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Nisus Finance Services IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Nisus Finance Services IPO<!-- --> listing date is on <b>Wednesday, December 11, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Nisus Finance Services Co",
+  "issue_price": "₹180.00",
+  "issue_price_numeric": 180,
+  "issue_size": "63,46,400 shares (aggregating up to ₹114.24 Cr)",
+  "issue_size_numeric": 63,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "180.00"
+      },
+      "open": {
+        "bse_sme": "225.00"
+      },
+      "low": {
+        "bse_sme": "225.00"
+      },
+      "high": {
+        "bse_sme": "236.25"
+      },
+      "last_trade": {
+        "bse_sme": "236.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 11 2024",
+    "bse_script_code": "544296",
+    "isin": "INE0DQN01013",
+    "final_issue_price": "180 per share"
+  },
+  "listing_date": "2024-12-10T18:30:00.000Z",
+  "listing_gains": "31.25%",
+  "listing_gains_numeric": 31.25,
+  "logo": "https://www.chittorgarh.net/images/ipo/nisus-finance-services-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/nisus-finance-services-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 800 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "800",
+        "amount": "144000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "800",
+        "amount": "144000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "1600",
+        "amount": "288000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/nisus-finance-services-ipo/1907/"
+    }
+  },
+  "lot_size": 800,
+  "opening_date": "2024-12-03T18:30:00.000Z",
+  "pageHeading": "Nisus Finance Services Co Limited IPO (Nisus Finance Services IPO) Detail",
+  "pageTitle": "Nisus Finance Services IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Amit Anil Goenka and Mridula Amit Goenka are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "99.74%",
+      "share_holding_post_issue": "73.22%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Nisus Finance Services IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/345061/DRHP_Nisus_Beeline-Sd_20240731223531.pdf"
+    },
+    {
+      "text": "Nisus Finance Services IPO Addendum DRHP",
+      "url": "https://www.bsesme.com/download/345061/Addendum_with_DRHP_20241107130703.pdf"
+    },
+    {
+      "text": "Nisus Finance Services IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/nisus-finance-services-co-limited_89485.html"
+    },
+    {
+      "text": "Anchor Investors in Nisus Finance Services IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/nifco_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/nisus-finance-services-ipo/1907/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Nisus Finance Services IPO offers 6346400 shares. 1194400 (18.82%) to QIB 896000 (14.12%) to NII 2091200 (32.95%) to RII 24000 (0.38%) to employees and 1789600 (28.20%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1789600 (28.20%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "351200 (5.53%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1194400 (18.82%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "896000 (14.12%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2091200 (32.95%)"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "24000 (0.38%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6346400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.403Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Nisus Finance Services IPO is subscribed 192.29 times on December 6 2024 6:19:07 PM (Day 3). The public issue subscribed 139.78 times in the retail category 93.84 times in the QIB category and 451.21 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "93.84",
+        "shares_offered": "1194400",
+        "shares_bid_for": "112084000",
+        "total_application": "89"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "451.21",
+        "shares_offered": "896000",
+        "shares_bid_for": "404284000",
+        "total_application": "35126"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "139.78",
+        "shares_offered": "2091200",
+        "shares_bid_for": "292311200",
+        "total_application": "365443"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "0.9",
+        "shares_offered": "24000",
+        "shares_bid_for": "21600",
+        "total_application": "0"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "192.29",
+        "shares_offered": "4205600",
+        "shares_bid_for": "808700800",
+        "total_application": "458967"
+      }
+    },
+    "total_applications": "458967",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 6 2024",
+    "tentative_allotment": "Mon Dec 9 2024",
+    "initiation_of_refunds": "Tue Dec 10 2024",
+    "credit_of_shares_to_demat": "Tue Dec 10 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:04.627Z",
+  "updated_at": "2025-04-18T12:47:59.403Z",
+  "year": 2024,
+  "worst_listing_gains": "31.25%",
+  "worst_listing_gains_numeric": 31.25
+}

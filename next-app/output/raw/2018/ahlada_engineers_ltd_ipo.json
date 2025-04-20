@@ -1,0 +1,357 @@
+{
+  "_id": "680298573ccffd1c7912cb8b",
+  "ipo_id": "2018_ahlada_engineers_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:12:51.541Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ahlada-engineers-ipo/916/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2005, Ahlada Engineers Ltd is Hyderabad based manufacturer of steel doors, windows, and clean room equipment. The company's customer base includes the pharmaceutical, biotechnology, food, healthcare, entertainment and real estate industries.</p><p>Ahlada Engineers has inked an agreement with Tata Steel to manufacture and supply steel doors (which is sold by Tata Steel Ltd under their brand name \"PRAVESH\"). The company manufactures and supplies steel doors and windows to other industrial customers as well.</p><p>Ahlada Engineers has 3 manufacturing facilities, an assembly unit and a stockyard located on the outskirts of Hyderabad city. The company has in-house research, design and quality teams.</p><p><b>Competitive Strengths</b></p><p>1. ISO 9001:2015 (Quality Management system), ISO 14001:2015 (Environmental Management system) and OHSAS 18001:2007 (Occupational Health and Safety Management system) certifications from TÜV SÜD Management Service GmbH.</p><p>2. Tata Steel Limited has ensured an assured offtake of its products i.e. steel doors.</p><p>3. Receive quality &amp; process improvements from Tata Steel as per agreement with them. This helps the company to improve processes and quality of the products.</p><p>4. The company maintains an integrated manufacturing facility with independent storage facility spread across an area of 34,211 square yards.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "14562.47",
+          "9785.69",
+          "8386.93",
+          "6912.18",
+          "6084.47"
+        ],
+        [
+          "Total Revenue",
+          "12789.38",
+          "11855.26",
+          "11147.19",
+          "9630.66",
+          "7913.50"
+        ],
+        [
+          "Profit After Tax",
+          "809.01",
+          "327.29",
+          "305.98",
+          "258.61",
+          "264.85"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 11, 2018 to September 18, 2018",
+    "ipoListingDate": "Sat, Oct 27, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹150.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "34,05,000 shares (aggregating up to ₹51.08 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "1,71,000 shares",
+    "ipoOpenDate": "Tue, Sep 11, 2018",
+    "ipoCloseDate": "Tue, Sep 18, 2018",
+    "initiationOfRefunds": "Tue, Sep 25, 2018",
+    "creditOfSharesToDemat": "Tue, Sep 25, 2018",
+    "shareHoldingPreIssue": "95,16,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "95,16,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,29,21,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,29,21,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-09-17T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 98 6650 0811",
+    "email": "kodanda.cs@ahlada.com",
+    "full_address": "Ahlada Engineers Ltd, Door No 4-56 Survey No. 62/1/A &amp; 67, Tech Mahindra Road Bahadurpally Qutbullapur Mand, Hyderabad 500 043 Rangareddi",
+    "website": "http://ahlada.com/"
+  },
+  "createdAt": "2025-04-18T18:22:15.705Z",
+  "faqs": [
+    {
+      "question": "What is the Ahlada Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ahlada Engineers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3405000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->51.08<!-- --> Crores. The issue is priced at <span>₹150 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 11, 2018</b>, and <b>closes on <!-- -->September 18, 2018</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Ahlada Engineers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Ahlada Engineers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Ahlada Engineers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Ahlada Engineers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Ahlada Engineers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Ahlada Engineers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Ahlada Engineers IPO opens on September 11, 2018 and closes on September 18, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Ahlada Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ahlada Engineers IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,50,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Ahlada Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Ahlada Engineers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Ahlada Engineers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Ahlada Engineers IPO<!-- --> will be done on <!-- -->Monday, September 24, 2018<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, September 25, 2018<!-- -->. Check the <a href=\"/ipo_allotment_status/ahlada-engineers-ipo/916/\" title=\"Ahlada Engineers IPO Allotment Status\">Ahlada Engineers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Ahlada Engineers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Ahlada Engineers IPO<!-- --> listing date is on <b>Saturday, October 27, 2018</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Ahlada Engineers",
+  "issue_price": "₹150.00",
+  "issue_price_numeric": 150,
+  "issue_size": "34,05,000 shares (aggregating up to ₹51.08 Cr)",
+  "issue_size_numeric": 34,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Saffron Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/26/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/26/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "150.00"
+      },
+      "open": {
+        "nse_sme": "141.00"
+      },
+      "low": {
+        "nse_sme": "134.40"
+      },
+      "high": {
+        "nse_sme": "134.40"
+      },
+      "last_trade": {
+        "nse_sme": "136.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 27 2018",
+    "nse_symbol": "AHLADA",
+    "isin": "INE00PV01013",
+    "final_issue_price": "150 per share"
+  },
+  "listing_date": "2018-10-26T18:30:00.000Z",
+  "listing_gains": "-9.33%",
+  "listing_gains_numeric": -9.33,
+  "logo": "https://www.chittorgarh.net/images/ipo/ahlada-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/ahlada-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "150000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "150000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "300000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ahlada-engineers-ipo/916/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2018-09-10T18:30:00.000Z",
+  "pageHeading": "Ahlada Engineers Ltd IPO (Ahlada Engineers IPO) Detail",
+  "pageTitle": "Ahlada Engineers IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Ahlada Engineers IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Ahlada_DRHP.pdf"
+    },
+    {
+      "text": "Ahlada Engineers IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Ahlada_Engineers_RHP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ahlada-engineers-ipo/916/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Ahlada Engineers IPO offers 3405000 shares. 1294000 (38.00%) to QIB 808000 (23.73%) to NII 1132000 (33.25%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "171000 (5.02%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1294000 (38.00%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "808000 (23.73%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1132000 (33.25%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3405000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:15.705Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Ahlada Engineers IPO is subscribed 2.35 times on September 18 2018 6:00:01 PM (Day 5). The public issue subscribed 3.19 times in the retail category 1.44 times in the QIB category and 2.64 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.44",
+        "shares_offered": "1294000",
+        "shares_bid_for": "1862000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.64",
+        "shares_offered": "808000",
+        "shares_bid_for": "2135000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.19",
+        "shares_offered": "1132000",
+        "shares_bid_for": "3612000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.35",
+        "shares_offered": "3234000",
+        "shares_bid_for": "7609000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 18 2018",
+    "tentative_allotment": "Mon Sep 24 2018",
+    "initiation_of_refunds": "Tue Sep 25 2018",
+    "credit_of_shares_to_demat": "Tue Sep 25 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:06.703Z",
+  "updated_at": "2025-04-18T18:22:15.705Z",
+  "year": 2018,
+  "worst_listing_gains": "-9.33%",
+  "worst_listing_gains_numeric": -9.33
+}

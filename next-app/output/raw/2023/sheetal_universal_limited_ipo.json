@@ -1,0 +1,430 @@
+{
+  "_id": "68028e9e3ccffd1c7912c95d",
+  "ipo_id": "2023_sheetal_universal_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:27:23.910Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sheetal-universal-ipo/1562/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2015, Sheetal Universal Limited sources, processes, and supplies agricultural raw materials such as peanuts, sesame seeds, spices, and grains for the production of peanut butter, cookies, cakes, chocolate, and food products.</p>\n<p>Sheetal Universal's product category includes:</p>\n<ul>\n<li>Oilseeds: Peanuts, Groundnut Inshell, Hulled Sesame Seeds</li>\n<li>Spices: Fenugreek seeds, Cumin Seeds, Turmeric, Dill Seeds, Kalunji, Fennel Seeds</li>\n<li>Grains: Rice, Chickpeas</li>\n<li>Other products: Raisins, Desiccated Coconut</li>\n</ul>\n<p>The company's manufacturing and processing facility is located in Jamnagar, Gujrat, and is spread over a total area of approximately 14668 sq. mtr.</p>\n<p>Sheetal Universal has two subsidiaries, namely Saumesvar International Private Limited, which exports agricultural produce, ceramic tiles, and brass fittings from India, and Svar Industries Private Limited, which produces, processes, and distributes agricultural produce, seeds, agricultural seeds, forestry seeds, vegetable seeds, cereals, grains, pulses, cattle feed or cakes and spices, including raw spices.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Sheetal Universal Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Aug 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "4370.03",
+          "2804.02",
+          "1602.82",
+          "1272.15"
+        ],
+        [
+          "Revenue",
+          "5826.93",
+          "13165.68",
+          "3983.67",
+          "3883.53"
+        ],
+        [
+          "Profit After Tax",
+          "187.67",
+          "198.85",
+          "28.31",
+          "25.41"
+        ],
+        [
+          "Net Worth",
+          "1046.89",
+          "649.22",
+          "450.37",
+          "422.07"
+        ],
+        [
+          "Reserves and Surplus",
+          "241.29",
+          "299.22",
+          "100.37",
+          "72.07"
+        ],
+        [
+          "Total Borrowing",
+          "1463.22",
+          "1356.24",
+          "984.80",
+          "625.07"
+        ]
+      ]
+    },
+    {
+      "heading": "Sheetal Universal Limited Stock Quote & Charts",
+      "sanitizedHeading": "sheetal_universal_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "36.17%"
+        ],
+        [
+          "ROCE",
+          "21.59%"
+        ],
+        [
+          "Debt/Equity",
+          "2.09"
+        ],
+        [
+          "RoNW",
+          "30.63%"
+        ]
+      ]
+    },
+    {
+      "heading": "Sheetal Universal Limited Stock Quote & Charts",
+      "sanitizedHeading": "sheetal_universal_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.56",
+          null
+        ],
+        [
+          "P/E (x)",
+          "27.34",
+          "17.81"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 4, 2023 to December 6, 2023",
+    "ipoListingDate": "Mon, Dec 11, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹70.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "34,00,000 shares (aggregating up to ₹23.80 Cr)",
+    "freshIssue": "34,00,000 shares (aggregating up to ₹23.80 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,72,000 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Mon, Dec 4, 2023",
+    "ipoCloseDate": "Wed, Dec 6, 2023",
+    "initiationOfRefunds": "Fri, Dec 8, 2023",
+    "creditOfSharesToDemat": "Fri, Dec 8, 2023",
+    "shareHoldingPreIssue": "80,55,999 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "80,55,999 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "95%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,14,55,999 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,14,55,999 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.81%"
+      }
+    ]
+  },
+  "closing_date": "2023-12-05T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9099302638",
+    "email": "cs@sheetaluniversal.com",
+    "full_address": "Sheetal Universal Limited, Office No. 348, 2nd Floor ISCON Mall, 150 Feet Ring Road Rajkot - 360005",
+    "website": "https://sheetaluniversal.com/"
+  },
+  "createdAt": "2025-04-18T17:40:46.644Z",
+  "faqs": [
+    {
+      "question": "What is the Sheetal Universal IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sheetal Universal IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3400000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->23.80<!-- --> Crores. The issue is priced at <span>₹70 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 4, 2023</b>, and <b>closes on <!-- -->December 6, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sheetal Universal IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sheetal Universal IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sheetal Universal IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sheetal Universal IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sheetal Universal IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sheetal Universal IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sheetal Universal IPO opens on December 4, 2023 and closes on December 6, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sheetal Universal IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sheetal Universal IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,40,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sheetal Universal IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sheetal Universal IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sheetal Universal IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sheetal Universal IPO<!-- --> will be done on <!-- -->Thursday, December 7, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, December 8, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/sheetal-universal-ipo/1562/\" title=\"Sheetal Universal IPO Allotment Status\">Sheetal Universal IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sheetal Universal IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sheetal Universal IPO<!-- --> listing date is on <b>Monday, December 11, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sheetal Universal",
+  "issue_price": "₹70.00",
+  "issue_price_numeric": 70,
+  "issue_size": "34,00,000 shares (aggregating up to ₹23.80 Cr)",
+  "issue_size_numeric": 34,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "70.00"
+      },
+      "open": {
+        "nse_sme": "75.00"
+      },
+      "low": {
+        "nse_sme": "75.00"
+      },
+      "high": {
+        "nse_sme": "78.75"
+      },
+      "last_trade": {
+        "nse_sme": "75.40"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "December 11 2023",
+    "nse_symbol": "SHEETAL",
+    "isin": "INE04VX01019",
+    "final_issue_price": "70 per share"
+  },
+  "listing_date": "2023-12-10T18:30:00.000Z",
+  "listing_gains": "7.71%",
+  "listing_gains_numeric": 7.71,
+  "logo": "https://www.chittorgarh.net/images/ipo/sheetal-universal-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sheetal-universal-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "140000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "140000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "280000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sheetal-universal-ipo/1562/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-12-03T18:30:00.000Z",
+  "pageHeading": "Sheetal Universal Limited IPO (Sheetal Universal IPO) Detail",
+  "pageTitle": "Sheetal Universal IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Promoters of the company are Mr. Hiren Vallabhbhai Patel and Mrs. Kajal Hiren Patel.",
+    "holdings": {
+      "share_holding_pre_issue": "95%",
+      "share_holding_post_issue": "66.81%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sheetal Universal IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SheetalUniversal_DP.pdf  "
+    },
+    {
+      "text": "Sheetal Universal IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/sheetal-universal-limited_79845.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sheetal-universal-ipo/1562/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Sheetal Universal IPO offers 3400000 shares. 1614000 (47.47%) to NII 1614000 (47.47%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "172000 (5.06%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1614000 (47.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1614000 (47.47%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3400000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.644Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sheetal Universal IPO is subscribed 179.2 times on December 6 2023 7:29:00 PM (Day 3). The public issue subscribed 129.73 times in the retail category [.] times in the QIB category and 212.55 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "212.55",
+        "shares_offered": "1614000",
+        "shares_bid_for": "343060000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "129.73",
+        "shares_offered": "1614000",
+        "shares_bid_for": "209384000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "179.2",
+        "shares_offered": "3228000",
+        "shares_bid_for": "578444000"
+      }
+    },
+    "total_applications": "104692",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 6 2023",
+    "tentative_allotment": "Thu Dec 7 2023",
+    "initiation_of_refunds": "Fri Dec 8 2023",
+    "credit_of_shares_to_demat": "Fri Dec 8 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:48.375Z",
+  "updated_at": "2025-04-18T17:40:46.644Z",
+  "year": 2023,
+  "worst_listing_gains": "7.71%",
+  "worst_listing_gains_numeric": 7.71
+}

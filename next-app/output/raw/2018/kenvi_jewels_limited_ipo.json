@@ -1,0 +1,307 @@
+{
+  "_id": "680298583ccffd1c7912cbc6",
+  "ipo_id": "2018_kenvi_jewels_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": false,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:17:27.261Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/kenvi-jewels-ipo/808/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2013, Kenvi Jewels Ltd(KJL) is Ahmedabad based commpany engaged in manufacturing and retailing of jewellery. Company also engaged into wholesaling and trading of gold jewellery. Kenvi Jewels sell gold jewellery made with or without studded diamonds, precious and semi-precious stones. Company's product portfolio includes Wedding Jewellery, Festive Jewellery, Rings, Chain, Earrings, Ear Chain, Nose-rings/Nose pins, Waist belts, Mangalsutra, Anklet, Zuda, Toe Ring, Pendant Set/ Pendant, Bracelet and Bangles.</p><p>Kenvi Jewels retail business is done through its showroom situated at Odhav, Ahmedabad. KJL sell its jewellery under the brand name of 'Suvarnakrupa'. KJL buy its raw materials from bullion market &amp; local markets in Ahmedabad which is then designed and moulded into gold jewellery.</p>"
+  },
+  "basicDetails": {
+    "ipoDate": "February 2, 2018 to February 7, 2018",
+    "ipoListingDate": "Fri, Feb 16, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹36.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "18,60,000 shares (aggregating up to ₹6.70 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "93,000 shares",
+    "ipoOpenDate": "Fri, Feb 2, 2018",
+    "ipoCloseDate": "Wed, Feb 7, 2018",
+    "initiationOfRefunds": "Wed, Feb 14, 2018",
+    "creditOfSharesToDemat": "Wed, Feb 14, 2018",
+    "shareHoldingPreIssue": "28,42,500 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "28,42,500 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "47,02,500 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "47,02,500 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-02-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 79 22973199 22891099",
+    "email": "compliance.kjl@gmail.com",
+    "full_address": "Kenvi Jewels Limited, 14 Nav Durga Complex Opp. Nav Durga Society, Ambicanagar, Odhav",
+    "website": "http://www.kenvijewels.com/"
+  },
+  "createdAt": "2025-04-18T18:22:16.877Z",
+  "faqs": [
+    {
+      "question": "What is the Kenvi Jewels IPO?",
+      "answer": "<div itemprop=\"text\"><p>Kenvi Jewels IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1860000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->6.70<!-- --> Crores. The issue is priced at <span>₹36 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 2, 2018</b>, and <b>closes on <!-- -->February 7, 2018</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Kenvi Jewels IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Kenvi Jewels IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Kenvi Jewels IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Kenvi Jewels IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Kenvi Jewels IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Kenvi Jewels IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Kenvi Jewels IPO opens on February 2, 2018 and closes on February 7, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Kenvi Jewels IPO?",
+      "answer": "<div itemprop=\"text\"><p>Kenvi Jewels IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,08,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Kenvi Jewels IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Kenvi Jewels IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Kenvi Jewels IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Kenvi Jewels IPO<!-- --> will be done on <!-- -->Monday, February 12, 2018<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, February 14, 2018<!-- -->. Check the <a href=\"/ipo_allotment_status/kenvi-jewels-ipo/808/\" title=\"Kenvi Jewels IPO Allotment Status\">Kenvi Jewels IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Kenvi Jewels IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Kenvi Jewels IPO<!-- --> listing date is on <b>Friday, February 16, 2018</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Kenvi Jewels",
+  "issue_price": "₹36.00",
+  "issue_price_numeric": 36,
+  "issue_size": "18,60,000 shares (aggregating up to ₹6.70 Cr)",
+  "issue_size_numeric": 18,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "First Overseas Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/110/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/110/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "36.00"
+      },
+      "open": {
+        "bse_sme": "35.10"
+      },
+      "low": {
+        "bse_sme": "31.05"
+      },
+      "high": {
+        "bse_sme": "43.20"
+      },
+      "last_trade": {
+        "bse_sme": "39.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 16 2018",
+    "bse_script_code": "540953",
+    "isin": "INE923Y01015",
+    "final_issue_price": "36 per share"
+  },
+  "listing_date": "2018-02-15T18:30:00.000Z",
+  "listing_gains": "8.61%",
+  "listing_gains_numeric": 8.61,
+  "logo": "https://www.chittorgarh.net/images/ipo/kenvi-jewels-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/kenvi-jewels-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "108000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "108000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "216000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/kenvi-jewels-ipo/808/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2018-02-01T18:30:00.000Z",
+  "pageHeading": "Kenvi Jewels Limited IPO (Kenvi Jewels IPO) Detail",
+  "pageTitle": "Kenvi Jewels IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Kenvi Jewels IPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/20171221184749Kenvi%20Jewels%20Limited%20_DP.pdf"
+    },
+    {
+      "text": "Kenvi Jewels IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2018/kenvi-jewels-limited_37574.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/kenvi-jewels-ipo/808/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "kenvijewels.ipo@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Kenvi Jewels IPO offers 1953000 shares. 883500 (45.24%) to NII 883500 (45.24%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "93000 (4.76%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "883500 (45.24%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "883500 (45.24%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "93000 (4.76%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1953000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:16.876Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Kenvi Jewels IPO is subscribed 0.45 times on February 6 2018 5:00:00 PM (Day 3). The public issue subscribed 0.17 times in the retail category [.] times in the QIB category and 0.73 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.73",
+        "shares_offered": "883500",
+        "shares_bid_for": "648000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.17",
+        "shares_offered": "883500",
+        "shares_bid_for": "150000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "0.45",
+        "shares_offered": "1767000",
+        "shares_bid_for": "798000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 7 2018",
+    "tentative_allotment": "Mon Feb 12 2018",
+    "initiation_of_refunds": "Wed Feb 14 2018",
+    "credit_of_shares_to_demat": "Wed Feb 14 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:14.467Z",
+  "updated_at": "2025-04-18T18:22:16.876Z",
+  "year": 2018,
+  "worst_listing_gains": "8.61%",
+  "worst_listing_gains_numeric": 8.61
+}

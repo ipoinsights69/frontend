@@ -1,0 +1,503 @@
+{
+  "_id": "680249ff3ccffd1c7912c7b9",
+  "ipo_id": "2024_nova_agritech_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:41:39.156Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/nova-agritech-ipo/1616/"
+  },
+  "about": {
+    "details": "<p>Founded in Hyderabad in May 2007, Nova AgriTech Limited manufactures products that help farmers grow crops better. The main focus is on three things: Soil health, plant nutrition and crop protection. The products are manufactured using technology and are designed to be environmentally friendly and nutritious. The company collaborates with farmers to gain insight into their needs and develop customized solutions that meet their requirements.</p>\n<p>The company manufactures, distributes and markets a broad range of product categories, including (a) soil health products, (b) crop nutrition products, (c) biostimulants, (d) biopesticides, (e) integrated pest management (IPM) products, (f) new technologies and (g) crop protection products. The subsidiary Nova Agri Sciences Private Limited is currently responsible for the production of crop protection products.</p>\n<p>As of January 31, 2023, the company has received a total of 629 product registrations. These registrations are divided into four categories, namely soil health management, plant nutrition, biopesticides and crop protection. These include 7 registrations in the soil health management category, 168 registrations in the plant nutrition category, 4 registrations in the biopesticide category and 450 registrations in the crop protection category.</p>\n<p>By January 31, 2023, the company has 13 Kisan Mitras and 253 Kisan Sevaks at its base.</p>\n<p>As on January 31, 2023, the Company has a team of 32 NKSK Coordinators, all of whom have a degree in Agricultural Sciences and are on the Company's payroll.The NKSK program comprises three levels: NKSK Coordinators, Kisan Mitras and Kisan Sevaks. This ensures personal contact with the farmers at the grassroots level.</p>\n<p>The company employs 215 people in its sales team. They manage brand sales, distribution channels, and product promotion.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Nova AgriTech Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "22 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "196.37",
+          "180.78",
+          "160.30",
+          "147.44"
+        ],
+        [
+          "Revenue",
+          "103.24",
+          "210.93",
+          "185.61",
+          "160.93"
+        ],
+        [
+          "Profit After Tax",
+          "10.38",
+          "20.49",
+          "13.69",
+          "6.30"
+        ],
+        [
+          "Net Worth",
+          "74.23",
+          "63.88",
+          "43.19",
+          "29.43"
+        ],
+        [
+          "Reserves and Surplus",
+          "60.97",
+          "50.59",
+          "30.10",
+          "16.41"
+        ],
+        [
+          "Total Borrowing",
+          "68.50",
+          "70.96",
+          "64.27",
+          "51.10"
+        ]
+      ]
+    },
+    {
+      "heading": "Nova Agritech Limited Stock Quote & Charts",
+      "sanitizedHeading": "nova_agritech_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "38.27%"
+        ],
+        [
+          "ROCE",
+          "27.25%"
+        ],
+        [
+          "Debt/Equity",
+          "1.11"
+        ],
+        [
+          "RoNW",
+          "32.08%"
+        ],
+        [
+          "Price to Book Value",
+          "4.06"
+        ]
+      ]
+    },
+    {
+      "heading": "Nova Agritech Limited Stock Quote & Charts",
+      "sanitizedHeading": "nova_agritech_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.14",
+          "2.24"
+        ],
+        [
+          "P/E (x)",
+          "13.05",
+          "18.27"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Nova AgriTech IPO raises Rs 43.14 crore from anchor investors. Nova AgriTech IPO Anchor bid date is January 19 2024. Nova AgriTech IPO Anchor Investors list",
+    "list_link": {
+      "text": "Nova AgriTech IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/nova-agritech-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "April 28 2024",
+      "shares_offered": "10522220",
+      "anchor_portion_size": "43.14"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "January 23, 2024 to January 25, 2024",
+    "ipoListingDate": "Wed, Jan 31, 2024",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹41.00",
+    "lotSize": "365 Shares",
+    "issueSize": "3,50,75,693 shares (aggregating up to ₹143.81 Cr)",
+    "freshIssue": "2,73,17,073 shares (aggregating up to ₹112.00 Cr)",
+    "offerForSale": "77,58,620 shares of ₹2 (aggregating up to ₹31.81 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Jan 23, 2024",
+    "ipoCloseDate": "Thu, Jan 25, 2024",
+    "initiationOfRefunds": "Tue, Jan 30, 2024",
+    "creditOfSharesToDemat": "Tue, Jan 30, 2024",
+    "shareHoldingPreIssue": "6,52,02,740 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "6,52,02,740 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "84.27%"
+      }
+    ],
+    "shareHoldingPostIssue": "9,25,19,813 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "9,25,19,813 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "59.39%"
+      }
+    ]
+  },
+  "closing_date": "2024-01-24T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 84 54253446",
+    "email": "ipo@novaagri.in",
+    "full_address": "Nova AgriTech Limited, Sy.No.251/A/1 Singannaguda Village, Mulugu Mandal, Siddipet Medak- 502279",
+    "website": "https://novaagri.in/"
+  },
+  "createdAt": "2025-04-18T12:47:59.534Z",
+  "faqs": [
+    {
+      "question": "What is the Nova AgriTech IPO?",
+      "answer": "<div itemprop=\"text\"><p>Nova AgriTech IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->35075693<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->143.81<!-- --> Crores. The issue is priced at <span>₹41 per share</span>. The minimum order quantity is <!-- -->365<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 23, 2024</b>, and <b>closes on <!-- -->January 25, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Nova AgriTech IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Nova AgriTech IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Nova AgriTech IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Nova AgriTech IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Nova AgriTech IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Nova AgriTech IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Nova AgriTech IPO opens on January 23, 2024 and closes on January 25, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Nova AgriTech IPO?",
+      "answer": "<div itemprop=\"text\"><p>Nova AgriTech IPO<!-- --> <b>lot size is <!-- -->365</b>, and the <b>minimum amount required is <span>₹14,965</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Nova AgriTech IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Nova AgriTech IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Nova AgriTech IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Nova AgriTech IPO<!-- --> will be done on <!-- -->Monday, January 29, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, January 30, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/nova-agritech-ipo/1616/\" title=\"Nova AgriTech IPO Allotment Status\">Nova AgriTech IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Nova AgriTech IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Nova AgriTech IPO<!-- --> listing date is on <b>Wednesday, January 31, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Nova AgriTech",
+  "issue_price": "₹41.00",
+  "issue_price_numeric": 41,
+  "issue_size": "3,50,75,693 shares (aggregating up to ₹143.81 Cr)",
+  "issue_size_numeric": 3,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Keynote Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/24/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/24/"
+    },
+    {
+      "name": "Bajaj Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/183/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/183/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "41.00",
+        "nse": "41.00"
+      },
+      "open": {
+        "bse": "56.00",
+        "nse": "55.00"
+      },
+      "low": {
+        "bse": "55.00",
+        "nse": "55.00"
+      },
+      "high": {
+        "bse": "58.79",
+        "nse": "57.75"
+      },
+      "last_trade": {
+        "bse": "58.79",
+        "nse": "57.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "January 31 2024",
+    "bse_script_code": "544100",
+    "nse_symbol": "NOVAAGRI",
+    "isin": "INE02H701025",
+    "final_issue_price": "41 per share"
+  },
+  "listing_date": "2024-01-30T18:30:00.000Z",
+  "listing_gains": "43.39%",
+  "listing_gains_numeric": 43.39,
+  "logo": "https://www.chittorgarh.net/images/ipo/nova-agritech-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/nova-agritech-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 365 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "365",
+        "amount": "14965"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "4745",
+        "amount": "194545"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "5110",
+        "amount": "209510"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "24090",
+        "amount": "987690"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "24455",
+        "amount": "1002655"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/nova-agritech-ipo/1616/"
+    }
+  },
+  "lot_size": 365,
+  "opening_date": "2024-01-22T18:30:00.000Z",
+  "pageHeading": "Nova AgriTech Limited IPO (Nova AgriTech IPO) Detail",
+  "pageTitle": "Nova AgriTech IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Suraksha Agri Retails (India) Private Limited Malathi S and Kiran Kumar Atukuri.",
+    "holdings": {
+      "share_holding_pre_issue": "84.27%",
+      "share_holding_post_issue": "59.39%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Nova AgriTech IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/390822/Nova%20Agritech%20Limited-Draft%20Red%20Herring%20Prospectus_20230306132840.pdf"
+    },
+    {
+      "text": "Nova AgriTech IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2024/nova-agritech-limited-rhp_80635.html"
+    },
+    {
+      "text": "Anchor Investors in Nova AgriTech IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/nova-agritech-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "5",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/nova-agritech-ipo/1616/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Nova AgriTech IPO offers 35075205 shares. 7015139 (20.00%) to QIB 5261354 (15.00%) to NII 12276492 (35.00%) to RII and 10522220 (30.00%) to Anchor investors. 33634 RIIs will receive minimum 365 shares and 343 (sNII) and 686 (bNII) will receive minimum 5110 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "10522220 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "7015139 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "5261354 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "3507569 (10.00%)",
+        "maximum_allottees": "686"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1753785 (5.00%)",
+        "maximum_allottees": "343"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "12276492 (35.00%)",
+        "maximum_allottees": "33634"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "35075205 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.534Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Nova AgriTech IPO is subscribed 113.21 times on January 25 2024 7:02:00 PM (Day 3). The public issue subscribed 80.2 times in the retail category 81.13 times in the QIB category and 233.03 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "81.13",
+        "shares_offered": "7015139",
+        "shares_bid_for": "569165305"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "233.03",
+        "shares_offered": "5261354",
+        "shares_bid_for": "1226029160"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "231.4",
+        "shares_offered": "3507569",
+        "shares_bid_for": "811666195"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "236.27",
+        "shares_offered": "1753785",
+        "shares_bid_for": "414362965"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "80.2",
+        "shares_offered": "12276492",
+        "shares_bid_for": "984538955"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "113.21",
+        "shares_offered": "24552985",
+        "shares_bid_for": "2779733420"
+      }
+    },
+    "total_applications": "2540394"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 25 2024",
+    "tentative_allotment": "Mon Jan 29 2024",
+    "initiation_of_refunds": "Tue Jan 30 2024",
+    "credit_of_shares_to_demat": "Tue Jan 30 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:05.588Z",
+  "updated_at": "2025-04-18T12:47:59.534Z",
+  "year": 2024,
+  "worst_listing_gains": "43.39%",
+  "worst_listing_gains_numeric": 43.39
+}

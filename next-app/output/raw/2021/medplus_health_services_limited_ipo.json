@@ -1,0 +1,421 @@
+{
+  "_id": "6802918b3ccffd1c7912c9fd",
+  "ipo_id": "2021_medplus_health_services_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:45:00.586Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/medplus-health-ipo/1195/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2006, Medplus Health Services is <strong>India's second-largest pharmacy retailer</strong> in terms of the number of stores and revenue. The company offers pharmaceutical and wellness products i.e. medicines, vitamins, medical devices, test kits, and fast-moving consumer goods i.e. home and personal care products, baby care products, sanitizers, soaps, and detergents, etc. It is also the first pharmacy retailer in India to offer an omnichannel platform wherein customers can purchase products through stores, place orders over the telephone, online orders, and a Click and Pick facility.</p>\n\n<p>As of June 31, 2021, the company has a strong pharmacy retail network of 2,165 stores across Tamil Nadu, Andhra Pradesh, Telangana, Karnataka, Odisha, West Bengal, and Maharashtra. In fiscal 2021, its share of the organized pharmacy retail based on revenue from operations in Chennai, Bangalore, Hyderabad, and Kolkata reported at 30%, 29%, 30%, and 22% respectively. It follows a cluster-based approach for store network expansion wherein it first opens high store density in a populated residential area within a target market. The company's warehouses are located in Bengaluru, Chennai, Hyderabad, Vijaywada, Kolkata, Pune, Bhubaneshwar, Mumbai, and Nagpur.</p>\n\n<p><strong>Competitive strengths</strong></p>\n<ul>\n<li>Second largest pharmacy retailer company in India.</li>\n<li>Strong brand name and customer value proposition.</li>\n<li>Pharmacy retail outlet network of 2000+ stores in Tamil Nadu, Andhra Pradesh, Telangana, Karnataka, Odisha, West Bengal, and Maharashtra.</li>\n<li>First pharmacy retailer to provide Omni-channel platform to customers.</li>\n<li>Highly qualified, experienced, and professional management team.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-21",
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "17464.94",
+          "15656.58",
+          "13486.96",
+          "9587.11"
+        ],
+        [
+          "Total Revenue",
+          "18908.99",
+          "30908.14",
+          "28878.87",
+          "22849.40"
+        ],
+        [
+          "Profit After Tax",
+          "663.67",
+          "631.11",
+          "17.94",
+          "119.22"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 13, 2021 to December 15, 2021",
+    "ipoListingDate": "Thu, Dec 23, 2021",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹796.00",
+    "lotSize": "18 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹1,398.30 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹600.00 Cr)",
+    "offerForSale": "[.] shares of ₹2 (aggregating up to ₹798.30 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Dec 13, 2021",
+    "ipoCloseDate": "Wed, Dec 15, 2021",
+    "initiationOfRefunds": "Tue, Dec 21, 2021",
+    "creditOfSharesToDemat": "Wed, Dec 22, 2021",
+    "shareHoldingPreIssue": "11,17,61,165 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "11,17,61,165 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "43.16%"
+      }
+    ],
+    "shareHoldingPostIssue": "11,93,05,676 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "11,93,05,676 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "40.43%"
+      }
+    ]
+  },
+  "closing_date": "2021-12-14T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 040 6724 6724",
+    "email": "cs@medplusindia.com",
+    "full_address": "Medplus Health Services Limited, 707 7th Floor 5-9-13, Taramandal Commercial Complex Saifabad, Hyderabad 500 004",
+    "website": "http://www.medplusindia.com/"
+  },
+  "createdAt": "2025-04-18T17:53:15.029Z",
+  "faqs": [
+    {
+      "question": "What is the Medplus Health IPO?",
+      "answer": "<div itemprop=\"text\"><p>Medplus Health IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->1,398.30<!-- --> Crores. The issue is priced at <span>₹796 per share</span>. The minimum order quantity is <!-- -->18<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 13, 2021</b>, and <b>closes on <!-- -->December 15, 2021</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Medplus Health IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Medplus Health IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Medplus Health IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Medplus Health IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Medplus Health IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Medplus Health IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Medplus Health IPO opens on December 13, 2021 and closes on December 15, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Medplus Health IPO?",
+      "answer": "<div itemprop=\"text\"><p>Medplus Health IPO<!-- --> <b>lot size is <!-- -->18</b>, and the <b>minimum amount required is <span>₹14,328</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Medplus Health IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Medplus Health IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Medplus Health IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Medplus Health IPO<!-- --> will be done on <!-- -->Monday, December 20, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, December 22, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/medplus-health-ipo/1195/\" title=\"Medplus Health IPO Allotment Status\">Medplus Health IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Medplus Health IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Medplus Health IPO<!-- --> listing date is on <b>Thursday, December 23, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Medplus Health Services",
+  "issue_price": "₹796.00",
+  "issue_price_numeric": 796,
+  "issue_size": "[.] shares (aggregating up to ₹1,398.30 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Credit Suisse Securities",
+      "url": "/report/ipo-lead-manager-review/112/111/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/111/"
+    },
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Nomura Financial Advisory And Securities",
+      "url": "/report/ipo-lead-manager-review/112/72/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/72/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "796.00",
+        "nse": "796.00"
+      },
+      "open": {
+        "bse": "1015.00",
+        "nse": "1040.00"
+      },
+      "low": {
+        "bse": "1015.00",
+        "nse": "1040.00"
+      },
+      "high": {
+        "bse": "1143.10",
+        "nse": "1143.90"
+      },
+      "last_trade": {
+        "bse": "1120.85",
+        "nse": "1121.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 23 2021",
+    "bse_script_code": "543427",
+    "nse_symbol": "MEDPLUS",
+    "isin": "INE804L01022",
+    "final_issue_price": "796 per share"
+  },
+  "listing_date": "2021-12-22T18:30:00.000Z",
+  "listing_gains": "40.81%",
+  "listing_gains_numeric": 40.81,
+  "logo": "https://www.chittorgarh.net/images/ipo/medplus-health-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/medplus-health-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 18 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "18",
+        "amount": "14328"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "234",
+        "amount": "186264"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "252",
+        "amount": "200592"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "1242",
+        "amount": "988632"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "1260",
+        "amount": "1002960"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/medplus-health-ipo/1195/"
+    }
+  },
+  "lot_size": 18,
+  "opening_date": "2021-12-12T18:30:00.000Z",
+  "pageHeading": "Medplus Health Services Limited IPO (Medplus Health IPO) Detail",
+  "pageTitle": "Medplus Health IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Gangadi Madhukar Reddy Lone Furrow Investments Pvt Ltd and Agilemed Investments Pvt Ltd are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "43.16%",
+      "share_holding_post_issue": "40.43%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Medplus Health IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/medplus-health-services-limited_51966.html"
+    },
+    {
+      "text": "Medplus Health IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/medplus-health-services-limited-prospectus_54853.html"
+    },
+    {
+      "text": "Anchor Investors in Medplus Health IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20211210-46&attachedId=64f358ba-737a-4290-be80-c032a4f17e42"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "6",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/medplus-health-ipo/1195/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "medplus.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Medplus Health IPO offers 12575154 shares. 3572550 (28.41%) to QIB 2679414 (21.31%) to NII 6251965 (49.72%) to RII 71225 (0.57%) to employees. 347331 RIIs will receive minimum 18 shares and (sNII) and (bNII) will receive minimum 252 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "3572550 (28.41%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2679414 (21.31%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "6251965 (49.72%)",
+        "maximum_allottees": "347331"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "71225 (0.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "12575154 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:15.028Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Medplus Health IPO is subscribed 52.59 times on December 15 2021 5:01:00 PM (Day 3). The public issue subscribed 5.24 times in the retail category 111.9 times in the QIB category and 85.33 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "111.9",
+        "shares_offered": "3572550",
+        "shares_bid_for": "399761316"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "85.33",
+        "shares_offered": "2679414",
+        "shares_bid_for": "228643524"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "5.24",
+        "shares_offered": "6251965",
+        "shares_bid_for": "32744898"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "3.05",
+        "shares_offered": "71225",
+        "shares_bid_for": "217530"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "52.59",
+        "shares_offered": "12575154",
+        "shares_bid_for": "661367268"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 15 2021",
+    "tentative_allotment": "Mon Dec 20 2021",
+    "initiation_of_refunds": "Tue Dec 21 2021",
+    "credit_of_shares_to_demat": "Wed Dec 22 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:11.654Z",
+  "updated_at": "2025-04-18T17:53:15.028Z",
+  "year": 2021,
+  "worst_listing_gains": "40.81%",
+  "worst_listing_gains_numeric": 40.81
+}

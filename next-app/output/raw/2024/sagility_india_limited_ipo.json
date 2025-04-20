@@ -1,0 +1,555 @@
+{
+  "_id": "68024a013ccffd1c7912c7e9",
+  "ipo_id": "2024_sagility_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:19:04.528Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sagility-india-ipo/1898/"
+  },
+  "about": {
+    "details": "<p>Sagility India Limited, formerly known as Berkmeer India Private Limited, provides healthcare-focused solutions and services to Payers (US health insurers who fund and reimburse the cost of healthcare services) and Providers (primarily hospitals, physicians, diagnostics and medical technology companies).</p>\n<p>The company supports the core business of both payers and providers. Services to payers span their entire operational spectrum, including centralized claims administration and clinical services functions. These include claims administration, payment integrity, clinical management and other services. For providers, the company offers revenue cycle management services to assist them in managing their billing and claiming treatment costs from payers. In addition, the Company also offers some of the services it provides to Payers to Pharmacy Benefit Managers (“PBMs”) who manage prescription drug coverage for members (i.e., insureds) under health benefit plans.</p>\n<p>The company's customers are all based in the USA. As of March 31, 2024, the Company's five largest customer groups (i.e. the customer companies together with their subsidiaries) had an average tenure of service of 17 years. In January 2024, the company served five of the ten largest payers in the US (source: Everest Report). In addition, the company acquired 20 new customers in the financial years 2024 and 2023.</p>\n<p>As of March 31, 2024, Sagility India had 35,044 employees, of which 60.52% were women. As of March 31, 2024, 1,687 of the employees held certifications, including 374 certified medical coders, 1,280 registered nurses in the US, Philippines and India, and 33 employees with other degrees such as dentistry, surgery and pharmacy.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Sagility India IPO Details",
+      "sanitizedHeading": "sagility_india",
+      "headers": [
+        "Application Category",
+        "Maximum Bidding Limits",
+        "Bidding at Cut-off Price Allowed"
+      ],
+      "rows": [
+        [
+          "Only RII",
+          "Up to Rs 2 Lakhs",
+          "Yes"
+        ],
+        [
+          "Only sNII",
+          "Rs 2 Lakhs to Rs 10 Lakhs",
+          "No"
+        ],
+        [
+          "Only bNII",
+          "Rs 10 Lakhs to NII Reservation Portion",
+          "No"
+        ],
+        [
+          "Only employee",
+          null,
+          "Yes"
+        ],
+        [
+          "Employee + RII/NII",
+          "Employee limit: (In certain cases employees are given discount if bidding amount is upto Rs. 2 lakhs) If applying as RII: Upto Rs. 2 lakhs If applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+          "Yes for Employee and RII/NII"
+        ]
+      ]
+    },
+    {
+      "heading": "Sagility India Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "10388.01",
+          "10664.2",
+          "10590.48",
+          "10096.28"
+        ],
+        [
+          "Revenue",
+          "1247.76",
+          "4781.5",
+          "4236.06",
+          "944.39"
+        ],
+        [
+          "Profit After Tax",
+          "22.29",
+          "228.27",
+          "143.57",
+          "-4.67"
+        ],
+        [
+          "Net Worth",
+          "7608.16",
+          "6443.13",
+          "6206.67",
+          "4026.62"
+        ],
+        [
+          "Reserves and Surplus",
+          "2704.28",
+          "1855.44",
+          "4013.38",
+          "2073.8"
+        ],
+        [
+          "Total Borrowing",
+          "943.91",
+          "1933.52",
+          "2347.94",
+          "4239.23"
+        ]
+      ]
+    },
+    {
+      "heading": "Sagility india limited Stock Quote & Charts",
+      "sanitizedHeading": "sagility_india_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "Debt/Equity",
+          "0.15"
+        ],
+        [
+          "RoNW",
+          "0.29"
+        ],
+        [
+          "PAT Margin",
+          "11.83"
+        ],
+        [
+          "Price to Book Value",
+          "2.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Sagility india limited Stock Quote & Charts",
+      "sanitizedHeading": "sagility_india_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "0.49",
+          "0.49"
+        ],
+        [
+          "P/E (x)",
+          "61.52",
+          "61.52"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Sagility India IPO raises Rs 945.40 crore from anchor investors. Sagility India IPO Anchor bid date is November 4 2024. Sagility India IPO Anchor Investors list",
+    "list_link": {
+      "text": "Sagility India IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sagilityindiaanchorallocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "February 6 2025",
+      "shares_offered": "315134668",
+      "anchor_portion_size": "945.40"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "November 5, 2024 to November 7, 2024",
+    "ipoListingDate": "Tue, Nov 12, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹30.00",
+    "lotSize": "500 Shares",
+    "issueSize": "70,21,99,262 shares (aggregating up to ₹2,106.60 Cr)",
+    "offerForSale": "70,21,99,262 shares of ₹10 (aggregating up to ₹2,106.60 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Nov 5, 2024",
+    "ipoCloseDate": "Thu, Nov 7, 2024",
+    "initiationOfRefunds": "Fri, Nov 8, 2024",
+    "creditOfSharesToDemat": "Mon, Nov 11, 2024",
+    "shareHoldingPreIssue": "4,68,13,28,413 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "4,68,13,28,413 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "97.39%"
+      }
+    ],
+    "shareHoldingPostIssue": "4,68,13,28,413 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "4,68,13,28,413 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "82.39%"
+      }
+    ]
+  },
+  "closing_date": "2024-11-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91- 80-7125 150",
+    "email": "investorservice@sagilityhealth.com",
+    "full_address": "Sagility India Limited, No. 23 &amp; 24 AMR Tech Park, Building 2A First Floor Hongasandara Village, Off Hosur Road Bommanahalli Bengaluru - 560 068",
+    "website": "http://www.sagilityhealth.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.248Z",
+  "faqs": [
+    {
+      "question": "What is the Sagility India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sagility India IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->702199262<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->2,106.60<!-- --> Crores. The issue is priced at <span>₹30 per share</span>. The minimum order quantity is <!-- -->500<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 5, 2024</b>, and <b>closes on <!-- -->November 7, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sagility India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sagility India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sagility India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sagility India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sagility India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sagility India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sagility India IPO opens on November 5, 2024 and closes on November 7, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sagility India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sagility India IPO<!-- --> <b>lot size is <!-- -->500</b>, and the <b>minimum amount required is <span>₹15,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sagility India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sagility India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sagility India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sagility India IPO<!-- --> will be done on <!-- -->Friday, November 8, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, November 11, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/sagility-india-ipo/1898/\" title=\"Sagility India IPO Allotment Status\">Sagility India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sagility India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sagility India IPO<!-- --> listing date is on <b>Tuesday, November 12, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sagility India",
+  "issue_price": "₹30.00",
+  "issue_price_numeric": 30,
+  "issue_size": "70,21,99,262 shares (aggregating up to ₹2,106.60 Cr)",
+  "issue_size_numeric": 70,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Jefferies India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/112/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/112/"
+    },
+    {
+      "name": "J.P. Morgan India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/19/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/19/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "30.00",
+        "nse": "30.00"
+      },
+      "open": {
+        "bse": "31.06",
+        "nse": "31.06"
+      },
+      "low": {
+        "bse": "28.95",
+        "nse": "28.95"
+      },
+      "high": {
+        "bse": "32.90",
+        "nse": "32.87"
+      },
+      "last_trade": {
+        "bse": "29.36",
+        "nse": "29.32"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 12 2024",
+    "bse_script_code": "544282",
+    "nse_symbol": "SAGILITY",
+    "isin": "INE0W2G01015",
+    "final_issue_price": "30 per share"
+  },
+  "listing_date": "2024-11-11T18:30:00.000Z",
+  "listing_gains": "-2.13%",
+  "listing_gains_numeric": -2.13,
+  "logo": "https://www.chittorgarh.net/images/ipo/sagility-india-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sagility-india-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 500 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "500",
+        "amount": "15000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "6500",
+        "amount": "195000"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "7000",
+        "amount": "210000"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "33000",
+        "amount": "990000"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "33500",
+        "amount": "1005000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sagility-india-ipo/1898/"
+    }
+  },
+  "lot_size": 500,
+  "opening_date": "2024-11-04T18:30:00.000Z",
+  "pageHeading": "Sagility India Limited IPO (Sagility India IPO) Detail",
+  "pageTitle": "Sagility India IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Sagility B.V. and Sagility Holdings B.V. are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "97.39%",
+      "share_holding_post_issue": "82.39%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sagility India IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2024/sagility-india-limited_84513.html"
+    },
+    {
+      "text": "Sagility India IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2024/sagility-india-limited-prospectus_88332.html"
+    },
+    {
+      "text": "Anchor Investors in Sagility India IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sagilityindiaanchorallocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "8",
+        "neutral": "0",
+        "avoid": "2"
+      },
+      "membersmembers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sagility-india-ipo/1898/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "sagility.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Sagility India IPO offers 702199262 shares. 210089779 (29.92%) to QIB 105044889 (14.96%) to NII 70029926 (9.97%) to RII 1900000 (0.27%) to employees and 315134668 (44.88%) to Anchor investors. 140059 RIIs will receive minimum 500 shares and 5002 (sNII) and 10004 (bNII) will receive minimum 7000 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "315134668 (44.88%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "210089779 (29.92%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "105044889 (14.96%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "70029926 (9.97%)",
+        "maximum_allottees": "10004"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "35014963 (4.99%)",
+        "maximum_allottees": "5002"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "70029926 (9.97%)",
+        "maximum_allottees": "140059"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "1900000 (0.27%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "702199262 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.247Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sagility India IPO is subscribed 3.2 times on November 7 2024 6:19:09 PM (Day 3). The public issue subscribed 4.16 times in the retail category 3.52 times in the QIB category and 1.93 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "3.52",
+        "shares_offered": "210089779",
+        "shares_bid_for": "738682000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.93",
+        "shares_offered": "105044889",
+        "shares_bid_for": "202702500"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "1.69",
+        "shares_offered": "70029926",
+        "shares_bid_for": "118450500"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "2.41",
+        "shares_offered": "35014963",
+        "shares_bid_for": "84252000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "4.16",
+        "shares_offered": "70029926",
+        "shares_bid_for": "291461000"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "3.75",
+        "shares_offered": "1900000",
+        "shares_bid_for": "7130000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "3.2",
+        "shares_offered": "387064594",
+        "shares_bid_for": "1239975500"
+      }
+    },
+    "total_applications": "573307"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 7 2024",
+    "tentative_allotment": "Fri Nov 8 2024",
+    "initiation_of_refunds": "Fri Nov 8 2024",
+    "credit_of_shares_to_demat": "Mon Nov 11 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:11.474Z",
+  "updated_at": "2025-04-18T12:48:01.247Z",
+  "year": 2024,
+  "worst_listing_gains": "-2.13%",
+  "worst_listing_gains_numeric": -2.13
+}

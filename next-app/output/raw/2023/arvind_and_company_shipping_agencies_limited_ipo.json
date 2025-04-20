@@ -1,0 +1,423 @@
+{
+  "_id": "68028e9a3ccffd1c7912c8b2",
+  "ipo_id": "2023_arvind_and_company_shipping_agencies_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:28:59.222Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/arvind-and-company-shipping-agencies-ipo/1544/"
+  },
+  "about": {
+    "details": "<p>Incorporated in September 1987, Arvind and Company Shipping Agency is situated in Jamnagar, Gujrat. The company is in the business of carrying and forwarding agents. The company operates in vessels like Cargo Barges, Flat Top Barges, Crane Mounted Barges, Hopper Barges, Spud Barges and tugs for Cargo. The company mainly provides services related to Marine Vessels and Ancillary equipment and supplies equipment to multinational corporations.</p>\n<p>The company has also expanded its business horizon by entering into the hospitality business with Hotel Millennium Plaza and Hotel 999.</p>\n<p>Arvind and Company Shipping Agency Limited has 15+ employees and has completed 850+ projects.</p>\n<p>Competitive Strength:</p>\n<p>1. Experienced Promoters and Management Team.</p>\n<p>2. Competitive cost structure and efficient operations.</p>\n<p>3. Location of the facilities promotes closer association with the vendors and customers.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Arvind and Company Shipping Agency Limited Financial Information (Restated Standalone)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3381.18",
+          "1860.94",
+          "578.46"
+        ],
+        [
+          "Revenue",
+          "841.10",
+          "331.44",
+          "52.51"
+        ],
+        [
+          "Profit After Tax",
+          "347.12",
+          "100.28",
+          "23.75"
+        ],
+        [
+          "Net Worth",
+          "914.05",
+          "566.92",
+          "467.61"
+        ],
+        [
+          "Reserves and Surplus",
+          "913.05",
+          "565.92",
+          "466.61"
+        ],
+        [
+          "Total Borrowing",
+          "2232.21",
+          "1221.04",
+          "105.84"
+        ]
+      ]
+    },
+    {
+      "heading": "Arvind And Company Shipping Agencies Limited Stock Quote & Charts",
+      "sanitizedHeading": "arvind_and_shipping_agencies_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "46.88%"
+        ],
+        [
+          "ROCE",
+          "37.44%"
+        ],
+        [
+          "Debt/Equity",
+          "2.44"
+        ],
+        [
+          "RoNW",
+          "46.88%"
+        ]
+      ]
+    },
+    {
+      "heading": "Arvind And Company Shipping Agencies Limited Stock Quote & Charts",
+      "sanitizedHeading": "arvind_and_shipping_agencies_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.62",
+          null
+        ],
+        [
+          "P/E (x)",
+          "9.74",
+          "8.01"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "October 12, 2023 to October 16, 2023",
+    "ipoListingDate": "Wed, Oct 25, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹45.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "32,76,000 shares (aggregating up to ₹14.74 Cr)",
+    "freshIssue": "32,76,000 shares (aggregating up to ₹14.74 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,68,000 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Thu, Oct 12, 2023",
+    "ipoCloseDate": "Mon, Oct 16, 2023",
+    "initiationOfRefunds": "Fri, Oct 20, 2023",
+    "creditOfSharesToDemat": "Mon, Oct 23, 2023",
+    "shareHoldingPreIssue": "88,61,800 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "88,61,800 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,21,37,800 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,21,37,800 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73%"
+      }
+    ]
+  },
+  "closing_date": "2023-10-15T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+919913411144",
+    "email": "info@arvindshipping.com",
+    "full_address": "Arvind and Company Shipping Agencies Limited, City point 701 to 702, Fifth Floor Nr. Town Hall, Jamnagar 361001",
+    "website": "https://www.arvindshipping.com/"
+  },
+  "createdAt": "2025-04-18T17:40:41.989Z",
+  "faqs": [
+    {
+      "question": "What is the Arvind and Company Shipping Agencies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Arvind and Company Shipping Agencies IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3276000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->14.74<!-- --> Crores. The issue is priced at <span>₹45 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->October 12, 2023</b>, and <b>closes on <!-- -->October 16, 2023</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Arvind and Company Shipping Agencies IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Arvind and Company Shipping Agencies IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Arvind and Company Shipping Agencies IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Arvind and Company Shipping Agencies IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Arvind and Company Shipping Agencies IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Arvind and Company Shipping Agencies IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Arvind and Company Shipping Agencies IPO opens on October 12, 2023 and closes on October 16, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Arvind and Company Shipping Agencies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Arvind and Company Shipping Agencies IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,35,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Arvind and Company Shipping Agencies IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Arvind and Company Shipping Agencies IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Arvind and Company Shipping Agencies IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Arvind and Company Shipping Agencies IPO<!-- --> will be done on <!-- -->Thursday, October 19, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, October 23, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/arvind-and-company-shipping-agencies-ipo/1544/\" title=\"Arvind and Company Shipping Agencies IPO Allotment Status\">Arvind and Company Shipping Agencies IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Arvind and Company Shipping Agencies IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Arvind and Company Shipping Agencies IPO<!-- --> listing date is on <b>Wednesday, October 25, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Arvind and Company Shipping Agencies",
+  "issue_price": "₹45.00",
+  "issue_price_numeric": 45,
+  "issue_size": "32,76,000 shares (aggregating up to ₹14.74 Cr)",
+  "issue_size_numeric": 32,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "45.00"
+      },
+      "open": {
+        "nse_sme": "80.00"
+      },
+      "low": {
+        "nse_sme": "76.00"
+      },
+      "high": {
+        "nse_sme": "84.00"
+      },
+      "last_trade": {
+        "nse_sme": "80.05"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 25 2023",
+    "nse_symbol": "ARVINDPORT",
+    "isin": "INE0P4T01013",
+    "final_issue_price": "45 per share"
+  },
+  "listing_date": "2023-10-24T18:30:00.000Z",
+  "listing_gains": "77.89%",
+  "listing_gains_numeric": 77.89,
+  "logo": "https://www.chittorgarh.net/images/ipo/arvind-and-company-shipping-agency-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/arvind-and-company-shipping-agency-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "270000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/arvind-and-company-shipping-agencies-ipo/1544/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2023-10-11T18:30:00.000Z",
+  "pageHeading": "Arvind and Company Shipping Agencies Limited IPO (Arvind and Company Shipping Agencies IPO) Detail",
+  "pageTitle": "Arvind and Company Shipping Agencies IPO Date, Details",
+  "promoterHolding": {
+    "promoters": "Mr Arvind Kantilal Shah Mr Vinit Arvind Shah Mrs Parul Arvind Shah and Mr Chintan Arvind Shah are the promoters of the company",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "73%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Arvind and Company Shipping Agencies IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ArvindCo_DP.zip"
+    },
+    {
+      "text": "Arvind and Company Shipping Agencies IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ArvindShipping_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/arvind-and-company-shipping-agencies-ipo/1544/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Arvind and Company Shipping Agencies IPO offers 3276000 shares. 1554000 (47.44%) to NII 1554000 (47.44%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "168000 (5.13%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1554000 (47.44%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1554000 (47.44%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3276000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:41.988Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Arvind and Company Shipping Agencies IPO is subscribed 385.03 times on October 16 2023 7:29:00 PM (Day 3). The public issue subscribed 321.97 times in the retail category [.] times in the QIB category and 436.05 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "436.05",
+        "shares_offered": "1554000",
+        "shares_bid_for": "677619000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "321.97",
+        "shares_offered": "1554000",
+        "shares_bid_for": "500340000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "385.03",
+        "shares_offered": "3108000",
+        "shares_bid_for": "1196679000"
+      }
+    },
+    "total_applications": "166780",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 16 2023",
+    "tentative_allotment": "Thu Oct 19 2023",
+    "initiation_of_refunds": "Fri Oct 20 2023",
+    "credit_of_shares_to_demat": "Mon Oct 23 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:25.604Z",
+  "updated_at": "2025-04-18T17:40:41.988Z",
+  "year": 2023,
+  "worst_listing_gains": "77.89%",
+  "worst_listing_gains_numeric": 77.89
+}

@@ -1,0 +1,254 @@
+{
+  "_id": "680298573ccffd1c7912cb79",
+  "ipo_id": "2017_zota_health_care_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": false,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": false,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:09:39.014Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/zota-health-care-ipo/655/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2000, Zota Health Care Ltd manufactures and markets pharmaceutical formulations, nutraceutical, and ayurvedic medicines in India and internationally. They mainly market <br>generic, patented and OTC pharmaceutical products. Products are marketed in the form of tablets, capsules, ointment, oral liquids, injectable etc as per customers need.</p><p>They offers products in various therapeutic categories including liver disorders, osteoarthritis, diabetes, cardiovascular disorders, neurological disorders, psychological disorders, nutritional deficiencies, musculoskeletal disorders, respiratory disorders, antipyretics, and morning sickness during pregnancy.</p><p>Zota applied for patent of 19 unique formulations out of which it already got patent for 6 products and the rest are waiting approvals. ZHCL has also taken initiatives for digital marketing strategy with a mobile application for its division “nutravedic.com” and is in the process of launching another application for easy reach to the end users.  ZHCL has also set up a unit at Special Economic Zone Surat, to meet export demands for its products. Company has applied for registration in 15 countries for more than 230 products and has received 46 approvals from 10 countries.</p>"
+  },
+  "basicDetails": {
+    "ipoDate": "April 27, 2017 to May 2, 2017",
+    "ipoListingDate": "May 10, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹125.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "46,80,000 shares (aggregating up to ₹58.50 Cr)",
+    "freshIssue": "31,80,000 shares (aggregating up to ₹39.75 Cr)",
+    "offerForSale": "15,00,000 shares of ₹10 (aggregating up to ₹18.75 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "ipoOpenDate": "Thu, Apr 27, 2017",
+    "ipoCloseDate": "Tue, May 2, 2017",
+    "shareHoldingPreIssue": "1,43,63,352 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,43,63,352 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,75,43,352 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,75,43,352 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-05-01T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 261 2331601",
+    "email": "info@zotahealthcare.com",
+    "full_address": "Zota Health Care Ltd, Zota House, 2/896 Hira Modi Street, Sagrampura",
+    "website": "http://www.zotahealthcare.com"
+  },
+  "createdAt": "2025-04-18T18:22:15.400Z",
+  "faqs": [
+    {
+      "question": "What is the Zota Health Care IPO?",
+      "answer": "<div itemprop=\"text\"><p>Zota Health Care IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4680000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->58.50<!-- --> Crores. The issue is priced at <span>₹125 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->April 27, 2017</b>, and <b>closes on <!-- -->May 2, 2017</b>.</p><p>Satellite Corporate Services Private Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Zota Health Care IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Zota Health Care IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Zota Health Care IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Zota Health Care IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Zota Health Care IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Zota Health Care IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Zota Health Care IPO opens on April 27, 2017 and closes on May 2, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Zota Health Care IPO?",
+      "answer": "<div itemprop=\"text\"><p>Zota Health Care IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,25,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Zota Health Care IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Zota Health Care IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Zota Health Care IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Zota Health Care IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/zota-health-care-ipo/655/\" title=\"Zota Health Care IPO Allotment Status\">Zota Health Care IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Zota Health Care IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Zota Health Care IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Zota Health Care",
+  "issue_price": "₹125.00",
+  "issue_price_numeric": 125,
+  "issue_size": "46,80,000 shares (aggregating up to ₹58.50 Cr)",
+  "issue_size_numeric": 46,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Indian Overseas Bank",
+      "url": "/report/ipo-lead-manager-review/112/85/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/85/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "125.00"
+      },
+      "open": {
+        "nse_sme": "140.40"
+      },
+      "low": {
+        "nse_sme": "125.50"
+      },
+      "high": {
+        "nse_sme": "144.35"
+      },
+      "last_trade": {
+        "nse_sme": "125.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "May 10 2017",
+    "nse_symbol": "ZOTA",
+    "isin": "INE358U01012",
+    "final_issue_price": "125 per share"
+  },
+  "listing_date": "2017-05-09T18:30:00.000Z",
+  "listing_gains": "0.48%",
+  "listing_gains_numeric": 0.48,
+  "logo": "https://www.chittorgarh.net/images/ipo/zota_healthcare_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/zota_healthcare_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "125000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "125000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "250000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/zota-health-care-ipo/655/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2017-04-26T18:30:00.000Z",
+  "pageHeading": "Zota Health Care Ltd IPO (Zota Health Care IPO) Detail",
+  "pageTitle": "Zota Health Care IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Zota Health Care IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ZHCL_DRHP.pdf"
+    },
+    {
+      "text": "Zota Health Care IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ZHCL_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/zota-health-care-ipo/655/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Satellite Corporate Services Private Limited",
+    "phone": "+91-22- 28520461/462",
+    "email": "service@satellitecorporate.com",
+    "website": "https://www.satellitecorporate.com/ipo-query.php"
+  },
+  "scraped_at": "2025-04-18T18:22:15.400Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Zota Health Care IPO is subscribed [.] times on May 2 2017 5:00:00 PM (Day 3). The public issue subscribed [.] times in the retail category [.] times in the QIB category and [.] times in the NII category. Check Day by Day Subscription Details (Live Status)"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 2 2017"
+  },
+  "updatedAt": "2025-04-19T04:39:04.550Z",
+  "updated_at": "2025-04-18T18:22:15.400Z",
+  "year": 2017,
+  "worst_listing_gains": "0.48%",
+  "worst_listing_gains_numeric": 0.48
+}

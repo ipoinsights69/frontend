@@ -1,0 +1,443 @@
+{
+  "_id": "68028e993ccffd1c7912c8ad",
+  "ipo_id": "2023_asarfi_hospital_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:32:06.095Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/asarfi-hospital-ipo/1458/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2005, Asarfi Hospital Limited provides <strong>healthcare facilities</strong> to the people of Jharkhand. The company was started by Nayan Prakash Singh and Harendra Singh in the name of their mother Asarfi Devi.</p>\n<p>Asarfi Hospital is a 250 bedded multi-specialty hospital offering healthcare facilities to people for nearly two decades in Dhanbad, Jharkhand. The entity is Accredited by National Accreditation Board for Testing and Calibration Laboratories (NABL Accredited).</p>\n<p>Asarfi Hospital operates with a dedicated team of doctors who are committed to offering their expert discretion and skills. As an integrated healthcare service provider, the company is committed towards delivering valued healthcare services to patients that include prevention, treatment, and proper rehabilitation.</p>\n<p>To further the operations of the hospital, they are impaneled with several Government Agencies, Insurance and TPA providers, and Corporate Organizations for providing regular healthcare facilities to their employees.</p>\n<p>Asarfi Hospital Limited has departments like Cardiology, General Medicine, Day Care Services, Paediatrics &amp; Neonatology, Obstetrics &amp; Gynaecology, Neurosciences, General Surgery, Gastroenterology, Pulmonology, Orthopaedics Plastic Surgery &amp; Cosmetics, Nutrition &amp; Dietetics, Oncology, Urology, Ophthalmology, Radiology, ENT, Dental, Nephrology, Physiotherapy, Emergency, Anaesthesiology &amp; Critical Care, Pain Management and so on.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-21",
+          "3729.45",
+          "5439.90",
+          "353.43",
+          "1689.90",
+          "1564.95",
+          "713.36"
+        ],
+        [
+          "31-Mar-22",
+          "6270.24",
+          "6619.54",
+          "572.84",
+          "2262.73",
+          "2137.78",
+          "1163.31"
+        ],
+        [
+          "31-Mar-23",
+          "9342.71",
+          "7303.26",
+          "801.53",
+          "4184.26",
+          "2734.53",
+          "1720.20"
+        ]
+      ]
+    },
+    {
+      "heading": "Asarfi Hospital Ltd Stock Quote & Charts",
+      "sanitizedHeading": "asarfi_hospital_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "19.16%"
+        ],
+        [
+          "ROCE",
+          "19.91%"
+        ],
+        [
+          "Debt/Equity",
+          "0.41"
+        ],
+        [
+          "RoNW",
+          "19.16"
+        ]
+      ]
+    },
+    {
+      "heading": "Asarfi Hospital Ltd Stock Quote & Charts",
+      "sanitizedHeading": "asarfi_hospital_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.58",
+          null
+        ],
+        [
+          "P/E (x)",
+          "12.78",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Asarfi Hospital IPO raises Rs 7.68 crore from anchor investors. Asarfi Hospital IPO Anchor bid date is July 14 2023. Asarfi Hospital IPO Anchor Investors list",
+    "list_link": {
+      "text": "Asarfi Hospital IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/asarfi-hospital-anchor-investor-list.pdf"
+    },
+    "details": {
+      "ipo_date": "October 22 2023",
+      "shares_offered": "1476000",
+      "anchor_portion_size": "7.68"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "July 17, 2023 to July 19, 2023",
+    "ipoListingDate": "Wed, Jul 26, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹52.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "51,80,000 shares (aggregating up to ₹26.94 Cr)",
+    "freshIssue": "51,80,000 shares (aggregating up to ₹26.94 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "2,60,000 shares",
+      "maker_name": "Hem Finlease Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/250/"
+    },
+    "ipoOpenDate": "Mon, Jul 17, 2023",
+    "ipoCloseDate": "Wed, Jul 19, 2023",
+    "initiationOfRefunds": "Tue, Jul 25, 2023",
+    "creditOfSharesToDemat": "Wed, Jul 26, 2023",
+    "shareHoldingPreIssue": "1,44,97,300 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,44,97,300 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "83.03%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,96,77,300 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,96,77,300 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "61.17%"
+      }
+    ]
+  },
+  "closing_date": "2023-07-18T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 96088 33708",
+    "email": "cs@asarfihospital.com",
+    "full_address": "Asarfi Hospital Limited, Baramuri, Bishunpur Polytechnic, Dhanbad - 828130",
+    "website": "http://www.asarfi.in/"
+  },
+  "createdAt": "2025-04-18T17:40:41.696Z",
+  "faqs": [
+    {
+      "question": "What is the Asarfi Hospital IPO?",
+      "answer": "<div itemprop=\"text\"><p>Asarfi Hospital IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5180000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->26.94<!-- --> Crores. The issue is priced at <span>₹52 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 17, 2023</b>, and <b>closes on <!-- -->July 19, 2023</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Asarfi Hospital IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Asarfi Hospital IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Asarfi Hospital IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Asarfi Hospital IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Asarfi Hospital IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Asarfi Hospital IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Asarfi Hospital IPO opens on July 17, 2023 and closes on July 19, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Asarfi Hospital IPO?",
+      "answer": "<div itemprop=\"text\"><p>Asarfi Hospital IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,04,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Asarfi Hospital IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Asarfi Hospital IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Asarfi Hospital IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Asarfi Hospital IPO<!-- --> will be done on <!-- -->Monday, July 24, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, July 26, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/asarfi-hospital-ipo/1458/\" title=\"Asarfi Hospital IPO Allotment Status\">Asarfi Hospital IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Asarfi Hospital IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Asarfi Hospital IPO<!-- --> listing date is on <b>Wednesday, July 26, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Asarfi Hospital",
+  "issue_price": "₹52.00",
+  "issue_price_numeric": 52,
+  "issue_size": "51,80,000 shares (aggregating up to ₹26.94 Cr)",
+  "issue_size_numeric": 51,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "52.00"
+      },
+      "open": {
+        "bse_sme": "98.80"
+      },
+      "low": {
+        "bse_sme": "98.80"
+      },
+      "high": {
+        "bse_sme": "103.74"
+      },
+      "last_trade": {
+        "bse_sme": "103.74"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "July 26 2023",
+    "bse_script_code": "543943",
+    "isin": "INE0DN001027",
+    "final_issue_price": "52 per share"
+  },
+  "listing_date": "2023-07-25T18:30:00.000Z",
+  "listing_gains": "99.50%",
+  "listing_gains_numeric": 99.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/asarfi-hospital-limited-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/asarfi-hospital-limited-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "104000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "104000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "208000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/asarfi-hospital-ipo/1458/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-07-16T18:30:00.000Z",
+  "pageHeading": "Asarfi Hospital Limited IPO (Asarfi Hospital IPO) Detail",
+  "pageTitle": "Asarfi Hospital IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Harendra Singh Nayan Prakash Singh Udai Pratap Singh Madhuri Singh and Nitu Singh are the Promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "83.03%",
+      "share_holding_post_issue": "61.17%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Asarfi Hospital IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/341538/AsarfiHospitalLimited_DRHP_20230627111926.pdf"
+    },
+    {
+      "text": "Asarfi Hospital IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2023/asarfi-hospital-limited_77820.html"
+    },
+    {
+      "text": "Anchor Investors in Asarfi Hospital IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/asarfi-hospital-anchor-investor-list.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/asarfi-hospital-ipo/1458/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "priya@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "Asarfi Hospital IPO offers 5180000 shares. 984000 (19.00%) to QIB 738000 (14.25%) to NII 1722000 (33.24%) to RII 1476000 (28.49%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1476000 (28.49%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "260000 (5.02%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "984000 (19.00%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "738000 (14.25%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1722000 (33.24%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5180000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:41.696Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Asarfi Hospital IPO is subscribed 195.14 times on July 19 2023 7:02:00 PM (Day 3). The public issue subscribed 167.81 times in the retail category 50.6 times in the QIB category and 451.62 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "50.6",
+        "shares_offered": "984000",
+        "shares_bid_for": "49788000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "451.62",
+        "shares_offered": "738000",
+        "shares_bid_for": "333294000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "167.81",
+        "shares_offered": "1722000",
+        "shares_bid_for": "288970000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "195.14",
+        "shares_offered": "3444000",
+        "shares_bid_for": "672052000"
+      }
+    },
+    "total_applications": "162507",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 19 2023",
+    "tentative_allotment": "Mon Jul 24 2023",
+    "initiation_of_refunds": "Tue Jul 25 2023",
+    "credit_of_shares_to_demat": "Wed Jul 26 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:25.021Z",
+  "updated_at": "2025-04-18T17:40:41.696Z",
+  "year": 2023,
+  "worst_listing_gains": "99.50%",
+  "worst_listing_gains_numeric": 99.5
+}

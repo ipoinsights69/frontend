@@ -1,0 +1,454 @@
+{
+  "_id": "680249ff3ccffd1c7912c7c6",
+  "ipo_id": "2024_paramount_speciality_forgings_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:21:34.547Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/paramount-speciality-forgings-ipo/1853/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1994, Paramount Speciality Forgings Limited is a manufacturer of steel forgings in India, offering a diverse range of forged products.</p>\n<p>The company's products are manufactured to meet national and international standards and are used in various industrial applications including petrochemicals, chemicals, fertilizers, oil and gas, nuclear power, and heavy engineering sectors.</p>\n<p>The company has two manufacturing facilities one in Kamothe and the second one in Khalapur, Maharashtra.</p>\n<p>The company manufactures a range of forged products, which include Tube Sheet Blanks, Forged Rings, Spacers , Girth Flanges, Tyre Rings, Self-reinforced nozzles, Long weld neck flanges, Seat, Valve bodies, Bonnet etc.</p>\n<p>The Company's closed dye plant is certified under ISO 9001-2008, ISO 14001-2004, and BS OHSAS 18001-2007, and is accredited by reputed Oil &amp; Gas companies, Statutory Bodies, and Inspection Agencies.</p>\n<p>Competitive strengths:</p>\n<ul>\n<li>Experienced management team: The management team of the company has industry experience and is accountable for growing operations and financial performance.</li>\n<li>Focus on Quality:The company is seeking to streamline processes, reduce waste, and improve product quality. To achieve this, we have: (i) Automated manufacturing processes to increase productivity and cut manpower costs. (ii) Designed machining lines to optimize processes and reduce manpower costs by combining multiple processes on a single machine. (iii) Reduced the input weights needed for forging products, resulting in reduced material costs.</li>\n<li>Long Term Customer Relationship:The company provides clients with expert services, which enhances customer retention and encourages repeat business.</li>\n<li>Effective branding and Digital Market activities: The company focuses on brand visibility through multiple marketing channels, including retail branding, web marketing, magazine advertising, outdoor advertising, and digital marketing.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Paramount Speciality Forgings Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "8179.18",
+          "7223.87",
+          "5450.48"
+        ],
+        [
+          "Revenue",
+          "11363.62",
+          "11224.1",
+          "9243.16"
+        ],
+        [
+          "Profit After Tax",
+          "725.36",
+          "275.84",
+          "313.44"
+        ],
+        [
+          "Net Worth",
+          "2291.49",
+          "1566.14",
+          "1970.49"
+        ],
+        [
+          "Reserves and Surplus",
+          "803.49",
+          "1565.14",
+          "1969.49"
+        ],
+        [
+          "Total Borrowing",
+          "2492.82",
+          "2027.65",
+          "1176.93"
+        ]
+      ]
+    },
+    {
+      "heading": "Paramount Speciality Forgings Limited Stock Quote & Charts",
+      "sanitizedHeading": "paramount_speciality_forgings_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "32%"
+        ],
+        [
+          "ROCE",
+          "40%"
+        ],
+        [
+          "Debt/Equity",
+          "1.09"
+        ],
+        [
+          "RoNW",
+          "31.65%"
+        ],
+        [
+          "PAT Margin",
+          "6.43"
+        ]
+      ]
+    },
+    {
+      "heading": "Paramount Speciality Forgings Limited Stock Quote & Charts",
+      "sanitizedHeading": "paramount_speciality_forgings_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.87",
+          "3.69"
+        ],
+        [
+          "P/E (x)",
+          "12.1",
+          "16.01"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Paramount Speciality Forgings IPO raises Rs 9.20 crore from anchor investors. Paramount Speciality Forgings IPO Anchor bid date is September 16 2024. Paramount Speciality Forgings IPO Anchor Investors list",
+    "list_link": {
+      "text": "Paramount Speciality Forgings IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/paramount-speciality-forgings-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "December 21 2024",
+      "shares_offered": "1560000",
+      "anchor_portion_size": "9.20"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 17, 2024 to September 20, 2024",
+    "ipoListingDate": "Wed, Sep 25, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹59.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "54,82,000 shares (aggregating up to ₹32.34 Cr)",
+    "freshIssue": "48,02,000 shares (aggregating up to ₹28.33 Cr)",
+    "offerForSale": "6,80,000 shares of ₹10 (aggregating up to ₹4.01 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,76,000 shares",
+      "maker_name": "Shreni Shares Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/346/"
+    },
+    "ipoOpenDate": "Tue, Sep 17, 2024",
+    "ipoCloseDate": "Fri, Sep 20, 2024",
+    "initiationOfRefunds": "Tue, Sep 24, 2024",
+    "creditOfSharesToDemat": "Tue, Sep 24, 2024",
+    "shareHoldingPreIssue": "1,48,80,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,48,80,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,96,82,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,96,82,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.15%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-19T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-22-23732656",
+    "email": "compliance@paramountforge.org",
+    "full_address": "Paramount Speciality Forgings Limited, 3 1 Guru Himmat Building, Dr. Mascarenhas Road Anjirwadi, Mazgaon Mumbai - 400010",
+    "website": "https://paramountforge.com/"
+  },
+  "createdAt": "2025-04-18T12:47:59.725Z",
+  "faqs": [
+    {
+      "question": "What is the Paramount Speciality Forgings IPO?",
+      "answer": "<div itemprop=\"text\"><p>Paramount Speciality Forgings IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5482000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->32.34<!-- --> Crores. The issue is priced at <span>₹59 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 17, 2024</b>, and <b>closes on <!-- -->September 20, 2024</b>.</p><p>Purva Sharegistry India Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Paramount Speciality Forgings IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Paramount Speciality Forgings IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Paramount Speciality Forgings IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Paramount Speciality Forgings IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Paramount Speciality Forgings IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Paramount Speciality Forgings IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Paramount Speciality Forgings IPO opens on September 17, 2024 and closes on September 20, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Paramount Speciality Forgings IPO?",
+      "answer": "<div itemprop=\"text\"><p>Paramount Speciality Forgings IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,18,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Paramount Speciality Forgings IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Paramount Speciality Forgings IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Paramount Speciality Forgings IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Paramount Speciality Forgings IPO<!-- --> will be done on <!-- -->Monday, September 23, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, September 24, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/paramount-speciality-forgings-ipo/1853/\" title=\"Paramount Speciality Forgings IPO Allotment Status\">Paramount Speciality Forgings IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Paramount Speciality Forgings IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Paramount Speciality Forgings IPO<!-- --> listing date is on <b>Wednesday, September 25, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Paramount Speciality Forgings",
+  "issue_price": "₹59.00",
+  "issue_price_numeric": 59,
+  "issue_size": "54,82,000 shares (aggregating up to ₹32.34 Cr)",
+  "issue_size_numeric": 54,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swaraj shares and securities private limited",
+      "url": "/report/ipo-lead-manager-review/112/409/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/409/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "59.00"
+      },
+      "open": {
+        "nse_sme": "83.00"
+      },
+      "low": {
+        "nse_sme": "83.00"
+      },
+      "high": {
+        "nse_sme": "87.15"
+      },
+      "last_trade": {
+        "nse_sme": "87.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 25 2024",
+    "nse_symbol": "PSFL",
+    "isin": "INE0Q6001012",
+    "final_issue_price": "59 per share"
+  },
+  "listing_date": "2024-09-24T18:30:00.000Z",
+  "listing_gains": "47.71%",
+  "listing_gains_numeric": 47.71,
+  "logo": "https://www.chittorgarh.net/images/ipo/paramount_specility_forging_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/paramount_specility_forging_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "118000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "118000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "236000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/paramount-speciality-forgings-ipo/1853/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-09-16T18:30:00.000Z",
+  "pageHeading": "Paramount Speciality Forgings Limited IPO (Paramount Speciality Forgings IPO) Detail",
+  "pageTitle": "Paramount Speciality Forgings IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Aliasgar Roshan Hararwala Aliasgar Abdulla Bhagat Mohammed Salim Hararwala Abdulla Aliasgar Bhagat Hoozefa Saleem Hararwala Abbasali Salim Hararwala Zahid Mohamadi Hararwala and Roshan Alihusain Hararwala.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "72.15%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Paramount Speciality Forgings IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ParamountSpecialityForgings_DRHP.pdf"
+    },
+    {
+      "text": "Paramount Speciality Forgings IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_PSFL.zip"
+    },
+    {
+      "text": "Anchor Investors in Paramount Speciality Forgings IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/paramount-speciality-forgings-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/paramount-speciality-forgings-ipo/1853/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Purva Sharegistry India Pvt Ltd",
+    "phone": "+91-022-23018261/ 23016761",
+    "email": "support@purvashare.com",
+    "website": "https://www.purvashare.com/investor-service/ipo-query"
+  },
+  "reservation": {
+    "summary": "Paramount Speciality Forgings IPO offers 5482000 shares. 1040000 (18.97%) to QIB 782000 (14.26%) to NII 1824000 (33.27%) to RII and 1560000 (28.46%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1560000 (28.46%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "276000 (5.03%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1040000 (18.97%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "782000 (14.26%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1824000 (33.27%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5482000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.724Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Paramount Speciality Forgings IPO is subscribed 73.88 times on September 20 2024 6:19:59 PM (Day 4). The public issue subscribed 41.35 times in the retail category 20.88 times in the QIB category and 220.24 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "20.88",
+        "shares_offered": "1040000",
+        "shares_bid_for": "21712000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "220.24",
+        "shares_offered": "782000",
+        "shares_bid_for": "172224000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "41.35",
+        "shares_offered": "1824000",
+        "shares_bid_for": "75428000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "73.88",
+        "shares_offered": "3646000",
+        "shares_bid_for": "269364000"
+      }
+    },
+    "total_applications": "37714",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 20 2024",
+    "tentative_allotment": "Mon Sep 23 2024",
+    "initiation_of_refunds": "Tue Sep 24 2024",
+    "credit_of_shares_to_demat": "Tue Sep 24 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:07.307Z",
+  "updated_at": "2025-04-18T12:47:59.724Z",
+  "year": 2024,
+  "worst_listing_gains": "47.71%",
+  "worst_listing_gains_numeric": 47.71
+}

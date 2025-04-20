@@ -1,0 +1,496 @@
+{
+  "_id": "680249fa3ccffd1c7912c706",
+  "ipo_id": "2024_akums_drugs_and_pharmaceuticals_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:25:37.431Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/akums-drugs-and-pharmaceuticals-ipo/1794/"
+  },
+  "about": {
+    "details": "<p>Established in 2004, Akums Drugs and Pharmaceuticals Limited is a pharmaceutical contract development and manufacturing organization (CDMO) offering a comprehensive range of pharmaceutical products and services in India and overseas.</p>\n<p>The company primarily provides end-to-end solutions for product development and manufacturing as well as research and development (R&amp;D) of formulations, preparation and submission of regulatory dossiers in the Indian and global markets and other testing services. The company is also engaged in the manufacture and sale of branded drugs and active pharmaceutical ingredients (APIs).</p>\n<p>As a CDMO, the company manufactures a wide range of dosage forms including tablets, capsules, liquid medicines, vials, ampoules, blow-filled closures, topical preparations, eye drops, dry powder injections and gummy bears, to name a few.</p>\n<p>The company has produced a total of 4,025 commercialized formulations in over 60 dosage forms. In the financial year 2023, the company manufactured formulations for 26 of the top 30 pharmaceutical companies in India in terms of revenue. For its CDMO business, the company operates 10 manufacturing units with a cumulative production capacity of 49.21 billion units annually (as of September 30, 2023).</p>\n<p>The company plans to expand its production capacity with two additional production units for its CDMO business to be commissioned in FY 2025. Some of its production facilities have been accredited by various global regulatory bodies such as the European Good Manufacturing Practice (EU-GMP), the World Health Organization Good Manufacturing Practice (WHO-GMP) and the United States National Sanitation Foundation (US NSF).</p>\n<p>As of September 30, 2023, Akums Drugs and Pharmaceuticals had a total of 16,463 employees, including 7,211 full-time employees and 9,252 contract employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Akums Drugs and Pharmaceuticals Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3516.37",
+          "3266.53",
+          "3069.05"
+        ],
+        [
+          "Revenue",
+          "4212.21",
+          "3700.93",
+          "3694.52"
+        ],
+        [
+          "Profit After Tax",
+          "0.79",
+          "97.82",
+          "-250.87"
+        ],
+        [
+          "Net Worth",
+          "709.50",
+          "717.19",
+          "621.98"
+        ],
+        [
+          "Reserves and Surplus",
+          "861.01",
+          "868.70",
+          "787.79"
+        ],
+        [
+          "Total Borrowing",
+          "491.56",
+          "536.97",
+          "357.95"
+        ]
+      ]
+    },
+    {
+      "heading": "Akums Drugs and Pharmaceuticals Limited Stock Quote & Charts",
+      "sanitizedHeading": "akums_drugs_and_pharmaceuticals_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "0.11%"
+        ],
+        [
+          "ROCE",
+          "3.37%"
+        ],
+        [
+          "Debt/Equity",
+          "0.69"
+        ],
+        [
+          "RoNW",
+          "-0.57"
+        ],
+        [
+          "PAT Margin",
+          "0.02"
+        ],
+        [
+          "Price to Book Value",
+          "13.69"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Akums Drugs and Pharmaceuticals IPO raises Rs 828.78 crore from anchor investors. Akums Drugs and Pharmaceuticals IPO Anchor bid date is July 29 2024. Akums Drugs and Pharmaceuticals IPO Anchor Investors list",
+    "list_link": {
+      "text": "Akums Drugs and Pharmaceuticals IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/akums-drugs-and-pharmaceuticals-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "October 31 2024",
+      "shares_offered": "12205912",
+      "anchor_portion_size": "828.78"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "July 30, 2024 to August 1, 2024",
+    "ipoListingDate": "Tue, Aug 6, 2024",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹679.00",
+    "lotSize": "22 Shares",
+    "issueSize": "2,73,45,162 shares (aggregating up to ₹1,856.74 Cr)",
+    "freshIssue": "1,00,14,727 shares (aggregating up to ₹680.00 Cr)",
+    "offerForSale": "1,73,30,435 shares of ₹2 (aggregating up to ₹1,176.74 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Jul 30, 2024",
+    "ipoCloseDate": "Thu, Aug 1, 2024",
+    "initiationOfRefunds": "Mon, Aug 5, 2024",
+    "creditOfSharesToDemat": "Mon, Aug 5, 2024",
+    "shareHoldingPreIssue": "14,73,56,280 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "14,73,56,280 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "84.94%"
+      }
+    ],
+    "shareHoldingPostIssue": "15,73,71,007 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "15,73,71,007 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-07-31T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 11 6904 1000",
+    "email": "cs@akums.net",
+    "full_address": "Akums Drugs and Pharmaceuticals Limited, 304 Mohan Place, LSC Saraswati Vihar, Delhi - 110 034",
+    "website": "http://www.akums.in/"
+  },
+  "createdAt": "2025-04-18T12:47:53.992Z",
+  "faqs": [
+    {
+      "question": "What is the Akums Drugs and Pharmaceuticals IPO?",
+      "answer": "<div itemprop=\"text\"><p>Akums Drugs and Pharmaceuticals IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->27345162<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->1,856.74<!-- --> Crores. The issue is priced at <span>₹679 per share</span>. The minimum order quantity is <!-- -->22<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 30, 2024</b>, and <b>closes on <!-- -->August 1, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Akums Drugs and Pharmaceuticals IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Akums Drugs and Pharmaceuticals IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Akums Drugs and Pharmaceuticals IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Akums Drugs and Pharmaceuticals IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Akums Drugs and Pharmaceuticals IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Akums Drugs and Pharmaceuticals IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Akums Drugs and Pharmaceuticals IPO opens on July 30, 2024 and closes on August 1, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Akums Drugs and Pharmaceuticals IPO?",
+      "answer": "<div itemprop=\"text\"><p>Akums Drugs and Pharmaceuticals IPO<!-- --> <b>lot size is <!-- -->22</b>, and the <b>minimum amount required is <span>₹14,938</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Akums Drugs and Pharmaceuticals IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Akums Drugs and Pharmaceuticals IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Akums Drugs and Pharmaceuticals IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Akums Drugs and Pharmaceuticals IPO<!-- --> will be done on <!-- -->Friday, August 2, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, August 5, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/akums-drugs-and-pharmaceuticals-ipo/1794/\" title=\"Akums Drugs and Pharmaceuticals IPO Allotment Status\">Akums Drugs and Pharmaceuticals IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Akums Drugs and Pharmaceuticals IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Akums Drugs and Pharmaceuticals IPO<!-- --> listing date is on <b>Tuesday, August 6, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Akums Drugs and Pharmaceuticals",
+  "issue_price": "₹679.00",
+  "issue_price_numeric": 679,
+  "issue_size": "2,73,45,162 shares (aggregating up to ₹1,856.74 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Axis Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/42/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/42/"
+    },
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "Ambit Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/119/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/119/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "679.00",
+        "nse": "679.00"
+      },
+      "open": {
+        "bse": "725.00",
+        "nse": "725.00"
+      },
+      "low": {
+        "bse": "724.50",
+        "nse": "725.00"
+      },
+      "high": {
+        "bse": "797.45",
+        "nse": "797.50"
+      },
+      "last_trade": {
+        "bse": "796.35",
+        "nse": "796.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 6 2024",
+    "bse_script_code": "544222",
+    "nse_symbol": "AKUMS",
+    "isin": "INE09XN01023",
+    "final_issue_price": "679 per share"
+  },
+  "listing_date": "2024-08-05T18:30:00.000Z",
+  "listing_gains": "17.28%",
+  "listing_gains_numeric": 17.28,
+  "logo": "https://www.chittorgarh.net/images/ipo/akums-drugs-and-pharmaceuticals-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/akums-drugs-and-pharmaceuticals-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 22 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "22",
+        "amount": "14938"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "286",
+        "amount": "194194"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "308",
+        "amount": "209132"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "1452",
+        "amount": "985908"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "1474",
+        "amount": "1000846"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/akums-drugs-and-pharmaceuticals-ipo/1794/"
+    }
+  },
+  "lot_size": 22,
+  "opening_date": "2024-07-29T18:30:00.000Z",
+  "pageHeading": "Akums Drugs and Pharmaceuticals Limited IPO (Akums Drugs and Pharmaceuticals IPO) Detail",
+  "pageTitle": "Akums Drugs and Pharmaceuticals IPO Date, Details",
+  "promoterHolding": {
+    "promoters": "Sanjeev Jain Sandeep Jain and Akums Master Trust are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "84.94%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Akums Drugs and Pharmaceuticals IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/corporate/ADPL_DRHP.zip"
+    },
+    {
+      "text": "Akums Drugs and Pharmaceuticals IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2024/akums-drugs-and-pharmaceuticals-limited-rhp_84970.html"
+    },
+    {
+      "text": "Anchor Investors in Akums Drugs and Pharmaceuticals IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/akums-drugs-and-pharmaceuticals-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "6",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/akums-drugs-and-pharmaceuticals-ipo/1794/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "akumsdrugs.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Akums Drugs and Pharmaceuticals IPO offers 27368151 shares. 8137276 (29.73%) to QIB 4068637 (14.87%) to NII 2712424 (9.91%) to RII 243902 (0.89%) to employees and 12205912 (44.60%) to Anchor investors. 123292 RIIs will receive minimum 22 shares and 4403 (sNII) and 8806 (bNII) will receive minimum 308 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "12205912 (44.60%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "8137276 (29.73%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4068637 (14.87%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2712425 (9.91%)",
+        "maximum_allottees": "8806"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1356212 (4.96%)",
+        "maximum_allottees": "4403"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2712424 (9.91%)",
+        "maximum_allottees": "123292"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "243902 (0.89%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "27368151 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:53.992Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Akums Drugs and Pharmaceuticals IPO is subscribed 63.44 times on August 1 2024 6:19:08 PM (Day 3). The public issue subscribed 20.8 times in the retail category 90.09 times in the QIB category and 42.1 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "90.09",
+        "shares_offered": "8137276",
+        "shares_bid_for": "733117770"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "42.1",
+        "shares_offered": "4068637",
+        "shares_bid_for": "171307510"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "47.43",
+        "shares_offered": "2712425",
+        "shares_bid_for": "128649664"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "31.45",
+        "shares_offered": "1356212",
+        "shares_bid_for": "42657846"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "20.8",
+        "shares_offered": "2712424",
+        "shares_bid_for": "56423114"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "4.14",
+        "shares_offered": "243902",
+        "shares_bid_for": "1008810"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "63.44",
+        "shares_offered": "15162239",
+        "shares_bid_for": "961857204"
+      }
+    },
+    "total_applications": "2344029"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 1 2024",
+    "tentative_allotment": "Fri Aug 2 2024",
+    "initiation_of_refunds": "Mon Aug 5 2024",
+    "credit_of_shares_to_demat": "Mon Aug 5 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:37.078Z",
+  "updated_at": "2025-04-18T12:47:53.992Z",
+  "year": 2024,
+  "worst_listing_gains": "17.28%",
+  "worst_listing_gains_numeric": 17.28,
+  "last_performance_update": "2025-04-19T04:43:37.077Z"
+}

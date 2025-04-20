@@ -1,0 +1,458 @@
+{
+  "_id": "680249fc3ccffd1c7912c743",
+  "ipo_id": "2024_dindigul_farm_product_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:28:36.463Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ennutrica-ipo/1750/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2010, Dindigul Farm Product Limited processes whole milk and skimmed milk to produce various dairy ingredients, including milk protein concentrates, skimmed milk powder, dairy whitener, whey protein concentrate, milk whey powder, casein, unbranded cream, butter, and fat-filled powders for infant milk formula.&nbsp;</p>\n<p>The company has a processing unit in Dindigul that covers an area of 15 acres.</p>\n<p>Dindigul Farm Product Limited follows and complies with the requirements of various relevant authorities in the industry, such as FSSAI, Halal, Kosher, Export Import Council of India, and Europe Regulations in respect of certain of our products. We have also obtained a registration cum membership certificate from APEDA.</p>\n<p>The company has established a network of over 150 village collection centers, providing direct access to more than 4,000 farmers and 50 dairy farms.</p>\n<p>The company sells its products under the brand names ENNUTRICA and Activday, and it currently serves a broad range of customers across various industries.</p>\n<p>The company has sold its products in over 15 states within the country and 3 countries internationally.</p>\n<p>As of December 23, 2023, the company had 101 employees, and they had also employed contractual labourers based on business requirements.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Dindigul Farm Product Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5123.46",
+          "2899.84",
+          "2995.07",
+          "2995.07"
+        ],
+        [
+          "Revenue",
+          "6876.65",
+          "8199.34",
+          "2845.07",
+          "1840.72"
+        ],
+        [
+          "Profit After Tax",
+          "588.40",
+          "525.79",
+          "-420.08",
+          "-461.19"
+        ],
+        [
+          "Net Worth",
+          "393.94",
+          "-1638.46",
+          "-2162.72",
+          "-1742.64"
+        ],
+        [
+          "Total Borrowing",
+          "2263.87",
+          "2398.37",
+          "2579.25",
+          "2716.23"
+        ]
+      ]
+    },
+    {
+      "heading": "Dindigul Farm Product Ltd Stock Quote & Charts",
+      "sanitizedHeading": "dindigul_farm_product_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "-0.95%"
+        ],
+        [
+          "ROCE",
+          "0.62%"
+        ],
+        [
+          "Debt/Equity",
+          "4.63"
+        ],
+        [
+          "RoNW",
+          "149.49%"
+        ],
+        [
+          "PAT Margin",
+          "8.57"
+        ],
+        [
+          "Price to Book Value",
+          "23.58"
+        ]
+      ]
+    },
+    {
+      "heading": "Dindigul Farm Product Ltd Stock Quote & Charts",
+      "sanitizedHeading": "dindigul_farm_product_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.92",
+          "3.21"
+        ],
+        [
+          "P/E (x)",
+          "18.47",
+          "16.81"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "EnNutrica IPO raises Rs 9.90 crore from anchor investors. EnNutrica IPO Anchor bid date is June 19 2024. EnNutrica IPO Anchor Investors list",
+    "list_link": {
+      "text": "EnNutrica IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/dindigul_farm_product_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "September 23 2024",
+      "shares_offered": "1834000",
+      "anchor_portion_size": "9.90"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "June 20, 2024 to June 24, 2024",
+    "ipoListingDate": "Thu, Jun 27, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹54.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "64,50,000 shares (aggregating up to ₹34.83 Cr)",
+    "freshIssue": "64,50,000 shares (aggregating up to ₹34.83 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "3,26,000 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Thu, Jun 20, 2024",
+    "ipoCloseDate": "Mon, Jun 24, 2024",
+    "initiationOfRefunds": "Wed, Jun 26, 2024",
+    "creditOfSharesToDemat": "Wed, Jun 26, 2024",
+    "shareHoldingPreIssue": "1,79,79,280 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,79,79,280 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "80.66%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,44,29,280 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,44,29,280 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "59.36%"
+      }
+    ]
+  },
+  "closing_date": "2024-06-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 94980 99930",
+    "email": "cs@ennutrica.com",
+    "full_address": "Dindigul Farm Product Limited, 2/52-3 Pillaiyarnatham Pithalaipatty, Post Dindigul, Dindigul-624002",
+    "website": "https://ennutrica.com/"
+  },
+  "createdAt": "2025-04-18T12:47:56.281Z",
+  "faqs": [
+    {
+      "question": "What is the EnNutrica IPO?",
+      "answer": "<div itemprop=\"text\"><p>EnNutrica IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6450000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->34.83<!-- --> Crores. The issue is priced at <span>₹54 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 20, 2024</b>, and <b>closes on <!-- -->June 24, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in EnNutrica IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->EnNutrica IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->EnNutrica IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->EnNutrica IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->EnNutrica IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When EnNutrica IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The EnNutrica IPO opens on June 20, 2024 and closes on June 24, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of EnNutrica IPO?",
+      "answer": "<div itemprop=\"text\"><p>EnNutrica IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,08,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for EnNutrica IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->EnNutrica IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is EnNutrica IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->EnNutrica IPO<!-- --> will be done on <!-- -->Tuesday, June 25, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, June 26, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/ennutrica-ipo/1750/\" title=\"EnNutrica IPO Allotment Status\">EnNutrica IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is EnNutrica IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->EnNutrica IPO<!-- --> listing date is on <b>Thursday, June 27, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Dindigul Farm Product",
+  "issue_price": "₹54.00",
+  "issue_price_numeric": 54,
+  "issue_size": "64,50,000 shares (aggregating up to ₹34.83 Cr)",
+  "issue_size_numeric": 64,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "54.00"
+      },
+      "open": {
+        "bse_sme": "102.60"
+      },
+      "low": {
+        "bse_sme": "102.60"
+      },
+      "high": {
+        "bse_sme": "107.73"
+      },
+      "last_trade": {
+        "bse_sme": "107.73"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "June 27 2024",
+    "bse_script_code": "544201",
+    "isin": "INE0S6R01027",
+    "final_issue_price": "54 per share"
+  },
+  "listing_date": "2024-06-26T18:30:00.000Z",
+  "listing_gains": "99.50%",
+  "listing_gains_numeric": 99.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/ennutrica_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/ennutrica_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "108000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "108000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "216000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ennutrica-ipo/1750/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-06-19T18:30:00.000Z",
+  "pageHeading": "Dindigul Farm Product Limited IPO (EnNutrica IPO) Detail",
+  "pageTitle": "EnNutrica IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are R Rajasekaran Rajadharshini Rajasekaran and Indrayani Biotech Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "80.66%",
+      "share_holding_post_issue": "59.36%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "EnNutrica IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/388951/DRHP-%20DFL%20Final_20240102174826.pdf"
+    },
+    {
+      "text": "EnNutrica IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/388951/SME_IPO%20Open/RHP_DINDIGUL%20-%20Signed_20240613204538.pdf"
+    },
+    {
+      "text": "Anchor Investors in EnNutrica IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/dindigul_farm_product_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ennutrica-ipo/1750/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "dindigulfarm.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "EnNutrica IPO offers 6450000 shares. 1226000 (19.01%) to QIB 920000 (14.26%) to NII 2144000 (33.24%) to RII and 1834000 (28.43%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1834000 (28.43%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "326000 (5.05%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1226000 (19.01%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "920000 (14.26%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2144000 (33.24%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6450000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:56.281Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The EnNutrica IPO is subscribed 202.35 times on June 24 2024 6:19:05 PM (Day 3). The public issue subscribed 201.44 times in the retail category 145.62 times in the QIB category and 280.06 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "145.62",
+        "shares_offered": "1226000",
+        "shares_bid_for": "178526000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "280.06",
+        "shares_offered": "920000",
+        "shares_bid_for": "257654000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "201.44",
+        "shares_offered": "2144000",
+        "shares_bid_for": "431894000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "202.35",
+        "shares_offered": "4290000",
+        "shares_bid_for": "868074000"
+      }
+    },
+    "total_applications": "267572",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 24 2024",
+    "tentative_allotment": "Tue Jun 25 2024",
+    "initiation_of_refunds": "Wed Jun 26 2024",
+    "credit_of_shares_to_demat": "Wed Jun 26 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:45.778Z",
+  "updated_at": "2025-04-18T12:47:56.281Z",
+  "year": 2024,
+  "worst_listing_gains": "99.50%",
+  "worst_listing_gains_numeric": 99.5,
+  "last_performance_update": "2025-04-19T04:43:45.778Z"
+}

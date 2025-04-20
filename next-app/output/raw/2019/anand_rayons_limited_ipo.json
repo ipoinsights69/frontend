@@ -1,0 +1,342 @@
+{
+  "_id": "6802985a3ccffd1c7912cc28",
+  "ipo_id": "2019_anand_rayons_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:19:42.333Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/anand-rayons-ipo/995/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1987, Anand Rayons Limited was an idea of Mr Gokul Bakshi. It is engaged in trading of yarn and value-added yarns including polyester filament yarns, nylon yarns, fancy yarns and dope dyed yarns. Initially, the company had only one dealer for the polyester yarn that is Reliance Industries Limited to trade in and around Surat, Gujarat. </p><p>Now, the company has also extended dealership network with JCT Limited for Nylon Yarn, and Indorama Synthetics India Limited, Filatex India Limited and Garden Silk Mills Limited for Polyester Yarn. </p><p>The yarns traded by the company has wide application in the weaving of sarees, yarn dyeing, Elastic tapes, carpets, and dress &amp; shirting materials. </p><p>As the company is trading in and around Surat only, it is planning to expand yarn trading business in other states such as Maharashtra, Delhi, Karnataka and Uttar Pradesh as well. The R&amp;D team of the company is also working on twisted yarn, Sheath- Core yarn, Bi-Shrinkage yarn for GEO-textiles to expand the business.</p><p>The competitive strengths of the company are:</p><p>1. Specialization in trading of yarns and value-added yarns.<br>2. Strong dealership with Reliance Industries Ltd for 31+ years.<br>3. A sound relationship with spinners &amp; customers. <br></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Jan-19",
+          "31-Mar-18",
+          "31-Dec-17",
+          "31-Mar-16"
+        ],
+        [
+          "Total Assets",
+          "6103.46",
+          "5942.08",
+          "5809.05",
+          "3796.06"
+        ],
+        [
+          "Total Revenue",
+          "23176.44",
+          "25959.08",
+          "27062.38",
+          "21992.23"
+        ],
+        [
+          "Profit After Tax",
+          "172.41",
+          "145.14",
+          "104.70",
+          "45.73"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 18, 2019 to June 24, 2019",
+    "ipoListingDate": "Tue, Jul 2, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹27.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "46,88,000 shares (aggregating up to ₹12.66 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "2,40,000 shares",
+    "ipoOpenDate": "Tue, Jun 18, 2019",
+    "ipoCloseDate": "Mon, Jun 24, 2019",
+    "initiationOfRefunds": "Fri, Jun 28, 2019",
+    "creditOfSharesToDemat": "Mon, Jul 1, 2019",
+    "shareHoldingPreIssue": "1,02,96,721 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,02,96,721 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,49,84,721 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,49,84,721 shares"
+      }
+    ]
+  },
+  "closing_date": "2019-06-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "0261-2635521",
+    "email": "anandrayonsltd@gmail.com",
+    "full_address": "Anand Rayons Limited, 305-306 Jay Sagar Complex, Opp. Sub Jail Khatodra, Surat-395002 Gujarat",
+    "website": "http://www.anandrayons.com/"
+  },
+  "createdAt": "2025-04-18T18:22:18.656Z",
+  "faqs": [
+    {
+      "question": "What is the Anand Rayons IPO?",
+      "answer": "<div itemprop=\"text\"><p>Anand Rayons IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4688000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->12.66<!-- --> Crores. The issue is priced at <span>₹27 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 18, 2019</b>, and <b>closes on <!-- -->June 24, 2019</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Anand Rayons IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Anand Rayons IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Anand Rayons IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Anand Rayons IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Anand Rayons IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Anand Rayons IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Anand Rayons IPO opens on June 18, 2019 and closes on June 24, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Anand Rayons IPO?",
+      "answer": "<div itemprop=\"text\"><p>Anand Rayons IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,08,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Anand Rayons IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Anand Rayons IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Anand Rayons IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Anand Rayons IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, July 1, 2019<!-- -->. Check the <a href=\"/ipo_allotment_status/anand-rayons-ipo/995/\" title=\"Anand Rayons IPO Allotment Status\">Anand Rayons IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Anand Rayons IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Anand Rayons IPO<!-- --> listing date is on <b>Tuesday, July 2, 2019</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Anand Rayons",
+  "issue_price": "₹27.00",
+  "issue_price_numeric": 27,
+  "issue_size": "46,88,000 shares (aggregating up to ₹12.66 Cr)",
+  "issue_size_numeric": 46,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Oneview Corporate Advisors Pvt. Ltd.",
+      "url": "/report/ipo-lead-manager-review/112/94/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/94/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "27.00"
+      },
+      "open": {
+        "bse_sme": "28.25"
+      },
+      "low": {
+        "bse_sme": "27.05"
+      },
+      "high": {
+        "bse_sme": "28.25"
+      },
+      "last_trade": {
+        "bse_sme": "27.20"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "July 2 2019",
+    "bse_script_code": "542721",
+    "isin": "INE02GA01012",
+    "final_issue_price": "27 per share"
+  },
+  "listing_date": "2019-07-01T18:30:00.000Z",
+  "listing_gains": "0.74%",
+  "listing_gains_numeric": 0.74,
+  "logo": "https://www.chittorgarh.net/images/ipo/anand-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/anand-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "108000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "108000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "216000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/anand-rayons-ipo/995/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2019-06-17T18:30:00.000Z",
+  "pageHeading": "Anand Rayons Limited IPO (Anand Rayons IPO) Detail",
+  "pageTitle": "Anand Rayons IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Anand Rayons IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/399456/IPO/Anand%20Rayons%20Limited%20Draft%20Prospectus_20190225121416.pdf"
+    },
+    {
+      "text": "Anand Rayons IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2019/anand-rayons-ltd-_43324.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/anand-rayons-ipo/995/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Anand Rayons IPO offers 4688000 shares. 2224000 (47.44%) to NII 2224000 (47.44%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "240000 (5.12%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2224000 (47.44%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2224000 (47.44%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4688000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:18.656Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Anand Rayons IPO is subscribed 1.17 times on June 24 2019 6:49:04 PM (Day 5). The public issue subscribed 0.48 times in the retail category [.] times in the QIB category and 1.86 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.86",
+        "shares_offered": "2224000",
+        "shares_bid_for": "4136000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.48",
+        "shares_offered": "2224000",
+        "shares_bid_for": "1072000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.17",
+        "shares_offered": "4448000",
+        "shares_bid_for": "5208000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 24 2019",
+    "initiation_of_refunds": "Fri Jun 28 2019",
+    "credit_of_shares_to_demat": "Mon Jul 1 2019"
+  },
+  "updatedAt": "2025-04-19T04:39:29.487Z",
+  "updated_at": "2025-04-18T18:22:18.656Z",
+  "year": 2019,
+  "worst_listing_gains": "0.74%",
+  "worst_listing_gains_numeric": 0.74
+}

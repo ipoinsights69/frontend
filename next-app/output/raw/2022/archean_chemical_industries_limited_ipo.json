@@ -1,0 +1,451 @@
+{
+  "_id": "680293673ccffd1c7912ca45",
+  "ipo_id": "2022_archean_chemical_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:55:42.597Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/archean-chemical-ipo/1334/"
+  },
+  "about": {
+    "details": "<p>Archean Chemical Industries Limited is India's largest exporter of bromine and industrial salt in Fiscal 2021. The company is the leading speciality marine <strong>chemical manufacturer in India and is focused on producing and exporting bromine, industrial salt, and sulphate of potash</strong> to customers around the world.</p>\n<p>Archean Chemical Industries markets theproducts to 18 global customers in 13 countries and to 24 domestic customers. The company was the largest exporter of industrial salt in India with exports of 2.7 million MT in Fiscal 2021.</p>\n<p>Archean Chemical Industries Limited are the largest exporter of Bromine from India. The company is the only manufacturer of sulphate potash in India. The company's marine chemicals business is predominately conducted on a business-to-business basis both in India and internationally.</p>\n<p>The company has an integrated production facility for the bromine, industrial salt, and sulphate of potash operations, located at Hajipir, Gujarat, located on the northern edge of the Rann of Kutch brine fields.</p>\n<p><strong>Strengths</strong>:</p>\n<ul>\n<li>Leading market position, expansion and growth in bromine and industrial salt.</li>\n<li>High entry barriers in the speciality marine chemicals industry.</li>\n<li>Established infrastructure and integrated production with cost efficiencies.</li>\n<li>Focus on environment and safety.</li>\n<li>Largest Indian exporter of bromine and industrial salt with a global customer base.</li>\n<li>Strong and consistent financial performance.</li>\n<li>Experienced management team, promoters and financial investors and stakeholders.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-19",
+          "1260.51",
+          "572.91",
+          "39.97",
+          "42.37",
+          "772.02"
+        ],
+        [
+          "31-Mar-20",
+          "1428.6",
+          "617",
+          "-36.24",
+          "5.97",
+          "929.26"
+        ],
+        [
+          "31-Mar-22",
+          "1529.68",
+          "1142.83",
+          "188.58",
+          "261.06",
+          "921.87"
+        ],
+        [
+          "30-Jun-22",
+          "1606.65",
+          "408.82",
+          "84.41",
+          "345.44",
+          "915.58"
+        ]
+      ]
+    },
+    {
+      "heading": "Archean Chemical Industries Ltd Stock Quote & Charts",
+      "sanitizedHeading": "archean_chemical_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "16.78",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "November 9, 2022 to November 11, 2022",
+    "ipoListingDate": "Mon, Nov 21, 2022",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹407.00",
+    "lotSize": "36 Shares",
+    "issueSize": "3,59,28,870 shares (aggregating up to ₹1,462.31 Cr)",
+    "freshIssue": "1,97,78,870 shares (aggregating up to ₹805.00 Cr)",
+    "offerForSale": "1,61,50,000 shares of ₹2 (aggregating up to ₹657.31 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Nov 9, 2022",
+    "ipoCloseDate": "Fri, Nov 11, 2022",
+    "initiationOfRefunds": "Thu, Nov 17, 2022",
+    "creditOfSharesToDemat": "Fri, Nov 18, 2022",
+    "shareHoldingPreIssue": "10,32,74,120 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "10,32,74,120 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "65.58%"
+      }
+    ],
+    "shareHoldingPostIssue": "12,30,52,989 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "12,30,52,989 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "53.41%"
+      }
+    ]
+  },
+  "closing_date": "2022-11-10T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 44 6109 9999",
+    "email": "info@archeanchemicals.com",
+    "full_address": "Archean Chemical Industries Limited, No. 2 North Crescent Road, T Nagar Chennai 600 017, Tamil Nadu India",
+    "website": "https://www.archeanchemicals.com/"
+  },
+  "createdAt": "2025-04-18T18:01:11.103Z",
+  "faqs": [
+    {
+      "question": "What is the Archean Chemical IPO?",
+      "answer": "<div itemprop=\"text\"><p>Archean Chemical IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->35928870<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->1,462.31<!-- --> Crores. The issue is priced at <span>₹407 per share</span>. The minimum order quantity is <!-- -->36<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 9, 2022</b>, and <b>closes on <!-- -->November 11, 2022</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Archean Chemical IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Archean Chemical IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Archean Chemical IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Archean Chemical IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Archean Chemical IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Archean Chemical IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Archean Chemical IPO opens on November 9, 2022 and closes on November 11, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Archean Chemical IPO?",
+      "answer": "<div itemprop=\"text\"><p>Archean Chemical IPO<!-- --> <b>lot size is <!-- -->36</b>, and the <b>minimum amount required is <span>₹14,652</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Archean Chemical IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Archean Chemical IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Archean Chemical IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Archean Chemical IPO<!-- --> will be done on <!-- -->Wednesday, November 16, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, November 18, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/archean-chemical-ipo/1334/\" title=\"Archean Chemical IPO Allotment Status\">Archean Chemical IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Archean Chemical IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Archean Chemical IPO<!-- --> listing date is on <b>Monday, November 21, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Archean Chemical Industries",
+  "issue_price": "₹407.00",
+  "issue_price_numeric": 407,
+  "issue_size": "3,59,28,870 shares (aggregating up to ₹1,462.31 Cr)",
+  "issue_size_numeric": 3,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "407.00",
+        "nse": "407.00"
+      },
+      "open": {
+        "bse": "449.00",
+        "nse": "450.00"
+      },
+      "low": {
+        "bse": "440.05",
+        "nse": "440.20"
+      },
+      "high": {
+        "bse": "476.05",
+        "nse": "476.00"
+      },
+      "last_trade": {
+        "bse": "457.95",
+        "nse": "458.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 21 2022",
+    "bse_script_code": "543657",
+    "nse_symbol": "ACI",
+    "isin": "INE128X01021",
+    "final_issue_price": "407 per share"
+  },
+  "listing_date": "2022-11-20T18:30:00.000Z",
+  "listing_gains": "12.52%",
+  "listing_gains_numeric": 12.52,
+  "logo": "https://www.chittorgarh.net/images/ipo/archean-chemical-industries-limited-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/archean-chemical-industries-limited-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 36 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "36",
+        "amount": "14652"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "468",
+        "amount": "190476"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "504",
+        "amount": "205128"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "2448",
+        "amount": "996336"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "2484",
+        "amount": "1010988"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/archean-chemical-ipo/1334/"
+    }
+  },
+  "lot_size": 36,
+  "opening_date": "2022-11-08T18:30:00.000Z",
+  "pageHeading": "Archean Chemical Industries Limited IPO (Archean Chemical IPO) Detail",
+  "pageTitle": "Archean Chemical IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Chemikas Speciality LLP Ravi Pendurthi and Ranjit Pendurthi are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "65.58%",
+      "share_holding_post_issue": "53.41%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Archean Chemical IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2022/archean-chemical-industries-limited_56255.html"
+    },
+    {
+      "text": "Archean Chemical IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2022/archean-chemical-industries-limited-rhp_64594.html"
+    },
+    {
+      "text": "Anchor Investors in Archean Chemical IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20221107-46&attachedId=74b18d8d-706d-4194-9553-9c41f98681e8"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "12",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "9",
+        "neutral": "0",
+        "avoid": "2"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/archean-chemical-ipo/1334/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "archean.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Archean Chemical IPO offers 19957325 shares. 10706095 (53.64%) to QIB 5550738 (27.81%) to NII 3700492 (18.54%) to RII. 102791 RIIs will receive minimum 36 shares and 3671 (sNII) and 7342 (bNII) will receive minimum 504 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "10706095 (53.64%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "5550738 (27.81%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "3700492 (18.54%)",
+        "maximum_allottees": "7342"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1850246 (9.27%)",
+        "maximum_allottees": "3671"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3700492 (18.54%)",
+        "maximum_allottees": "102791"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "19957325 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:11.103Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Archean Chemical IPO is subscribed 32.23 times on November 11 2022 7:00:00 PM (Day 3). The public issue subscribed 9.96 times in the retail category 48.91 times in the QIB category and 14.9 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "48.91",
+        "shares_offered": "10706095",
+        "shares_bid_for": "523590840"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "14.9",
+        "shares_offered": "5550738",
+        "shares_bid_for": "82721196"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "16.9",
+        "shares_offered": "3700492",
+        "shares_bid_for": "62525844"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "10.92",
+        "shares_offered": "1850246",
+        "shares_bid_for": "20195352"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "9.96",
+        "shares_offered": "3700492",
+        "shares_bid_for": "36866736"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "32.23",
+        "shares_offered": "19957325",
+        "shares_bid_for": "643178772"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 11 2022",
+    "tentative_allotment": "Wed Nov 16 2022",
+    "initiation_of_refunds": "Thu Nov 17 2022",
+    "credit_of_shares_to_demat": "Fri Nov 18 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:21.362Z",
+  "updated_at": "2025-04-18T18:01:11.103Z",
+  "year": 2022,
+  "worst_listing_gains": "12.52%",
+  "worst_listing_gains_numeric": 12.52
+}

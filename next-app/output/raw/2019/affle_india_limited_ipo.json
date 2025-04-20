@@ -1,0 +1,407 @@
+{
+  "_id": "6802985a3ccffd1c7912cc27",
+  "ipo_id": "2019_affle_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:19:15.074Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/affle-ipo/1005/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2005, Affle (India) Limited is a mobile marketing firm offering a Consumer and Enterprise Platforms. The platform is built to mitigate digital ad fraud, assisting consumer privacy expectations and improve returns on marketing expenses by delivering mobile ads. </p><p>The advertising agencies of business to consumer (B2C) companies uses the consumer platform across different industries. The list of industries includes telecom, fin-tech, e-commerce, retail, FMCG companies, and media. </p><p>Affle uses user-intent indicators based on transactional data, marketing attribution and behavioural signals. Based on such information, the company predicts the likely interest of the user. It keeps on updating the system based on data to improve consumer engagement and enable consumer actions. The company runs the campaigns on data intelligence basis to drive high volumes at an efficient price. </p><p><br>The company earns revenue from a cost per converted user (CPCU) basis. The conversion can be based on the transaction (purchase a product or service) and consumer acquisition model (acquire a new consumer). Besides, the company also earns revenue by engagement and awareness type advertising. </p><p>Affle also provides end-to-end solutions by developing App, offering enterprise platform, assisting offline e-commerce businesses in offline to online commerce. Microsoft has a 6.48% stake in the Singapore based Affle Holdings. </p><p>The competitive strengths of the company are:</p><p>1. A high growth market<br>2. A good track record<br>3. Low-cost business model<br>4. Deep understanding of consumer intent and behaviour <br>5. Global customer base</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. 10 Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "935.85",
+          "580.31",
+          "486.89",
+          "539.05",
+          "288.71",
+          "141.01"
+        ],
+        [
+          "Total Revenue",
+          "1177.94",
+          "837.56",
+          "656.29",
+          "879.71",
+          "393.27",
+          "148.36"
+        ],
+        [
+          "Profit After Tax",
+          "166.79",
+          "88.31",
+          "3.30",
+          "23.94",
+          "22.55",
+          "12.91"
+        ],
+        [
+          "For Fiscal 2019 on a Proforma Basis revenue from operations was Rs 2686.09 mn and profit after tax was Rs 517.90 mn"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "July 29, 2019 to July 31, 2019",
+    "ipoListingDate": "Thu, Aug 8, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹745.00",
+    "lotSize": "20 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹459.00 Cr)",
+    "freshIssue": "12,16,200 shares (aggregating up to ₹90.00 Cr)",
+    "offerForSale": "49,53,020 shares of ₹10 (aggregating up to ₹369.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Jul 29, 2019",
+    "ipoCloseDate": "Wed, Jul 31, 2019",
+    "initiationOfRefunds": "Tue, Aug 6, 2019",
+    "creditOfSharesToDemat": "Wed, Aug 7, 2019",
+    "shareHoldingPreIssue": "2,42,88,314 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,42,88,314 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "92.17%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,54,96,367 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,54,96,367 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "68.4%"
+      }
+    ]
+  },
+  "closing_date": "2019-07-30T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 124 4992 914",
+    "email": "compliance@affle.com",
+    "full_address": "Affle (India) Limited, 312 B-Wing Kanakia Wallstreet, Andheri Kurla Road, Andheri (East) Mumbai 400 093",
+    "website": "https://www.affle.com/"
+  },
+  "createdAt": "2025-04-18T18:22:18.661Z",
+  "faqs": [
+    {
+      "question": "What is the Affle IPO?",
+      "answer": "<div itemprop=\"text\"><p>Affle IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->459.00<!-- --> Crores. The issue is priced at <span>₹745 per share</span>. The minimum order quantity is <!-- -->20<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 29, 2019</b>, and <b>closes on <!-- -->July 31, 2019</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Affle IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Affle IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Affle IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Affle IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Affle IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Affle IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Affle IPO opens on July 29, 2019 and closes on July 31, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Affle IPO?",
+      "answer": "<div itemprop=\"text\"><p>Affle IPO<!-- --> <b>lot size is <!-- -->20</b>, and the <b>minimum amount required is <span>₹14,900</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Affle IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Affle IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Affle IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Affle IPO<!-- --> will be done on <!-- -->Monday, August 5, 2019<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, August 7, 2019<!-- -->. Check the <a href=\"/ipo_allotment_status/affle-ipo/1005/\" title=\"Affle IPO Allotment Status\">Affle IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Affle IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Affle IPO<!-- --> listing date is on <b>Thursday, August 8, 2019</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Affle (India)",
+  "issue_price": "₹745.00",
+  "issue_price_numeric": 745,
+  "issue_size": "[.] shares (aggregating up to ₹459.00 Cr)",
+  "issue_size_numeric": 459,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Nomura Financial Advisory And Securities",
+      "url": "/report/ipo-lead-manager-review/112/72/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/72/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "745.00",
+        "nse": "745.00"
+      },
+      "open": {
+        "bse": "929.90",
+        "nse": "926.00"
+      },
+      "low": {
+        "bse": "751.05",
+        "nse": "750.00"
+      },
+      "high": {
+        "bse": "958.30",
+        "nse": "958.70"
+      },
+      "last_trade": {
+        "bse": "875.10",
+        "nse": "873.65"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 8 2019",
+    "bse_script_code": "542752",
+    "nse_symbol": "AFFLE",
+    "isin": "INE00WC01019",
+    "final_issue_price": "745 per share"
+  },
+  "listing_date": "2019-08-07T18:30:00.000Z",
+  "listing_gains": "17.46%",
+  "listing_gains_numeric": 17.46,
+  "logo": "https://www.chittorgarh.net/images/ipo/affle_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/affle_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 20 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "20",
+        "amount": "14900"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "260",
+        "amount": "193700"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "280",
+        "amount": "208600"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "1340",
+        "amount": "998300"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "1360",
+        "amount": "1013200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/affle-ipo/1005/"
+    }
+  },
+  "lot_size": 20,
+  "opening_date": "2019-07-28T18:30:00.000Z",
+  "pageHeading": "Affle (India) Limited IPO (Affle IPO) Detail",
+  "pageTitle": "Affle IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The promoters of our Company being Anuj Khanna Sohum and Affle Holdings",
+    "holdings": {
+      "share_holding_pre_issue": "92.17%",
+      "share_holding_post_issue": "68.4%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Affle IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2018/affle-india-llimited_39609.html"
+    },
+    {
+      "text": "Affle IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2019/affle-india-limited_43853.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/affle-ipo/1005/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Affle IPO offers 6150504 shares. 1835713 (29.85%) to QIB 925385 (15.05%) to NII 616923 (10.03%) to RII 2772483 (45.08%) to Anchor investors. 30846 RIIs will receive minimum 20 shares and (sNII) and (bNII) will receive minimum 280 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "2772483 (45.08%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1835713 (29.85%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "925385 (15.05%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "616923 (10.03%)",
+        "maximum_allottees": "30846"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6150504 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:18.660Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Affle IPO is subscribed 86.48 times on July 31 2019 6:49:02 PM (Day 3). The public issue subscribed 10.94 times in the retail category 55.31 times in the QIB category and 198.69 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "55.31",
+        "shares_offered": "1835713",
+        "shares_bid_for": "101525100"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "198.69",
+        "shares_offered": "925385",
+        "shares_bid_for": "183868980"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "10.94",
+        "shares_offered": "616923",
+        "shares_bid_for": "6751940"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "86.48",
+        "shares_offered": "3378021",
+        "shares_bid_for": "292146020"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 31 2019",
+    "tentative_allotment": "Mon Aug 5 2019",
+    "initiation_of_refunds": "Tue Aug 6 2019",
+    "credit_of_shares_to_demat": "Wed Aug 7 2019"
+  },
+  "updatedAt": "2025-04-19T04:39:29.344Z",
+  "updated_at": "2025-04-18T18:22:18.660Z",
+  "year": 2019,
+  "worst_listing_gains": "17.46%",
+  "worst_listing_gains_numeric": 17.46
+}

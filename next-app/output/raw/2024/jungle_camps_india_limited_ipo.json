@@ -1,0 +1,463 @@
+{
+  "_id": "680249fe3ccffd1c7912c78a",
+  "ipo_id": "2024_jungle_camps_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:17:13.752Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/jungle-camps-india-ipo/1921/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2002, Jungle Camps India operates wildlife camps and hotels, motels, inns, guest houses, holiday homes, health clubs, catering houses, and restaurants in India.</p>\n<p>The company is a conservation-focused hospitality group that operates four award-winning boutique resorts in prime wildlife and tiger reserve national parks across central India. In addition to these resorts, the group manages a highway retreat and a restaurant and offers a variety of customized travel experiences.</p>\n<p>The company owns and operates 87 rooms, including villas, cottages, deluxe rooms, and safari tents. Its amenities include banquet halls, meeting rooms, restaurants, bars, cafes, swimming pools, and spa facilities.</p>\n<p>The Group owns and operates boutique luxury wilderness resorts at these four locations:</p>\n<ol>\n<li>Pench Jungle Camp, Pench National Park, Madhya Pradesh, and</li>\n<li>Rukhad Jungle Camp, Rukhad, Seoni District, Madhya Pradesh</li>\n<li>Tadoba Jungle Camp, Bhamdeli Village, Chandrapur District, Maharashtra</li>\n<li>Jungle Camp Kanha, Santapur Village, Balaghat District, Madhya Pradesh.</li>\n</ol>\n<p>The Group operates two highway venues:</p>\n<ol>\n<li>Bison Highway Retreat - Rukhad, District Seoni, Madhya Pradesh (Motel and Restaurant).</li>\n<li>Midway Treat- Deur Kothar, District Rewa, Madhya Pradesh (Restaurant).</li>\n</ol>\n<p>The company has a total of 162 employees.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>Experienced promoters and an experienced management team</li>\n<li>Robust processes and scalable model, supported by an experienced team</li>\n<li>Strategic locations</li>\n<li>Focus on the needs of guests</li>\n<li>Creation of local jobs</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Jungle Camps India Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2956.68",
+          "2943.39",
+          "1840.50",
+          "1892.07"
+        ],
+        [
+          "Revenue",
+          "572.25",
+          "1810.61",
+          "1124.55",
+          "781.17"
+        ],
+        [
+          "Profit After Tax",
+          "110.39",
+          "359.16",
+          "44.92",
+          "72.86"
+        ],
+        [
+          "Net Worth",
+          "1878.20",
+          "1794.89",
+          "930.04",
+          "703.81"
+        ],
+        [
+          "Reserves and Surplus",
+          "798.99",
+          "1120.39",
+          "717.80",
+          "547.26"
+        ],
+        [
+          "Total Borrowing",
+          "401.83",
+          "410.31",
+          "317.69",
+          "391.29"
+        ]
+      ]
+    },
+    {
+      "heading": "Jungle Camps India Ltd Stock Quote & Charts",
+      "sanitizedHeading": "jungle_camps_india_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "20.01%"
+        ],
+        [
+          "ROCE",
+          "24.75%"
+        ],
+        [
+          "Debt/Equity",
+          "0.23"
+        ],
+        [
+          "RoNW",
+          "20.01"
+        ],
+        [
+          "PAT Margin",
+          "20.54"
+        ],
+        [
+          "Price to Book Value",
+          "2.71"
+        ]
+      ]
+    },
+    {
+      "heading": "Jungle Camps India Ltd Stock Quote & Charts",
+      "sanitizedHeading": "jungle_camps_india_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.15",
+          "2.32"
+        ],
+        [
+          "P/E (x)",
+          "22.88",
+          "31.07"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Jungle Camps India IPO raises Rs 8.38 crore from anchor investors. Jungle Camps India IPO Anchor bid date is December 9 2024. Jungle Camps India IPO Anchor Investors list",
+    "list_link": {
+      "text": "Jungle Camps India IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/jungle_camps_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "March 15 2025",
+      "shares_offered": "1163200",
+      "anchor_portion_size": "8.38"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 10, 2024 to December 12, 2024",
+    "ipoListingDate": "Tue, Dec 17, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹72.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "40,86,400 shares (aggregating up to ₹29.42 Cr)",
+    "freshIssue": "40,86,400 shares (aggregating up to ₹29.42 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "2,04,800 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Tue, Dec 10, 2024",
+    "ipoCloseDate": "Thu, Dec 12, 2024",
+    "initiationOfRefunds": "Mon, Dec 16, 2024",
+    "creditOfSharesToDemat": "Mon, Dec 16, 2024",
+    "shareHoldingPreIssue": "1,14,12,072 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,14,12,072 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "94.57%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,54,98,472 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,54,98,472 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-12-11T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-011-41749354",
+    "email": "legal@penchjunglecamp.com",
+    "full_address": "Jungle Camps India Limited, 221-222/9, 2nd Floor Som Dutt Chamber-II, Bhikaji Cama Place",
+    "website": "https://junglecampsindia.com/"
+  },
+  "createdAt": "2025-04-18T12:47:58.037Z",
+  "faqs": [
+    {
+      "question": "What is the Jungle Camps India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Jungle Camps India IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4086400<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->29.42<!-- --> Crores. The issue is priced at <span>₹72 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 10, 2024</b>, and <b>closes on <!-- -->December 12, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Jungle Camps India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Jungle Camps India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Jungle Camps India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Jungle Camps India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Jungle Camps India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Jungle Camps India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Jungle Camps India IPO opens on December 10, 2024 and closes on December 12, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Jungle Camps India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Jungle Camps India IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,15,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Jungle Camps India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Jungle Camps India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Jungle Camps India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Jungle Camps India IPO<!-- --> will be done on <!-- -->Friday, December 13, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, December 16, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/jungle-camps-india-ipo/1921/\" title=\"Jungle Camps India IPO Allotment Status\">Jungle Camps India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Jungle Camps India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Jungle Camps India IPO<!-- --> listing date is on <b>Tuesday, December 17, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Jungle Camps India",
+  "issue_price": "₹72.00",
+  "issue_price_numeric": 72,
+  "issue_size": "40,86,400 shares (aggregating up to ₹29.42 Cr)",
+  "issue_size_numeric": 40,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Khambatta Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/154/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/154/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "72.00"
+      },
+      "open": {
+        "bse_sme": "136.80"
+      },
+      "low": {
+        "bse_sme": "129.96"
+      },
+      "high": {
+        "bse_sme": "143.50"
+      },
+      "last_trade": {
+        "bse_sme": "129.96"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 17 2024",
+    "bse_script_code": "544304",
+    "isin": "INE0WCH01015",
+    "final_issue_price": "72 per share"
+  },
+  "listing_date": "2024-12-16T18:30:00.000Z",
+  "listing_gains": "80.50%",
+  "listing_gains_numeric": 80.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/jungle-camps-india-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/jungle-camps-india-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "115200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "115200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "230400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/jungle-camps-india-ipo/1921/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-12-09T18:30:00.000Z",
+  "pageHeading": "Jungle Camps India Limited IPO (Jungle Camps India IPO) Detail",
+  "pageTitle": "Jungle Camps India IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Gajendra Singh Ms. Laxmi Rathore Mr. Yashovardhan Rathore Mr. Ranvijay Singh Rathore and G S Rathore HUF are the Promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "94.57%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Jungle Camps India IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/326597/DRHP_Jungle%20Camps%20India%20Limited_20240726185700.pdf"
+    },
+    {
+      "text": "Jungle Camps India IPO RHP",
+      "url": "https://www.bseindia.com/downloads/ipo/Jungle%20Camps%20India%20Limited_091220241127.zip"
+    },
+    {
+      "text": "Anchor Investors in Jungle Camps India IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/jungle_camps_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/jungle-camps-india-ipo/1921/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Jungle Camps India IPO offers 4086400 shares. 777600 (19.03%) to QIB 582400 (14.25%) to NII 1358400 (33.24%) to RII and 1163200 (28.47%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1163200 (28.47%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "204800 (5.01%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "777600 (19.03%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "582400 (14.25%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1358400 (33.24%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4086400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.037Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Jungle Camps India IPO is subscribed 494.58 times on December 12 2024 6:19:08 PM (Day 3). The public issue subscribed 551.2 times in the retail category 196.52 times in the QIB category and 760.48 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "196.52",
+        "shares_offered": "777600",
+        "shares_bid_for": "152812800",
+        "total_application": "101"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "760.48",
+        "shares_offered": "582400",
+        "shares_bid_for": "442904000",
+        "total_application": "23533"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "551.2",
+        "shares_offered": "1358400",
+        "shares_bid_for": "748753600",
+        "total_application": "468047"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "494.58",
+        "shares_offered": "2718400",
+        "shares_bid_for": "1344470400",
+        "total_application": "534050"
+      }
+    },
+    "total_applications": "534050",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 12 2024",
+    "tentative_allotment": "Fri Dec 13 2024",
+    "initiation_of_refunds": "Mon Dec 16 2024",
+    "credit_of_shares_to_demat": "Mon Dec 16 2024"
+  },
+  "updatedAt": "2025-04-19T04:36:59.313Z",
+  "updated_at": "2025-04-18T12:47:58.037Z",
+  "year": 2024,
+  "worst_listing_gains": "80.50%",
+  "worst_listing_gains_numeric": 80.5
+}

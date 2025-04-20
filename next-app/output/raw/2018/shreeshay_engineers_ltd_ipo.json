@@ -1,0 +1,346 @@
+{
+  "_id": "680298593ccffd1c7912cbf6",
+  "ipo_id": "2018_shreeshay_engineers_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:16:43.696Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/shreeshay-engineers-ipo/825/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2006, Shreeshay Engineers Limited (SEL) is a real estate construction and engineering company engaged in providing supply of materials, designing and contracting capabilities as well as construction project management services. Company is a part of the DKP Group which has large presence in the real estate market in and around Mumbai.</p><p>Company has developed around 90,000 sq. ft of built up real estate vide project(s) named “Kailas Jyoti I” and “Kailas Jyoti II” at Ghatkopar, Mumbai. Thave recently entered into works  contract for construction of real estate project “Kailas Nagar”.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "140.46",
+          "128.36",
+          "124.85",
+          "124.40",
+          "137.41"
+        ],
+        [
+          "Total Revenue",
+          "22.17",
+          "9.90",
+          "10.19",
+          "10.78",
+          "9.79"
+        ],
+        [
+          "Profit After Tax",
+          "15.58",
+          "4.43",
+          "4.44",
+          "(4.54)",
+          "(3.83)"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 9, 2018 to March 13, 2018",
+    "ipoListingDate": "March 21, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹13.00",
+    "lotSize": "8,000 Shares",
+    "issueSize": "36,00,000 shares (aggregating up to ₹5.40 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "1,92,000 shares",
+    "ipoOpenDate": "Fri, Mar 9, 2018",
+    "ipoCloseDate": "Tue, Mar 13, 2018",
+    "shareHoldingPreIssue": "96,03,396 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "96,03,396 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,32,03,396 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,32,03,396 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-03-12T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+ 91-22-25082300/2400",
+    "email": "info@shreeshay.com",
+    "full_address": "Shreeshay Engineers Ltd, 501 Kailas Plaza VB Lane, Ghatkopar East, Mumbai - 400077",
+    "website": "http://www.shreeshay.com"
+  },
+  "createdAt": "2025-04-18T18:22:17.680Z",
+  "faqs": [
+    {
+      "question": "What is the Shreeshay Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shreeshay Engineers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3600000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->5.40<!-- --> Crores. The issue is priced at <span>₹13 per share</span>. The minimum order quantity is <!-- -->8000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 9, 2018</b>, and <b>closes on <!-- -->March 13, 2018</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Shreeshay Engineers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Shreeshay Engineers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Shreeshay Engineers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Shreeshay Engineers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Shreeshay Engineers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Shreeshay Engineers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Shreeshay Engineers IPO opens on March 9, 2018 and closes on March 13, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Shreeshay Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shreeshay Engineers IPO<!-- --> <b>lot size is <!-- -->8000</b>, and the <b>minimum amount required is <span>₹1,04,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Shreeshay Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Shreeshay Engineers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Shreeshay Engineers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Shreeshay Engineers IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/shreeshay-engineers-ipo/825/\" title=\"Shreeshay Engineers IPO Allotment Status\">Shreeshay Engineers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Shreeshay Engineers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Shreeshay Engineers IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Shreeshay Engineers",
+  "issue_price": "₹13.00",
+  "issue_price_numeric": 13,
+  "issue_size": "36,00,000 shares (aggregating up to ₹5.40 Cr)",
+  "issue_size_numeric": 36,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Aryaman Financial Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/77/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/77/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "13.00"
+      },
+      "open": {
+        "bse_sme": "15.25"
+      },
+      "low": {
+        "bse_sme": "15.05"
+      },
+      "high": {
+        "bse_sme": "15.25"
+      },
+      "last_trade": {
+        "bse_sme": "15.23"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 21 2018",
+    "bse_script_code": "541112",
+    "isin": "INE452Z01012",
+    "final_issue_price": "13 per share"
+  },
+  "listing_date": "2018-03-20T18:30:00.000Z",
+  "listing_gains": "17.15%",
+  "listing_gains_numeric": 17.15,
+  "logo": "https://www.chittorgarh.net/images/ipo/shreeshay_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/shreeshay_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 8000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "8000",
+        "amount": "104000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "8000",
+        "amount": "104000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "16000",
+        "amount": "208000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/shreeshay-engineers-ipo/825/"
+    }
+  },
+  "lot_size": 8,
+  "opening_date": "2018-03-08T18:30:00.000Z",
+  "pageHeading": "Shreeshay Engineers Ltd IPO (Shreeshay Engineers IPO) Detail",
+  "pageTitle": "Shreeshay Engineers IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Shreeshay Engineers IPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/2017122814423SEL_DP.pdf"
+    },
+    {
+      "text": "Shreeshay Engineers IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2018/shreeshay-engineers-limited_38147.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/shreeshay-engineers-ipo/825/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Shreeshay Engineers IPO offers 3792000 shares. 1704000 (44.94%) to NII 1704000 (44.94%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "192000 (5.06%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1704000 (44.94%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1704000 (44.94%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "192000 (5.06%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3792000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:17.680Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Shreeshay Engineers IPO is subscribed 1.11 times on March 13 2018 5:00:00 PM (Day 3). The public issue subscribed 1 times in the retail category [.] times in the QIB category and 1.22 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.22",
+        "shares_offered": "1704000",
+        "shares_bid_for": "2080000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1",
+        "shares_offered": "1704000",
+        "shares_bid_for": "1696000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.11",
+        "shares_offered": "3408000",
+        "shares_bid_for": "3776000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 13 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:21.319Z",
+  "updated_at": "2025-04-18T18:22:17.680Z",
+  "year": 2018,
+  "worst_listing_gains": "17.15%",
+  "worst_listing_gains_numeric": 17.15
+}

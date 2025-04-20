@@ -1,0 +1,502 @@
+{
+  "_id": "68028e9f3ccffd1c7912c986",
+  "ipo_id": "2023_yatharth_hospital_and_trauma_care_services_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:31:53.609Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/yatharth-hospital-ipo/1464/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2008, Yatharth Hospital and Trauma Care Services Limited is a multi-care hospital chain. Yatharth Hospital operates through its super specialty hospitals. These hospitals are situated in Delhi NCR, i.e., at Noida, Greater Noida, and Noida Extension, Uttar Pradesh. The hospital located in Noida Extension Hospital has 450 beds and is one of the largest hospitals in the area.</p>\n<p>Yatharth Hospital and Trauma Care Services provide patients with various Amenities and facilities. All of their hospitals are accredited by the NABH. And the ones located at Greater Noida and Noida Extension are accredited by NABL. The hospitals comply with all necessary international quality standards to ensure safety and recovery of the patients.</p>\n<p>The company acquired a 305-bedded multi-specialty hospital in Orchha, Madhya Pradesh to extend its operations and services.</p>\n<p>A team of 370 doctors is engaged with the company. They offer healthcare services across numerous specialties and super specialties.</p>\n<p>The super specialty or Centres of Excellence (COE) of the hospital includes:</p>\n<p>Centre of Medicine, Centre of General Surgery, Centre of Gastroenterology, Centre of Cardiology, Centre of Nephrology &amp; Urology, Centre of Pulmonology, Centre of Neurosciences, Centre of Paediatrics, Centre of Gynaecology, Centre of Orthopaedics and Spine &amp; Rheumatology.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2019",
+        "31 Mar 2020",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "256.56",
+          "287.20",
+          "308.77",
+          "426.02",
+          "485.97"
+        ],
+        [
+          "Revenue",
+          "102.07",
+          "146.18",
+          "229.19",
+          "402.59",
+          "523.10"
+        ],
+        [
+          "Profit After Tax",
+          "3.98",
+          "-2.05",
+          "19.59",
+          "44.16",
+          "65.77"
+        ],
+        [
+          "Net Worth",
+          "55.60",
+          "54.29",
+          "72.46",
+          "116.89",
+          "182.96"
+        ],
+        [
+          "Reserves and Surplus",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "164.57",
+          "184.57",
+          "186.11",
+          "258.19",
+          "263.78"
+        ]
+      ]
+    },
+    {
+      "heading": "Yatharth Hospital & Trauma Care Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "yatharth_hospital_trauma_care_services_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "35.95%"
+        ],
+        [
+          "ROCE",
+          "26.10%"
+        ],
+        [
+          "Debt/Equity",
+          "1.44"
+        ],
+        [
+          "RoNW",
+          "35.95%"
+        ]
+      ]
+    },
+    {
+      "heading": "Yatharth Hospital & Trauma Care Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "yatharth_hospital_trauma_care_services_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "10.09",
+          null
+        ],
+        [
+          "P/E (x)",
+          "39.16",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Yatharth Hospital IPO raises Rs 205.97 crore from anchor investors. Yatharth Hospital IPO Anchor bid date is July 25 2023. Yatharth Hospital IPO Anchor Investors list",
+    "list_link": {
+      "text": "Yatharth Hospital IPO Anchor Investors list",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20230725-51&attachedId=a7934465-0261-4c5e-bc44-e62aba319d9b"
+    },
+    "details": {
+      "ipo_date": "October 31 2023",
+      "shares_offered": "6865506",
+      "anchor_portion_size": "205.97"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "July 26, 2023 to July 28, 2023",
+    "ipoListingDate": "Mon, Aug 7, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹300.00",
+    "lotSize": "50 Shares",
+    "issueSize": "2,28,85,023 shares (aggregating up to ₹686.55 Cr)",
+    "freshIssue": "1,63,33,333 shares (aggregating up to ₹490.00 Cr)",
+    "offerForSale": "65,51,690 shares of ₹10 (aggregating up to ₹196.55 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Jul 26, 2023",
+    "ipoCloseDate": "Fri, Jul 28, 2023",
+    "initiationOfRefunds": "Thu, Aug 3, 2023",
+    "creditOfSharesToDemat": "Fri, Aug 4, 2023",
+    "shareHoldingPreIssue": "91.34%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "91.34%"
+      }
+    ],
+    "shareHoldingPostIssue": "8,58,50,233 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "8,58,50,233 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.32%"
+      }
+    ]
+  },
+  "closing_date": "2023-07-27T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 11 4996 7892",
+    "email": "cs@yatharthhospitals.com",
+    "full_address": "Yatharth Hospital and Trauma Care Services Limited, JA 108 DLF Tower A, Jasola District Centre, South Delhi Delhi - 110 025",
+    "website": "https://www.yatharthhospitals.com/"
+  },
+  "createdAt": "2025-04-18T17:40:47.929Z",
+  "faqs": [
+    {
+      "question": "What is the Yatharth Hospital IPO?",
+      "answer": "<div itemprop=\"text\"><p>Yatharth Hospital IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->22885023<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->686.55<!-- --> Crores. The issue is priced at <span>₹300 per share</span>. The minimum order quantity is <!-- -->50<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 26, 2023</b>, and <b>closes on <!-- -->July 28, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Yatharth Hospital IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Yatharth Hospital IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Yatharth Hospital IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Yatharth Hospital IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Yatharth Hospital IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Yatharth Hospital IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Yatharth Hospital IPO opens on July 26, 2023 and closes on July 28, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Yatharth Hospital IPO?",
+      "answer": "<div itemprop=\"text\"><p>Yatharth Hospital IPO<!-- --> <b>lot size is <!-- -->50</b>, and the <b>minimum amount required is <span>₹15,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Yatharth Hospital IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Yatharth Hospital IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Yatharth Hospital IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Yatharth Hospital IPO<!-- --> will be done on <!-- -->Wednesday, August 2, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, August 4, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/yatharth-hospital-ipo/1464/\" title=\"Yatharth Hospital IPO Allotment Status\">Yatharth Hospital IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Yatharth Hospital IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Yatharth Hospital IPO<!-- --> listing date is on <b>Monday, August 7, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Yatharth Hospital and Trauma Care Services",
+  "issue_price": "₹300.00",
+  "issue_price_numeric": 300,
+  "issue_size": "2,28,85,023 shares (aggregating up to ₹686.55 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Intensive Fiscal Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/35/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/35/"
+    },
+    {
+      "name": "Ambit Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/119/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/119/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse": "300.00"
+      },
+      "open": {
+        "nse": "306.10"
+      },
+      "low": {
+        "nse": "306.10"
+      },
+      "high": {
+        "nse": "343.10"
+      },
+      "last_trade": {
+        "nse": "300.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 7 2023",
+    "bse_script_code": "543950",
+    "nse_symbol": "YATHARTH",
+    "isin": "INE0JO301016",
+    "final_issue_price": "300 per share"
+  },
+  "listing_date": "2023-08-06T18:30:00.000Z",
+  "listing_gains": "0.00%",
+  "listing_gains_numeric": 0,
+  "logo": "https://www.chittorgarh.net/images/ipo/yatharth-hospital-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/yatharth-hospital-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 50 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "50",
+        "amount": "15000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "650",
+        "amount": "195000"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "700",
+        "amount": "210000"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "3300",
+        "amount": "990000"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "3350",
+        "amount": "1005000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/yatharth-hospital-ipo/1464/"
+    }
+  },
+  "lot_size": 50,
+  "opening_date": "2023-07-25T18:30:00.000Z",
+  "pageHeading": "Yatharth Hospital and Trauma Care Services Limited IPO (Yatharth Hospital IPO) Detail",
+  "pageTitle": "Yatharth Hospital IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Ajay Kumar Tyagi and Kapil Kumar are the Promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "91.34%",
+      "share_holding_post_issue": "66.32%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Yatharth Hospital IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2022/yatharth-hospital-and-trauma-care-services-limited_57585.html"
+    },
+    {
+      "text": "Yatharth Hospital IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2023/yatharth-hospital-and-trauma-care-services-limited-prospectus_74689.html"
+    },
+    {
+      "text": "Anchor Investors in Yatharth Hospital IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20230725-51&attachedId=a7934465-0261-4c5e-bc44-e62aba319d9b"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "12",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "4",
+        "neutral": "2",
+        "avoid": "5"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/yatharth-hospital-ipo/1464/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "yatharth.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Yatharth Hospital IPO offers 22885023 shares. 4577004 (20.00%) to QIB 3432754 (15.00%) to NII 8009759 (35.00%) to RII 6865506 (30.00%) to Anchor investors. 160195 RIIs will receive minimum 50 shares and 1634 (sNII) and 3269 (bNII) will receive minimum 700 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "6865506 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4577004 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3432754 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2288503 (10.00%)",
+        "maximum_allottees": "3269"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1144251 (5.00%)",
+        "maximum_allottees": "1634"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "8009759 (35.00%)",
+        "maximum_allottees": "160195"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "22885023 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.928Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Yatharth Hospital IPO is subscribed 37.28 times on July 28 2023 7:02:00 PM (Day 3). The public issue subscribed 8.66 times in the retail category 86.37 times in the QIB category and 38.62 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "86.37",
+        "shares_offered": "4577004",
+        "shares_bid_for": "395317750"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "38.62",
+        "shares_offered": "3432754",
+        "shares_bid_for": "132571450"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "41.76",
+        "shares_offered": "2288503",
+        "shares_bid_for": "95562700"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "32.34",
+        "shares_offered": "1144251",
+        "shares_bid_for": "37008750"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "8.66",
+        "shares_offered": "8009759",
+        "shares_bid_for": "69330450"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "37.28",
+        "shares_offered": "16019517",
+        "shares_bid_for": "597219650"
+      }
+    },
+    "total_applications": "1256979"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 28 2023",
+    "tentative_allotment": "Wed Aug 2 2023",
+    "initiation_of_refunds": "Thu Aug 3 2023",
+    "credit_of_shares_to_demat": "Fri Aug 4 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:54.140Z",
+  "updated_at": "2025-04-18T17:40:47.928Z",
+  "year": 2023,
+  "worst_listing_gains": "0.00%",
+  "worst_listing_gains_numeric": 0
+}

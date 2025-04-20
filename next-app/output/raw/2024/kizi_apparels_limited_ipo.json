@@ -1,0 +1,427 @@
+{
+  "_id": "680249fe3ccffd1c7912c794",
+  "ipo_id": "2024_kizi_apparels_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:25:51.082Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/kizi-apparels-ipo/1795/"
+  },
+  "about": {
+    "details": "<p>Incorporated in March 2023, Kizi Apparels Limited is involved in the production and trading of ready-to-wear clothing through our own showrooms, distributors, malls, and online platform.</p>\n<p>The company has launched an e-commerce platform offering premium ethnic and Western women's apparel under the brand names ANUTARRA and KIZI, respectively.</p>\n<p>The company caters to all over India through its online platform.</p>\n<p>The product portfolio of the company comprises of kurti sets, kurti, churidaar,Co-ord Sets,Semi formal Balzers, Shirts,Blouses, Tops/ Tunics, Dresses, Palazzo, skirt and dupatta.</p>\n<p>As of June 30, 2024, the company has a total of 18 permanent employees in various departments, excluding the company directors</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Kizi Apparels Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1340.30",
+          "1135.10",
+          "725.14"
+        ],
+        [
+          "Revenue",
+          "2027.37",
+          "1549.50",
+          "539.17"
+        ],
+        [
+          "Profit After Tax",
+          "72.21",
+          "54.97",
+          "20.64"
+        ],
+        [
+          "Net Worth",
+          "587.49",
+          "394.86",
+          "336.95"
+        ],
+        [
+          "Reserves and Surplus",
+          "71.37",
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "514.61",
+          "310.96",
+          "242.73"
+        ]
+      ]
+    },
+    {
+      "heading": "Kizi Apparels Ltd Stock Quote & Charts",
+      "sanitizedHeading": "kizi_apparels_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "15%"
+        ],
+        [
+          "ROCE",
+          "14%"
+        ],
+        [
+          "Debt/Equity",
+          "0.88"
+        ],
+        [
+          "RoNW",
+          "12.29%"
+        ],
+        [
+          "Price to Book Value",
+          "1.85"
+        ]
+      ]
+    },
+    {
+      "heading": "Kizi Apparels Ltd Stock Quote & Charts",
+      "sanitizedHeading": "kizi_apparels_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "1.40",
+          "0.92"
+        ],
+        [
+          "P/E (x)",
+          "15.01",
+          "22.74"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "July 30, 2024 to August 1, 2024",
+    "ipoListingDate": "Tue, Aug 6, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹21.00",
+    "lotSize": "6,000 Shares",
+    "issueSize": "26,58,000 shares (aggregating up to ₹5.58 Cr)",
+    "freshIssue": "26,58,000 shares (aggregating up to ₹5.58 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "1,38,000 shares",
+      "maker_name": "Beeline Broking Ltd.",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/227/"
+    },
+    "ipoOpenDate": "Tue, Jul 30, 2024",
+    "ipoCloseDate": "Thu, Aug 1, 2024",
+    "initiationOfRefunds": "Mon, Aug 5, 2024",
+    "creditOfSharesToDemat": "Mon, Aug 5, 2024",
+    "shareHoldingPreIssue": "51,61,200 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "51,61,200 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "85.36%"
+      }
+    ],
+    "shareHoldingPostIssue": "78,19,200 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "78,19,200 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "56.35%"
+      }
+    ]
+  },
+  "closing_date": "2024-07-31T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 99830 23939",
+    "email": "info@kiziapparels.com",
+    "full_address": "Kizi Apparels Limited, H-629 Phase- II, Sitapura Industrial Area, Sanganer Jaipur 302022",
+    "website": "https://kiziapparels.co.in/"
+  },
+  "createdAt": "2025-04-18T12:47:58.223Z",
+  "faqs": [
+    {
+      "question": "What is the Kizi Apparels IPO?",
+      "answer": "<div itemprop=\"text\"><p>Kizi Apparels IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2658000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->5.58<!-- --> Crores. The issue is priced at <span>₹21 per share</span>. The minimum order quantity is <!-- -->6000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 30, 2024</b>, and <b>closes on <!-- -->August 1, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Kizi Apparels IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Kizi Apparels IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Kizi Apparels IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Kizi Apparels IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Kizi Apparels IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Kizi Apparels IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Kizi Apparels IPO opens on July 30, 2024 and closes on August 1, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Kizi Apparels IPO?",
+      "answer": "<div itemprop=\"text\"><p>Kizi Apparels IPO<!-- --> <b>lot size is <!-- -->6000</b>, and the <b>minimum amount required is <span>₹1,26,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Kizi Apparels IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Kizi Apparels IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Kizi Apparels IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Kizi Apparels IPO<!-- --> will be done on <!-- -->Friday, August 2, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, August 5, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/kizi-apparels-ipo/1795/\" title=\"Kizi Apparels IPO Allotment Status\">Kizi Apparels IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Kizi Apparels IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Kizi Apparels IPO<!-- --> listing date is on <b>Tuesday, August 6, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Kizi Apparels",
+  "issue_price": "₹21.00",
+  "issue_price_numeric": 21,
+  "issue_size": "26,58,000 shares (aggregating up to ₹5.58 Cr)",
+  "issue_size_numeric": 26,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Interactive Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/188/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/188/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "21.00"
+      },
+      "open": {
+        "bse_sme": "23.15"
+      },
+      "low": {
+        "bse_sme": "22.00"
+      },
+      "high": {
+        "bse_sme": "24.30"
+      },
+      "last_trade": {
+        "bse_sme": "24.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 6 2024",
+    "bse_script_code": "544221",
+    "isin": "INE0RMR01013",
+    "final_issue_price": "21 per share"
+  },
+  "listing_date": "2024-08-05T18:30:00.000Z",
+  "listing_gains": "15.71%",
+  "listing_gains_numeric": 15.71,
+  "logo": "https://www.chittorgarh.net/images/ipo/kizi_appreals_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/kizi_appreals_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 6000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "126000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "126000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "12000",
+        "amount": "252000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/kizi-apparels-ipo/1795/"
+    }
+  },
+  "lot_size": 6,
+  "opening_date": "2024-07-29T18:30:00.000Z",
+  "pageHeading": "Kizi Apparels Limited IPO (Kizi Apparels IPO) Detail",
+  "pageTitle": "Kizi Apparels IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Abhishek Nathani and Kiran Nathani.",
+    "holdings": {
+      "share_holding_pre_issue": "85.36%",
+      "share_holding_post_issue": "56.35%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Kizi Apparels IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/386211/Draft%20Prospectus_20231020115145.pdf"
+    },
+    {
+      "text": "Kizi Apparels IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/386211/SME_IPO%20Open/1.Prospectus_Final_Kizi_20240725200456.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/kizi-apparels-ipo/1795/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Kizi Apparels IPO offers 2658000 shares. 1260000 (47.40%) to NII 1260000 (47.40%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "138000 (5.19%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1260000 (47.40%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1260000 (47.40%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2658000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.223Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Kizi Apparels IPO is subscribed 115.6 times on August 1 2024 6:19:09 PM (Day 3). The public issue subscribed 139.62 times in the retail category [.] times in the QIB category and 89.58 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "89.58",
+        "shares_offered": "1260000",
+        "shares_bid_for": "112866000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "139.62",
+        "shares_offered": "1260000",
+        "shares_bid_for": "175926000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "115.6",
+        "shares_offered": "2520000",
+        "shares_bid_for": "291312000"
+      }
+    },
+    "total_applications": "37137",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 1 2024",
+    "tentative_allotment": "Fri Aug 2 2024",
+    "initiation_of_refunds": "Mon Aug 5 2024",
+    "credit_of_shares_to_demat": "Mon Aug 5 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:00.566Z",
+  "updated_at": "2025-04-18T12:47:58.223Z",
+  "year": 2024,
+  "worst_listing_gains": "15.71%",
+  "worst_listing_gains_numeric": 15.71
+}

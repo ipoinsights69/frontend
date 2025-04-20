@@ -1,0 +1,458 @@
+{
+  "_id": "680249fb3ccffd1c7912c728",
+  "ipo_id": "2024_beacon_trusteeship_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:30:03.560Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/beacon-trusteeship-ipo/1733/"
+  },
+  "about": {
+    "details": "<p>Established in 2015, Beacon Trusteeship Limited is a debenture trustee offering trustee services in various areas such as Debenture Trustee Services, Security Trustee Services, Trustee to Alternate Investment Fund (AIF), Trustee to ESOP, Securitization Trustee, Bond Trusteeship Services, Escrow Services, Safekeeping and other related services.</p>\n<p>The company provides due diligence, custodial services, compliance monitoring, documentation, disclosure, record retention, etc. The company's service list includes:</p>\n<ul>\n<li>Debenture trusteeship: Assisting the issuing company in the issuance of any type of debenture, including non-convertible debentures.</li>\n<li>Security trustee for Loans: Appointing an investment manager, holding trust funds for the benefit of the beneficiaries, applying for a registration certificate with SEBI, maintaining books of accounts, maintaining confidentiality in respect of the investments and other matters as per the respective agreements.</li>\n<li>Alternative Investment Funds: Making timely declarations to the investors, ensuring timely disbursements to the investors, ensuring that the investments in the trust are made in accordance with the agreement, segregation of assets, and ensuring that all transactions are properly accounted for in accordance with the agreement.</li>\n<li>Securitization and Escrow: Ensuring that transfers from the Escrow account are made only to the designated collection account or other account specified in the formal agreement. Drafting and reviewing the Escrow agreement, setting up the Escrow mechanism, documentation, and timely monitoring.</li>\n</ul>\n<p>As of September 30, 2023, the company had 69 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Beacon Trusteeship Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2696.56",
+          "2254.30",
+          "1685.14",
+          "868.62"
+        ],
+        [
+          "Revenue",
+          "2091.20",
+          "1572.36",
+          "1049.02",
+          "559.85"
+        ],
+        [
+          "Profit After Tax",
+          "516.36",
+          "384.64",
+          "361.58",
+          "95.00"
+        ],
+        [
+          "Net Worth",
+          "1916.29",
+          "1399.53",
+          "1016.53",
+          "414.94"
+        ],
+        [
+          "Reserves and Surplus",
+          "498.24",
+          "1099.19",
+          "714.55",
+          "152.70"
+        ],
+        [
+          "Total Borrowing",
+          null,
+          null,
+          null,
+          "200.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Beacon Trusteeship Limited Stock Quote & Charts",
+      "sanitizedHeading": "beacon_trusteeship_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "31.12%"
+        ],
+        [
+          "RoNW",
+          "26.95%"
+        ],
+        [
+          "PAT Margin",
+          "25.93"
+        ],
+        [
+          "Price to Book Value",
+          "4.44"
+        ]
+      ]
+    },
+    {
+      "heading": "Beacon Trusteeship Limited Stock Quote & Charts",
+      "sanitizedHeading": "beacon_trusteeship_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.64",
+          "2.86"
+        ],
+        [
+          "P/E (x)",
+          "16.49",
+          "20.99"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Beacon Trusteeship IPO raises Rs 9.25 crore from anchor investors. Beacon Trusteeship IPO Anchor bid date is May 27 2024. Beacon Trusteeship IPO Anchor Investors list",
+    "list_link": {
+      "text": "Beacon Trusteeship IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/beacon_trusteeship_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "August 29 2024",
+      "shares_offered": "1542000",
+      "anchor_portion_size": "9.25"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "May 28, 2024 to May 30, 2024",
+    "ipoListingDate": "Tue, Jun 4, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹60.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "54,20,000 shares (aggregating up to ₹32.52 Cr)",
+    "freshIssue": "38,72,000 shares (aggregating up to ₹23.23 Cr)",
+    "offerForSale": "15,48,000 shares of ₹10 (aggregating up to ₹9.29 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,72,000 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Tue, May 28, 2024",
+    "ipoCloseDate": "Thu, May 30, 2024",
+    "initiationOfRefunds": "Mon, Jun 3, 2024",
+    "creditOfSharesToDemat": "Mon, Jun 3, 2024",
+    "shareHoldingPreIssue": "1,41,92,913 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,41,92,913 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "67.88%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,80,64,913 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,80,64,913 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "46.14%"
+      }
+    ]
+  },
+  "closing_date": "2024-05-29T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 95554 49955",
+    "email": "ipo@beacontrustee.co.in",
+    "full_address": "Beacon Trusteeship Limited, 7A &amp; B Siddhivinayak Chambers, Opp MIG Cricket Club Gandhi Nagar, Bandra(East)",
+    "website": "https://beacontrustee.co.in/"
+  },
+  "createdAt": "2025-04-18T12:47:55.686Z",
+  "faqs": [
+    {
+      "question": "What is the Beacon Trusteeship IPO?",
+      "answer": "<div itemprop=\"text\"><p>Beacon Trusteeship IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5420000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->32.52<!-- --> Crores. The issue is priced at <span>₹60 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 28, 2024</b>, and <b>closes on <!-- -->May 30, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Beacon Trusteeship IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Beacon Trusteeship IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Beacon Trusteeship IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Beacon Trusteeship IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Beacon Trusteeship IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Beacon Trusteeship IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Beacon Trusteeship IPO opens on May 28, 2024 and closes on May 30, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Beacon Trusteeship IPO?",
+      "answer": "<div itemprop=\"text\"><p>Beacon Trusteeship IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Beacon Trusteeship IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Beacon Trusteeship IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Beacon Trusteeship IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Beacon Trusteeship IPO<!-- --> will be done on <!-- -->Friday, May 31, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, June 3, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/beacon-trusteeship-ipo/1733/\" title=\"Beacon Trusteeship IPO Allotment Status\">Beacon Trusteeship IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Beacon Trusteeship IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Beacon Trusteeship IPO<!-- --> listing date is on <b>Tuesday, June 4, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Beacon Trusteeship",
+  "issue_price": "₹60.00",
+  "issue_price_numeric": 60,
+  "issue_size": "54,20,000 shares (aggregating up to ₹32.52 Cr)",
+  "issue_size_numeric": 54,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "60.00"
+      },
+      "open": {
+        "nse_sme": "90.00"
+      },
+      "low": {
+        "nse_sme": "85.60"
+      },
+      "high": {
+        "nse_sme": "94.50"
+      },
+      "last_trade": {
+        "nse_sme": "94.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "June 4 2024",
+    "nse_symbol": "BEACON",
+    "isin": "INE639X01027",
+    "final_issue_price": "60 per share"
+  },
+  "listing_date": "2024-06-03T18:30:00.000Z",
+  "listing_gains": "57.50%",
+  "listing_gains_numeric": 57.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/beacon-trusteeship-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/beacon-trusteeship-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/beacon-trusteeship-ipo/1733/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-05-27T18:30:00.000Z",
+  "pageHeading": "Beacon Trusteeship Limited IPO (Beacon Trusteeship IPO) Detail",
+  "pageTitle": "Beacon Trusteeship IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Prasana Analytics Private Limited and Mr. Pratapsingh Indrajitsingh Nathani are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "67.88%",
+      "share_holding_post_issue": "46.14%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Beacon Trusteeship IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/BeaconTrusteeship_DRHP.pdf"
+    },
+    {
+      "text": "Beacon Trusteeship IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_BEACON.zip"
+    },
+    {
+      "text": "Anchor Investors in Beacon Trusteeship IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/beacon_trusteeship_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/beacon-trusteeship-ipo/1733/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "btsl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Beacon Trusteeship IPO offers 5420000 shares. 1030000 (19.00%) to QIB 774000 (14.28%) to NII 1802000 (33.25%) to RII and 1542000 (28.45%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1542000 (28.45%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "272000 (5.02%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1030000 (19.00%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "774000 (14.28%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1802000 (33.25%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5420000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:55.686Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Beacon Trusteeship IPO is subscribed 465.2 times on May 30 2024 6:19:56 PM (Day 3). The public issue subscribed 502.49 times in the retail category 163.86 times in the QIB category and 779.38 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "163.86",
+        "shares_offered": "1030000",
+        "shares_bid_for": "168780000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "779.38",
+        "shares_offered": "774000",
+        "shares_bid_for": "603240000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "502.49",
+        "shares_offered": "1802000",
+        "shares_bid_for": "905484000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "465.2",
+        "shares_offered": "3606000",
+        "shares_bid_for": "1677504000"
+      }
+    },
+    "total_applications": "452742",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 30 2024",
+    "tentative_allotment": "Fri May 31 2024",
+    "initiation_of_refunds": "Mon Jun 3 2024",
+    "credit_of_shares_to_demat": "Mon Jun 3 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:41.990Z",
+  "updated_at": "2025-04-18T12:47:55.686Z",
+  "year": 2024,
+  "worst_listing_gains": "57.50%",
+  "worst_listing_gains_numeric": 57.5,
+  "last_performance_update": "2025-04-19T04:43:41.990Z"
+}

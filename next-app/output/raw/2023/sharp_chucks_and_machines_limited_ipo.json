@@ -1,0 +1,424 @@
+{
+  "_id": "68028e9e3ccffd1c7912c954",
+  "ipo_id": "2023_sharp_chucks_and_machines_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:29:03.538Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sharp-chucks-and-machines-ipo/1532/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1994, Sharp Chucks and Machines Limited is engaged in the manufacturing of forging and graded casting machined components of tractors and other automobiles, as well as power chucks, lathe chucks, drill chucks, and other machine tool accessories for tractors, automobiles, material handling &amp; earth moving equipment, railways, defense, machine tools, the DIY industry, and so on.</p>\n<p>The company's product portfolio includes:</p>\n<ol>\n<li>Forging products: This includes Gear, Dog Clutch, Scaffolding, C Clamp Spanner, Wrench Axe, Ball Pein Hammer, Cross Pein Hammer, Machinist Hammer, Sledge Hammer, Splitting Maul, Stoning Hammer Hatchet, Combination Spanner, Splitting Axe, Splitting Wedge, Fireman Axe, Michigan Axe, Hunter Axe, Drilling Hammer, Claw Hammer, Camp Axe, Single Bit Axe.</li>\n<li>Casting products: This includes Brake Housing, Piston Trumpet Housing, Wheel Hub Kit, Rear Cover, Bell Housing, Front Axel Braket, Gear Box, B.P Shaft Carrier, Brake Drum, Front Axel Housing, Lift Arm, Ram Cylinder, Rear Turnion, Planetary Carrier, TP Carrier, Cage, Steering Arm, Lift Housing, PTO Housing, Fly Wheel, Gear Casing, Cylinder Block, Plannet Carrier M Star, Support Front Axle, Plate Input Retainer, Temper Head.</li>\n<li>Machine components: This includes Power Chucks, Lathe Chucks, Drill Chucks, and Machine Tools Accessories.</li>\n</ol>\n<p>The company has two manufacturing units located in Jalandhar consisting of three foundries having an installed capacity of 30000 MTPA and Machining facilities consisting of VMC, CNC, and other machinery having an installed capacity of 14400 MTPA, and one forging unit consisting of hammers, billiard heaters, etc. having installed capacity of 3600 MTPA.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "13397.98",
+          "18392.09",
+          "18003.58"
+        ],
+        [
+          "Revenue",
+          "13583.11",
+          "15252.23",
+          "17931.45"
+        ],
+        [
+          "Profit After Tax",
+          "330.96",
+          "452.62",
+          "506.50"
+        ],
+        [
+          "Net Worth",
+          "4275.67",
+          "4728.29",
+          "5234.79"
+        ],
+        [
+          "Reserves and Surplus",
+          "3297.24",
+          "3749.86",
+          "4256.36"
+        ],
+        [
+          "Total Borrowing",
+          "6305.37",
+          "10269.35",
+          "9034.20"
+        ]
+      ]
+    },
+    {
+      "heading": "Sharp Chucks And Machines Limited Stock Quote & Charts",
+      "sanitizedHeading": "sharp_chucks_and_machines_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "10.17%"
+        ],
+        [
+          "ROCE",
+          "11.00%"
+        ],
+        [
+          "Debt/Equity",
+          "1.73"
+        ],
+        [
+          "RoNW",
+          "9.68%"
+        ]
+      ]
+    },
+    {
+      "heading": "Sharp Chucks And Machines Limited Stock Quote & Charts",
+      "sanitizedHeading": "sharp_chucks_and_machines_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "5.18",
+          null
+        ],
+        [
+          "P/E (x)",
+          "11.2",
+          "12.31"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 29, 2023 to October 5, 2023",
+    "ipoListingDate": "Thu, Oct 12, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹58.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "29,04,000 shares (aggregating up to ₹16.84 Cr)",
+    "freshIssue": "9,75,484 shares (aggregating up to ₹5.66 Cr)",
+    "offerForSale": "19,28,516 shares of ₹10 (aggregating up to ₹11.19 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,48,000 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Fri, Sep 29, 2023",
+    "ipoCloseDate": "Thu, Oct 5, 2023",
+    "initiationOfRefunds": "Tue, Oct 10, 2023",
+    "creditOfSharesToDemat": "Wed, Oct 11, 2023",
+    "shareHoldingPreIssue": "97,84,308 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "97,84,308 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "80.28%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,07,59,792 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,07,59,792 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.00%"
+      }
+    ]
+  },
+  "closing_date": "2023-10-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+0181 -2610341",
+    "email": "cs@sharpchucks.com",
+    "full_address": "Sharp Chucks And Machines Limited, A-12, Industrial Development Colony, Jalandhar - 144012",
+    "website": "https://sharpchucks.com/index.html"
+  },
+  "createdAt": "2025-04-18T17:40:46.600Z",
+  "faqs": [
+    {
+      "question": "What is the Sharp Chucks And Machines IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sharp Chucks And Machines IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2904000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->16.84<!-- --> Crores. The issue is priced at <span>₹58 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 29, 2023</b>, and <b>closes on <!-- -->October 5, 2023</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sharp Chucks And Machines IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sharp Chucks And Machines IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sharp Chucks And Machines IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sharp Chucks And Machines IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sharp Chucks And Machines IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sharp Chucks And Machines IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sharp Chucks And Machines IPO opens on September 29, 2023 and closes on October 5, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sharp Chucks And Machines IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sharp Chucks And Machines IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,16,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sharp Chucks And Machines IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sharp Chucks And Machines IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sharp Chucks And Machines IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sharp Chucks And Machines IPO<!-- --> will be done on <!-- -->Monday, October 9, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, October 11, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/sharp-chucks-and-machines-ipo/1532/\" title=\"Sharp Chucks And Machines IPO Allotment Status\">Sharp Chucks And Machines IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sharp Chucks And Machines IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sharp Chucks And Machines IPO<!-- --> listing date is on <b>Thursday, October 12, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sharp Chucks And Machines",
+  "issue_price": "₹58.00",
+  "issue_price_numeric": 58,
+  "issue_size": "29,04,000 shares (aggregating up to ₹16.84 Cr)",
+  "issue_size_numeric": 29,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fedex Securities Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/144/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/144/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "58.00"
+      },
+      "open": {
+        "nse_sme": "66.00"
+      },
+      "low": {
+        "nse_sme": "63.00"
+      },
+      "high": {
+        "nse_sme": "69.00"
+      },
+      "last_trade": {
+        "nse_sme": "65.05"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 12 2023",
+    "nse_symbol": "SCML",
+    "isin": "INE460Q01014",
+    "final_issue_price": "58 per share"
+  },
+  "listing_date": "2023-10-11T18:30:00.000Z",
+  "listing_gains": "12.16%",
+  "listing_gains_numeric": 12.16,
+  "logo": "https://www.chittorgarh.net/images/ipo/sharp-chucks-and-machines-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sharp-chucks-and-machines-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "116000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "116000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "232000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sharp-chucks-and-machines-ipo/1532/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-09-28T18:30:00.000Z",
+  "pageHeading": "Sharp Chucks And Machines Limited IPO (Sharp Chucks And Machines IPO) Detail",
+  "pageTitle": "Sharp Chucks And Machines IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Ajay Sikka and Ms. Gopika Sikka are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "80.28%",
+      "share_holding_post_issue": "73.00%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sharp Chucks And Machines IPO DRHP",
+      "url": "https://archives.nseindia.com/emerge/corporates/content/SharpChucks_DP.pdf"
+    },
+    {
+      "text": "Sharp Chucks And Machines IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2023/sharp-chucks-and-machines-limited-sme-issue-prospectus_77572.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sharp-chucks-and-machines-ipo/1532/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Sharp Chucks And Machines IPO offers 2904000 shares. 1378000 (47.45%) to NII 1378000 (47.45%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "148000 (5.10%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1378000 (47.45%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1378000 (47.45%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2904000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.599Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sharp Chucks And Machines IPO is subscribed 54.2 times on October 5 2023 7:29:00 PM (Day 4). The public issue subscribed 63.69 times in the retail category [.] times in the QIB category and 38.76 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "38.76",
+        "shares_offered": "1378000",
+        "shares_bid_for": "53410000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "63.69",
+        "shares_offered": "1378000",
+        "shares_bid_for": "87770000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "54.2",
+        "shares_offered": "2756000",
+        "shares_bid_for": "149378000"
+      }
+    },
+    "total_applications": "43885",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 5 2023",
+    "tentative_allotment": "Mon Oct 9 2023",
+    "initiation_of_refunds": "Tue Oct 10 2023",
+    "credit_of_shares_to_demat": "Wed Oct 11 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:47.054Z",
+  "updated_at": "2025-04-18T17:40:46.599Z",
+  "year": 2023,
+  "worst_listing_gains": "12.16%",
+  "worst_listing_gains_numeric": 12.16
+}

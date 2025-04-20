@@ -1,0 +1,431 @@
+{
+  "_id": "68024a033ccffd1c7912c831",
+  "ipo_id": "2024_vdeal_system_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:24:01.671Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/vdeal-system-ipo/1824/"
+  },
+  "about": {
+    "details": "<p>Incorporated in December 2009, Vdeal System Limited is an Integrated Electrical and Automation solution provider. The company specializes in Smart Low Voltage (LV) panels, Smart Medium Voltage (MV) panels, Smart Variable Frequency Drive (VFD) panels, Medium Voltage (MV) Soft Starter, Energy Management System (EMS), and Smart Programmable Logic Controller (PLC) panels. They also offer air-insulated &amp; Sandwich bus ducts. Their services include in-house product design &amp; development, manufacturing, system integration, and servicing of automation solutions and smart electrical control panels that comply with high international IEC standards for quality and safety.</p>\n<p>The company is ISO 9001:2015 certified company.</p>\n<p>The company's product portfolio includes seveal Sense IoT Gateway, Reveal Sense Node and REVNET IIoT Platform.</p>\n<p>The manufacturing unit of the company is situated in Bhubaneswar, Orissa.</p>\n<p>As of August 20, 2024, the company has employed 65 employees on its payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Vdeal System Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2727.93",
+          "1544.44",
+          "1142.33"
+        ],
+        [
+          "Revenue",
+          "2625.08",
+          "2075.41",
+          "1623.96"
+        ],
+        [
+          "Profit After Tax",
+          "311.38",
+          "110.09",
+          "23.1"
+        ],
+        [
+          "Net Worth",
+          "628.75",
+          "341.83",
+          "231.73"
+        ],
+        [
+          "Reserves and Surplus",
+          "301.1",
+          "312.04",
+          "201.95"
+        ],
+        [
+          "Total Borrowing",
+          "937.67",
+          "621.02",
+          "639.51"
+        ]
+      ]
+    },
+    {
+      "heading": "Vdeal System Limited Stock Quote & Charts",
+      "sanitizedHeading": "vdeal_system_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "49.52%"
+        ],
+        [
+          "ROCE",
+          "32.83%"
+        ],
+        [
+          "Debt/Equity",
+          "1.49"
+        ],
+        [
+          "RoNW",
+          "49.52%"
+        ],
+        [
+          "PAT Margin",
+          "11.87"
+        ],
+        [
+          "Price to Book Value",
+          "5.84"
+        ]
+      ]
+    },
+    {
+      "heading": "Vdeal System Limited Stock Quote & Charts",
+      "sanitizedHeading": "vdeal_system_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "9.50",
+          "6.37"
+        ],
+        [
+          "P/E (x)",
+          "11.79",
+          "17.59"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 27, 2024 to August 29, 2024",
+    "ipoListingDate": "Tue, Sep 3, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹112.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "16,14,000 shares (aggregating up to ₹18.08 Cr)",
+    "freshIssue": "16,14,000 shares (aggregating up to ₹18.08 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "81,600 shares",
+      "maker_name": "Black Fox Financial Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/231/"
+    },
+    "ipoOpenDate": "Tue, Aug 27, 2024",
+    "ipoCloseDate": "Thu, Aug 29, 2024",
+    "initiationOfRefunds": "Mon, Sep 2, 2024",
+    "creditOfSharesToDemat": "Mon, Sep 2, 2024",
+    "shareHoldingPreIssue": "32,76,460 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "32,76,460 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.97%"
+      }
+    ],
+    "shareHoldingPostIssue": "48,90,460 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "48,90,460 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.96%"
+      }
+    ]
+  },
+  "closing_date": "2024-08-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+ 91 0674 291067",
+    "email": "compliance@vdealsystem.com",
+    "full_address": "Vdeal System Limited, Plot No. 4/A, A 4/B &amp; 6 Janla Industrial Area, Khordha Jatni - 752054",
+    "website": "http://www.vdealsystem.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.665Z",
+  "faqs": [
+    {
+      "question": "What is the Vdeal System IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vdeal System IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1614000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->18.08<!-- --> Crores. The issue is priced at <span>₹112 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 27, 2024</b>, and <b>closes on <!-- -->August 29, 2024</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Vdeal System IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Vdeal System IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Vdeal System IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Vdeal System IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Vdeal System IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Vdeal System IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Vdeal System IPO opens on August 27, 2024 and closes on August 29, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Vdeal System IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vdeal System IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,34,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Vdeal System IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Vdeal System IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Vdeal System IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Vdeal System IPO<!-- --> will be done on <!-- -->Friday, August 30, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, September 2, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/vdeal-system-ipo/1824/\" title=\"Vdeal System IPO Allotment Status\">Vdeal System IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Vdeal System IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Vdeal System IPO<!-- --> listing date is on <b>Tuesday, September 3, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Vdeal System",
+  "issue_price": "₹112.00",
+  "issue_price_numeric": 112,
+  "issue_size": "16,14,000 shares (aggregating up to ₹18.08 Cr)",
+  "issue_size_numeric": 16,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Affinity Global Capital Market Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/405/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/405/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "112.00"
+      },
+      "open": {
+        "nse_sme": "170.00"
+      },
+      "low": {
+        "nse_sme": "161.50"
+      },
+      "high": {
+        "nse_sme": "178.50"
+      },
+      "last_trade": {
+        "nse_sme": "178.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 3 2024",
+    "nse_symbol": "VDEAL",
+    "isin": "INE0U2M01015",
+    "final_issue_price": "112 per share"
+  },
+  "listing_date": "2024-09-02T18:30:00.000Z",
+  "listing_gains": "59.38%",
+  "listing_gains_numeric": 59.38,
+  "logo": "https://www.chittorgarh.net/images/ipo/vdeal-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/vdeal-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "134400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "134400"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "268800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/vdeal-system-ipo/1824/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-08-26T18:30:00.000Z",
+  "pageHeading": "Vdeal System Limited IPO (Vdeal System IPO) Detail",
+  "pageTitle": "Vdeal System IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Mr. Dhiraj Kochar Mrs. Tapaswini Panda Mr. Brahmananda Patra and Reveal AI Technologies Private Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "99.97%",
+      "share_holding_post_issue": "66.96%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Vdeal System IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/VdealSystemLtd_DP.pdf"
+    },
+    {
+      "text": "Vdeal System IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_VDEAL.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/vdeal-system-ipo/1824/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "investor@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "Vdeal System IPO offers 1614000 shares. 766200 (47.47%) to NII 766200 (47.47%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "81600 (5.06%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "766200 (47.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "766200 (47.47%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1614000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.665Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Vdeal System IPO is subscribed 71.38 times on August 29 2024 6:19:02 PM (Day 3). The public issue subscribed 76.7 times in the retail category [.] times in the QIB category and 61.46 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "61.46",
+        "shares_offered": "766200",
+        "shares_bid_for": "47092800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "76.7",
+        "shares_offered": "766200",
+        "shares_bid_for": "58767600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "71.38",
+        "shares_offered": "1532400",
+        "shares_bid_for": "109376400"
+      }
+    },
+    "total_applications": "48973",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 29 2024",
+    "tentative_allotment": "Fri Aug 30 2024",
+    "initiation_of_refunds": "Mon Sep 2 2024",
+    "credit_of_shares_to_demat": "Mon Sep 2 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:21.046Z",
+  "updated_at": "2025-04-18T12:48:03.665Z",
+  "year": 2024,
+  "worst_listing_gains": "59.38%",
+  "worst_listing_gains_numeric": 59.38
+}

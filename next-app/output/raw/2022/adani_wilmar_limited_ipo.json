@@ -1,0 +1,457 @@
+{
+  "_id": "680293663ccffd1c7912ca3e",
+  "ipo_id": "2022_adani_wilmar_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:00:38.789Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/adani-wilmar-ipo/1173/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1999 as a joint venture between Adani Group and the Wilmar Group, Adani Wilmar is&nbsp;<strong>an FMCG food company offering most of the essential kitchen commodities for Indian consumers, including edible oil, wheat flour, rice, pulses, and sugar</strong>. The company also offers a diverse range of industry essentials, including oleochemicals, castor oil and its derivatives, and de-oiled cakes. The company's products are offered under a diverse range of brands across a broad price spectrum and cater to different customer groups.</p>\n<p>The company's product portfolio is categorized into (i) <strong>edible oil</strong>, (ii) <strong>packaged food and FMCG</strong>, and (iii) <strong>industry essentials</strong>. \"Fortune\", the company's flagship brand, is the largest selling edible oil brand in India. Recently the company has focused on value-added products and has launched products such as edible oil products, rice bran health oil, fortified foods, ready-to-cook soya chunks, khichdi, etc in line with this. The company has strong raw material sourcing capabilities and was India's largest importer of crude edible oil as of March 31, 2021.</p>\n<p>The company operates 22 plants located across 10 states in India, comprising 10 crushing units and 19 refineries. The company's refinery in Mundra is one of the largest single-location refineries in India with a capacity of 5,000 MT per day. In addition to the 22 plants Adani Wilmar, also used 36 leased tolling units as of Sep 31, 2021, for additional manufacturing capacities.</p>\n<p>The company's distributors are in 28 states and 8 union territories throughout India, catering to over 1.6 million retail outlets. As of September 30, 2021, the company had 88 depots in India, with an aggregate storage space of approx. 1.8 million square feet across the country.</p>\n<p><strong>Competitive Strengths</strong>:</p>\n<ul>\n<li>Diversified product portfolio with leading brands catering to most daily essentials of an Indian kitchen.</li>\n<li>Strong brand recall and broad customer reach.</li>\n<li>Leadership in branded edible oil and packaged food business in India.</li>\n<li>One of the largest basic oleochemical manufacturers of India.</li>\n<li>Strong raw material sourcing capabilities from top global suppliers.</li>\n<li>An integrated business model with well-established operational infrastructure and strong manufacturing capabilities.</li>\n<li>Pan-India distribution network supported by a robust distribution infrastructure.</li>\n<li>Focus on environmental and social sustainability.</li>\n<li>Professional management and experienced board.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-21",
+          "31-Mar-21",
+          "31-Mar-20"
+        ],
+        [
+          "Total Assets",
+          "179237.07",
+          "133266.39",
+          "117859.17"
+        ],
+        [
+          "Total Revenue",
+          "249572.86",
+          "371956.58",
+          "297669.86"
+        ],
+        [
+          "Profit After Tax",
+          "3571.33",
+          "7276.49",
+          "4608.72"
+        ]
+      ]
+    },
+    {
+      "heading": "Adani Wilmar Limited Stock Quote & Charts",
+      "sanitizedHeading": "adani_wilmar_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "44.66",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "January 27, 2022 to January 31, 2022",
+    "ipoListingDate": "Tue, Feb 8, 2022",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹230.00",
+    "lotSize": "65 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹3,600.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Jan 27, 2022",
+    "ipoCloseDate": "Mon, Jan 31, 2022",
+    "initiationOfRefunds": "Fri, Feb 4, 2022",
+    "creditOfSharesToDemat": "Mon, Feb 7, 2022",
+    "shareHoldingPreIssue": "1,14,29,48,860 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,14,29,48,860 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,29,99,38,041 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,29,99,38,041 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "87.92%"
+      }
+    ]
+  },
+  "closing_date": "2022-01-30T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-79-26455848",
+    "email": "investor.relations@adaniwilmar.in",
+    "full_address": "Adani Wilmar Limited, Fortune House, Near Navrangpura Railway Crossing",
+    "website": "https://www.adaniwilmar.com/"
+  },
+  "createdAt": "2025-04-18T18:01:09.797Z",
+  "faqs": [
+    {
+      "question": "What is the Adani Wilmar IPO?",
+      "answer": "<div itemprop=\"text\"><p>Adani Wilmar IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->3,600.00<!-- --> Crores. The issue is priced at <span>₹230 per share</span>. The minimum order quantity is <!-- -->65<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 27, 2022</b>, and <b>closes on <!-- -->January 31, 2022</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Adani Wilmar IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Adani Wilmar IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Adani Wilmar IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Adani Wilmar IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Adani Wilmar IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Adani Wilmar IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Adani Wilmar IPO opens on January 27, 2022 and closes on January 31, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Adani Wilmar IPO?",
+      "answer": "<div itemprop=\"text\"><p>Adani Wilmar IPO<!-- --> <b>lot size is <!-- -->65</b>, and the <b>minimum amount required is <span>₹14,950</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Adani Wilmar IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Adani Wilmar IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Adani Wilmar IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Adani Wilmar IPO<!-- --> will be done on <!-- -->Thursday, February 3, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, February 7, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/adani-wilmar-ipo/1173/\" title=\"Adani Wilmar IPO Allotment Status\">Adani Wilmar IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Adani Wilmar IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Adani Wilmar IPO<!-- --> listing date is on <b>Tuesday, February 8, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Adani Wilmar",
+  "issue_price": "₹230.00",
+  "issue_price_numeric": 230,
+  "issue_size": "[.] shares (aggregating up to ₹3,600.00 Cr)",
+  "issue_size_numeric": 3,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Bnp Paribas",
+      "url": "/report/ipo-lead-manager-review/112/137/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/137/"
+    },
+    {
+      "name": "Bofa Securities India Limited",
+      "url": "/report/ipo-lead-manager-review/112/22/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/22/"
+    },
+    {
+      "name": "Credit Suisse Securities",
+      "url": "/report/ipo-lead-manager-review/112/111/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/111/"
+    },
+    {
+      "name": "Hdfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/82/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/82/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "J.P. Morgan India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/19/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/19/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "230.00",
+        "nse": "230.00"
+      },
+      "open": {
+        "bse": "221.00",
+        "nse": "227.00"
+      },
+      "low": {
+        "bse": "221.00",
+        "nse": "227.00"
+      },
+      "high": {
+        "bse": "265.20",
+        "nse": "271.25"
+      },
+      "last_trade": {
+        "bse": "265.20",
+        "nse": "268.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 8 2022",
+    "bse_script_code": "543458",
+    "nse_symbol": "AWL",
+    "isin": "INE699H01024",
+    "final_issue_price": "230 per share"
+  },
+  "listing_date": "2022-02-07T18:30:00.000Z",
+  "listing_gains": "15.30%",
+  "listing_gains_numeric": 15.3,
+  "logo": "https://www.chittorgarh.net/images/ipo/adani-wilmar-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/adani-wilmar-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 65 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "65",
+        "amount": "14950"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "845",
+        "amount": "194350"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "910",
+        "amount": "209300"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "4290",
+        "amount": "986700"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "4355",
+        "amount": "1001650"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/adani-wilmar-ipo/1173/"
+    }
+  },
+  "lot_size": 65,
+  "opening_date": "2022-01-26T18:30:00.000Z",
+  "pageHeading": "Adani Wilmar Limited IPO (Adani Wilmar IPO) Detail",
+  "pageTitle": "Adani Wilmar IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Adani Enterprises Limited Adani Commodities LLP and Lence Pte. Ltd are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "87.92%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Adani Wilmar IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/adani-wilmar-limited_51577.html"
+    },
+    {
+      "text": "Adani Wilmar IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2022/adani-wilmar-limited_55897.html"
+    },
+    {
+      "text": "Anchor Investors in Adani Wilmar IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20220125-54&attachedId=984c47de-c9a9-4d6d-a8f2-305ad18dcc96"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/adani-wilmar-ipo/1173/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "adaniwilmar.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Adani Wilmar IPO offers 122546150 shares. 28743118 (23.45%) to QIB 21557340 (17.59%) to NII 50300459 (41.05%) to RII 5431472 (4.43%) to employees. 773853 RIIs will receive minimum 65 shares and (sNII) and (bNII) will receive minimum 910 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "28743118 (23.45%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "21557340 (17.59%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "50300459 (41.05%)",
+        "maximum_allottees": "773853"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "5431472 (4.43%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "16513761 (13.48%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "122546150 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:09.791Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Adani Wilmar IPO is subscribed 17.37 times on January 31 2022 5:00:00 PM (Day 3). The public issue subscribed 3.92 times in the retail category 5.73 times in the QIB category and 56.3 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "5.73",
+        "shares_offered": "28743118",
+        "shares_bid_for": "164674250"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "56.3",
+        "shares_offered": "21557340",
+        "shares_bid_for": "1213704635"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.92",
+        "shares_offered": "50300459",
+        "shares_bid_for": "197169830"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "0.51",
+        "shares_offered": "5431472",
+        "shares_bid_for": "2761460"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "33.33",
+        "shares_offered": "16513761",
+        "shares_bid_for": "550470375"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "17.37",
+        "shares_offered": "122546150",
+        "shares_bid_for": "2128780550"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 31 2022",
+    "tentative_allotment": "Thu Feb 3 2022",
+    "initiation_of_refunds": "Fri Feb 4 2022",
+    "credit_of_shares_to_demat": "Mon Feb 7 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:20.303Z",
+  "updated_at": "2025-04-18T18:01:09.791Z",
+  "year": 2022,
+  "worst_listing_gains": "15.30%",
+  "worst_listing_gains_numeric": 15.3
+}

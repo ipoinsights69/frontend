@@ -1,0 +1,518 @@
+{
+  "_id": "68024a033ccffd1c7912c82c",
+  "ipo_id": "2024_vishal_mega_mart_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:16:55.509Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/vishal-mega-mart-ipo/1924/"
+  },
+  "about": {
+    "details": "<p>Incorporated In 2001, Vishal Mega Mart is a hypermarket chain that sells a wide range of products like apparel, groceries, electronics, and home essentials.</p>\n<p>They own their brands and third-party brands to meet the everyday needs of consumers. The company offers a wide range of products across apparel, general merchandise, and FMCG, including its brands for clothing, home furnishings, travel accessories, kitchen appliances, food, non-food items, and staples.</p>\n<p>The company targets middle and lower-middle-income people, through a Pan India network of 645 Vishal Mega Mart stores (as of September 30, 2024) and their Vishal Mega Mart mobile app and website. As of September 30, 2024, the company has a presence across 414 cities in 28 states and two union territories.</p>\n<p>The company operates an asset-light business model, leasing all its distribution centers and stores, while its products are manufactured by third-party vendors or sourced from third-party brands.</p>\n<p>As of September 30, 2024, their direct local delivery service, managed by their employees, had 6.77 million registered users and was available in 600 stores across 391 cities in India.</p>\n<p>The Company Ranked as one of the top two offline-first diversified retailers in India. As of September 30, 2024, they had 16,537 employees.</p>\n<p><strong>Their portfolio of own Brands</strong>:</p>\n<ul>\n<li>Apparel: Classics, Fashion, Denim, Ethnic</li>\n<li>General Merchandise: Tandem Home Appliances, Home Select, Home Finery</li>\n<li>FMCG: Savory Products, Staples, Home Care</li>\n</ul>\n<p><strong>Their Strengths:</strong></p>\n<ul>\n<li>Serving a Large and Growing Section of the Indian Population</li>\n<li>Consumer-Centric Approach Resulting in a Large and Loyal Consumer Base</li>\n<li>Diverse and Growing Portfolio of their Brands across Product Categories</li>\n<li>Pan-India Presence with a Track Record of Successful Store Growth</li>\n<li>Technology Enabled and Systems Driven Operations</li>\n<li>Professional and Experienced Management Team</li>\n<li>Track Record of Delivering Revenue, Profit Growth and Capital Efficiency</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Vishal Mega Mart Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "9551.75",
+          "8506.08",
+          "8288.91",
+          "8217.98"
+        ],
+        [
+          "Revenue",
+          "5053.42",
+          "8945.13",
+          "7618.89",
+          "5653.85"
+        ],
+        [
+          "Profit After Tax",
+          "254.14",
+          "461.94",
+          "321.27",
+          "202.77"
+        ],
+        [
+          "Net Worth",
+          "5923.74",
+          "5646.59",
+          "5180.84",
+          "4849.93"
+        ],
+        [
+          "Reserves and Surplus",
+          "1390.27",
+          "1113.12",
+          "649.50",
+          "321.88"
+        ],
+        [
+          "Total Borrowing",
+          null,
+          null,
+          "133.50",
+          "497.41"
+        ]
+      ]
+    },
+    {
+      "heading": "Vishal Mega Mart Limited Stock Quote & Charts",
+      "sanitizedHeading": "vishal_mega_mart_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROCE",
+          "68.76%"
+        ],
+        [
+          "RoNW",
+          "8.18%"
+        ],
+        [
+          "PAT Margin",
+          "5.18"
+        ],
+        [
+          "Price to Book Value",
+          "6.23"
+        ]
+      ]
+    },
+    {
+      "heading": "Vishal Mega Mart Limited Stock Quote & Charts",
+      "sanitizedHeading": "vishal_mega_mart_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "1.02",
+          "1.13"
+        ],
+        [
+          "P/E (x)",
+          "76.13",
+          "69.19"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Vishal Mega Mart IPO raises Rs 2400.00 crore from anchor investors. Vishal Mega Mart IPO Anchor bid date is December 10 2024. Vishal Mega Mart IPO Anchor Investors list",
+    "list_link": {
+      "text": "Vishal Mega Mart IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/vishal_mega_martanchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "March 15 2025",
+      "shares_offered": "307692307",
+      "anchor_portion_size": "2400.00"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 11, 2024 to December 13, 2024",
+    "ipoListingDate": "Wed, Dec 18, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹78.00",
+    "lotSize": "190 Shares",
+    "issueSize": "1,02,56,41,025 shares (aggregating up to ₹8,000.00 Cr)",
+    "offerForSale": "1,02,56,41,025 shares of ₹10 (aggregating up to ₹8,000.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Dec 11, 2024",
+    "ipoCloseDate": "Fri, Dec 13, 2024",
+    "initiationOfRefunds": "Tue, Dec 17, 2024",
+    "creditOfSharesToDemat": "Tue, Dec 17, 2024",
+    "shareHoldingPreIssue": "4,50,87,19,493 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "4,50,87,19,493 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "96.46%"
+      }
+    ],
+    "shareHoldingPostIssue": "4,50,87,19,493 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "4,50,87,19,493 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "76.02%"
+      }
+    ]
+  },
+  "closing_date": "2024-12-12T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 124 - 4980000",
+    "email": "secretarial@vishalwholesale.co.in",
+    "full_address": "Vishal Mega Mart Limited, Plot No. 184, Fifth Floor Platinum Tower, Udyog Vihar Phase-1",
+    "website": "https://www.aboutvishal.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.611Z",
+  "faqs": [
+    {
+      "question": "What is the Vishal Mega Mart IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vishal Mega Mart IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->1025641025<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->8,000.00<!-- --> Crores. The issue is priced at <span>₹78 per share</span>. The minimum order quantity is <!-- -->190<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 11, 2024</b>, and <b>closes on <!-- -->December 13, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Vishal Mega Mart IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Vishal Mega Mart IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Vishal Mega Mart IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Vishal Mega Mart IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Vishal Mega Mart IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Vishal Mega Mart IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Vishal Mega Mart IPO opens on December 11, 2024 and closes on December 13, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Vishal Mega Mart IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vishal Mega Mart IPO<!-- --> <b>lot size is <!-- -->190</b>, and the <b>minimum amount required is <span>₹14,820</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Vishal Mega Mart IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Vishal Mega Mart IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Vishal Mega Mart IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Vishal Mega Mart IPO<!-- --> will be done on <!-- -->Monday, December 16, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, December 17, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/vishal-mega-mart-ipo/1924/\" title=\"Vishal Mega Mart IPO Allotment Status\">Vishal Mega Mart IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Vishal Mega Mart IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Vishal Mega Mart IPO<!-- --> listing date is on <b>Wednesday, December 18, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Vishal Mega Mart",
+  "issue_price": "₹78.00",
+  "issue_price_numeric": 78,
+  "issue_size": "1,02,56,41,025 shares (aggregating up to ₹8,000.00 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Intensive Fiscal Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/35/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/35/"
+    },
+    {
+      "name": "Jefferies India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/112/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/112/"
+    },
+    {
+      "name": "J.P. Morgan India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/19/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/19/"
+    },
+    {
+      "name": "Morgan Stanley India Company Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/31/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/31/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "78.00",
+        "nse": "78.00"
+      },
+      "open": {
+        "bse": "110.00",
+        "nse": "104.00"
+      },
+      "low": {
+        "bse": "104.92",
+        "nse": "104.00"
+      },
+      "high": {
+        "bse": "115.60",
+        "nse": "114.40"
+      },
+      "last_trade": {
+        "bse": "111.95",
+        "nse": "111.93"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 18 2024",
+    "bse_script_code": "544307",
+    "nse_symbol": "VMM",
+    "isin": "INE01EA01019",
+    "final_issue_price": "78 per share"
+  },
+  "listing_date": "2024-12-17T18:30:00.000Z",
+  "listing_gains": "43.53%",
+  "listing_gains_numeric": 43.53,
+  "logo": "https://www.chittorgarh.net/images/ipo/vishal-mega-mart-ipo-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/vishal-mega-mart-ipo-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 190 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "190",
+        "amount": "14820"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "2470",
+        "amount": "192660"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "2660",
+        "amount": "207480"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "12730",
+        "amount": "992940"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "12920",
+        "amount": "1007760"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/vishal-mega-mart-ipo/1924/"
+    }
+  },
+  "lot_size": 190,
+  "opening_date": "2024-12-10T18:30:00.000Z",
+  "pageHeading": "Vishal Mega Mart Limited IPO (Vishal Mega Mart IPO) Detail",
+  "pageTitle": "Vishal Mega Mart IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Samayat Services LLP and Kedaara Capital Fund II LLP are the promoters of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "96.46%",
+      "share_holding_post_issue": "76.02%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Vishal Mega Mart IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2024/vishal-mega-mart-limited-updated-draft-red-herring-prospectus-i_87742.html"
+    },
+    {
+      "text": "Vishal Mega Mart IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/vishal-mega-mart-red-herring-prospectus_89311.html"
+    },
+    {
+      "text": "Anchor Investors in Vishal Mega Mart IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/vishal_mega_martanchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "9",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "7",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/vishal-mega-mart-ipo/1924/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "vmm.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Vishal Mega Mart IPO offers 1025641026 shares. 205128206 (20%) to QIB 153846154 (15%) to NII 358974359 (35%) to RII and 307692307 (30%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "307692307 (30%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "205128206 (20%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "153846154 (15%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "102564103 (10%)",
+        "maximum_allottees": "38557"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "51282051 (5%)",
+        "maximum_allottees": "19278"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "358974359 (35%)",
+        "maximum_allottees": "1889338"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1025641026 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.610Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Vishal Mega Mart IPO is subscribed 28.75 times on December 13 2024 6:19:08 PM (Day 3). The public issue subscribed 2.43 times in the retail category 85.11 times in the QIB category and 15.01 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "85.11",
+        "shares_offered": "205128206",
+        "shares_bid_for": "17458559260"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "15.01",
+        "shares_offered": "153846154",
+        "shares_bid_for": "2309998530"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "17.34",
+        "shares_offered": "102564103",
+        "shares_bid_for": "1778281440"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "10.37",
+        "shares_offered": "51282051",
+        "shares_bid_for": "531717090"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.43",
+        "shares_offered": "358974359",
+        "shares_bid_for": "873964090"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "28.75",
+        "shares_offered": "717948719",
+        "shares_bid_for": "20642521880"
+      }
+    },
+    "total_applications": "4209552"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 13 2024",
+    "tentative_allotment": "Mon Dec 16 2024",
+    "initiation_of_refunds": "Tue Dec 17 2024",
+    "credit_of_shares_to_demat": "Tue Dec 17 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:20.400Z",
+  "updated_at": "2025-04-18T12:48:03.610Z",
+  "year": 2024,
+  "worst_listing_gains": "43.53%",
+  "worst_listing_gains_numeric": 43.53
+}

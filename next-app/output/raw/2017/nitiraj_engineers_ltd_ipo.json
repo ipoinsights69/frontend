@@ -1,0 +1,300 @@
+{
+  "_id": "680298563ccffd1c7912cb37",
+  "ipo_id": "2017_nitiraj_engineers_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": false,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:11:02.915Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/nitiraj-engineers-ipo/618/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1989, Nitiraj Engineers Limited manufactures and sells a range of electronic weighing scales and systems, currency counting machines, and electronic fare meters for industrial and domestic consumption.</p><p>They offers jewelry, tabletop, price computing, piece counting, platform, hanging, industrial weighing, baby weighing, person weighing, adult weighing, body mass index, and kitchen scales; and special application indicators, currency counting machines, and taxi/rickshaw fare meters. The company supplies its products under the Phoenix brand name through a network of dealers to customers in India and internationally.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lacs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Dec-15",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13",
+          "31-Mar-12",
+          "31-Mar-11"
+        ],
+        [
+          "Total Assets",
+          "4690.59",
+          "3705.64",
+          "3269.90",
+          "2729.89",
+          "2667.38",
+          "2224.49"
+        ],
+        [
+          "Total Revenue",
+          "4519.64",
+          "9062.67",
+          "7725.82",
+          "9083.70",
+          "4187.20",
+          "2693.28"
+        ],
+        [
+          "Profit After Tax (PAT)",
+          "364.72",
+          "418.40",
+          "389.01",
+          "121.45",
+          "284.28",
+          "186.12"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 20, 2017 to March 1, 2017",
+    "ipoListingDate": "March 9, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹100.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "22,00,800 shares (aggregating up to ₹22.01 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "ipoOpenDate": "Mon, Feb 20, 2017",
+    "ipoCloseDate": "Wed, Mar 1, 2017",
+    "shareHoldingPreIssue": "60,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "60,00,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "82,00,800 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "82,00,800 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-02-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "022-23094161",
+    "email": "investor@nitiraj.net",
+    "full_address": "Nitiraj Engineers Ltd, 306A Bhabha Building, N. M. Joshi Marg, Delisle Road",
+    "website": "http://www.nitiraj.net"
+  },
+  "createdAt": "2025-04-18T18:22:14.154Z",
+  "faqs": [
+    {
+      "question": "What is the Nitiraj Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Nitiraj Engineers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2200800<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->22.01<!-- --> Crores. The issue is priced at <span>₹100 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 20, 2017</b>, and <b>closes on <!-- -->March 1, 2017</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Nitiraj Engineers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Nitiraj Engineers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Nitiraj Engineers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Nitiraj Engineers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Nitiraj Engineers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Nitiraj Engineers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Nitiraj Engineers IPO opens on February 20, 2017 and closes on March 1, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Nitiraj Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Nitiraj Engineers IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Nitiraj Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Nitiraj Engineers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Nitiraj Engineers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Nitiraj Engineers IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/nitiraj-engineers-ipo/618/\" title=\"Nitiraj Engineers IPO Allotment Status\">Nitiraj Engineers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Nitiraj Engineers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Nitiraj Engineers IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Nitiraj Engineers",
+  "issue_price": "₹100.00",
+  "issue_price_numeric": 100,
+  "issue_size": "22,00,800 shares (aggregating up to ₹22.01 Cr)",
+  "issue_size_numeric": 22,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Arihant Capital Markets Ltd",
+      "url": "/report/ipo-lead-manager-review/112/86/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/86/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "100.00"
+      },
+      "open": {
+        "nse_sme": "97.00"
+      },
+      "low": {
+        "nse_sme": "87.00"
+      },
+      "high": {
+        "nse_sme": "97.10"
+      },
+      "last_trade": {
+        "nse_sme": "94.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 9 2017",
+    "nse_symbol": "NITIRAJ",
+    "isin": "INE439T01012",
+    "final_issue_price": "100 per share"
+  },
+  "listing_date": "2017-03-08T18:30:00.000Z",
+  "listing_gains": "-5.50%",
+  "listing_gains_numeric": -5.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/nitiraj_eng_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/nitiraj_eng_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/nitiraj-engineers-ipo/618/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2017-02-19T18:30:00.000Z",
+  "pageHeading": "Nitiraj Engineers Ltd IPO (Nitiraj Engineers IPO) Detail",
+  "pageTitle": "Nitiraj Engineers IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Nitiraj Engineers IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/NEL_DP.pdf"
+    },
+    {
+      "text": "Nitiraj Engineers IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2017/nitiraj-engineers-limited_34181.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/nitiraj-engineers-ipo/618/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "scraped_at": "2025-04-18T18:22:14.154Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Nitiraj Engineers IPO is subscribed [.] times on March 1 2017 6:35:00 PM (Day 3). The public issue subscribed [.] times in the retail category [.] times in the QIB category and [.] times in the NII category. Check Day by Day Subscription Details (Live Status)"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 1 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:56.890Z",
+  "updated_at": "2025-04-18T18:22:14.154Z",
+  "year": 2017,
+  "worst_listing_gains": "-5.50%",
+  "worst_listing_gains_numeric": -5.5
+}

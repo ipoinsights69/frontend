@@ -1,0 +1,388 @@
+{
+  "_id": "6802936c3ccffd1c7912cab0",
+  "ipo_id": "2022_svs_ventures_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:54:30.239Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/svs-ventures-ipo/1360/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2015, SVS Ventures Limited is engaged in the <strong>real estate business</strong>. The entity undertakes construction and real estate development projects, focused primarily on the construction and development of residential and commercial projects.</p>\n<p>SVS Ventures primarily operates in and around Ahmedabad, Gujarat. In 2021, the company entered into a business takeover agreement in April with Erstwhile Proprietary Firm M/s Vijay &amp; Co. of Mr Shashikant Vedprakash Sharma.</p>\n<p>The company's business model is customer-centric, and requires optimum utilization of our existing resources, assuring quality supply and achieving consequent economies of scale.</p>\n<p>The business operations include the development of real estate projects in the residential segment comprising apartment-type complexes, and villas, largely catering to the middle-income and high-income groups.</p>\n<p>The company's below mentioned projects are marketed and sold under the brand name of <strong>\"SVS Ventures (formerly known as Vijay &amp; co.)\"</strong>.</p>\n<p>1) Residential Projects: These projects cover Bungalows and Villas.</p>\n<p>2) Commercial Projects: These projects include the construction of commercial offices and shops.</p>\n<p>SVS Ventures' financials reflect a positive financial standing in the market where its revenues and profits have grown vastly. As of March 2022, the company's total revenue stood at Rs. 868.27 lakhs with a profit of Rs. 183.37 lakhs.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "845.12",
+          "1348.6",
+          "25",
+          "54.53",
+          "641.79"
+        ],
+        [
+          "31-Mar-21",
+          "1165.01",
+          "1355",
+          "26.61",
+          "81.14",
+          "646.36"
+        ],
+        [
+          "31-Mar-22",
+          "1245.68",
+          "868.27",
+          "183.37",
+          "264.51",
+          "700.95"
+        ],
+        [
+          "30-Jun-22",
+          "2501.07",
+          "129.99",
+          "14.34",
+          "2125.33",
+          "267.49"
+        ]
+      ]
+    },
+    {
+      "heading": "Svs Ventures Ltd Stock Quote & Charts",
+      "sanitizedHeading": "svs_ventures_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "75",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 30, 2022 to January 4, 2023",
+    "ipoListingDate": "Thu, Jan 12, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹20.00",
+    "lotSize": "6,000 Shares",
+    "issueSize": "56,22,000 shares (aggregating up to ₹11.24 Cr)",
+    "freshIssue": "56,22,000 shares (aggregating up to ₹11.24 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "2,82,000 shares",
+      "maker_name": "Svcm Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/359/"
+    },
+    "ipoOpenDate": "Fri, Dec 30, 2022",
+    "ipoCloseDate": "Wed, Jan 4, 2023",
+    "initiationOfRefunds": "Tue, Jan 10, 2023",
+    "creditOfSharesToDemat": "Wed, Jan 11, 2023",
+    "shareHoldingPreIssue": "1,57,27,619 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,57,27,619 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "90.49%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,13,49,619 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,13,49,619 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.66%"
+      }
+    ]
+  },
+  "closing_date": "2023-01-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 79 40397191",
+    "email": "svsventure87@gmail.com",
+    "full_address": "SVS Ventures Limited, Block A Office No. 1009 Mondeal Heights, Near Panchratna Party Plot, S. G. Highway",
+    "website": "http://www.svsventures.co.in/"
+  },
+  "createdAt": "2025-04-18T18:01:16.143Z",
+  "faqs": [
+    {
+      "question": "What is the SVS Ventures IPO?",
+      "answer": "<div itemprop=\"text\"><p>SVS Ventures IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5622000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->11.24<!-- --> Crores. The issue is priced at <span>₹20 per share</span>. The minimum order quantity is <!-- -->6000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 30, 2022</b>, and <b>closes on <!-- -->January 4, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in SVS Ventures IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->SVS Ventures IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->SVS Ventures IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->SVS Ventures IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->SVS Ventures IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When SVS Ventures IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The SVS Ventures IPO opens on December 30, 2022 and closes on January 4, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of SVS Ventures IPO?",
+      "answer": "<div itemprop=\"text\"><p>SVS Ventures IPO<!-- --> <b>lot size is <!-- -->6000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for SVS Ventures IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->SVS Ventures IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is SVS Ventures IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->SVS Ventures IPO<!-- --> will be done on <!-- -->Monday, January 9, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, January 11, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/svs-ventures-ipo/1360/\" title=\"SVS Ventures IPO Allotment Status\">SVS Ventures IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is SVS Ventures IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->SVS Ventures IPO<!-- --> listing date is on <b>Thursday, January 12, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "SVS Ventures",
+  "issue_price": "₹20.00",
+  "issue_price_numeric": 20,
+  "issue_size": "56,22,000 shares (aggregating up to ₹11.24 Cr)",
+  "issue_size_numeric": 56,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "First Overseas Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/110/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/110/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "20.00"
+      },
+      "open": {
+        "bse_sme": "20.50"
+      },
+      "low": {
+        "bse_sme": "20.50"
+      },
+      "high": {
+        "bse_sme": "21.50"
+      },
+      "last_trade": {
+        "bse_sme": "21.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "January 12 2023",
+    "bse_script_code": "543745",
+    "isin": "INE0MID01012",
+    "final_issue_price": "20 per share"
+  },
+  "listing_date": "2023-01-11T18:30:00.000Z",
+  "listing_gains": "7.50%",
+  "listing_gains_numeric": 7.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/svs-ventures-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/svs-ventures-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 6000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "12000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/svs-ventures-ipo/1360/"
+    }
+  },
+  "lot_size": 6,
+  "opening_date": "2022-12-29T18:30:00.000Z",
+  "pageHeading": "SVS Ventures Limited IPO (SVS Ventures IPO) Detail",
+  "pageTitle": "SVS Ventures IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Shashikant Vedprakash Sharma is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "90.49%",
+      "share_holding_post_issue": "66.66%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "SVS Ventures IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/335567/SVS%20Ventures%20Limited_20221207160947.pdf"
+    },
+    {
+      "text": "SVS Ventures IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/svs-ventures-limited-sme-issue-prospectus_66610.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/svs-ventures-ipo/1360/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "SVS Ventures IPO offers 5622000 shares. 2670000 (47.49%) to NII 2670000 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "282000 (5.02%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2670000 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2670000 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5622000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:16.143Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The SVS Ventures IPO is subscribed 1.27 times on January 4 2023 6:57:00 PM (Day 4). The public issue subscribed 2.01 times in the retail category [.] times in the QIB category and 0.53 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.53",
+        "shares_offered": "2670000",
+        "shares_bid_for": "1428000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.01",
+        "shares_offered": "2670000",
+        "shares_bid_for": "5358000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.27",
+        "shares_offered": "5340000",
+        "shares_bid_for": "6786000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 4 2023",
+    "tentative_allotment": "Mon Jan 9 2023",
+    "initiation_of_refunds": "Tue Jan 10 2023",
+    "credit_of_shares_to_demat": "Wed Jan 11 2023"
+  },
+  "updatedAt": "2025-04-19T04:38:35.559Z",
+  "updated_at": "2025-04-18T18:01:16.143Z",
+  "year": 2022,
+  "worst_listing_gains": "7.50%",
+  "worst_listing_gains_numeric": 7.5
+}

@@ -1,0 +1,510 @@
+{
+  "_id": "680249ff3ccffd1c7912c7ab",
+  "ipo_id": "2024_niva_bupa_health_insurance_company_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:18:47.204Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/niva-bupa-health-insurance-ipo/1899/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2008, Niva Bupa Health Insurance Company Limited is a joint venture between the Bupa Group and Fettle Tone LLP that provides insurance in the health sector.</p>\n<p>The company offers a holistic proposition by providing customers access to a comprehensive health ecosystem and service capabilities through its Niva Bupa Health mobile application and website.</p>\n<div>The company's products are broadly categorized into</div>\n<ol>\n<li>Retail products designed for individuals and families.</li>\n<li>Group products intended for employers and employees,</li>\n</ol>\n<p>As of March 31 2024, the company had 14.73 million active lives insured.</p>\n<p>As of March 31, 2024, the company is present across 22 states and four union territories in India.</p>\n<p>From Fiscal Year 2022 to Fiscal Year 2024, the overall GWP grew at a CAGR of 41.27%, while GWP from retail health increased by 33.41%.</p>\n<div>As of March 31, 2024, the telemarketing sales team has 410 employees. It uses machine learning lead scoring, product recommendations, and a real-time CRM dashboard to engage customers and drive conversions.</div>\n<p>Competitive Strength:</p>\n<ul>\n<li>Diverse product range to suit customer's needs.</li>\n<li>An automated approach to customer service driven by technology.</li>\n<li>\n<div>Bupa parentage and brand associated with health insurance and healthcare</div>\n</li>\n<li>\n<div>The company's expertise and experience in claims and provider management.</div>\n</li>\n</ul>\n<div>As of March 31, 2024, the company's technology function had 126 employees who focused on developing digital assets, software, and mobile applications.</div>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Niva Bupa Health Insurance Company Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "6542.06",
+          "6191.87",
+          "3876.57",
+          "2738.44"
+        ],
+        [
+          "Revenue",
+          "1124.90",
+          "4118.63",
+          "2859.24",
+          "1884.54"
+        ],
+        [
+          "Profit After Tax",
+          "-18.82",
+          "81.85",
+          "12.54",
+          "-196.53"
+        ],
+        [
+          "Net Worth",
+          "2031.77",
+          "2049.59",
+          "831.12",
+          "507.65"
+        ],
+        [
+          "Reserves and Surplus",
+          "1282.44",
+          "1282.02",
+          "334.26",
+          "125.40"
+        ],
+        [
+          "Total Borrowing",
+          "250.00",
+          "250.00",
+          "250.00",
+          "250.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Niva bupa health insurance company limited Stock Quote & Charts",
+      "sanitizedHeading": "niva_bupa_health_insurance_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "Debt/Equity",
+          "0.12"
+        ],
+        [
+          "RoNW",
+          "-0.92"
+        ],
+        [
+          "Price to Book Value",
+          "6.14"
+        ]
+      ]
+    },
+    {
+      "heading": "Niva bupa health insurance company limited Stock Quote & Charts",
+      "sanitizedHeading": "niva_bupa_health_insurance_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "0.48",
+          "-0.42"
+        ],
+        [
+          "P/E (x)",
+          "153.7",
+          "-177.74"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Niva Bupa Health Insurance IPO raises Rs 990.00 crore from anchor investors. Niva Bupa Health Insurance IPO Anchor bid date is November 6 2024. Niva Bupa Health Insurance IPO Anchor Investors list",
+    "list_link": {
+      "text": "Niva Bupa Health Insurance IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/niva-nupa-anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "February 10 2025",
+      "shares_offered": "133783783",
+      "anchor_portion_size": "990.00"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "November 7, 2024 to November 11, 2024",
+    "ipoListingDate": "Thu, Nov 14, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹74.00",
+    "lotSize": "200 Shares",
+    "issueSize": "29,72,97,297 shares (aggregating up to ₹2,200.00 Cr)",
+    "freshIssue": "10,81,08,108 shares (aggregating up to ₹800.00 Cr)",
+    "offerForSale": "18,91,89,189 shares of ₹10 (aggregating up to ₹1,400.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Nov 7, 2024",
+    "ipoCloseDate": "Mon, Nov 11, 2024",
+    "initiationOfRefunds": "Wed, Nov 13, 2024",
+    "creditOfSharesToDemat": "Wed, Nov 13, 2024",
+    "shareHoldingPreIssue": "1,70,01,22,985 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,70,01,22,985 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "88.98%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,80,82,31,093 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,80,82,31,093 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.37%"
+      }
+    ]
+  },
+  "closing_date": "2024-11-10T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 1246354900",
+    "email": "investor@nivabupa.com",
+    "full_address": "Niva Bupa Health Insurance Company Limited, C-98 1st Floor, Lajpat Nagar Part 1, South Delhi New Delhi-110024",
+    "website": "https://www.nivabupa.com/"
+  },
+  "createdAt": "2025-04-18T12:47:59.348Z",
+  "faqs": [
+    {
+      "question": "What is the Niva Bupa Health Insurance IPO?",
+      "answer": "<div itemprop=\"text\"><p>Niva Bupa Health Insurance IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->297297297<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->2,200.00<!-- --> Crores. The issue is priced at <span>₹74 per share</span>. The minimum order quantity is <!-- -->200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 7, 2024</b>, and <b>closes on <!-- -->November 11, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Niva Bupa Health Insurance IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Niva Bupa Health Insurance IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Niva Bupa Health Insurance IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Niva Bupa Health Insurance IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Niva Bupa Health Insurance IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Niva Bupa Health Insurance IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Niva Bupa Health Insurance IPO opens on November 7, 2024 and closes on November 11, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Niva Bupa Health Insurance IPO?",
+      "answer": "<div itemprop=\"text\"><p>Niva Bupa Health Insurance IPO<!-- --> <b>lot size is <!-- -->200</b>, and the <b>minimum amount required is <span>₹14,800</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Niva Bupa Health Insurance IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Niva Bupa Health Insurance IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Niva Bupa Health Insurance IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Niva Bupa Health Insurance IPO<!-- --> will be done on <!-- -->Tuesday, November 12, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, November 13, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/niva-bupa-health-insurance-ipo/1899/\" title=\"Niva Bupa Health Insurance IPO Allotment Status\">Niva Bupa Health Insurance IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Niva Bupa Health Insurance IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Niva Bupa Health Insurance IPO<!-- --> listing date is on <b>Thursday, November 14, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Niva Bupa Health Insurance Company",
+  "issue_price": "₹74.00",
+  "issue_price_numeric": 74,
+  "issue_size": "29,72,97,297 shares (aggregating up to ₹2,200.00 Cr)",
+  "issue_size_numeric": 29,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Morgan Stanley India Company Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/31/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/31/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Hdfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/82/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/82/"
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "74.00"
+      },
+      "open": {
+        "bse": "78.50"
+      },
+      "low": {
+        "bse": "73.60"
+      },
+      "high": {
+        "bse": "80.94"
+      },
+      "last_trade": {
+        "bse": "74.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 14 2024",
+    "bse_script_code": "544286",
+    "nse_symbol": "NIVABUPA",
+    "isin": "INE995S01015",
+    "final_issue_price": "74 per share"
+  },
+  "listing_date": "2024-11-13T18:30:00.000Z",
+  "listing_gains": "0.00%",
+  "listing_gains_numeric": 0,
+  "logo": "https://www.chittorgarh.net/images/ipo/niva_bupa_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/niva_bupa_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "200",
+        "amount": "14800"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "2600",
+        "amount": "192400"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "2800",
+        "amount": "207200"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "13400",
+        "amount": "991600"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "13600",
+        "amount": "1006400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/niva-bupa-health-insurance-ipo/1899/"
+    }
+  },
+  "lot_size": 200,
+  "opening_date": "2024-11-06T18:30:00.000Z",
+  "pageHeading": "Niva Bupa Health Insurance Company Limited IPO (Niva Bupa Health Insurance IPO) Detail",
+  "pageTitle": "Niva Bupa Health Insurance IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The company promoter is Bupa Singapore Holdings Pte. Ltd and Bupa Investments Overseas Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "88.98%",
+      "share_holding_post_issue": "73.37%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Niva Bupa Health Insurance IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2024/niva-bupa-health-insurance-company-limited_84557.html"
+    },
+    {
+      "text": "Niva Bupa Health Insurance IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2024/niva-bupa-health-insurance-company-limited-rhp_88189.html"
+    },
+    {
+      "text": "Anchor Investors in Niva Bupa Health Insurance IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/niva-nupa-anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "7",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "3",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/niva-bupa-health-insurance-ipo/1899/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "nivabupa.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Niva Bupa Health Insurance IPO offers 297297298 shares. 89189190 (30.00%) to QIB 44594595 (15.00%) to NII 29729730 (10.00%) to RII and 133783783 (45.00%) to Anchor investors. 148648 RIIs will receive minimum 200 shares and 5308 (sNII) and 10617 (bNII) will receive minimum 2800 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "133783783 (45.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "89189190 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "44594595 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "29729730 (10.00%)",
+        "maximum_allottees": "10617"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "14864865 (5.00%)",
+        "maximum_allottees": "5308"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "29729730 (10.00%)",
+        "maximum_allottees": "148648"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "297297298 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.347Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Niva Bupa Health Insurance IPO is subscribed 1.9 times on November 11 2024 6:19:08 PM (Day 3). The public issue subscribed 2.88 times in the retail category 2.17 times in the QIB category and 0.71 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "2.17",
+        "shares_offered": "89189190",
+        "shares_bid_for": "193848200"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.71",
+        "shares_offered": "44594595",
+        "shares_bid_for": "31822400"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "0.7",
+        "shares_offered": "29729730",
+        "shares_bid_for": "20818400"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "0.74",
+        "shares_offered": "14864865",
+        "shares_bid_for": "11004000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.88",
+        "shares_offered": "29729730",
+        "shares_bid_for": "85692400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.9",
+        "shares_offered": "163513515",
+        "shares_bid_for": "311363000"
+      }
+    },
+    "total_applications": "391443"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 11 2024",
+    "tentative_allotment": "Tue Nov 12 2024",
+    "initiation_of_refunds": "Wed Nov 13 2024",
+    "credit_of_shares_to_demat": "Wed Nov 13 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:03.771Z",
+  "updated_at": "2025-04-18T12:47:59.347Z",
+  "year": 2024,
+  "worst_listing_gains": "0.00%",
+  "worst_listing_gains_numeric": 0
+}

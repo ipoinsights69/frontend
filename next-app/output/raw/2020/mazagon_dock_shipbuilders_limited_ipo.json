@@ -1,0 +1,429 @@
+{
+  "_id": "6802917b3ccffd1c7912c9ab",
+  "ipo_id": "2020_mazagon_dock_shipbuilders_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:42:45.374Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/mazagon-dock-ipo/1064/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1934, Mazagon Dock Shipbuilders Ltd is the India's leading defence public sector undertaking shipyard under the Ministry of Defence. Mazagon Dock is primarily engaged in constructing and repairing warships and submarines for the MoD and other types of vessels i.e. cargo ships, multipurpose support vessels, barges and border outposts, tugs, dredgers, water tankers, etc. for commercial clients.  It is the only shipyard to build destroyers and conventional submarines to be used by the Indian Navy.</p><p>The business has 2 key operating divisions - Shipbuilding division that undertakes building and repairing of naval ships, whereas Submarine and heavy engineering division includes building, repairing, and refitting of diesel electric submarines. Till 2020, the company has built 795 vessels, including 25 warships, 4 missile boats, 3 submarines, 6 Leander class frigates, 3 Godavari class frigates, 3 Shivalik class frigates, 3 corvettes, and 6 destroyers.</p><p>Mazagon Dock shipyard is strategically located on the west coast of India, the sea route that connects Europe, Pacific Rim, and West Asia.</p><p><strong>Competitive Strength</strong></p><p>• India's leading public sector defence shipyard company.<br>• World class infrastructure facilities.<br>• Strategic location at Mumbai on the west coast of India.<br>• Strong order book and financial position.<br></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Mar-17"
+        ],
+        [
+          "Total Assets",
+          "209660.28",
+          "208479.34",
+          "193703.72",
+          "193911.65"
+        ],
+        [
+          "Total Revenue",
+          "55353.07",
+          "52046.74",
+          "50276.29",
+          "42748.63"
+        ],
+        [
+          "Profit After Tax",
+          "4770.59",
+          "5324.74",
+          "4961.73",
+          "5982.58"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 29, 2020 to October 1, 2020",
+    "ipoListingDate": "Mon, Oct 12, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹145.00",
+    "lotSize": "103 Shares",
+    "issueSize": "3,05,99,017 shares (aggregating up to ₹443.69 Cr)",
+    "offerForSale": "3,05,99,017 shares of ₹10 (aggregating up to ₹443.69 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Sep 29, 2020",
+    "ipoCloseDate": "Thu, Oct 1, 2020",
+    "initiationOfRefunds": "Thu, Oct 8, 2020",
+    "creditOfSharesToDemat": "Fri, Oct 9, 2020",
+    "shareHoldingPreIssue": "20,16,90,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "20,16,90,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "20,16,90,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "20,16,90,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "85%"
+      }
+    ]
+  },
+  "closing_date": "2020-09-30T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "91 22 2376 2000",
+    "email": "investor@mazdock.com",
+    "full_address": "Mazagon Dock Shipbuilders Limited, Dockyard Road Mazagon, Mumbai - 400010",
+    "website": "https://mazagondock.in/"
+  },
+  "createdAt": "2025-04-18T17:52:59.327Z",
+  "faqs": [
+    {
+      "question": "Does Mazagon Dock IPO have an employee discount?",
+      "answer": "<div itemprop=\"text\"><div><p>No, there is 'no discount' for employees in Mazagon IPO. They have an employee category that has 345,517 shares reserved for staff of the company.</p>\n</div></div><div class=\"mt-2 text-end\"><a title=\"Does Mazagon Dock IPO have an employee discount?\" href=\"/faq_pg/does-mazagon-dock-ipo-have-an-employee-discount/2545/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "Is there a discount for retail investors in Mazagon Dock IPO?",
+      "answer": "<div itemprop=\"text\"><div><p>There is no discount for retail investors in Mazagon IPO. The company has reserved 35% of the net offering for retail investors in the IPO.</p></div></div><div class=\"mt-2 text-end\"><a title=\"Is there a discount for retail investors in Mazagon Dock IPO?\" href=\"/faq_pg/is-there-a-discount-for-retail-investors-in-mazagon-dock-ipo/2546/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "What is the Mazagon Dock IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mazagon Dock IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->30599017<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->443.69<!-- --> Crores. The issue is priced at <span>₹145 per share</span>. The minimum order quantity is <!-- -->103<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 29, 2020</b>, and <b>closes on <!-- -->October 1, 2020</b>.</p><p>Alankit Assignments Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Mazagon Dock IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Mazagon Dock IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Mazagon Dock IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Mazagon Dock IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Mazagon Dock IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Mazagon Dock IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Mazagon Dock IPO opens on September 29, 2020 and closes on October 1, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Mazagon Dock IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mazagon Dock IPO<!-- --> <b>lot size is <!-- -->103</b>, and the <b>minimum amount required is <span>₹14,935</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Mazagon Dock IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Mazagon Dock IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Mazagon Dock IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Mazagon Dock IPO<!-- --> will be done on <!-- -->Wednesday, October 7, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, October 9, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/mazagon-dock-ipo/1064/\" title=\"Mazagon Dock IPO Allotment Status\">Mazagon Dock IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Mazagon Dock IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Mazagon Dock IPO<!-- --> listing date is on <b>Monday, October 12, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Mazagon Dock Shipbuilders",
+  "issue_price": "₹145.00",
+  "issue_price_numeric": 145,
+  "issue_size": "3,05,99,017 shares (aggregating up to ₹443.69 Cr)",
+  "issue_size_numeric": 3,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Dam Capital Advisors Ltd",
+      "url": "/report/ipo-lead-manager-review/112/30/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/30/"
+    },
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Yes Securities",
+      "url": "/report/ipo-lead-manager-review/112/136/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/136/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "145.00",
+        "nse": "145.00"
+      },
+      "open": {
+        "bse": "216.25",
+        "nse": "214.90"
+      },
+      "low": {
+        "bse": "173.00",
+        "nse": "171.95"
+      },
+      "high": {
+        "bse": "216.65",
+        "nse": "216.95"
+      },
+      "last_trade": {
+        "bse": "173.00",
+        "nse": "171.95"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "October 12 2020",
+    "bse_script_code": "543237",
+    "nse_symbol": "MAZDOCK",
+    "isin": "INE249Z01012",
+    "final_issue_price": "145 per share"
+  },
+  "listing_date": "2020-10-11T18:30:00.000Z",
+  "listing_gains": "19.31%",
+  "listing_gains_numeric": 19.31,
+  "logo": "https://www.chittorgarh.net/images/ipo/mazagon_dock_ipo_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/mazagon_dock_ipo_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 103 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "103",
+        "amount": "14935"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1339",
+        "amount": "194155"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1442",
+        "amount": "209090"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "6798",
+        "amount": "985710"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "6901",
+        "amount": "1000645"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/mazagon-dock-ipo/1064/"
+    }
+  },
+  "lot_size": 103,
+  "opening_date": "2020-09-28T18:30:00.000Z",
+  "pageHeading": "Mazagon Dock Shipbuilders Limited IPO (Mazagon Dock IPO) Detail",
+  "pageTitle": "Mazagon Dock IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The President of India acting through the Ministry of Defence GoI is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "85%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Mazagon Dock IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2018/mazagon-dock-shipbuilders-limited_38506.html"
+    },
+    {
+      "text": "Mazagon Dock IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2020/mazagon-dock-shipbuilders-limited_47800.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "21",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/mazagon-dock-ipo/1064/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Alankit Assignments Ltd",
+    "phone": "(011) 4254 1234",
+    "email": "abhijitd@alankit.com",
+    "website": "http://ipo.alankit.com/"
+  },
+  "reservation": {
+    "summary": "Mazagon Dock IPO offers 30599017 shares. 15126750 (49.44%) to QIB 4538025 (14.83%) to NII 10588725 (34.60%) to RII 345517 (1.13%) to employees. 102803 RIIs will receive minimum 103 shares and (sNII) and (bNII) will receive minimum 1442 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "15126750 (49.44%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4538025 (14.83%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "10588725 (34.60%)",
+        "maximum_allottees": "102803"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "345517 (1.13%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "30599017 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:59.327Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Mazagon Dock IPO is subscribed 157.41 times on October 1 2020 6:00:07 PM (Day 3). The public issue subscribed 35.63 times in the retail category 89.71 times in the QIB category and 678.88 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "89.71",
+        "shares_offered": "15126750",
+        "shares_bid_for": "1357040759"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "678.88",
+        "shares_offered": "4538025",
+        "shares_bid_for": "3080765638"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "35.63",
+        "shares_offered": "10588725",
+        "shares_bid_for": "377313308"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "3.88",
+        "shares_offered": "345517",
+        "shares_bid_for": "1339412"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "157.41",
+        "shares_offered": "30599017",
+        "shares_bid_for": "4816459117"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 1 2020",
+    "tentative_allotment": "Wed Oct 7 2020",
+    "initiation_of_refunds": "Thu Oct 8 2020",
+    "credit_of_shares_to_demat": "Fri Oct 9 2020"
+  },
+  "updatedAt": "2025-04-19T04:38:00.246Z",
+  "updated_at": "2025-04-18T17:52:59.327Z",
+  "year": 2020,
+  "worst_listing_gains": "19.31%",
+  "worst_listing_gains_numeric": 19.31
+}

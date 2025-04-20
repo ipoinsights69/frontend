@@ -1,0 +1,457 @@
+{
+  "_id": "68028e9b3ccffd1c7912c8d9",
+  "ipo_id": "2023_digikore_studios_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:29:38.126Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/digikore-studios-ipo/1509/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2000, Digikore Studios Limited is a visual effects studio that offers a full suite of visual effects services.</p>\n<p>The company offers Visual Effects (VFX) services for Films, Web Series, TV Series, Documentaries, and Commercials. Some of the notable works of Digikore Studios include Thor: Love and Thunder, Black Panther: Wakanda Forever, Glass Onion: A Knives Out Mystery, Deadpool, Star Trek, Jumanji, Stranger Things, The Last Ship, Titanic, Gosht Rider: Spirit of Vengeance, Transformer: Age of Extinction, Crouching Tiger, Hidden Dragon: Sword of Destiny, etc.</p>\n<p>Digikore Studios' clientele mainly comes from India, Australia, New Zealand, the US, and European markets.</p>\n<p>The company recorded Rs. 3555.83 Lacs, Rs. 2488.39 Lacs, and Rs. 615.53 Lacs in Total Revenue in fiscal 2023, 2022, and 2021 respectively.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023",
+        "30 Jun 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "797.83",
+          "825.24",
+          "1932.41",
+          "2518.83"
+        ],
+        [
+          "Revenue",
+          "615.53",
+          "2488.39",
+          "3692.38",
+          "1186.49"
+        ],
+        [
+          "Profit After Tax",
+          "1.80",
+          "46.54",
+          "389.17",
+          "270.89"
+        ],
+        [
+          "Net Worth",
+          "106.94",
+          "153.48",
+          "542.66",
+          "813.30"
+        ],
+        [
+          "Reserves and Surplus",
+          "-11.46",
+          "35.08",
+          "424.26",
+          "694.30"
+        ],
+        [
+          "Total Borrowing",
+          null,
+          "349.46",
+          "608.55",
+          "912.25"
+        ]
+      ]
+    },
+    {
+      "heading": "Digikore Studios Limited Stock Quote & Charts",
+      "sanitizedHeading": "digikore_studios_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "74.03%"
+        ],
+        [
+          "ROCE",
+          "92.23%"
+        ],
+        [
+          "Debt/Equity",
+          "1.03"
+        ],
+        [
+          "RoNW",
+          "74.03%"
+        ]
+      ]
+    },
+    {
+      "heading": "Digikore Studios Limited Stock Quote & Charts",
+      "sanitizedHeading": "digikore_studios_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "36.95",
+          null
+        ],
+        [
+          "P/E (x)",
+          "4.63",
+          "9.99"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Digikore Studios IPO raises Rs 8.22 crore from anchor investors. Digikore Studios IPO Anchor bid date is September 22 2023. Digikore Studios IPO Anchor Investors list",
+    "list_link": {
+      "text": "Digikore Studios IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/digikore-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "December 28 2023",
+      "shares_offered": "480800",
+      "anchor_portion_size": "8.22"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 25, 2023 to September 27, 2023",
+    "ipoListingDate": "Wed, Oct 4, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹171.00",
+    "lotSize": "800 Shares",
+    "issueSize": "17,82,400 shares (aggregating up to ₹30.48 Cr)",
+    "freshIssue": "12,60,800 shares (aggregating up to ₹21.56 Cr)",
+    "offerForSale": "5,21,600 shares of ₹10 (aggregating up to ₹8.92 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,78,400 shares",
+      "maker_name": "Gretex Share Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/247/"
+    },
+    "ipoOpenDate": "Mon, Sep 25, 2023",
+    "ipoCloseDate": "Wed, Sep 27, 2023",
+    "initiationOfRefunds": "Tue, Oct 3, 2023",
+    "creditOfSharesToDemat": "Tue, Oct 3, 2023",
+    "shareHoldingPreIssue": "50,72,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "50,72,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "93.38%"
+      }
+    ],
+    "shareHoldingPostIssue": "63,32,800 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "63,32,800 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.55%"
+      }
+    ]
+  },
+  "closing_date": "2023-09-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "020-35553555",
+    "email": "cs@digikore.com",
+    "full_address": "Digikore Studios Limited, C/o Poona Bottling Company Private Limited., 410/1 411/2 Mumbai Pune Road, Dapodi Pune - 411012",
+    "website": "https://digikorevfx.com/"
+  },
+  "createdAt": "2025-04-18T17:40:43.821Z",
+  "faqs": [
+    {
+      "question": "What is the Digikore Studios IPO?",
+      "answer": "<div itemprop=\"text\"><p>Digikore Studios IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1782400<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->30.48<!-- --> Crores. The issue is priced at <span>₹171 per share</span>. The minimum order quantity is <!-- -->800<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 25, 2023</b>, and <b>closes on <!-- -->September 27, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Digikore Studios IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Digikore Studios IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Digikore Studios IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Digikore Studios IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Digikore Studios IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Digikore Studios IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Digikore Studios IPO opens on September 25, 2023 and closes on September 27, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Digikore Studios IPO?",
+      "answer": "<div itemprop=\"text\"><p>Digikore Studios IPO<!-- --> <b>lot size is <!-- -->800</b>, and the <b>minimum amount required is <span>₹1,36,800</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Digikore Studios IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Digikore Studios IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Digikore Studios IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Digikore Studios IPO<!-- --> will be done on <!-- -->Friday, September 29, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, October 3, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/digikore-studios-ipo/1509/\" title=\"Digikore Studios IPO Allotment Status\">Digikore Studios IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Digikore Studios IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Digikore Studios IPO<!-- --> listing date is on <b>Wednesday, October 4, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Digikore Studios",
+  "issue_price": "₹171.00",
+  "issue_price_numeric": 171,
+  "issue_size": "17,82,400 shares (aggregating up to ₹30.48 Cr)",
+  "issue_size_numeric": 17,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Sarthi Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/104/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/104/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "171.00"
+      },
+      "open": {
+        "nse_sme": "270.00"
+      },
+      "low": {
+        "nse_sme": "270.00"
+      },
+      "high": {
+        "nse_sme": "283.50"
+      },
+      "last_trade": {
+        "nse_sme": "283.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 4 2023",
+    "nse_symbol": "DIGIKORE",
+    "isin": "INE0QJ901011",
+    "final_issue_price": "171 per share"
+  },
+  "listing_date": "2023-10-03T18:30:00.000Z",
+  "listing_gains": "65.79%",
+  "listing_gains_numeric": 65.79,
+  "logo": "https://www.chittorgarh.net/images/ipo/digikore-studios-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/digikore-studios-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 800 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "800",
+        "amount": "136800"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "800",
+        "amount": "136800"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "1600",
+        "amount": "273600"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/digikore-studios-ipo/1509/"
+    }
+  },
+  "lot_size": 800,
+  "opening_date": "2023-09-24T18:30:00.000Z",
+  "pageHeading": "Digikore Studios Limited IPO (Digikore Studios IPO) Detail",
+  "pageTitle": "Digikore Studios IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Promoters of the company are Mr. Abhishek Rameshkumar More and M/s. Shree M P J Cement Works LLP.",
+    "holdings": {
+      "share_holding_pre_issue": "93.38%",
+      "share_holding_post_issue": "66.55%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Digikore Studios IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Digikore_DRHP.zip"
+    },
+    {
+      "text": "Digikore Studios IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Digikore_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Digikore Studios IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/digikore-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/digikore-studios-ipo/1509/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "investor@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Digikore Studios IPO offers 1782400 shares. 320800 (18.00%) to QIB 240800 (13.51%) to NII 561600 (31.51%) to RII 480800 (26.97%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "480800 (26.97%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "178400 (10.01%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "320800 (18.00%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "240800 (13.51%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "561600 (31.51%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1782400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:43.821Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Digikore Studios IPO is subscribed 281.58 times on September 27 2023 7:30:00 PM (Day 3). The public issue subscribed 370.17 times in the retail category 65.63 times in the QIB category and 362.65 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "65.63",
+        "shares_offered": "320800",
+        "shares_bid_for": "21052800"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "362.65",
+        "shares_offered": "240800",
+        "shares_bid_for": "87327200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "370.17",
+        "shares_offered": "561600",
+        "shares_bid_for": "207885600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "281.58",
+        "shares_offered": "1123200",
+        "shares_bid_for": "316265600"
+      }
+    },
+    "total_applications": "259857",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 27 2023",
+    "tentative_allotment": "Fri Sep 29 2023",
+    "initiation_of_refunds": "Tue Oct 3 2023",
+    "credit_of_shares_to_demat": "Tue Oct 3 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:30.510Z",
+  "updated_at": "2025-04-18T17:40:43.821Z",
+  "year": 2023,
+  "worst_listing_gains": "65.79%",
+  "worst_listing_gains_numeric": 65.79
+}

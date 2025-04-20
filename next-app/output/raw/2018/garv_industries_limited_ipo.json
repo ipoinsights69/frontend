@@ -1,0 +1,336 @@
+{
+  "_id": "680298583ccffd1c7912cbb2",
+  "ipo_id": "2018_garv_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:15:24.454Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/garv-industries-ipo/858/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2017, Delhi based Garv Industries Limited, is engaged in the business of multiproduct trading and distribution of wide range of aluminum and textile products.</p><p>The Company deals with a range of products like Aluminum Products viz. Aluminium Sheets/coils/extrusions/grill/ladders/ rolled products and textiles viz. cotton fabrics which have wide-scale applications in both B2B and B2C segments. </p><p>The company has 10 employees on its payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lacs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Jan-18"
+        ],
+        [
+          "Total Assets",
+          "1036.35"
+        ],
+        [
+          "Total Revenue",
+          "1459.18"
+        ],
+        [
+          "Profit After Tax",
+          "11.43"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "April 12, 2018 to April 17, 2018",
+    "ipoListingDate": "Wed, Apr 25, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹10.00",
+    "lotSize": "10,000 Shares",
+    "issueSize": "32,00,000 shares (aggregating up to ₹3.20 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "1,70,000 shares",
+    "ipoOpenDate": "Thu, Apr 12, 2018",
+    "ipoCloseDate": "Tue, Apr 17, 2018",
+    "initiationOfRefunds": "Mon, Apr 23, 2018",
+    "creditOfSharesToDemat": "Tue, Apr 24, 2018",
+    "shareHoldingPreIssue": "70,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "70,00,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,02,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,02,00,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-04-16T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 - 11 - 2362 9277",
+    "email": "info@garvindustries.com",
+    "full_address": "Garv Industries Limited, B - 502 5th Floor, Statesman House 147, Barakhamba Road",
+    "website": "http://www.garvindustries.com/"
+  },
+  "createdAt": "2025-04-18T18:22:16.615Z",
+  "faqs": [
+    {
+      "question": "What is the Garv Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Garv Industries IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3200000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->3.20<!-- --> Crores. The issue is priced at <span>₹10 per share</span>. The minimum order quantity is <!-- -->10000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->April 12, 2018</b>, and <b>closes on <!-- -->April 17, 2018</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Garv Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Garv Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Garv Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Garv Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Garv Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Garv Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Garv Industries IPO opens on April 12, 2018 and closes on April 17, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Garv Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Garv Industries IPO<!-- --> <b>lot size is <!-- -->10000</b>, and the <b>minimum amount required is <span>₹1,00,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Garv Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Garv Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Garv Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Garv Industries IPO<!-- --> will be done on <!-- -->Friday, April 20, 2018<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, April 24, 2018<!-- -->. Check the <a href=\"/ipo_allotment_status/garv-industries-ipo/858/\" title=\"Garv Industries IPO Allotment Status\">Garv Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Garv Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Garv Industries IPO<!-- --> listing date is on <b>Wednesday, April 25, 2018</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Garv Industries",
+  "issue_price": "₹10.00",
+  "issue_price_numeric": 10,
+  "issue_size": "32,00,000 shares (aggregating up to ₹3.20 Cr)",
+  "issue_size_numeric": 32,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Aryaman Financial Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/77/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/77/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "10.00"
+      },
+      "open": {
+        "bse_sme": "10.00"
+      },
+      "low": {
+        "bse_sme": "10.00"
+      },
+      "high": {
+        "bse_sme": "10.30"
+      },
+      "last_trade": {
+        "bse_sme": "10.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "April 25 2018",
+    "bse_script_code": "541276",
+    "nse_symbol": "HARDWYN",
+    "isin": "INE626Z01011",
+    "final_issue_price": "10 per share"
+  },
+  "listing_date": "2018-04-24T18:30:00.000Z",
+  "listing_gains": "0.00%",
+  "listing_gains_numeric": 0,
+  "logo": "https://www.chittorgarh.net/images/ipo/garv-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/garv-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 10000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "10000",
+        "amount": "100000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "2",
+        "shares": "20000",
+        "amount": "200000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "3",
+        "shares": "30000",
+        "amount": "300000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/garv-industries-ipo/858/"
+    }
+  },
+  "lot_size": 10,
+  "opening_date": "2018-04-11T18:30:00.000Z",
+  "pageHeading": "Garv Industries Limited IPO (Garv Industries IPO) Detail",
+  "pageTitle": "Garv Industries IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Garv Industries IPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/201839114246Draft%20Prospectus%20-%20Garv%20Industries%20Limited.pdf"
+    },
+    {
+      "text": "Garv Industries IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2018/garv-industries-limited_39369.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/garv-industries-ipo/858/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "virenr@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Garv Industries IPO offers 3370000 shares. 1591500 (47.23%) to NII 1591500 (47.23%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "170000 (5.04%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1591500 (47.23%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1591500 (47.23%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "170000 (5.04%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3370000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:16.615Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Garv Industries IPO is subscribed 2.13 times on April 17 2018 5:00:00 PM (Day 3). The public issue subscribed 1.89 times in the retail category [.] times in the QIB category and 2.17 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.17",
+        "shares_offered": "1591500",
+        "shares_bid_for": "3460000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.89",
+        "shares_offered": "1591500",
+        "shares_bid_for": "3000000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.13",
+        "shares_offered": "3030000",
+        "shares_bid_for": "6460000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on April 17 2018",
+    "tentative_allotment": "Fri Apr 20 2018",
+    "initiation_of_refunds": "Mon Apr 23 2018",
+    "credit_of_shares_to_demat": "Tue Apr 24 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:11.659Z",
+  "updated_at": "2025-04-18T18:22:16.615Z",
+  "year": 2018,
+  "worst_listing_gains": "0.00%",
+  "worst_listing_gains_numeric": 0
+}

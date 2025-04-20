@@ -1,0 +1,469 @@
+{
+  "_id": "680249ff3ccffd1c7912c7a9",
+  "ipo_id": "2024_maxposure_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": true,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:42:57.755Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/maxposure-ipo/1618/"
+  },
+  "about": {
+    "details": "<p>Incorporated in August 17, 2006 Maxposure Limited is a company that provides personalized media and entertainment services across various platforms. They specialize in Inflight Entertainment, Content Marketing, Technology, and Advertising.</p>\n<p>The Mumbai-based lab facility of the company offers a range of services, including custom editing, metadata creation, duplication, audio enhancement, encoding/transcoding in any format for any system, and post-production services.</p>\n<p>The services are categorized into four main groups: inflight entertainment, content marketing, technology, and advertising.</p>\n<p>\"The company has a wide sales network across India and has established offices in Delhi, Mumbai, Bengaluru, and Kolkata. It has also successfully launched and managed projects outside India, particularly in the Indian subcontinent and the Middle East. These projects include Gulf Air (Kingdom of Bahrain), Air Arabia (Sharjah), VFS (UAE), Jazeera Airways (Kuwait), among others.&nbsp;</p>\n<p>During the three-month period ending September 30, 2023, and the financial years 2023, 2022, and 2021, the company earned revenues of ₹1726.28 lakhs, ₹2835.08 lakhs, ₹2815.85 lakhs, and ₹1940.76 lakhs, respectively, from domestic operations. The company also earned revenues of ₹289.86 lakhs, ₹343.84 lakhs, ₹452.15 lakhs, and ₹75.09 lakhs, respectively, from international operations.\"</p>\n<p>The company currently has 81 employees on its payroll as of October 31, 2023.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Maxposure Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5355.21",
+          "4878.51",
+          "4485.18",
+          "4009.97"
+        ],
+        [
+          "Revenue",
+          "2059.05",
+          "3355.55",
+          "3321.31",
+          "2247.27"
+        ],
+        [
+          "Profit After Tax",
+          "370.83",
+          "441.21",
+          "34.96",
+          "36.22"
+        ],
+        [
+          "Net Worth",
+          "3478.21",
+          "3114.34",
+          "2666.17",
+          "2631.21"
+        ],
+        [
+          "Reserves and Surplus",
+          "3146.19",
+          "2775.36",
+          "2334.15",
+          "2299.19"
+        ],
+        [
+          "Total Borrowing",
+          "462.31",
+          "333.76",
+          "293.65",
+          "418.52"
+        ]
+      ]
+    },
+    {
+      "heading": "Maxposure Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "14.39%"
+        ],
+        [
+          "ROCE",
+          "19.55%"
+        ],
+        [
+          "Debt/Equity",
+          "0.03"
+        ],
+        [
+          "RoNW",
+          "14.20%"
+        ],
+        [
+          "Price to Book Value",
+          "1.59"
+        ]
+      ]
+    },
+    {
+      "heading": "Maxposure Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.66",
+          "3.26"
+        ],
+        [
+          "P/E (x)",
+          "12.42",
+          "10.12"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Maxposure IPO raises Rs 5.61 crore from anchor investors. Maxposure IPO Anchor bid date is January 12 2024. Maxposure IPO Anchor Investors list",
+    "list_link": {
+      "text": "Maxposure IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/maxposure-anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "April 17 2024",
+      "shares_offered": "1700000",
+      "anchor_portion_size": "5.61"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "January 15, 2024 to January 17, 2024",
+    "ipoListingDate": "Tue, Jan 23, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹33.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "61,40,000 shares (aggregating up to ₹20.26 Cr)",
+    "freshIssue": "61,40,000 shares (aggregating up to ₹20.26 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,72,000 shares",
+      "maker_name": "Giriraj Stock Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/245/"
+    },
+    "ipoOpenDate": "Mon, Jan 15, 2024",
+    "ipoCloseDate": "Wed, Jan 17, 2024",
+    "initiationOfRefunds": "Fri, Jan 19, 2024",
+    "creditOfSharesToDemat": "Fri, Jan 19, 2024",
+    "shareHoldingPreIssue": "1,66,00,950 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,66,00,950 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "84.35%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,27,40,950 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,27,40,950 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "61.58%"
+      }
+    ]
+  },
+  "closing_date": "2024-01-16T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 114 301 1111",
+    "email": "info@maxposuremedia.com",
+    "full_address": "Maxposure Limited, Ground Floor 62, Okhla Industrial Estate Phase-3, South Delhi New Delhi - 110 020",
+    "website": "https://maxposuremedia.com/"
+  },
+  "createdAt": "2025-04-18T12:47:59.150Z",
+  "faqs": [
+    {
+      "question": "What is the Maxposure IPO?",
+      "answer": "<div itemprop=\"text\"><p>Maxposure IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6140000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->20.26<!-- --> Crores. The issue is priced at <span>₹33 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 15, 2024</b>, and <b>closes on <!-- -->January 17, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Maxposure IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Maxposure IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Maxposure IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Maxposure IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Maxposure IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Maxposure IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Maxposure IPO opens on January 15, 2024 and closes on January 17, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Maxposure IPO?",
+      "answer": "<div itemprop=\"text\"><p>Maxposure IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,32,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Maxposure IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Maxposure IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Maxposure IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Maxposure IPO<!-- --> will be done on <!-- -->Thursday, January 18, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, January 19, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/maxposure-ipo/1618/\" title=\"Maxposure IPO Allotment Status\">Maxposure IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Maxposure IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Maxposure IPO<!-- --> listing date is on <b>Tuesday, January 23, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Maxposure",
+  "issue_price": "₹33.00",
+  "issue_price_numeric": 33,
+  "issue_size": "61,40,000 shares (aggregating up to ₹20.26 Cr)",
+  "issue_size_numeric": 61,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "GYR Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/182/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/182/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "33.00"
+      },
+      "open": {
+        "nse_sme": "145.00"
+      },
+      "low": {
+        "nse_sme": "137.75"
+      },
+      "high": {
+        "nse_sme": "145.00"
+      },
+      "last_trade": {
+        "nse_sme": "137.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "January 23 2024",
+    "nse_symbol": "MAXPOSURE",
+    "isin": "INE0ECC01022",
+    "final_issue_price": "33 per share"
+  },
+  "listing_date": "2024-01-22T18:30:00.000Z",
+  "listing_gains": "317.42%",
+  "listing_gains_numeric": 317.42,
+  "logo": "https://www.chittorgarh.net/images/ipo/maxposure_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/maxposure_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "132000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "132000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "264000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/maxposure-ipo/1618/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2024-01-14T18:30:00.000Z",
+  "pageHeading": "Maxposure Limited IPO (Maxposure IPO) Detail",
+  "pageTitle": "Maxposure IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The promoter of the company are Prakash Johari and Sweta Johari.",
+    "holdings": {
+      "share_holding_pre_issue": "84.35%",
+      "share_holding_post_issue": "61.58%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Maxposure IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/MaxposureLimited_DRHP.zip"
+    },
+    {
+      "text": "Maxposure IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/MaxposureLimited_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Maxposure IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/maxposure-anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/maxposure-ipo/1618/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Maxposure IPO offers 6140000 shares. 1140000 (18.57%) to QIB 880000 (14.33%) to NII 2048000 (33.36%) to RII and 1700000 (27.69%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1700000 (27.69%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "372000 (6.06%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1140000 (18.57%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "880000 (14.33%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2048000 (33.36%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6140000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.150Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Maxposure IPO is subscribed 987.47 times on January 17 2024 5:07:00 PM (Day 3). The public issue subscribed 1034.23 times in the retail category 162.35 times in the QIB category and 1947.55 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "162.35",
+        "shares_offered": "1140000",
+        "shares_bid_for": "185076000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1947.55",
+        "shares_offered": "880000",
+        "shares_bid_for": "1713844000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1034.23",
+        "shares_offered": "2048000",
+        "shares_bid_for": "2118112000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "987.47",
+        "shares_offered": "4068000",
+        "shares_bid_for": "4017032000"
+      }
+    },
+    "total_applications": "529528",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 17 2024",
+    "tentative_allotment": "Thu Jan 18 2024",
+    "initiation_of_refunds": "Fri Jan 19 2024",
+    "credit_of_shares_to_demat": "Fri Jan 19 2024"
+  },
+  "timeline": {
+    "summary": "Maxposure IPO opens on January 15 2024 and closes on January 17 2024.",
+    "schedule": {
+      "ipo_date": "5 PM on January 17 2024",
+      "tentative_allotment": "Thu Jan 18 2024",
+      "initiation_of_refunds": "Fri Jan 19 2024",
+      "credit_of_shares_to_demat": "Fri Jan 19 2024"
+    }
+  },
+  "updatedAt": "2025-04-19T04:37:03.497Z",
+  "updated_at": "2025-04-18T12:47:59.150Z",
+  "year": 2024,
+  "worst_listing_gains": "317.42%",
+  "worst_listing_gains_numeric": 317.42
+}

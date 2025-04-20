@@ -1,0 +1,373 @@
+{
+  "_id": "680298593ccffd1c7912cbe8",
+  "ipo_id": "2018_parin_furniture_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:12:24.668Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/parin-furniture-ipo/935/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2006, Gujarat based Parin Furniture Limited is a company engaged in the business of providing provider of a wide and exclusive range of furniture and lifestyle products. The product portfolio of the company includes a variety of furniture for homes, offices, hospitals and other institutions. </p><p>The company's business network is spread in 18 States with COCO Flagship Retail Stores in Ahmedabad, Rajkot, and Mumbai. Around 900 dealers associated with it. It has 4 warehouses in Rajkot, Surat, Mumbai, and Kolkata.</p><p>Parin Furniture has also entered into franchise agreements with other companies in Junagadh, Mehsana, and Hyderabad.</p><p>Its Subsidiary Company 'Pearl Furniture Private Limited' has a well-established manufacturing unit located at Rajkot. The facility is equipped with high tech equipment and design facility to manufacture various all types of furniture. </p><p>The company has 137 employees on its payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "4663.61",
+          "4334.86",
+          "3963.39",
+          "1948.67",
+          "1673.60"
+        ],
+        [
+          "Total Revenue",
+          "6459.34",
+          "5994.04",
+          "6178.46",
+          "2875.78",
+          "3002.76"
+        ],
+        [
+          "Profit After Tax",
+          "261.78",
+          "135.54",
+          "101.57",
+          "27.53",
+          "60.82"
+        ]
+      ]
+    },
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "5744.18"
+        ],
+        [
+          "Total Revenue",
+          "6532.36"
+        ],
+        [
+          "Profit After Tax",
+          "416.62"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 26, 2018 to September 28, 2018",
+    "ipoListingDate": "Tue, Oct 9, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹63.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "30,00,000 shares (aggregating up to ₹18.90 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "1,60,000 shares",
+    "ipoOpenDate": "Wed, Sep 26, 2018",
+    "ipoCloseDate": "Fri, Sep 28, 2018",
+    "initiationOfRefunds": "Fri, Oct 5, 2018",
+    "creditOfSharesToDemat": "Fri, Oct 5, 2018",
+    "shareHoldingPreIssue": "81,18,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "81,18,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,11,18,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,11,18,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-09-27T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-281-3300777",
+    "email": "cs@parinfurniture.com",
+    "full_address": "Parin Furniture Limited, Plot No. 6 Revenue Survey No. 149, National Highwayat Vavdi Gondal Road, Rajkot Gujarat - 360 004",
+    "website": "http://www.parinfurniture.com/"
+  },
+  "createdAt": "2025-04-18T18:22:17.435Z",
+  "faqs": [
+    {
+      "question": "What is the Parin Furniture IPO?",
+      "answer": "<div itemprop=\"text\"><p>Parin Furniture IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3000000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->18.90<!-- --> Crores. The issue is priced at <span>₹63 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 26, 2018</b>, and <b>closes on <!-- -->September 28, 2018</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Parin Furniture IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Parin Furniture IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Parin Furniture IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Parin Furniture IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Parin Furniture IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Parin Furniture IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Parin Furniture IPO opens on September 26, 2018 and closes on September 28, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Parin Furniture IPO?",
+      "answer": "<div itemprop=\"text\"><p>Parin Furniture IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,26,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Parin Furniture IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Parin Furniture IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Parin Furniture IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Parin Furniture IPO<!-- --> will be done on <!-- -->Thursday, October 4, 2018<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, October 5, 2018<!-- -->. Check the <a href=\"/ipo_allotment_status/parin-furniture-ipo/935/\" title=\"Parin Furniture IPO Allotment Status\">Parin Furniture IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Parin Furniture IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Parin Furniture IPO<!-- --> listing date is on <b>Tuesday, October 9, 2018</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Parin Furniture",
+  "issue_price": "₹63.00",
+  "issue_price_numeric": 63,
+  "issue_size": "30,00,000 shares (aggregating up to ₹18.90 Cr)",
+  "issue_size_numeric": 30,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "63.00"
+      },
+      "open": {
+        "nse_sme": "64.00"
+      },
+      "low": {
+        "nse_sme": "63.00"
+      },
+      "high": {
+        "nse_sme": "66.00"
+      },
+      "last_trade": {
+        "nse_sme": "64.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 9 2018",
+    "nse_symbol": "PARIN",
+    "isin": "INE00U801010",
+    "final_issue_price": "63 per share"
+  },
+  "listing_date": "2018-10-08T18:30:00.000Z",
+  "listing_gains": "3.02%",
+  "listing_gains_numeric": 3.02,
+  "logo": "https://www.chittorgarh.net/images/ipo/parin-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/parin-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "126000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "126000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "252000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/parin-furniture-ipo/935/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2018-09-25T18:30:00.000Z",
+  "pageHeading": "Parin Furniture Limited IPO (Parin Furniture IPO) Detail",
+  "pageTitle": "Parin Furniture IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Parin Furniture IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/DRHP_Parin_Furniture_Ltd.pdf"
+    },
+    {
+      "text": "Parin Furniture IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2018/parin-furniture-ltd_40597.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/parin-furniture-ipo/935/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Parin Furniture IPO offers 3000000 shares. 1420000 (47.33%) to NII 1420000 (47.33%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "160000 (5.33%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1420000 (47.33%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1420000 (47.33%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3000000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:17.434Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Parin Furniture IPO is subscribed 2.45 times on September 28 2018 6:00:00 PM (Day 3). The public issue subscribed 2.62 times in the retail category [.] times in the QIB category and 2.08 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.08",
+        "shares_offered": "1420000",
+        "shares_bid_for": "2950000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.62",
+        "shares_offered": "1420000",
+        "shares_bid_for": "3714000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.45",
+        "shares_offered": "2840000",
+        "shares_bid_for": "6948000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 28 2018",
+    "tentative_allotment": "Thu Oct 4 2018",
+    "initiation_of_refunds": "Fri Oct 5 2018",
+    "credit_of_shares_to_demat": "Fri Oct 5 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:19.432Z",
+  "updated_at": "2025-04-18T18:22:17.434Z",
+  "year": 2018,
+  "worst_listing_gains": "3.02%",
+  "worst_listing_gains_numeric": 3.02
+}

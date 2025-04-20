@@ -1,0 +1,494 @@
+{
+  "_id": "680249ff3ccffd1c7912c7c5",
+  "ipo_id": "2024_pelatro_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": true,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:22:00.347Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/pelatro-ipo/1856/"
+  },
+  "about": {
+    "details": "<p>Pelatro Limited offers a comprehensive customer engagement platform, mViva, which enables customer-centric interactions between companies or brands and their end users.</p>\n<p>The company helps businesses to accurately understand their customers' behavior and needs to improve interactions with end customers. The platform provides end-to-end capabilities and experiences, starting with data collection, analytics, intelligence gathering, audience selection, configuration, execution and reporting.</p>\n<p>The company's core product portfolio includes Campaign Management Solutions, Loyalty Management Solutions, Lead Management Solutions, and Data Monetization Solutions.</p>\n<p>As of May 31, 2024, the Customer Engagement Platform has been implemented or is in the implementation phase in 38 telecom networks in 30 countries, including India. Of these networks, 16 are in Asia, 5 in the Middle East, 15 in Africa, 1 in the Caribbean, and 1 in Europe. The company's customer base includes telecommunications companies, including their subsidiaries and/or companies that are part of their group and operate in various countries around the world. The company has also started to target banks and financial companies.</p>\n<p>Competitive strengths:</p>\n<ul>\n<li>Proprietary technology development and testing capabilities</li>\n<li>In-depth specialist knowledge</li>\n<li>End-to-end platform</li>\n<li>Highly referenceable customers</li>\n<li>An outstanding position in various markets, a fast-growing market with high barriers to entry.</li>\n<li>A profitable, cost-effective business model based on an asset-friendly, automated, and scalable platform</li>\n<li>Growth-oriented, global customer base</li>\n<li>Patented technology</li>\n<li>Experienced and dedicated key management personnel</li>\n</ul>\n<p>On May 31, 2024, the company employed 296 people.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Pelatro Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5780.92"
+        ],
+        [
+          "Revenue",
+          "5536.54"
+        ],
+        [
+          "Profit After Tax",
+          "-195.62"
+        ],
+        [
+          "Net Worth",
+          "1202.89"
+        ],
+        [
+          "Reserves and Surplus",
+          "502.89"
+        ],
+        [
+          "Total Borrowing",
+          "1867.58"
+        ]
+      ]
+    },
+    {
+      "heading": "Pelatro Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "-15.48%"
+        ],
+        [
+          "ROCE",
+          "3.85%"
+        ],
+        [
+          "Debt/Equity",
+          "1.55"
+        ],
+        [
+          "RoNW",
+          "-15.48%"
+        ],
+        [
+          "PAT Margin",
+          "-3.56"
+        ],
+        [
+          "Price to Book Value",
+          "11.64"
+        ]
+      ]
+    },
+    {
+      "heading": "Pelatro Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "-2.57",
+          "-1.88"
+        ],
+        [
+          "P/E (x)",
+          "-77.78",
+          "-106.4"
+        ]
+      ]
+    },
+    {
+      "heading": "Pelatro Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit after tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31/03/2024",
+          "5109.97",
+          "5915.34",
+          "541.46",
+          "1943.22",
+          "1243.22",
+          "1867.58"
+        ],
+        [
+          "31/03/2023",
+          "3080.04",
+          "4905.08",
+          "463.89",
+          "1324.79",
+          "1314.79",
+          "1347.86"
+        ],
+        [
+          "31/03/2022",
+          "1684.50",
+          "4088.01",
+          "357.03",
+          "855.92",
+          "845.92",
+          "512.87"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Pelatro IPO raises Rs 15.64 crore from anchor investors. Pelatro IPO Anchor bid date is September 13 2024. Pelatro IPO Anchor Investors list",
+    "list_link": {
+      "text": "Pelatro IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/pelatro_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "December 19 2024",
+      "shares_offered": "781800",
+      "anchor_portion_size": "15.64"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 16, 2024 to September 19, 2024",
+    "ipoListingDate": "Tue, Sep 24, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹200.00",
+    "lotSize": "600 Shares",
+    "issueSize": "27,99,000 shares (aggregating up to ₹55.98 Cr)",
+    "freshIssue": "27,99,000 shares (aggregating up to ₹55.98 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,40,400 shares",
+      "maker_name": "Shree Bahubali Stock Broking Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/345/"
+    },
+    "ipoOpenDate": "Mon, Sep 16, 2024",
+    "ipoCloseDate": "Thu, Sep 19, 2024",
+    "initiationOfRefunds": "Fri, Sep 20, 2024",
+    "creditOfSharesToDemat": "Mon, Sep 23, 2024",
+    "shareHoldingPreIssue": "76,07,663 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "76,07,663 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "73.31%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,04,06,663 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,04,06,663 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "53.59%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-18T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 80 4903 3200",
+    "email": "company.secretary@pelatro.com",
+    "full_address": "Pelatro Limited, No. 403 7th A Main, 1st Block HRBR Layout, Bangalore - 560 043",
+    "website": "http://www.pelatro.com/"
+  },
+  "createdAt": "2025-04-18T12:47:59.719Z",
+  "faqs": [
+    {
+      "question": "What is the Pelatro IPO?",
+      "answer": "<div itemprop=\"text\"><p>Pelatro IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2799000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->55.98<!-- --> Crores. The issue is priced at <span>₹200 per share</span>. The minimum order quantity is <!-- -->600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 16, 2024</b>, and <b>closes on <!-- -->September 19, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Pelatro IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Pelatro IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Pelatro IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Pelatro IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Pelatro IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Pelatro IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Pelatro IPO opens on September 16, 2024 and closes on September 19, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Pelatro IPO?",
+      "answer": "<div itemprop=\"text\"><p>Pelatro IPO<!-- --> <b>lot size is <!-- -->600</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Pelatro IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Pelatro IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Pelatro IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Pelatro IPO<!-- --> will be done on <!-- -->Friday, September 20, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, September 23, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/pelatro-ipo/1856/\" title=\"Pelatro IPO Allotment Status\">Pelatro IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Pelatro IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Pelatro IPO<!-- --> listing date is on <b>Tuesday, September 24, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Pelatro",
+  "issue_price": "₹200.00",
+  "issue_price_numeric": 200,
+  "issue_size": "27,99,000 shares (aggregating up to ₹55.98 Cr)",
+  "issue_size_numeric": 27,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Cumulative Capital Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/431/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/431/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "200.00"
+      },
+      "open": {
+        "nse_sme": "275.00"
+      },
+      "low": {
+        "nse_sme": "275.00"
+      },
+      "high": {
+        "nse_sme": "288.75"
+      },
+      "last_trade": {
+        "nse_sme": "288.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 24 2024",
+    "nse_symbol": "PELATRO",
+    "isin": "INE0VG601013",
+    "final_issue_price": "200 per share"
+  },
+  "listing_date": "2024-09-23T18:30:00.000Z",
+  "listing_gains": "44.38%",
+  "listing_gains_numeric": 44.38,
+  "logo": "https://www.chittorgarh.net/images/ipo/pelatro-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/pelatro-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "1200",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/pelatro-ipo/1856/"
+    }
+  },
+  "lot_size": 600,
+  "opening_date": "2024-09-15T18:30:00.000Z",
+  "pageHeading": "Pelatro Limited IPO (Pelatro IPO) Detail",
+  "pageTitle": "Pelatro IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Subash Menon Sudeesh Yezhuvath Kiran Menon and Varun Menon are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "73.31%",
+      "share_holding_post_issue": "53.59%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Pelatro IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/PelatroLimited_DRHP.zip"
+    },
+    {
+      "text": "Pelatro IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_PELATRO.zip"
+    },
+    {
+      "text": "Anchor Investors in Pelatro IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/pelatro_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/pelatro-ipo/1856/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Pelatro IPO offers 2799000 shares. 521400 (18.63%) to QIB 392400 (14.02%) to NII 913200 (32.63%) to RII and 781800 (27.93%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "781800 (27.93%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "140400 (5.02%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "521400 (18.63%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "392400 (14.02%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "913200 (32.63%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2799000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.719Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Pelatro IPO is subscribed 21.94 times on September 19 2024 6:16:03 PM (Day 4). The public issue subscribed 12.58 times in the retail category 15.22 times in the QIB category and 55.31 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "15.22",
+        "shares_offered": "521400",
+        "shares_bid_for": "7933800"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "55.31",
+        "shares_offered": "392400",
+        "shares_bid_for": "21705000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "12.58",
+        "shares_offered": "913200",
+        "shares_bid_for": "11490600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "21.94",
+        "shares_offered": "1876800",
+        "shares_bid_for": "41179800"
+      }
+    },
+    "total_applications": "19151",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 19 2024",
+    "tentative_allotment": "Fri Sep 20 2024",
+    "initiation_of_refunds": "Fri Sep 20 2024",
+    "credit_of_shares_to_demat": "Mon Sep 23 2024"
+  },
+  "timeline": {
+    "summary": "Pelatro IPO opens on September 16 2024 and closes on September 19 2024.",
+    "schedule": {
+      "ipo_date": "5 PM on September 19 2024",
+      "tentative_allotment": "Fri Sep 20 2024",
+      "initiation_of_refunds": "Fri Sep 20 2024",
+      "credit_of_shares_to_demat": "Mon Sep 23 2024"
+    }
+  },
+  "updatedAt": "2025-04-19T04:37:07.161Z",
+  "updated_at": "2025-04-18T12:47:59.719Z",
+  "year": 2024,
+  "worst_listing_gains": "44.38%",
+  "worst_listing_gains_numeric": 44.38
+}

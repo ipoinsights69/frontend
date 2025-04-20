@@ -1,0 +1,376 @@
+{
+  "_id": "680293663ccffd1c7912ca3d",
+  "ipo_id": "2022_achyut_healthcare_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:00:00.512Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/achyut-healthcare-ipo/1231/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1996, Achyut Healthcare Limited is engaged in the trading of Pharmaceutical Products. The company has business operations in&nbsp;both domestic&nbsp;and international markets in the countries namely UAE, Kenya, and Nigeria. The company is located in Ahmedabad, Gujarat.</p>\n<p>The company&nbsp;involves in the trading of Cenzure, Arpimune, Azathioprine IP, Everomimus, Mycophenolate Mofetil USP, Mycophenolate Sodium USP, Sirolimus, Tacrolimus USP, Infrared thermometer, Ascorbic Acid Coated Vitamin C, Calcium carbonate oyster, Cellulose acetate Phthalate, Chlorthalidone IP, Cross Carmalose Sod IP/USP, DI Basic Calcium Phosphate IP, DI Ethyl Phthlate, Diltiazem Hydrochloride IP, Easy Coat Fc Titanium Dioxide, Escitalopram IP, Escitalopram Oxalate, Favipiravir among many other products.</p>\n<p>Competitive Strengths:</p>\n<ol>\n<li>Pan India and Global market presence.</li>\n<li>Long-standing relationship with our customers having an exponentially strong rise and reach.</li>\n<li>Experienced management team with proven project management and implementation skills.</li>\n<li>Multi-location facilities have aided in market penetration and developing a strong presence in India and abroad.</li>\n</ol>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-21",
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "588.68",
+          "47.13",
+          "27.26",
+          "23.73"
+        ],
+        [
+          "Total Revenue",
+          "272.54",
+          "27.43",
+          "34.56",
+          "66.78"
+        ],
+        [
+          "Profit After Tax",
+          "12.63",
+          "0.74",
+          "1.40",
+          "(1.46)"
+        ]
+      ]
+    },
+    {
+      "heading": "Achyut Healthcare Ltd Stock Quote & Charts",
+      "sanitizedHeading": "achyut_healthcare_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "54.05",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 17, 2022 to March 22, 2022",
+    "ipoListingDate": "Wed, Mar 30, 2022",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹20.00",
+    "lotSize": "6,000 Shares",
+    "issueSize": "18,00,000 shares (aggregating up to ₹3.60 Cr)",
+    "freshIssue": "18,00,000 shares (aggregating up to ₹3.60 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "96,000 shares",
+    "ipoOpenDate": "Thu, Mar 17, 2022",
+    "ipoCloseDate": "Tue, Mar 22, 2022",
+    "initiationOfRefunds": "Mon, Mar 28, 2022",
+    "creditOfSharesToDemat": "Tue, Mar 29, 2022",
+    "shareHoldingPreIssue": "49,41,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "49,41,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "90.28%"
+      }
+    ],
+    "shareHoldingPostIssue": "67,41,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "67,41,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.18%"
+      }
+    ]
+  },
+  "closing_date": "2022-03-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "07948982691",
+    "email": "compliance@achyuthealthcare.com",
+    "full_address": "Achyut Healthcare Limited, 610 Colonade B/H Iscon Temple, Opposite Iscon BRTS Bus Stand, Iscon – Ambali Road Ahmedabad- 380 058",
+    "website": "http://achyuthealthcare.com/"
+  },
+  "createdAt": "2025-04-18T18:01:10.350Z",
+  "faqs": [
+    {
+      "question": "What is the achyut-healthcare-ipo?",
+      "answer": "<div itemprop=\"text\"><p>achyut-healthcare-ipo<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1800000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->3.60<!-- --> Crores. The issue is priced at <span>₹20 per share</span>. The minimum order quantity is <!-- -->6000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 17, 2022</b>, and <b>closes on <!-- -->March 22, 2022</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in achyut-healthcare-ipo through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->achyut-healthcare-ipo<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->achyut-healthcare-ipo<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->achyut-healthcare-ipo<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->achyut-healthcare-ipo<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When achyut-healthcare-ipo will open?",
+      "answer": "<div itemprop=\"text\"><p>The achyut-healthcare-ipo opens on March 17, 2022 and closes on March 22, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of achyut-healthcare-ipo?",
+      "answer": "<div itemprop=\"text\"><p>achyut-healthcare-ipo<!-- --> <b>lot size is <!-- -->6000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for achyut-healthcare-ipo?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->achyut-healthcare-ipo<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is achyut-healthcare-ipo allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->achyut-healthcare-ipo<!-- --> will be done on <!-- -->Friday, March 25, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, March 29, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/achyut-healthcare-ipo/1231/\" title=\"achyut-healthcare-ipo Allotment Status\">achyut-healthcare-ipo<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is achyut-healthcare-ipo listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->achyut-healthcare-ipo<!-- --> listing date is on <b>Wednesday, March 30, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Achyut Healthcare",
+  "issue_price": "₹20.00",
+  "issue_price_numeric": 20,
+  "issue_size": "18,00,000 shares (aggregating up to ₹3.60 Cr)",
+  "issue_size_numeric": 18,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "GYR Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/182/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/182/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "20.00"
+      },
+      "open": {
+        "bse_sme": "20.15"
+      },
+      "low": {
+        "bse_sme": "20.00"
+      },
+      "high": {
+        "bse_sme": "21.15"
+      },
+      "last_trade": {
+        "bse_sme": "21.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 30 2022",
+    "bse_script_code": "543499",
+    "isin": "INE0K1401012",
+    "final_issue_price": "20 per share"
+  },
+  "listing_date": "2022-03-29T18:30:00.000Z",
+  "listing_gains": "5.75%",
+  "listing_gains_numeric": 5.75,
+  "logo": "https://www.chittorgarh.net/images/ipo/achyut-healthcare-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/achyut-healthcare-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 6000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "12000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/achyut-healthcare-ipo/1231/"
+    }
+  },
+  "lot_size": 6,
+  "opening_date": "2022-03-16T18:30:00.000Z",
+  "pageHeading": "Achyut Healthcare Limited IPO (achyut-healthcare-ipo) Detail",
+  "pageTitle": "achyut-healthcare-ipo Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mahendra Chatrabhuj Raycha and Akshit Mahendra Raycha are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "90.28%",
+      "share_holding_post_issue": "66.18%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "achyut-healthcare-ipo DRHP",
+      "url": "https://www.bseindia.com/corporates/download/399404/Achyut%20-%20Draft%20Prospectus%2023122021_20211223133356.pdf"
+    },
+    {
+      "text": "achyut-healthcare-ipo RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2022/achyut-healthcare-limited-sme-ipo_56979.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/achyut-healthcare-ipo/1231/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "achyut.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "achyut-healthcare-ipo offers 1800000 shares. 852000 (47.33%) to NII 852000 (47.33%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "96000 (5.33%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "852000 (47.33%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "852000 (47.33%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1800000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:10.348Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The achyut-healthcare-ipo is subscribed 4.35 times on March 22 2022 6:48:00 PM (Day 3). The public issue subscribed 6.75 times in the retail category [.] times in the QIB category and 1.95 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.95",
+        "shares_offered": "852000",
+        "shares_bid_for": "1662000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "6.75",
+        "shares_offered": "852000",
+        "shares_bid_for": "5754000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "4.35",
+        "shares_offered": "1704000",
+        "shares_bid_for": "7416000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 22 2022",
+    "tentative_allotment": "Fri Mar 25 2022",
+    "initiation_of_refunds": "Mon Mar 28 2022",
+    "credit_of_shares_to_demat": "Tue Mar 29 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:20.209Z",
+  "updated_at": "2025-04-18T18:01:10.348Z",
+  "year": 2022,
+  "worst_listing_gains": "5.75%",
+  "worst_listing_gains_numeric": 5.75
+}

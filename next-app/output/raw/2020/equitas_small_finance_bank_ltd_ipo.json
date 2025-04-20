@@ -1,0 +1,459 @@
+{
+  "_id": "680291793ccffd1c7912c99c",
+  "ipo_id": "2020_equitas_small_finance_bank_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:42:29.477Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/equitas-small-finance-bank-ipo/1040/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1993, Chennai based Equitas Small Finance Bank Ltd (ESFBL) was the largest small finance bank in India in Fiscal 2019 considering banking outlets and the 2nd largest small finance bank considering assets under management and total deposits. Unlike other microfinance companies, it has a diversified loan portfolio and less dependence on microfinance business. With the main focus on financially unserved and underserved customers, the bank offers a wide range of banking products and services.</p><p>The company provides microfinance loans promoting financial inclusion, housing finance, vehicle finance, and MSE finance. Equitas Small Fin Bank offers financial products according to customers' income profile, type of security available and nature of business.</p><p>Apart from this, the bank also provides current accounts, salary accounts, savings accounts, other deposit accounts, ATM-cum-debit cards, mutual fund products, third party insurance, and issuance of FASTags.</p><p>ESFBL follows credit assessment procedures through a risk management framework which is analyzed by its Risk Management Committee. As on 30th Sep 2019, it has the largest distribution channel among Small Finance Banks (SFBs) including 853 Banking Outlets and 322 ATMs in India across 15 states and union territories.</p><p><strong>Competitive Strengths</strong></p><p>1. A customer-centric organization with a focus on unserved and underserved segment<br>2. A well-diversified asset portfolio as SFB<br>3. Strong retail liability portfolio<br>4. Credit assessment procedures</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Jun-20",
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "208921.39",
+          "193145.47",
+          "157626.91",
+          "133011.50"
+        ],
+        [
+          "Total Revenue",
+          "7509.68",
+          "29277.95",
+          "23948.32",
+          "17729.03"
+        ],
+        [
+          "Profit After Tax",
+          "576.71",
+          "2436.35",
+          "2105.66",
+          "318.31"
+        ]
+      ]
+    },
+    {
+      "heading": "Investors Portion and Basis of Allotment",
+      "sanitizedHeading": "investors_portion_and_basis_of_allotment",
+      "headers": [
+        "Category",
+        "Percentage of Offer size",
+        "Basis of Allotment"
+      ],
+      "rows": [
+        [
+          "QIB",
+          "Not More than 50%",
+          "Proportionate"
+        ],
+        [
+          "NII",
+          "Not less than 15%",
+          "Proportionate"
+        ],
+        [
+          "Retail",
+          "Not less than 35%",
+          "Minimum 1 lot to each investor subject to availability."
+        ],
+        [
+          "Employee",
+          "Not More than 5% of the post-offer paid-up equity share capital",
+          "Proportionate*"
+        ],
+        [
+          "Shareholders",
+          "Not More than 10%",
+          "Proportionate**"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "October 20, 2020 to October 22, 2020",
+    "ipoListingDate": "Mon, Nov 2, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹33.00",
+    "lotSize": "450 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹517.60 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹280.00 Cr)",
+    "offerForSale": "7,20,00,000 shares of ₹10 (aggregating up to ₹237.60 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Oct 20, 2020",
+    "ipoCloseDate": "Thu, Oct 22, 2020",
+    "initiationOfRefunds": "Wed, Oct 28, 2020",
+    "creditOfSharesToDemat": "Thu, Oct 29, 2020",
+    "shareHoldingPreIssue": "1,05,34,01,602 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,05,34,01,602 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,13,82,50,086 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,13,82,50,086 shares"
+      }
+    ]
+  },
+  "closing_date": "2020-10-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 44 4299 5000",
+    "email": "secretarial@equitas.in",
+    "full_address": "Equitas Small Finance Bank Ltd, 4th Floor Phase II Spencer Plaza No. 769, Mount Road Anna Salai Chennai 600 002, Tamil Nadu India",
+    "website": "https://www.equitasbank.com/"
+  },
+  "createdAt": "2025-04-18T17:52:57.839Z",
+  "faqs": [
+    {
+      "question": "How can I buy Equitas IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><div><p>If you are a Zerodha customer, you could apply for Equitas Small Finance Bank IPO using Zerodha Console (back-office) website.</p>\n<p><b>Steps to apply in Equitas Small Finance Bank IPO through Zerodha</b></p>\n<ol>\n\t<li>Login to Zerodha Console website</li>\n\t<li>Click on the Portfolio tab and click IPO</li>\n\t<li>Select Equitas Small Finance Bank IPO</li>\n\t<li>Enter your UPI ID and verify the details</li>\n\t<li>Put Bid and Price in the box</li>\n\t<li>Tick on the checkbox</li>\n\t<li>Click on the Submit button</li>\n</ol>\n</div></div><div class=\"mt-2 text-end\"><a title=\"How can I buy Equitas IPO through Zerodha?\" href=\"/faq_pg/how-can-i-buy-equitas-ipo-through-zerodha/2598/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "How many Equitas Holdings shares required to eligible for the Equitas Small Finance Bank shareholders category?",
+      "answer": "<div itemprop=\"text\"><div><p>Minimum 1 share of Equitas Holdings Limited (EHL) should be in your demat account on October 11, 2020, to be eligible for applying in shareholders category of Equitas Small Finance Bank IPO. October 11, 2020, is the cut-off date for eligibility. The IPO application should be in the name of the primary demat account holder.</p></div></div><div class=\"mt-2 text-end\"><a title=\"How many Equitas Holdings shares required to eligible for the Equitas Small Finance Bank shareholders category?\" href=\"/faq_pg/how-many-equitas-shares-required-to-eligible-for-equitas-small-finance-bank-shareholders-category/2599/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "Can I apply in the Employee and Retail Category in Equitas Small Finance Bank IPO?",
+      "answer": "<div itemprop=\"text\"><div><p>Eligible Employees can bid under all 3 categories of Equitas Small Finance Bank IPO:</p>\n<ul>\n\t<li>Retail Category (any amount*)</li>\n\t<li>Shareholder Category (&lt; Rs 2L)</li>\n\t<li>Employee Category (&lt;Rs 5L)</li>\n</ul>\n<p>An EHL shareholder and employee of EHL can apply in all three categories. A separate IPO application should be used for each of these categories.</p>\n<p>* Retail application is considered as RII or NII category based on the amount in the application. Amount &lt; Rs 2L is considered as RII and above Rs 2L is NII.</p></div></div><div class=\"mt-2 text-end\"><a title=\"Can I apply in the Employee and Retail Category in Equitas Small Finance Bank IPO?\" href=\"/faq_pg/can-i-apply-in-the-employee-and-retail-category-in-equitas-small-finance-bank-ipo/2600/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "Can I apply in retail and shareholder quota for Equitas Small Finance Bank IPO?",
+      "answer": "<div itemprop=\"text\"><div><p>A retail individual can also apply in the Shareholders category (upto Rs 200,000) if he holds the Equitas Holdings Limited (EHL) shares in his demat account on October 11, 2020, the day of filing the RHP with SEBI.</p>\n\n<p>EHL shareholders can apply in both; RII or NII as well as shareholder category with the maximum limit of Rs 200,000 in the shareholder's category.</p>\n\n<p>Please note an eligible EHL shareholder bidding in the EHL shareholder reservation portion may also bid under net offer i.e. either in Retail Individual Bidders Portion for up to Rs 200,000 OR in Non-Institutional Bidders Portion such that the Bid Amount exceeds Rs 200,000 but not exceeding the size of the Net Offer (excluding QIB portion), subject to applicable limits.</p>\n\n<p>An EHL Shareholders bidding in the EHL Shareholders Reservation Portion above Rs 200,000 cannot Bid in the Net Offer as such Bids will be treated as multiple Bids.</p></div></div><div class=\"mt-2 text-end\"><a title=\"Can I apply in retail and shareholder quota for Equitas Small Finance Bank IPO?\" href=\"/faq_pg/can-i-apply-in-retail-and-shareholder-quota-for-equitas-small-finance-bank-ipo/2601/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "What is the Equitas Small Finance Bank IPO?",
+      "answer": "<div itemprop=\"text\"><p>Equitas Small Finance Bank IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->517.60<!-- --> Crores. The issue is priced at <span>₹33 per share</span>. The minimum order quantity is <!-- -->450<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->October 20, 2020</b>, and <b>closes on <!-- -->October 22, 2020</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Equitas Small Finance Bank IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Equitas Small Finance Bank IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Equitas Small Finance Bank IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Equitas Small Finance Bank IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Equitas Small Finance Bank IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Equitas Small Finance Bank IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Equitas Small Finance Bank IPO opens on October 20, 2020 and closes on October 22, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Equitas Small Finance Bank IPO?",
+      "answer": "<div itemprop=\"text\"><p>Equitas Small Finance Bank IPO<!-- --> <b>lot size is <!-- -->450</b>, and the <b>minimum amount required is <span>₹14,850</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Equitas Small Finance Bank IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Equitas Small Finance Bank IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Equitas Small Finance Bank IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Equitas Small Finance Bank IPO<!-- --> will be done on <!-- -->Tuesday, October 27, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, October 29, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/equitas-small-finance-bank-ipo/1040/\" title=\"Equitas Small Finance Bank IPO Allotment Status\">Equitas Small Finance Bank IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Equitas Small Finance Bank IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Equitas Small Finance Bank IPO<!-- --> listing date is on <b>Monday, November 2, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Equitas Small Finance Bank",
+  "issue_price": "₹33.00",
+  "issue_price_numeric": 33,
+  "issue_size": "[.] shares (aggregating up to ₹517.60 Cr)",
+  "issue_size_numeric": 517.6,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "33.00",
+        "nse": "33.00"
+      },
+      "open": {
+        "bse": "31.00",
+        "nse": "31.10"
+      },
+      "low": {
+        "bse": "30.10",
+        "nse": "30.05"
+      },
+      "high": {
+        "bse": "33.05",
+        "nse": "33.15"
+      },
+      "last_trade": {
+        "bse": "32.75",
+        "nse": "32.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 2 2020",
+    "bse_script_code": "543243",
+    "nse_symbol": "EQUITASBNK",
+    "isin": "INE063P01018",
+    "final_issue_price": "33 per share"
+  },
+  "listing_date": "2020-11-01T18:30:00.000Z",
+  "listing_gains": "-0.76%",
+  "listing_gains_numeric": -0.76,
+  "logo": "https://www.chittorgarh.net/images/ipo/equitas_small_finance_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/equitas_small_finance_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 450 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "450",
+        "amount": "14850"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "5850",
+        "amount": "193050"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "6300",
+        "amount": "207900"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "30150",
+        "amount": "994950"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "30600",
+        "amount": "1009800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/equitas-small-finance-bank-ipo/1040/"
+    }
+  },
+  "lot_size": 450,
+  "opening_date": "2020-10-19T18:30:00.000Z",
+  "pageHeading": "Equitas Small Finance Bank Ltd IPO (Equitas Small Finance Bank IPO) Detail",
+  "pageTitle": "Equitas Small Finance Bank IPO Date, Price, GMP, Details",
+  "prospectusLinks": [
+    {
+      "text": "Equitas Small Finance Bank IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2019/equitas-small-finance-bank-limited_45353.html"
+    },
+    {
+      "text": "Equitas Small Finance Bank IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2020/equitas-small-finance-bank-limited_47857.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "3",
+        "neutral": "1",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/equitas-small-finance-bank-ipo/1040/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Equitas Small Finance Bank IPO offers 115850001 shares. 27975001 (24.15%) to QIB 21487500 (18.55%) to NII 50137500 (43.28%) to RII 312500 (0.27%) to employees. 111416 RIIs will receive minimum 450 shares and (sNII) and (bNII) will receive minimum 6300 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "27975001 (24.15%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "21487500 (18.55%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "50137500 (43.28%)",
+        "maximum_allottees": "111416"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "312500 (0.27%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "15937500 (13.76%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "115850001 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:57.838Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Equitas Small Finance Bank IPO is subscribed 1.95 times on October 22 2020 5:00:01 PM (Day 3). The public issue subscribed 2.08 times in the retail category 3.91 times in the QIB category and 0.22 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "3.91",
+        "shares_offered": "27975001",
+        "shares_bid_for": "109343250"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.22",
+        "shares_offered": "21487500",
+        "shares_bid_for": "4782600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.08",
+        "shares_offered": "50137500",
+        "shares_bid_for": "104463000"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.84",
+        "shares_offered": "312500",
+        "shares_bid_for": "574650"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "0.42",
+        "shares_offered": "15937500",
+        "shares_bid_for": "6630750"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.95",
+        "shares_offered": "115850001",
+        "shares_bid_for": "225794250"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 22 2020",
+    "tentative_allotment": "Tue Oct 27 2020",
+    "initiation_of_refunds": "Wed Oct 28 2020",
+    "credit_of_shares_to_demat": "Thu Oct 29 2020"
+  },
+  "updatedAt": "2025-04-19T04:37:57.840Z",
+  "updated_at": "2025-04-18T17:52:57.838Z",
+  "year": 2020,
+  "worst_listing_gains": "-0.76%",
+  "worst_listing_gains_numeric": -0.76
+}

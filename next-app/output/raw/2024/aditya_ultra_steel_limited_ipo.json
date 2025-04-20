@@ -1,0 +1,442 @@
+{
+  "_id": "680249f93ccffd1c7912c6fb",
+  "ipo_id": "2024_aditya_ultra_steel_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:22:42.626Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/aditya-ultra-steel-ipo/1838/"
+  },
+  "about": {
+    "details": "<p>Aditya Ultra Steel Limited, founded in 2011, manufactures rolled steel products, i.e. TMT bars, under the brand name \"Kamdhenu\".</p>\n<p>The company manufactures TMT bars from billets in a reheating furnace and a rolling mill, mainly catering to the construction industry and infrastructure development. The company's manufacturing facility is located in Wankaner, Gujarat and has a production capacity of 1,08,000 MT for TMT bars.</p>\n<p>As of April 30, 2024, the company employed a total of 149 full-time employees, including executives.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Aditya Ultra Steel Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "14752.33",
+          "9734.65",
+          "9156.62"
+        ],
+        [
+          "Revenue",
+          "58856.29",
+          "53048.91",
+          "51598.34"
+        ],
+        [
+          "Profit After Tax",
+          "792.34",
+          "277.66",
+          "488.9"
+        ],
+        [
+          "Net Worth",
+          "3758.21",
+          "2865.86",
+          "2588.2"
+        ],
+        [
+          "Reserves and Surplus",
+          "3128.6",
+          "2739.81",
+          "2462.15"
+        ],
+        [
+          "Total Borrowing",
+          "5427.07",
+          "4984.14",
+          "4695.12"
+        ]
+      ]
+    },
+    {
+      "heading": "Aditya Ultra Steel Limited Stock Quote & Charts",
+      "sanitizedHeading": "aditya_ultra_steel_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "23.92%"
+        ],
+        [
+          "ROCE",
+          "18.75%"
+        ],
+        [
+          "Debt/Equity",
+          "1.44"
+        ],
+        [
+          "RoNW",
+          "21.08%"
+        ],
+        [
+          "PAT Margin",
+          "1.35"
+        ],
+        [
+          "Price to Book Value",
+          "2.83"
+        ]
+      ]
+    },
+    {
+      "heading": "Aditya Ultra Steel Limited Stock Quote & Charts",
+      "sanitizedHeading": "aditya_ultra_steel_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.54",
+          "3.19"
+        ],
+        [
+          "P/E (x)",
+          "13.64",
+          "19.43"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 9, 2024 to September 11, 2024",
+    "ipoListingDate": "Mon, Sep 16, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹62.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "74,00,000 shares (aggregating up to ₹45.88 Cr)",
+    "freshIssue": "74,00,000 shares (aggregating up to ₹45.88 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,70,000 shares",
+      "maker_name": "Sunflower Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/357/"
+    },
+    "ipoOpenDate": "Mon, Sep 9, 2024",
+    "ipoCloseDate": "Wed, Sep 11, 2024",
+    "initiationOfRefunds": "Fri, Sep 13, 2024",
+    "creditOfSharesToDemat": "Fri, Sep 13, 2024",
+    "shareHoldingPreIssue": "1,74,35,568 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,74,35,568 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "97.94%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,48,35,568 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,48,35,568 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "68.76%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-10T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "079 - 4890 1470",
+    "email": "cs@adityaultrasteel.com",
+    "full_address": "Aditya Ultra Steel Limited, Survey No.888/807/810 FP-2528T 808-C, Pinnacle Prahlad Nagar Area, Opp. Royal Arcade AUDA Garden Ahmedabad- 380 015",
+    "website": "http://www.adityaultrasteel.com/"
+  },
+  "createdAt": "2025-04-18T12:47:53.173Z",
+  "faqs": [
+    {
+      "question": "What is the Aditya Ultra Steel IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aditya Ultra Steel IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->7400000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->45.88<!-- --> Crores. The issue is priced at <span>₹62 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 9, 2024</b>, and <b>closes on <!-- -->September 11, 2024</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Aditya Ultra Steel IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Aditya Ultra Steel IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Aditya Ultra Steel IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Aditya Ultra Steel IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Aditya Ultra Steel IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Aditya Ultra Steel IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Aditya Ultra Steel IPO opens on September 9, 2024 and closes on September 11, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Aditya Ultra Steel IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aditya Ultra Steel IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,24,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Aditya Ultra Steel IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Aditya Ultra Steel IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Aditya Ultra Steel IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Aditya Ultra Steel IPO<!-- --> will be done on <!-- -->Thursday, September 12, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, September 13, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/aditya-ultra-steel-ipo/1838/\" title=\"Aditya Ultra Steel IPO Allotment Status\">Aditya Ultra Steel IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Aditya Ultra Steel IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Aditya Ultra Steel IPO<!-- --> listing date is on <b>Monday, September 16, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Aditya Ultra Steel",
+  "issue_price": "₹62.00",
+  "issue_price_numeric": 62,
+  "issue_size": "74,00,000 shares (aggregating up to ₹45.88 Cr)",
+  "issue_size_numeric": 74,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swastika Investmart Ltd",
+      "url": "/report/ipo-lead-manager-review/112/122/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/122/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "62.00"
+      },
+      "open": {
+        "nse_sme": "69.90"
+      },
+      "low": {
+        "nse_sme": "66.40"
+      },
+      "high": {
+        "nse_sme": "72.00"
+      },
+      "last_trade": {
+        "nse_sme": "66.40"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 16 2024",
+    "nse_symbol": "AUSL",
+    "isin": "INE01YQ01013",
+    "final_issue_price": "62 per share"
+  },
+  "listing_date": "2024-09-15T18:30:00.000Z",
+  "listing_gains": "7.10%",
+  "listing_gains_numeric": 7.1,
+  "logo": "https://www.chittorgarh.net/images/ipo/aditya-ultra-steel-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/aditya-ultra-steel-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "124000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "124000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "248000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/aditya-ultra-steel-ipo/1838/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-09-08T18:30:00.000Z",
+  "pageHeading": "Aditya Ultra Steel Limited IPO (Aditya Ultra Steel IPO) Detail",
+  "pageTitle": "Aditya Ultra Steel IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Varun Manojkumar Jain and Mrs. Varuna Varun Jain are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "97.94%",
+      "share_holding_post_issue": "68.76%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Aditya Ultra Steel IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AdityaUltraSteelLtd_DRHP.zip"
+    },
+    {
+      "text": "Aditya Ultra Steel IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_AUSL.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/aditya-ultra-steel-ipo/1838/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "ipo@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "Aditya Ultra Steel IPO offers 7400000 shares. 3512000 (47.46%) to QIB 1056000 (14.27%) to NII 2462000 (33.27%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "370000 (5%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "3512000 (47.46%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1056000 (14.27%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2462000 (33.27%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "7400000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:53.172Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Aditya Ultra Steel IPO is subscribed 10.58 times on September 11 2024 6:20:00 PM (Day 3). The public issue subscribed 23.26 times in the retail category 1.21 times in the QIB category and 12.16 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.21",
+        "shares_offered": "3512000",
+        "shares_bid_for": "4246000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "12.16",
+        "shares_offered": "1056000",
+        "shares_bid_for": "12846000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "23.26",
+        "shares_offered": "2462000",
+        "shares_bid_for": "57274000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "10.58",
+        "shares_offered": "7030000",
+        "shares_bid_for": "74366000"
+      }
+    },
+    "total_applications": "28637",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 11 2024",
+    "tentative_allotment": "Thu Sep 12 2024",
+    "initiation_of_refunds": "Fri Sep 13 2024",
+    "credit_of_shares_to_demat": "Fri Sep 13 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:35.330Z",
+  "updated_at": "2025-04-18T12:47:53.172Z",
+  "year": 2024,
+  "worst_listing_gains": "7.10%",
+  "worst_listing_gains_numeric": 7.1,
+  "last_performance_update": "2025-04-19T04:43:35.329Z"
+}

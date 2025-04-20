@@ -1,0 +1,465 @@
+{
+  "_id": "68024a013ccffd1c7912c7f0",
+  "ipo_id": "2024_rulka_electricals_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:30:17.740Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/rulka-electricals-ipo/1728/"
+  },
+  "about": {
+    "details": "<p>Founded in May 2013, Rulka Electricals Limited is an electrical and Fire-Fighting solutions company. The company offers various services, including electrical solutions, electrical panels, solar EPC contracts, turn-key electrical warehousing projects, electric commercial industrial services, maintenance services, electrical contracting, and data and voice cabling installation. These services cater to various sectors such as industrial, commercial, retail, and theatre.</p>\n<p>The company's integrated operations encompass designing, supplying, installing, testing, and commissioning the project.</p>\n<p>The company generates 100% of its revenue through Turnkey Projects, which include both material and labor along with engineering, design, and consulting services.</p>\n<p>The company's services can be divided into the following categories:-</p>\n<ul>\n<li>Electrical Services</li>\n<li>Fire Fighting Systems</li>\n<li>Security Systems</li>\n<li>Public Address Systems</li>\n<li>Access Control Systems</li>\n<li>Audio-Video Systems Services</li>\n<li>CCTV Systems Service</li>\n<li>IT &amp; Networking Services</li>\n<li>Solar Systems</li>\n</ul>\n<p>The company is ISO 9001:2015 certified for its quality management systems.</p>\n<p>As of February 29th, 2024, the company has 92 employees on its payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Rulka Electricals Limited Financial Information (Restated Standalone)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "29 Feb 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "4082.09",
+          "2826.95",
+          "1919.04",
+          "982.41"
+        ],
+        [
+          "Revenue",
+          "6527.77",
+          "4689.78",
+          "3627.41",
+          "1960.11"
+        ],
+        [
+          "Profit After Tax",
+          "565.77",
+          "280.52",
+          "112.08",
+          "53.72"
+        ],
+        [
+          "Net Worth",
+          "1290.15",
+          "557.33",
+          "276.82",
+          "164.74"
+        ],
+        [
+          "Reserves and Surplus",
+          "948.55",
+          "546.33",
+          "265.82",
+          "153.74"
+        ],
+        [
+          "Total Borrowing",
+          "1104.89",
+          "527.07",
+          "281.46",
+          "230.99"
+        ]
+      ]
+    },
+    {
+      "heading": "Rulka Electricals Limited Stock Quote & Charts",
+      "sanitizedHeading": "rulka_electricals_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "61.25%"
+        ],
+        [
+          "ROCE",
+          "33.67%"
+        ],
+        [
+          "Debt/Equity",
+          "2.16"
+        ],
+        [
+          "RoNW",
+          "43.85%"
+        ],
+        [
+          "PAT Margin",
+          "8.68"
+        ],
+        [
+          "Price to Book Value",
+          "6.22"
+        ]
+      ]
+    },
+    {
+      "heading": "Rulka Electricals Limited Stock Quote & Charts",
+      "sanitizedHeading": "rulka_electricals_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.21",
+          "14.49"
+        ],
+        [
+          "P/E (x)",
+          "28.62",
+          "16.21"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Rulka Electricals IPO raises Rs 7.50 crore from anchor investors. Rulka Electricals IPO Anchor bid date is May 15 2024. Rulka Electricals IPO Anchor Investors list",
+    "list_link": {
+      "text": "Rulka Electricals IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rulka_electricals_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "August 20 2024",
+      "shares_offered": "319200",
+      "anchor_portion_size": "7.50"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "May 16, 2024 to May 21, 2024",
+    "ipoListingDate": "Fri, May 24, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹235.00",
+    "lotSize": "600 Shares",
+    "issueSize": "11,23,200 shares (aggregating up to ₹26.40 Cr)",
+    "freshIssue": "8,42,400 shares (aggregating up to ₹19.80 Cr)",
+    "offerForSale": "2,80,800 shares of ₹10 (aggregating up to ₹6.60 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "56,400 shares",
+      "maker_name": "Sunflower Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/357/"
+    },
+    "ipoOpenDate": "Thu, May 16, 2024",
+    "ipoCloseDate": "Tue, May 21, 2024",
+    "initiationOfRefunds": "Thu, May 23, 2024",
+    "creditOfSharesToDemat": "Thu, May 23, 2024",
+    "shareHoldingPreIssue": "34,16,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "34,16,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "86.28%"
+      }
+    ],
+    "shareHoldingPostIssue": "42,58,400 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "42,58,400 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "69.22%"
+      }
+    ]
+  },
+  "closing_date": "2024-05-20T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+022 41276806",
+    "email": "info@replservices.com",
+    "full_address": "Rulka Electricals Limited, A - 20 Shiva Industrial Estate Co. Ltd., Lake Road Near Tata Power Bhandup West, Mumbai City Mumbai- 400078",
+    "website": "https://www.replservices.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.295Z",
+  "faqs": [
+    {
+      "question": "What is the Rulka Electricals IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rulka Electricals IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1123200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->26.40<!-- --> Crores. The issue is priced at <span>₹235 per share</span>. The minimum order quantity is <!-- -->600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 16, 2024</b>, and <b>closes on <!-- -->May 21, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Rulka Electricals IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Rulka Electricals IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Rulka Electricals IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Rulka Electricals IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Rulka Electricals IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Rulka Electricals IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Rulka Electricals IPO opens on May 16, 2024 and closes on May 21, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Rulka Electricals IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rulka Electricals IPO<!-- --> <b>lot size is <!-- -->600</b>, and the <b>minimum amount required is <span>₹1,41,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Rulka Electricals IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Rulka Electricals IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Rulka Electricals IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Rulka Electricals IPO<!-- --> will be done on <!-- -->Wednesday, May 22, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, May 23, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/rulka-electricals-ipo/1728/\" title=\"Rulka Electricals IPO Allotment Status\">Rulka Electricals IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Rulka Electricals IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Rulka Electricals IPO<!-- --> listing date is on <b>Friday, May 24, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Rulka Electricals",
+  "issue_price": "₹235.00",
+  "issue_price_numeric": 235,
+  "issue_size": "11,23,200 shares (aggregating up to ₹26.40 Cr)",
+  "issue_size_numeric": 11,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "235.00"
+      },
+      "open": {
+        "nse_sme": "525.00"
+      },
+      "low": {
+        "nse_sme": "498.75"
+      },
+      "high": {
+        "nse_sme": "551.25"
+      },
+      "last_trade": {
+        "nse_sme": "498.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "May 24 2024",
+    "nse_symbol": "RULKA",
+    "isin": "INE0R7301013",
+    "final_issue_price": "235 per share"
+  },
+  "listing_date": "2024-05-23T18:30:00.000Z",
+  "listing_gains": "112.23%",
+  "listing_gains_numeric": 112.23,
+  "logo": "https://www.chittorgarh.net/images/ipo/rulka_electricals_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/rulka_electricals_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "141000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "141000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "1200",
+        "amount": "282000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/rulka-electricals-ipo/1728/"
+    }
+  },
+  "lot_size": 600,
+  "opening_date": "2024-05-15T18:30:00.000Z",
+  "pageHeading": "Rulka Electricals Limited IPO (Rulka Electricals IPO) Detail",
+  "pageTitle": "Rulka Electricals IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the Company are Mr. Rupesh Laxman Kasavkar and Mr Nitin Indrakumar Aher",
+    "holdings": {
+      "share_holding_pre_issue": "86.28%",
+      "share_holding_post_issue": "69.22%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Rulka Electricals IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/RulkaElectricalsLimited_DRHP.zip"
+    },
+    {
+      "text": "Rulka Electricals IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_RULKA.zip"
+    },
+    {
+      "text": "Anchor Investors in Rulka Electricals IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rulka_electricals_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/rulka-electricals-ipo/1728/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Rulka Electricals IPO offers 1123200 shares. 213600 (19.02%) to QIB 160200 (14.26%) to NII 373800 (33.28%) to RII and 319200 (28.42%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "319200 (28.42%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "56400 (5.02%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "213600 (19.02%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "160200 (14.26%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "373800 (33.28%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1123200 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.295Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Rulka Electricals IPO is subscribed 676.83 times on May 21 2024 6:19:56 PM (Day 3). The public issue subscribed 658.32 times in the retail category 204.22 times in the QIB category and 1350.15 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "204.22",
+        "shares_offered": "213600",
+        "shares_bid_for": "43621800"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1350.15",
+        "shares_offered": "160200",
+        "shares_bid_for": "216294600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "658.32",
+        "shares_offered": "373800",
+        "shares_bid_for": "246079800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "676.83",
+        "shares_offered": "747600",
+        "shares_bid_for": "505996200"
+      }
+    },
+    "total_applications": "410134",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 21 2024",
+    "tentative_allotment": "Wed May 22 2024",
+    "initiation_of_refunds": "Thu May 23 2024",
+    "credit_of_shares_to_demat": "Thu May 23 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:12.632Z",
+  "updated_at": "2025-04-18T12:48:01.295Z",
+  "year": 2024,
+  "worst_listing_gains": "112.23%",
+  "worst_listing_gains_numeric": 112.23
+}

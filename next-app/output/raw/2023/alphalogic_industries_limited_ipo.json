@@ -1,0 +1,421 @@
+{
+  "_id": "68028e993ccffd1c7912c8a8",
+  "ipo_id": "2023_alphalogic_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:32:32.528Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/alphalogic-industries-ipo/1450/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2020, Alphalogic Industries Limited, a subsidiary of M/s. Alphalogic Techsys Limited is engaged in the Design, Manufacturing, Supply, and Installation of Industrial and Institutional Storage Systems.</p>\n<p>The company manufactures Compactor Storage Systems, Heavy Duty Storage Racks, Cantilever Racks, Lockers, Mezzanine Floors, Metal Pallets &amp; Crates, Library Stacks, Book Case, Book Trolly, Periodical Display Rack, School Lockers, Book Support, etc.</p>\n<p>Alphalogic Industries' manufacturing unit is located in Pimpri Chinchwad, Pune, Maharashtra.</p>\n<p>The company has designed and delivered storage solutions for the automobile industry, e-commerce companies, the food industry, logistics companies, engineering companies, pharmaceutical organizations, educational institutes, IT companies, etc. In Fiscal Year 2023, the company has served over 150 clients in different industries.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-21",
+          "76.90",
+          "322.33",
+          "8.29",
+          "18.29",
+          "8.29",
+          "55.75"
+        ],
+        [
+          "31-Mar-22",
+          "373.94",
+          "784.33",
+          "30.51",
+          "85.46",
+          "65.85",
+          "168.24"
+        ],
+        [
+          "31-Mar-23",
+          "917.73",
+          "1823.14",
+          "219.41",
+          "433.58",
+          "402.30",
+          "370.83"
+        ]
+      ]
+    },
+    {
+      "heading": "Alphalogic Industries Ltd Stock Quote & Charts",
+      "sanitizedHeading": "alphalogic_industries_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "0.85"
+        ],
+        [
+          "ROCE",
+          "0.75"
+        ],
+        [
+          "Debt/Equity",
+          "0.86"
+        ],
+        [
+          "RoNW",
+          "50.60%"
+        ]
+      ]
+    },
+    {
+      "heading": "Alphalogic Industries Ltd Stock Quote & Charts",
+      "sanitizedHeading": "alphalogic_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "111.53",
+          null
+        ],
+        [
+          "P/E (x)",
+          "22.3",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "July 3, 2023 to July 6, 2023",
+    "ipoListingDate": "Fri, Jul 14, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹96.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "13,41,600 shares (aggregating up to ₹12.88 Cr)",
+    "freshIssue": "13,41,600 shares (aggregating up to ₹12.88 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "67,200 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Mon, Jul 3, 2023",
+    "ipoCloseDate": "Thu, Jul 6, 2023",
+    "initiationOfRefunds": "Wed, Jul 12, 2023",
+    "creditOfSharesToDemat": "Thu, Jul 13, 2023",
+    "shareHoldingPreIssue": "37,53,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "37,53,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "50,94,600 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "50,94,600 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.67%"
+      }
+    ]
+  },
+  "closing_date": "2023-07-05T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 82977 40000",
+    "email": "cs@alphalogicindustries.com",
+    "full_address": "Alphalogic Industries Limited, 405 Pride Icon, Near Columbia Asia Hospital, Kharadi Bypass Road Pune – 411014",
+    "website": "https://alphalogicindustries.com/"
+  },
+  "createdAt": "2025-04-18T17:40:41.395Z",
+  "faqs": [
+    {
+      "question": "What is the Alphalogic Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Alphalogic Industries IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1341600<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->12.88<!-- --> Crores. The issue is priced at <span>₹96 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 3, 2023</b>, and <b>closes on <!-- -->July 6, 2023</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Alphalogic Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Alphalogic Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Alphalogic Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Alphalogic Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Alphalogic Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Alphalogic Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Alphalogic Industries IPO opens on July 3, 2023 and closes on July 6, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Alphalogic Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Alphalogic Industries IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,15,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Alphalogic Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Alphalogic Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Alphalogic Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Alphalogic Industries IPO<!-- --> will be done on <!-- -->Tuesday, July 11, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, July 13, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/alphalogic-industries-ipo/1450/\" title=\"Alphalogic Industries IPO Allotment Status\">Alphalogic Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Alphalogic Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Alphalogic Industries IPO<!-- --> listing date is on <b>Friday, July 14, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Alphalogic Industries",
+  "issue_price": "₹96.00",
+  "issue_price_numeric": 96,
+  "issue_size": "13,41,600 shares (aggregating up to ₹12.88 Cr)",
+  "issue_size_numeric": 13,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Finshore Management Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/147/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/147/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "96.00"
+      },
+      "open": {
+        "bse_sme": "96.00"
+      },
+      "low": {
+        "bse_sme": "96.00"
+      },
+      "high": {
+        "bse_sme": "98.30"
+      },
+      "last_trade": {
+        "bse_sme": "96.29"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "July 14 2023",
+    "bse_script_code": "543937",
+    "isin": "INE0NZF01019",
+    "final_issue_price": "96 per share"
+  },
+  "listing_date": "2023-07-13T18:30:00.000Z",
+  "listing_gains": "0.30%",
+  "listing_gains_numeric": 0.3,
+  "logo": "https://www.chittorgarh.net/images/ipo/alphalogic-industries-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/alphalogic-industries-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "115200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "115200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "230400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/alphalogic-industries-ipo/1450/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-07-02T18:30:00.000Z",
+  "pageHeading": "Alphalogic Industries Limited IPO (Alphalogic Industries IPO) Detail",
+  "pageTitle": "Alphalogic Industries IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoter of the company is M/S. Alphalogic Techsys Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "73.67%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Alphalogic Industries IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/353396/Draft%20Prospectus_Alphalogic_BSE_12062023_20230614112847.pdf"
+    },
+    {
+      "text": "Alphalogic Industries IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2023/alphalogic-industries-limited_73636.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/alphalogic-industries-ipo/1450/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "cameo@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "Alphalogic Industries IPO offers 1341600 shares. 570000 (42.49%) to NII 571200 (42.58%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "67200 (5.01%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "570000 (42.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "571200 (42.58%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "133200 (9.93%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1341600 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:41.394Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Alphalogic Industries IPO is subscribed 5.34 times on July 6 2023 7:02:00 PM (Day 4). The public issue subscribed 5.19 times in the retail category [.] times in the QIB category and 4.24 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "4.24",
+        "shares_offered": "570000",
+        "shares_bid_for": "2415600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "5.19",
+        "shares_offered": "704400",
+        "shares_bid_for": "3654000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "5.34",
+        "shares_offered": "1141200",
+        "shares_bid_for": "6093600"
+      }
+    },
+    "total_applications": "3999",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 6 2023",
+    "tentative_allotment": "Tue Jul 11 2023",
+    "initiation_of_refunds": "Wed Jul 12 2023",
+    "credit_of_shares_to_demat": "Thu Jul 13 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:24.530Z",
+  "updated_at": "2025-04-18T17:40:41.394Z",
+  "year": 2023,
+  "worst_listing_gains": "0.30%",
+  "worst_listing_gains_numeric": 0.3
+}

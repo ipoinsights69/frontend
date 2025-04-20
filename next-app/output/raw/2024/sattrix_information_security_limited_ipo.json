@@ -1,0 +1,433 @@
+{
+  "_id": "68024a013ccffd1c7912c7f2",
+  "ipo_id": "2024_sattrix_information_security_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:29:09.281Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sattrix-ipo/1739/"
+  },
+  "about": {
+    "details": "<p>Sattrix Information Security Limited was founded in 2013 and develops customer-oriented cyber security solutions.</p>\n<p>The company designs and builds data security solutions in the cloud and on-premise based on the client's requirements. The company's service list includes:</p>\n<ol>\n<li>Assessment services: vulnerability assessment, penetration testing, red teaming, anti-phishing solutions and application security services.</li>\n<li>IT infrastructure management: IT infrastructure security services provide a comprehensive overview of a modern IT infrastructure and enable better and faster threat detection, response and mitigation, using different technologies best suited to each organization.</li>\n<li>Hybrid IT services and solutions: On-premise and cloud infrastructures to meet the diverse needs of organizations and achieve agility, compliance and efficiency.</li>\n<li>Managed Security Services (MSS): Vulnerability Management, SOC (Incident Response), Endpoint Detection &amp; Response (Managed EDR), Helpdesk / Tech Support, IT Infrastructure Security and Cybersecurity Compliance Services.</li>\n</ol>\n<p>As of October 2023, the company had 145 employees on its payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Sattrix Information Security Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2462.28",
+          "2567.06",
+          "1449.07",
+          "950.32"
+        ],
+        [
+          "Revenue",
+          "3061.61",
+          "3775.65",
+          "2348.69",
+          "2120.23"
+        ],
+        [
+          "Profit After Tax",
+          "250.71",
+          "400.12",
+          "214.13",
+          "193.83"
+        ],
+        [
+          "Net Worth",
+          "1446.96",
+          "1194.02",
+          "776.51",
+          "557.12"
+        ],
+        [
+          "Reserves and Surplus",
+          "946.96",
+          "1193.02",
+          "775.51",
+          "556.12"
+        ],
+        [
+          "Total Borrowing",
+          "384.77",
+          "194.55",
+          "235.88",
+          "44.54"
+        ]
+      ]
+    },
+    {
+      "heading": "Sattrix Information Security Ltd Stock Quote & Charts",
+      "sanitizedHeading": "sattrix_security_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "18.99%"
+        ],
+        [
+          "ROCE",
+          "20.93%"
+        ],
+        [
+          "Debt/Equity",
+          "0.27"
+        ],
+        [
+          "RoNW",
+          "17.33%"
+        ],
+        [
+          "PAT Margin",
+          "8.26"
+        ],
+        [
+          "Price to Book Value",
+          "5.07"
+        ]
+      ]
+    },
+    {
+      "heading": "Sattrix Information Security Ltd Stock Quote & Charts",
+      "sanitizedHeading": "sattrix_security_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.00",
+          "5.46"
+        ],
+        [
+          "P/E (x)",
+          "15.12",
+          "22.18"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 5, 2024 to June 7, 2024",
+    "ipoListingDate": "Wed, Jun 12, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹121.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "18,00,000 shares (aggregating up to ₹21.78 Cr)",
+    "freshIssue": "18,00,000 shares (aggregating up to ₹21.78 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "92,000 shares",
+      "maker_name": "Sunflower Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/357/"
+    },
+    "ipoOpenDate": "Wed, Jun 5, 2024",
+    "ipoCloseDate": "Fri, Jun 7, 2024",
+    "initiationOfRefunds": "Tue, Jun 11, 2024",
+    "creditOfSharesToDemat": "Tue, Jun 11, 2024",
+    "shareHoldingPreIssue": "50,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "50,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "68,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "68,00,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-06-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91- 87358 25247",
+    "email": "cs@sattrix.com",
+    "full_address": "Sattrix Information Security Limited, 28 Damubhai Colony, Bhattha Paldi",
+    "website": "http://www.sattrix.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.487Z",
+  "faqs": [
+    {
+      "question": "What is the Sattrix IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sattrix IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1800000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->21.78<!-- --> Crores. The issue is priced at <span>₹121 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 5, 2024</b>, and <b>closes on <!-- -->June 7, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sattrix IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sattrix IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sattrix IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sattrix IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sattrix IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sattrix IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sattrix IPO opens on June 5, 2024 and closes on June 7, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sattrix IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sattrix IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,21,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sattrix IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sattrix IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sattrix IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sattrix IPO<!-- --> will be done on <!-- -->Monday, June 10, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, June 11, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/sattrix-ipo/1739/\" title=\"Sattrix IPO Allotment Status\">Sattrix IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sattrix IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sattrix IPO<!-- --> listing date is on <b>Wednesday, June 12, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sattrix Information Security",
+  "issue_price": "₹121.00",
+  "issue_price_numeric": 121,
+  "issue_size": "18,00,000 shares (aggregating up to ₹21.78 Cr)",
+  "issue_size_numeric": 18,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Isk Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/174/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/174/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "121.00"
+      },
+      "open": {
+        "bse_sme": "150.00"
+      },
+      "low": {
+        "bse_sme": "142.50"
+      },
+      "high": {
+        "bse_sme": "157.50"
+      },
+      "last_trade": {
+        "bse_sme": "157.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "June 12 2024",
+    "bse_script_code": "544189",
+    "isin": "INE0QUV01010",
+    "final_issue_price": "121 per share"
+  },
+  "listing_date": "2024-06-11T18:30:00.000Z",
+  "listing_gains": "30.17%",
+  "listing_gains_numeric": 30.17,
+  "logo": "https://www.chittorgarh.net/images/ipo/sattrix-information-security-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sattrix-information-security-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "121000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "121000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "242000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sattrix-ipo/1739/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-06-04T18:30:00.000Z",
+  "pageHeading": "Sattrix Information Security Limited IPO (Sattrix IPO) Detail",
+  "pageTitle": "Sattrix IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Mr. Sachhin Kishorbhai Gajjaer and Mrs. Ronak Sachin Gajjar are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sattrix IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/336779/Draft%20Prospectus-13.03.2024_20240314124954.pdf"
+    },
+    {
+      "text": "Sattrix IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/336779/SME_IPO%20Open/Sattrixprospectus29.05.2024_20240529153356.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sattrix-ipo/1739/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Sattrix IPO offers 1800000 shares. 854000 (47.44%) to NII 854000 (47.44%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "92000 (5.11%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "854000 (47.44%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "854000 (47.44%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1800000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.486Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sattrix IPO is subscribed 70.44 times on June 7 2024 6:19:08 PM (Day 3). The public issue subscribed 37.76 times in the retail category [.] times in the QIB category and 87.88 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "87.88",
+        "shares_offered": "854000",
+        "shares_bid_for": "75053000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "37.76",
+        "shares_offered": "854000",
+        "shares_bid_for": "32244000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "70.44",
+        "shares_offered": "1708000",
+        "shares_bid_for": "120320000"
+      }
+    },
+    "total_applications": "44837",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 7 2024",
+    "tentative_allotment": "Mon Jun 10 2024",
+    "initiation_of_refunds": "Tue Jun 11 2024",
+    "credit_of_shares_to_demat": "Tue Jun 11 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:12.913Z",
+  "updated_at": "2025-04-18T12:48:01.486Z",
+  "year": 2024,
+  "worst_listing_gains": "30.17%",
+  "worst_listing_gains_numeric": 30.17
+}

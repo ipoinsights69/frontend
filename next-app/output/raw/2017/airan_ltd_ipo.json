@@ -1,0 +1,306 @@
+{
+  "_id": "680298523ccffd1c7912cad3",
+  "ipo_id": "2017_airan_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": true,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": false,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:10:43.061Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/airan-ipo/629/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1995, Airan Ltd engaged in the activities of computer coaching. Currently the company is in Information Technology (IT) and Information Technology (IT) enabled services including Banking transaction processing services and Document management services for telecommunication companies, internet services provider, payment banks etc.</p><p>During the year 2004-2014, Company have been appointed as sole coordinators for locations in Gujarat &amp; Rajasthan State for Cash Management Services (CMS) operations of various banks and also providing services related to clearing operations for Citibank NA across their 9 locations in Western India. Company also develops customized software applications including modification in software application for its clients.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Oct-16",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13",
+          "31-Mar-12"
+        ],
+        [
+          "Total Assets",
+          "3716.90",
+          "3053.22",
+          "2979.99",
+          "2286.86",
+          "1969.07",
+          "1940.76"
+        ],
+        [
+          "Total Revenue",
+          "1740.71",
+          "2688.00",
+          "1957.73",
+          "1457.43",
+          "1173.52",
+          "1073.40"
+        ],
+        [
+          "Profit After Tax (PAT)",
+          "129.06",
+          "144.67",
+          "81.40",
+          "86.26",
+          "81.20",
+          "69.54"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 14, 2017 to March 16, 2017",
+    "ipoListingDate": "March 24, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹45.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "33,00,000 shares (aggregating up to ₹14.85 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "ipoOpenDate": "Tue, Mar 14, 2017",
+    "ipoCloseDate": "Thu, Mar 16, 2017",
+    "shareHoldingPreIssue": "92,02,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "92,02,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,25,02,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,25,02,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-03-15T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 – 79 – 2646 2233",
+    "email": "shares@airanlimited.in",
+    "full_address": "Airan Ltd, 408 Kirtiman Complex, B/h Rembrandt C.G Road, Ahmedabad – 380 006",
+    "website": "http://www.airanlimited.in"
+  },
+  "createdAt": "2025-04-18T18:22:10.726Z",
+  "faqs": [
+    {
+      "question": "What is the Airan IPO?",
+      "answer": "<div itemprop=\"text\"><p>Airan IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3300000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->14.85<!-- --> Crores. The issue is priced at <span>₹45 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 14, 2017</b>, and <b>closes on <!-- -->March 16, 2017</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Airan IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Airan IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Airan IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Airan IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Airan IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Airan IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Airan IPO opens on March 14, 2017 and closes on March 16, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Airan IPO?",
+      "answer": "<div itemprop=\"text\"><p>Airan IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,35,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Airan IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Airan IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Airan IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Airan IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/airan-ipo/629/\" title=\"Airan IPO Allotment Status\">Airan IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Airan IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Airan IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Airan",
+  "issue_price": "₹45.00",
+  "issue_price_numeric": 45,
+  "issue_size": "33,00,000 shares (aggregating up to ₹14.85 Cr)",
+  "issue_size_numeric": 33,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swastika Investmart Ltd",
+      "url": "/report/ipo-lead-manager-review/112/122/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/122/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "45.00"
+      },
+      "open": {
+        "nse_sme": "54.00"
+      },
+      "low": {
+        "nse_sme": "51.35"
+      },
+      "high": {
+        "nse_sme": "54.00"
+      },
+      "last_trade": {
+        "nse_sme": "53.85"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 24 2017",
+    "nse_symbol": "AIRAN",
+    "isin": "INE645W01018",
+    "final_issue_price": "45 per share"
+  },
+  "listing_date": "2017-03-23T18:30:00.000Z",
+  "listing_gains": "19.67%",
+  "listing_gains_numeric": 19.67,
+  "logo": "https://www.chittorgarh.net/images/ipo/airan_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/airan_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "270000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/airan-ipo/629/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2017-03-13T18:30:00.000Z",
+  "pageHeading": "Airan Ltd IPO (Airan IPO) Detail",
+  "pageTitle": "Airan IPO Date, Price, GMP, Review, Analysis & Details",
+  "prospectusLinks": [
+    {
+      "text": "Airan IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/DRHP_AIRAN.pdf"
+    },
+    {
+      "text": "Airan IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2017/airan-limited_34350.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/airan-ipo/629/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "scraped_at": "2025-04-18T18:22:10.726Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Airan IPO is subscribed [.] times on March 16 2017 6:15:00 PM (Day 3). The public issue subscribed [.] times in the retail category [.] times in the QIB category and [.] times in the NII category. Check Day by Day Subscription Details (Live Status)"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 16 2017"
+  },
+  "timeline": {
+    "summary": "Airan IPO opens on March 14 2017 and closes on March 16 2017.",
+    "schedule": {
+      "ipo_date": "5 PM on March 16 2017"
+    }
+  },
+  "updatedAt": "2025-04-19T04:38:40.958Z",
+  "updated_at": "2025-04-18T18:22:10.726Z",
+  "year": 2017,
+  "worst_listing_gains": "19.67%",
+  "worst_listing_gains_numeric": 19.67
+}

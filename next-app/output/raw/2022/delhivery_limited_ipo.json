@@ -1,0 +1,434 @@
+{
+  "_id": "680293683ccffd1c7912ca53",
+  "ipo_id": "2022_delhivery_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": true,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:59:01.322Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/delhivery-ipo/1213/"
+  },
+  "about": {
+    "details": "<p><strong>Delhivery provides a full range of Logistics services, including delivery of express parcel and heavy goods, PTL freight, TL freight, warehousing, supply chain solutions, cross-border Express, freight services, and supply chain software</strong>. The company also offers value-added services such as e-commerce return services, payment collection and processing, installation &amp; assembly services, and fraud detection. Delhivery is the largest and fastest-growing fully integrated Logistics services player in India by revenue as of FY21.</p>\n<p>The company has proprietary technology systems that enable it to offer integrated Logistics services to a wide variety of customers. Its technology stack consists of over 80 applications for all supply chain processes.</p>\n<p>The company has built a nationwide network, servicing 17,045 PIN codes in the six months ended June 30, 2021, or 88.3% of the 19,300 PIN codes in India.</p>\n<p>Its 164-network infrastructure includes 124 gateways, 20 automated sort centres, 83 fulfilment centres, 35 collection points, 24 returns processing centres, 249 service centres, 120 intermediate processing centres, and 2,235 direct delivery centres as of June 30, 2021. The company has engineering, data sciences, and product team of 474 professionals. The company served a diverse base of 21,342 active Customers across e-commerce, consumer durables, electronics, lifestyle, FMCG, industrial goods, automotive, healthcare, and retail.</p>\n<p><strong>Competitive strengths:</strong></p>\n<ul>\n<li>Rapid growth, scale, and synergies across business lines</li>\n<li>Proprietary logistics technology systems</li>\n<li>Data intelligence capabilities</li>\n<li>An integrated portfolio of logistics services</li>\n<li>Asset-light business model enabling rapid scale up</li>\n<li>An experienced and entrepreneurial team from diverse backgrounds</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Dec-21",
+          "31-Dec-20",
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "84294.83",
+          "47847.56",
+          "45977.98",
+          "43573.08",
+          "40625.45"
+        ],
+        [
+          "Total Revenue",
+          "49114.06",
+          "28065.29",
+          "38382.91",
+          "29886.29",
+          "16948.74"
+        ],
+        [
+          "Profit After Tax",
+          "-8911.39",
+          "-2974.92",
+          "-4157.43",
+          "-2689.26",
+          "-17833.04"
+        ]
+      ]
+    },
+    {
+      "heading": "Delhivery Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "-67.3",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "May 11, 2022 to May 13, 2022",
+    "ipoListingDate": "Tue, May 24, 2022",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹487.00",
+    "lotSize": "30 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹5,235.00 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹4,000.00 Cr)",
+    "offerForSale": "[.] shares of ₹1 (aggregating up to ₹1,235.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, May 11, 2022",
+    "ipoCloseDate": "Fri, May 13, 2022",
+    "initiationOfRefunds": "Fri, May 20, 2022",
+    "creditOfSharesToDemat": "Mon, May 23, 2022",
+    "shareHoldingPreIssue": "64,23,65,827 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "64,23,65,827 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "72,45,18,329 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72,45,18,329 shares"
+      }
+    ]
+  },
+  "closing_date": "2022-05-12T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 124 6225602",
+    "email": "cscompliance@delhivery.com",
+    "full_address": "Delhivery Limited, N24-N34 S24-S34 Air Cargo Logistics Centre-II, Indira Gandhi International Airport, New Delhi 110037 Delhi India",
+    "website": "https://www.delhivery.com/"
+  },
+  "createdAt": "2025-04-18T18:01:11.981Z",
+  "faqs": [
+    {
+      "question": "What is the Delhivery IPO?",
+      "answer": "<div itemprop=\"text\"><p>Delhivery IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->5,235.00<!-- --> Crores. The issue is priced at <span>₹487 per share</span>. The minimum order quantity is <!-- -->30<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 11, 2022</b>, and <b>closes on <!-- -->May 13, 2022</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Delhivery IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Delhivery IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Delhivery IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Delhivery IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Delhivery IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Delhivery IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Delhivery IPO opens on May 11, 2022 and closes on May 13, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Delhivery IPO?",
+      "answer": "<div itemprop=\"text\"><p>Delhivery IPO<!-- --> <b>lot size is <!-- -->30</b>, and the <b>minimum amount required is <span>₹14,610</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Delhivery IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Delhivery IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Delhivery IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Delhivery IPO<!-- --> will be done on <!-- -->Thursday, May 19, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, May 23, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/delhivery-ipo/1213/\" title=\"Delhivery IPO Allotment Status\">Delhivery IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Delhivery IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Delhivery IPO<!-- --> listing date is on <b>Tuesday, May 24, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Delhivery",
+  "issue_price": "₹487.00",
+  "issue_price_numeric": 487,
+  "issue_size": "[.] shares (aggregating up to ₹5,235.00 Cr)",
+  "issue_size_numeric": 5,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Morgan Stanley India Company Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/31/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/31/"
+    },
+    {
+      "name": "Bofa Securities India Limited",
+      "url": "/report/ipo-lead-manager-review/112/22/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/22/"
+    },
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "487.00",
+        "nse": "487.00"
+      },
+      "open": {
+        "bse": "493.00",
+        "nse": "495.20"
+      },
+      "low": {
+        "bse": "474.00",
+        "nse": "467.50"
+      },
+      "high": {
+        "bse": "568.90",
+        "nse": "568.90"
+      },
+      "last_trade": {
+        "bse": "537.25",
+        "nse": "536.35"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 24 2022",
+    "bse_script_code": "543529",
+    "nse_symbol": "DELHIVERY",
+    "isin": "INE148O01028",
+    "final_issue_price": "487 per share"
+  },
+  "listing_date": "2022-05-23T18:30:00.000Z",
+  "listing_gains": "10.32%",
+  "listing_gains_numeric": 10.32,
+  "logo": "https://www.chittorgarh.net/images/ipo/delhivery-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/delhivery-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 30 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "30",
+        "amount": "14610"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "390",
+        "amount": "189930"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "420",
+        "amount": "204540"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "2040",
+        "amount": "993480"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "2070",
+        "amount": "1008090"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/delhivery-ipo/1213/"
+    }
+  },
+  "lot_size": 30,
+  "opening_date": "2022-05-10T18:30:00.000Z",
+  "pageHeading": "Delhivery Limited IPO (Delhivery IPO) Detail",
+  "pageTitle": "Delhivery IPO Date, Price, GMP, Review, Analysis & Details",
+  "prospectusLinks": [
+    {
+      "text": "Delhivery IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2021/delhivery-limited_53741.html"
+    },
+    {
+      "text": "Delhivery IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2022/delhivery-limited_58635.html"
+    },
+    {
+      "text": "Anchor Investors in Delhivery IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20220510-40&attachedId=264a9f99-13f1-4b87-9c19-6739fbaa975d"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "2"
+      },
+      "membersmembers": {
+        "subscribe": "4",
+        "neutral": "3",
+        "avoid": "31"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/delhivery-ipo/1213/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "delhivery.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Delhivery IPO offers 62541023 shares. 33863662 (54.15%) to QIB 16931818 (27.07%) to NII 11287878 (18.05%) to RII 457665 (0.73%) to employees. 376262 RIIs will receive minimum 30 shares and (sNII) and (bNII) will receive minimum 420 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "33863662 (54.15%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "16931818 (27.07%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "11287878 (18.05%)",
+        "maximum_allottees": "376262"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "457665 (0.73%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "62541023 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:11.981Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Delhivery IPO is subscribed 1.63 times on May 13 2022 5:00:00 PM (Day 3). The public issue subscribed 0.57 times in the retail category 2.66 times in the QIB category and 0.3 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "2.66",
+        "shares_offered": "33863662",
+        "shares_bid_for": "90049140"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.3",
+        "shares_offered": "16931818",
+        "shares_bid_for": "5081490"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.57",
+        "shares_offered": "11287878",
+        "shares_bid_for": "6436980"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "0.27",
+        "shares_offered": "457665",
+        "shares_bid_for": "123870"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.63",
+        "shares_offered": "62541023",
+        "shares_bid_for": "101691480"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 13 2022",
+    "tentative_allotment": "Thu May 19 2022",
+    "initiation_of_refunds": "Fri May 20 2022",
+    "credit_of_shares_to_demat": "Mon May 23 2022"
+  },
+  "timeline": {
+    "summary": "Delhivery IPO opens on May 11 2022 and closes on May 13 2022.",
+    "schedule": {
+      "ipo_date": "5 PM on May 13 2022",
+      "tentative_allotment": "Thu May 19 2022",
+      "initiation_of_refunds": "Fri May 20 2022",
+      "credit_of_shares_to_demat": "Mon May 23 2022"
+    }
+  },
+  "updatedAt": "2025-04-19T04:38:23.064Z",
+  "updated_at": "2025-04-18T18:01:11.981Z",
+  "year": 2022,
+  "worst_listing_gains": "10.32%",
+  "worst_listing_gains_numeric": 10.32
+}

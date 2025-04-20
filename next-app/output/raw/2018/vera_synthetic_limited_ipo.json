@@ -1,0 +1,346 @@
+{
+  "_id": "6802985a3ccffd1c7912cc1c",
+  "ipo_id": "2018_vera_synthetic_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:15:40.594Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/vera-synthetic-ipo/852/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2000, Gujarat based Vera Synthetic Limited is engaged in manufacturing of Fishing Nets, PP Yarns, PP/HDPE Ropes, PP Twines and Niwar. The company manufactures and market its products under its flagship brand \"Sujlon\". The products are primarily used in fishing sector and other allied use thereon.</p><p>At present Vera caters only to domestic markets. The company has dealers, traders and distributors spread across different regions of the Country. It sells its products either directly to traders/fishermen or through its distribution network in Gujarat, Maharashtra, Kerala, Karnataka, Andhra Pradesh, West Bengal, Delhi, Bihar, Rajasthan, etc.</p><p>The company's manufacturing facility is divided into two units namely Division I and Division II (situated at Mamsa, Gujarat). </p><p>As on January 31, 2018, the Company had 88 employees on its payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lacs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "863.60",
+          "731.78",
+          "705.79",
+          "850.54",
+          "909.84"
+        ],
+        [
+          "Total Revenue",
+          "1844.22",
+          "2195.12",
+          "2449.42",
+          "1975.76",
+          "2202.59"
+        ],
+        [
+          "Profit After Tax",
+          "34.43",
+          "27.40",
+          "4.78",
+          "32.86",
+          "18.00"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 28, 2018 to April 4, 2018",
+    "ipoListingDate": "April 12, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹40.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "13,35,000 shares (aggregating up to ₹5.34 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "69,000 shares",
+    "ipoOpenDate": "Wed, Mar 28, 2018",
+    "ipoCloseDate": "Wed, Apr 4, 2018",
+    "shareHoldingPreIssue": "36,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "36,00,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "49,35,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "49,35,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-04-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "0278-2525434",
+    "email": "info@sujlonropes.com",
+    "full_address": "Vera Synthetic Limited, Office No. UL-27, Pattani Plaza Devubag, Dairy Road Bhavnagar",
+    "website": "http://www.sujlonropes.com"
+  },
+  "createdAt": "2025-04-18T18:22:18.515Z",
+  "faqs": [
+    {
+      "question": "What is the Vera Synthetic IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vera Synthetic IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1335000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->5.34<!-- --> Crores. The issue is priced at <span>₹40 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 28, 2018</b>, and <b>closes on <!-- -->April 4, 2018</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Vera Synthetic IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Vera Synthetic IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Vera Synthetic IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Vera Synthetic IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Vera Synthetic IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Vera Synthetic IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Vera Synthetic IPO opens on March 28, 2018 and closes on April 4, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Vera Synthetic IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vera Synthetic IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Vera Synthetic IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Vera Synthetic IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Vera Synthetic IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Vera Synthetic IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/vera-synthetic-ipo/852/\" title=\"Vera Synthetic IPO Allotment Status\">Vera Synthetic IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Vera Synthetic IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Vera Synthetic IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Vera Synthetic",
+  "issue_price": "₹40.00",
+  "issue_price_numeric": 40,
+  "issue_size": "13,35,000 shares (aggregating up to ₹5.34 Cr)",
+  "issue_size_numeric": 13,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Pantomath Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/107/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/107/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "40.00"
+      },
+      "open": {
+        "nse_sme": "44.85"
+      },
+      "low": {
+        "nse_sme": "44.30"
+      },
+      "high": {
+        "nse_sme": "48.70"
+      },
+      "last_trade": {
+        "nse_sme": "44.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "April 12 2018",
+    "nse_symbol": "VERA",
+    "isin": "INE709Z01015",
+    "final_issue_price": "40 per share"
+  },
+  "listing_date": "2018-04-11T18:30:00.000Z",
+  "listing_gains": "10.75%",
+  "listing_gains_numeric": 10.75,
+  "logo": "https://www.chittorgarh.net/images/ipo/vera-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/vera-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/vera-synthetic-ipo/852/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2018-03-27T18:30:00.000Z",
+  "pageHeading": "Vera Synthetic Limited IPO (Vera Synthetic IPO) Detail",
+  "pageTitle": "Vera Synthetic IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Vera Synthetic IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Vera_DP.pdf"
+    },
+    {
+      "text": "Vera Synthetic IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2018/vera-synthetics-limited_38404.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/vera-synthetic-ipo/852/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "verasynthetics.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Vera Synthetic IPO offers 1404000 shares. 633000 (45.09%) to NII 633000 (45.09%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "69000 (4.91%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "633000 (45.09%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "633000 (45.09%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "69000 (4.91%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1404000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:18.515Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Vera Synthetic IPO is subscribed 3.49 times on April 4 2018 5:00:00 PM (Day 4). The public issue subscribed 3.7 times in the retail category [.] times in the QIB category and 3.29 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "3.29",
+        "shares_offered": "633000",
+        "shares_bid_for": "2082000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.7",
+        "shares_offered": "633000",
+        "shares_bid_for": "2340000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "3.49",
+        "shares_offered": "1266000",
+        "shares_bid_for": "4422000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on April 4 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:27.632Z",
+  "updated_at": "2025-04-18T18:22:18.515Z",
+  "year": 2018,
+  "worst_listing_gains": "10.75%",
+  "worst_listing_gains_numeric": 10.75
+}

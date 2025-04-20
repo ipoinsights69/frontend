@@ -1,0 +1,439 @@
+{
+  "_id": "680249fd3ccffd1c7912c767",
+  "ipo_id": "2024_gsm_foils_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:30:11.553Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/gsm-foils-ipo/1732/"
+  },
+  "about": {
+    "details": "<p>Incorporated in April 2019, GSM Foils Limited manufactures Blister Foils and Aluminium Pharma Foils, also known as \"Strip Foils,\" used for packaging pharmaceutical medicines such as capsules and tablets. These foils are primary packaging materials that come into direct contact with the medicine, so utmost care is taken to ensure their quality.</p>\n<p>The company has established a manufacturing facility at Sapphire Building in Thane, Vasai, Maharashtra, covering an area of 7,973 square feet across the ground plus 3 floors. The manufacturing facilities are fully equipped with tools, machinery, and amenities necessary to support seamless manufacturing processes, hassle-free production, quality testing, research, storage, and packaging.</p>\n<p>The company is ISO 9001:2015 certified company.</p>\n<p>The company has a presence across India with clients in 13 states and 1 Union territory in the domestic market.</p>\n<p>As of February 28, 2024 the company has 39 employees on payroll basis.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "GSM Foils Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2208.18",
+          "1438.18",
+          "1050.65",
+          "720.57"
+        ],
+        [
+          "Revenue",
+          "2717.87",
+          "6588.69",
+          "7185.04",
+          "3646.23"
+        ],
+        [
+          "Profit After Tax",
+          "124.79",
+          "142.97",
+          "63.65",
+          "33.93"
+        ],
+        [
+          "Net Worth",
+          "126.99",
+          "835.73",
+          "659.06",
+          "657.82"
+        ],
+        [
+          "Reserves and Surplus",
+          "124.79",
+          null,
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "1412.95",
+          "242.43",
+          "219.20",
+          null
+        ]
+      ]
+    },
+    {
+      "heading": "Gsm Foils Limited Stock Quote & Charts",
+      "sanitizedHeading": "gsm_foils_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "23.62%"
+        ],
+        [
+          "ROCE",
+          "1.60%"
+        ],
+        [
+          "Debt/Equity",
+          "11.13"
+        ],
+        [
+          "RoNW",
+          "98.27%"
+        ],
+        [
+          "PAT Margin",
+          "4.59"
+        ],
+        [
+          "Price to Book Value",
+          "1.27"
+        ]
+      ]
+    },
+    {
+      "heading": "Gsm Foils Limited Stock Quote & Charts",
+      "sanitizedHeading": "gsm_foils_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "1.53",
+          "1.30"
+        ],
+        [
+          "P/E (x)",
+          "20.98",
+          "24.64"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "May 24, 2024 to May 28, 2024",
+    "ipoListingDate": "Fri, May 31, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹32.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "34,40,000 shares (aggregating up to ₹11.01 Cr)",
+    "freshIssue": "34,40,000 shares (aggregating up to ₹11.01 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,76,000 shares",
+      "maker_name": "Shreni Shares Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/346/"
+    },
+    "ipoOpenDate": "Fri, May 24, 2024",
+    "ipoCloseDate": "Tue, May 28, 2024",
+    "initiationOfRefunds": "Thu, May 30, 2024",
+    "creditOfSharesToDemat": "Thu, May 30, 2024",
+    "shareHoldingPreIssue": "93,71,649 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "93,71,649 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.99%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,28,11,649 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,28,11,649 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.14%"
+      }
+    ]
+  },
+  "closing_date": "2024-05-27T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+9184689 68102",
+    "email": "investors@gsmfoils.com",
+    "full_address": "GSM Foils Limited, Gala No 06/106/206/306 Sapphire Building, Diamond Industrial Estate, Vasai East IE",
+    "website": "https://www.gsmfoils.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.160Z",
+  "faqs": [
+    {
+      "question": "What is the GSM Foils IPO?",
+      "answer": "<div itemprop=\"text\"><p>GSM Foils IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3440000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->11.01<!-- --> Crores. The issue is priced at <span>₹32 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 24, 2024</b>, and <b>closes on <!-- -->May 28, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in GSM Foils IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->GSM Foils IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->GSM Foils IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->GSM Foils IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->GSM Foils IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When GSM Foils IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The GSM Foils IPO opens on May 24, 2024 and closes on May 28, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of GSM Foils IPO?",
+      "answer": "<div itemprop=\"text\"><p>GSM Foils IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,28,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for GSM Foils IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->GSM Foils IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is GSM Foils IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->GSM Foils IPO<!-- --> will be done on <!-- -->Wednesday, May 29, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, May 30, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/gsm-foils-ipo/1732/\" title=\"GSM Foils IPO Allotment Status\">GSM Foils IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is GSM Foils IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->GSM Foils IPO<!-- --> listing date is on <b>Friday, May 31, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "GSM Foils",
+  "issue_price": "₹32.00",
+  "issue_price_numeric": 32,
+  "issue_size": "34,40,000 shares (aggregating up to ₹11.01 Cr)",
+  "issue_size_numeric": 34,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Shreni Shares Limited",
+      "url": "/report/ipo-lead-manager-review/112/449/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/449/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "32.00"
+      },
+      "open": {
+        "nse_sme": "32.00"
+      },
+      "low": {
+        "nse_sme": "30.50"
+      },
+      "high": {
+        "nse_sme": "33.60"
+      },
+      "last_trade": {
+        "nse_sme": "33.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "May 31 2024",
+    "nse_symbol": "GSMFOILS",
+    "isin": "INE0SQY01018",
+    "final_issue_price": "32 per share"
+  },
+  "listing_date": "2024-05-30T18:30:00.000Z",
+  "listing_gains": "5.00%",
+  "listing_gains_numeric": 5,
+  "logo": "https://www.chittorgarh.net/images/ipo/gsm_foils_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/gsm_foils_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "128000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "128000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "256000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/gsm-foils-ipo/1732/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2024-05-23T18:30:00.000Z",
+  "pageHeading": "GSM Foils Limited IPO (GSM Foils IPO) Detail",
+  "pageTitle": "GSM Foils IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The company's Promoters are Mr. Sagar Girish Bhanushali and Mr. Mohansingh L Parmar.",
+    "holdings": {
+      "share_holding_pre_issue": "99.99%",
+      "share_holding_post_issue": "73.14%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "GSM Foils IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/GSMFoilsLimited_DP.pdf"
+    },
+    {
+      "text": "GSM Foils IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/GSMFoilsLimited_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/gsm-foils-ipo/1732/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "GSM Foils IPO offers 3440000 shares. 1632000 (47.44%) to NII 1632000 (47.44%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "176000 (5.12%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1632000 (47.44%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1632000 (47.44%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3440000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.160Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The GSM Foils IPO is subscribed 257.3 times on May 28 2024 6:19:56 PM (Day 3). The public issue subscribed 247.1 times in the retail category [.] times in the QIB category and 259.51 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "259.51",
+        "shares_offered": "1632000",
+        "shares_bid_for": "423528000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "247.1",
+        "shares_offered": "1632000",
+        "shares_bid_for": "403264000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "257.3",
+        "shares_offered": "3264000",
+        "shares_bid_for": "839824000"
+      }
+    },
+    "total_applications": "100816",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 28 2024",
+    "tentative_allotment": "Wed May 29 2024",
+    "initiation_of_refunds": "Thu May 30 2024",
+    "credit_of_shares_to_demat": "Thu May 30 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:50.341Z",
+  "updated_at": "2025-04-18T12:47:57.160Z",
+  "year": 2024,
+  "worst_listing_gains": "5.00%",
+  "worst_listing_gains_numeric": 5,
+  "last_performance_update": "2025-04-19T04:43:50.341Z"
+}

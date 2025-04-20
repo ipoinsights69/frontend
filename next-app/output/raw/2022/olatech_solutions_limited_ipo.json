@@ -1,0 +1,384 @@
+{
+  "_id": "6802936a3ccffd1c7912ca8c",
+  "ipo_id": "2022_olatech_solutions_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:57:58.944Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/olatech-solutions-ipo/1277/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2014, Olatech Solutions Limited is engaged in the business of<strong> Data Centre, Enterprise, Telecom and IT Software solutions in the OSS - BSS</strong> (Operations Support System and Business Support System) segment. The company's software solutions are offered under the registered trademark \"<strong>Epiphany</strong>\".</p>\n<p>Olatech Solutions Limited offers software solutions such as NOC tools, Network Monitoring, Management &amp; Analytics, System Integration Services, Telecom Tower Installation, Network Deployment, Server Virtualization Services, IT Equipment Installation and Management Services, Data Centre Infrastructure Management Solutions, etc. The company has clients across different verticals such as Telcos, ISPs, Enterprises, Data Centre Service Providers and Public Sector.</p>\n<p>The company is an ISO 9001:2015 certified company for software development, hardware deployment services, telecom services of installation &amp; commissioning, telecom projects, software training, and government &amp; non-government IT projects.</p>\n<p><strong>Competitive Strengths :</strong></p>\n<ul>\n<li>Experienced Promoter and a well-trained employee base.</li>\n<li>The company's solutions are robust, trusted &amp; industry proven.</li>\n<li>Technology and Quality Certifications.</li>\n<li>Strengthen human capital.</li>\n<li>Cost Advantage and Centre of Excellence.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus"
+      ],
+      "rows": [
+        [
+          "31-Mar-19",
+          "71.01",
+          "74.21",
+          "10.41",
+          "65.37",
+          "64.37"
+        ],
+        [
+          "31-Mar-20",
+          "189.2",
+          "835.35",
+          "51.58",
+          "116.96",
+          "115.96"
+        ],
+        [
+          "31-Mar-21",
+          "148.69",
+          "549.23",
+          "12.32",
+          "129.28",
+          "128.28"
+        ],
+        [
+          "31-Mar-22",
+          "229.95",
+          "262.15",
+          "35",
+          "164.28",
+          "164"
+        ]
+      ]
+    },
+    {
+      "heading": "Olatech Solutions Ltd Stock Quote & Charts",
+      "sanitizedHeading": "olatech_solutions_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "18",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 12, 2022 to August 19, 2022",
+    "ipoListingDate": "Mon, Aug 29, 2022",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹27.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "7,00,000 shares (aggregating up to ₹1.89 Cr)",
+    "freshIssue": "7,00,000 shares (aggregating up to ₹1.89 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "44,000 shares",
+    "ipoOpenDate": "Fri, Aug 12, 2022",
+    "ipoCloseDate": "Fri, Aug 19, 2022",
+    "initiationOfRefunds": "Thu, Aug 25, 2022",
+    "creditOfSharesToDemat": "Fri, Aug 26, 2022",
+    "shareHoldingPreIssue": "16,40,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "16,40,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "92%"
+      }
+    ],
+    "shareHoldingPostIssue": "23,40,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "23,40,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "64.48%"
+      }
+    ]
+  },
+  "closing_date": "2022-08-18T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "022 – 2778 0129",
+    "email": "investor@olatechs.com",
+    "full_address": "Olatech Solutions Limited, Office No. 310 3rd Floor Rupa Solitaire, Millennium Business Park Thane-Belapur Road, Mahape",
+    "website": "https://olatechs.com/"
+  },
+  "createdAt": "2025-04-18T18:01:14.544Z",
+  "faqs": [
+    {
+      "question": "What is the Olatech Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>Olatech Solutions IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->700000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->1.89<!-- --> Crores. The issue is priced at <span>₹27 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 12, 2022</b>, and <b>closes on <!-- -->August 19, 2022</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Olatech Solutions IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Olatech Solutions IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Olatech Solutions IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Olatech Solutions IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Olatech Solutions IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Olatech Solutions IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Olatech Solutions IPO opens on August 12, 2022 and closes on August 19, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Olatech Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>Olatech Solutions IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,08,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Olatech Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Olatech Solutions IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Olatech Solutions IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Olatech Solutions IPO<!-- --> will be done on <!-- -->Wednesday, August 24, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, August 26, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/olatech-solutions-ipo/1277/\" title=\"Olatech Solutions IPO Allotment Status\">Olatech Solutions IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Olatech Solutions IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Olatech Solutions IPO<!-- --> listing date is on <b>Monday, August 29, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Olatech Solutions",
+  "issue_price": "₹27.00",
+  "issue_price_numeric": 27,
+  "issue_size": "7,00,000 shares (aggregating up to ₹1.89 Cr)",
+  "issue_size_numeric": 7,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Shreni Shares Limited",
+      "url": "/report/ipo-lead-manager-review/112/449/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/449/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "27.00"
+      },
+      "open": {
+        "bse_sme": "51.30"
+      },
+      "low": {
+        "bse_sme": "51.30"
+      },
+      "high": {
+        "bse_sme": "53.85"
+      },
+      "last_trade": {
+        "bse_sme": "53.85"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 29 2022",
+    "bse_script_code": "543578",
+    "isin": "INE0M3901015",
+    "final_issue_price": "27 per share"
+  },
+  "listing_date": "2022-08-28T18:30:00.000Z",
+  "listing_gains": "99.44%",
+  "listing_gains_numeric": 99.44,
+  "logo": "https://www.chittorgarh.net/images/ipo/olatech-solutions-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/olatech-solutions-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "108000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "108000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "216000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/olatech-solutions-ipo/1277/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2022-08-11T18:30:00.000Z",
+  "pageHeading": "Olatech Solutions Limited IPO (Olatech Solutions IPO) Detail",
+  "pageTitle": "Olatech Solutions IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Amit Kumar Singh is the company promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "92%",
+      "share_holding_post_issue": "64.48%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Olatech Solutions IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/359892/Olatech%20Solutions%20Limited%20-%20Draft%20Prospectus_20220524182926.pdf"
+    },
+    {
+      "text": "Olatech Solutions IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2022/olatech-solutions-limited-sme-issue-prospectus_64937.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "8",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/olatech-solutions-ipo/1277/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Olatech Solutions IPO offers 700000 shares. 328000 (46.86%) to NII 328000 (46.86%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "44000 (6.29%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "328000 (46.86%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "328000 (46.86%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "700000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:14.544Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Olatech Solutions IPO is subscribed 598.82 times on August 19 2022 5:37:00 PM (Day 5). The public issue subscribed 679.94 times in the retail category [.] times in the QIB category and 517.71 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "517.71",
+        "shares_offered": "328000",
+        "shares_bid_for": "169808000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "679.94",
+        "shares_offered": "328000",
+        "shares_bid_for": "223020000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "598.82",
+        "shares_offered": "656000",
+        "shares_bid_for": "392828000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 19 2022",
+    "tentative_allotment": "Wed Aug 24 2022",
+    "initiation_of_refunds": "Thu Aug 25 2022",
+    "credit_of_shares_to_demat": "Fri Aug 26 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:31.106Z",
+  "updated_at": "2025-04-18T18:01:14.544Z",
+  "year": 2022,
+  "worst_listing_gains": "99.44%",
+  "worst_listing_gains_numeric": 99.44
+}

@@ -1,0 +1,425 @@
+{
+  "_id": "68028e9d3ccffd1c7912c91b",
+  "ipo_id": "2023_marinetrans_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:27:30.399Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/marinetrans-india-ipo/1579/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2004, Marinetrans India Limited provides transport management and freight-related services.</p>\n<p>The company initially started as a freight forwarder and then moved into door-to-door delivery and 3PL services for the logistics industry through informal arrangements with third-party providers.</p>\n<p>Marinetrans provides freight transportation services that include both sea and air freight services. The company has also partnered with various intermediaries to provide additional services such as transportation, multimodal transport, project cargo handling, third-party logistics, packing, loading/unloading, and unpacking of items.</p>\n<p>Marinetrans is responsible for obtaining and confirming the booking order, confirming the shipping line, securing direct customer transportation, stowing and securing the shipment at the port, and coordinating with the customer until the goods are delivered.</p>\n<p>The company is headquartered in Navi Mumbai, Maharashtra, and has branches in Ahmedabad, Gujarat.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Marinetrans India Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 May 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2615.36",
+          "2618.58",
+          "2305.89",
+          "2204.06"
+        ],
+        [
+          "Revenue",
+          "1384.38",
+          "15036.84",
+          "20327.23",
+          "9613.13"
+        ],
+        [
+          "Profit After Tax",
+          "13.91",
+          "152.83",
+          "186.24",
+          "79.78"
+        ],
+        [
+          "Net Worth",
+          "1617.96",
+          "1604.04",
+          "1451.22",
+          "1255.94"
+        ],
+        [
+          "Reserves and Surplus",
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "603.68",
+          "557.98",
+          "252.75",
+          "212.38"
+        ]
+      ]
+    },
+    {
+      "heading": "Marinetrans India Limited Stock Quote & Charts",
+      "sanitizedHeading": "marinetrans_india_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "10.00%"
+        ],
+        [
+          "ROCE",
+          "11.29%"
+        ],
+        [
+          "Debt/Equity",
+          "0.35"
+        ],
+        [
+          "RoNW",
+          "9.53%"
+        ]
+      ]
+    },
+    {
+      "heading": "Marinetrans India Limited Stock Quote & Charts",
+      "sanitizedHeading": "marinetrans_india_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "1.79",
+          null
+        ],
+        [
+          "P/E (x)",
+          "14.53",
+          "39.39"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "November 30, 2023 to December 5, 2023",
+    "ipoListingDate": "Fri, Dec 8, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹26.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "42,00,000 shares (aggregating up to ₹10.92 Cr)",
+    "freshIssue": "42,00,000 shares (aggregating up to ₹10.92 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,16,000 shares",
+      "maker_name": "Nnm Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/312/"
+    },
+    "ipoOpenDate": "Thu, Nov 30, 2023",
+    "ipoCloseDate": "Tue, Dec 5, 2023",
+    "initiationOfRefunds": "Thu, Dec 7, 2023",
+    "creditOfSharesToDemat": "Thu, Dec 7, 2023",
+    "shareHoldingPreIssue": "85,26,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "85,26,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,27,26,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,27,26,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2023-12-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-7777045320",
+    "email": "compliance@marinetrans.in",
+    "full_address": "Marinetrans India Limited, 801/802 8th Floor Vindhya Commercial Complex, Plot No. 1 Sector 11 CBD Belapur, Navi Mumbai Thane - 400614",
+    "website": "https://marinetrans.in/"
+  },
+  "createdAt": "2025-04-18T17:40:45.125Z",
+  "faqs": [
+    {
+      "question": "What is the Marinetrans India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Marinetrans India IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4200000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->10.92<!-- --> Crores. The issue is priced at <span>₹26 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 30, 2023</b>, and <b>closes on <!-- -->December 5, 2023</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Marinetrans India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Marinetrans India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Marinetrans India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Marinetrans India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Marinetrans India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Marinetrans India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Marinetrans India IPO opens on November 30, 2023 and closes on December 5, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Marinetrans India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Marinetrans India IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,04,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Marinetrans India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Marinetrans India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Marinetrans India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Marinetrans India IPO<!-- --> will be done on <!-- -->Wednesday, December 6, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, December 7, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/marinetrans-india-ipo/1579/\" title=\"Marinetrans India IPO Allotment Status\">Marinetrans India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Marinetrans India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Marinetrans India IPO<!-- --> listing date is on <b>Friday, December 8, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Marinetrans India",
+  "issue_price": "₹26.00",
+  "issue_price_numeric": 26,
+  "issue_size": "42,00,000 shares (aggregating up to ₹10.92 Cr)",
+  "issue_size_numeric": 42,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swaraj shares and securities private limited",
+      "url": "/report/ipo-lead-manager-review/112/409/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/409/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "26.00"
+      },
+      "open": {
+        "nse_sme": "30.00"
+      },
+      "low": {
+        "nse_sme": "28.50"
+      },
+      "high": {
+        "nse_sme": "31.50"
+      },
+      "last_trade": {
+        "nse_sme": "31.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "December 8 2023",
+    "nse_symbol": "MARINETRAN",
+    "isin": "INE0P1P01017",
+    "final_issue_price": "26 per share"
+  },
+  "listing_date": "2023-12-07T18:30:00.000Z",
+  "listing_gains": "19.23%",
+  "listing_gains_numeric": 19.23,
+  "logo": "https://www.chittorgarh.net/images/ipo/marinetrans-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/marinetrans-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "104000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "104000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "208000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/marinetrans-india-ipo/1579/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2023-11-29T18:30:00.000Z",
+  "pageHeading": "Marinetrans India Limited IPO (Marinetrans India IPO) Detail",
+  "pageTitle": "Marinetrans India IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Mr Tirah Kumar Babu Kotian and Mr. Arunkumar Narayan Hegde.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Marinetrans India IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Marinetrans_DP.zip"
+    },
+    {
+      "text": "Marinetrans India IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Marinetrans_PROSP.pdf "
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/marinetrans-india-ipo/1579/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Marinetrans India IPO offers 4200000 shares. 1992000 (47.43%) to NII 1992000 (47.43%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "216000 (5.14%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1992000 (47.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1992000 (47.43%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4200000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:45.125Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Marinetrans India IPO is subscribed 33 times on December 5 2023 7:29:00 PM (Day 4). The public issue subscribed 47.24 times in the retail category [.] times in the QIB category and 18.05 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "18.05",
+        "shares_offered": "1992000",
+        "shares_bid_for": "35960000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "47.24",
+        "shares_offered": "1992000",
+        "shares_bid_for": "94104000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "33",
+        "shares_offered": "3984000",
+        "shares_bid_for": "131468000"
+      }
+    },
+    "total_applications": "23526",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 5 2023",
+    "tentative_allotment": "Wed Dec 6 2023",
+    "initiation_of_refunds": "Thu Dec 7 2023",
+    "credit_of_shares_to_demat": "Thu Dec 7 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:39.108Z",
+  "updated_at": "2025-04-18T17:40:45.125Z",
+  "year": 2023,
+  "worst_listing_gains": "19.23%",
+  "worst_listing_gains_numeric": 19.23
+}

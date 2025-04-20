@@ -1,0 +1,499 @@
+{
+  "_id": "680249fd3ccffd1c7912c77c",
+  "ipo_id": "2024_jana_small_finance_bank_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:40:48.522Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/jana-sfb-ipo/1640/"
+  },
+  "about": {
+    "details": "<p>Incorporated in July 2006, Jana Small Finance Bank Limited is a non-banking finance company primarily engaged in providing&nbsp;MSME loans, affordable housing loans, term loans to NBFC, loans against fixed deposits, two-wheeler loans and gold loans.</p>\n<p>Jana SFB offers various unsecured loan products, including individual and micro business loans, agricultural and allied loans, and group loans.</p>\n<p>The bank classifies loans into three categories:</p>\n<p>(i) individual loans for home improvement/repair,</p>\n<p>(ii) individual loans for school fees, and</p>\n<p>(iii) individual personal loans for debt consolidation, family functions, incidental expenses, and business purposes.</p>\n<p>The company provides digital products, services, and platforms, such as mobile and internet banking for both retail and corporate clients. Between March 31, 2021 and March 31, 2023, the bank's gross secured advances increased from ₹50,760.00 million to ₹99,047.54 million, representing a compound annual growth rate (CAGR) of 39.69%.</p>\n<p>As of March 31, 2023, Jana SFB had 754 banking outlets across 22 states and two union territories, including 272 in unbanked rural centers. This pan-India presence has helped the bank to reduce its concentration risk.</p>\n<p>The bank has provided services to almost 12 million customers since 2008. As of March 31, 2023, there are 4.57 million active customers. In the last three fiscal years, the bank has added 0.91 million, 0.51 million, and 0.08 million new customers, respectively.</p>\n<p>As of March 31, 2023, Jana SFB had a total of 18,184 permanent employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Jana Small Finance Bank Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "28105.87",
+          "25643.69",
+          "20188.71",
+          "19078.66"
+        ],
+        [
+          "Revenue",
+          "2215.57",
+          "3699.88",
+          "3062.37",
+          "2720.74"
+        ],
+        [
+          "Profit After Tax",
+          "213.22",
+          "255.97",
+          "17.47",
+          "72.26"
+        ],
+        [
+          "Net Worth",
+          "2547.11",
+          "1777.07",
+          "1184.56",
+          "1100.77"
+        ],
+        [
+          "Reserves and Surplus",
+          "2225.44",
+          "1472.28",
+          "999.29",
+          "914.09"
+        ],
+        [
+          "Total Borrowing",
+          "5313.54",
+          "6277.46",
+          "4509.83",
+          "4815.32"
+        ]
+      ]
+    },
+    {
+      "heading": "Jana Small Finance Bank Limited Stock Quote & Charts",
+      "sanitizedHeading": "jana_small_finance_bank_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "16.78%"
+        ],
+        [
+          "Debt/Equity",
+          "3.49"
+        ],
+        [
+          "RoNW",
+          "14.40%"
+        ],
+        [
+          "Price to Book Value",
+          "1.28"
+        ]
+      ]
+    },
+    {
+      "heading": "Jana Small Finance Bank Limited Stock Quote & Charts",
+      "sanitizedHeading": "jana_small_finance_bank_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "27.40",
+          "40.77"
+        ],
+        [
+          "P/E (x)",
+          "15.11",
+          "10.15"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Jana SFB IPO raises Rs 166.95 crore from anchor investors. Jana SFB IPO Anchor bid date is February 6 2024. Jana SFB IPO Anchor Investors list",
+    "list_link": {
+      "text": "Jana SFB IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/jana-sfbanchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "May 12 2024",
+      "shares_offered": "4032588",
+      "anchor_portion_size": "166.95"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "February 7, 2024 to February 9, 2024",
+    "ipoListingDate": "Wed, Feb 14, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹414.00",
+    "lotSize": "36 Shares",
+    "issueSize": "1,37,68,049 shares (aggregating up to ₹570.00 Cr)",
+    "freshIssue": "1,11,59,420 shares (aggregating up to ₹462.00 Cr)",
+    "offerForSale": "26,08,629 shares of ₹10 (aggregating up to ₹108.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Feb 7, 2024",
+    "ipoCloseDate": "Fri, Feb 9, 2024",
+    "initiationOfRefunds": "Tue, Feb 13, 2024",
+    "creditOfSharesToDemat": "Tue, Feb 13, 2024",
+    "shareHoldingPreIssue": "9,34,30,855 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "9,34,30,855 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "25.20%"
+      }
+    ],
+    "shareHoldingPostIssue": "10,45,90,275 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "10,45,90,275 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-02-08T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 80 4602 0100",
+    "email": "investor.grievance@janabank.com",
+    "full_address": "Jana Small Finance Bank Limited, The Fairway Business Park #10/1 11/2 12/2B, off Domlur Koramangala Inner Ring Road, Next to EGL Challaghatta Bengaluru 560 071",
+    "website": "https://www.janabank.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.839Z",
+  "faqs": [
+    {
+      "question": "What is the Jana SFB IPO?",
+      "answer": "<div itemprop=\"text\"><p>Jana SFB IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->13768049<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->570.00<!-- --> Crores. The issue is priced at <span>₹414 per share</span>. The minimum order quantity is <!-- -->36<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 7, 2024</b>, and <b>closes on <!-- -->February 9, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Jana SFB IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Jana SFB IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Jana SFB IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Jana SFB IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Jana SFB IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Jana SFB IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Jana SFB IPO opens on February 7, 2024 and closes on February 9, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Jana SFB IPO?",
+      "answer": "<div itemprop=\"text\"><p>Jana SFB IPO<!-- --> <b>lot size is <!-- -->36</b>, and the <b>minimum amount required is <span>₹14,904</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Jana SFB IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Jana SFB IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Jana SFB IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Jana SFB IPO<!-- --> will be done on <!-- -->Monday, February 12, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, February 13, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/jana-sfb-ipo/1640/\" title=\"Jana SFB IPO Allotment Status\">Jana SFB IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Jana SFB IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Jana SFB IPO<!-- --> listing date is on <b>Wednesday, February 14, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Jana Small Finance Bank",
+  "issue_price": "₹414.00",
+  "issue_price_numeric": 414,
+  "issue_size": "1,37,68,049 shares (aggregating up to ₹570.00 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "414.00",
+        "nse": "414.00"
+      },
+      "open": {
+        "bse": "396.00",
+        "nse": "396.00"
+      },
+      "low": {
+        "bse": "365.00",
+        "nse": "365.00"
+      },
+      "high": {
+        "bse": "408.80",
+        "nse": "409.00"
+      },
+      "last_trade": {
+        "bse": "368.20",
+        "nse": "368.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 14 2024",
+    "bse_script_code": "544118",
+    "nse_symbol": "JSFB",
+    "isin": "INE953L01027",
+    "final_issue_price": "414 per share"
+  },
+  "listing_date": "2024-02-13T18:30:00.000Z",
+  "listing_gains": "-11.06%",
+  "listing_gains_numeric": -11.06,
+  "logo": "https://www.chittorgarh.net/images/ipo/jana-sfb-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/jana-sfb-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 36 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "36",
+        "amount": "14904"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "468",
+        "amount": "193752"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "504",
+        "amount": "208656"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2412",
+        "amount": "998568"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2448",
+        "amount": "1013472"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/jana-sfb-ipo/1640/"
+    }
+  },
+  "lot_size": 36,
+  "opening_date": "2024-02-06T18:30:00.000Z",
+  "pageHeading": "Jana Small Finance Bank Limited IPO (Jana SFB IPO) Detail",
+  "pageTitle": "Jana SFB IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Jana Capital Limited and Jana Holdings Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "25.20%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Jana SFB IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/corporate/JANASMALL_DRHP.pdf"
+    },
+    {
+      "text": "Jana SFB IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/jana-small-finance-bank-limited-rhp_81025.html"
+    },
+    {
+      "text": "Anchor Investors in Jana SFB IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/jana-sfbanchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "6",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/jana-sfb-ipo/1640/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "jana.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Jana SFB IPO offers 13441961 shares. 2688392 (20.00%) to QIB 2016294 (15.00%) to NII 4704687 (35.00%) to RII and 4032588 (30.00%) to Anchor investors. 130685 RIIs will receive minimum 36 shares and 1333 (sNII) and 2667 (bNII) will receive minimum 504 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "4032588 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2688392 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2016294 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1344196 (10.00%)",
+        "maximum_allottees": "2667"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "672099 (5.00%)",
+        "maximum_allottees": "1333"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4704687 (35.00%)",
+        "maximum_allottees": "130685"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "13441961 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.838Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Jana SFB IPO is subscribed 19.89 times on February 9 2024 5:59:00 PM (Day 3). The public issue subscribed 5.7 times in the retail category 39.81 times in the QIB category and 26.13 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "39.81",
+        "shares_offered": "2688392",
+        "shares_bid_for": "107031060"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "26.13",
+        "shares_offered": "2016294",
+        "shares_bid_for": "52691004"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "28.73",
+        "shares_offered": "1344196",
+        "shares_bid_for": "38618172"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "20.94",
+        "shares_offered": "672099",
+        "shares_bid_for": "14072832"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "5.7",
+        "shares_offered": "4704687",
+        "shares_bid_for": "26803908"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "19.89",
+        "shares_offered": "9409373",
+        "shares_bid_for": "187196544"
+      }
+    },
+    "total_applications": "702847"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 9 2024",
+    "tentative_allotment": "Mon Feb 12 2024",
+    "initiation_of_refunds": "Tue Feb 13 2024",
+    "credit_of_shares_to_demat": "Tue Feb 13 2024"
+  },
+  "updatedAt": "2025-04-19T04:36:57.435Z",
+  "updated_at": "2025-04-18T12:47:57.838Z",
+  "year": 2024,
+  "worst_listing_gains": "-11.06%",
+  "worst_listing_gains_numeric": -11.06
+}

@@ -1,0 +1,281 @@
+{
+  "_id": "680298583ccffd1c7912cba5",
+  "ipo_id": "2018_east_india_securities_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": false,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:16:50.912Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/east-india-securities-ipo/821/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1999, East India Securities Ltd is engaged in the business of Broking (Equity and Equity Derivatives and Currency Derivatives). They are one of the largest Clearing Member for Equity Derivatives in NSE, and Currency Derivatives in NSE/MCX/USE in Eastern India. They also provide services as a Depository Participant (NSDL/CDSL); Distributor (Mutual Funds, Primary Issuer of Equity and Fixed Income Securities); and play an Advisory role in Corporate Financing and Risk Management.</p><p>They are also engaged in the business of Mutual Fund Advisor/Distributor and are a member of AMFI. Company is engaged in making proprietary investments in various tradable securities.  Company's clients include Public/Private Banks, Insurance companies, Domestic Mutual Funds, AIFs and FPIs.</p>"
+  },
+  "basicDetails": {
+    "ipoDate": "March 5, 2018 to March 7, 2018",
+    "ipoListingDate": "March 13, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹920.00",
+    "lotSize": "160 Shares",
+    "issueSize": "10,08,000 shares (aggregating up to ₹92.74 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "50,400 shares",
+      "maker_name": "Shree Bahubali Stock Broking Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/345/"
+    },
+    "ipoOpenDate": "Mon, Mar 5, 2018",
+    "ipoCloseDate": "Wed, Mar 7, 2018",
+    "shareHoldingPreIssue": "36,67,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "36,67,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "36,67,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "36,67,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-03-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 (033) 40205929",
+    "email": "sme.ipo@eisec.com",
+    "full_address": "East India Securities Ltd, 10/1D Lal Bazar Street, Mercantile Building, Kolkata- 700001",
+    "website": "http://www.eisec.com"
+  },
+  "createdAt": "2025-04-18T18:22:16.483Z",
+  "faqs": [
+    {
+      "question": "What is the East India Securities IPO?",
+      "answer": "<div itemprop=\"text\"><p>East India Securities IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1008000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->92.74<!-- --> Crores. The issue is priced at <span>₹920 per share</span>. The minimum order quantity is <!-- -->160<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 5, 2018</b>, and <b>closes on <!-- -->March 7, 2018</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in East India Securities IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->East India Securities IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->East India Securities IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->East India Securities IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->East India Securities IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When East India Securities IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The East India Securities IPO opens on March 5, 2018 and closes on March 7, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of East India Securities IPO?",
+      "answer": "<div itemprop=\"text\"><p>East India Securities IPO<!-- --> <b>lot size is <!-- -->160</b>, and the <b>minimum amount required is <span>₹1,47,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for East India Securities IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->East India Securities IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is East India Securities IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->East India Securities IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/east-india-securities-ipo/821/\" title=\"East India Securities IPO Allotment Status\">East India Securities IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is East India Securities IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->East India Securities IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "East India Securities",
+  "issue_price": "₹920.00",
+  "issue_price_numeric": 920,
+  "issue_size": "10,08,000 shares (aggregating up to ₹92.74 Cr)",
+  "issue_size_numeric": 10,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Finshore Management Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/147/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/147/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "920.00"
+      },
+      "open": {
+        "bse_sme": "921.90"
+      },
+      "low": {
+        "bse_sme": "921.90"
+      },
+      "high": {
+        "bse_sme": "931.00"
+      },
+      "last_trade": {
+        "bse_sme": "930.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 13 2018",
+    "bse_script_code": "541053",
+    "isin": "INE482Z01019",
+    "final_issue_price": "920 per share"
+  },
+  "listing_date": "2018-03-12T18:30:00.000Z",
+  "listing_gains": "1.09%",
+  "listing_gains_numeric": 1.09,
+  "logo": "https://www.chittorgarh.net/images/ipo/east_india_securities_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/east_india_securities_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 160 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "160",
+        "amount": "147200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "160",
+        "amount": "147200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "320",
+        "amount": "294400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/east-india-securities-ipo/821/"
+    }
+  },
+  "lot_size": 160,
+  "opening_date": "2018-03-04T18:30:00.000Z",
+  "pageHeading": "East India Securities Ltd IPO (East India Securities IPO) Detail",
+  "pageTitle": "East India Securities IPO Date, Price, GMP, Details",
+  "prospectusLinks": [
+    {
+      "text": "East India Securities IPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/2018221184218EAST%20INDIA%20SECURITIES%20LTD%20-%20DRHP.pdf"
+    },
+    {
+      "text": "East India Securities IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2018/east-india-securities-limited_38075.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/east-india-securities-ipo/821/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "investor@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "50400 (4.76%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1058400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:16.483Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The East India Securities IPO is subscribed [.] times on March 7 2018 5:00:00 PM (Day 3). The public issue subscribed [.] times in the retail category [.] times in the QIB category and [.] times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "total": {
+        "category": "Total",
+        "subscription_times": "[.]",
+        "shares_offered": "1008000",
+        "shares_bid_for": "1667360"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 7 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:10.153Z",
+  "updated_at": "2025-04-18T18:22:16.483Z",
+  "year": 2018,
+  "worst_listing_gains": "1.09%",
+  "worst_listing_gains_numeric": 1.09
+}

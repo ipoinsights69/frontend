@@ -1,0 +1,375 @@
+{
+  "_id": "6802917a3ccffd1c7912c9a6",
+  "ipo_id": "2020_icl_organic_dairy_products_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:43:46.065Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/icl-dairy-ipo/1038/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2013, ICL Organic Dairy Products Ltd is engaged in all sorts of dairy business such as dairy farming, breeding of mammals, and animal husbandry. The company takes the animals either under an agreement or rent with any other person on profit sharing basis to deal with all kinds of products such as milk, cream, paneer, ghee and other by-products. </p><p>The company deals with milk contractors, dairymen, vendors, milers, dealers, and purveyors. The company is mainly active in Bareilly, Badaun, and Pilibhit districts of Uttar Pradesh. The company focuses on good quality milk and has a veterinary supporting staff to train the farmers. </p><p>The main work of the company is to collect the milk from other dairy farmers and its own facility and distribute it to dairy establishments, sweet shops and various households. </p><p><b>Competitive Strengths</b></p><p>1. Long-standing client base<br>2. Existing supplier relationship<br>3. Focus on a quality product</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-July-19",
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Mar-17"
+        ],
+        [
+          "Total Assets",
+          "455.42",
+          "316.60",
+          "327.82",
+          "226.00"
+        ],
+        [
+          "Total Revenue",
+          "223.13",
+          "1572.65",
+          "1207.30",
+          "252.68"
+        ],
+        [
+          "Profit After Tax",
+          "4.83",
+          "27.62",
+          "34.93",
+          "5.03"
+        ]
+      ]
+    },
+    {
+      "heading": "ICL Dairy IPO Details",
+      "sanitizedHeading": "icl_dairy",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "80",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "January 31, 2020 to February 7, 2020",
+    "ipoListingDate": "Mon, Feb 17, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹20.00",
+    "lotSize": "6,000 Shares",
+    "issueSize": "20,40,000 shares (aggregating up to ₹4.08 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "1,02,000 shares",
+    "ipoOpenDate": "Fri, Jan 31, 2020",
+    "ipoCloseDate": "Fri, Feb 7, 2020",
+    "initiationOfRefunds": "Wed, Feb 12, 2020",
+    "creditOfSharesToDemat": "Thu, Feb 13, 2020",
+    "shareHoldingPreIssue": "39,61,696 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "39,61,696 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "72.71%"
+      }
+    ],
+    "shareHoldingPostIssue": "60,01,696 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "60,01,696 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "47.99%"
+      }
+    ]
+  },
+  "closing_date": "2020-02-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "0120-4319744",
+    "email": "cs@icldairy.com",
+    "full_address": "ICL Organic Dairy Products Ltd, A-105 3rd Floor Sector-63, Gautam Buddha Nagar Noida, Uttar Pradesh - 201301 India",
+    "website": "http://www.icldairy.com/"
+  },
+  "createdAt": "2025-04-18T17:52:58.591Z",
+  "faqs": [
+    {
+      "question": "What is the ICL Dairy IPO?",
+      "answer": "<div itemprop=\"text\"><p>ICL Dairy IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2040000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->4.08<!-- --> Crores. The issue is priced at <span>₹20 per share</span>. The minimum order quantity is <!-- -->6000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 31, 2020</b>, and <b>closes on <!-- -->February 7, 2020</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in ICL Dairy IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->ICL Dairy IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->ICL Dairy IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->ICL Dairy IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->ICL Dairy IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When ICL Dairy IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The ICL Dairy IPO opens on January 31, 2020 and closes on February 7, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of ICL Dairy IPO?",
+      "answer": "<div itemprop=\"text\"><p>ICL Dairy IPO<!-- --> <b>lot size is <!-- -->6000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for ICL Dairy IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->ICL Dairy IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is ICL Dairy IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->ICL Dairy IPO<!-- --> will be done on <!-- -->Tuesday, February 11, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, February 13, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/icl-dairy-ipo/1038/\" title=\"ICL Dairy IPO Allotment Status\">ICL Dairy IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is ICL Dairy IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->ICL Dairy IPO<!-- --> listing date is on <b>Monday, February 17, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "ICL Organic Dairy Products",
+  "issue_price": "₹20.00",
+  "issue_price_numeric": 20,
+  "issue_size": "20,40,000 shares (aggregating up to ₹4.08 Cr)",
+  "issue_size_numeric": 20,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Finshore Management Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/147/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/147/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "20.00"
+      },
+      "open": {
+        "bse_sme": "20.80"
+      },
+      "low": {
+        "bse_sme": "19.80"
+      },
+      "high": {
+        "bse_sme": "21.80"
+      },
+      "last_trade": {
+        "bse_sme": "21.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 17 2020",
+    "bse_script_code": "542935",
+    "isin": "INE0AU701018",
+    "final_issue_price": "20 per share"
+  },
+  "listing_date": "2020-02-16T18:30:00.000Z",
+  "listing_gains": "9.00%",
+  "listing_gains_numeric": 9,
+  "logo": "https://www.chittorgarh.net/images/ipo/icldairy_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/icldairy_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 6000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "12000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/icl-dairy-ipo/1038/"
+    }
+  },
+  "lot_size": 6,
+  "opening_date": "2020-01-30T18:30:00.000Z",
+  "pageHeading": "ICL Organic Dairy Products Ltd IPO (ICL Dairy IPO) Detail",
+  "pageTitle": "ICL Dairy IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Mr. Roop Kishore Gola and Mr. Avadhesh Kumar Gola are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "72.71%",
+      "share_holding_post_issue": "47.99%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "ICL Dairy IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/343434/IPO/DRHP_ICL%20Organic_13122019_Final_20191213162709.pdf"
+    },
+    {
+      "text": "ICL Dairy IPO RHP",
+      "url": "https://www.bsesme.com/download/343434/SME_IPO%20Open/Final%20Prospectus_ICL%20Organic_27012020_20200129123020.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/icl-dairy-ipo/1038/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "investor@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "ICL Dairy IPO offers 2040000 shares. 969000 (47.50%) to NII 969000 (47.50%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "102000 (5.00%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "969000 (47.50%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "969000 (47.50%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2040000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:58.591Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The ICL Dairy IPO is subscribed 3.08 times on February 7 2020 6:44:02 PM (Day 6). The public issue subscribed 2.59 times in the retail category [.] times in the QIB category and 3.56 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "3.56",
+        "shares_offered": "969000",
+        "shares_bid_for": "3450000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.59",
+        "shares_offered": "969000",
+        "shares_bid_for": "2514000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "3.08",
+        "shares_offered": "1938000",
+        "shares_bid_for": "5964000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 7 2020",
+    "tentative_allotment": "Tue Feb 11 2020",
+    "initiation_of_refunds": "Wed Feb 12 2020",
+    "credit_of_shares_to_demat": "Thu Feb 13 2020"
+  },
+  "updatedAt": "2025-04-19T04:37:59.501Z",
+  "updated_at": "2025-04-18T17:52:58.591Z",
+  "year": 2020,
+  "worst_listing_gains": "9.00%",
+  "worst_listing_gains_numeric": 9
+}

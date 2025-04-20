@@ -1,0 +1,396 @@
+{
+  "_id": "680291883ccffd1c7912c9d0",
+  "ipo_id": "2021_craftsman_automation_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:48:28.884Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/craftsman-automation-ipo/1095/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1986, Craftsman Automation Ltd is a leading engineering organization that is engaged in manufacturing precision components. The company designs, develop, and manufactures a range of engineering products. It is one of the leading players in the machining of cylinder blocks for the tractor segment.</p>\n\n<p>The business operates 3 key segments namely <strong>Automotive-Powertrain and others</strong>, <strong>Automotive-Aluminium Products,</strong> and<strong> Industrial and Engineering </strong>division that is engaged in manufacturing material handling equipment i.e. hoists, industrial gears, marine engines, crane kits, gearboxes, locomotive equipment, storage solutions, etc.</p>\n\n<p>The company owns 12 state-of-the-art manufacturing facilities across 7 cities of India. Its customer base includes Tata Motors, Daimler India, Tata Cummins, Mahindra &amp; Mahindra, Royal Enfield, Siemens, Escorts, Ashok Leyland, VE Commercial Vehicles, TAFE Motors &amp; Tractors, etc.</p>\n\n<p><strong>Competitive Strengths</strong></p>\n<ul>\n<li>Leading engineering product manufacturer.</li>\n<li>Strategically located and vertically integrated manufacturing facilities.</li>\n<li>Strong product design capabilities.</li>\n<li>Robust financial performance.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Dec-20",
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "22462.93",
+          "23031.36",
+          "23253.98",
+          "19994.34"
+        ],
+        [
+          "Total Revenue",
+          "10299.08",
+          "15010.57",
+          "18316.43",
+          "15228.62"
+        ],
+        [
+          "Profit After Tax",
+          "506.60",
+          "410.73",
+          "973.67",
+          "315.34"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 15, 2021 to March 17, 2021",
+    "ipoListingDate": "Thu, Mar 25, 2021",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹1,490.00",
+    "lotSize": "10 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹823.70 Cr)",
+    "freshIssue": "10,06,711 shares (aggregating up to ₹150.00 Cr)",
+    "offerForSale": "45,21,450 shares of ₹5 (aggregating up to ₹673.70 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Mar 15, 2021",
+    "ipoCloseDate": "Wed, Mar 17, 2021",
+    "initiationOfRefunds": "Tue, Mar 23, 2021",
+    "creditOfSharesToDemat": "Wed, Mar 24, 2021",
+    "shareHoldingPreIssue": "2,01,21,600 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,01,21,600 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "63.40%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,11,28,311 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,11,28,311 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "59.76%"
+      }
+    ]
+  },
+  "closing_date": "2021-03-16T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "(91 422) 302 1000",
+    "email": "investor@craftsmanautomation.com",
+    "full_address": "Craftsman Automation Limited, Senthel Towers 4 th Floor 1078, Avanashi Road Coimbatore 641 018",
+    "website": "http://www.craftsmanautomation.com/"
+  },
+  "createdAt": "2025-04-18T17:53:12.332Z",
+  "faqs": [
+    {
+      "question": "What is the Craftsman Automation IPO?",
+      "answer": "<div itemprop=\"text\"><p>Craftsman Automation IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->823.70<!-- --> Crores. The issue is priced at <span>₹1490 per share</span>. The minimum order quantity is <!-- -->10<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 15, 2021</b>, and <b>closes on <!-- -->March 17, 2021</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Craftsman Automation IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Craftsman Automation IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Craftsman Automation IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Craftsman Automation IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Craftsman Automation IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Craftsman Automation IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Craftsman Automation IPO opens on March 15, 2021 and closes on March 17, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Craftsman Automation IPO?",
+      "answer": "<div itemprop=\"text\"><p>Craftsman Automation IPO<!-- --> <b>lot size is <!-- -->10</b>, and the <b>minimum amount required is <span>₹14,900</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Craftsman Automation IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Craftsman Automation IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Craftsman Automation IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Craftsman Automation IPO<!-- --> will be done on <!-- -->Monday, March 22, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, March 24, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/craftsman-automation-ipo/1095/\" title=\"Craftsman Automation IPO Allotment Status\">Craftsman Automation IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Craftsman Automation IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Craftsman Automation IPO<!-- --> listing date is on <b>Thursday, March 25, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Craftsman Automation",
+  "issue_price": "₹1,490.00",
+  "issue_price_numeric": 1,
+  "issue_size": "[.] shares (aggregating up to ₹823.70 Cr)",
+  "issue_size_numeric": 823.7,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "1490.00",
+        "nse": "1490.00"
+      },
+      "open": {
+        "bse": "1350.00",
+        "nse": "1359.00"
+      },
+      "low": {
+        "bse": "1349.20",
+        "nse": "1350.00"
+      },
+      "high": {
+        "bse": "1489.00",
+        "nse": "1490.00"
+      },
+      "last_trade": {
+        "bse": "1433.00",
+        "nse": "1435.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 25 2021",
+    "bse_script_code": "543276",
+    "nse_symbol": "CRAFTSMAN",
+    "isin": "INE00LO01017",
+    "final_issue_price": "1490 per share"
+  },
+  "listing_date": "2021-03-24T18:30:00.000Z",
+  "listing_gains": "-3.83%",
+  "listing_gains_numeric": -3.83,
+  "logo": "https://www.chittorgarh.net/images/ipo/craftsman-automation-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/craftsman-automation-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 10 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "10",
+        "amount": "14900"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "130",
+        "amount": "193700"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "140",
+        "amount": "208600"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "670",
+        "amount": "998300"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "680",
+        "amount": "1013200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/craftsman-automation-ipo/1095/"
+    }
+  },
+  "lot_size": 10,
+  "opening_date": "2021-03-14T18:30:00.000Z",
+  "pageHeading": "Craftsman Automation Limited IPO (Craftsman Automation IPO) Detail",
+  "pageTitle": "Craftsman Automation IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Srinivasan Ravi is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "63.40%",
+      "share_holding_post_issue": "59.76%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Craftsman Automation IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2020/craftsman-automation-limited_48450.html"
+    },
+    {
+      "text": "Craftsman Automation IPO RHP",
+      "url": "https://nsearchives.nseindia.com/corporate/Craftsman_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "7",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/craftsman-automation-ipo/1095/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "craftsman.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Craftsman Automation IPO offers 3869714 shares. 1105632 (28.57%) to QIB 829225 (21.43%) to NII 1934857 (50.00%) to RII. 193485 RIIs will receive minimum 10 shares and (sNII) and (bNII) will receive minimum 140 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1105632 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "829225 (21.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1934857 (50.00%)",
+        "maximum_allottees": "193485"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3869714 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:12.331Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Craftsman Automation IPO is subscribed 3.82 times on March 17 2021 6:49:00 AM (Day 3). The public issue subscribed 3.44 times in the retail category 5.21 times in the QIB category and 2.84 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "5.21",
+        "shares_offered": "1105632",
+        "shares_bid_for": "5762030"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.84",
+        "shares_offered": "829225",
+        "shares_bid_for": "2352680"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.44",
+        "shares_offered": "1934857",
+        "shares_bid_for": "6649490"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "3.82",
+        "shares_offered": "3869714",
+        "shares_bid_for": "14764200"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 17 2021",
+    "tentative_allotment": "Mon Mar 22 2021",
+    "initiation_of_refunds": "Tue Mar 23 2021",
+    "credit_of_shares_to_demat": "Wed Mar 24 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:05.581Z",
+  "updated_at": "2025-04-18T17:53:12.331Z",
+  "year": 2021,
+  "worst_listing_gains": "-3.83%",
+  "worst_listing_gains_numeric": -3.83
+}

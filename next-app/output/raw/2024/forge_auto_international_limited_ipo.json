@@ -1,0 +1,458 @@
+{
+  "_id": "680249fd3ccffd1c7912c764",
+  "ipo_id": "2024_forge_auto_international_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:20:33.983Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/forge-auto-international-ipo/1873/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2001, Forge Auto International Limited is an engineering company that forges and manufactures complex, safety-critical, forged, and precision-machined components for the auto industry (automobiles, tractors, railways) and non-auto sectors (agriculture parts, hydraulic parts, striking tools).</p>\n<p>The company serves its customers, including domestic and global original equipment manufacturers (\"OEMs\") engaged in manufacturing for both the automotive and non-automotive sectors. Its products are used across various industries by a diverse customer base.</p>\n<p>The company's revenue from the sale of machined and forging products increased from ?10951.99 lakhs in Fiscal 2021 to Rs 17664.85 lakhs in Fiscal 2023, reflecting a 27% CAGR, demonstrating its heightened focus on its products.</p>\n<p>The company manufactures short and long forks, flange yokes, ball studs, gear blanks, and stub axle assemblies for commercial vehicles, railway bogies, tractors, agricultural equipment, and sledgehammers.</p>\n<p>The company is certified with the following standards: ISO 9001:2015 for quality management systems, ISO 14001:2015 for environmental management systems, OHSAS 18001:2007 for occupational health and safety management systems, IATF 16949:2016 for doing business with OEMs manufacturing components in the automotive industry, and ZED GOLD by the Government of India for sustainability with Zero Effect and Zero Defect.</p>\n<p>Competitive Strength</p>\n<ul>\n<li>The company's manufacturing facility has an installed capacity of 20000MT for forging and 25 lakh units for the machining section.</li>\n<li>The company has long-standing relationships with its customers because of its commitment to quality, timely delivery, prompt payments, and adaptability.</li>\n<li>The company has obtained certifications by the Government of India for sustainability with zero effect and zero defect for its manufacturing facility.</li>\n</ul>\n<p>As of March 31, 2024, the company has an in-house sales and marketing team of 14 employees.</p>\n<p>As of March 31, 2024, the company has 366 permanent employees in various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Forge Auto International Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "10148.67",
+          "8274.29",
+          "5677.94"
+        ],
+        [
+          "Revenue",
+          "18157.3",
+          "17764.43",
+          "13400.28"
+        ],
+        [
+          "Profit After Tax",
+          "668.88",
+          "496.29",
+          "264.34"
+        ],
+        [
+          "Net Worth",
+          "2020.88",
+          "1660.35",
+          "1367.73"
+        ],
+        [
+          "Reserves and Surplus",
+          "1276.88",
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "4046",
+          "3183.2",
+          "2620.16"
+        ]
+      ]
+    },
+    {
+      "heading": "Forge Auto International Limited Stock Quote & Charts",
+      "sanitizedHeading": "forge_auto_international_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "35.76%"
+        ],
+        [
+          "ROCE",
+          "17.60%"
+        ],
+        [
+          "Debt/Equity",
+          "1.94"
+        ],
+        [
+          "RoNW",
+          "32.14%"
+        ],
+        [
+          "PAT Margin",
+          "3.71"
+        ],
+        [
+          "Price to Book Value",
+          "4.17"
+        ]
+      ]
+    },
+    {
+      "heading": "Forge Auto International Limited Stock Quote & Charts",
+      "sanitizedHeading": "forge_auto_international_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.32",
+          "6.13"
+        ],
+        [
+          "P/E (x)",
+          "12.98",
+          "17.63"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Forge Auto International IPO raises Rs 8.84 crore from anchor investors. Forge Auto International IPO Anchor bid date is September 25 2024. Forge Auto International IPO Anchor Investors list",
+    "list_link": {
+      "text": "Forge Auto International IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/forge_auto_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "December 30 2024",
+      "shares_offered": "818400",
+      "anchor_portion_size": "8.84"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 26, 2024 to September 30, 2024",
+    "ipoListingDate": "Fri, Oct 4, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹108.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "28,80,000 shares (aggregating up to ₹31.10 Cr)",
+    "freshIssue": "28,80,000 shares (aggregating up to ₹31.10 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,46,400 shares",
+      "maker_name": "Hem Finlease Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/250/"
+    },
+    "ipoOpenDate": "Thu, Sep 26, 2024",
+    "ipoCloseDate": "Mon, Sep 30, 2024",
+    "initiationOfRefunds": "Thu, Oct 3, 2024",
+    "creditOfSharesToDemat": "Thu, Oct 3, 2024",
+    "shareHoldingPreIssue": "80,40,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "80,40,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,09,20,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,09,20,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.63%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-29T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91- 8999999195",
+    "email": "sm@aint.in",
+    "full_address": "Forge Auto International Limited, Village Mangarh, KoharaMachhiwara Road, Ludhiana- 141001",
+    "website": "http://www.failtd.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.030Z",
+  "faqs": [
+    {
+      "question": "What is the Forge Auto International IPO?",
+      "answer": "<div itemprop=\"text\"><p>Forge Auto International IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2880000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->31.10<!-- --> Crores. The issue is priced at <span>₹108 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 26, 2024</b>, and <b>closes on <!-- -->September 30, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Forge Auto International IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Forge Auto International IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Forge Auto International IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Forge Auto International IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Forge Auto International IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Forge Auto International IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Forge Auto International IPO opens on September 26, 2024 and closes on September 30, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Forge Auto International IPO?",
+      "answer": "<div itemprop=\"text\"><p>Forge Auto International IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,29,600</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Forge Auto International IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Forge Auto International IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Forge Auto International IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Forge Auto International IPO<!-- --> will be done on <!-- -->Tuesday, October 1, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, October 3, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/forge-auto-international-ipo/1873/\" title=\"Forge Auto International IPO Allotment Status\">Forge Auto International IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Forge Auto International IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Forge Auto International IPO<!-- --> listing date is on <b>Friday, October 4, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Forge Auto International",
+  "issue_price": "₹108.00",
+  "issue_price_numeric": 108,
+  "issue_size": "28,80,000 shares (aggregating up to ₹31.10 Cr)",
+  "issue_size_numeric": 28,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "108.00"
+      },
+      "open": {
+        "nse_sme": "113.00"
+      },
+      "low": {
+        "nse_sme": "107.35"
+      },
+      "high": {
+        "nse_sme": "115.00"
+      },
+      "last_trade": {
+        "nse_sme": "109.35"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 4 2024",
+    "nse_symbol": "FORGEAUTO",
+    "isin": "INE0YKW01013",
+    "final_issue_price": "108 per share"
+  },
+  "listing_date": "2024-10-03T18:30:00.000Z",
+  "listing_gains": "1.25%",
+  "listing_gains_numeric": 1.25,
+  "logo": "https://www.chittorgarh.net/images/ipo/forge_auto_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/forge_auto_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "129600"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "129600"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "259200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/forge-auto-international-ipo/1873/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-09-25T18:30:00.000Z",
+  "pageHeading": "Forge Auto International Limited IPO (Forge Auto International IPO) Detail",
+  "pageTitle": "Forge Auto International IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Parmod Gupta and Rajan Mittal.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "73.63%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Forge Auto International IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ForgeAutoInternationalLimited_DRHP.pdf"
+    },
+    {
+      "text": "Forge Auto International IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_FORGEAUTO.zip"
+    },
+    {
+      "text": "Anchor Investors in Forge Auto International IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/forge_auto_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/forge-auto-international-ipo/1873/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Forge Auto International IPO offers 2880000 shares. 547200 (19%) to QIB 410400 (14.25%) to NII 957600 (33.25%) to RII and 818400 (28.42%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "818400 (28.42%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "146400 (5.08%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "547200 (19%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "410400 (14.25%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "957600 (33.25%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2880000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.030Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Forge Auto International IPO is subscribed 49.28 times on September 30 2024 6:19:59 PM (Day 3). The public issue subscribed 61.95 times in the retail category 20.13 times in the QIB category and 58.55 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "20.13",
+        "shares_offered": "547200",
+        "shares_bid_for": "11013600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "58.55",
+        "shares_offered": "410400",
+        "shares_bid_for": "24030000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "61.95",
+        "shares_offered": "957600",
+        "shares_bid_for": "59328000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "49.28",
+        "shares_offered": "1915200",
+        "shares_bid_for": "94371600"
+      }
+    },
+    "total_applications": "49440",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 30 2024",
+    "tentative_allotment": "Tue Oct 1 2024",
+    "initiation_of_refunds": "Thu Oct 3 2024",
+    "credit_of_shares_to_demat": "Thu Oct 3 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:49.969Z",
+  "updated_at": "2025-04-18T12:47:57.030Z",
+  "year": 2024,
+  "worst_listing_gains": "1.25%",
+  "worst_listing_gains_numeric": 1.25,
+  "last_performance_update": "2025-04-19T04:43:49.969Z"
+}

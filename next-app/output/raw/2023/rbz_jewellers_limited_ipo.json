@@ -1,0 +1,489 @@
+{
+  "_id": "68028e9e3ccffd1c7912c939",
+  "ipo_id": "2023_rbz_jewellers_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:26:31.063Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/rbz-jewellers-ipo/1588/"
+  },
+  "about": {
+    "details": "<p>Incorporated in April 2008, RBZ Jewellers Limited is an India-based gold jewellery manufacturer specialising in the creation of antique designs. The company designs and manufactures a wide range of antique gold jewellery consisting of jadau, meena and kundan work and sells it on wholesale and retail basis.</p>\n<p>The company's wholesale customer base includes reputed national, regional and local family jewellers across 19 states and 72 cities in India.</p>\n<p>RBZ Jewellers Limited also operates its retail showroom under the brand name \"Harit Zaveri\" and is a leading player in Ahmedabad.</p>\n<p>The manufacturing facility has a permitted capacity of 250 artisans and employs 185 sales personnel.</p>\n<p>RBZ Jewellers Limited's manufacturing facility in Ahmedabad, Gujarat can design and manufacture gold jewellery under one roof. The manufacturing facility has an area of 23,966 sq. ft and is owned by RBZ Jewellers.</p>\n<p>The company's major customers by volume in FY23 are Titan Company Limited, Malabar Gold Private Limited, Joyalukkas India Limited, Senco Gold Limited, Hazoorilal Jewellers Private Limited and others.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "RBZ Jewellers Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "234.76",
+          "206.84",
+          "154.03",
+          "123.74"
+        ],
+        [
+          "Revenue",
+          "125.52",
+          "289.63",
+          "252.53",
+          "107.71"
+        ],
+        [
+          "Profit After Tax",
+          "12.09",
+          "22.33",
+          "14.41",
+          "9.75"
+        ],
+        [
+          "Net Worth",
+          "104.57",
+          "92.47",
+          "70.03",
+          "55.55"
+        ],
+        [
+          "Reserves and Surplus",
+          "74.02",
+          "61.93",
+          "65.60",
+          "51.19"
+        ],
+        [
+          "Total Borrowing",
+          "101.84",
+          "95.79",
+          "59.71",
+          "54.90"
+        ]
+      ]
+    },
+    {
+      "heading": "RBZ Jewellers Limited Stock Quote & Charts",
+      "sanitizedHeading": "rbz_jewellers_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "27.49%"
+        ],
+        [
+          "ROCE",
+          "27.49%"
+        ],
+        [
+          "Debt/Equity",
+          "1.02"
+        ],
+        [
+          "RoNW",
+          "20.08%"
+        ]
+      ]
+    },
+    {
+      "heading": "RBZ Jewellers Limited Stock Quote & Charts",
+      "sanitizedHeading": "rbz_jewellers_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.44",
+          null
+        ],
+        [
+          "P/E (x)",
+          "13.77",
+          "16.53"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "RBZ Jewellers IPO raises Rs 21.00 crore from anchor investors. RBZ Jewellers IPO Anchor bid date is December 18 2023. RBZ Jewellers IPO Anchor Investors list",
+    "list_link": {
+      "text": "RBZ Jewellers IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rbz-anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "March 21 2024",
+      "shares_offered": "2100000",
+      "anchor_portion_size": "21.00"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 19, 2023 to December 21, 2023",
+    "ipoListingDate": "Wed, Dec 27, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹100.00",
+    "lotSize": "150 Shares",
+    "issueSize": "1,00,00,000 shares (aggregating up to ₹100.00 Cr)",
+    "freshIssue": "1,00,00,000 shares (aggregating up to ₹100.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Dec 19, 2023",
+    "ipoCloseDate": "Thu, Dec 21, 2023",
+    "initiationOfRefunds": "Tue, Dec 26, 2023",
+    "creditOfSharesToDemat": "Tue, Dec 26, 2023",
+    "shareHoldingPreIssue": "100%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "4,00,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "4,00,00,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "75%"
+      }
+    ]
+  },
+  "closing_date": "2023-12-20T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-79-29915740",
+    "email": "cs@rbzjewellers.com",
+    "full_address": "RBZ Jewellers Limited, Block-D Mondeal Retail Park Near Rajpath Club, S.G. Highway, Beside Iscon Mall Ahmedabad 380054",
+    "website": "https://rbzjewellers.com/"
+  },
+  "createdAt": "2025-04-18T17:40:46.035Z",
+  "faqs": [
+    {
+      "question": "What is the RBZ Jewellers IPO?",
+      "answer": "<div itemprop=\"text\"><p>RBZ Jewellers IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->10000000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->100.00<!-- --> Crores. The issue is priced at <span>₹100 per share</span>. The minimum order quantity is <!-- -->150<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 19, 2023</b>, and <b>closes on <!-- -->December 21, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in RBZ Jewellers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->RBZ Jewellers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->RBZ Jewellers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->RBZ Jewellers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->RBZ Jewellers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When RBZ Jewellers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The RBZ Jewellers IPO opens on December 19, 2023 and closes on December 21, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of RBZ Jewellers IPO?",
+      "answer": "<div itemprop=\"text\"><p>RBZ Jewellers IPO<!-- --> <b>lot size is <!-- -->150</b>, and the <b>minimum amount required is <span>₹15,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for RBZ Jewellers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->RBZ Jewellers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is RBZ Jewellers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->RBZ Jewellers IPO<!-- --> will be done on <!-- -->Friday, December 22, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, December 26, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/rbz-jewellers-ipo/1588/\" title=\"RBZ Jewellers IPO Allotment Status\">RBZ Jewellers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is RBZ Jewellers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->RBZ Jewellers IPO<!-- --> listing date is on <b>Wednesday, December 27, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "RBZ Jewellers",
+  "issue_price": "₹100.00",
+  "issue_price_numeric": 100,
+  "issue_size": "1,00,00,000 shares (aggregating up to ₹100.00 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Arihant Capital Markets Ltd",
+      "url": "/report/ipo-lead-manager-review/112/86/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/86/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "100.00",
+        "nse": "100.00"
+      },
+      "open": {
+        "bse": "100.00",
+        "nse": "100.00"
+      },
+      "low": {
+        "bse": "95.00",
+        "nse": "96.00"
+      },
+      "high": {
+        "bse": "104.99",
+        "nse": "105.00"
+      },
+      "last_trade": {
+        "bse": "104.99",
+        "nse": "105.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 27 2023",
+    "bse_script_code": "544060",
+    "nse_symbol": "RBZJEWEL",
+    "isin": "INE0PEQ01016",
+    "final_issue_price": "100 per share"
+  },
+  "listing_date": "2023-12-26T18:30:00.000Z",
+  "listing_gains": "4.99%",
+  "listing_gains_numeric": 4.99,
+  "logo": "https://www.chittorgarh.net/images/ipo/rbz-jeweller-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/rbz-jeweller-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 150 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "150",
+        "amount": "15000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1950",
+        "amount": "195000"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "2100",
+        "amount": "210000"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "9900",
+        "amount": "990000"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "10050",
+        "amount": "1005000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/rbz-jewellers-ipo/1588/"
+    }
+  },
+  "lot_size": 150,
+  "opening_date": "2023-12-18T18:30:00.000Z",
+  "pageHeading": "RBZ Jewellers Limited IPO (RBZ Jewellers IPO) Detail",
+  "pageTitle": "RBZ Jewellers IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Rajendrakumar Kantilal Zaveri and Harit Rajendrakumar Zaveri",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "75%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "RBZ Jewellers IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2023/rbz-jewellers-limited-drhp_72825.html"
+    },
+    {
+      "text": "RBZ Jewellers IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/rbz-jewellers-limited-rhp_79857.html"
+    },
+    {
+      "text": "Anchor Investors in RBZ Jewellers IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rbz-anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "2",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/rbz-jewellers-ipo/1588/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "RBZ Jewellers IPO offers 10000000 shares. 1400000 (14.00%) to QIB 3000000 (30.00%) to NII 3500000 (35.00%) to RII and 2100000 (21.00%) to Anchor investors. 23333 RIIs will receive minimum 150 shares and 476 (sNII) and 952 (bNII) will receive minimum 2100 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "2100000 (21.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1400000 (14.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3000000 (30.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2000000 (20.00%)",
+        "maximum_allottees": "952"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1000000 (10.00%)",
+        "maximum_allottees": "476"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3500000 (35.00%)",
+        "maximum_allottees": "23333"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "10000000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.035Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The RBZ Jewellers IPO is subscribed 16.86 times on December 21 2023 7:02:00 PM (Day 3). The public issue subscribed 24.74 times in the retail category 13.43 times in the QIB category and 9.27 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "13.43",
+        "shares_offered": "1400000",
+        "shares_bid_for": "18797250"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "9.27",
+        "shares_offered": "3000000",
+        "shares_bid_for": "27796950"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "6.79",
+        "shares_offered": "2000000",
+        "shares_bid_for": "13588950"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "14.21",
+        "shares_offered": "1000000",
+        "shares_bid_for": "14208000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "24.74",
+        "shares_offered": "3500000",
+        "shares_bid_for": "86592150"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "16.86",
+        "shares_offered": "7900000",
+        "shares_bid_for": "133186350"
+      }
+    },
+    "total_applications": "508034"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 21 2023",
+    "tentative_allotment": "Fri Dec 22 2023",
+    "initiation_of_refunds": "Tue Dec 26 2023",
+    "credit_of_shares_to_demat": "Tue Dec 26 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:43.220Z",
+  "updated_at": "2025-04-18T17:40:46.035Z",
+  "year": 2023,
+  "worst_listing_gains": "4.99%",
+  "worst_listing_gains_numeric": 4.99
+}

@@ -1,0 +1,407 @@
+{
+  "_id": "6802918d3ccffd1c7912ca33",
+  "ipo_id": "2021_vijaya_diagnostic_centre_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:46:46.950Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/vijaya-diagnostic-ipo/1145/"
+  },
+  "about": {
+    "details": "<p>Established in 1981, Vijaya Diagnostic Centre is one of the fastest-growing diagnostic chains in Southern India. The company offers a one-stop solution for pathology and radiology testing services. The company offers around 740 routine tests, 870 specialized pathology tests, 220 basic tests, and 320 advanced radiology tests. The company also offers a broad spectrum of customized health and wellness packages to its customers.</p>\n<p> Company's operational network consists of 80 diagnostic centers and 11 reference laboratories spread across 13 cities and towns in the states of Telangana, Andhra Pradesh, National Capital Region, and Kolkata. 96.2% of the revenue comes from Hyderabad, the rest of Telangana, and the Andhra Pradesh region. During the year ended March 31, 2021, the company conducted approximately 6.20 Mn pathology tests and 0.89 Mn radiology tests for approximately 2.63 Mn customers.</p>\n\n<p>As of March 31, 2021, all Vijaya Diagnostic Centre laboratories hold National Accreditation Board for Testing and Calibration Laboratories (NABL) accreditations, and three diagnostic centers hold Patient Safety &amp; Quality of Care (NABH) accreditations.</p>\n<p><strong>Competitive strengths:</strong></p>\n<ul>\n<li>Largest and fastest-growing diagnostic chain in Southern India.</li>\n<li>Affordable, one-stop solution diagnostics service provider with a focus on superior quality.</li>\n<li>Strong technical capabilities, cutting-edge diagnostic testing technology and robust IT infrastructure.</li>\n<li>All laboratories hold National Accreditation.</li>\n<li>High brand recalls driving high individual consumer business.</li></ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "5409.40",
+          "4822.56",
+          "4064.30"
+        ],
+        [
+          "Total Revenue",
+          "3885.93",
+          "3541.82",
+          "3029.44"
+        ],
+        [
+          "Profit After Tax",
+          "849.11",
+          "625.07",
+          "462.72"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 1, 2021 to September 3, 2021",
+    "ipoListingDate": "Tue, Sep 14, 2021",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹531.00",
+    "lotSize": "28 Shares",
+    "issueSize": "3,56,88,064 shares (aggregating up to ₹1,895.04 Cr)",
+    "offerForSale": "3,56,88,064 shares of ₹1 (aggregating up to ₹1,895.04 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Sep 1, 2021",
+    "ipoCloseDate": "Fri, Sep 3, 2021",
+    "initiationOfRefunds": "Thu, Sep 9, 2021",
+    "creditOfSharesToDemat": "Mon, Sep 13, 2021",
+    "shareHoldingPreIssue": "10,19,65,926 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "10,19,65,926 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "59.78%"
+      }
+    ],
+    "shareHoldingPostIssue": "10,19,65,926 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "10,19,65,926 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "54.78%"
+      }
+    ]
+  },
+  "closing_date": "2021-09-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 40 2342 0411",
+    "email": "ir@vijayadiagnostic.in",
+    "full_address": "Vijaya Diagnostic Centre Limited, 3-6-16 &amp; 17 Street No. 19 Himayatnagar, Hyderabad 500 029",
+    "website": "https://www.vijayadiagnostic.com/"
+  },
+  "createdAt": "2025-04-18T17:53:17.052Z",
+  "faqs": [
+    {
+      "question": "What is the Vijaya Diagnostic IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vijaya Diagnostic IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->35688064<!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->1,895.04<!-- --> Crores. The issue is priced at <span>₹531 per share</span>. The minimum order quantity is <!-- -->28<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 1, 2021</b>, and <b>closes on <!-- -->September 3, 2021</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Vijaya Diagnostic IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Vijaya Diagnostic IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Vijaya Diagnostic IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Vijaya Diagnostic IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Vijaya Diagnostic IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Vijaya Diagnostic IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Vijaya Diagnostic IPO opens on September 1, 2021 and closes on September 3, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Vijaya Diagnostic IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vijaya Diagnostic IPO<!-- --> <b>lot size is <!-- -->28</b>, and the <b>minimum amount required is <span>₹14,868</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Vijaya Diagnostic IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Vijaya Diagnostic IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Vijaya Diagnostic IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Vijaya Diagnostic IPO<!-- --> will be done on <!-- -->Wednesday, September 8, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, September 13, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/vijaya-diagnostic-ipo/1145/\" title=\"Vijaya Diagnostic IPO Allotment Status\">Vijaya Diagnostic IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Vijaya Diagnostic IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Vijaya Diagnostic IPO<!-- --> listing date is on <b>Tuesday, September 14, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Vijaya Diagnostic Centre",
+  "issue_price": "₹531.00",
+  "issue_price_numeric": 531,
+  "issue_size": "3,56,88,064 shares (aggregating up to ₹1,895.04 Cr)",
+  "issue_size_numeric": 3,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "531.00",
+        "nse": "531.00"
+      },
+      "open": {
+        "bse": "542.30",
+        "nse": "540.00"
+      },
+      "low": {
+        "bse": "533.65",
+        "nse": "532.50"
+      },
+      "high": {
+        "bse": "650.75",
+        "nse": "648.00"
+      },
+      "last_trade": {
+        "bse": "619.30",
+        "nse": "620.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 14 2021",
+    "bse_script_code": "543350",
+    "nse_symbol": "VIJAYA",
+    "isin": "INE043W01024",
+    "final_issue_price": "531 per share"
+  },
+  "listing_date": "2021-09-13T18:30:00.000Z",
+  "listing_gains": "16.63%",
+  "listing_gains_numeric": 16.63,
+  "logo": "https://www.chittorgarh.net/images/ipo/vijaya-diagnostic-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/vijaya-diagnostic-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 28 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "28",
+        "amount": "14868"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "364",
+        "amount": "193284"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "392",
+        "amount": "208152"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "1876",
+        "amount": "996156"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "1904",
+        "amount": "1011024"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/vijaya-diagnostic-ipo/1145/"
+    }
+  },
+  "lot_size": 28,
+  "opening_date": "2021-08-31T18:30:00.000Z",
+  "pageHeading": "Vijaya Diagnostic Centre Limited IPO (Vijaya Diagnostic IPO) Detail",
+  "pageTitle": "Vijaya Diagnostic IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Dr. S. Surendranath Reddy is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "59.78%",
+      "share_holding_post_issue": "54.78%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Vijaya Diagnostic IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2021/vijaya-diagnostic-centre-limited_50437.html"
+    },
+    {
+      "text": "Vijaya Diagnostic IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/vijaya-diagnostic-centre-limited_52087.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "9",
+        "neutral": "5",
+        "avoid": "2"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/vijaya-diagnostic-ipo/1145/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "vijaya.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Vijaya Diagnostic IPO offers 25026646 shares. 7107613 (28.40%) to QIB 5330710 (21.30%) to NII 12438323 (49.70%) to RII 150000 (0.60%) to employees. 444225 RIIs will receive minimum 28 shares and (sNII) and (bNII) will receive minimum 392 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "7107613 (28.40%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "5330710 (21.30%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "12438323 (49.70%)",
+        "maximum_allottees": "444225"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "150000 (0.60%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "25026646 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:17.052Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Vijaya Diagnostic IPO is subscribed 4.54 times on September 3 2021 5:00:00 PM (Day 3). The public issue subscribed 1.09 times in the retail category 13.07 times in the QIB category and 1.32 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "13.07",
+        "shares_offered": "7107613",
+        "shares_bid_for": "92862784"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.32",
+        "shares_offered": "5330710",
+        "shares_bid_for": "7059864"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.09",
+        "shares_offered": "12438323",
+        "shares_bid_for": "13574624"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "0.98",
+        "shares_offered": "150000",
+        "shares_bid_for": "146748"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "4.54",
+        "shares_offered": "25026646",
+        "shares_bid_for": "113644020"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 3 2021",
+    "tentative_allotment": "Wed Sep 8 2021",
+    "initiation_of_refunds": "Thu Sep 9 2021",
+    "credit_of_shares_to_demat": "Mon Sep 13 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:19.178Z",
+  "updated_at": "2025-04-18T17:53:17.052Z",
+  "year": 2021,
+  "worst_listing_gains": "16.63%",
+  "worst_listing_gains_numeric": 16.63
+}

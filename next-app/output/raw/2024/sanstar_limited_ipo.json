@@ -1,0 +1,504 @@
+{
+  "_id": "68024a013ccffd1c7912c7f9",
+  "ipo_id": "2024_sanstar_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": true,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:26:33.559Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sanstar-ipo/1779/"
+  },
+  "about": {
+    "details": "<p>Founded in 1982, Sanstar Limited manufactures specialty plant-based products and ingredient solutions for food, pet food and other industrial applications in India.</p>\n<p>The company's product portfolio includes liquid glucose, dried glucose solids, maltodextrin powder, dextrose monohydrate, native maize starches, modified maize starches, and by-products such as germ, gluten, fiber and fortified proteins.</p>\n<p>These products are used in:</p>\n<ol>\n<li>Food products: as ingredients, thickeners, stabilizers, sweeteners, emulsifiers, and additives (including in baked goods, confectionery, pasta, soups, ketchup, sauces, creams and desserts);</li>\n<li>Pet food products: as nutritional ingredients; and</li>\n<li>Other industrial products: as disintegrants, excipients, supplements, coating agents, binders, smoothing and flattering agents, and refining agents.</li>\n</ol>\n<p>The company has two manufacturing facilities covering a total area of 10.68 million square feet (approx 245 acres) at Dhule in the state of Maharashtra and Kutch in the state of Gujarat. With an installed capacity of 3,63,000 tons per annum (1,100 tons per day), the company is the fifth largest manufacturer of corn-based specialty products and ingredients in India.</p>\n<p>The company exports its products to companies in 49 countries including Asia, Africa, the Middle East, America, Europe and Oceania. The company also has a pan-India presence where its products are sold in 22 states.</p>\n<p>As of March 31, 2024, the company employed 271 people (including 60 permanent employees) at its plants in Kutch and Dhule and at its headquarters.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Sanstar Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "527.57",
+          "368.35",
+          "207.45"
+        ],
+        [
+          "Revenue",
+          "1081.68",
+          "1209.67",
+          "504.77"
+        ],
+        [
+          "Profit After Tax",
+          "66.77",
+          "41.81",
+          "15.92"
+        ],
+        [
+          "Net Worth",
+          "215.91",
+          "149.28",
+          "48.97"
+        ],
+        [
+          "Reserves and Surplus",
+          "225.18",
+          "158.41",
+          "55.69"
+        ],
+        [
+          "Total Borrowing",
+          "127.64",
+          "111.70",
+          "85.22"
+        ]
+      ]
+    },
+    {
+      "heading": "Sanstar Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "30.92%"
+        ],
+        [
+          "ROCE",
+          "24.43%"
+        ],
+        [
+          "Debt/Equity",
+          "0.50"
+        ],
+        [
+          "RoNW",
+          "30.92%"
+        ],
+        [
+          "PAT Margin",
+          "6.17"
+        ],
+        [
+          "Price to Book Value",
+          "6.18"
+        ]
+      ]
+    },
+    {
+      "heading": "Sanstar Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.75",
+          "3.66"
+        ],
+        [
+          "P/E (x)",
+          "19.98",
+          "25.93"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Sanstar IPO raises Rs 153.05 crore from anchor investors. Sanstar IPO Anchor bid date is July 18 2024. Sanstar IPO Anchor Investors list",
+    "list_link": {
+      "text": "Sanstar IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sanstar_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "October 22 2024",
+      "shares_offered": "16110000",
+      "anchor_portion_size": "153.05"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "July 19, 2024 to July 23, 2024",
+    "ipoListingDate": "Fri, Jul 26, 2024",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹95.00",
+    "lotSize": "150 Shares",
+    "issueSize": "5,37,00,000 shares (aggregating up to ₹510.15 Cr)",
+    "freshIssue": "4,18,00,000 shares (aggregating up to ₹397.10 Cr)",
+    "offerForSale": "1,19,00,000 shares of ₹2 (aggregating up to ₹113.05 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Jul 19, 2024",
+    "ipoCloseDate": "Tue, Jul 23, 2024",
+    "initiationOfRefunds": "Thu, Jul 25, 2024",
+    "creditOfSharesToDemat": "Thu, Jul 25, 2024",
+    "shareHoldingPreIssue": "14,04,44,250 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "14,04,44,250 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.77%"
+      }
+    ],
+    "shareHoldingPostIssue": "18,22,44,250 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "18,22,44,250 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "70.37%"
+      }
+    ]
+  },
+  "closing_date": "2024-07-22T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 79 26651819",
+    "email": "cs@sanstar.in",
+    "full_address": "Sanstar Limited, Sanstar House near Parimal Under Bridge, Opp. Suvidha Shopping Centre Paldi, Ahmedabad – 380 007",
+    "website": "https://www.sanstar.in/"
+  },
+  "createdAt": "2025-04-18T12:48:01.542Z",
+  "faqs": [
+    {
+      "question": "What is the Sanstar IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sanstar IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->53700000<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->510.15<!-- --> Crores. The issue is priced at <span>₹95 per share</span>. The minimum order quantity is <!-- -->150<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 19, 2024</b>, and <b>closes on <!-- -->July 23, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sanstar IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sanstar IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sanstar IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sanstar IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sanstar IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sanstar IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sanstar IPO opens on July 19, 2024 and closes on July 23, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sanstar IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sanstar IPO<!-- --> <b>lot size is <!-- -->150</b>, and the <b>minimum amount required is <span>₹14,250</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sanstar IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sanstar IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sanstar IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sanstar IPO<!-- --> will be done on <!-- -->Wednesday, July 24, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, July 25, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/sanstar-ipo/1779/\" title=\"Sanstar IPO Allotment Status\">Sanstar IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sanstar IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sanstar IPO<!-- --> listing date is on <b>Friday, July 26, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sanstar",
+  "issue_price": "₹95.00",
+  "issue_price_numeric": 95,
+  "issue_size": "5,37,00,000 shares (aggregating up to ₹510.15 Cr)",
+  "issue_size_numeric": 5,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Pantomath Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/107/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/107/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "95.00",
+        "nse": "95.00"
+      },
+      "open": {
+        "bse": "106.40",
+        "nse": "109.00"
+      },
+      "low": {
+        "bse": "106.40",
+        "nse": "107.10"
+      },
+      "high": {
+        "bse": "127.68",
+        "nse": "128.79"
+      },
+      "last_trade": {
+        "bse": "115.09",
+        "nse": "115.07"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "July 26 2024",
+    "bse_script_code": "544217",
+    "nse_symbol": "SANSTAR",
+    "isin": "INE08NE01025",
+    "final_issue_price": "95 per share"
+  },
+  "listing_date": "2024-07-25T18:30:00.000Z",
+  "listing_gains": "21.15%",
+  "listing_gains_numeric": 21.15,
+  "logo": "https://www.chittorgarh.net/images/ipo/sanstar-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sanstar-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 150 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "150",
+        "amount": "14250"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "14",
+        "shares": "2100",
+        "amount": "199500"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "15",
+        "shares": "2250",
+        "amount": "213750"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "70",
+        "shares": "10500",
+        "amount": "997500"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "71",
+        "shares": "10650",
+        "amount": "1011750"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sanstar-ipo/1779/"
+    }
+  },
+  "lot_size": 150,
+  "opening_date": "2024-07-18T18:30:00.000Z",
+  "pageHeading": "Sanstar Limited IPO (Sanstar IPO) Detail",
+  "pageTitle": "Sanstar IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Gouthamchand Sohanlal Chowdhary Sambhav Gautam Chowdhary and Shreyans Gautam Chowdhary are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "99.77%",
+      "share_holding_post_issue": "70.37%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sanstar IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2024/sanstar-limited-drhp_80414.html"
+    },
+    {
+      "text": "Sanstar IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2024/sanstar-limited-rhp_84750.html"
+    },
+    {
+      "text": "Anchor Investors in Sanstar IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sanstar_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "26",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "6",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sanstar-ipo/1779/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "sanstar.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Sanstar IPO offers 53700000 shares. 10740000 (20.00%) to QIB 8055000 (15.00%) to NII 18795000 (35.00%) to RII and 16110000 (30.00%) to Anchor investors. 125300 RIIs will receive minimum 150 shares and 1193 (sNII) and 2386 (bNII) will receive minimum 2250 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "16110000 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "10740000 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "8055000 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "5370000 (10.00%)",
+        "maximum_allottees": "2386"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "2685000 (5.00%)",
+        "maximum_allottees": "1193"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "18795000 (35.00%)",
+        "maximum_allottees": "125300"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "53700000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.542Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sanstar IPO is subscribed 82.99 times on July 23 2024 6:19:08 PM (Day 3). The public issue subscribed 24.23 times in the retail category 145.68 times in the QIB category and 136.49 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "145.68",
+        "shares_offered": "10740000",
+        "shares_bid_for": "1564582800"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "136.49",
+        "shares_offered": "8055000",
+        "shares_bid_for": "1099464750"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "149.44",
+        "shares_offered": "5370000",
+        "shares_bid_for": "802484550"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "110.61",
+        "shares_offered": "2685000",
+        "shares_bid_for": "296980200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "24.23",
+        "shares_offered": "18795000",
+        "shares_bid_for": "455413350"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "82.99",
+        "shares_offered": "37590000",
+        "shares_bid_for": "3119460900"
+      }
+    },
+    "total_applications": "1528659"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 23 2024",
+    "tentative_allotment": "Wed Jul 24 2024",
+    "initiation_of_refunds": "Thu Jul 25 2024",
+    "credit_of_shares_to_demat": "Thu Jul 25 2024"
+  },
+  "timeline": {
+    "summary": "Sanstar IPO opens on July 19 2024 and closes on July 23 2024.",
+    "schedule": {
+      "ipo_date": "5 PM on July 23 2024",
+      "tentative_allotment": "Wed Jul 24 2024",
+      "initiation_of_refunds": "Thu Jul 25 2024",
+      "credit_of_shares_to_demat": "Thu Jul 25 2024"
+    }
+  },
+  "updatedAt": "2025-04-19T04:37:13.692Z",
+  "updated_at": "2025-04-18T12:48:01.542Z",
+  "year": 2024,
+  "worst_listing_gains": "21.15%",
+  "worst_listing_gains_numeric": 21.15
+}

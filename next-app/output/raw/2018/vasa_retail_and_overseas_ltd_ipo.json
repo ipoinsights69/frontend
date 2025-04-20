@@ -1,0 +1,301 @@
+{
+  "_id": "6802985a3ccffd1c7912cc1e",
+  "ipo_id": "2018_vasa_retail_and_overseas_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": false,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:17:41.514Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/vasa-retail-ipo/797/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2017, Vasa Retail and Overseas Ltd (VROL) (erstwhile Vasa International – a partnership firm) is primarily deals in all kinds of (a) stationery products viz. artistic materials, hobby colors, scholastic colors, scholastic stationery, office products, drawing instruments, writing instruments, office stationery, adhesives, notebooks, office supplies and writing instruments, books, pens, pencils, erasers, files, copier paper, bags and bottles; (b) procuring paper pulp and supplying the same to paper mills and (c) procuring bag fabric and supplying it to the other bag manufacturers and also using the same for manufacturing its products (school and office bags).</p><p>These stationery products are essentially used by school going children and offices as a part of their stationary requirements. On the other hand, paper pulp is the key raw material for the manufacturing of wide variety of paper. VROL classifies its product range into (i) school and education products; (ii) fine art and hobby products; and (iii) office products.</p>"
+  },
+  "basicDetails": {
+    "ipoDate": "January 24, 2018 to January 29, 2018",
+    "ipoListingDate": "February 6, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹30.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "16,00,000 shares (aggregating up to ₹4.80 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "88,000 shares",
+    "ipoOpenDate": "Wed, Jan 24, 2018",
+    "ipoCloseDate": "Mon, Jan 29, 2018",
+    "shareHoldingPreIssue": "43,92,550 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "43,92,550 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "59,92,550 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "59,92,550 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-01-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 2414 1380",
+    "email": "investor@vasagroup.in",
+    "full_address": "Vasa Retail and Overseas Ltd, C - 001 Ground Floor A/3, Antop Hill Warehousing, Vidyalankar College Marg",
+    "website": "http://www.vasagroup.in"
+  },
+  "createdAt": "2025-04-18T18:22:18.524Z",
+  "faqs": [
+    {
+      "question": "What is the Vasa Retail IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vasa Retail IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1600000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->4.80<!-- --> Crores. The issue is priced at <span>₹30 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 24, 2018</b>, and <b>closes on <!-- -->January 29, 2018</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Vasa Retail IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Vasa Retail IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Vasa Retail IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Vasa Retail IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Vasa Retail IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Vasa Retail IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Vasa Retail IPO opens on January 24, 2018 and closes on January 29, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Vasa Retail IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vasa Retail IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Vasa Retail IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Vasa Retail IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Vasa Retail IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Vasa Retail IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/vasa-retail-ipo/797/\" title=\"Vasa Retail IPO Allotment Status\">Vasa Retail IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Vasa Retail IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Vasa Retail IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Vasa Retail and Overseas",
+  "issue_price": "₹30.00",
+  "issue_price_numeric": 30,
+  "issue_size": "16,00,000 shares (aggregating up to ₹4.80 Cr)",
+  "issue_size_numeric": 16,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "30.00"
+      },
+      "open": {
+        "nse_sme": "36.00"
+      },
+      "low": {
+        "nse_sme": "36.00"
+      },
+      "high": {
+        "nse_sme": "36.00"
+      },
+      "last_trade": {
+        "nse_sme": "36.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "February 6 2018",
+    "nse_symbol": "VASA",
+    "isin": "INE068Z01016",
+    "final_issue_price": "30 per share"
+  },
+  "listing_date": "2018-02-05T18:30:00.000Z",
+  "listing_gains": "20.00%",
+  "listing_gains_numeric": 20,
+  "logo": "https://www.chittorgarh.net/images/ipo/vasa_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/vasa_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/vasa-retail-ipo/797/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2018-01-23T18:30:00.000Z",
+  "pageHeading": "Vasa Retail and Overseas Ltd IPO (Vasa Retail IPO) Detail",
+  "pageTitle": "Vasa Retail IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Vasa Retail IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Vasa_DP.pdf"
+    },
+    {
+      "text": "Vasa Retail IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2018/vasa-retail-and-overseas-limited_37494.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/vasa-retail-ipo/797/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Vasa Retail IPO offers 1688000 shares. 756000 (44.79%) to NII 756000 (44.79%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "88000 (5.21%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "756000 (44.79%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "756000 (44.79%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "88000 (5.21%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1688000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:18.524Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Vasa Retail IPO is subscribed 218 times on January 29 2018 5:00:00 PM (Day 3). The public issue subscribed 259.96 times in the retail category [.] times in the QIB category and 175.44 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "175.44",
+        "shares_offered": "756000",
+        "shares_bid_for": "132636000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "259.96",
+        "shares_offered": "756000",
+        "shares_bid_for": "196528000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "218",
+        "shares_offered": "1512000",
+        "shares_bid_for": "329620000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 29 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:27.897Z",
+  "updated_at": "2025-04-18T18:22:18.524Z",
+  "year": 2018,
+  "worst_listing_gains": "20.00%",
+  "worst_listing_gains_numeric": 20
+}

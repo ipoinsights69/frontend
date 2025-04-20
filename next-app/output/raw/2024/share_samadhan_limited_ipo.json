@@ -1,0 +1,449 @@
+{
+  "_id": "68024a013ccffd1c7912c7f1",
+  "ipo_id": "2024_share_samadhan_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:22:53.432Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/share-samadhan-ipo/1842/"
+  },
+  "about": {
+    "details": "<p>Share Samadhan Limited, previously known as Tiger Island Hospitality Private Limited, was incorporated in 2011 and offers a wide range of services aimed at helping clients protect and recover their investments/money efficiently.</p>\n<p>The company has three main business lines:</p>\n<ol>\n<li>Investment Retrieval Services through Share Samadhan Limited: Investment Retrieval Services, which provides advisory services to unlock value and resolve investor issues related to various financial assets such as equities, preference shares, mutual funds, debentures, bonds, insurance, provident funds, deposits, bank accounts, debt, and other asset classes. In addition, the company assists in the recovery of unclaimed and unpaid dividends and interest, as well as problems with old, lost, forgotten, or damaged financial instruments such as physical shares, old mutual fund securities, old insurance/PF securities, etc., and facilitates transfer and transmission procedures and other related services.</li>\n<li>Wealth Protection services through Wealth Samadhan Pvt Limited: The Company also offers wealth protection services through Wealth Samadhan Card. Wealth Samadhan Card is a comprehensive digital solution to protect and optimize the protection of investment data.</li>\n<li>Litigation funding solutions through Nyaya Mitra Limited: The company also offers a range of litigation funding solutions tailored to the multi-faceted nature of litigation through its subsidiary Nyaya Mitra Limited.</li>\n</ol>\n<p>As of August 28, 2024, the company had 48 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Share Samadhan Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1422.31",
+          "478.88",
+          "425.54"
+        ],
+        [
+          "Revenue",
+          "996.13",
+          "276.14",
+          "242.14"
+        ],
+        [
+          "Profit After Tax",
+          "391.01",
+          "47.92",
+          "60.7"
+        ],
+        [
+          "Net Worth",
+          "1128.79",
+          "359.27",
+          "313.84"
+        ],
+        [
+          "Reserves and Surplus",
+          "226.9",
+          "248.15",
+          "202.73"
+        ],
+        [
+          "Total Borrowing",
+          "87.09",
+          "61.85",
+          "60.38"
+        ]
+      ]
+    },
+    {
+      "heading": "Share Samadhan Ltd Stock Quote & Charts",
+      "sanitizedHeading": "share_samadhan_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "34.64%"
+        ],
+        [
+          "ROCE",
+          "47.99%"
+        ],
+        [
+          "RoNW",
+          "34.64%"
+        ],
+        [
+          "Price to Book Value",
+          "5.91"
+        ]
+      ]
+    },
+    {
+      "heading": "Share Samadhan Ltd Stock Quote & Charts",
+      "sanitizedHeading": "share_samadhan_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.34",
+          "3.19"
+        ],
+        [
+          "P/E (x)",
+          "17.07",
+          "23.22"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Share Samadhan IPO raises Rs 6.83 crore from anchor investors. Share Samadhan IPO Anchor bid date is September 6 2024. Share Samadhan IPO Anchor Investors list",
+    "list_link": {
+      "text": "Share Samadhan IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sare_samadhan_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "December 11 2024",
+      "shares_offered": "923200",
+      "anchor_portion_size": "6.83"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 9, 2024 to September 11, 2024",
+    "ipoListingDate": "Mon, Sep 16, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹74.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "32,51,200 shares (aggregating up to ₹24.06 Cr)",
+    "freshIssue": "32,51,200 shares (aggregating up to ₹24.06 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "1,63,200 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Mon, Sep 9, 2024",
+    "ipoCloseDate": "Wed, Sep 11, 2024",
+    "initiationOfRefunds": "Fri, Sep 13, 2024",
+    "creditOfSharesToDemat": "Fri, Sep 13, 2024",
+    "shareHoldingPreIssue": "90,18,903 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "90,18,903 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "85.05%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,22,70,103 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,22,70,103 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "62.52%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-10T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "011- 49084044",
+    "email": "nfo@sharesamadhan.com",
+    "full_address": "Share Samadhan Limited, B-35 Lower Ground Floor, South Extension Part-II, New Delhi - 110049",
+    "website": "http://www.sharesamadhan.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.478Z",
+  "faqs": [
+    {
+      "question": "What is the Share Samadhan IPO?",
+      "answer": "<div itemprop=\"text\"><p>Share Samadhan IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3251200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->24.06<!-- --> Crores. The issue is priced at <span>₹74 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 9, 2024</b>, and <b>closes on <!-- -->September 11, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Share Samadhan IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Share Samadhan IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Share Samadhan IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Share Samadhan IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Share Samadhan IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Share Samadhan IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Share Samadhan IPO opens on September 9, 2024 and closes on September 11, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Share Samadhan IPO?",
+      "answer": "<div itemprop=\"text\"><p>Share Samadhan IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,18,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Share Samadhan IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Share Samadhan IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Share Samadhan IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Share Samadhan IPO<!-- --> will be done on <!-- -->Thursday, September 12, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, September 13, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/share-samadhan-ipo/1842/\" title=\"Share Samadhan IPO Allotment Status\">Share Samadhan IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Share Samadhan IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Share Samadhan IPO<!-- --> listing date is on <b>Monday, September 16, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Share Samadhan",
+  "issue_price": "₹74.00",
+  "issue_price_numeric": 74,
+  "issue_size": "32,51,200 shares (aggregating up to ₹24.06 Cr)",
+  "issue_size_numeric": 32,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Narnolia Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/185/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/185/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "74.00"
+      },
+      "open": {
+        "bse_sme": "73.05"
+      },
+      "low": {
+        "bse_sme": "69.40"
+      },
+      "high": {
+        "bse_sme": "76.00"
+      },
+      "last_trade": {
+        "bse_sme": "74.87"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 16 2024",
+    "bse_script_code": "544251",
+    "isin": "INE0LY301010",
+    "final_issue_price": "74 per share"
+  },
+  "listing_date": "2024-09-15T18:30:00.000Z",
+  "listing_gains": "1.18%",
+  "listing_gains_numeric": 1.18,
+  "logo": "https://www.chittorgarh.net/images/ipo/share-samadhan-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/share-samadhan-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "118400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "118400"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "236800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/share-samadhan-ipo/1842/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-09-08T18:30:00.000Z",
+  "pageHeading": "Share Samadhan Limited IPO (Share Samadhan IPO) Detail",
+  "pageTitle": "Share Samadhan IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Abhay Kumar Chandalia and Mr. Vikash Kumar Jain are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "85.05%",
+      "share_holding_post_issue": "62.52%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Share Samadhan IPO DRHP",
+      "url": "https://www.bsesme.com/download/319510/DRHP_Sharesamadhan_20240820164301.pdf"
+    },
+    {
+      "text": "Share Samadhan IPO RHP",
+      "url": "https://www.bseindia.com/downloads/ipo/RHP%20&%20GID_060920241243.zip"
+    },
+    {
+      "text": "Anchor Investors in Share Samadhan IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sare_samadhan_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/share-samadhan-ipo/1842/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "compliances@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Share Samadhan IPO offers 3251200 shares. 619200 (19.05%) to QIB 464000 (14.27%) to NII 1081600 (33.27%) to RII and 923200 (28.4%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "923200 (28.4%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "163200 (5.02%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "619200 (19.05%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "464000 (14.27%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1081600 (33.27%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3251200 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.478Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Share Samadhan IPO is subscribed 14.59 times on September 11 2024 6:19:11 PM (Day 3). The public issue subscribed 18.04 times in the retail category 2.66 times in the QIB category and 22.44 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "2.66",
+        "shares_offered": "619200",
+        "shares_bid_for": "1646400"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "22.44",
+        "shares_offered": "464000",
+        "shares_bid_for": "10414400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "18.04",
+        "shares_offered": "1081600",
+        "shares_bid_for": "19513600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "14.59",
+        "shares_offered": "2164800",
+        "shares_bid_for": "31574400"
+      }
+    },
+    "total_applications": "19197",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 11 2024",
+    "tentative_allotment": "Thu Sep 12 2024",
+    "initiation_of_refunds": "Fri Sep 13 2024",
+    "credit_of_shares_to_demat": "Fri Sep 13 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:12.799Z",
+  "updated_at": "2025-04-18T12:48:01.478Z",
+  "year": 2024,
+  "worst_listing_gains": "1.18%",
+  "worst_listing_gains_numeric": 1.18
+}

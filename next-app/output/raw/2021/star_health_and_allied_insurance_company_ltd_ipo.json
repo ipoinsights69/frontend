@@ -1,0 +1,465 @@
+{
+  "_id": "6802918c3ccffd1c7912ca27",
+  "ipo_id": "2021_star_health_and_allied_insurance_company_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:45:16.912Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/star-health-ipo/1184/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2006, Star Health and Allied Insurance Company Ltd is <strong>one of the largest</strong> <strong>private health insurers</strong> <strong>in India</strong> with a market share of 15.8% in Fiscal 2021. The company primarily focuses on the retail health and group health segments which accounted for 89.3% and 10.7% of the company's total GWP in Fiscal 2021 respectively.</p>\n<p>The company mainly distributes policies through individual agents and also includes corporate agent banks and other corporate agents. As of Sep 31, 2021, its network distribution includes 779 health insurance branches across 25 states and 5 union territories in India. Star Health has also built one of the largest health insurance hospital networks in India with more than 11,778 hospitals.</p>\n<p><strong>Competitive strengths</strong></p>\n<ul>\n<li>Largest private health insurance company in India with leadership in the attractive retail health segment.</li>\n<li>Largest network distribution in the health insurance industry.</li>\n<li>Diversified product suite with a focus on innovation and specialized products.</li>\n<li>Strong risk management with superior claims ratio and quality customer services.</li>\n<li>Demonstrated track record of operating and financial performance.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-21",
+          "30-Sep-20",
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "49749.42",
+          "21008.88",
+          "44665.72",
+          "18967.69",
+          "16426.35"
+        ],
+        [
+          "Total Revenue",
+          "- 4946.80",
+          "3343.05",
+          "- 9077.76",
+          "4619.61",
+          "2262.54"
+        ],
+        [
+          "Profit After Tax",
+          "- 3802.69",
+          "1992.87",
+          "- 8255.81",
+          "2680.02",
+          "1282.26"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "November 30, 2021 to December 2, 2021",
+    "ipoListingDate": "Fri, Dec 10, 2021",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹900.00",
+    "lotSize": "16 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹7,249.18 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹2,000.00 Cr)",
+    "offerForSale": "5,83,24,225 shares of ₹10 (aggregating up to ₹5,249.18 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Nov 30, 2021",
+    "ipoCloseDate": "Thu, Dec 2, 2021",
+    "initiationOfRefunds": "Wed, Dec 8, 2021",
+    "creditOfSharesToDemat": "Thu, Dec 9, 2021",
+    "shareHoldingPreIssue": "55,32,89,944 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "55,32,89,944 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "66.22%"
+      }
+    ],
+    "shareHoldingPostIssue": "57,55,22,174 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "57,55,22,174 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "58.42%"
+      }
+    ]
+  },
+  "closing_date": "2021-12-01T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 44 2828 8800",
+    "email": "investors@starhealth.in",
+    "full_address": "Star Health and Allied Insurance Company Ltd, No.1 New Tank StreetValluvarkottam High Road, Nungambakkam Chennai 600 034",
+    "website": "http://www.starhealth.in/"
+  },
+  "createdAt": "2025-04-18T17:53:16.683Z",
+  "faqs": [
+    {
+      "question": "What is the Star Health IPO?",
+      "answer": "<div itemprop=\"text\"><p>Star Health IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->7,249.18<!-- --> Crores. The issue is priced at <span>₹900 per share</span>. The minimum order quantity is <!-- -->16<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 30, 2021</b>, and <b>closes on <!-- -->December 2, 2021</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Star Health IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Star Health IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Star Health IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Star Health IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Star Health IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Star Health IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Star Health IPO opens on November 30, 2021 and closes on December 2, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Star Health IPO?",
+      "answer": "<div itemprop=\"text\"><p>Star Health IPO<!-- --> <b>lot size is <!-- -->16</b>, and the <b>minimum amount required is <span>₹14,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Star Health IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Star Health IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Star Health IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Star Health IPO<!-- --> will be done on <!-- -->Tuesday, December 7, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, December 9, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/star-health-ipo/1184/\" title=\"Star Health IPO Allotment Status\">Star Health IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Star Health IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Star Health IPO<!-- --> listing date is on <b>Friday, December 10, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Star Health and Allied Insurance Company",
+  "issue_price": "₹900.00",
+  "issue_price_numeric": 900,
+  "issue_size": "[.] shares (aggregating up to ₹7,249.18 Cr)",
+  "issue_size_numeric": 7,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Ambit Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/119/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/119/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Bofa Securities India Limited",
+      "url": "/report/ipo-lead-manager-review/112/22/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/22/"
+    },
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "Clsa India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/142/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/142/"
+    },
+    {
+      "name": "Credit Suisse Securities",
+      "url": "/report/ipo-lead-manager-review/112/111/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/111/"
+    },
+    {
+      "name": "Dam Capital Advisors Ltd",
+      "url": "/report/ipo-lead-manager-review/112/30/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/30/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Jefferies India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/112/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/112/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "900.00",
+        "nse": "900.00"
+      },
+      "open": {
+        "bse": "848.80",
+        "nse": "845.00"
+      },
+      "low": {
+        "bse": "827.50",
+        "nse": "828.00"
+      },
+      "high": {
+        "bse": "940.00",
+        "nse": "940.00"
+      },
+      "last_trade": {
+        "bse": "906.85",
+        "nse": "906.85"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 10 2021",
+    "bse_script_code": "543412",
+    "nse_symbol": "STARHEALTH",
+    "isin": "INE575P01011",
+    "final_issue_price": "900 per share"
+  },
+  "listing_date": "2021-12-09T18:30:00.000Z",
+  "listing_gains": "0.76%",
+  "listing_gains_numeric": 0.76,
+  "logo": "https://www.chittorgarh.net/images/ipo/star-health-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/star-health-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 16 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "16",
+        "amount": "14400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "208",
+        "amount": "187200"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "224",
+        "amount": "201600"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "1104",
+        "amount": "993600"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "1120",
+        "amount": "1008000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/star-health-ipo/1184/"
+    }
+  },
+  "lot_size": 16,
+  "opening_date": "2021-11-29T18:30:00.000Z",
+  "pageHeading": "Star Health and Allied Insurance Company Ltd IPO (Star Health IPO) Detail",
+  "pageTitle": "Star Health IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Safecrop Investments India LLP Westbridge AIF I and Rakesh Jhunjhunwala are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "66.22%",
+      "share_holding_post_issue": "58.42%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Star Health IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2021/star-health-and-allied-insurance-company-limited-drhp_51323.html"
+    },
+    {
+      "text": "Star Health IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/star-health-and-allied-insurance-co-ltd-_54484.html"
+    },
+    {
+      "text": "Anchor Investors in Star Health IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20211129-52&attachedId=052b3d73-8589-4ad3-af66-da46b96d9452"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "2",
+        "neutral": "7",
+        "avoid": "3"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/star-health-ipo/1184/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "starhealth.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Star Health IPO offers 44908947 shares. 23830602 (53.06%) to QIB 11915300 (26.53%) to NII 7943533 (17.69%) to RII 1219512 (2.72%) to employees. 496470 RIIs will receive minimum 16 shares and (sNII) and (bNII) will receive minimum 224 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "23830602 (53.06%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "11915300 (26.53%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "7943533 (17.69%)",
+        "maximum_allottees": "496470"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "1219512 (2.72%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "44908947 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:16.683Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Star Health IPO is subscribed 0.79 times on December 2 2021 7:00:00 PM (Day 3). The public issue subscribed 1.1 times in the retail category 1.03 times in the QIB category and 0.19 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.03",
+        "shares_offered": "23830602",
+        "shares_bid_for": "24493456"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.19",
+        "shares_offered": "11915300",
+        "shares_bid_for": "2275616"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.1",
+        "shares_offered": "7943533",
+        "shares_bid_for": "8715408"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "0.1",
+        "shares_offered": "1219512",
+        "shares_bid_for": "118064"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "0.79",
+        "shares_offered": "44908947",
+        "shares_bid_for": "35602544"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 2 2021",
+    "tentative_allotment": "Tue Dec 7 2021",
+    "initiation_of_refunds": "Wed Dec 8 2021",
+    "credit_of_shares_to_demat": "Thu Dec 9 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:17.532Z",
+  "updated_at": "2025-04-18T17:53:16.683Z",
+  "year": 2021,
+  "worst_listing_gains": "0.76%",
+  "worst_listing_gains_numeric": 0.76
+}

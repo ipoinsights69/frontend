@@ -1,0 +1,500 @@
+{
+  "_id": "680249fe3ccffd1c7912c78c",
+  "ipo_id": "2024_jg_chemicals_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:38:44.066Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/jg-chemicals-ipo/1663/"
+  },
+  "about": {
+    "details": "<p>JG Chemicals Limited was founded in 1975 and is a zinc oxide manufacturer using the French process. The company produces more than 80 grades of zinc oxide.</p>\n<p>This product is used in various industrial applications such as ceramics, paints and coatings, pharmaceuticals and cosmetics, electronics and batteries, agrochemicals and fertilizers, specialty chemicals, lubricants, oil and gas, and animal feed.</p>\n<p>The company operates three manufacturing facilities in Jangalpur and Belur, both in Kolkata, West Bengal and Naidupeta in Nellore District, Andhra Pradesh. Naidupeta is the largest facility, owned and operated by the Material subsidiary. All manufacturing facilities are ISO 45001:2018 and ISO 14001:2015 certified and ISO 9001:2015 accredited.</p>\n<p>The company has served the needs of more than 200 local and 50 international customers in more than 10 countries.</p>\n<p>As of December 31, 2023, the company employed 112 permanent employees, over 100 workers and apprentices.</p>\n<p>For the nine-month period ended December 31, 2023 and the financial years 2023, 2022 and 2021, the Company recorded operating income of ₹ 4,863.22 million, ₹ 7,845.76 million, ₹ 6,128.30 million and ₹ 4,352.98 million respectively.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "JG Chemicals Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "271.26",
+          "297.79",
+          "264.14",
+          "209.94"
+        ],
+        [
+          "Revenue",
+          "491.10",
+          "794.19",
+          "623.05",
+          "440.41"
+        ],
+        [
+          "Profit After Tax",
+          "18.51",
+          "56.79",
+          "43.13",
+          "28.80"
+        ],
+        [
+          "Net Worth",
+          "217.86",
+          "199.89",
+          "147.66",
+          "108.48"
+        ],
+        [
+          "Reserves and Surplus",
+          "193.22",
+          "175.67",
+          "151.23",
+          "107.17"
+        ]
+      ]
+    },
+    {
+      "heading": "J.G.Chemicals Limited Stock Quote & Charts",
+      "sanitizedHeading": "jgchemicals_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "8.20%"
+        ],
+        [
+          "ROCE",
+          "11.86 %"
+        ],
+        [
+          "Debt/Equity",
+          "0.11"
+        ],
+        [
+          "RoNW",
+          "8.16%"
+        ],
+        [
+          "PAT Margin",
+          "7.24"
+        ],
+        [
+          "Price to Book Value",
+          "3.51"
+        ]
+      ]
+    },
+    {
+      "heading": "J.G.Chemicals Limited Stock Quote & Charts",
+      "sanitizedHeading": "jgchemicals_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "13.60",
+          "11.01"
+        ],
+        [
+          "P/E (x)",
+          "16.25",
+          "20.08"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "JG Chemicals IPO raises Rs 75.36 crore from anchor investors. JG Chemicals IPO Anchor bid date is March 4 2024. JG Chemicals IPO Anchor Investors list",
+    "list_link": {
+      "text": "JG Chemicals IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/jg_chemicals_anchorintimation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "June 9 2024",
+      "shares_offered": "3409818",
+      "anchor_portion_size": "75.36"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "March 5, 2024 to March 7, 2024",
+    "ipoListingDate": "Wed, Mar 13, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹221.00",
+    "lotSize": "67 Shares",
+    "issueSize": "1,13,66,063 shares (aggregating up to ₹251.19 Cr)",
+    "freshIssue": "74,66,063 shares (aggregating up to ₹165.00 Cr)",
+    "offerForSale": "39,00,000 shares of ₹10 (aggregating up to ₹86.19 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Mar 5, 2024",
+    "ipoCloseDate": "Thu, Mar 7, 2024",
+    "initiationOfRefunds": "Tue, Mar 12, 2024",
+    "creditOfSharesToDemat": "Tue, Mar 12, 2024",
+    "shareHoldingPreIssue": "3,17,20,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "3,17,20,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "3,91,86,063 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "3,91,86,063 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-03-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 33 4014 0100",
+    "email": "corporate@jgchem.com",
+    "full_address": "JG Chemicals Limited, 34A, Metcalfe Street, Kolkata – 700 013",
+    "website": "https://jgchem.com/"
+  },
+  "createdAt": "2025-04-18T12:47:58.048Z",
+  "faqs": [
+    {
+      "question": "What is the JG Chemicals IPO?",
+      "answer": "<div itemprop=\"text\"><p>JG Chemicals IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->11366063<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->251.19<!-- --> Crores. The issue is priced at <span>₹221 per share</span>. The minimum order quantity is <!-- -->67<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 5, 2024</b>, and <b>closes on <!-- -->March 7, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in JG Chemicals IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->JG Chemicals IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->JG Chemicals IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->JG Chemicals IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->JG Chemicals IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When JG Chemicals IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The JG Chemicals IPO opens on March 5, 2024 and closes on March 7, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of JG Chemicals IPO?",
+      "answer": "<div itemprop=\"text\"><p>JG Chemicals IPO<!-- --> <b>lot size is <!-- -->67</b>, and the <b>minimum amount required is <span>₹14,807</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for JG Chemicals IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->JG Chemicals IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is JG Chemicals IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->JG Chemicals IPO<!-- --> will be done on <!-- -->Monday, March 11, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, March 12, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/jg-chemicals-ipo/1663/\" title=\"JG Chemicals IPO Allotment Status\">JG Chemicals IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is JG Chemicals IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->JG Chemicals IPO<!-- --> listing date is on <b>Wednesday, March 13, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "JG Chemicals",
+  "issue_price": "₹221.00",
+  "issue_price_numeric": 221,
+  "issue_size": "1,13,66,063 shares (aggregating up to ₹251.19 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Centrum Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/37/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/37/"
+    },
+    {
+      "name": "Emkay Global Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/179/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/179/"
+    },
+    {
+      "name": "Keynote Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/24/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/24/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "221.00",
+        "nse": "221.00"
+      },
+      "open": {
+        "bse": "211.00",
+        "nse": "209.00"
+      },
+      "low": {
+        "bse": "181.20",
+        "nse": "181.30"
+      },
+      "high": {
+        "bse": "213.75",
+        "nse": "213.75"
+      },
+      "last_trade": {
+        "bse": "184.65",
+        "nse": "184.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 13 2024",
+    "bse_script_code": "544138",
+    "nse_symbol": "JGCHEM",
+    "isin": "INE0MB501011",
+    "final_issue_price": "221 per share"
+  },
+  "listing_date": "2024-03-12T18:30:00.000Z",
+  "listing_gains": "-16.45%",
+  "listing_gains_numeric": -16.45,
+  "logo": "https://www.chittorgarh.net/images/ipo/jg-chemicals-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/jg-chemicals-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 67 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "67",
+        "amount": "14807"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "871",
+        "amount": "192491"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "938",
+        "amount": "207298"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "4489",
+        "amount": "992069"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "4556",
+        "amount": "1006876"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/jg-chemicals-ipo/1663/"
+    }
+  },
+  "lot_size": 67,
+  "opening_date": "2024-03-04T18:30:00.000Z",
+  "pageHeading": "JG Chemicals Limited IPO (JG Chemicals IPO) Detail",
+  "pageTitle": "JG Chemicals IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Suresh Jhunjhunwala Anirudh Jhunjhunwala and Anuj Jhunjhunwala.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "JG Chemicals IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2023/j-g-chemicals-limited_67061.html"
+    },
+    {
+      "text": "JG Chemicals IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/j-g-chemicals-limited-red-herring-prospectus_81836.html"
+    },
+    {
+      "text": "Anchor Investors in JG Chemicals IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/jg_chemicals_anchorintimation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "10",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/jg-chemicals-ipo/1663/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "jgchemicals.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "JG Chemicals IPO offers 11366064 shares. 2273214 (20.00%) to QIB 1704910 (15.00%) to NII 3978122 (35.00%) to RII and 3409818 (30.00%) to Anchor investors. 59374 RIIs will receive minimum 67 shares and 605 (sNII) and 1211 (bNII) will receive minimum 938 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "3409818 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2273214 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1704910 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1136606 (10.00%)",
+        "maximum_allottees": "1211"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "568303 (5.00%)",
+        "maximum_allottees": "605"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3978122 (35.00%)",
+        "maximum_allottees": "59374"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "11366064 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.047Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The JG Chemicals IPO is subscribed 28.52 times on March 7 2024 6:21:00 PM (Day 3). The public issue subscribed 18.03 times in the retail category 32.33 times in the QIB category and 47.92 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "32.33",
+        "shares_offered": "2273214",
+        "shares_bid_for": "73493841"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "47.92",
+        "shares_offered": "1704910",
+        "shares_bid_for": "81695780"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "50.26",
+        "shares_offered": "1136606",
+        "shares_bid_for": "57123999"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "43.24",
+        "shares_offered": "568303",
+        "shares_bid_for": "24571781"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "18.03",
+        "shares_offered": "3978122",
+        "shares_bid_for": "71721624"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "28.52",
+        "shares_offered": "7956246",
+        "shares_bid_for": "226911245"
+      }
+    },
+    "total_applications": "1012547"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 7 2024",
+    "tentative_allotment": "Mon Mar 11 2024",
+    "initiation_of_refunds": "Tue Mar 12 2024",
+    "credit_of_shares_to_demat": "Tue Mar 12 2024"
+  },
+  "updatedAt": "2025-04-19T04:36:59.577Z",
+  "updated_at": "2025-04-18T12:47:58.047Z",
+  "year": 2024,
+  "worst_listing_gains": "-16.45%",
+  "worst_listing_gains_numeric": -16.45
+}

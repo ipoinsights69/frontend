@@ -1,0 +1,439 @@
+{
+  "_id": "680249fc3ccffd1c7912c74b",
+  "ipo_id": "2024_enser_communications_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:37:52.894Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/enser-communications-ipo/1677/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2008, Enser Communications Limited offers Business Process Management (BPM) services to companies in the insurance, e-commerce, education and travel sectors.</p>\n<p>Enser has 4 main business verticals:</p>\n<ol>\n<li>Customer Acquisition Services</li>\n<li>Customer services</li>\n<li>IT infrastructure management services</li>\n<li>Data management services</li>\n</ol>\n<p>Under these verticals, the company provides business analytics, customer relationship management (CRM), interactive voice response systems (IVRS), customer interaction management solutions, technology-enabled infrastructure development, technology-enabled solutions - payment reminder/collection/subscription collection, process re-engineering, transaction monitoring systems, ERP implementation and maintenance, application development - customer relationship management, web chat services, application/transaction processing, debt collection, sales &amp; lead generation, customer support, business process outsourcing (BPO) / business process management (BPM), knowledge process consulting, contact center, and customer acquisition services.</p>\n<p>The company's clients include Acko General Insurance Limited, Ola Financials Services Pvt Ltd, Metis Eduventures Pvt Ltd, National Health Authority (Government), Reliance Nippon Life Insurance Company Ltd, Class 21A Technologies Pvt Ltd, Acko Technology &amp; Services Pvt ltd, Girnar Finserv Pvt ltd, Gaadi web Private Limited, and G C web ventures Pvt Ltd.</p>\n<p>As of December 31, 2023, the company had a total of 780 full-time employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Enser Communications Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1799.26",
+          "1383.92",
+          "870.42",
+          "662.41"
+        ],
+        [
+          "Revenue",
+          "1815.89",
+          "2590.97",
+          "1686.47",
+          "961.30"
+        ],
+        [
+          "Profit After Tax",
+          "213.98",
+          "160.06",
+          "77.92",
+          "-11.74"
+        ],
+        [
+          "Net Worth",
+          "653.24",
+          "394.78",
+          "234.71",
+          "156.78"
+        ],
+        [
+          "Reserves and Surplus",
+          "652.17",
+          "393.78",
+          "233.71",
+          "155.78"
+        ],
+        [
+          "Total Borrowing",
+          "709.09",
+          "631.88",
+          "309.37",
+          "276.92"
+        ]
+      ]
+    },
+    {
+      "heading": "Enser Communications Limited Stock Quote & Charts",
+      "sanitizedHeading": "enser_communications_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "32.76%"
+        ],
+        [
+          "ROCE",
+          "34.61%"
+        ],
+        [
+          "RoNW",
+          "32.76%"
+        ],
+        [
+          "PAT Margin",
+          "213.98"
+        ],
+        [
+          "Price to Book Value",
+          "6.46"
+        ]
+      ]
+    },
+    {
+      "heading": "Enser Communications Limited Stock Quote & Charts",
+      "sanitizedHeading": "enser_communications_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.50",
+          "4.91"
+        ],
+        [
+          "P/E (x)",
+          "28.02",
+          "14.26"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 15, 2024 to March 19, 2024",
+    "ipoListingDate": "Fri, Mar 22, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹70.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "23,10,000 shares (aggregating up to ₹16.17 Cr)",
+    "freshIssue": "23,10,000 shares (aggregating up to ₹16.17 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,18,000 shares",
+      "maker_name": "B.N. Rathi Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/418/"
+    },
+    "ipoOpenDate": "Fri, Mar 15, 2024",
+    "ipoCloseDate": "Tue, Mar 19, 2024",
+    "initiationOfRefunds": "Thu, Mar 21, 2024",
+    "creditOfSharesToDemat": "Thu, Mar 21, 2024",
+    "shareHoldingPreIssue": "64,06,059 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "64,06,059 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "90.13%"
+      }
+    ],
+    "shareHoldingPostIssue": "87,16,059 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "87,16,059 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.25%"
+      }
+    ]
+  },
+  "closing_date": "2024-03-18T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "0124-4258077",
+    "email": "solutions@enser.co.in",
+    "full_address": "Enser Communications Limited, 5 th Floor 501-506, Arihant Aura Turbhe, Navi Mumbai Sanpada Thane - 400703",
+    "website": "http://www.enser.co.in/"
+  },
+  "createdAt": "2025-04-18T12:47:56.549Z",
+  "faqs": [
+    {
+      "question": "What is the Enser Communications IPO?",
+      "answer": "<div itemprop=\"text\"><p>Enser Communications IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2310000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->16.17<!-- --> Crores. The issue is priced at <span>₹70 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 15, 2024</b>, and <b>closes on <!-- -->March 19, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Enser Communications IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Enser Communications IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Enser Communications IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Enser Communications IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Enser Communications IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Enser Communications IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Enser Communications IPO opens on March 15, 2024 and closes on March 19, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Enser Communications IPO?",
+      "answer": "<div itemprop=\"text\"><p>Enser Communications IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,40,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Enser Communications IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Enser Communications IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Enser Communications IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Enser Communications IPO<!-- --> will be done on <!-- -->Wednesday, March 20, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, March 21, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/enser-communications-ipo/1677/\" title=\"Enser Communications IPO Allotment Status\">Enser Communications IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Enser Communications IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Enser Communications IPO<!-- --> listing date is on <b>Friday, March 22, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Enser Communications",
+  "issue_price": "₹70.00",
+  "issue_price_numeric": 70,
+  "issue_size": "23,10,000 shares (aggregating up to ₹16.17 Cr)",
+  "issue_size_numeric": 23,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fast Track Finsec Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/161/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/161/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "70.00"
+      },
+      "open": {
+        "nse_sme": "72.00"
+      },
+      "low": {
+        "nse_sme": "68.50"
+      },
+      "high": {
+        "nse_sme": "74.00"
+      },
+      "last_trade": {
+        "nse_sme": "70.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 22 2024",
+    "nse_symbol": "ENSER",
+    "isin": "INE0R9I01013",
+    "final_issue_price": "70 per share"
+  },
+  "listing_date": "2024-03-21T18:30:00.000Z",
+  "listing_gains": "0.14%",
+  "listing_gains_numeric": 0.14,
+  "logo": "https://www.chittorgarh.net/images/ipo/enser-communications-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/enser-communications-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "140000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "140000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "280000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/enser-communications-ipo/1677/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-03-14T18:30:00.000Z",
+  "pageHeading": "Enser Communications Limited IPO (Enser Communications IPO) Detail",
+  "pageTitle": "Enser Communications IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Harihara Subramanian Iyer Mr. Rajnish Omprakash Sarna Mrs. Gayatri Rajnish Sarna and Mrs. Sindhu Saseedharan Nair are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "90.13%",
+      "share_holding_post_issue": "66.25%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Enser Communications IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/EnserCommunications_DP.pdf"
+    },
+    {
+      "text": "Enser Communications IPO Addendum DRHP",
+      "url": "https://enser.co.in/drhp-addendum/"
+    },
+    {
+      "text": "Enser Communications IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_ENSER.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/enser-communications-ipo/1677/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Enser Communications IPO offers 2310000 shares. 1096000 (47.45%) to NII 1096000 (47.45%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "118000 (5.11%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1096000 (47.45%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1096000 (47.45%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2310000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:56.549Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Enser Communications IPO is subscribed 7.29 times on March 19 2024 6:21:00 PM (Day 3). The public issue subscribed 10.92 times in the retail category [.] times in the QIB category and 3.64 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "3.64",
+        "shares_offered": "1096000",
+        "shares_bid_for": "3990000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "10.92",
+        "shares_offered": "1096000",
+        "shares_bid_for": "11964000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "7.29",
+        "shares_offered": "2192000",
+        "shares_bid_for": "15976000"
+      }
+    },
+    "total_applications": "5983",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 19 2024",
+    "tentative_allotment": "Wed Mar 20 2024",
+    "initiation_of_refunds": "Thu Mar 21 2024",
+    "credit_of_shares_to_demat": "Thu Mar 21 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:46.775Z",
+  "updated_at": "2025-04-18T12:47:56.549Z",
+  "year": 2024,
+  "worst_listing_gains": "0.14%",
+  "worst_listing_gains_numeric": 0.14,
+  "last_performance_update": "2025-04-19T04:43:46.775Z"
+}

@@ -1,0 +1,434 @@
+{
+  "_id": "68024a013ccffd1c7912c801",
+  "ipo_id": "2024_shree_marutinandan_tubes_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:42:40.439Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/shree-marutinandan-tubes-ipo/1617/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2013, Shree Marutinandan Tubes Limited deals in Galvanized Tubes, Electrical Resistance Welded Mild Steel Tubes (ERW MS) in various specifications and sizes ranging from 15NB to 1000 NB, and Black Tubes and Solar Structural Tubes for sectors like Agriculture, Oil, Solar Energy, Healthcare, Housing, Irrigation, Engineering etc.</p>\n<p>The company does not manufacture the equipment itself, but works with Shree Kamdhenu Machinery Private Limited, a contract manufacturing company, to manufacture the products according to the customer's specifications.</p>\n<p>The company's product range also includes potato harvesters, grading machines, hoppers, peanut destoners, tube winders, and rotavators.</p>\n<p>As of December 25, 2023, the company has 14 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Shree Marutinandan Tubes Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2234.29",
+          "1617.60",
+          "1284.83",
+          "1301.03"
+        ],
+        [
+          "Revenue",
+          "4284.64",
+          "4722.58",
+          "4718.49",
+          "3597.28"
+        ],
+        [
+          "Profit After Tax",
+          "141.99",
+          "201.76",
+          "6.01",
+          "13.30"
+        ],
+        [
+          "Net Worth",
+          "409.70",
+          "267.74",
+          "65.98",
+          "59.98"
+        ],
+        [
+          "Reserves and Surplus",
+          "163.73",
+          "247.24",
+          "45.48",
+          "39.48"
+        ],
+        [
+          "Total Borrowing",
+          "607.28",
+          "716.90",
+          "688.89",
+          "795.31"
+        ]
+      ]
+    },
+    {
+      "heading": "Shree Marutinandan Tubes Ltd Stock Quote & Charts",
+      "sanitizedHeading": "shree_marutinandan_tubes_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "120.91%"
+        ],
+        [
+          "ROCE",
+          "78.52%"
+        ],
+        [
+          "Debt/Equity",
+          "2.68"
+        ],
+        [
+          "RoNW",
+          "75.36%"
+        ],
+        [
+          "Price to Book Value",
+          "1.09"
+        ]
+      ]
+    },
+    {
+      "heading": "Shree Marutinandan Tubes Ltd Stock Quote & Charts",
+      "sanitizedHeading": "shree_marutinandan_tubes_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.20",
+          "8.21"
+        ],
+        [
+          "P/E (x)",
+          "17.44",
+          "17.42"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "January 12, 2024 to January 16, 2024",
+    "ipoListingDate": "Fri, Jan 19, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹143.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "10,00,000 shares (aggregating up to ₹14.30 Cr)",
+    "freshIssue": "10,00,000 shares (aggregating up to ₹14.30 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "50,000 shares",
+      "maker_name": "Swastika Investmart Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/361/"
+    },
+    "ipoOpenDate": "Fri, Jan 12, 2024",
+    "ipoCloseDate": "Tue, Jan 16, 2024",
+    "initiationOfRefunds": "Thu, Jan 18, 2024",
+    "creditOfSharesToDemat": "Thu, Jan 18, 2024",
+    "shareHoldingPreIssue": "24,60,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "24,60,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "82.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "34,60,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "34,60,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "58.30%"
+      }
+    ]
+  },
+  "closing_date": "2024-01-15T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 079-29795873",
+    "email": "cs@shreemarutitubes.com",
+    "full_address": "Shree Marutinandan Tubes Limited, A-21 Second Floor Amrapali Complex, S.P Ring Road Bopal, Ahmedabad – 380058",
+    "website": "https://www.shreemarutitubes.com/index.php"
+  },
+  "createdAt": "2025-04-18T12:48:01.849Z",
+  "faqs": [
+    {
+      "question": "What is the Shree Marutinandan Tubes IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shree Marutinandan Tubes IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1000000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->14.30<!-- --> Crores. The issue is priced at <span>₹143 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 12, 2024</b>, and <b>closes on <!-- -->January 16, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Shree Marutinandan Tubes IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Shree Marutinandan Tubes IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Shree Marutinandan Tubes IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Shree Marutinandan Tubes IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Shree Marutinandan Tubes IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Shree Marutinandan Tubes IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Shree Marutinandan Tubes IPO opens on January 12, 2024 and closes on January 16, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Shree Marutinandan Tubes IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shree Marutinandan Tubes IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,43,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Shree Marutinandan Tubes IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Shree Marutinandan Tubes IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Shree Marutinandan Tubes IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Shree Marutinandan Tubes IPO<!-- --> will be done on <!-- -->Wednesday, January 17, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, January 18, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/shree-marutinandan-tubes-ipo/1617/\" title=\"Shree Marutinandan Tubes IPO Allotment Status\">Shree Marutinandan Tubes IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Shree Marutinandan Tubes IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Shree Marutinandan Tubes IPO<!-- --> listing date is on <b>Friday, January 19, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Shree Marutinandan Tubes",
+  "issue_price": "₹143.00",
+  "issue_price_numeric": 143,
+  "issue_size": "10,00,000 shares (aggregating up to ₹14.30 Cr)",
+  "issue_size_numeric": 10,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swastika Investmart Ltd",
+      "url": "/report/ipo-lead-manager-review/112/122/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/122/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "143.00"
+      },
+      "open": {
+        "bse_sme": "200.00"
+      },
+      "low": {
+        "bse_sme": "200.00"
+      },
+      "high": {
+        "bse_sme": "210.00"
+      },
+      "last_trade": {
+        "bse_sme": "210.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "January 19 2024",
+    "bse_script_code": "544083",
+    "isin": "INE0QIS01011",
+    "final_issue_price": "143 per share"
+  },
+  "listing_date": "2024-01-18T18:30:00.000Z",
+  "listing_gains": "46.85%",
+  "listing_gains_numeric": 46.85,
+  "logo": "https://www.chittorgarh.net/images/ipo/shree-marutinandan-tubes-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/shree-marutinandan-tubes-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "143000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "143000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "286000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/shree-marutinandan-tubes-ipo/1617/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-01-11T18:30:00.000Z",
+  "pageHeading": "Shree Marutinandan Tubes Limited IPO (Shree Marutinandan Tubes IPO) Detail",
+  "pageTitle": "Shree Marutinandan Tubes IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Vikram Shivratan Sharma Mr. Bharat Shivratan Sharma and Mrs. Kusumlata Shivratan Sharma are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "82.00%",
+      "share_holding_post_issue": "58.30%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Shree Marutinandan Tubes IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/361636/DRHP01122023_20231201154427.pdf"
+    },
+    {
+      "text": "Shree Marutinandan Tubes IPO RHP",
+      "url": "https://www.bseindia.com/downloads/ipo/Prospectus%20&%20GID_110120241927.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/shree-marutinandan-tubes-ipo/1617/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Shree Marutinandan Tubes IPO offers 1000000 shares. 475000 (47.50%) to NII 475000 (47.50%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "50000 (5.00%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "475000 (47.50%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "475000 (47.50%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1000000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.849Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Shree Marutinandan Tubes IPO is subscribed 47.16 times on January 16 2024 7:02:00 PM (Day 3). The public issue subscribed 59.71 times in the retail category [.] times in the QIB category and 32.67 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "32.67",
+        "shares_offered": "475000",
+        "shares_bid_for": "15517000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "59.71",
+        "shares_offered": "475000",
+        "shares_bid_for": "28361000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "47.16",
+        "shares_offered": "950000",
+        "shares_bid_for": "44806000"
+      }
+    },
+    "total_applications": "32457",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 16 2024",
+    "tentative_allotment": "Wed Jan 17 2024",
+    "initiation_of_refunds": "Thu Jan 18 2024",
+    "credit_of_shares_to_demat": "Thu Jan 18 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:14.576Z",
+  "updated_at": "2025-04-18T12:48:01.849Z",
+  "year": 2024,
+  "worst_listing_gains": "46.85%",
+  "worst_listing_gains_numeric": 46.85
+}

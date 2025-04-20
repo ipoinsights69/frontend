@@ -1,0 +1,361 @@
+{
+  "_id": "680293663ccffd1c7912ca39",
+  "ipo_id": "2022_alkosign_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": true,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:00:44.865Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/alkosign-ipo/1212/"
+  },
+  "about": {
+    "details": "<p>Alkosign Limited is engaged in the manufacturing of visual presentation systems namely writing boards/display boards/notice boards of different types along with its associated accessories. The company also manufactures stands used for these boards, school benches and desks, and other accessories. The company sells its products under various trademarks such as \"Alkosign\", \"Sit and Study\", \"Brainee\", \"Glassy-BO\", \"Ultra- EX\", \"Ultra\".</p>\n<p>The company supplies products in around 22 states and is also moving ahead towards establishing its presence in the international market. The company has around 50 registered dealers. For e-retailing, the company has developed their own website and have tie-ups with e-commerce platforms in India and for the international market. The company has the biggest dedicated manufacturing unit with a production space of more than 5,00,000 sq. feet, for writing boards and display boards in India.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>Widespread sales and dealers' network</li>\n<li>Quality Certifications for manufacturing and supply of products</li>\n<li>Recognized products</li>\n<li>E-retailing and online distribution network</li>\n<li>Customer-Centric business model</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Nov-21",
+          "31-Mar-21"
+        ],
+        [
+          "Total Assets",
+          "227.07",
+          "236.62"
+        ],
+        [
+          "Total Revenue",
+          "59.18",
+          "132.77"
+        ],
+        [
+          "Profit After Tax",
+          "- 6.36",
+          "6.62"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "January 18, 2022 to January 21, 2022",
+    "ipoListingDate": "Tue, Feb 1, 2022",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹45.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "27,00,000 shares (aggregating up to ₹12.15 Cr)",
+    "freshIssue": "27,00,000 shares (aggregating up to ₹12.15 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "1,38,000 shares",
+    "ipoOpenDate": "Tue, Jan 18, 2022",
+    "ipoCloseDate": "Fri, Jan 21, 2022",
+    "initiationOfRefunds": "Fri, Jan 28, 2022",
+    "creditOfSharesToDemat": "Fri, Jan 28, 2022",
+    "shareHoldingPreIssue": "27,45,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "27,45,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "54,45,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "54,45,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "50.41%"
+      }
+    ]
+  },
+  "closing_date": "2022-01-20T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-7391040250",
+    "email": "investor@alkosign.com",
+    "full_address": "Alkosign Limited, S NO : 12A MIDC NR Mother Dairy Saravli, Bhiwandi, Thane 421 311 Maharashtra India",
+    "website": "https://alkosign.com/"
+  },
+  "createdAt": "2025-04-18T18:01:10.045Z",
+  "faqs": [
+    {
+      "question": "What is the Alkosign IPO?",
+      "answer": "<div itemprop=\"text\"><p>Alkosign IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2700000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->12.15<!-- --> Crores. The issue is priced at <span>₹45 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 18, 2022</b>, and <b>closes on <!-- -->January 21, 2022</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Alkosign IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Alkosign IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Alkosign IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Alkosign IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Alkosign IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Alkosign IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Alkosign IPO opens on January 18, 2022 and closes on January 21, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Alkosign IPO?",
+      "answer": "<div itemprop=\"text\"><p>Alkosign IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,35,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Alkosign IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Alkosign IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Alkosign IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Alkosign IPO<!-- --> will be done on <!-- -->Thursday, January 27, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, January 28, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/alkosign-ipo/1212/\" title=\"Alkosign IPO Allotment Status\">Alkosign IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Alkosign IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Alkosign IPO<!-- --> listing date is on <b>Tuesday, February 1, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Alkosign",
+  "issue_price": "₹45.00",
+  "issue_price_numeric": 45,
+  "issue_size": "27,00,000 shares (aggregating up to ₹12.15 Cr)",
+  "issue_size_numeric": 27,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Shreni Shares Limited",
+      "url": "/report/ipo-lead-manager-review/112/449/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/449/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "45.00"
+      },
+      "open": {
+        "bse_sme": "45.25"
+      },
+      "low": {
+        "bse_sme": "45.25"
+      },
+      "high": {
+        "bse_sme": "46.75"
+      },
+      "last_trade": {
+        "bse_sme": "45.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 1 2022",
+    "bse_script_code": "543453",
+    "isin": "INE0KA601012",
+    "final_issue_price": "45 per share"
+  },
+  "listing_date": "2022-01-31T18:30:00.000Z",
+  "listing_gains": "0.56%",
+  "listing_gains_numeric": 0.56,
+  "logo": "https://www.chittorgarh.net/images/ipo/alkosign-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/alkosign-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "270000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/alkosign-ipo/1212/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2022-01-17T18:30:00.000Z",
+  "pageHeading": "Alkosign Limited IPO (Alkosign IPO) Detail",
+  "pageTitle": "Alkosign IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Samir Narendra Shah and Akshay Narendra Shah are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "50.41%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Alkosign IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/332940/Final%20Draft%20Prospectus_20211224100241.pdf"
+    },
+    {
+      "text": "Alkosign IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2022/alkosign-limited-prospectus_66567.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/alkosign-ipo/1212/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "compliances@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Alkosign IPO offers 2700000 shares. 1281000 (47.44%) to NII 1281000 (47.44%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "138000 (5.11%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1281000 (47.44%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1281000 (47.44%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2700000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:10.044Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Alkosign IPO is subscribed 4.76 times on January 21 2022 6:52:00 PM (Day 4). The public issue subscribed 6.39 times in the retail category [.] times in the QIB category and 3.14 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "3.14",
+        "shares_offered": "1281000",
+        "shares_bid_for": "4023000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "6.39",
+        "shares_offered": "1281000",
+        "shares_bid_for": "8181000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "4.76",
+        "shares_offered": "2562000",
+        "shares_bid_for": "12204000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 21 2022",
+    "tentative_allotment": "Thu Jan 27 2022",
+    "initiation_of_refunds": "Fri Jan 28 2022",
+    "credit_of_shares_to_demat": "Fri Jan 28 2022"
+  },
+  "timeline": {
+    "summary": "Alkosign IPO opens on January 18 2022 and closes on January 21 2022.",
+    "schedule": {
+      "ipo_date": "5 PM on January 21 2022",
+      "tentative_allotment": "Thu Jan 27 2022",
+      "initiation_of_refunds": "Fri Jan 28 2022",
+      "credit_of_shares_to_demat": "Fri Jan 28 2022"
+    }
+  },
+  "updatedAt": "2025-04-19T04:38:19.826Z",
+  "updated_at": "2025-04-18T18:01:10.044Z",
+  "year": 2022,
+  "worst_listing_gains": "0.56%",
+  "worst_listing_gains_numeric": 0.56
+}

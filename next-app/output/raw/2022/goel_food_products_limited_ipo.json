@@ -1,0 +1,385 @@
+{
+  "_id": "680293693ccffd1c7912ca6d",
+  "ipo_id": "2022_goel_food_products_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:58:37.627Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/goel-food-products-ipo/1261/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1996, Goel Food Products Limited engages in the business of manufacturing Indian Snacks and Sweets. The company provide services such as organizing events like Marriages, Sangeet, Ring Ceremony, Birthday Parties, Anniversary Parties, Kitty Parties, Corporate Events, Kirtans (Devotional Singing), Thread Ceremony at the banquets hall and serves Indian snack and Sweets at the company retail shop.</p>\n<p>The company operate and manage the banquet and Indian snacks and sweets shop business under the name \"BIKA\" at various locations in Kolkata. Hilltop Healthcare Centre Limited, the company's holding company, owns 64.60 percent of the company.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>Strong Value Proposition</li>\n<li>Locational Advantage</li>\n<li>Low Set-up Cost</li>\n<li>Established brand and reputation</li>\n<li>Rich Management Experience</li>\n<li>Progressive Employer</li>\n<li>Quality Service</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus"
+      ],
+      "rows": [
+        [
+          "31-Mar-19",
+          "2903.58",
+          "1386.7",
+          "148.38",
+          "741.93",
+          "660.19"
+        ],
+        [
+          "31-Mar-20",
+          "3532.84",
+          "1606.84",
+          "63.1",
+          "754.48",
+          "672.74"
+        ],
+        [
+          "31-Mar-21",
+          "2654.34",
+          "753.85",
+          "-0.76",
+          "753.73",
+          "671.99"
+        ],
+        [
+          "31-Dec-21",
+          "4563.02",
+          "1200.68",
+          "187.65",
+          "941.38",
+          "859.64"
+        ]
+      ]
+    },
+    {
+      "heading": "Goel Food Products Ltd Stock Quote & Charts",
+      "sanitizedHeading": "goel_food_products_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "10.84",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 15, 2022 to June 20, 2022",
+    "ipoListingDate": "Tue, Jun 28, 2022",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹72.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "10,01,600 shares (aggregating up to ₹7.21 Cr)",
+    "freshIssue": "5,00,800 shares (aggregating up to ₹3.61 Cr)",
+    "offerForSale": "5,00,800 shares of ₹10 (aggregating up to ₹3.61 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "51,200 shares",
+    "ipoOpenDate": "Wed, Jun 15, 2022",
+    "ipoCloseDate": "Mon, Jun 20, 2022",
+    "initiationOfRefunds": "Fri, Jun 24, 2022",
+    "creditOfSharesToDemat": "Mon, Jun 27, 2022",
+    "shareHoldingPreIssue": "32,69,600 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "32,69,600 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.98%"
+      }
+    ],
+    "shareHoldingPostIssue": "37,71,600 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "37,71,600 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.41%"
+      }
+    ]
+  },
+  "closing_date": "2022-06-19T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 89613 33312",
+    "email": "info@goelfood.com",
+    "full_address": "Goel Food Products Limited, 76/1/2, Golaghata Road, Kolkata-700048",
+    "website": "https://bika.co.in/"
+  },
+  "createdAt": "2025-04-18T18:01:13.197Z",
+  "faqs": [
+    {
+      "question": "What is the Goel Food Products IPO?",
+      "answer": "<div itemprop=\"text\"><p>Goel Food Products IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1001600<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->7.21<!-- --> Crores. The issue is priced at <span>₹72 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 15, 2022</b>, and <b>closes on <!-- -->June 20, 2022</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Goel Food Products IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Goel Food Products IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Goel Food Products IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Goel Food Products IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Goel Food Products IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Goel Food Products IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Goel Food Products IPO opens on June 15, 2022 and closes on June 20, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Goel Food Products IPO?",
+      "answer": "<div itemprop=\"text\"><p>Goel Food Products IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,15,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Goel Food Products IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Goel Food Products IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Goel Food Products IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Goel Food Products IPO<!-- --> will be done on <!-- -->Thursday, June 23, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, June 27, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/goel-food-products-ipo/1261/\" title=\"Goel Food Products IPO Allotment Status\">Goel Food Products IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Goel Food Products IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Goel Food Products IPO<!-- --> listing date is on <b>Tuesday, June 28, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Goel Food Products",
+  "issue_price": "₹72.00",
+  "issue_price_numeric": 72,
+  "issue_size": "10,01,600 shares (aggregating up to ₹7.21 Cr)",
+  "issue_size_numeric": 10,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Gretex Corporate Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/123/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/123/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "72.00"
+      },
+      "open": {
+        "bse_sme": "75.00"
+      },
+      "low": {
+        "bse_sme": "75.00"
+      },
+      "high": {
+        "bse_sme": "78.75"
+      },
+      "last_trade": {
+        "bse_sme": "78.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "June 28 2022",
+    "bse_script_code": "543538",
+    "isin": "INE0K6L01010",
+    "final_issue_price": "72 per share"
+  },
+  "listing_date": "2022-06-27T18:30:00.000Z",
+  "listing_gains": "9.38%",
+  "listing_gains_numeric": 9.38,
+  "logo": "https://www.chittorgarh.net/images/ipo/goel-food-products-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/goel-food-products-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "115200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "115200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "230400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/goel-food-products-ipo/1261/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2022-06-14T18:30:00.000Z",
+  "pageHeading": "Goel Food Products Limited IPO (Goel Food Products IPO) Detail",
+  "pageTitle": "Goel Food Products IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Hilltop Healthcare Centre Limited and Mr Dinesh Goyal are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "99.98%",
+      "share_holding_post_issue": "73.41%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Goel Food Products IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/371436/Draft%20Prospectus_Goel_20220323171927.pdf"
+    },
+    {
+      "text": "Goel Food Products IPO RHP",
+      "url": "https://www.bsesme.com/download/371436/SME_IPO%20Open/Prospectus_Goel_20220611181516.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "2"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/goel-food-products-ipo/1261/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Goel Food Products IPO offers 1001600 shares. 475200 (47.44%) to NII 475200 (47.44%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "51200 (5.11%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "475200 (47.44%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "475200 (47.44%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1001600 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:13.196Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Goel Food Products IPO is subscribed 1.64 times on June 20 2022 7:53:00 PM (Day 4). The public issue subscribed 2.07 times in the retail category [.] times in the QIB category and 1.21 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.21",
+        "shares_offered": "475200",
+        "shares_bid_for": "574400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.07",
+        "shares_offered": "475200",
+        "shares_bid_for": "982400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.64",
+        "shares_offered": "950400",
+        "shares_bid_for": "1556800"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 20 2022",
+    "tentative_allotment": "Thu Jun 23 2022",
+    "initiation_of_refunds": "Fri Jun 24 2022",
+    "credit_of_shares_to_demat": "Mon Jun 27 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:26.644Z",
+  "updated_at": "2025-04-18T18:01:13.196Z",
+  "year": 2022,
+  "worst_listing_gains": "9.38%",
+  "worst_listing_gains_numeric": 9.38
+}

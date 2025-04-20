@@ -1,0 +1,460 @@
+{
+  "_id": "680249fd3ccffd1c7912c781",
+  "ipo_id": "2024_interiors_and_more_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:40:17.639Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/interiors-and-more-ipo/1650/"
+  },
+  "about": {
+    "details": "<p>Incorporated in June 2012, Interiors &amp; More Limited trades, imports, and sells artificial flowers. The company manufactures and trades quality artificial flowers, plants, and decor items for homes and offices.</p>\n<p>The manufacturing facility, which is fully furnished with all the necessary tools for production, test equipment for quality control, and additional handling supplies to enable efficient assembly and simple logistics, is located in Gujarat.</p>\n<p>The company has expanded to various locations over the years, including Mumbai and Delhi, with the factory operating from Umbergaon.</p>\n<p>The company has two well-equipped manufacturing units. One is located in Umargam, Gujarat and measures 57,000 Sq. ft. The other unit is situated in Umbergaon, Gujarat and measures 7,000 Sq. ft. Both units have computer systems, internet connectivity, communication equipment, security, and other necessary facilities for its business operations to function smoothly.</p>\n<p>The company offers various products, including artificial flowers such as Roses, Yellow Marigolds, Green Grass in Mats, green Leaves, carnations, Hydrangea, and Hanging orchids. In addition, the company trades in Fountains, battery-operated Candles, Chandeliers, vases made of Wood and Glass, artificial trees, Furniture, and Tables.</p>\n<p>Interiors &amp; More Limited curates exhibitions across India.</p>\n<p>As of December 31, 2023, the company has 93 permanent employees.</p>\n<p>The company's main corporate office is located in Fort, Mumbai. Here, the company manages all its administrative and reporting needs and factory support.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Interiors and More Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3722.59",
+          "3094.63",
+          "1952.13",
+          "1478.30"
+        ],
+        [
+          "Revenue",
+          "1853.78",
+          "2527.17",
+          "998.53",
+          "663.10"
+        ],
+        [
+          "Profit After Tax",
+          "354.57",
+          "592.84",
+          "104.44",
+          "43.33"
+        ],
+        [
+          "Net Worth",
+          "1349.78",
+          "995.21",
+          "405.07",
+          "300.63"
+        ],
+        [
+          "Reserves and Surplus",
+          "835.28",
+          "823.71",
+          "233.57",
+          "129.13"
+        ],
+        [
+          "Total Borrowing",
+          "1645.86",
+          "1439.77",
+          "1297.33",
+          "904.02"
+        ]
+      ]
+    },
+    {
+      "heading": "Interiors & More Limited Stock Quote & Charts",
+      "sanitizedHeading": "interiors_more_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "84.68%"
+        ],
+        [
+          "ROCE",
+          "75.58%"
+        ],
+        [
+          "Debt/Equity",
+          "1.45"
+        ],
+        [
+          "RoNW",
+          "59.57%"
+        ],
+        [
+          "Price to Book Value",
+          "11.74"
+        ]
+      ]
+    },
+    {
+      "heading": "Interiors & More Limited Stock Quote & Charts",
+      "sanitizedHeading": "interiors_more_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "11.52",
+          "6.76"
+        ],
+        [
+          "P/E (x)",
+          "19.7",
+          "33.59"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Interiors and More IPO raises Rs 11.94 crore from anchor investors. Interiors and More IPO Anchor bid date is February 14 2024. Interiors and More IPO Anchor Investors list",
+    "list_link": {
+      "text": "Interiors and More IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/interiors-and-more-anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "May 21 2024",
+      "shares_offered": "526200",
+      "anchor_portion_size": "11.94"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "February 15, 2024 to February 20, 2024",
+    "ipoListingDate": "Fri, Feb 23, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹227.00",
+    "lotSize": "600 Shares",
+    "issueSize": "18,50,400 shares (aggregating up to ₹42.00 Cr)",
+    "freshIssue": "18,50,400 shares (aggregating up to ₹42.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "93,000 shares",
+      "maker_name": "Gretex Share Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/247/"
+    },
+    "ipoOpenDate": "Thu, Feb 15, 2024",
+    "ipoCloseDate": "Tue, Feb 20, 2024",
+    "initiationOfRefunds": "Thu, Feb 22, 2024",
+    "creditOfSharesToDemat": "Thu, Feb 22, 2024",
+    "shareHoldingPreIssue": "51,45,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "51,45,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "95.08%"
+      }
+    ],
+    "shareHoldingPostIssue": "69,95,400 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "69,95,400 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "69.93%"
+      }
+    ]
+  },
+  "closing_date": "2024-02-19T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "022-47499811",
+    "email": "info@inm.net.in",
+    "full_address": "Interiors and More Limited, Office No.7 Ground Floor Kumtha Street, off Shahid Bhagat Singh Road-Ballard Estate, Fort Mumbai G.P.O. Mumbai - 400001",
+    "website": "http://www.inm.net.in/"
+  },
+  "createdAt": "2025-04-18T12:47:57.883Z",
+  "faqs": [
+    {
+      "question": "What is the Interiors and More IPO?",
+      "answer": "<div itemprop=\"text\"><p>Interiors and More IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1850400<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->42.00<!-- --> Crores. The issue is priced at <span>₹227 per share</span>. The minimum order quantity is <!-- -->600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 15, 2024</b>, and <b>closes on <!-- -->February 20, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Interiors and More IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Interiors and More IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Interiors and More IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Interiors and More IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Interiors and More IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Interiors and More IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Interiors and More IPO opens on February 15, 2024 and closes on February 20, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Interiors and More IPO?",
+      "answer": "<div itemprop=\"text\"><p>Interiors and More IPO<!-- --> <b>lot size is <!-- -->600</b>, and the <b>minimum amount required is <span>₹1,36,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Interiors and More IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Interiors and More IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Interiors and More IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Interiors and More IPO<!-- --> will be done on <!-- -->Wednesday, February 21, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, February 22, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/interiors-and-more-ipo/1650/\" title=\"Interiors and More IPO Allotment Status\">Interiors and More IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Interiors and More IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Interiors and More IPO<!-- --> listing date is on <b>Friday, February 23, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Interiors and More",
+  "issue_price": "₹227.00",
+  "issue_price_numeric": 227,
+  "issue_size": "18,50,400 shares (aggregating up to ₹42.00 Cr)",
+  "issue_size_numeric": 18,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Gretex Corporate Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/123/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/123/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "227.00"
+      },
+      "open": {
+        "nse_sme": "270.00"
+      },
+      "low": {
+        "nse_sme": "270.00"
+      },
+      "high": {
+        "nse_sme": "283.50"
+      },
+      "last_trade": {
+        "nse_sme": "283.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "February 23 2024",
+    "nse_symbol": "INM",
+    "isin": "INE0OPC01015",
+    "final_issue_price": "227 per share"
+  },
+  "listing_date": "2024-02-22T18:30:00.000Z",
+  "listing_gains": "24.89%",
+  "listing_gains_numeric": 24.89,
+  "logo": "https://www.chittorgarh.net/images/ipo/interiors-and-more-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/interiors-and-more-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "136200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "136200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "1200",
+        "amount": "272400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/interiors-and-more-ipo/1650/"
+    }
+  },
+  "lot_size": 600,
+  "opening_date": "2024-02-14T18:30:00.000Z",
+  "pageHeading": "Interiors and More Limited IPO (Interiors and More IPO) Detail",
+  "pageTitle": "Interiors and More IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company being Mr. Manish Mohan Tibrewal Mr. Rahul Jhunjhunwala Ms. Ekta Tibrewal Ms. Puja Jhunjhunwala and Ms. Reena Jhunjhunwala",
+    "holdings": {
+      "share_holding_pre_issue": "95.08%",
+      "share_holding_post_issue": "69.93%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Interiors and More IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Interiors&More_DRHP.zip"
+    },
+    {
+      "text": "Interiors and More IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Interiors&More_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Interiors and More IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/interiors-and-more-anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/interiors-and-more-ipo/1650/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Interiors and More IPO offers 1850400 shares. 351600 (19.00%) to QIB 264000 (14.27%) to NII 615600 (33.27%) to RII and 526200 (28.44%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "526200 (28.44%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "93000 (5.03%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "351600 (19.00%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "264000 (14.27%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "615600 (33.27%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1850400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.883Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Interiors and More IPO is subscribed 11.22 times on February 20 2024 6:20:00 PM (Day 4). The public issue subscribed 7.41 times in the retail category 3.54 times in the QIB category and 30.32 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "3.54",
+        "shares_offered": "351600",
+        "shares_bid_for": "1243800"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "30.32",
+        "shares_offered": "264000",
+        "shares_bid_for": "8003400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "7.41",
+        "shares_offered": "615600",
+        "shares_bid_for": "4562400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "11.22",
+        "shares_offered": "1231200",
+        "shares_bid_for": "13809600"
+      }
+    },
+    "total_applications": "7604",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 20 2024",
+    "tentative_allotment": "Wed Feb 21 2024",
+    "initiation_of_refunds": "Thu Feb 22 2024",
+    "credit_of_shares_to_demat": "Thu Feb 22 2024"
+  },
+  "updatedAt": "2025-04-19T04:36:58.259Z",
+  "updated_at": "2025-04-18T12:47:57.883Z",
+  "year": 2024,
+  "worst_listing_gains": "24.89%",
+  "worst_listing_gains_numeric": 24.89
+}

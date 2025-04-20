@@ -1,0 +1,399 @@
+{
+  "_id": "680298533ccffd1c7912cadf",
+  "ipo_id": "2017_au_financiers_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:08:56.775Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/au-financiers-ipo/672/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1996, Au Financiers (India) Ltd is Jaipur Rajasthan based non-banking finance company focused on retail segment serving low and middle income individuals and businesses that have limited or no access to formal banking and finance channels.</p><p>Au Financiers operate in 3 business lines: <br>1. Vehicle finance<br>2. Micro, small and medium enterprises (MSMEs) loans<br>3. Small and medium enterprises (SMEs) loans</p><p>On December 20, 2016, Au Financiers received RBI license for Small Finance Bank (SFB). With this company is planning to offer a diverse suite of banking products in near future.</p><p>Key Timelines of Au Financiers:<br>• 1996 - Incorporated in Jaipur, Raj<br>• 2000 - Registered as an NBFC with the RBI<br>• 2005 - Became a commercial associate of HDFC Bank for originating and servicing vehicle loans<br>• 2007 - Started MSME loans<br>• 2011 - Started housing finance<br>• 2012 - Started SME loans<br>• 2016 - Received a license from the RBI to set up a 'small finance bank' (SFB).</p><p>As of December 31, 2016, company had 300 branches spread across 10 states and one union territory in India, with significant presence in the states of Rajasthan, Gujarat, Maharashtra and Madhya Pradesh and employed 6,092 personnel serving 270,692 active loan accounts.</p><p>Competitive Strengths<br>• Diversified Product Portfolio and Revenue Streams<br>• Customer Centric Organizational Commitment<br>• Significant Presence in Rural and Semi-Urban Markets with Focus on Low and Middle Income Customers<br>• Robust and Comprehensive Credit Assessment and Risk Management Framework<br>• Access to Diversified Sources of Funding over the Years</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "98176.41",
+          "62730.09",
+          "39799.04",
+          "29585.91",
+          "31128.10"
+        ],
+        [
+          "Total Revenue",
+          "14305.21",
+          "10519.50",
+          "6894.08",
+          "5713.20",
+          "4130.84"
+        ],
+        [
+          "Profit After Tax",
+          "8427.13",
+          "2471.54",
+          "1394.50",
+          "725.40",
+          "693.58"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 28, 2017 to June 30, 2017",
+    "ipoListingDate": "Mon, Jul 10, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹358.00",
+    "lotSize": "41 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹1,912.51 Cr)",
+    "offerForSale": "5,34,22,169 shares of ₹10 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Jun 28, 2017",
+    "ipoCloseDate": "Fri, Jun 30, 2017",
+    "initiationOfRefunds": "Thu, Jul 6, 2017",
+    "creditOfSharesToDemat": "Fri, Jul 7, 2017",
+    "shareHoldingPreIssue": "28,42,50,906 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "28,42,50,906 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "28,42,50,906 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "28,42,50,906 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-06-29T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 141 4110060",
+    "email": "ipo@aufin.in",
+    "full_address": "Au Financiers (India) Limited, 19 - A Dhuleshwar Garden, Ajmer Road, Jaipur - 302001",
+    "website": "http://www.aufin.in"
+  },
+  "createdAt": "2025-04-18T18:22:11.524Z",
+  "faqs": [
+    {
+      "question": "What is the Au Financiers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Au Financiers IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->1,912.51<!-- --> Crores. The issue is priced at <span>₹358 per share</span>. The minimum order quantity is <!-- -->41<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 28, 2017</b>, and <b>closes on <!-- -->June 30, 2017</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Au Financiers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Au Financiers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Au Financiers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Au Financiers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Au Financiers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Au Financiers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Au Financiers IPO opens on June 28, 2017 and closes on June 30, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Au Financiers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Au Financiers IPO<!-- --> <b>lot size is <!-- -->41</b>, and the <b>minimum amount required is <span>₹14,678</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Au Financiers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Au Financiers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Au Financiers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Au Financiers IPO<!-- --> will be done on <!-- -->Wednesday, July 5, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, July 7, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/au-financiers-ipo/672/\" title=\"Au Financiers IPO Allotment Status\">Au Financiers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Au Financiers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Au Financiers IPO<!-- --> listing date is on <b>Monday, July 10, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Au Financiers (India)",
+  "issue_price": "₹358.00",
+  "issue_price_numeric": 358,
+  "issue_size": "[.] shares (aggregating up to ₹1,912.51 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "Hdfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/82/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/82/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "358.00",
+        "nse": "358.00"
+      },
+      "open": {
+        "bse": "525.00",
+        "nse": "530.00"
+      },
+      "low": {
+        "bse": "506.80",
+        "nse": "523.70"
+      },
+      "high": {
+        "bse": "545.00",
+        "nse": "547.00"
+      },
+      "last_trade": {
+        "bse": "541.20",
+        "nse": "541.65"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "July 10 2017",
+    "bse_script_code": "540611",
+    "nse_symbol": "AUBANK",
+    "isin": "INE949L01017",
+    "final_issue_price": "358 per share"
+  },
+  "listing_date": "2017-07-09T18:30:00.000Z",
+  "listing_gains": "51.17%",
+  "listing_gains_numeric": 51.17,
+  "logo": "https://www.chittorgarh.net/images/ipo/au_financiers_ltd_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/au_financiers_ltd_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 41 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "41",
+        "amount": "14678"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "533",
+        "amount": "190814"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "574",
+        "amount": "205492"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "2788",
+        "amount": "998104"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "2829",
+        "amount": "1012782"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/au-financiers-ipo/672/"
+    }
+  },
+  "lot_size": 41,
+  "opening_date": "2017-06-27T18:30:00.000Z",
+  "pageHeading": "Au Financiers (India) Limited IPO (Au Financiers IPO) Detail",
+  "pageTitle": "Au Financiers IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Au Financiers IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2017/au-financiers-india-limited_34131.html"
+    },
+    {
+      "text": "Au Financiers IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2017/au-small-finance-bank-limited_35272.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/au-financiers-ipo/672/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "aufin.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Au Financiers IPO offers 37695520 shares. 10484434 (27.81%) to QIB 7863326 (20.86%) to NII 18347760 (48.67%) to RII 1000000 (2.65%) to employees. 447506 RIIs will receive minimum 41 shares and (sNII) and (bNII) will receive minimum 574 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "10484434 (27.81%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "7863326 (20.86%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "18347760 (48.67%)",
+        "maximum_allottees": "447506"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "1000000 (2.65%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "37695520 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:11.524Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Au Financiers IPO is subscribed 53.6 times on June 30 2017 5:00:00 PM (Day 3). The public issue subscribed 3.52 times in the retail category 78.77 times in the QIB category and 143.51 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "78.77",
+        "shares_offered": "10484434"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "143.51",
+        "shares_offered": "7863326"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.52",
+        "shares_offered": "18347760"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.45",
+        "shares_offered": "1000000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "53.6",
+        "shares_offered": "37695520"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 30 2017",
+    "tentative_allotment": "Wed Jul 5 2017",
+    "initiation_of_refunds": "Thu Jul 6 2017",
+    "credit_of_shares_to_demat": "Fri Jul 7 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:42.319Z",
+  "updated_at": "2025-04-18T18:22:11.524Z",
+  "year": 2017,
+  "worst_listing_gains": "51.17%",
+  "worst_listing_gains_numeric": 51.17
+}

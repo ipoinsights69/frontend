@@ -1,0 +1,434 @@
+{
+  "_id": "68024a013ccffd1c7912c7de",
+  "ipo_id": "2024_resourceful_automobile_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:24:11.482Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/resourceful-automobile-ipo/1814/"
+  },
+  "about": {
+    "details": "<p>Resourceful Automobile Limited was founded in 2018 and sells Yamaha two-wheelers under the name “Sawhney Automobile”.</p>\n<p>Sawhney Automobile offers a comprehensive range of two-wheelers to fulfill a variety of customer wants and needs. The range includes commuter bikes, sports bikes, cruisers, and scooters from renowned manufacturers.</p>\n<p>The company currently has two conceptual showrooms with an attached workshop. The Blue Square showroom in Dwarka, New Delhi, showcases the entire range of Yamaha two-wheelers, apparel, and accessories. Another showroom is located on Palam Road in New Delhi. This showroom offers a wide range of high-quality and distinctive two-wheelers, including the latest models from Yamaha India and a diverse collection of motorcycles.</p>\n<p>As of July 31, 2024, the company has a total of 8 permanent employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Resourceful Automobile Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "29 Feb 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1451.41",
+          "1000.49",
+          "1008.58",
+          "429.46"
+        ],
+        [
+          "Revenue",
+          "1723.64",
+          "1938.26",
+          "1250.1",
+          "1127.26"
+        ],
+        [
+          "Profit After Tax",
+          "152.24",
+          "41.5",
+          "28.73",
+          "0.16"
+        ],
+        [
+          "Net Worth",
+          "315.78",
+          "163.56",
+          "74.78",
+          "46.05"
+        ],
+        [
+          "Reserves and Surplus",
+          "152.67",
+          "66.27",
+          "24.78",
+          "-3.95"
+        ],
+        [
+          "Total Borrowing",
+          "992.34",
+          "747.77",
+          "673.73",
+          "269.81"
+        ]
+      ]
+    },
+    {
+      "heading": "Resourceful Automobile Ltd Stock Quote & Charts",
+      "sanitizedHeading": "resourceful_automobile_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "0.48"
+        ],
+        [
+          "ROCE",
+          "31.22"
+        ],
+        [
+          "RoNW",
+          "0.48"
+        ],
+        [
+          "Price to Book Value",
+          "0.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Resourceful Automobile Ltd Stock Quote & Charts",
+      "sanitizedHeading": "resourceful_automobile_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.54",
+          "6.25"
+        ],
+        [
+          "P/E (x)",
+          "45.99",
+          "18.71"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 22, 2024 to August 26, 2024",
+    "ipoListingDate": "Thu, Aug 29, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹117.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "10,24,800 shares (aggregating up to ₹11.99 Cr)",
+    "freshIssue": "10,24,800 shares (aggregating up to ₹11.99 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "51,600 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Thu, Aug 22, 2024",
+    "ipoCloseDate": "Mon, Aug 26, 2024",
+    "initiationOfRefunds": "Wed, Aug 28, 2024",
+    "creditOfSharesToDemat": "Wed, Aug 28, 2024",
+    "shareHoldingPreIssue": "16,31,145 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "16,31,145 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "26,55,945 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "26,55,945 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "61.41%"
+      }
+    ]
+  },
+  "closing_date": "2024-08-25T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9773784969",
+    "email": "cs@saiswamimetals.com",
+    "full_address": "Resourceful Automobile Limited, K-24 Upper Ground, KH No. 107/10 Main Road, Raja puri West Delhi New Delhi – 110059",
+    "website": "http://www.sawhneyauto.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.063Z",
+  "faqs": [
+    {
+      "question": "What is the Resourceful Automobile IPO?",
+      "answer": "<div itemprop=\"text\"><p>Resourceful Automobile IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1024800<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->11.99<!-- --> Crores. The issue is priced at <span>₹117 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 22, 2024</b>, and <b>closes on <!-- -->August 26, 2024</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Resourceful Automobile IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Resourceful Automobile IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Resourceful Automobile IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Resourceful Automobile IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Resourceful Automobile IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Resourceful Automobile IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Resourceful Automobile IPO opens on August 22, 2024 and closes on August 26, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Resourceful Automobile IPO?",
+      "answer": "<div itemprop=\"text\"><p>Resourceful Automobile IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,40,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Resourceful Automobile IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Resourceful Automobile IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Resourceful Automobile IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Resourceful Automobile IPO<!-- --> will be done on <!-- -->Tuesday, August 27, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, August 28, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/resourceful-automobile-ipo/1814/\" title=\"Resourceful Automobile IPO Allotment Status\">Resourceful Automobile IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Resourceful Automobile IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Resourceful Automobile IPO<!-- --> listing date is on <b>Thursday, August 29, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Resourceful Automobile",
+  "issue_price": "₹117.00",
+  "issue_price_numeric": 117,
+  "issue_size": "10,24,800 shares (aggregating up to ₹11.99 Cr)",
+  "issue_size_numeric": 10,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swastika Investmart Ltd",
+      "url": "/report/ipo-lead-manager-review/112/122/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/122/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "117.00"
+      },
+      "open": {
+        "bse_sme": "117.00"
+      },
+      "low": {
+        "bse_sme": "111.15"
+      },
+      "high": {
+        "bse_sme": "122.85"
+      },
+      "last_trade": {
+        "bse_sme": "122.85"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 29 2024",
+    "bse_script_code": "544236",
+    "isin": "INE0SK201011",
+    "final_issue_price": "117 per share"
+  },
+  "listing_date": "2024-08-28T18:30:00.000Z",
+  "listing_gains": "5.00%",
+  "listing_gains_numeric": 5,
+  "logo": "https://www.chittorgarh.net/images/ipo/resourceful-automobile-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/resourceful-automobile-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "140400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "140400"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "280800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/resourceful-automobile-ipo/1814/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-08-21T18:30:00.000Z",
+  "pageHeading": "Resourceful Automobile Limited IPO (Resourceful Automobile IPO) Detail",
+  "pageTitle": "Resourceful Automobile IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Rahul Sawhney Mrs. Megha Chawla and Mrs. Bindu Sawhney are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "61.41%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Resourceful Automobile IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/364867/RALDRHP_20231229200931.pdf"
+    },
+    {
+      "text": "Resourceful Automobile IPO Addendum DRHP",
+      "url": "https://www.bsesme.com/download/364867/DRHPalongwithAddendum_20240514114637.pdf"
+    },
+    {
+      "text": "Resourceful Automobile IPO RHP",
+      "url": "https://www.bsesme.com/download/364867/SME_IPO%20Open/1.%20Prospectus14.08.2024_20240819154316.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/resourceful-automobile-ipo/1814/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "ipo@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "Resourceful Automobile IPO offers 1024800 shares. 486600 (47.48%) to NII 486600 (47.48%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "51600 (5.04%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "486600 (47.48%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "486600 (47.48%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1024800 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.063Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Resourceful Automobile IPO is subscribed 418.82 times on August 26 2024 6:19:07 PM (Day 3). The public issue subscribed 496.22 times in the retail category [.] times in the QIB category and 315.61 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "315.61",
+        "shares_offered": "486600",
+        "shares_bid_for": "153577200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "496.22",
+        "shares_offered": "486600",
+        "shares_bid_for": "241462800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "418.82",
+        "shares_offered": "973200",
+        "shares_bid_for": "407596800"
+      }
+    },
+    "total_applications": "248114",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 26 2024",
+    "tentative_allotment": "Tue Aug 27 2024",
+    "initiation_of_refunds": "Wed Aug 28 2024",
+    "credit_of_shares_to_demat": "Wed Aug 28 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:10.361Z",
+  "updated_at": "2025-04-18T12:48:01.063Z",
+  "year": 2024,
+  "worst_listing_gains": "5.00%",
+  "worst_listing_gains_numeric": 5
+}

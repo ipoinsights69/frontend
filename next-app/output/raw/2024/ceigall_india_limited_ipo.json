@@ -1,0 +1,511 @@
+{
+  "_id": "680249fb3ccffd1c7912c72f",
+  "ipo_id": "2024_ceigall_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:25:09.146Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ceigall-india-ipo/1798/"
+  },
+  "about": {
+    "details": "<p>Founded in 2002, Ceigall India Limited is an infrastructure construction company with expertise in specialized structural projects, including elevated roads, flyovers, bridges, railway overpasses, tunnels, highways, expressways, and runways.</p>\n<p>By July 2024, the company completed over 34 road and highway projects. These projects include project 16 EPC, one HAM project, five O&amp;M projects, and 12 Item Rate Projects.</p>\n<p>The company has 18 ongoing projects, including 13 EPC projects and five HAM projects. These involve elevated corridors, bridges, flyovers, rail over-bridges, tunnels, expressways, runways, metro projects, and multi-lane highways.</p>\n<p>As of March 31, 2024, the company has 1,488.17 lane kilometers of ongoing projects and has completed 2,158.72 lane kilometers of O&amp;M projects.</p>\n<p>The company specializes in the construction, development, and execution of major multi-lane highway projects with specialized structures in various states of India, including Punjab, Haryana, Rajasthan, Uttar Pradesh, Himachal Pradesh, Jammu and Kashmir, Jharkhand, Delhi, Maharashtra, and Bihar.</p>\n<p>Ceigall India Limited won the \"Gold Award\" at the National Highways Excellence Award, 2020 for the Khemkaran-Amritsar Project. They also received the \"Special Award\" at the National Highways Excellence Awards, 2021 for the Ramdas Gurdaspur Project, including the Kartarpur Sahib Project.</p>\n<p>The company's Order Book as of June 30, 2024, and for the fiscal years 2024, 2023, and 2022, were ₹94,708.42 million, ₹92,257.78 million, ₹108,090.43 million, and ₹63,461.30 million, respectively.</p>\n<p>The company has recently completed several key projects, including widening a road in Punjab, constructing the Kartarpur-Sahib Project, and finishing an elevated corridor portion for the Delhi-Saharanpur Project.</p>\n<p>As of March 31, 2024, the company has 2,256 permanent employees</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Ceigall India Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2592.19",
+          "1827.82",
+          "959.14"
+        ],
+        [
+          "Revenue",
+          "3066.19",
+          "2087.04",
+          "1146.50"
+        ],
+        [
+          "Profit After Tax",
+          "304.91",
+          "167.70",
+          "126.43"
+        ],
+        [
+          "Net Worth",
+          "906.41",
+          "593.06",
+          "431.25"
+        ],
+        [
+          "Total Borrowing",
+          "1811.02",
+          "1252.58",
+          "652.12"
+        ]
+      ]
+    },
+    {
+      "heading": "Ceigall India Limited Stock Quote & Charts",
+      "sanitizedHeading": "ceigall_india_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "33.57%"
+        ],
+        [
+          "ROCE",
+          "31.98%"
+        ],
+        [
+          "Debt/Equity",
+          "1.17"
+        ],
+        [
+          "RoNW",
+          "33.57%"
+        ],
+        [
+          "PAT Margin",
+          "10.05"
+        ],
+        [
+          "Price to Book Value",
+          "6.95"
+        ]
+      ]
+    },
+    {
+      "heading": "Ceigall India Limited Stock Quote & Charts",
+      "sanitizedHeading": "ceigall_india_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "19.40",
+          "17.50"
+        ],
+        [
+          "P/E (x)",
+          "20.67",
+          "22.91"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Ceigall India IPO raises Rs 375.20 crore from anchor investors. Ceigall India IPO Anchor bid date is July 31 2024. Ceigall India IPO Anchor Investors list",
+    "list_link": {
+      "text": "Ceigall India IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/ceigall_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "November 3 2024",
+      "shares_offered": "9356581",
+      "anchor_portion_size": "375.20"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 1, 2024 to August 5, 2024",
+    "ipoListingDate": "Thu, Aug 8, 2024",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹401.00",
+    "lotSize": "37 Shares",
+    "issueSize": "3,12,38,480 shares (aggregating up to ₹1,252.66 Cr)",
+    "freshIssue": "1,70,63,640 shares (aggregating up to ₹684.25 Cr)",
+    "offerForSale": "1,41,74,840 shares of ₹5 (aggregating up to ₹568.41 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Aug 1, 2024",
+    "ipoCloseDate": "Mon, Aug 5, 2024",
+    "initiationOfRefunds": "Wed, Aug 7, 2024",
+    "creditOfSharesToDemat": "Wed, Aug 7, 2024",
+    "shareHoldingPreIssue": "15,71,36,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "15,71,36,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.99%"
+      }
+    ],
+    "shareHoldingPostIssue": "17,41,99,640 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "17,41,99,640 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "82.06%"
+      }
+    ]
+  },
+  "closing_date": "2024-08-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 161 4623666",
+    "email": "secretarial@ceigall.com",
+    "full_address": "Ceigall India Limited, A-898, Tagore Nagar, Ludhiana - 141 001",
+    "website": "https://www.ceigall.com/"
+  },
+  "createdAt": "2025-04-18T12:47:55.857Z",
+  "faqs": [
+    {
+      "question": "What is the Ceigall India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ceigall India IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->31238480<!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->1,252.66<!-- --> Crores. The issue is priced at <span>₹401 per share</span>. The minimum order quantity is <!-- -->37<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 1, 2024</b>, and <b>closes on <!-- -->August 5, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Ceigall India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Ceigall India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Ceigall India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Ceigall India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Ceigall India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Ceigall India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Ceigall India IPO opens on August 1, 2024 and closes on August 5, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Ceigall India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ceigall India IPO<!-- --> <b>lot size is <!-- -->37</b>, and the <b>minimum amount required is <span>₹14,837</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Ceigall India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Ceigall India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Ceigall India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Ceigall India IPO<!-- --> will be done on <!-- -->Tuesday, August 6, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, August 7, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/ceigall-india-ipo/1798/\" title=\"Ceigall India IPO Allotment Status\">Ceigall India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Ceigall India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Ceigall India IPO<!-- --> listing date is on <b>Thursday, August 8, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Ceigall India",
+  "issue_price": "₹401.00",
+  "issue_price_numeric": 401,
+  "issue_size": "3,12,38,480 shares (aggregating up to ₹1,252.66 Cr)",
+  "issue_size_numeric": 3,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "401.00",
+        "nse": "401.00"
+      },
+      "open": {
+        "bse": "413.00",
+        "nse": "419.00"
+      },
+      "low": {
+        "bse": "380.10",
+        "nse": "383.25"
+      },
+      "high": {
+        "bse": "425.00",
+        "nse": "424.80"
+      },
+      "last_trade": {
+        "bse": "386.05",
+        "nse": "386.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 8 2024",
+    "bse_script_code": "544223",
+    "nse_symbol": "CEIGALL",
+    "isin": "INE0AG901020",
+    "final_issue_price": "401 per share"
+  },
+  "listing_date": "2024-08-07T18:30:00.000Z",
+  "listing_gains": "-3.73%",
+  "listing_gains_numeric": -3.73,
+  "logo": "https://www.chittorgarh.net/images/ipo/ceigall_india_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/ceigall_india_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 37 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "37",
+        "amount": "14837"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "481",
+        "amount": "192881"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "518",
+        "amount": "207718"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2479",
+        "amount": "994079"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2516",
+        "amount": "1008916"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ceigall-india-ipo/1798/"
+    }
+  },
+  "lot_size": 37,
+  "opening_date": "2024-07-31T18:30:00.000Z",
+  "pageHeading": "Ceigall India Limited IPO (Ceigall India IPO) Detail",
+  "pageTitle": "Ceigall India IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the Company are Ramneek Sehgal Ramneek Sehgal and Sons HUF and RS Family Trust.",
+    "holdings": {
+      "share_holding_pre_issue": "99.99%",
+      "share_holding_post_issue": "82.06%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Ceigall India IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2024/ceigall-india-limited-drhp_82078.html"
+    },
+    {
+      "text": "Ceigall India IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2024/ceigall-india-limited-rhp_85262.html"
+    },
+    {
+      "text": "Anchor Investors in Ceigall India IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/ceigall_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "15",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "2"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ceigall-india-ipo/1798/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "ceigall.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Ceigall India IPO offers 31243701 shares. 6237721 (19.96%) to QIB 4678291 (14.97%) to NII 10916012 (34.94%) to RII 55096 (0.18%) to employees and 9356581 (29.95%) to Anchor investors. 295027 RIIs will receive minimum 37 shares and 3010 (sNII) and 6020 (bNII) will receive minimum 518 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "9356581 (29.95%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "6237721 (19.96%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4678291 (14.97%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "3118861 (9.98%)",
+        "maximum_allottees": "6020"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1559430 (4.99%)",
+        "maximum_allottees": "3010"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "10916012 (34.94%)",
+        "maximum_allottees": "295027"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "55096 (0.18%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "31243701 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:55.857Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Ceigall India IPO is subscribed 14.01 times on August 5 2024 6:19:07 PM (Day 3). The public issue subscribed 3.82 times in the retail category 31.26 times in the QIB category and 14.83 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "31.26",
+        "shares_offered": "6237721",
+        "shares_bid_for": "194982267"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "14.83",
+        "shares_offered": "4678291",
+        "shares_bid_for": "69364307"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "16.28",
+        "shares_offered": "3118861",
+        "shares_bid_for": "50776728"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "11.92",
+        "shares_offered": "1559430",
+        "shares_bid_for": "18587579"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.82",
+        "shares_offered": "10916012",
+        "shares_bid_for": "41701516"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "11.84",
+        "shares_offered": "55096",
+        "shares_bid_for": "652606"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "14.01",
+        "shares_offered": "21887120",
+        "shares_bid_for": "306700696"
+      }
+    },
+    "total_applications": "1128173"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 5 2024",
+    "tentative_allotment": "Tue Aug 6 2024",
+    "initiation_of_refunds": "Wed Aug 7 2024",
+    "credit_of_shares_to_demat": "Wed Aug 7 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:42.935Z",
+  "updated_at": "2025-04-18T12:47:55.857Z",
+  "year": 2024,
+  "worst_listing_gains": "-3.73%",
+  "worst_listing_gains_numeric": -3.73,
+  "last_performance_update": "2025-04-19T04:43:42.935Z"
+}

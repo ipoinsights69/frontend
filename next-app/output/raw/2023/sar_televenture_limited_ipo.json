@@ -1,0 +1,443 @@
+{
+  "_id": "68028e9e3ccffd1c7912c950",
+  "ipo_id": "2023_sar_televenture_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:28:19.944Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sar-televenture-ipo/1559/"
+  },
+  "about": {
+    "details": "<p>SAR Televenture Limited is a provider of telecommunication solutions to Telecom Network Operators. The Company is engaged in the installation and commissioning of 4G and 5G Towers, Optical Fibre Cable (OFC) Systems, and dealing in network equipment.</p>\n<p>SAR Televenture is registered as Infrastructure Provider Category I (IP-I) with the Department of Telecommunication (DOT). The company leases out build sites i.e. GBT/RTT/Pole sites and Out Door Small Cell (ODSC) and establishes and maintains assets such as Dark Fibres, Right of Way, Duct Space, and Tower for the purpose of granting on lease or rent or sale basis to the licensees of Telecom Services.</p>\n<p>The company also provides project management for laying of the duct and optic fiber cables, construction of basic transmission and telecom utilities, dark fiber leasing, optical fiber network construction, maintenance of duct and optic fibre, and optical fibre project turnkey services to various, Telecom Network Operators &amp; Broad Band Service Operators and ISPs across Maharashtra.</p>\n<p>SAR Televenture has provided over 373 towers on lease over various areas in West Bengal, Bihar, Uttar Pradesh, and Punjab.</p>\n<p>On January 3, 2023, the company acquired 100% of the issued and paid-up equity share capital of SAR Televenture FZE, United Arab Emirates (Formerly known as Shoora International FZE) from Shoora Capital Limited via a Share Purchase agreement. The subsidiary is engaged in the activities of Wholesale Fresh Foodstuff Trading -Import &amp; Export; Ferrous and Non Ferrous Metal Trading Import &amp; Export; Wireless Communication Devices and Equipment Trading; and Electronic Chips &amp; Semiconductors trading Import/Export.</p>\n<p>The company recorded a total revenue from operations of Rs. 3,246.17 Lacs and PAT of Rs. 388.38 Lacs in fiscal 2023.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "SAR Televenture Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "4324.77",
+          "2420.77",
+          "410.83",
+          "144.82"
+        ],
+        [
+          "Revenue",
+          "1735.35",
+          "3251.63",
+          "475.35",
+          "90.71"
+        ],
+        [
+          "Profit After Tax",
+          "192.38",
+          "388.36",
+          "3.71",
+          "-2.71"
+        ],
+        [
+          "Net Worth",
+          "3324.40",
+          "1178.72",
+          "-7.74",
+          "-11.57"
+        ],
+        [
+          "Reserves and Surplus",
+          "3114.40",
+          "1113.42",
+          "-11.91",
+          "-15.62"
+        ],
+        [
+          "Total Borrowing",
+          "752.18",
+          "839.01",
+          "337.09",
+          "136.87"
+        ]
+      ]
+    },
+    {
+      "heading": "Sar Televenture Limited Stock Quote & Charts",
+      "sanitizedHeading": "sar_televenture_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "Debt/Equity",
+          "0.65"
+        ],
+        [
+          "RoNW",
+          "32.95%"
+        ]
+      ]
+    },
+    {
+      "heading": "Sar Televenture Limited Stock Quote & Charts",
+      "sanitizedHeading": "sar_televenture_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "91.08",
+          null
+        ],
+        [
+          "P/E (x)",
+          "0.6",
+          "10.72"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "SAR Televenture IPO raises Rs 7.03 crore from anchor investors. SAR Televenture IPO Anchor bid date is October 31 2023. SAR Televenture IPO Anchor Investors list",
+    "list_link": {
+      "text": "SAR Televenture IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sar-televentures-anchor.pdf"
+    },
+    "details": {
+      "ipo_date": "February 4 2024",
+      "shares_offered": "1278000",
+      "anchor_portion_size": "7.03"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "November 1, 2023 to November 3, 2023",
+    "ipoListingDate": "Wed, Nov 8, 2023",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹55.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "45,00,000 shares (aggregating up to ₹24.75 Cr)",
+    "freshIssue": "45,00,000 shares (aggregating up to ₹24.75 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,30,000 shares",
+      "maker_name": "R.K.Stock Holding Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/330/"
+    },
+    "ipoOpenDate": "Wed, Nov 1, 2023",
+    "ipoCloseDate": "Fri, Nov 3, 2023",
+    "initiationOfRefunds": "Tue, Nov 7, 2023",
+    "creditOfSharesToDemat": "Tue, Nov 7, 2023",
+    "shareHoldingPreIssue": "1,05,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,05,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "87.80%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,50,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,50,00,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2023-11-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "0124 - 45133283",
+    "email": "info@sarteleventure.com",
+    "full_address": "SAR Televenture Limited, P.No – 346A 2nd Floor, Udyog Vihar, Phase-4",
+    "website": "https://sarteleventure.com/"
+  },
+  "createdAt": "2025-04-18T17:40:46.456Z",
+  "faqs": [
+    {
+      "question": "What is the SAR Televenture IPO?",
+      "answer": "<div itemprop=\"text\"><p>SAR Televenture IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4500000<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->24.75<!-- --> Crores. The issue is priced at <span>₹55 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 1, 2023</b>, and <b>closes on <!-- -->November 3, 2023</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in SAR Televenture IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->SAR Televenture IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->SAR Televenture IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->SAR Televenture IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->SAR Televenture IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When SAR Televenture IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The SAR Televenture IPO opens on November 1, 2023 and closes on November 3, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of SAR Televenture IPO?",
+      "answer": "<div itemprop=\"text\"><p>SAR Televenture IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,10,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for SAR Televenture IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->SAR Televenture IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is SAR Televenture IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->SAR Televenture IPO<!-- --> will be done on <!-- -->Monday, November 6, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, November 7, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/sar-televenture-ipo/1559/\" title=\"SAR Televenture IPO Allotment Status\">SAR Televenture IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is SAR Televenture IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->SAR Televenture IPO<!-- --> listing date is on <b>Wednesday, November 8, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "SAR Televenture",
+  "issue_price": "₹55.00",
+  "issue_price_numeric": 55,
+  "issue_size": "45,00,000 shares (aggregating up to ₹24.75 Cr)",
+  "issue_size_numeric": 45,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Pantomath Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/107/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/107/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "55.00"
+      },
+      "open": {
+        "nse_sme": "105.00"
+      },
+      "low": {
+        "nse_sme": "105.00"
+      },
+      "high": {
+        "nse_sme": "110.25"
+      },
+      "last_trade": {
+        "nse_sme": "110.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "November 8 2023",
+    "nse_symbol": "SARTELE",
+    "isin": "INE0PUC01020",
+    "final_issue_price": "55 per share"
+  },
+  "listing_date": "2023-11-07T18:30:00.000Z",
+  "listing_gains": "100.45%",
+  "listing_gains_numeric": 100.45,
+  "logo": "https://www.chittorgarh.net/images/ipo/sar-televenture-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sar-televenture-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "110000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "110000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "220000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sar-televenture-ipo/1559/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-10-31T18:30:00.000Z",
+  "pageHeading": "SAR Televenture Limited IPO (SAR Televenture IPO) Detail",
+  "pageTitle": "SAR Televenture IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "M.G. Metalloy Private Limited is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "87.80%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "SAR Televenture IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SARTeleventure_DRHP.zip"
+    },
+    {
+      "text": "SAR Televenture IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SAR_Televenture_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in SAR Televenture IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sar-televentures-anchor.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sar-televenture-ipo/1559/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "SAR Televenture IPO offers 4506000 shares. 848000 (18.82%) to QIB 650000 (14.43%) to NII 1500000 (33.29%) to RII and 1278000 (28.36%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1278000 (28.36%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "230000 (5.10%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "848000 (18.82%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "650000 (14.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1500000 (33.29%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4506000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.456Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The SAR Televenture IPO is subscribed 288.09 times on November 3 2023 7:29:00 PM (Day 3). The public issue subscribed 222.1 times in the retail category 77 times in the QIB category and 715.77 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "77",
+        "shares_offered": "848000",
+        "shares_bid_for": "65298000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "715.77",
+        "shares_offered": "650000",
+        "shares_bid_for": "465250000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "222.1",
+        "shares_offered": "1500000",
+        "shares_bid_for": "333150000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "288.09",
+        "shares_offered": "2998000",
+        "shares_bid_for": "863698000"
+      }
+    },
+    "total_applications": "166575",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 3 2023",
+    "tentative_allotment": "Mon Nov 6 2023",
+    "initiation_of_refunds": "Tue Nov 7 2023",
+    "credit_of_shares_to_demat": "Tue Nov 7 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:46.641Z",
+  "updated_at": "2025-04-18T17:40:46.456Z",
+  "year": 2023,
+  "worst_listing_gains": "100.45%",
+  "worst_listing_gains_numeric": 100.45
+}

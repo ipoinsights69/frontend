@@ -1,0 +1,469 @@
+{
+  "_id": "680249fa3ccffd1c7912c704",
+  "ipo_id": "2024_agarwal_toughened_glass_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:17:43.249Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/agarwal-toughened-glass-india-ipo/1914/"
+  },
+  "about": {
+    "details": "<p>Incorporated in October 2009, Agarwal Toughened Glass India Limited manufactures tempered glasses. The company's products are used in various industries, such as shower doors, refrigerator trays, mobile screen protectors, bulletproof glass for diving masks, and a variety of plates and cookware.</p>\n<p>The company is ISO 9001:2015 certified for its Quality Management System.</p>\n<p>The company caters to segments such as office buildings, hotels, institutions, banks, insurance firms, shopping centres, and diplomatic homes.</p>\n<p>The product portfolio of the company comprises of</p>\n<ul>\n<li>Annealed Glass</li>\n<li>Toughened Glasses</li>\n<li>Insulated Glasses</li>\n<li>Laminate Safety Glass</li>\n<li>Heat Soaked Glass</li>\n</ul>\n<p>The company conducts various tests on its products, including human impact assessments, ball drop tests, design and visual inspections, annealing evaluations (for residual stress), and glass thickness and weight measurements.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>Strong Brand presence in the Indian market</li>\n<li>The company's management team is a combination of experience and expertise</li>\n<li>Long-standing relationships with its customers</li>\n<li>Consistent focus on quality</li>\n<li>Strong Risk Management</li>\n</ul>\n<p>As of September 30, 2024, the company had 207 employees responsible for their respective tasks, including directors, administrative, secretarial, marketing, and accounting staff.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Agarwal Toughened Glass India Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5707.55",
+          "5154.85",
+          "4062.32",
+          "3620.49"
+        ],
+        [
+          "Revenue",
+          "2349.73",
+          "4050.26",
+          "4060.32",
+          "3471.99"
+        ],
+        [
+          "Profit After Tax",
+          "453.92",
+          "868.52",
+          "96.97",
+          "50.18"
+        ],
+        [
+          "Net Worth",
+          "2084.72",
+          "1630.80",
+          "762.28",
+          "665.31"
+        ],
+        [
+          "Reserves and Surplus",
+          "897.22",
+          "443.30",
+          "287.28",
+          "190.31"
+        ],
+        [
+          "Total Borrowing",
+          "3055.39",
+          "2924.51",
+          "2876.68",
+          "2641.92"
+        ]
+      ]
+    },
+    {
+      "heading": "Agarwal Toughened Glass India Limited Stock Quote & Charts",
+      "sanitizedHeading": "agarwal_toughened_glass_india_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "21.77%"
+        ],
+        [
+          "ROCE",
+          "19.78%"
+        ],
+        [
+          "Debt/Equity",
+          "1.47"
+        ],
+        [
+          "RoNW",
+          "21.77%"
+        ],
+        [
+          "PAT Margin",
+          "20.37"
+        ],
+        [
+          "Price to Book Value",
+          "6.15"
+        ]
+      ]
+    },
+    {
+      "heading": "Agarwal Toughened Glass India Limited Stock Quote & Charts",
+      "sanitizedHeading": "agarwal_toughened_glass_india_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.31",
+          "5.14"
+        ],
+        [
+          "P/E (x)",
+          "14.77",
+          "21.03"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Agarwal Toughened Glass India IPO raises Rs 17.82 crore from anchor investors. Agarwal Toughened Glass India IPO Anchor bid date is November 27 2024. Agarwal Toughened Glass India IPO Anchor Investors list",
+    "list_link": {
+      "text": "Agarwal Toughened Glass India IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/agarwal-toughened-glass.pdf"
+    },
+    "details": {
+      "ipo_date": "March 2 2025",
+      "shares_offered": "1650000",
+      "anchor_portion_size": "17.82"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "November 28, 2024 to December 2, 2024",
+    "ipoListingDate": "Thu, Dec 5, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹108.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "57,99,600 shares (aggregating up to ₹62.64 Cr)",
+    "freshIssue": "57,99,600 shares (aggregating up to ₹62.64 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,97,600 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Thu, Nov 28, 2024",
+    "ipoCloseDate": "Mon, Dec 2, 2024",
+    "initiationOfRefunds": "Wed, Dec 4, 2024",
+    "creditOfSharesToDemat": "Wed, Dec 4, 2024",
+    "shareHoldingPreIssue": "1,18,75,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,18,75,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "95.16%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,76,74,600 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,76,74,600 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "63.94%"
+      }
+    ]
+  },
+  "closing_date": "2024-12-01T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 723 004 3212",
+    "email": "cs_complianceofficer@agarwaltuff.com",
+    "full_address": "Agarwal Toughened Glass India Limited, F-2264 RIICO Industrial Area, Ramchandrapura Sitapur (Ext.), Jaipur - 302 022",
+    "website": "http://www.agarwaltuff.com/"
+  },
+  "createdAt": "2025-04-18T12:47:53.972Z",
+  "faqs": [
+    {
+      "question": "What is the Agarwal Toughened Glass India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Agarwal Toughened Glass India IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5799600<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->62.64<!-- --> Crores. The issue is priced at <span>₹108 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 28, 2024</b>, and <b>closes on <!-- -->December 2, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Agarwal Toughened Glass India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Agarwal Toughened Glass India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Agarwal Toughened Glass India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Agarwal Toughened Glass India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Agarwal Toughened Glass India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Agarwal Toughened Glass India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Agarwal Toughened Glass India IPO opens on November 28, 2024 and closes on December 2, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Agarwal Toughened Glass India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Agarwal Toughened Glass India IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,29,600</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Agarwal Toughened Glass India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Agarwal Toughened Glass India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Agarwal Toughened Glass India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Agarwal Toughened Glass India IPO<!-- --> will be done on <!-- -->Tuesday, December 3, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, December 4, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/agarwal-toughened-glass-india-ipo/1914/\" title=\"Agarwal Toughened Glass India IPO Allotment Status\">Agarwal Toughened Glass India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Agarwal Toughened Glass India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Agarwal Toughened Glass India IPO<!-- --> listing date is on <b>Thursday, December 5, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Agarwal Toughened Glass India",
+  "issue_price": "₹108.00",
+  "issue_price_numeric": 108,
+  "issue_size": "57,99,600 shares (aggregating up to ₹62.64 Cr)",
+  "issue_size_numeric": 57,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Cumulative Capital Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/431/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/431/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "108.00"
+      },
+      "open": {
+        "nse_sme": "135.00"
+      },
+      "low": {
+        "nse_sme": "130.00"
+      },
+      "high": {
+        "nse_sme": "141.75"
+      },
+      "last_trade": {
+        "nse_sme": "141.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "December 5 2024",
+    "nse_symbol": "AGARWALTUF",
+    "isin": "INE0P8X01016",
+    "final_issue_price": "108 per share"
+  },
+  "listing_date": "2024-12-04T18:30:00.000Z",
+  "listing_gains": "31.25%",
+  "listing_gains_numeric": 31.25,
+  "logo": "https://www.chittorgarh.net/images/ipo/agarwal-toughened-glass-india-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/agarwal-toughened-glass-india-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "129600"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "129600"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "259200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/agarwal-toughened-glass-india-ipo/1914/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-11-27T18:30:00.000Z",
+  "pageHeading": "Agarwal Toughened Glass India Limited IPO (Agarwal Toughened Glass India IPO) Detail",
+  "pageTitle": "Agarwal Toughened Glass India IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Anita Agarwal Mahesh Kumar Agarwal Uma Shankar Agarwal and Sharda Agarwal are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "95.16%",
+      "share_holding_post_issue": "63.94%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Agarwal Toughened Glass India IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AgarwalToughenedGlassIndiaLtd_DRHP.pdf"
+    },
+    {
+      "text": "Agarwal Toughened Glass India IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2024/agarwal-toughened-glass-india-limited_88656.html"
+    },
+    {
+      "text": "Anchor Investors in Agarwal Toughened Glass India IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/agarwal-toughened-glass.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/agarwal-toughened-glass-india-ipo/1914/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "atgil.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Agarwal Toughened Glass India IPO offers 5799600 shares. 1100400 (18.97%) to QIB 825600 (14.24%) to NII 1926000 (33.21%) to RII and 1650000 (28.45%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1650000 (28.45%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "297600 (5.13%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1100400 (18.97%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "825600 (14.24%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1926000 (33.21%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5799600 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:53.972Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Agarwal Toughened Glass India IPO is subscribed 9.89 times on December 2 2024 6:19:59 PM (Day 3). The public issue subscribed 10.71 times in the retail category 4.49 times in the QIB category and 15.17 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "4.49",
+        "shares_offered": "1100400",
+        "shares_bid_for": "4941600",
+        "total_application": "11"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "15.17",
+        "shares_offered": "825600",
+        "shares_bid_for": "12525600",
+        "total_application": "1197"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "10.71",
+        "shares_offered": "1926000",
+        "shares_bid_for": "20624400",
+        "total_application": "17187"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "9.89",
+        "shares_offered": "3852000",
+        "shares_bid_for": "38091600",
+        "total_application": "18395"
+      }
+    },
+    "total_applications": "18395",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 2 2024",
+    "tentative_allotment": "Tue Dec 3 2024",
+    "initiation_of_refunds": "Wed Dec 4 2024",
+    "credit_of_shares_to_demat": "Wed Dec 4 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:36.790Z",
+  "updated_at": "2025-04-18T12:47:53.972Z",
+  "year": 2024,
+  "worst_listing_gains": "31.25%",
+  "worst_listing_gains_numeric": 31.25,
+  "last_performance_update": "2025-04-19T04:43:36.789Z"
+}

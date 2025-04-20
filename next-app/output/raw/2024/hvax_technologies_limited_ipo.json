@@ -1,0 +1,458 @@
+{
+  "_id": "680249fd3ccffd1c7912c776",
+  "ipo_id": "2024_hvax_technologies_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:20:18.823Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/hvax-technologies-ipo/1876/"
+  },
+  "about": {
+    "details": "<p>Established in 2010, HVAX Technologies Limited provides turnkey engineering, procurement, and execution of controlled environment and cleanroom infrastructure, design, engineering, and consulting services to pharmaceutical and healthcare companies.</p>\n<p>The company supplies the following products manufactured by third parties: - Cleanroom wall panels, Cleanroom ceiling panels, Covings, Riser panels, Cleanroom doors, Flooring systems, Pass boxes, Air showers, LT/HT electrical panels, Pre-fabricated galvanized iron (GI) ducts, Air handling units, Chillers, Building Management Systems (BMS) Equipment, Utility generation and distribution Equipment.</p>\n<p>The company's customers include pharmaceutical companies, chemical companies, hospitals, healthcare companies, and FMCG companies. HVAX Technologies has completed around 200 projects in India and in 15 countries, namely Algeria, Ethiopia, the United Arab Emirates, Ghana, Kenya, Nepal, New Zealand, Nigeria, Saudi Arabia, Sri Lanka, South Africa, Tanzania, Uganda and Zimbabwe. Further, the Company has executed 53 projects, 48 projects, and 52 projects in FY 2024, FY 2023, and FY 2022 respectively, representing revenue from turnkey projects of Rs. 8445.73 lakhs, Rs. 9,343.63 lakhs, and Rs. 6,632.27 lakhs respectively.</p>\n<p>Competitive Strengths:</p>\n<ul>\n<li>Experienced promoters and an experienced management team</li>\n<li>Consistent implementation expertise</li>\n<li>Visible growth thanks to a solid order backlog</li>\n<li>Strong and consistent financial performance supported by a solid internal control and risk management system</li>\n</ul>\n<p>On August 31, 2024, the company employed 125 permanent employees and 21 temporary and agency workers.&nbsp;</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "HVAX Technologies Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "6366.32",
+          "7825.59",
+          "5386.78"
+        ],
+        [
+          "Revenue",
+          "10746.99",
+          "9613.86",
+          "6879.13"
+        ],
+        [
+          "Profit After Tax",
+          "939.07",
+          "520.37",
+          "418.15"
+        ],
+        [
+          "Net Worth",
+          "3059.83",
+          "1720.77",
+          "1200.4"
+        ],
+        [
+          "Reserves and Surplus",
+          "2991.67",
+          "1659.08",
+          "1138.71"
+        ],
+        [
+          "Total Borrowing",
+          "2437.29",
+          "1692.21",
+          "1010.03"
+        ]
+      ]
+    },
+    {
+      "heading": "Hvax Technologies Limited Stock Quote & Charts",
+      "sanitizedHeading": "hvax_technologies_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "39.29%"
+        ],
+        [
+          "ROCE",
+          "25.17%"
+        ],
+        [
+          "Debt/Equity",
+          "0.80"
+        ],
+        [
+          "RoNW",
+          "30.69%"
+        ],
+        [
+          "PAT Margin",
+          "8.85"
+        ],
+        [
+          "Price to Book Value",
+          "3.06"
+        ]
+      ]
+    },
+    {
+      "heading": "Hvax Technologies Limited Stock Quote & Charts",
+      "sanitizedHeading": "hvax_technologies_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "45.92",
+          "33.82"
+        ],
+        [
+          "P/E (x)",
+          "9.97",
+          "13.54"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "HVAX Technologies IPO raises Rs 9.48 crore from anchor investors. HVAX Technologies IPO Anchor bid date is September 26 2024. HVAX Technologies IPO Anchor Investors list",
+    "list_link": {
+      "text": "HVAX Technologies IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/hvax-technologies-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "December 31 2024",
+      "shares_offered": "207000",
+      "anchor_portion_size": "9.48"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 27, 2024 to October 1, 2024",
+    "ipoListingDate": "Mon, Oct 7, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹458.00",
+    "lotSize": "300 Shares",
+    "issueSize": "7,32,000 shares (aggregating up to ₹33.53 Cr)",
+    "freshIssue": "7,32,000 shares (aggregating up to ₹33.53 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "37,200 shares",
+      "maker_name": "Aftertrade Broking Pvt Ltd",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/335/"
+    },
+    "ipoOpenDate": "Fri, Sep 27, 2024",
+    "ipoCloseDate": "Tue, Oct 1, 2024",
+    "initiationOfRefunds": "Fri, Oct 4, 2024",
+    "creditOfSharesToDemat": "Fri, Oct 4, 2024",
+    "shareHoldingPreIssue": "20,44,875 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "20,44,875 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "90.50%"
+      }
+    ],
+    "shareHoldingPostIssue": "27,76,875 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "27,76,875 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.65%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-30T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "022 4972 5039",
+    "email": "compliance@hvax.in",
+    "full_address": "HVAX Technologies Limited, 601 Lodha Supremus, I-Think Techno Campus, Kanjurmarg (East) Mumbai - 400042",
+    "website": "http://www.hvax.in/"
+  },
+  "createdAt": "2025-04-18T12:47:57.453Z",
+  "faqs": [
+    {
+      "question": "What is the HVAX Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>HVAX Technologies IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->732000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->33.53<!-- --> Crores. The issue is priced at <span>₹458 per share</span>. The minimum order quantity is <!-- -->300<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 27, 2024</b>, and <b>closes on <!-- -->October 1, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in HVAX Technologies IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->HVAX Technologies IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->HVAX Technologies IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->HVAX Technologies IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->HVAX Technologies IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When HVAX Technologies IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The HVAX Technologies IPO opens on September 27, 2024 and closes on October 1, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of HVAX Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>HVAX Technologies IPO<!-- --> <b>lot size is <!-- -->300</b>, and the <b>minimum amount required is <span>₹1,37,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for HVAX Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->HVAX Technologies IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is HVAX Technologies IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->HVAX Technologies IPO<!-- --> will be done on <!-- -->Thursday, October 3, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, October 4, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/hvax-technologies-ipo/1876/\" title=\"HVAX Technologies IPO Allotment Status\">HVAX Technologies IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is HVAX Technologies IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->HVAX Technologies IPO<!-- --> listing date is on <b>Monday, October 7, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "HVAX Technologies",
+  "issue_price": "₹458.00",
+  "issue_price_numeric": 458,
+  "issue_size": "7,32,000 shares (aggregating up to ₹33.53 Cr)",
+  "issue_size_numeric": 7,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fedex Securities Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/144/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/144/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "458.00"
+      },
+      "open": {
+        "nse_sme": "486.00"
+      },
+      "low": {
+        "nse_sme": "461.70"
+      },
+      "high": {
+        "nse_sme": "508.00"
+      },
+      "last_trade": {
+        "nse_sme": "490.35"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 7 2024",
+    "nse_symbol": "HVAX",
+    "isin": "INE0TO501019",
+    "final_issue_price": "458 per share"
+  },
+  "listing_date": "2024-10-06T18:30:00.000Z",
+  "listing_gains": "7.06%",
+  "listing_gains_numeric": 7.06,
+  "logo": "https://www.chittorgarh.net/images/ipo/hvax-technologies-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/hvax-technologies-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 300 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "300",
+        "amount": "137400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "300",
+        "amount": "137400"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "600",
+        "amount": "274800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/hvax-technologies-ipo/1876/"
+    }
+  },
+  "lot_size": 300,
+  "opening_date": "2024-09-26T18:30:00.000Z",
+  "pageHeading": "HVAX Technologies Limited IPO (HVAX Technologies IPO) Detail",
+  "pageTitle": "HVAX Technologies IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Nirbhaynarayan Singh and Prayagdatt Mishra are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "90.50%",
+      "share_holding_post_issue": "66.65%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "HVAX Technologies IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/HVAXTechnologiesLimited_DRHP.zip"
+    },
+    {
+      "text": "HVAX Technologies IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/HVAXTechnologiesLimited_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in HVAX Technologies IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/hvax-technologies-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/hvax-technologies-ipo/1876/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "hvax.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "HVAX Technologies IPO offers 732000 shares. 138000 (18.85%) to QIB 105300 (14.39%) to NII 244500 (33.40%) to RII and 207000 (28.28%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "207000 (28.28%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "37200 (5.08%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "138000 (18.85%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "105300 (14.39%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "244500 (33.40%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "732000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.453Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The HVAX Technologies IPO is subscribed 34.16 times on October 1 2024 6:19:59 PM (Day 3). The public issue subscribed 26.69 times in the retail category 14.02 times in the QIB category and 77.92 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "14.02",
+        "shares_offered": "138000",
+        "shares_bid_for": "1934400"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "77.92",
+        "shares_offered": "105300",
+        "shares_bid_for": "8205000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "26.69",
+        "shares_offered": "244500",
+        "shares_bid_for": "6525600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "34.16",
+        "shares_offered": "487800",
+        "shares_bid_for": "16665000"
+      }
+    },
+    "total_applications": "21752",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 1 2024",
+    "tentative_allotment": "Thu Oct 3 2024",
+    "initiation_of_refunds": "Fri Oct 4 2024",
+    "credit_of_shares_to_demat": "Fri Oct 4 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:52.366Z",
+  "updated_at": "2025-04-18T12:47:57.453Z",
+  "year": 2024,
+  "worst_listing_gains": "7.06%",
+  "worst_listing_gains_numeric": 7.06,
+  "last_performance_update": "2025-04-19T04:43:52.365Z"
+}

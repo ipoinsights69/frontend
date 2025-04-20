@@ -1,0 +1,417 @@
+{
+  "_id": "6802917a3ccffd1c7912c9a4",
+  "ipo_id": "2020_likhitha_infrastructure_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:42:44.200Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/likhitha-infrastructure-ipo/1062/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1998, Likhitha Infrastructure Ltd is an oil and gas pipeline infrastructure service provider in India. The company is engaged in providing oil &amp; gas pipelines, city gas distribution projects, Cross-Country Pipeline Projects, and operations and maintenance services as well. It is the first company that has executed the first Trans-National Cross Country Hydrocarbon Pipeline Project between India and Nepal.</p><p>With 20+ years of existence, it has spread its geographical presence across 16+ states and 2 Union Territories in India such as Delhi, West Bengal, Telangana, Gujarat, Andhra Pradesh, Madhya Pradesh, Bihar, Chandigarh, Haryana, Kerala, Orissa, Uttar Pradesh, etc. Company has a strong client base in India including both the private and public players such as ONGC, HCG, IndianOil, GAIL, etc.</p><p><strong>Competitive strength</strong></p><p>•  Diversified geographical presence in India<br>• Strong client base<br>• Efficient business model<br>• Strong project execution capabilities<br></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "10085.61",
+          "8457.38",
+          "6722.91"
+        ],
+        [
+          "Total Revenue",
+          "16279.02",
+          "14054.68",
+          "8860.56"
+        ],
+        [
+          "Profit After Tax",
+          "1987.93",
+          "1785.51",
+          "716.22"
+        ]
+      ]
+    },
+    {
+      "heading": "IPO Notices",
+      "sanitizedHeading": "notices",
+      "headers": [
+        "Category",
+        "Shares Offered(Previous)",
+        "Shares Offered (New)"
+      ],
+      "rows": [
+        [
+          "QIB",
+          "2550000 (50%)",
+          "51000 (1%)"
+        ],
+        [
+          "NII",
+          "765000 (15%)",
+          "3264000 (64%)"
+        ],
+        [
+          "Retail",
+          "1785000 (35%)",
+          "1785000 (35%)"
+        ],
+        [
+          "Total",
+          "5100000",
+          "5100000"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 29, 2020 to October 7, 2020",
+    "ipoListingDate": "Thu, Oct 15, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹120.00",
+    "lotSize": "125 Shares",
+    "issueSize": "51,00,000 shares (aggregating up to ₹61.20 Cr)",
+    "freshIssue": "51,00,000 shares (aggregating up to ₹61.20 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Sep 29, 2020",
+    "ipoCloseDate": "Wed, Oct 7, 2020",
+    "initiationOfRefunds": "Tue, Oct 13, 2020",
+    "creditOfSharesToDemat": "Wed, Oct 14, 2020",
+    "shareHoldingPreIssue": "1,46,25,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,46,25,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.96%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,97,25,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,97,25,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "74.11%"
+      }
+    ]
+  },
+  "closing_date": "2020-10-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "91 40-23752657",
+    "email": "info@likhitha.in",
+    "full_address": "Likhitha Infrastructure Ltd, Flat No. 701 Plot No.8-3-940 and 8-3-940/A to E, Tirumala Shah Residency Yellareddy Guda Ameerpet, Hyderabad - 500073",
+    "website": "http://www.likhitha.co.in/"
+  },
+  "createdAt": "2025-04-18T17:52:58.570Z",
+  "faqs": [
+    {
+      "question": "What is the Likhitha Infrastructure IPO?",
+      "answer": "<div itemprop=\"text\"><p>Likhitha Infrastructure IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->5100000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->61.20<!-- --> Crores. The issue is priced at <span>₹120 per share</span>. The minimum order quantity is <!-- -->125<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 29, 2020</b>, and <b>closes on <!-- -->October 7, 2020</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Likhitha Infrastructure IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Likhitha Infrastructure IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Likhitha Infrastructure IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Likhitha Infrastructure IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Likhitha Infrastructure IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Likhitha Infrastructure IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Likhitha Infrastructure IPO opens on September 29, 2020 and closes on October 7, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Likhitha Infrastructure IPO?",
+      "answer": "<div itemprop=\"text\"><p>Likhitha Infrastructure IPO<!-- --> <b>lot size is <!-- -->125</b>, and the <b>minimum amount required is <span>₹15,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Likhitha Infrastructure IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Likhitha Infrastructure IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Likhitha Infrastructure IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Likhitha Infrastructure IPO<!-- --> will be done on <!-- -->Monday, October 12, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, October 14, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/likhitha-infrastructure-ipo/1062/\" title=\"Likhitha Infrastructure IPO Allotment Status\">Likhitha Infrastructure IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Likhitha Infrastructure IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Likhitha Infrastructure IPO<!-- --> listing date is on <b>Thursday, October 15, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Likhitha Infrastructure",
+  "issue_price": "₹120.00",
+  "issue_price_numeric": 120,
+  "issue_size": "51,00,000 shares (aggregating up to ₹61.20 Cr)",
+  "issue_size_numeric": 51,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Unistone Capital Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/176/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/176/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "120.00",
+        "nse": "120.00"
+      },
+      "open": {
+        "bse": "130.10",
+        "nse": "130.00"
+      },
+      "low": {
+        "bse": "125.00",
+        "nse": "125.00"
+      },
+      "high": {
+        "bse": "136.60",
+        "nse": "136.50"
+      },
+      "last_trade": {
+        "bse": "136.60",
+        "nse": "136.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "October 15 2020",
+    "bse_script_code": "543240",
+    "nse_symbol": "LIKHITHA",
+    "isin": "INE060901019",
+    "final_issue_price": "120 per share"
+  },
+  "listing_date": "2020-10-14T18:30:00.000Z",
+  "listing_gains": "13.83%",
+  "listing_gains_numeric": 13.83,
+  "logo": "https://www.chittorgarh.net/images/ipo/likhitha_infrastructure_ipo_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/likhitha_infrastructure_ipo_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 125 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "125",
+        "amount": "15000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1625",
+        "amount": "195000"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1750",
+        "amount": "210000"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "8250",
+        "amount": "990000"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "8375",
+        "amount": "1005000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/likhitha-infrastructure-ipo/1062/"
+    }
+  },
+  "lot_size": 125,
+  "opening_date": "2020-09-28T18:30:00.000Z",
+  "pageHeading": "Likhitha Infrastructure Ltd IPO (Likhitha Infrastructure IPO) Detail",
+  "pageTitle": "Likhitha Infrastructure IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Srinivasa Rao Gaddipati and Ms. Likhitha Gaddipati are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "99.96%",
+      "share_holding_post_issue": "74.11%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Likhitha Infrastructure IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2020/likhitha-infrastructure-limited_45651.html"
+    },
+    {
+      "text": "Likhitha Infrastructure IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2020/likhitha-infrastructure-limited_47858.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "3",
+        "neutral": "0",
+        "avoid": "2"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/likhitha-infrastructure-ipo/1062/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Likhitha Infrastructure IPO offers 5100000 shares. 51000 (1.00%) to QIB 3264000 (64.00%) to NII 1785000 (35.00%) to RII. 14280 RIIs will receive minimum 125 shares and (sNII) and (bNII) will receive minimum 1750 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "51000 (1.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3264000 (64.00%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1785000 (35.00%)",
+        "maximum_allottees": "14280"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5100000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:58.569Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Likhitha Infrastructure IPO is subscribed 9.51 times on October 7 2020 5:00:01 PM (Day 6). The public issue subscribed 23.71 times in the retail category 21.99 times in the QIB category and 1.54 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "21.99",
+        "shares_offered": "51000",
+        "shares_bid_for": "1121500"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.54",
+        "shares_offered": "3264000",
+        "shares_bid_for": "5032625"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "23.71",
+        "shares_offered": "1785000",
+        "shares_bid_for": "42323750"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "9.51",
+        "shares_offered": "5100000",
+        "shares_bid_for": "48477875"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 7 2020",
+    "tentative_allotment": "Mon Oct 12 2020",
+    "initiation_of_refunds": "Tue Oct 13 2020",
+    "credit_of_shares_to_demat": "Wed Oct 14 2020"
+  },
+  "updatedAt": "2025-04-19T04:37:59.234Z",
+  "updated_at": "2025-04-18T17:52:58.569Z",
+  "year": 2020,
+  "worst_listing_gains": "13.83%",
+  "worst_listing_gains_numeric": 13.83
+}

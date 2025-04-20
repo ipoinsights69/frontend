@@ -1,0 +1,408 @@
+{
+  "_id": "680298533ccffd1c7912cae0",
+  "ipo_id": "2017_avenue_supermarts_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:10:50.725Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/avenue-supermarts-ipo/615/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2002, Avenue Supermarts Limited is Mumbai based supermarket chain D-Mart. Company is among the largest and the most profitable F&amp;G retailer in India. Commpany offer a wide range of products with a focus on the Foods, Non-Foods (FMCG) and General Merchandise &amp; Apparel product categories.</p><p>Company has 112 stores located across 41 cities in India. Company operate and manage all its stores. Company also operate distribution centres and packing centres which form the backbone of the supply chain to support its retail store network. Company has 21 distribution centres and six packing centres in Maharashtra, Gujarat, Telangana and Karnataka.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13",
+          "31-Mar-12"
+        ],
+        [
+          "Total Assets",
+          "31001.94",
+          "23548.12",
+          "18076.48",
+          "14920.74",
+          "11908.76"
+        ],
+        [
+          "Total Revenue",
+          "86061.05",
+          "64576.89",
+          "47023.25",
+          "33551.04",
+          "22224.09"
+        ],
+        [
+          "Profit After Tax (PAT)",
+          "3212.07",
+          "2116.89",
+          "1613.72",
+          "938.55",
+          "604.06"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 8, 2017 to March 10, 2017",
+    "ipoListingDate": "Tue, Mar 21, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹299.00",
+    "lotSize": "50 Shares",
+    "issueSize": "6,25,41,806 shares (aggregating up to ₹1,870.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Mar 8, 2017",
+    "ipoCloseDate": "Fri, Mar 10, 2017",
+    "initiationOfRefunds": "Fri, Mar 17, 2017",
+    "creditOfSharesToDemat": "Mon, Mar 20, 2017",
+    "shareHoldingPreIssue": "56,15,42,680 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "56,15,42,680 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "62,40,84,486 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "62,40,84,486 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-03-09T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "022 3340 0500",
+    "email": "investorrelations@dmartindia.com",
+    "full_address": "Avenue Supermarts Limited, B - 72/72A Wagle Industrial Estate, Road No. 33 Kamgar Hospital Road, Thane - 400 604",
+    "website": "http://www.dmartindia.com/"
+  },
+  "createdAt": "2025-04-18T18:22:11.536Z",
+  "faqs": [
+    {
+      "question": "What is the DMart IPO?",
+      "answer": "<div itemprop=\"text\"><p>DMart IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->62541806<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->1,870.00<!-- --> Crores. The issue is priced at <span>₹299 per share</span>. The minimum order quantity is <!-- -->50<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 8, 2017</b>, and <b>closes on <!-- -->March 10, 2017</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in DMart IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->DMart IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->DMart IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->DMart IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->DMart IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When DMart IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The DMart IPO opens on March 8, 2017 and closes on March 10, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of DMart IPO?",
+      "answer": "<div itemprop=\"text\"><p>DMart IPO<!-- --> <b>lot size is <!-- -->50</b>, and the <b>minimum amount required is <span>₹14,950</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for DMart IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->DMart IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is DMart IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->DMart IPO<!-- --> will be done on <!-- -->Thursday, March 16, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, March 20, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/avenue-supermarts-ipo/615/\" title=\"DMart IPO Allotment Status\">DMart IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is DMart IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->DMart IPO<!-- --> listing date is on <b>Tuesday, March 21, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Avenue Supermarts",
+  "issue_price": "₹299.00",
+  "issue_price_numeric": 299,
+  "issue_size": "6,25,41,806 shares (aggregating up to ₹1,870.00 Cr)",
+  "issue_size_numeric": 6,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Hdfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/82/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/82/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "299.00",
+        "nse": "299.00"
+      },
+      "open": {
+        "bse": "604.40",
+        "nse": "600.00"
+      },
+      "low": {
+        "bse": "558.75",
+        "nse": "558.30"
+      },
+      "high": {
+        "bse": "650.00",
+        "nse": "648.90"
+      },
+      "last_trade": {
+        "bse": "640.75",
+        "nse": "641.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 21 2017",
+    "bse_script_code": "540376",
+    "nse_symbol": "DMART",
+    "isin": "INE192R01011",
+    "final_issue_price": "299 per share"
+  },
+  "listing_date": "2017-03-20T18:30:00.000Z",
+  "listing_gains": "114.30%",
+  "listing_gains_numeric": 114.3,
+  "logo": "https://www.chittorgarh.net/images/ipo/dmart-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/dmart-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 50 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "50",
+        "amount": "14950"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "650",
+        "amount": "194350"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "700",
+        "amount": "209300"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "3300",
+        "amount": "986700"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "3350",
+        "amount": "1001650"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/avenue-supermarts-ipo/615/"
+    }
+  },
+  "lot_size": 50,
+  "opening_date": "2017-03-07T18:30:00.000Z",
+  "pageHeading": "Avenue Supermarts Limited IPO (DMart IPO) Detail",
+  "pageTitle": "DMart IPO Date, Price, GMP, Review, Analysis & Details",
+  "prospectusLinks": [
+    {
+      "text": "DMart IPO DRHP",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1475235183964.pdf"
+    },
+    {
+      "text": "DMart IPO RHP",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1488432131597.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "5",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/avenue-supermarts-ipo/615/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "asl.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "DMart IPO offers 44372882 shares. 12677966 (28.57%) to QIB 9508475 (21.43%) to NII 22186441 (50.00%) to RII. 443728 RIIs will receive minimum 50 shares and (sNII) and (bNII) will receive minimum 700 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "12677966 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "9508475 (21.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "22186441 (50.00%)",
+        "maximum_allottees": "443728"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "44372882 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:11.535Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The DMart IPO is subscribed 104.48 times on March 10 2017 6:30:00 PM (Day 3). The public issue subscribed 7.3 times in the retail category 144.61 times in the QIB category and 277.74 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "144.61",
+        "shares_offered": "12677966"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "277.74",
+        "shares_offered": "9508475"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "7.3",
+        "shares_offered": "22186441"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "104.48",
+        "shares_offered": "44372882"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 10 2017",
+    "tentative_allotment": "Thu Mar 16 2017",
+    "initiation_of_refunds": "Fri Mar 17 2017",
+    "credit_of_shares_to_demat": "Mon Mar 20 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:42.459Z",
+  "updated_at": "2025-04-18T18:22:11.535Z",
+  "year": 2017,
+  "worst_listing_gains": "114.30%",
+  "worst_listing_gains_numeric": 114.3
+}

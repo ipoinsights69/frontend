@@ -1,0 +1,402 @@
+{
+  "_id": "68028e9f3ccffd1c7912c969",
+  "ipo_id": "2023_systango_technologies_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:34:49.889Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/systango-technologies-ipo/1387/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2004, Systango Technologies Limited is engaged in the business of providing <strong>software solutions</strong>. The offerings of the company enable companies to design, implement and manage their own customized digital platforms.</p>\n<p><strong>These platforms designed by Systango include Web2, Web3, and mobile applications with a strong emphasis on data and analytics.</strong></p>\n<p>The range of software solutions provided by the company is wide and includes- Website development, Mobile app development (both for iOS and Android applications), Web3 development, DeFi (Decentralized finance), Data Engineering, Implementation of blockchain, Cloud computing and Digital Marketing.</p>\n<p>Systango Technologies offers its services across various sectors like Hospitality, Property Tech, Financial Services (FinTech), Fantasy Sports, and many others.</p>\n<p>The company has evolved as a professional and technical service provider over the years of its operations. Their end-to-end technology solutions and support help entities and organization effectively implement innovations in their system and keep up with the new-age world.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "744.32",
+          "1455.31",
+          "251.88",
+          "476.81",
+          "421.81"
+        ],
+        [
+          "31-Mar-21",
+          "1537.57",
+          "2388.09",
+          "568.26",
+          "1045.50",
+          "775.50"
+        ],
+        [
+          "31-Mar-22",
+          "2288.97",
+          "3392.10",
+          "676.99",
+          "1722.49",
+          "1452.49"
+        ],
+        [
+          "30-Sep-22",
+          "2732.41",
+          "2301.30",
+          "572.30",
+          "2296.98",
+          "2026.98"
+        ]
+      ]
+    },
+    {
+      "heading": "Systango Technologies Limited Stock Quote & Charts",
+      "sanitizedHeading": "systango_technologies_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "15.13",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 2, 2023 to March 6, 2023",
+    "ipoListingDate": "Wed, Mar 15, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹90.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "38,68,800 shares (aggregating up to ₹34.82 Cr)",
+    "freshIssue": "38,68,800 shares (aggregating up to ₹34.82 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,96,800 shares",
+      "maker_name": "Hem Finlease Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/250/"
+    },
+    "ipoOpenDate": "Thu, Mar 2, 2023",
+    "ipoCloseDate": "Mon, Mar 6, 2023",
+    "initiationOfRefunds": "Mon, Mar 13, 2023",
+    "creditOfSharesToDemat": "Tue, Mar 14, 2023",
+    "shareHoldingPreIssue": "1,08,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,08,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "97.73%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,46,68,800 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,46,68,800 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "71.96%"
+      }
+    ]
+  },
+  "closing_date": "2023-03-05T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 0731 2971030",
+    "email": "cs@systango.com",
+    "full_address": "Systango Technologies Limited, Third Floor (LHS), STP-I Crystal IT Park, Ring Road",
+    "website": "http://www.systango.com/"
+  },
+  "createdAt": "2025-04-18T17:40:47.029Z",
+  "faqs": [
+    {
+      "question": "What is the Systango Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Systango Technologies IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3868800<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->34.82<!-- --> Crores. The issue is priced at <span>₹90 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 2, 2023</b>, and <b>closes on <!-- -->March 6, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Systango Technologies IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Systango Technologies IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Systango Technologies IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Systango Technologies IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Systango Technologies IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Systango Technologies IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Systango Technologies IPO opens on March 2, 2023 and closes on March 6, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Systango Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Systango Technologies IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,44,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Systango Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Systango Technologies IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Systango Technologies IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Systango Technologies IPO<!-- --> will be done on <!-- -->Friday, March 10, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, March 14, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/systango-technologies-ipo/1387/\" title=\"Systango Technologies IPO Allotment Status\">Systango Technologies IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Systango Technologies IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Systango Technologies IPO<!-- --> listing date is on <b>Wednesday, March 15, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Systango Technologies",
+  "issue_price": "₹90.00",
+  "issue_price_numeric": 90,
+  "issue_size": "38,68,800 shares (aggregating up to ₹34.82 Cr)",
+  "issue_size_numeric": 38,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "90.00"
+      },
+      "open": {
+        "nse_sme": "98.00"
+      },
+      "low": {
+        "nse_sme": "95.00"
+      },
+      "high": {
+        "nse_sme": "102.90"
+      },
+      "last_trade": {
+        "nse_sme": "102.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 15 2023",
+    "nse_symbol": "SYSTANGO",
+    "isin": "INE0O7R01011",
+    "final_issue_price": "90 per share"
+  },
+  "listing_date": "2023-03-14T18:30:00.000Z",
+  "listing_gains": "14.33%",
+  "listing_gains_numeric": 14.33,
+  "logo": "https://www.chittorgarh.net/images/ipo/systango-technologies-limited-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/systango-technologies-limited-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "144000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "144000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "288000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/systango-technologies-ipo/1387/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-03-01T18:30:00.000Z",
+  "pageHeading": "Systango Technologies Limited IPO (Systango Technologies IPO) Detail",
+  "pageTitle": "Systango Technologies IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Vinita Rathi and Nilesh Rathi are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "97.73%",
+      "share_holding_post_issue": "71.96%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Systango Technologies IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SystangoTech_DRHP.zip"
+    },
+    {
+      "text": "Systango Technologies IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Systango_Prosp.pdf"
+    },
+    {
+      "text": "Anchor Investors in Systango Technologies IPO",
+      "url": "https://www.chittorgarh.net/reports/ipo_notes/systango-anchor-allocations.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "5",
+        "neutral": "1",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/systango-technologies-ipo/1387/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Systango Technologies IPO offers 3868800 shares. 1833600 (47.39%) to QIB 552000 (14.27%) to NII 1286400 (33.25%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "196800 (5.09%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1833600 (47.39%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "552000 (14.27%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1286400 (33.25%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3868800 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.028Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Systango Technologies IPO is subscribed 64.99 times on March 6 2023 7:00:00 PM (Day 3). The public issue subscribed 66.59 times in the retail category 14.1 times in the QIB category and 230.36 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "14.1",
+        "shares_offered": "1833600",
+        "shares_bid_for": "25844800"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "230.36",
+        "shares_offered": "552000",
+        "shares_bid_for": "127158400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "66.59",
+        "shares_offered": "1286400",
+        "shares_bid_for": "85656000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "64.99",
+        "shares_offered": "3672000",
+        "shares_bid_for": "238659200"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 6 2023",
+    "tentative_allotment": "Fri Mar 10 2023",
+    "initiation_of_refunds": "Mon Mar 13 2023",
+    "credit_of_shares_to_demat": "Tue Mar 14 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:49.851Z",
+  "updated_at": "2025-04-18T17:40:47.028Z",
+  "year": 2023,
+  "worst_listing_gains": "14.33%",
+  "worst_listing_gains_numeric": 14.33
+}

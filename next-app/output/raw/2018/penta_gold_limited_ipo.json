@@ -1,0 +1,346 @@
+{
+  "_id": "680298593ccffd1c7912cbe5",
+  "ipo_id": "2018_penta_gold_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:15:49.230Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/penta-gold-ipo/848/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2012, Gujarat based Penta Gold Private Limited is a retailer, wholesaler and exporter of gold jewelry. The company has a retail outlet in Mumbai. </p><p>Penta Gold also exports products (gold jewellery studded with diamond) to overseas buyers in USA and UAE. Exports constituted more than 30.49%, 22.23% and 22.81% of  its business for the 6 months period ended September 30, 2017; FY 2015-16 and FY 2016-17 respectively.</p><p>The Company was awarded the India SME 100 Award for being SME Achievers of 2015-16 for scoring in the Top 100 among 41832 nominations by India SME Forum in the overall evaluation of financial and non financial parameters. </p><p>The company has 9 full-time employees on its payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lacs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "7660.11",
+          "6381.97",
+          "5878.04",
+          "4822.13",
+          "5068.27"
+        ],
+        [
+          "Total Revenue",
+          "23757.84",
+          "24491.76",
+          "25001.70",
+          "83826.41",
+          "27430.69"
+        ],
+        [
+          "Profit After Tax",
+          "168.53",
+          "177.89",
+          "158.24",
+          "138.38",
+          "57.10"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 23, 2018 to March 27, 2018",
+    "ipoListingDate": "April 25, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹37.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "36,00,000 shares (aggregating up to ₹13.32 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "1,80,000 shares",
+    "ipoOpenDate": "Fri, Mar 23, 2018",
+    "ipoCloseDate": "Tue, Mar 27, 2018",
+    "shareHoldingPreIssue": "91,25,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "91,25,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,27,25,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,27,25,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-03-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 79 2215 3555",
+    "email": "info@pentagold.in",
+    "full_address": "Penta Gold Limited, 2224, Manek Chowk, Opp. Old Share Bazar",
+    "website": "http://www.pentagold.in"
+  },
+  "createdAt": "2025-04-18T18:22:17.424Z",
+  "faqs": [
+    {
+      "question": "What is the Penta Gold IPO?",
+      "answer": "<div itemprop=\"text\"><p>Penta Gold IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3600000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->13.32<!-- --> Crores. The issue is priced at <span>₹37 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 23, 2018</b>, and <b>closes on <!-- -->March 27, 2018</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Penta Gold IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Penta Gold IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Penta Gold IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Penta Gold IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Penta Gold IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Penta Gold IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Penta Gold IPO opens on March 23, 2018 and closes on March 27, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Penta Gold IPO?",
+      "answer": "<div itemprop=\"text\"><p>Penta Gold IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,11,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Penta Gold IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Penta Gold IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Penta Gold IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Penta Gold IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/penta-gold-ipo/848/\" title=\"Penta Gold IPO Allotment Status\">Penta Gold IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Penta Gold IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Penta Gold IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Penta Gold",
+  "issue_price": "₹37.00",
+  "issue_price_numeric": 37,
+  "issue_size": "36,00,000 shares (aggregating up to ₹13.32 Cr)",
+  "issue_size_numeric": 36,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Inventure Merchant Banker Services Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/92/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/92/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "37.00"
+      },
+      "open": {
+        "nse_sme": "37.00"
+      },
+      "low": {
+        "nse_sme": "36.50"
+      },
+      "high": {
+        "nse_sme": "37.00"
+      },
+      "last_trade": {
+        "nse_sme": "37.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "April 25 2018",
+    "nse_symbol": "PENTAGOLD",
+    "isin": "INE175Y01012",
+    "final_issue_price": "37 per share"
+  },
+  "listing_date": "2018-04-24T18:30:00.000Z",
+  "listing_gains": "0.00%",
+  "listing_gains_numeric": 0,
+  "logo": "https://www.chittorgarh.net/images/ipo/penta-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/penta-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "111000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "111000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "222000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/penta-gold-ipo/848/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2018-03-22T18:30:00.000Z",
+  "pageHeading": "Penta Gold Limited IPO (Penta Gold IPO) Detail",
+  "pageTitle": "Penta Gold IPO Date, Price, GMP, Review, Analysis & Details",
+  "prospectusLinks": [
+    {
+      "text": "Penta Gold IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Penta_DP.pdf"
+    },
+    {
+      "text": "Penta Gold IPO RHP",
+      "url": "https://archives.nseindia.com/emerge/corporates/content/Penta_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/penta-gold-ipo/848/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Penta Gold IPO offers 3780000 shares. 1710000 (45.24%) to NII 1710000 (45.24%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "180000 (4.76%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1710000 (45.24%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1710000 (45.24%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "180000 (4.76%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3780000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:17.424Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Penta Gold IPO is subscribed 0.59 times on March 27 2018 5:00:00 PM (Day 3). The public issue subscribed 0.16 times in the retail category [.] times in the QIB category and 1.02 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.02",
+        "shares_offered": "1710000",
+        "shares_bid_for": "1752000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.16",
+        "shares_offered": "1710000",
+        "shares_bid_for": "279000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "0.59",
+        "shares_offered": "3420000",
+        "shares_bid_for": "2031000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 27 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:18.932Z",
+  "updated_at": "2025-04-18T18:22:17.424Z",
+  "year": 2018,
+  "worst_listing_gains": "0.00%",
+  "worst_listing_gains_numeric": 0
+}

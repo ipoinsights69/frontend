@@ -1,0 +1,397 @@
+{
+  "_id": "680291863ccffd1c7912c9c4",
+  "ipo_id": "2021_ami_organics_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:46:40.868Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ami-organics-ipo/1143/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2004, Ami Organics Limited is one of the leading research and development driven manufacturers of specialty chemicals. The company manufactures different types of Advanced Pharmaceutical Intermediates and Active Pharmaceutical ingredients (API) for New Chemical Entities, and material for agrochemicals and fine chemicals.</p>\n\n<p>The company has developed over 450 pharma intermediates across 17 key therapeutic areas i.e. anti-retroviral, anti-inflammatory, anti-psychotic, anti-cancer, anti-Parkinson, anti-depressant, and anti-coagulant. It supplies its products to more than 150 customers (including international customers) directly in India and in 25 countries overseas i.e. Europe, USA, China, Israel, Japan, Latin America, etc. Laurus Labs, Cadila Healthcare, Cipla Ltd are some of the domestic customers whereas Organike s.r.l.a. Socio Unico, Fermion Oly, Medichem S.A. and Midas Pharma GmbH are some of the international customers.</p>\n\n<p>The company has three manufacturing facilities in Gujarat situated at Sachin, Ankleshwar &amp; Jhagadia, with an aggregate installed capacity of 6,060 MTPA.</p>\n\n<p><strong>Competitive strengths:</strong></p>\n<ul>\n<li>One of the leading manufacturers of certain Pharma Intermediates i.e. Dolutegravir, Trazodone, Entacapone, Nintedanib and Rivaroxaban.</li>\n<li>Strong and diversified product portfolio with 450+ Pharma Intermediates across 17 therapeutic areas.</li>\n<li>Extensive geographical presence and diversified customer base.</li>\n<li>Strong R&amp;D, sales and marketing capabilities</li>\n<li>Consistent financial performance track record.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "4132.68",
+          "2318.92",
+          "2131.52"
+        ],
+        [
+          "Total Revenue",
+          "3419.88",
+          "2424.86",
+          "2388.96"
+        ],
+        [
+          "Profit After Tax",
+          "539.99",
+          "274.7",
+          "232.95"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 1, 2021 to September 3, 2021",
+    "ipoListingDate": "Tue, Sep 14, 2021",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹610.00",
+    "lotSize": "24 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹569.64 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹200.00 Cr)",
+    "offerForSale": "60,59,600 shares of ₹10 (aggregating up to ₹369.64 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Sep 1, 2021",
+    "ipoCloseDate": "Fri, Sep 3, 2021",
+    "initiationOfRefunds": "Thu, Sep 9, 2021",
+    "creditOfSharesToDemat": "Mon, Sep 13, 2021",
+    "shareHoldingPreIssue": "3,31,58,374 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "3,31,58,374 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "47.23%"
+      }
+    ],
+    "shareHoldingPostIssue": "3,64,37,063 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "3,64,37,063 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "41.05%"
+      }
+    ]
+  },
+  "closing_date": "2021-09-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 261 239 7193",
+    "email": "cs@amiorganics.com",
+    "full_address": "Ami Organics Limited, Plot No. 440/4 5 &amp; 6 Road No. 82/A, GIDC Sachin Surat – 394 230",
+    "website": "http://www.amiorganics.com/"
+  },
+  "createdAt": "2025-04-18T17:53:10.581Z",
+  "faqs": [
+    {
+      "question": "What is the Ami Organics IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ami  Organics IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->569.64<!-- --> Crores. The issue is priced at <span>₹610 per share</span>. The minimum order quantity is <!-- -->24<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 1, 2021</b>, and <b>closes on <!-- -->September 3, 2021</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Ami Organics IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Ami  Organics IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Ami  Organics IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Ami  Organics IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Ami  Organics IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Ami Organics IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Ami  Organics IPO opens on September 1, 2021 and closes on September 3, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Ami Organics IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ami  Organics IPO<!-- --> <b>lot size is <!-- -->24</b>, and the <b>minimum amount required is <span>₹14,640</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Ami Organics IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Ami  Organics IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Ami Organics IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Ami  Organics IPO<!-- --> will be done on <!-- -->Wednesday, September 8, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, September 13, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/ami-organics-ipo/1143/\" title=\"Ami  Organics IPO Allotment Status\">Ami  Organics IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Ami Organics IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Ami  Organics IPO<!-- --> listing date is on <b>Tuesday, September 14, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Ami Organics",
+  "issue_price": "₹610.00",
+  "issue_price_numeric": 610,
+  "issue_size": "[.] shares (aggregating up to ₹569.64 Cr)",
+  "issue_size_numeric": 569.64,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Ambit Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/119/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/119/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Intensive Fiscal Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/35/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/35/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "610.00",
+        "nse": "610.00"
+      },
+      "open": {
+        "bse": "902.00",
+        "nse": "910.00"
+      },
+      "low": {
+        "bse": "841.20",
+        "nse": "841.00"
+      },
+      "high": {
+        "bse": "967.25",
+        "nse": "966.70"
+      },
+      "last_trade": {
+        "bse": "934.55",
+        "nse": "935.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 14 2021",
+    "bse_script_code": "543349",
+    "nse_symbol": "AMIORG",
+    "isin": "INE00FF01017",
+    "final_issue_price": "610 per share"
+  },
+  "listing_date": "2021-09-13T18:30:00.000Z",
+  "listing_gains": "53.20%",
+  "listing_gains_numeric": 53.2,
+  "logo": "https://www.chittorgarh.net/images/ipo/ami-organics-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/ami-organics-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 24 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "24",
+        "amount": "14640"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "312",
+        "amount": "190320"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "336",
+        "amount": "204960"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "1632",
+        "amount": "995520"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "1656",
+        "amount": "1010160"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ami-organics-ipo/1143/"
+    }
+  },
+  "lot_size": 24,
+  "opening_date": "2021-08-31T18:30:00.000Z",
+  "pageHeading": "Ami Organics Limited IPO (Ami  Organics IPO) Detail",
+  "pageTitle": "Ami  Organics IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Nareshkumar Ramjibhai Patel Chetankumar Chhaganlal Vaghasia Shital Nareshbhai Patel and Parul Chetankumar Vaghasia are the company promoters",
+    "holdings": {
+      "share_holding_pre_issue": "47.23%",
+      "share_holding_post_issue": "41.05%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Ami Organics IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2021/ami-organics-limited-drhp_50456.html"
+    },
+    {
+      "text": "Ami Organics IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/ami-organics-limited_52088.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "7",
+        "neutral": "3",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ami-organics-ipo/1143/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "amiorganics.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Ami Organics IPO offers 6542342 shares. 1854166 (28.34%) to QIB 1406453 (21.50%) to NII 3281723 (50.16%) to RII. 136738 RIIs will receive minimum 24 shares and (sNII) and (bNII) will receive minimum 336 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1854166 (28.34%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1406453 (21.50%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3281723 (50.16%)",
+        "maximum_allottees": "136738"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6542342 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:10.581Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Ami Organics IPO is subscribed 64.54 times on September 3 2021 5:00:00 PM (Day 3). The public issue subscribed 13.36 times in the retail category 86.64 times in the QIB category and 154.81 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "86.64",
+        "shares_offered": "1854166",
+        "shares_bid_for": "160651704"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "154.81",
+        "shares_offered": "1406453",
+        "shares_bid_for": "217732320"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "13.36",
+        "shares_offered": "3281723",
+        "shares_bid_for": "43852272"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "64.54",
+        "shares_offered": "6542342",
+        "shares_bid_for": "422236296"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 3 2021",
+    "tentative_allotment": "Wed Sep 8 2021",
+    "initiation_of_refunds": "Thu Sep 9 2021",
+    "credit_of_shares_to_demat": "Mon Sep 13 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:03.919Z",
+  "updated_at": "2025-04-18T17:53:10.581Z",
+  "year": 2021,
+  "worst_listing_gains": "53.20%",
+  "worst_listing_gains_numeric": 53.2
+}

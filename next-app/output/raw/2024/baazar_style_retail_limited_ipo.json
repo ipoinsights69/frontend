@@ -1,0 +1,503 @@
+{
+  "_id": "680249fb3ccffd1c7912c716",
+  "ipo_id": "2024_baazar_style_retail_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:23:21.599Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/baazar-style-retail-ipo/1825/"
+  },
+  "about": {
+    "details": "<p>Incorporated in June 2013, Bazaar Style Retail Limited is a fashion retailer operating in West Bengal and Odisha. The company offers apparel for men, women, boys, girls, and infants and general merchandise such as non-apparels and home furnishing products.</p>\n<p>The company focuses on providing a family-oriented shopping experience, offering quality products and striving to offer every Indian stylish merchandise at an affordable price.</p>\n<p>As of March 31, 2024, the stores averaged 9,046 square feet and were staffed by trained employees to enhance customer experience.</p>\n<p>The company operates in Odisha, Bihar, Assam, Jharkhand, Andhra Pradesh, Uttar Pradesh, Tripura, and Chhattisgarh.</p>\n<p>As of March 31, 2024, the company has expanded across 9 states and operates 162 stores.</p>\n<p>As of March 31, 2024,&nbsp;The company had an in-house marketing team consisting of 13 personnel.</p>\n<p>The company has a strong designing and merchandising team of 57 personnel who have experience understanding and sensing the regional preferences of its target customers. They work to provide the customers with the latest market trends through their experience in the retail and textile industries.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Baazar Style Retail Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1165.97"
+        ],
+        [
+          "Revenue",
+          "982.83"
+        ],
+        [
+          "Profit After Tax",
+          "21.94"
+        ],
+        [
+          "Net Worth",
+          "212.56"
+        ],
+        [
+          "Reserves and Surplus",
+          "180.2"
+        ],
+        [
+          "Total Borrowing",
+          "178.23"
+        ]
+      ]
+    },
+    {
+      "heading": "Baazar Style Retail Limited Stock Quote & Charts",
+      "sanitizedHeading": "baazar_style_retail_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "10.74%"
+        ],
+        [
+          "ROCE",
+          "18.39%"
+        ],
+        [
+          "Debt/Equity",
+          "0.76"
+        ],
+        [
+          "RoNW",
+          "10.32%"
+        ],
+        [
+          "PAT Margin",
+          "2.23"
+        ],
+        [
+          "Price to Book Value",
+          "12.78"
+        ]
+      ]
+    },
+    {
+      "heading": "Baazar Style Retail Limited Stock Quote & Charts",
+      "sanitizedHeading": "baazar_style_retail_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.10",
+          "2.94"
+        ],
+        [
+          "P/E (x)",
+          "125.54",
+          "132.28"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Baazar Style Retail IPO raises Rs 250.10 crore from anchor investors. Baazar Style Retail IPO Anchor bid date is August 29 2024. Baazar Style Retail IPO Anchor Investors list",
+    "list_link": {
+      "text": "Baazar Style Retail IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/bazaar_style_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "December 2 2024",
+      "shares_offered": "6429372",
+      "anchor_portion_size": "250.10"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 30, 2024 to September 3, 2024",
+    "ipoListingDate": "Fri, Sep 6, 2024",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹389.00",
+    "lotSize": "38 Shares",
+    "issueSize": "2,14,56,947 shares (aggregating up to ₹834.68 Cr)",
+    "freshIssue": "38,04,627 shares (aggregating up to ₹148.00 Cr)",
+    "offerForSale": "1,76,52,320 shares of ₹5 (aggregating up to ₹686.68 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Aug 30, 2024",
+    "ipoCloseDate": "Tue, Sep 3, 2024",
+    "initiationOfRefunds": "Thu, Sep 5, 2024",
+    "creditOfSharesToDemat": "Thu, Sep 5, 2024",
+    "shareHoldingPreIssue": "7,08,10,966 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "7,08,10,966 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "55.03%"
+      }
+    ],
+    "shareHoldingPostIssue": "7,46,15,593 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "7,46,15,593 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "45.6%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 3361256125",
+    "email": "secretarial@stylebaazar.com",
+    "full_address": "Baazar Style Retail Limited, P S Srijan Tech Park DN-52 12th Floor, Street Number 11 DN Block Sector V Salt Lake, North 24 Parganas Kolkata - 700091",
+    "website": "https://stylebaazar.in/"
+  },
+  "createdAt": "2025-04-18T12:47:55.355Z",
+  "faqs": [
+    {
+      "question": "What is the Baazar Style Retail IPO?",
+      "answer": "<div itemprop=\"text\"><p>Baazar Style Retail IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->21456947<!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->834.68<!-- --> Crores. The issue is priced at <span>₹389 per share</span>. The minimum order quantity is <!-- -->38<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 30, 2024</b>, and <b>closes on <!-- -->September 3, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Baazar Style Retail IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Baazar Style Retail IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Baazar Style Retail IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Baazar Style Retail IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Baazar Style Retail IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Baazar Style Retail IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Baazar Style Retail IPO opens on August 30, 2024 and closes on September 3, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Baazar Style Retail IPO?",
+      "answer": "<div itemprop=\"text\"><p>Baazar Style Retail IPO<!-- --> <b>lot size is <!-- -->38</b>, and the <b>minimum amount required is <span>₹14,782</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Baazar Style Retail IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Baazar Style Retail IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Baazar Style Retail IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Baazar Style Retail IPO<!-- --> will be done on <!-- -->Wednesday, September 4, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, September 5, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/baazar-style-retail-ipo/1825/\" title=\"Baazar Style Retail IPO Allotment Status\">Baazar Style Retail IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Baazar Style Retail IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Baazar Style Retail IPO<!-- --> listing date is on <b>Friday, September 6, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Baazar Style Retail",
+  "issue_price": "₹389.00",
+  "issue_price_numeric": 389,
+  "issue_size": "2,14,56,947 shares (aggregating up to ₹834.68 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Intensive Fiscal Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/35/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/35/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "389.00",
+        "nse": "389.00"
+      },
+      "open": {
+        "bse": "389.00",
+        "nse": "389.00"
+      },
+      "low": {
+        "bse": "378.15",
+        "nse": "378.40"
+      },
+      "high": {
+        "bse": "430.95",
+        "nse": "431.15"
+      },
+      "last_trade": {
+        "bse": "399.65",
+        "nse": "400.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 6 2024",
+    "bse_script_code": "544243",
+    "nse_symbol": "STYLEBAAZA",
+    "isin": "INE01FR01028",
+    "final_issue_price": "389 per share"
+  },
+  "listing_date": "2024-09-05T18:30:00.000Z",
+  "listing_gains": "2.74%",
+  "listing_gains_numeric": 2.74,
+  "logo": "https://www.chittorgarh.net/images/ipo/style-bazaar-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/style-bazaar-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 38 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "38",
+        "amount": "14782"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "494",
+        "amount": "192166"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "532",
+        "amount": "206948"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2546",
+        "amount": "990394"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2584",
+        "amount": "1005176"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/baazar-style-retail-ipo/1825/"
+    }
+  },
+  "lot_size": 38,
+  "opening_date": "2024-08-29T18:30:00.000Z",
+  "pageHeading": "Baazar Style Retail Limited IPO (Baazar Style Retail IPO) Detail",
+  "pageTitle": "Baazar Style Retail IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Pradeep Kumar Agarwal Rohit Kedia Shreyans Surana Bhagwan Prasad Rajendra Kumar Gupta Sabita Agarwal Rajendra Kumar Gupta (HUF) and Sri Narsingh Infrastructure Private Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "55.03%",
+      "share_holding_post_issue": "45.6%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Baazar Style Retail IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2024/bazaar-style-retail-limited-drhp_82327.html"
+    },
+    {
+      "text": "Baazar Style Retail IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/baazar-style-retail-limited-rhp_86203.html"
+    },
+    {
+      "text": "Anchor Investors in Baazar Style Retail IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/bazaar_style_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "7",
+        "neutral": "1",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "2"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/baazar-style-retail-ipo/1825/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "baazarstyle.ipo@jmfl.com",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Baazar Style Retail IPO offers 21459488 shares. 4286248 (19.97%) to QIB 3214686 (14.98%) to NII 7500934 (34.95%) to RII 28248 (0.13%) to employees and 6429372 (29.96%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "6429372 (29.96%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4286248 (19.97%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3214686 (14.98%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2143124 (9.99%)",
+        "maximum_allottees": "4028"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1071562 (4.99%)",
+        "maximum_allottees": "2014"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "7500934 (34.95%)",
+        "maximum_allottees": "197393"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "28248 (0.13%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "21459488 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:55.354Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Baazar Style Retail IPO is subscribed 40.63 times on September 3 2024 6:19:08 PM (Day 3). The public issue subscribed 9.07 times in the retail category 81.83 times in the QIB category and 59.41 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "81.83",
+        "shares_offered": "4286248",
+        "shares_bid_for": "350722938"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "59.41",
+        "shares_offered": "3214686",
+        "shares_bid_for": "190969532"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "69.27",
+        "shares_offered": "2143124",
+        "shares_bid_for": "148447494"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "39.68",
+        "shares_offered": "1071562",
+        "shares_bid_for": "42522038"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "9.07",
+        "shares_offered": "7500934",
+        "shares_bid_for": "68050476"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "35.08",
+        "shares_offered": "28248",
+        "shares_bid_for": "990812"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "40.63",
+        "shares_offered": "15030116",
+        "shares_bid_for": "610733758"
+      }
+    },
+    "total_applications": "1629583"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 3 2024",
+    "tentative_allotment": "Wed Sep 4 2024",
+    "initiation_of_refunds": "Thu Sep 5 2024",
+    "credit_of_shares_to_demat": "Thu Sep 5 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:39.589Z",
+  "updated_at": "2025-04-18T12:47:55.354Z",
+  "year": 2024,
+  "worst_listing_gains": "2.74%",
+  "worst_listing_gains_numeric": 2.74,
+  "last_performance_update": "2025-04-19T04:43:39.589Z"
+}

@@ -1,0 +1,414 @@
+{
+  "_id": "680293683ccffd1c7912ca5e",
+  "ipo_id": "2022_droneacharya_aerial_innovations_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:55:07.343Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/droneacharya-aerial-innovations-ipo/1348/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2017, Droneacharya Aerial Innovations Limited provides <strong>high-end ecosystem of Drone solutions for multi-sensor Drone surveys, data processing of Drone data using robust high configuration workstations, Drone pilot training &amp; specialized GIS training </strong>g.</p>\n<p>The company's offerings can be classified into four broad categories namely,</p>\n<p>1. Training (DGCA Certified Drone Pilot, Drone Building, Aerial Cinematography &amp; Aerial Making and Drone data processing).</p>\n<p>2. Services (Consultancy services to Govt. &amp; private organizations, reality capture data processing software, anti-drone solution for rogue UAV and UTM air traffic management solution).</p>\n<p>3. Surveillance (land surveying and underwater services).</p>\n<p>4. Others (Partnering up with SPH Engineering from Latvia, Droneacharya is also able to provide integrated drones solutions for Bathymetry, drone hows, Hydrography, industrial and archaeological surveys, along with Environmental Monitoring).</p>\n<p>Droneacharya Aerial Innovations Limited Drone is a full-fledged innovative solution, based out in the Cultural and IT hub of Pune, Maharashtra, with offices operating in Pune.</p>\n<p>Droneacharya's recent pre-seed funding round closed at a whopping USD 4.6 Million, which is the highest for any drone startup across the country.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "2.51",
+          "0",
+          "-2.3",
+          "0.91",
+          "0.82"
+        ],
+        [
+          "31-Mar-21",
+          "119.13",
+          "1",
+          "-14.89",
+          "104.08",
+          "1.27"
+        ],
+        [
+          "31-Mar-22",
+          "1546.52",
+          "358.74",
+          "40.65",
+          "1447.77",
+          "46.25"
+        ],
+        [
+          "30-Jun-22",
+          "3402.62",
+          "308.96",
+          "72.06",
+          "3357.77",
+          "1.02"
+        ]
+      ]
+    },
+    {
+      "heading": "Droneacharya Aerial Innovations Ltd Stock Quote & Charts",
+      "sanitizedHeading": "droneacharya_aerial_innovations_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "45",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Droneacharya Aerial Innovations IPO raises Rs 12.57 crore from anchor investors. Droneacharya Aerial Innovations IPO Anchor bid date is December 12 2022. Droneacharya Aerial Innovations IPO Anchor Investors list",
+    "list_link": {
+      "text": "Droneacharya Aerial Innovations IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/droneacharya-aerial-innovations-anchor-list.pdf"
+    },
+    "details": {
+      "ipo_date": "March 20 2023",
+      "shares_offered": "2328000",
+      "anchor_portion_size": "12.57"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 13, 2022 to December 15, 2022",
+    "ipoListingDate": "Fri, Dec 23, 2022",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹54.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "62,90,000 shares (aggregating up to ₹33.97 Cr)",
+    "freshIssue": "62,90,000 shares (aggregating up to ₹33.97 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "3,16,000 shares",
+      "maker_name": "R.K.Stock Holding Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/330/"
+    },
+    "ipoOpenDate": "Tue, Dec 13, 2022",
+    "ipoCloseDate": "Thu, Dec 15, 2022",
+    "initiationOfRefunds": "Wed, Dec 21, 2022",
+    "creditOfSharesToDemat": "Thu, Dec 22, 2022",
+    "shareHoldingPreIssue": "1,76,98,600 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,76,98,600 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "38.23%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,39,88,600 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,39,88,600 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "28.21%"
+      }
+    ]
+  },
+  "closing_date": "2022-12-14T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+7758810315",
+    "email": "cs@droneacharya.com",
+    "full_address": "Droneacharya Aerial Innovations Limited, Cabin No. - 10 5th Floor, IndiQube Penta New No. 51, (Old No.14) Richmond Road Bangalore – 560025",
+    "website": "https://droneacharya.com/"
+  },
+  "createdAt": "2025-04-18T18:01:12.369Z",
+  "faqs": [
+    {
+      "question": "What is the Droneacharya Aerial Innovations IPO?",
+      "answer": "<div itemprop=\"text\"><p>Droneacharya Aerial Innovations IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6290000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->33.97<!-- --> Crores. The issue is priced at <span>₹54 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 13, 2022</b>, and <b>closes on <!-- -->December 15, 2022</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Droneacharya Aerial Innovations IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Droneacharya Aerial Innovations IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Droneacharya Aerial Innovations IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Droneacharya Aerial Innovations IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Droneacharya Aerial Innovations IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Droneacharya Aerial Innovations IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Droneacharya Aerial Innovations IPO opens on December 13, 2022 and closes on December 15, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Droneacharya Aerial Innovations IPO?",
+      "answer": "<div itemprop=\"text\"><p>Droneacharya Aerial Innovations IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,08,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Droneacharya Aerial Innovations IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Droneacharya Aerial Innovations IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Droneacharya Aerial Innovations IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Droneacharya Aerial Innovations IPO<!-- --> will be done on <!-- -->Tuesday, December 20, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, December 22, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/droneacharya-aerial-innovations-ipo/1348/\" title=\"Droneacharya Aerial Innovations IPO Allotment Status\">Droneacharya Aerial Innovations IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Droneacharya Aerial Innovations IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Droneacharya Aerial Innovations IPO<!-- --> listing date is on <b>Friday, December 23, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Droneacharya Aerial Innovations",
+  "issue_price": "₹54.00",
+  "issue_price_numeric": 54,
+  "issue_size": "62,90,000 shares (aggregating up to ₹33.97 Cr)",
+  "issue_size_numeric": 62,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Corporate Capitalventures Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/143/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/143/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "54.00"
+      },
+      "open": {
+        "bse_sme": "102.00"
+      },
+      "low": {
+        "bse_sme": "96.90"
+      },
+      "high": {
+        "bse_sme": "107.10"
+      },
+      "last_trade": {
+        "bse_sme": "107.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 23 2022",
+    "bse_script_code": "543713",
+    "isin": "INE0MQD01015",
+    "final_issue_price": "54 per share"
+  },
+  "listing_date": "2022-12-22T18:30:00.000Z",
+  "listing_gains": "98.33%",
+  "listing_gains_numeric": 98.33,
+  "logo": "https://www.chittorgarh.net/images/ipo/droneacharya-aerial-innovations-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/droneacharya-aerial-innovations-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "108000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "108000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "216000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/droneacharya-aerial-innovations-ipo/1348/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2022-12-12T18:30:00.000Z",
+  "pageHeading": "Droneacharya Aerial Innovations Limited IPO (Droneacharya Aerial Innovations IPO) Detail",
+  "pageTitle": "Droneacharya Aerial Innovations IPO Date, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Prateek Srivastava and Mrs. Nikita Srivastava are the company Promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "38.23%",
+      "share_holding_post_issue": "28.21%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Droneacharya Aerial Innovations IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/383641/Droneacharya_DRHP_20221018195059.pdf"
+    },
+    {
+      "text": "Droneacharya Aerial Innovations IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/droneacharya-aerial-innovations-limited-sme-issue-prospectus_66423.html"
+    },
+    {
+      "text": "Anchor Investors in Droneacharya Aerial Innovations IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/droneacharya-aerial-innovations-anchor-list.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "6",
+        "neutral": "1",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/droneacharya-aerial-innovations-ipo/1348/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Droneacharya Aerial Innovations IPO offers 7144000 shares. 1194000 (16.71%) to QIB 1214000 (16.99%) to NII 2092000 (29.28%) to RII 2328000 (32.59%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "2328000 (32.59%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "316000 (4.42%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1194000 (16.71%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1214000 (16.99%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2092000 (29.28%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "7144000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:12.369Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Droneacharya Aerial Innovations IPO is subscribed 243.7 times on December 15 2022 6:59:00 PM (Day 3). The public issue subscribed 330.82 times in the retail category 46.21 times in the QIB category and 287.8 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "46.21",
+        "shares_offered": "1194000",
+        "shares_bid_for": "55178000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "287.8",
+        "shares_offered": "1214000",
+        "shares_bid_for": "349388000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "330.82",
+        "shares_offered": "2092000",
+        "shares_bid_for": "692068000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "243.7",
+        "shares_offered": "4500000",
+        "shares_bid_for": "1096634000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 15 2022",
+    "tentative_allotment": "Tue Dec 20 2022",
+    "initiation_of_refunds": "Wed Dec 21 2022",
+    "credit_of_shares_to_demat": "Thu Dec 22 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:24.351Z",
+  "updated_at": "2025-04-18T18:01:12.369Z",
+  "year": 2022,
+  "worst_listing_gains": "98.33%",
+  "worst_listing_gains_numeric": 98.33
+}

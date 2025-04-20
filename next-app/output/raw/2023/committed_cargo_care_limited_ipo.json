@@ -1,0 +1,426 @@
+{
+  "_id": "68028e9a3ccffd1c7912c8c0",
+  "ipo_id": "2023_committed_cargo_care_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:28:56.222Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/committed-cargo-care-ipo/1462/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1998, Committed Cargo Care Limited is a Third Party Logistics provider&nbsp;that specializes in handling Import and Export Cargo and provides integrated services.</p>\n<p>The company provides integrated logistics services such as cargo management solutions, order management, international freight management, customs and cross-border movement, heavy and over-dimensional cargo movement, etc.</p>\n<p>Committed Cargo Care's customer base comes from various sectors across India, including automotive and heavy engineering, telecom, food and agro, fast-moving consumer goods (FMCG), paint, handicrafts, e-commerce products, garments, pharma, and dairy.</p>\n<p>The company recorded Rs. 12,221.96 Lacs, Rs. 1,4612.17 Lacs, and Rs. 11,385.89 Lacs in Revenue in Fiscal 2023, 2022, and 2021 respectively.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Committed Cargo Care Limited Financial Information (Restated Standalone)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021",
+        "31 Mar 2020"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "4015.13",
+          "3309.84",
+          "3035.65",
+          "2599.79"
+        ],
+        [
+          "Revenue",
+          "12242.77",
+          "14612.17",
+          "11385.89",
+          "8404.10"
+        ],
+        [
+          "Profit After Tax",
+          "533.17",
+          "308.72",
+          "232.20",
+          "151.10"
+        ],
+        [
+          "Net Worth",
+          "2884.79",
+          "2351.63",
+          "2042.90",
+          "1810.70"
+        ],
+        [
+          "Reserves and Surplus",
+          "2127.83",
+          "1594.67",
+          "1285.94",
+          "1053.74"
+        ],
+        [
+          "Total Borrowing",
+          "67.34",
+          "14.69",
+          "31.42",
+          "65.19"
+        ]
+      ]
+    },
+    {
+      "heading": "Committed Cargo Care Limited Stock Quote & Charts",
+      "sanitizedHeading": "committed_cargo_care_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "18.48%"
+        ],
+        [
+          "ROCE",
+          "24.06%"
+        ],
+        [
+          "RoNW",
+          "18.48%"
+        ]
+      ]
+    },
+    {
+      "heading": "Committed Cargo Care Limited Stock Quote & Charts",
+      "sanitizedHeading": "committed_cargo_care_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.04",
+          null
+        ],
+        [
+          "P/E (x)",
+          "10.94",
+          "12.84"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "October 6, 2023 to October 10, 2023",
+    "ipoListingDate": "Wed, Oct 18, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹77.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "32,44,000 shares (aggregating up to ₹24.98 Cr)",
+    "freshIssue": "32,44,000 shares (aggregating up to ₹24.98 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,64,800 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Fri, Oct 6, 2023",
+    "ipoCloseDate": "Tue, Oct 10, 2023",
+    "initiationOfRefunds": "Mon, Oct 16, 2023",
+    "creditOfSharesToDemat": "Tue, Oct 17, 2023",
+    "shareHoldingPreIssue": "75,69,600 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "75,69,600 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "98.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,08,09,600 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,08,09,600 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "68.63%"
+      }
+    ]
+  },
+  "closing_date": "2023-10-09T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "011-46151111",
+    "email": "hr@committedgroup.com",
+    "full_address": "Committed Cargo Care Limited, Khasra No. 406 Ground Floor, A - Block Gali No. – 8 Mahipalpur Extn., New Delhi– 110037",
+    "website": "http://www.committedgroup.com/"
+  },
+  "createdAt": "2025-04-18T17:40:42.763Z",
+  "faqs": [
+    {
+      "question": "What is the Committed Cargo Care IPO?",
+      "answer": "<div itemprop=\"text\"><p>Committed Cargo Care IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3244000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->24.98<!-- --> Crores. The issue is priced at <span>₹77 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->October 6, 2023</b>, and <b>closes on <!-- -->October 10, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Committed Cargo Care IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Committed Cargo Care IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Committed Cargo Care IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Committed Cargo Care IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Committed Cargo Care IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Committed Cargo Care IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Committed Cargo Care IPO opens on October 6, 2023 and closes on October 10, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Committed Cargo Care IPO?",
+      "answer": "<div itemprop=\"text\"><p>Committed Cargo Care IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,23,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Committed Cargo Care IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Committed Cargo Care IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Committed Cargo Care IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Committed Cargo Care IPO<!-- --> will be done on <!-- -->Friday, October 13, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, October 17, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/committed-cargo-care-ipo/1462/\" title=\"Committed Cargo Care IPO Allotment Status\">Committed Cargo Care IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Committed Cargo Care IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Committed Cargo Care IPO<!-- --> listing date is on <b>Wednesday, October 18, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Committed Cargo Care",
+  "issue_price": "₹77.00",
+  "issue_price_numeric": 77,
+  "issue_size": "32,44,000 shares (aggregating up to ₹24.98 Cr)",
+  "issue_size_numeric": 32,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fedex Securities Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/144/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/144/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "77.00"
+      },
+      "open": {
+        "nse_sme": "82.00"
+      },
+      "low": {
+        "nse_sme": "82.00"
+      },
+      "high": {
+        "nse_sme": "86.10"
+      },
+      "last_trade": {
+        "nse_sme": "86.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 18 2023",
+    "nse_symbol": "COMMITTED",
+    "isin": "INE597Z01014",
+    "final_issue_price": "77 per share"
+  },
+  "listing_date": "2023-10-17T18:30:00.000Z",
+  "listing_gains": "11.82%",
+  "listing_gains_numeric": 11.82,
+  "logo": "https://www.chittorgarh.net/images/ipo/committed-cargocare-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/committed-cargocare-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "123200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "123200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "246400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/committed-cargo-care-ipo/1462/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-10-05T18:30:00.000Z",
+  "pageHeading": "Committed Cargo Care Limited IPO (Committed Cargo Care IPO) Detail",
+  "pageTitle": "Committed Cargo Care IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Rajeev Sharma Mr. Nitin Bharal Mr. Narendra Singh Bisht and Mr. Yashpal Arora are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "98.00%",
+      "share_holding_post_issue": "68.63%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Committed Cargo Care IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/CommittedCCL_DP.zip"
+    },
+    {
+      "text": "Committed Cargo Care IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2023/committed-cargo-care-limited-sme-prospectus_78654.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/committed-cargo-care-ipo/1462/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Committed Cargo Care IPO offers 3240000 shares. 1537600 (47.46%) to NII 1537600 (47.46%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "164800 (5.09%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1537600 (47.46%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1537600 (47.46%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3240000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:42.762Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Committed Cargo Care IPO is subscribed 87.78 times on October 10 2023 7:29:00 PM (Day 3). The public issue subscribed 78.73 times in the retail category [.] times in the QIB category and 94.2 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "94.2",
+        "shares_offered": "1537600",
+        "shares_bid_for": "144840000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "78.73",
+        "shares_offered": "1537600",
+        "shares_bid_for": "121062400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "87.78",
+        "shares_offered": "3075200",
+        "shares_bid_for": "269940800"
+      }
+    },
+    "total_applications": "75664",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 10 2023",
+    "tentative_allotment": "Fri Oct 13 2023",
+    "initiation_of_refunds": "Mon Oct 16 2023",
+    "credit_of_shares_to_demat": "Tue Oct 17 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:27.273Z",
+  "updated_at": "2025-04-18T17:40:42.762Z",
+  "year": 2023,
+  "worst_listing_gains": "11.82%",
+  "worst_listing_gains_numeric": 11.82
+}

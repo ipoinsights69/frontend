@@ -1,0 +1,402 @@
+{
+  "_id": "680291873ccffd1c7912c9c7",
+  "ipo_id": "2021_aptus_value_housing_finance_india_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:46:50.995Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/aptus-value-housing-finance-ipo/1140/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2009, Aptus Value Housing is a retail-focused housing finance company that primarily serves low and middle-income self-employed customers in the rural and semi-urban markets of India. As per the CRISIL report, it is one of the largest housing finance companies in South India in terms of AUM of 37,909.31 million as of December 31, 2020.</p>\n<p>The company offers home loans to retail customers to purchase homes, construct residential property, house improvement and extension, loans against property, and business loans. It undertakes all types of lending activities such as sourcing, underwriting, valuation, and legal assessment of collateral, the credit assessment, and collection. As of December 31, 2020, the total home loans accounted for 51.76% of AUM. As of December 31, 2020, 99.42% of the AUM was from customers belong to the low and middle-income group with a monthly income of less than Rs. 50,000.</p>\n<p><strong>Competitive Strengths</strong></p>\n<ul>\n<li>One of the largest housing finance companies in South India in terms of AUM.</li>\n<li>A strong network of 181 branches across 75 districts and union territory of Puducherry.</li>\n<li>Presence in large, underpenetrated market with strong growth potential.</li>\n<li>Robust credit risk management from origination to collections leading to assure strong asset quality.</li>\n<li>Established financial performance track record.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "45201.65",
+          "37467.24",
+          "23276.87"
+        ],
+        [
+          "Total Revenue",
+          "6552.42",
+          "5237.20",
+          "3371.15"
+        ],
+        [
+          "Profit After Tax",
+          "2669.44",
+          "2110.12",
+          "1114.83"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 10, 2021 to August 12, 2021",
+    "ipoListingDate": "Tue, Aug 24, 2021",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹353.00",
+    "lotSize": "42 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹2,780.05 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹500.00 Cr)",
+    "offerForSale": "6,45,90,695 shares of ₹2 (aggregating up to ₹2,280.05 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Aug 10, 2021",
+    "ipoCloseDate": "Thu, Aug 12, 2021",
+    "initiationOfRefunds": "Fri, Aug 20, 2021",
+    "creditOfSharesToDemat": "Mon, Aug 23, 2021",
+    "shareHoldingPreIssue": "48,14,16,290 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "48,14,16,290 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "74.87%"
+      }
+    ],
+    "shareHoldingPostIssue": "49,55,80,595 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "49,55,80,595 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.23%"
+      }
+    ]
+  },
+  "closing_date": "2021-08-11T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 44 4565 0000",
+    "email": "cs@aptusindia.com",
+    "full_address": "Aptus Value Housing Finance India Ltd, No. 8B Doshi Towers 8th Floor No: 205, Poonamallee High Road Kilpauk Chennai 600 010",
+    "website": "http://www.aptusindia.com/"
+  },
+  "createdAt": "2025-04-18T17:53:10.956Z",
+  "faqs": [
+    {
+      "question": "What is the Aptus Value Housing Finance IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aptus Value Housing Finance IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->2,780.05<!-- --> Crores. The issue is priced at <span>₹353 per share</span>. The minimum order quantity is <!-- -->42<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 10, 2021</b>, and <b>closes on <!-- -->August 12, 2021</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Aptus Value Housing Finance IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Aptus Value Housing Finance IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Aptus Value Housing Finance IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Aptus Value Housing Finance IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Aptus Value Housing Finance IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Aptus Value Housing Finance IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Aptus Value Housing Finance IPO opens on August 10, 2021 and closes on August 12, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Aptus Value Housing Finance IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aptus Value Housing Finance IPO<!-- --> <b>lot size is <!-- -->42</b>, and the <b>minimum amount required is <span>₹14,826</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Aptus Value Housing Finance IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Aptus Value Housing Finance IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Aptus Value Housing Finance IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Aptus Value Housing Finance IPO<!-- --> will be done on <!-- -->Wednesday, August 18, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, August 23, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/aptus-value-housing-finance-ipo/1140/\" title=\"Aptus Value Housing Finance IPO Allotment Status\">Aptus Value Housing Finance IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Aptus Value Housing Finance IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Aptus Value Housing Finance IPO<!-- --> listing date is on <b>Tuesday, August 24, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Aptus Value Housing Finance India",
+  "issue_price": "₹353.00",
+  "issue_price_numeric": 353,
+  "issue_size": "[.] shares (aggregating up to ₹2,780.05 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "353.00",
+        "nse": "353.00"
+      },
+      "open": {
+        "bse": "329.95",
+        "nse": "333.00"
+      },
+      "low": {
+        "bse": "329.95",
+        "nse": "333.00"
+      },
+      "high": {
+        "bse": "354.60",
+        "nse": "354.80"
+      },
+      "last_trade": {
+        "bse": "346.50",
+        "nse": "346.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 24 2021",
+    "bse_script_code": "543335",
+    "nse_symbol": "APTUS",
+    "isin": "INE852O01025",
+    "final_issue_price": "353 per share"
+  },
+  "listing_date": "2021-08-23T18:30:00.000Z",
+  "listing_gains": "-1.84%",
+  "listing_gains_numeric": -1.84,
+  "logo": "https://www.chittorgarh.net/images/ipo/aptus-value-housing-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/aptus-value-housing-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 42 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "42",
+        "amount": "14826"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "546",
+        "amount": "192738"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "588",
+        "amount": "207564"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2814",
+        "amount": "993342"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2856",
+        "amount": "1008168"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/aptus-value-housing-finance-ipo/1140/"
+    }
+  },
+  "lot_size": 42,
+  "opening_date": "2021-08-09T18:30:00.000Z",
+  "pageHeading": "Aptus Value Housing Finance India Ltd IPO (Aptus Value Housing Finance IPO) Detail",
+  "pageTitle": "Aptus Value Housing Finance IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "M. Anadan Padma Anandan and Westbridge Crossover Fund LLC are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "74.87%",
+      "share_holding_post_issue": "72.23%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Aptus Value Housing Finance IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2021/aptus-value-housing-finance-india-limited_50135.html"
+    },
+    {
+      "text": "Aptus Value Housing Finance IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/aptus-value-housing-finance-india-ltd_51928.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "5",
+        "neutral": "6",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/aptus-value-housing-finance-ipo/1140/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "aptus.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Aptus Value Housing Finance IPO offers 55128500 shares. 15751000 (28.57%) to QIB 11813250 (21.43%) to NII 27564250 (50.00%) to RII. 656291 RIIs will receive minimum 42 shares and (sNII) and (bNII) will receive minimum 588 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "15751000 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "11813250 (21.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "27564250 (50.00%)",
+        "maximum_allottees": "656291"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "55128500 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:10.956Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Aptus Value Housing Finance IPO is subscribed 17.2 times on August 12 2021 5:00:00 PM (Day 3). The public issue subscribed 1.35 times in the retail category 32.41 times in the QIB category and 33.91 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "32.41",
+        "shares_offered": "15751000",
+        "shares_bid_for": "510486732"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "33.91",
+        "shares_offered": "11813250",
+        "shares_bid_for": "400543332"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.35",
+        "shares_offered": "27564250",
+        "shares_bid_for": "37212378"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "17.2",
+        "shares_offered": "55128500",
+        "shares_bid_for": "948242442"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 12 2021",
+    "tentative_allotment": "Wed Aug 18 2021",
+    "initiation_of_refunds": "Fri Aug 20 2021",
+    "credit_of_shares_to_demat": "Mon Aug 23 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:04.355Z",
+  "updated_at": "2025-04-18T17:53:10.956Z",
+  "year": 2021,
+  "worst_listing_gains": "-1.84%",
+  "worst_listing_gains_numeric": -1.84
+}

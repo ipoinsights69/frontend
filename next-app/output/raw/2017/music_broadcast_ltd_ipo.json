@@ -1,0 +1,383 @@
+{
+  "_id": "680298563ccffd1c7912cb2b",
+  "ipo_id": "2017_music_broadcast_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:10:52.826Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/music-broadcast-ipo/623/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1999, Music Broadcast Limited is the first private FM radio broadcaster in India operates under the brand name Radio City. The company operated its radio stations in 29 cities in India as of November 25, 2016. They are present in 12 out of the top 15 cities in India by population.</p><p>Music Broadcast Limited operates as a subsidiary of Jagran Prakashan Limited. Radio stations deliver film, non-film, devotional, regional, and international music, as well as radio jockey (RJ) hosted shows in Hindi, Tamil, Kannada, Malayalam, and Telugu languages. It also operates 31 Web radio stations that offer Internet radio with live RJ hosted shows through Planet Radio City in 6 languages with a listenership of 12.20 million. In addition, Music Broadcast Limited operates 'Planet Radio City' mobile app that plays various stations, such as 'Radio City Freedom', 'Radio City Electronica', 'Radio City Metal', and 'Radio City Smaran' in various languages on mobile and other smart devices.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-16",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13",
+          "31-Mar-12"
+        ],
+        [
+          "Total Assets",
+          "5278.26",
+          "4852.88",
+          "3977.26",
+          "1699.64",
+          "1707.77",
+          "1808.30"
+        ],
+        [
+          "Total Revenue",
+          "1382.13",
+          "2455.06",
+          "2075.06",
+          "1572.71",
+          "1405.06",
+          "1248.04"
+        ],
+        [
+          "Profit After Tax (PAT)",
+          "297.56",
+          "425.07",
+          "470.59",
+          "243.25",
+          "116.19",
+          "(21.70)"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 6, 2017 to March 8, 2017",
+    "ipoListingDate": "Fri, Mar 17, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹333.00",
+    "lotSize": "45 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹488.53 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹400.00 Cr)",
+    "offerForSale": "26,58,518 shares of ₹10 (aggregating up to ₹88.53 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Mar 6, 2017",
+    "ipoCloseDate": "Wed, Mar 8, 2017",
+    "initiationOfRefunds": "Wed, Mar 15, 2017",
+    "creditOfSharesToDemat": "Thu, Mar 16, 2017",
+    "shareHoldingPreIssue": "4,50,42,767 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "4,50,42,767 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "5,70,54,779 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "5,70,54,779 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-03-07T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "(91 22) 6696 9100",
+    "email": "investor@myradiocity.com",
+    "full_address": "Music Broadcast Ltd, 5 th Floor RNA Corporate Park, Off Western Express Highway, Kalanagar Bandra (East) Mumbai 400 051",
+    "website": "http://www.planetradiocity.com"
+  },
+  "createdAt": "2025-04-18T18:22:14.009Z",
+  "faqs": [
+    {
+      "question": "What is the Radio City IPO?",
+      "answer": "<div itemprop=\"text\"><p>Radio City IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->488.53<!-- --> Crores. The issue is priced at <span>₹333 per share</span>. The minimum order quantity is <!-- -->45<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 6, 2017</b>, and <b>closes on <!-- -->March 8, 2017</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Radio City IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Radio City IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Radio City IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Radio City IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Radio City IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Radio City IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Radio City IPO opens on March 6, 2017 and closes on March 8, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Radio City IPO?",
+      "answer": "<div itemprop=\"text\"><p>Radio City IPO<!-- --> <b>lot size is <!-- -->45</b>, and the <b>minimum amount required is <span>₹14,985</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Radio City IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Radio City IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Radio City IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Radio City IPO<!-- --> will be done on <!-- -->Tuesday, March 14, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, March 16, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/music-broadcast-ipo/623/\" title=\"Radio City IPO Allotment Status\">Radio City IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Radio City IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Radio City IPO<!-- --> listing date is on <b>Friday, March 17, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Music Broadcast",
+  "issue_price": "₹333.00",
+  "issue_price_numeric": 333,
+  "issue_size": "[.] shares (aggregating up to ₹488.53 Cr)",
+  "issue_size_numeric": 488.53,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "333.00",
+        "nse": "333.00"
+      },
+      "open": {
+        "bse": "420.00",
+        "nse": "413.00"
+      },
+      "low": {
+        "bse": "368.00",
+        "nse": "367.20"
+      },
+      "high": {
+        "bse": "420.00",
+        "nse": "415.00"
+      },
+      "last_trade": {
+        "bse": "373.15",
+        "nse": "372.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 17 2017",
+    "bse_script_code": "540366",
+    "nse_symbol": "RADIOCITY",
+    "isin": "INE919I01016",
+    "final_issue_price": "333 per share"
+  },
+  "listing_date": "2017-03-16T18:30:00.000Z",
+  "listing_gains": "12.06%",
+  "listing_gains_numeric": 12.06,
+  "logo": "https://www.chittorgarh.net/images/ipo/music_broadcast_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/music_broadcast_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 45 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "45",
+        "amount": "14985"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "585",
+        "amount": "194805"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "630",
+        "amount": "209790"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "2970",
+        "amount": "989010"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "3015",
+        "amount": "1003995"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/music-broadcast-ipo/623/"
+    }
+  },
+  "lot_size": 45,
+  "opening_date": "2017-03-05T18:30:00.000Z",
+  "pageHeading": "Music Broadcast Ltd IPO (Radio City IPO) Detail",
+  "pageTitle": "Radio City IPO Date, Price, GMP, Review, Analysis & Details",
+  "prospectusLinks": [
+    {
+      "text": "Radio City IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2016/music-broadcast-limited_33745.html"
+    },
+    {
+      "text": "Radio City IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2017/music-broadcast-limited_34378.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/music-broadcast-ipo/623/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Radio City IPO offers 10480784 shares. 2978685 (28.42%) to QIB 2250630 (21.47%) to NII 5251469 (50.11%) to RII. 116699 RIIs will receive minimum 45 shares and (sNII) and (bNII) will receive minimum 630 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2978685 (28.42%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2250630 (21.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "5251469 (50.11%)",
+        "maximum_allottees": "116699"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "10480784 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:14.008Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Radio City IPO is subscribed 39.67 times on March 8 2017 11:00:00 PM (Day 3). The public issue subscribed 9.85 times in the retail category 39.78 times in the QIB category and 109.13 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "39.78",
+        "shares_offered": "2978685",
+        "shares_bid_for": "118477260"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "109.13",
+        "shares_offered": "2250630",
+        "shares_bid_for": "245615625"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "9.85",
+        "shares_offered": "5251469",
+        "shares_bid_for": "51728400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "39.67",
+        "shares_offered": "10480784",
+        "shares_bid_for": "415821285"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 8 2017",
+    "tentative_allotment": "Tue Mar 14 2017",
+    "initiation_of_refunds": "Wed Mar 15 2017",
+    "credit_of_shares_to_demat": "Thu Mar 16 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:55.472Z",
+  "updated_at": "2025-04-18T18:22:14.008Z",
+  "year": 2017,
+  "worst_listing_gains": "12.06%",
+  "worst_listing_gains_numeric": 12.06
+}

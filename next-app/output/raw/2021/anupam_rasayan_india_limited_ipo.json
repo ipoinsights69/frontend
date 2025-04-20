@@ -1,0 +1,395 @@
+{
+  "_id": "680291873ccffd1c7912c9c9",
+  "ipo_id": "2021_anupam_rasayan_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:48:31.262Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/anupam-rasayan-ipo/1097/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1984, Anupam Rasayan is one of the leading companies engaged in the cotton synthesis and manufacturing of specialty chemicals in India. The business has 2 verticals; 1. Life Science related specialty chemicals that are used in agrochemicals, personal care, and pharmaceutical sector and 2. other specialty chemicals i.e. pigment &amp; dyes, polymer additives, etc.</p>\n\n<p>The company has a strong long-term relationship with many multinational companies like Syngenta Asia Pacific Pte Ltd, Sumitomo Chemical Company Ltd, and UPL Limited to expand geographical reach across countries like United States, Europe, Japan, and India.</p>\n\n<p>It has 6 manufacturing facilities out of which 4 are situated at Sachin and 2 are located at Jhagadia with an aggregated installed capacity of 23,438 MT.</p>\n\n<p><strong>Competitive strengths</strong></p>\n<ul>\n<li>Diversified customer base across geographies and industries.</li>\n<li>In-house R&amp;D team to foster product innovation.</li>\n<li>Diversified and customized product portfolio.</li>\n<li>Strategically located manufacturing facilities.</li>\n<li>Consistent financial performance track record.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Dec-20",
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "19192.15",
+          "16640.68",
+          "13225.03",
+          "10012.09"
+        ],
+        [
+          "Total Revenue",
+          "5631.61",
+          "5393.87",
+          "5209.61",
+          "3491.82"
+        ],
+        [
+          "Profit After Tax",
+          "480.94",
+          "529.75",
+          "502.09",
+          "403.41"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 12, 2021 to March 16, 2021",
+    "ipoListingDate": "Wed, Mar 24, 2021",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹555.00",
+    "lotSize": "27 Shares",
+    "issueSize": "1,36,93,694 shares (aggregating up to ₹760.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Mar 12, 2021",
+    "ipoCloseDate": "Tue, Mar 16, 2021",
+    "initiationOfRefunds": "Mon, Mar 22, 2021",
+    "creditOfSharesToDemat": "Tue, Mar 23, 2021",
+    "shareHoldingPreIssue": "8,62,06,896 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "8,62,06,896 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "75.80%"
+      }
+    ],
+    "shareHoldingPostIssue": "9,99,22,391 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "9,99,22,391 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "65.40%"
+      }
+    ]
+  },
+  "closing_date": "2021-03-15T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "(+91 261) 239 8991",
+    "email": "investors@anupamrasayan.com",
+    "full_address": "Anupam Rasayan India Limited, 8110 GIDC Industrial Estate, Sachin Surat 394 230",
+    "website": "http://www.anupamrasayan.com/"
+  },
+  "createdAt": "2025-04-18T17:53:10.975Z",
+  "faqs": [
+    {
+      "question": "What is the Anupam Rasayan IPO?",
+      "answer": "<div itemprop=\"text\"><p>Anupam Rasayan IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->13693694<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->760.00<!-- --> Crores. The issue is priced at <span>₹555 per share</span>. The minimum order quantity is <!-- -->27<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 12, 2021</b>, and <b>closes on <!-- -->March 16, 2021</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Anupam Rasayan IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Anupam Rasayan IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Anupam Rasayan IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Anupam Rasayan IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Anupam Rasayan IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Anupam Rasayan IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Anupam Rasayan IPO opens on March 12, 2021 and closes on March 16, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Anupam Rasayan IPO?",
+      "answer": "<div itemprop=\"text\"><p>Anupam Rasayan IPO<!-- --> <b>lot size is <!-- -->27</b>, and the <b>minimum amount required is <span>₹14,985</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Anupam Rasayan IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Anupam Rasayan IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Anupam Rasayan IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Anupam Rasayan IPO<!-- --> will be done on <!-- -->Friday, March 19, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, March 23, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/anupam-rasayan-ipo/1097/\" title=\"Anupam Rasayan IPO Allotment Status\">Anupam Rasayan IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Anupam Rasayan IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Anupam Rasayan IPO<!-- --> listing date is on <b>Wednesday, March 24, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Anupam Rasayan India",
+  "issue_price": "₹555.00",
+  "issue_price_numeric": 555,
+  "issue_size": "1,36,93,694 shares (aggregating up to ₹760.00 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Ambit Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/119/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/119/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "555.00",
+        "nse": "555.00"
+      },
+      "open": {
+        "bse": "534.70",
+        "nse": "520.00"
+      },
+      "low": {
+        "bse": "501.15",
+        "nse": "502.25"
+      },
+      "high": {
+        "bse": "548.95",
+        "nse": "548.95"
+      },
+      "last_trade": {
+        "bse": "525.90",
+        "nse": "526.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 24 2021",
+    "bse_script_code": "543275",
+    "nse_symbol": "ANURAS",
+    "isin": "INE930P01018",
+    "final_issue_price": "555 per share"
+  },
+  "listing_date": "2021-03-23T18:30:00.000Z",
+  "listing_gains": "-5.24%",
+  "listing_gains_numeric": -5.24,
+  "logo": "https://www.chittorgarh.net/images/ipo/anupam-rasayan-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/anupam-rasayan-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 27 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "27",
+        "amount": "14985"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "351",
+        "amount": "194805"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "378",
+        "amount": "209790"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "1782",
+        "amount": "989010"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "1809",
+        "amount": "1003995"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/anupam-rasayan-ipo/1097/"
+    }
+  },
+  "lot_size": 27,
+  "opening_date": "2021-03-11T18:30:00.000Z",
+  "pageHeading": "Anupam Rasayan India Limited IPO (Anupam Rasayan IPO) Detail",
+  "pageTitle": "Anupam Rasayan IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Anand S Desai Dr. Kiran C Patel Ms. Mona A Desai Kiran Pallavi Investments LLC and Rehash Industrial and Resins Chemicals Private Limited are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "75.80%",
+      "share_holding_post_issue": "65.40%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Anupam Rasayan IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2020/anupam-rasayan-india-limited_48559.html"
+    },
+    {
+      "text": "Anupam Rasayan IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2021/anupam-rasayan-india-limited-rhp_49435.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "9",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/anupam-rasayan-ipo/1097/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "anupamrasayan.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "220000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:10.974Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Anupam Rasayan IPO is subscribed 44.06 times on March 16 2021 5:00:00 AM (Day 3). The public issue subscribed 10.77 times in the retail category 65.74 times in the QIB category and 97.42 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "65.74",
+        "shares_offered": "2709259",
+        "shares_bid_for": "178110576"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "97.42",
+        "shares_offered": "2031765",
+        "shares_bid_for": "197932896"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "10.77",
+        "shares_offered": "4740785",
+        "shares_bid_for": "51061212"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.71",
+        "shares_offered": "220000",
+        "shares_bid_for": "375894"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "44.06",
+        "shares_offered": "9701809",
+        "shares_bid_for": "427480578"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 16 2021",
+    "tentative_allotment": "Fri Mar 19 2021",
+    "initiation_of_refunds": "Mon Mar 22 2021",
+    "credit_of_shares_to_demat": "Tue Mar 23 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:04.584Z",
+  "updated_at": "2025-04-18T17:53:10.974Z",
+  "year": 2021,
+  "worst_listing_gains": "-5.24%",
+  "worst_listing_gains_numeric": -5.24
+}

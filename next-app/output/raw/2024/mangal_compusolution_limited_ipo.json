@@ -1,0 +1,445 @@
+{
+  "_id": "680249fe3ccffd1c7912c797",
+  "ipo_id": "2024_mangal_compusolution_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:18:35.191Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/mangal-compusolution-ipo/1905/"
+  },
+  "about": {
+    "details": "<div>\n<p>Incorporated in April 2011, Mangal Compusolution Limited provides hardware rental solutions to fulfill the needs of businesses across various industries. The company rents IT hardware and offers comprehensive end-to-end IT equipment. It rents diverse IT equipment, including servers, laptops, desktops, projectors, router switches, workstations, Plasma/LCD TVs, PA Systems, and various accessories.</p>\n<p>Mangal Compusolution provides small and large enterprises with customizable IT hardware products, including laptops, desktops, servers, and other equipment, to meet clients' specific requirements.</p>\n<div>The company's major clients are concentrated in Maharastra, though it provides services in all of India.</div>\n<div>The company's business can be divided into the following categories</div>\n<ol>\n<li>Rental Income from lease of IT Equipment i.e., Computers &amp; Peripherals</li>\n<li>Sale of IT Equipment, and</li>\n<li>IT Equipment Maintenance Service Fees</li>\n</ol>\n<p>Competitive Strength:</p>\n<ul>\n<li>Huge variety of products to offer, including HP, Dell, Lenovo, and more.</li>\n<li>Customer-Centric Approach</li>\n<li>24/7 dedicated support team and service availability.</li>\n<li>Zero downtime by keeping stock of extra equipment to replace faulty system.</li>\n</ul>\n<p>As of September 30, 2024, the company has 24 full-time employees and five directors, including one Managing Director, one Executive Director, one Non-Executive Director, and three Independent Directors.</p>\n</div>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Mangal Compusolution Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Jun 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "4492.01",
+          "4552.12",
+          "4715.71",
+          "5267.09"
+        ],
+        [
+          "Revenue",
+          "453.44",
+          "2344.42",
+          "3483.18",
+          "1848.78"
+        ],
+        [
+          "Profit After Tax",
+          "80.97",
+          "385.80",
+          "704.09",
+          "86.62"
+        ],
+        [
+          "Net Worth",
+          "2080.88",
+          "1999.90",
+          "1614.10",
+          "910.00"
+        ],
+        [
+          "Reserves and Surplus",
+          "1080.88",
+          "999.90",
+          "1414.10",
+          "710.00"
+        ],
+        [
+          "Total Borrowing",
+          "1862.75",
+          "2041.21",
+          "2652.30",
+          "3434.12"
+        ]
+      ]
+    },
+    {
+      "heading": "Mangal Compusolution Ltd Stock Quote & Charts",
+      "sanitizedHeading": "mangal_compusolution_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "3.97%"
+        ],
+        [
+          "ROCE",
+          "2.05%"
+        ],
+        [
+          "Debt/Equity",
+          "0.90"
+        ],
+        [
+          "RoNW",
+          "15.56%"
+        ],
+        [
+          "PAT Margin",
+          "19.82"
+        ],
+        [
+          "Price to Book Value",
+          "2.16"
+        ]
+      ]
+    },
+    {
+      "heading": "Mangal Compusolution Ltd Stock Quote & Charts",
+      "sanitizedHeading": "mangal_compusolution_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.86",
+          "2.38"
+        ],
+        [
+          "P/E (x)",
+          "11.66",
+          "18.9"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "November 12, 2024 to November 14, 2024",
+    "ipoListingDate": "Thu, Nov 21, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹45.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "36,06,000 shares (aggregating up to ₹16.23 Cr)",
+    "freshIssue": "36,06,000 shares (aggregating up to ₹16.23 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "1,86,000 shares",
+      "maker_name": "Rikhav Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/337/"
+    },
+    "ipoOpenDate": "Tue, Nov 12, 2024",
+    "ipoCloseDate": "Thu, Nov 14, 2024",
+    "initiationOfRefunds": "Tue, Nov 19, 2024",
+    "creditOfSharesToDemat": "Tue, Nov 19, 2024",
+    "shareHoldingPreIssue": "1,00,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,00,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,36,06,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,36,06,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.50%"
+      }
+    ]
+  },
+  "closing_date": "2024-11-13T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-22-40360500",
+    "email": "compliance@mangalcompusolution.com",
+    "full_address": "Mangal Compusolution Limited, Unit No. 03 Satguru Nanak Industrial Estate, Off Western Express Highway, Goregaon (East) Mumbai-400063",
+    "website": "https://www.mangalcompusolution.com/"
+  },
+  "createdAt": "2025-04-18T12:47:58.849Z",
+  "faqs": [
+    {
+      "question": "What is the Mangal Compusolution IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mangal Compusolution IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3606000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->16.23<!-- --> Crores. The issue is priced at <span>₹45 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 12, 2024</b>, and <b>closes on <!-- -->November 14, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Mangal Compusolution IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Mangal Compusolution IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Mangal Compusolution IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Mangal Compusolution IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Mangal Compusolution IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Mangal Compusolution IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Mangal Compusolution IPO opens on November 12, 2024 and closes on November 14, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Mangal Compusolution IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mangal Compusolution IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,35,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Mangal Compusolution IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Mangal Compusolution IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Mangal Compusolution IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Mangal Compusolution IPO<!-- --> will be done on <!-- -->Monday, November 18, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, November 19, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/mangal-compusolution-ipo/1905/\" title=\"Mangal Compusolution IPO Allotment Status\">Mangal Compusolution IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Mangal Compusolution IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Mangal Compusolution IPO<!-- --> listing date is on <b>Thursday, November 21, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Mangal Compusolution",
+  "issue_price": "₹45.00",
+  "issue_price_numeric": 45,
+  "issue_size": "36,06,000 shares (aggregating up to ₹16.23 Cr)",
+  "issue_size_numeric": 36,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Jawa Capital Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/421/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/421/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "45.00"
+      },
+      "open": {
+        "bse_sme": "45.00"
+      },
+      "low": {
+        "bse_sme": "42.75"
+      },
+      "high": {
+        "bse_sme": "45.00"
+      },
+      "last_trade": {
+        "bse_sme": "42.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 21 2024",
+    "bse_script_code": "544287",
+    "isin": "INE0RU901015",
+    "final_issue_price": "45 per share"
+  },
+  "listing_date": "2024-11-20T18:30:00.000Z",
+  "listing_gains": "-5.00%",
+  "listing_gains_numeric": -5,
+  "logo": "https://www.chittorgarh.net/images/ipo/mangal_complusolution_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/mangal_complusolution_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "270000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/mangal-compusolution-ipo/1905/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2024-11-11T18:30:00.000Z",
+  "pageHeading": "Mangal Compusolution Limited IPO (Mangal Compusolution IPO) Detail",
+  "pageTitle": "Mangal Compusolution IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the Company are Hardik Meghraj Jain Neeta Mukesh Desai Pathik Mukesh Desai Mr. Mukesh Khandubhai Desai and Mrs. Binny Pathik.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "73.50%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Mangal Compusolution IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/355885/Draft%20Prospectus%20-%20Mangal%20Compusolution%20Limited_20240306200320.pdf"
+    },
+    {
+      "text": "Mangal Compusolution IPO Addendum DRHP",
+      "url": "https://www.bseindia.com/corporates/download/355885/Addendun%20and%20Draft%20Prospectus%20-%20Mangal%20Compusolution%20Limited_20240905120317.pdf"
+    },
+    {
+      "text": "Mangal Compusolution IPO RHP",
+      "url": "https://www.bsesme.com/download/355885/SME_IPO%20Open/Annexure-1_Prospectus-Mangal_Compusolution_Limited_20241111123023.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/mangal-compusolution-ipo/1905/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "mangalcomp.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Mangal Compusolution IPO offers 3606001 shares. 1710000 (47.42%) to NII 1710000 (47.42%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "186000 (5.16%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1710000 (47.42%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1710000 (47.42%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3606001 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.848Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Mangal Compusolution IPO is subscribed 34.59 times on November 14 2024 6:19:07 PM (Day 3). The public issue subscribed 46.91 times in the retail category [.] times in the QIB category and 22.28 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "22.28",
+        "shares_offered": "1710000",
+        "shares_bid_for": "38103000",
+        "total_application": "2724"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "46.91",
+        "shares_offered": "1710000",
+        "shares_bid_for": "80211000",
+        "total_application": "26737"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "34.59",
+        "shares_offered": "3420001",
+        "shares_bid_for": "118314000",
+        "total_application": "29461"
+      }
+    },
+    "total_applications": "29461",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 14 2024",
+    "tentative_allotment": "Mon Nov 18 2024",
+    "initiation_of_refunds": "Tue Nov 19 2024",
+    "credit_of_shares_to_demat": "Tue Nov 19 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:00.976Z",
+  "updated_at": "2025-04-18T12:47:58.848Z",
+  "year": 2024,
+  "worst_listing_gains": "-5.00%",
+  "worst_listing_gains_numeric": -5
+}

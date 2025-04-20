@@ -1,0 +1,414 @@
+{
+  "_id": "6802985b3ccffd1c7912cc5b",
+  "ipo_id": "2019_spandana_sphoorty_financial_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": false,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:19:18.575Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/spandana-sphoorty-ipo/1006/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2003, Spandana Sphoorty Financial Ltd is a rural area focused NBFC-Microfinance Institution. Mrs Reddy is a founder, MD and promoter of the company. It is engaged in offering small-ticket unsecured loans to help the women in the low-income bracket in rural and urban areas. The company provides income generation loans, business loans and loans against gold jewellery.</p><p>Spandana has a presence across 15 states in India with 4,045 employees and 694 branch network.  By offering the loan products to low-income households, the company is strengthening the socio-economic condition and improving their livelihoods. </p><p>The company has started working under CDR mechanism (Corporate Debt Restructuring) of the RBI to revive the business and restructure the borrowings in 2010. And, exited successfully in March 2017 with the help of Kangchenjunga Ltd and Kedaara AIF-1. </p><p>Before the 2010 crisis, the company had Rs 4,500 crore loan portfolio. The company started recovering and made the first profit in the year 2013-14. As of September 2018, Spandana had Rs 2,244 crore loan portfolio.<br></p><h2>Company Products</h2><br>1. Abhilasha (JLG Loans)<br>2. Shree Loans<br>3. Loans Against Property (LAP)<br>4. Gold Loans (Keertana)<br>5. Phinix Loans<br>6. Interim Loans<br><h2>Competitive Strengths</h2><br>1. Seasoned business model<br>2. Large employee base for a high degree of client engagement<br>3. Focus on a highly under-served market<br>4. Geographically diversified business operations<br><p></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. 10 Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15"
+        ],
+        [
+          "Total Assets",
+          "48980.37",
+          "37642.47",
+          "19286.22",
+          "20998.95",
+          "23524.69"
+        ],
+        [
+          "Total Revenue",
+          "10362.81",
+          "5872.74",
+          "3770.64",
+          "3438.62",
+          "3019.71"
+        ],
+        [
+          "Profit After Tax",
+          "3087.48",
+          "1879.71",
+          "4434.14",
+          "2432.35",
+          "1050.99"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 5, 2019 to August 7, 2019",
+    "ipoListingDate": "Mon, Aug 19, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹856.00",
+    "lotSize": "17 Shares",
+    "issueSize": "1,40,46,056 shares (aggregating up to ₹1,202.34 Cr)",
+    "freshIssue": "46,89,331 shares (aggregating up to ₹400.00 Cr)",
+    "offerForSale": "93,56,725 shares of ₹10 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Aug 5, 2019",
+    "ipoCloseDate": "Wed, Aug 7, 2019",
+    "initiationOfRefunds": "Wed, Aug 14, 2019",
+    "creditOfSharesToDemat": "Fri, Aug 16, 2019",
+    "shareHoldingPreIssue": "5,96,33,683 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "5,96,33,683 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "81.21%"
+      }
+    ],
+    "shareHoldingPostIssue": "6,43,06,580 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "6,43,06,580 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "62.6%"
+      }
+    ]
+  },
+  "closing_date": "2019-08-06T18:30:00.000Z",
+  "createdAt": "2025-04-18T18:22:19.826Z",
+  "faqs": [
+    {
+      "question": "What is the Spandana Sphoorty IPO?",
+      "answer": "<div itemprop=\"text\"><p>Spandana Sphoorty IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->14046056<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->1,202.34<!-- --> Crores. The issue is priced at <span>₹856 per share</span>. The minimum order quantity is <!-- -->17<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 5, 2019</b>, and <b>closes on <!-- -->August 7, 2019</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Spandana Sphoorty IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Spandana Sphoorty IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Spandana Sphoorty IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Spandana Sphoorty IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Spandana Sphoorty IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Spandana Sphoorty IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Spandana Sphoorty IPO opens on August 5, 2019 and closes on August 7, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Spandana Sphoorty IPO?",
+      "answer": "<div itemprop=\"text\"><p>Spandana Sphoorty IPO<!-- --> <b>lot size is <!-- -->17</b>, and the <b>minimum amount required is <span>₹14,552</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Spandana Sphoorty IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Spandana Sphoorty IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Spandana Sphoorty IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Spandana Sphoorty IPO<!-- --> will be done on <!-- -->Wednesday, August 14, 2019<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, August 16, 2019<!-- -->. Check the <a href=\"/ipo_allotment_status/spandana-sphoorty-ipo/1006/\" title=\"Spandana Sphoorty IPO Allotment Status\">Spandana Sphoorty IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Spandana Sphoorty IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Spandana Sphoorty IPO<!-- --> listing date is on <b>Monday, August 19, 2019</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Spandana Sphoorty Financial",
+  "issue_price": "₹856.00",
+  "issue_price_numeric": 856,
+  "issue_size": "1,40,46,056 shares (aggregating up to ₹1,202.34 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Indusind Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/170/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/170/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Yes Securities",
+      "url": "/report/ipo-lead-manager-review/112/136/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/136/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "856.00",
+        "nse": "856.00"
+      },
+      "open": {
+        "bse": "824.00",
+        "nse": "825.00"
+      },
+      "low": {
+        "bse": "690.00",
+        "nse": "691.10"
+      },
+      "high": {
+        "bse": "865.00",
+        "nse": "866.00"
+      },
+      "last_trade": {
+        "bse": "848.40",
+        "nse": "847.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 19 2019",
+    "bse_script_code": "542759",
+    "nse_symbol": "SPANDANA",
+    "isin": "INE572J01011",
+    "final_issue_price": "856 per share"
+  },
+  "listing_date": "2019-08-18T18:30:00.000Z",
+  "listing_gains": "-0.89%",
+  "listing_gains_numeric": -0.89,
+  "logo": "https://www.chittorgarh.net/images/ipo/spandana.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/spandana.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 17 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "17",
+        "amount": "14552"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "221",
+        "amount": "189176"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "238",
+        "amount": "203728"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "1156",
+        "amount": "989536"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "1173",
+        "amount": "1004088"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/spandana-sphoorty-ipo/1006/"
+    }
+  },
+  "lot_size": 17,
+  "opening_date": "2019-08-04T18:30:00.000Z",
+  "pageHeading": "Spandana Sphoorty Financial Ltd IPO (Spandana Sphoorty IPO) Detail",
+  "pageTitle": "Spandana Sphoorty IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Padmaja Gangireddy and Kangchenjunga Limited are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "81.21%",
+      "share_holding_post_issue": "62.6%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Spandana Sphoorty IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2018/spandana-sphoorty-financial-limited_39377.html"
+    },
+    {
+      "text": "Spandana Sphoorty IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2019/spandana-sphoorty-financial-limited_44004.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "8",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/spandana-sphoorty-ipo/1006/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "spandana.ipo@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Spandana Sphoorty IPO offers 14046056 shares. 7023027 (50.00%) to QIB 2106909 (15.00%) to NII 4916120 (35.00%) to RII. 289183 RIIs will receive minimum 17 shares and (sNII) and (bNII) will receive minimum 238 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "7023027 (50.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2106909 (15.00%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4916120 (35.00%)",
+        "maximum_allottees": "289183"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "14046056 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:19.825Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Spandana Sphoorty IPO is subscribed 1.05 times on August 7 2019 6:00:00 PM (Day 3). The public issue subscribed 0.09 times in the retail category 3.11 times in the QIB category and 0.55 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "3.11",
+        "shares_offered": "2799338",
+        "shares_bid_for": "8694242"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.55",
+        "shares_offered": "2106909",
+        "shares_bid_for": "1168087"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.09",
+        "shares_offered": "4916120",
+        "shares_bid_for": "465256"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.05",
+        "shares_offered": "9822367",
+        "shares_bid_for": "10327585"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 7 2019",
+    "tentative_allotment": "Wed Aug 14 2019",
+    "initiation_of_refunds": "Wed Aug 14 2019",
+    "credit_of_shares_to_demat": "Fri Aug 16 2019"
+  },
+  "updatedAt": "2025-04-19T04:39:38.977Z",
+  "updated_at": "2025-04-18T18:22:19.825Z",
+  "year": 2019,
+  "worst_listing_gains": "-0.89%",
+  "worst_listing_gains_numeric": -0.89
+}

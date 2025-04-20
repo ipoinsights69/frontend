@@ -1,0 +1,430 @@
+{
+  "_id": "68028e9b3ccffd1c7912c8cb",
+  "ipo_id": "2023_crop_life_science_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:31:23.798Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/crop-life-science-ipo/1480/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2006, Crop Life Science Limited is engaged in the business of manufacturing, distributing, and marketing agrochemical formulations.</p>\n<p>The company manufactures Agriculture chemicals such as Micro fertilizers and pesticides which includes Insecticides, Fungicides, Herbicides, and Weedicides. Its manufacturing unit is located at GIDC Ankleshwar, Gujarat, spanning 5831.10 Square Meters. The company exports its products to Indonesia, Bangladesh, Egypt, Myanmar, Vietnam, Sudan and other countries.</p>\n<p>Crop Life Science's products are registered with the Central Insecticides Board (\"CIB\"), and approved by the Directorate of Agriculture, Government of Gujarat, and the Gujarat Pollution Control Board (\"GPCB\").</p>\n<p>The company's product portfolio includes more than 85 agro-chemical products.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2020",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "7645.16",
+          "8630.18",
+          "9457.75",
+          "10471.64"
+        ],
+        [
+          "Revenue",
+          "13531.18",
+          "11950.18",
+          "10238.92",
+          "12323.43"
+        ],
+        [
+          "Profit After Tax",
+          "323.00",
+          "370.46",
+          "281.41",
+          "436.66"
+        ],
+        [
+          "Net Worth",
+          "2925.61",
+          "3287.06",
+          "3526.33",
+          "4038.51"
+        ],
+        [
+          "Reserves and Surplus",
+          "1770.01",
+          "2114.88",
+          "2401.86",
+          "2838.51"
+        ],
+        [
+          "Total Borrowing",
+          "1594.40",
+          "1747.29",
+          "2093.03",
+          "2682.32"
+        ]
+      ]
+    },
+    {
+      "heading": "Crop Life Science Limited Stock Quote & Charts",
+      "sanitizedHeading": "crop_life_science_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "11.54%"
+        ],
+        [
+          "ROCE",
+          "18.63"
+        ],
+        [
+          "Debt/Equity",
+          "0.68"
+        ],
+        [
+          "RoNW",
+          "10.81%"
+        ]
+      ]
+    },
+    {
+      "heading": "Crop Life Science Limited Stock Quote & Charts",
+      "sanitizedHeading": "crop_life_science_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.64",
+          null
+        ],
+        [
+          "P/E (x)",
+          "14.29",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 18, 2023 to August 22, 2023",
+    "ipoListingDate": "Wed, Aug 30, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹52.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "51,40,000 shares (aggregating up to ₹26.73 Cr)",
+    "freshIssue": "51,40,000 shares (aggregating up to ₹26.73 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,60,000 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Fri, Aug 18, 2023",
+    "ipoCloseDate": "Tue, Aug 22, 2023",
+    "initiationOfRefunds": "Mon, Aug 28, 2023",
+    "creditOfSharesToDemat": "Tue, Aug 29, 2023",
+    "shareHoldingPreIssue": "1,20,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,20,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,71,40,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,71,40,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "70.01%"
+      }
+    ]
+  },
+  "closing_date": "2023-08-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "079-40373967",
+    "email": "cs@croplifescience.com",
+    "full_address": "Crop Life Science Limited, 209, Near Judges Bunglow Cross Road, Bodakdev Ahmedabad – 380015",
+    "website": "https://croplifescience.com/cropelife/"
+  },
+  "createdAt": "2025-04-18T17:40:43.624Z",
+  "faqs": [
+    {
+      "question": "What is the Crop Life Science IPO?",
+      "answer": "<div itemprop=\"text\"><p>Crop Life Science IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5140000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->26.73<!-- --> Crores. The issue is priced at <span>₹52 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 18, 2023</b>, and <b>closes on <!-- -->August 22, 2023</b>.</p><p>Purva Sharegistry India Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Crop Life Science IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Crop Life Science IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Crop Life Science IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Crop Life Science IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Crop Life Science IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Crop Life Science IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Crop Life Science IPO opens on August 18, 2023 and closes on August 22, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Crop Life Science IPO?",
+      "answer": "<div itemprop=\"text\"><p>Crop Life Science IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,04,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Crop Life Science IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Crop Life Science IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Crop Life Science IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Crop Life Science IPO<!-- --> will be done on <!-- -->Friday, August 25, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, August 29, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/crop-life-science-ipo/1480/\" title=\"Crop Life Science IPO Allotment Status\">Crop Life Science IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Crop Life Science IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Crop Life Science IPO<!-- --> listing date is on <b>Wednesday, August 30, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Crop Life Science",
+  "issue_price": "₹52.00",
+  "issue_price_numeric": 52,
+  "issue_size": "51,40,000 shares (aggregating up to ₹26.73 Cr)",
+  "issue_size_numeric": 51,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Interactive Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/188/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/188/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "52.00"
+      },
+      "open": {
+        "nse_sme": "55.95"
+      },
+      "low": {
+        "nse_sme": "53.15"
+      },
+      "high": {
+        "nse_sme": "55.95"
+      },
+      "last_trade": {
+        "nse_sme": "53.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "August 30 2023",
+    "nse_symbol": "CLSL",
+    "isin": "INE00NH01017",
+    "final_issue_price": "52 per share"
+  },
+  "listing_date": "2023-08-29T18:30:00.000Z",
+  "listing_gains": "2.21%",
+  "listing_gains_numeric": 2.21,
+  "logo": "https://www.chittorgarh.net/images/ipo/crop-life-science-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/crop-life-science-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "104000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "104000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "208000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/crop-life-science-ipo/1480/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-08-17T18:30:00.000Z",
+  "pageHeading": "Crop Life Science Limited IPO (Crop Life Science IPO) Detail",
+  "pageTitle": "Crop Life Science IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Rajesh Lunagariya and Mr. Ashvinkumar Lunagaria are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "70.01%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Crop Life Science IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/CropLife_DP.zip"
+    },
+    {
+      "text": "Crop Life Science IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2023/crop-life-science-limited-sme-prospectus_76537.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "2",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/crop-life-science-ipo/1480/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Purva Sharegistry India Pvt Ltd",
+    "phone": "+91-022-23018261/ 23016761",
+    "email": "support@purvashare.com",
+    "website": "https://www.purvashare.com/investor-service/ipo-query"
+  },
+  "reservation": {
+    "summary": "Crop Life Science IPO offers 5140000 shares. 2440000 (47.47%) to NII 2440000 (47.47%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "260000 (5.06%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2440000 (47.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2440000 (47.47%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5140000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:43.624Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Crop Life Science IPO is subscribed 4.36 times on August 22 2023 7:27:00 PM (Day 3). The public issue subscribed 7.15 times in the retail category [.] times in the QIB category and 1.56 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.56",
+        "shares_offered": "2440000",
+        "shares_bid_for": "3812000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "7.15",
+        "shares_offered": "2440000",
+        "shares_bid_for": "17436000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "4.36",
+        "shares_offered": "4880000",
+        "shares_bid_for": "21276000"
+      }
+    },
+    "total_applications": "8718",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 22 2023",
+    "tentative_allotment": "Fri Aug 25 2023",
+    "initiation_of_refunds": "Mon Aug 28 2023",
+    "credit_of_shares_to_demat": "Tue Aug 29 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:28.534Z",
+  "updated_at": "2025-04-18T17:40:43.624Z",
+  "year": 2023,
+  "worst_listing_gains": "2.21%",
+  "worst_listing_gains_numeric": 2.21
+}

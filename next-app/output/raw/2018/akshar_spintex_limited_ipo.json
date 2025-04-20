@@ -1,0 +1,343 @@
+{
+  "_id": "680298573ccffd1c7912cb8d",
+  "ipo_id": "2018_akshar_spintex_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:15:02.783Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/akshar-spintex-ipo/861/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2013, Gujarat based Akshar Spintex Limited is a company engaged in the manufacturing of cotton yarn. The company manufactures 100% cotton yarn which includes combed, semi-combed and carded yarn. </p><p>The manufacturing facility of the Company is situated in the vicinity of the rich cotton growing areas of Gujarat. The company has installed capacity of total 24,480 spindles.</p><p>The company has 216 employees on its payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lacs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "8218.88",
+          "7487.82",
+          "7029.73",
+          "2479.56"
+        ],
+        [
+          "Total Revenue",
+          "9038.94",
+          "5984.38",
+          "1561.73",
+          "0"
+        ],
+        [
+          "Profit After Tax",
+          "538.61",
+          "266.94",
+          "(51.25)",
+          "0"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "April 27, 2018 to May 3, 2018",
+    "ipoListingDate": "May 11, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹40.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "67,47,000 shares (aggregating up to ₹26.99 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "3,45,000 shares",
+    "ipoOpenDate": "Fri, Apr 27, 2018",
+    "ipoCloseDate": "Thu, May 3, 2018",
+    "shareHoldingPreIssue": "2,40,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,40,00,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "2,49,99,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,49,99,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-05-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+9198252 13622",
+    "email": "admin@aksharspintex.in",
+    "full_address": "Akshar Spintex Limited, Revenue Survey No. 102/2 Paiki Plot No. 2, Village - Haripar Ranuja Road, Tal - Kalavad Jamnagar - 361013",
+    "website": "http://www.aksharspintex.in"
+  },
+  "createdAt": "2025-04-18T18:22:15.713Z",
+  "faqs": [
+    {
+      "question": "What is the Akshar Spintex IPO?",
+      "answer": "<div itemprop=\"text\"><p>Akshar Spintex IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6747000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->26.99<!-- --> Crores. The issue is priced at <span>₹40 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->April 27, 2018</b>, and <b>closes on <!-- -->May 3, 2018</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Akshar Spintex IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Akshar Spintex IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Akshar Spintex IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Akshar Spintex IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Akshar Spintex IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Akshar Spintex IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Akshar Spintex IPO opens on April 27, 2018 and closes on May 3, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Akshar Spintex IPO?",
+      "answer": "<div itemprop=\"text\"><p>Akshar Spintex IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Akshar Spintex IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Akshar Spintex IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Akshar Spintex IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Akshar Spintex IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/akshar-spintex-ipo/861/\" title=\"Akshar Spintex IPO Allotment Status\">Akshar Spintex IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Akshar Spintex IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Akshar Spintex IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Akshar Spintex",
+  "issue_price": "₹40.00",
+  "issue_price_numeric": 40,
+  "issue_size": "67,47,000 shares (aggregating up to ₹26.99 Cr)",
+  "issue_size_numeric": 67,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Pantomath Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/107/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/107/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "40.00"
+      },
+      "open": {
+        "bse_sme": "40.00"
+      },
+      "low": {
+        "bse_sme": "38.00"
+      },
+      "high": {
+        "bse_sme": "40.25"
+      },
+      "last_trade": {
+        "bse_sme": "38.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 11 2018",
+    "bse_script_code": "541303",
+    "nse_symbol": "AKSHAR",
+    "isin": "INE256Z01017",
+    "final_issue_price": "40 per share"
+  },
+  "listing_date": "2018-05-10T18:30:00.000Z",
+  "listing_gains": "-5.00%",
+  "listing_gains_numeric": -5,
+  "logo": "https://www.chittorgarh.net/images/ipo/akshar-spintex-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/akshar-spintex-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/akshar-spintex-ipo/861/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2018-04-26T18:30:00.000Z",
+  "pageHeading": "Akshar Spintex Limited IPO (Akshar Spintex IPO) Detail",
+  "pageTitle": "Akshar Spintex IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Akshar Spintex IPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/201832893642ASL_DP.pdf"
+    },
+    {
+      "text": "Akshar Spintex IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2018/akshar-spintex-limited_39012.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/akshar-spintex-ipo/861/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Akshar Spintex IPO offers 7092000 shares. 3201000 (45.14%) to NII 3201000 (45.14%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "345000 (4.86%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "3201000 (45.14%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3201000 (45.14%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "345000 (4.86%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "7092000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:15.713Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Akshar Spintex IPO is subscribed 5.49 times on May 3 2018 5:00:00 PM (Day 4). The public issue subscribed 9.24 times in the retail category [.] times in the QIB category and 1.71 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.71",
+        "shares_offered": "3201000",
+        "shares_bid_for": "5466000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "9.24",
+        "shares_offered": "3201000",
+        "shares_bid_for": "29589000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "5.49",
+        "shares_offered": "6402000",
+        "shares_bid_for": "35121000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 3 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:07.009Z",
+  "updated_at": "2025-04-18T18:22:15.713Z",
+  "year": 2018,
+  "worst_listing_gains": "-5.00%",
+  "worst_listing_gains_numeric": -5
+}

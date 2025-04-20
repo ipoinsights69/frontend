@@ -1,0 +1,444 @@
+{
+  "_id": "68024a013ccffd1c7912c7f7",
+  "ipo_id": "2024_sathlokhar_synergys_e_c_global_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:25:21.319Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sathlokhar-synergys-e-c-global-ipo/1790/"
+  },
+  "about": {
+    "details": "<p>Founded in 2013, Sathlokhar Synergys E&amp;C Global Limited, previously known as Lohats Ventures Private Limited, provides specialized engineering, procurement and construction (EPC) services for the construction of buildings and infrastructure facilities.</p>\n<p>Sathlokhar Synergys provides construction services for industrial, warehousing, commercial, institutional and pharmaceutical projects, solar projects, hospitals, hotels, resorts and villas etc. The company also provides installation of mechanical, electrical and plumbing networks in construction projects.</p>\n<p>The company has completed projects in 4 states of India, namely Tamil Nadu, Karnataka, Uttar Pradesh and West Bengal. The company also undertakes EPC projects for government agencies through competitive bidding processes. Sathlokhar Synergys is also an authorized dealer of TATA Power Solar Systems Ltd. for providing installation, sales, commissioning and maintenance services for its products as per mutually agreed terms and conditions in connection with its solar power projects.</p>\n<p>The company employs a total of 118 people in the departments of accounting and finance, human resources and administration, engineering and operations, procurement and material management and safety and security.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Sathlokhar Synergys E&C Global Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "10482.58",
+          "4782.28",
+          "4627.77"
+        ],
+        [
+          "Revenue",
+          "24732.09",
+          "8715.66",
+          "5851.51"
+        ],
+        [
+          "Profit After Tax",
+          "2621.43",
+          "545.55",
+          "87.87"
+        ],
+        [
+          "Net Worth",
+          "4053.08",
+          "1431.65",
+          "886.10"
+        ],
+        [
+          "Reserves and Surplus",
+          "3853.09",
+          "1231.66",
+          "686.11"
+        ],
+        [
+          "Total Borrowing",
+          "7.92",
+          "612.19",
+          "677.14"
+        ]
+      ]
+    },
+    {
+      "heading": "Sathlokhar Synergys E&c Global Limited Stock Quote & Charts",
+      "sanitizedHeading": "sathlokhar_synergys_ec_global_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROCE",
+          "87.33%"
+        ],
+        [
+          "RoNW",
+          "64.68%"
+        ],
+        [
+          "PAT Margin",
+          "10.61"
+        ],
+        [
+          "Price to Book Value",
+          "1.96"
+        ]
+      ]
+    },
+    {
+      "heading": "Sathlokhar Synergys E&c Global Limited Stock Quote & Charts",
+      "sanitizedHeading": "sathlokhar_synergys_ec_global_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "14.98",
+          "10.86"
+        ],
+        [
+          "P/E (x)",
+          "9.35",
+          "12.89"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Sathlokhar Synergys E&C Global IPO raises Rs 25.34 crore from anchor investors. Sathlokhar Synergys E&C Global IPO Anchor bid date is July 29 2024. Sathlokhar Synergys E&C Global IPO Anchor Investors list",
+    "list_link": {
+      "text": "Sathlokhar Synergys E&C Global IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sathlokhar_synergies_anchorallocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "October 31 2024",
+      "shares_offered": "1810000",
+      "anchor_portion_size": "25.34"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "July 30, 2024 to August 1, 2024",
+    "ipoListingDate": "Tue, Aug 6, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹140.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "66,38,000 shares (aggregating up to ₹92.93 Cr)",
+    "freshIssue": "66,38,000 shares (aggregating up to ₹92.93 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "6,00,000 shares",
+      "maker_name": "Giriraj Stock Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/245/"
+    },
+    "ipoOpenDate": "Tue, Jul 30, 2024",
+    "ipoCloseDate": "Thu, Aug 1, 2024",
+    "initiationOfRefunds": "Mon, Aug 5, 2024",
+    "creditOfSharesToDemat": "Mon, Aug 5, 2024",
+    "shareHoldingPreIssue": "1,74,99,992 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,74,99,992 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "86.49%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,41,37,992 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,41,37,992 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-07-31T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 7299541122",
+    "email": "cs@sathlokhar.com",
+    "full_address": "Sathlokhar Synergys E&amp;C Global Limited, Plot No. 5171 9th Street, Ram Nagar North Extension Madipakkam, Kanchipuram Saidapet - 600091",
+    "website": "http://www.sathlokhar.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.523Z",
+  "faqs": [
+    {
+      "question": "What is the Sathlokhar Synergys E&C Global IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sathlokhar Synergys E&amp;C Global IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6638000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->92.93<!-- --> Crores. The issue is priced at <span>₹140 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 30, 2024</b>, and <b>closes on <!-- -->August 1, 2024</b>.</p><p>Purva Sharegistry India Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sathlokhar Synergys E&C Global IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sathlokhar Synergys E&amp;C Global IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sathlokhar Synergys E&amp;C Global IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sathlokhar Synergys E&amp;C Global IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sathlokhar Synergys E&amp;C Global IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sathlokhar Synergys E&C Global IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sathlokhar Synergys E&amp;C Global IPO opens on July 30, 2024 and closes on August 1, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sathlokhar Synergys E&C Global IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sathlokhar Synergys E&amp;C Global IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,40,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sathlokhar Synergys E&C Global IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sathlokhar Synergys E&amp;C Global IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sathlokhar Synergys E&C Global IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sathlokhar Synergys E&amp;C Global IPO<!-- --> will be done on <!-- -->Friday, August 2, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, August 5, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/sathlokhar-synergys-e-c-global-ipo/1790/\" title=\"Sathlokhar Synergys E&amp;C Global IPO Allotment Status\">Sathlokhar Synergys E&amp;C Global IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sathlokhar Synergys E&C Global IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sathlokhar Synergys E&amp;C Global IPO<!-- --> listing date is on <b>Tuesday, August 6, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sathlokhar Synergys E&C Global",
+  "issue_price": "₹140.00",
+  "issue_price_numeric": 140,
+  "issue_size": "66,38,000 shares (aggregating up to ₹92.93 Cr)",
+  "issue_size_numeric": 66,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "GYR Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/182/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/182/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "140.00"
+      },
+      "open": {
+        "nse_sme": "260.00"
+      },
+      "low": {
+        "nse_sme": "247.00"
+      },
+      "high": {
+        "nse_sme": "260.00"
+      },
+      "last_trade": {
+        "nse_sme": "247.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "August 6 2024",
+    "nse_symbol": "SSEGL",
+    "isin": "INE0RFP01011",
+    "final_issue_price": "140 per share"
+  },
+  "listing_date": "2024-08-05T18:30:00.000Z",
+  "listing_gains": "76.43%",
+  "listing_gains_numeric": 76.43,
+  "logo": "https://www.chittorgarh.net/images/ipo/sathlokhar-synergys-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sathlokhar-synergys-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "140000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "140000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "280000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sathlokhar-synergys-e-c-global-ipo/1790/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-07-29T18:30:00.000Z",
+  "pageHeading": "Sathlokhar Synergys E&C Global Limited IPO (Sathlokhar Synergys E&C Global IPO) Detail",
+  "pageTitle": "Sathlokhar Synergys E&C Global IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. G Thiyagu Ms. Sangeethaa Thiyagu and Mr. Dinesh Sankaran are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "86.49%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sathlokhar Synergys E&C Global IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SathlokharSynergys_DRHP.zip"
+    },
+    {
+      "text": "Sathlokhar Synergys E&C Global IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SathlokharSynergys_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Sathlokhar Synergys E&C Global IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sathlokhar_synergies_anchorallocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sathlokhar-synergys-e-c-global-ipo/1790/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Purva Sharegistry India Pvt Ltd",
+    "phone": "+91-022-23018261/ 23016761",
+    "email": "support@purvashare.com",
+    "website": "https://www.purvashare.com/investor-service/ipo-query"
+  },
+  "reservation": {
+    "summary": "Sathlokhar Synergys E&C Global IPO offers 6638000 shares. 1208000 (18.20%) to QIB 906000 (13.65%) to NII 2114000 (31.85%) to RII and 1810000 (27.27%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1810000 (27.27%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "600000 (9.04%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1208000 (18.20%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "906000 (13.65%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2114000 (31.85%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6638000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.523Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sathlokhar Synergys E&C Global IPO is subscribed 211.13 times on August 1 2024 6:20:00 PM (Day 3). The public issue subscribed 160.47 times in the retail category 171.55 times in the QIB category and 382.11 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "171.55",
+        "shares_offered": "1208000",
+        "shares_bid_for": "207238000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "382.11",
+        "shares_offered": "906000",
+        "shares_bid_for": "346189000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "160.47",
+        "shares_offered": "2114000",
+        "shares_bid_for": "339228000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "211.13",
+        "shares_offered": "4228000",
+        "shares_bid_for": "892655000"
+      }
+    },
+    "total_applications": "339228",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 1 2024",
+    "tentative_allotment": "Fri Aug 2 2024",
+    "initiation_of_refunds": "Mon Aug 5 2024",
+    "credit_of_shares_to_demat": "Mon Aug 5 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:13.458Z",
+  "updated_at": "2025-04-18T12:48:01.523Z",
+  "year": 2024,
+  "worst_listing_gains": "76.43%",
+  "worst_listing_gains_numeric": 76.43
+}

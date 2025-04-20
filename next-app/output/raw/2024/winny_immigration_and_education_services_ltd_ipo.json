@@ -1,0 +1,427 @@
+{
+  "_id": "68024a033ccffd1c7912c839",
+  "ipo_id": "2024_winny_immigration_and_education_services_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:28:37.711Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/winny-immigration-ipo/1753/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2008, Winny Immigration and Education Services Ltd. is primarily involved in the visa consultancy business. The company assists individuals for study, travel, work, business, and migration purposes.</p>\n<p>The company has assisted thousands of clients with immigration and visa processes, providing visa consultancy. With decades of experience and a network of 12 strategically located offices, they have effectively guided many clients through these complex procedures.</p>\n<p>Winny offers visa guidance, immigration assistance, and documentation services.</p>\n<p>The company provides consultations for the following services:</p>\n<p>1. Training for Language Proficiency Examinations,</p>\n<p>2. Consulting and processing a variety of Temporary Residence Visas,</p>\n<p>3. Consulting and processing Permanent Residency Visas.</p>\n<p>The company has 12 offices in Gujarat, Maharashtra, and Delhi, including branches, franchisees, and a virtual office in Canada.</p>\n<p>As of March 31, 2024, the company has employed around 145 employees at various levels of the Organization.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Winny Immigration and Education Services Ltd Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "542.84",
+          "541.93",
+          "276.26"
+        ],
+        [
+          "Revenue",
+          "1102.12",
+          "1197.91",
+          "1004.07"
+        ],
+        [
+          "Profit After Tax",
+          "39.27",
+          "144.71",
+          "127.63"
+        ],
+        [
+          "Net Worth",
+          "230.72",
+          "191.46",
+          "46.75"
+        ],
+        [
+          "Reserves and Surplus",
+          "78.92",
+          "188.16",
+          "43.45"
+        ],
+        [
+          "Total Borrowing",
+          "206.84",
+          "232.02",
+          "127.91"
+        ]
+      ]
+    },
+    {
+      "heading": "Winny Immigration & Education Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "winny_immigration_education_services_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "18.60%"
+        ],
+        [
+          "ROCE",
+          "15.74%"
+        ],
+        [
+          "Debt/Equity",
+          "0.90"
+        ],
+        [
+          "RoNW",
+          "17.02%"
+        ],
+        [
+          "Price to Book Value",
+          "9.21"
+        ]
+      ]
+    },
+    {
+      "heading": "Winny Immigration & Education Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "winny_immigration_education_services_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.59",
+          "1.81"
+        ],
+        [
+          "P/E (x)",
+          "54.12",
+          "77.36"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 20, 2024 to June 24, 2024",
+    "ipoListingDate": "Thu, Jun 27, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹140.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "6,52,000 shares (aggregating up to ₹9.13 Cr)",
+    "freshIssue": "6,52,000 shares (aggregating up to ₹9.13 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "34,000 shares",
+      "maker_name": "Aftertrade Broking Pvt Ltd",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/335/"
+    },
+    "ipoOpenDate": "Thu, Jun 20, 2024",
+    "ipoCloseDate": "Mon, Jun 24, 2024",
+    "initiationOfRefunds": "Wed, Jun 26, 2024",
+    "creditOfSharesToDemat": "Wed, Jun 26, 2024",
+    "shareHoldingPreIssue": "15,18,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "15,18,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "83.63%"
+      }
+    ],
+    "shareHoldingPostIssue": "21,70,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "21,70,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "58.51%"
+      }
+    ]
+  },
+  "closing_date": "2024-06-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "079-61906190",
+    "email": "compliance@winnyimmigration.com",
+    "full_address": "Winny Immigration and Education Services Ltd, 103-104 ATP Arcade Above Mr. Bean's Coffee Shop, Nr. National Handloom House, Law Garden Ahmedabad- 380006",
+    "website": "https://winnyimmigration.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.811Z",
+  "faqs": [
+    {
+      "question": "What is the Winny Immigration IPO?",
+      "answer": "<div itemprop=\"text\"><p>Winny Immigration IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->652000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->9.13<!-- --> Crores. The issue is priced at <span>₹140 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 20, 2024</b>, and <b>closes on <!-- -->June 24, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Winny Immigration IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Winny Immigration IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Winny Immigration IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Winny Immigration IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Winny Immigration IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Winny Immigration IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Winny Immigration IPO opens on June 20, 2024 and closes on June 24, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Winny Immigration IPO?",
+      "answer": "<div itemprop=\"text\"><p>Winny Immigration IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,40,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Winny Immigration IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Winny Immigration IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Winny Immigration IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Winny Immigration IPO<!-- --> will be done on <!-- -->Tuesday, June 25, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, June 26, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/winny-immigration-ipo/1753/\" title=\"Winny Immigration IPO Allotment Status\">Winny Immigration IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Winny Immigration IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Winny Immigration IPO<!-- --> listing date is on <b>Thursday, June 27, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Winny Immigration and Education Services",
+  "issue_price": "₹140.00",
+  "issue_price_numeric": 140,
+  "issue_size": "6,52,000 shares (aggregating up to ₹9.13 Cr)",
+  "issue_size_numeric": 6,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Interactive Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/188/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/188/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "140.00"
+      },
+      "open": {
+        "nse_sme": "240.00"
+      },
+      "low": {
+        "nse_sme": "240.00"
+      },
+      "high": {
+        "nse_sme": "252.00"
+      },
+      "last_trade": {
+        "nse_sme": "252.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "June 27 2024",
+    "nse_symbol": "WINNY",
+    "isin": "INE0S9101013",
+    "final_issue_price": "140 per share"
+  },
+  "listing_date": "2024-06-26T18:30:00.000Z",
+  "listing_gains": "80.00%",
+  "listing_gains_numeric": 80,
+  "logo": "https://www.chittorgarh.net/images/ipo/winny_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/winny_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "140000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "140000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "280000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/winny-immigration-ipo/1753/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-06-19T18:30:00.000Z",
+  "pageHeading": "Winny Immigration and Education Services Ltd IPO (Winny Immigration IPO) Detail",
+  "pageTitle": "Winny Immigration IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoter of the company is Jignesh Patel.",
+    "holdings": {
+      "share_holding_pre_issue": "83.63%",
+      "share_holding_post_issue": "58.51%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Winny Immigration IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/WinnyImmigration_DP.zip"
+    },
+    {
+      "text": "Winny Immigration IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_WINNY.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/winny-immigration-ipo/1753/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Winny Immigration IPO offers 652000 shares. 309000 (47.39%) to NII 309000 (47.39%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "34000 (5.21%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "309000 (47.39%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "309000 (47.39%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "652000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.811Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Winny Immigration IPO is subscribed 154.67 times on June 24 2024 6:19:56 PM (Day 3). The public issue subscribed 190.66 times in the retail category [.] times in the QIB category and 109.65 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "109.65",
+        "shares_offered": "309000",
+        "shares_bid_for": "33881000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "190.66",
+        "shares_offered": "309000",
+        "shares_bid_for": "58915000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "154.67",
+        "shares_offered": "618000",
+        "shares_bid_for": "95583000"
+      }
+    },
+    "total_applications": "58915",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 24 2024",
+    "tentative_allotment": "Tue Jun 25 2024",
+    "initiation_of_refunds": "Wed Jun 26 2024",
+    "credit_of_shares_to_demat": "Wed Jun 26 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:22.069Z",
+  "updated_at": "2025-04-18T12:48:03.811Z",
+  "year": 2024,
+  "worst_listing_gains": "80.00%",
+  "worst_listing_gains_numeric": 80
+}

@@ -1,0 +1,459 @@
+{
+  "_id": "6802936b3ccffd1c7912ca9e",
+  "ipo_id": "2022_radiant_cash_management_services_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:54:40.579Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/radiant-cash-management-ipo/1355/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2005, Radiant Cash Management Services Limited is the <strong>market leader in retail cash management services for banks, financial institutions, and organized retail and e-commerce companies in India.</strong> The company offers a range of services under this segment consisting of collection and delivery of cash on behalf of our clients from the end user.</p>\n<p>The company's management is supported by a qualified and motivated pool of about 2,012 employees (as of July 31, 2022).</p>\n<p><strong>The main objects of the Company are:</strong></p>\n<ul>\n<li>To carry on the business of providing to Banks, Individuals, Commercial and Government Establishments, Cash/Cheques/DDs Pickup and Delivery Services, Cash Processing such as sorting for good and soiled currencies, notes, coins of various denominations, Overnight vaulting services for bulk cash and ATM cards, Cassettes &amp; important documents, ATM Services, Handling of PIN mailers/drafts/cheque book delivery, Providing strong rooms installed as per RBI guidelines.</li>\n</ul>\n<ul>\n<li>To carry on the business of management of electronic online and mobile financial and cash transactions and product management and development of intellectual property in the area of cash management.</li>\n</ul>\n<ul>\n<li>To carry on any business regarding cash management under Business Process Outsourcing.</li>\n</ul>\n<p>The company is one of the largest players in the RCM segment in terms of network locations or touch points served as of March 31, 2022.</p>\n<p>Radiant Cash Management Services provide services across 13,044 pin codes in India covering all districts (other than Lakshadweep) with about 55,513 touchpoints serving more than 5,388 locations as of July 31, 2022.</p>\n<p>The company's key clients are Axis Bank Limited, Citibank, Deutsche Bank Limited, HDFC Bank Limited, ICICI Bank Limited, Kotak Mahindra Bank, Standard Chartered Bank, State Bank of India, The Hongkong and Shanghai Banking Corporation Limited and Yes Bank Limited.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-19",
+          "141.44",
+          "223.13",
+          "25.02",
+          "105.72",
+          "17.73"
+        ],
+        [
+          "31-Mar-20",
+          "157.62",
+          "251.78",
+          "36.5",
+          "119.57",
+          "21.13"
+        ],
+        [
+          "31-Mar-21",
+          "162.14",
+          "224.16",
+          "32.43",
+          "127.1",
+          "11.05"
+        ],
+        [
+          "31-Mar-22",
+          "190.57",
+          "286.97",
+          "38.21",
+          "139.76",
+          "26.75"
+        ],
+        [
+          "30-Jun-22",
+          "203.95",
+          "84.38",
+          "15.32",
+          "155.19",
+          "25.54"
+        ]
+      ]
+    },
+    {
+      "heading": "Radiant Cash Management Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "radiant_cash_management_services_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "17.34",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 23, 2022 to December 27, 2022",
+    "ipoListingDate": "Wed, Jan 4, 2023",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹94.00",
+    "lotSize": "150 Shares",
+    "issueSize": "2,66,76,977 shares (aggregating up to ₹256.64 Cr)",
+    "freshIssue": "54,54,546 shares (aggregating up to ₹54.00 Cr)",
+    "offerForSale": "2,12,22,431 shares of ₹1 (aggregating up to ₹202.64 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Dec 23, 2022",
+    "ipoCloseDate": "Tue, Dec 27, 2022",
+    "initiationOfRefunds": "Mon, Jan 2, 2023",
+    "creditOfSharesToDemat": "Tue, Jan 3, 2023",
+    "shareHoldingPreIssue": "10,12,53,360 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "10,12,53,360 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "66.39%"
+      }
+    ],
+    "shareHoldingPostIssue": "10,67,07,906 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "10,67,07,906 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "53.21%"
+      }
+    ]
+  },
+  "closing_date": "2022-12-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 044 4904 4904",
+    "email": "jayabharathi@radiantcashlogistics.com",
+    "full_address": "Radiant Cash Management Services Limited, 28 Vijayaraghava Road, T. Nagar Chennai 600 017, Tamil Nadu India",
+    "website": "https://radiantcashservices.com/"
+  },
+  "createdAt": "2025-04-18T18:01:15.040Z",
+  "faqs": [
+    {
+      "question": "What is the Radiant Cash Management IPO?",
+      "answer": "<div itemprop=\"text\"><p>Radiant Cash Management IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->26676977<!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->256.64<!-- --> Crores. The issue is priced at <span>₹94 per share</span>. The minimum order quantity is <!-- -->150<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 23, 2022</b>, and <b>closes on <!-- -->December 27, 2022</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Radiant Cash Management IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Radiant Cash Management IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Radiant Cash Management IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Radiant Cash Management IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Radiant Cash Management IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Radiant Cash Management IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Radiant Cash Management IPO opens on December 23, 2022 and closes on December 27, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Radiant Cash Management IPO?",
+      "answer": "<div itemprop=\"text\"><p>Radiant Cash Management IPO<!-- --> <b>lot size is <!-- -->150</b>, and the <b>minimum amount required is <span>₹14,850</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Radiant Cash Management IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Radiant Cash Management IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Radiant Cash Management IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Radiant Cash Management IPO<!-- --> will be done on <!-- -->Friday, December 30, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, January 3, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/radiant-cash-management-ipo/1355/\" title=\"Radiant Cash Management IPO Allotment Status\">Radiant Cash Management IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Radiant Cash Management IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Radiant Cash Management IPO<!-- --> listing date is on <b>Wednesday, January 4, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Radiant Cash Management Services",
+  "issue_price": "₹94.00",
+  "issue_price_numeric": 94,
+  "issue_size": "2,66,76,977 shares (aggregating up to ₹256.64 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    },
+    {
+      "name": "Yes Securities",
+      "url": "/report/ipo-lead-manager-review/112/136/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/136/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "94.00",
+        "nse": "94.00"
+      },
+      "open": {
+        "bse": "99.30",
+        "nse": "103.00"
+      },
+      "low": {
+        "bse": "98.00",
+        "nse": "98.10"
+      },
+      "high": {
+        "bse": "116.70",
+        "nse": "116.80"
+      },
+      "last_trade": {
+        "bse": "104.70",
+        "nse": "104.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "January 4 2023",
+    "bse_script_code": "543732",
+    "nse_symbol": "RADIANTCMS",
+    "isin": "INE855R01021",
+    "final_issue_price": "94 per share"
+  },
+  "listing_date": "2023-01-03T18:30:00.000Z",
+  "listing_gains": "11.38%",
+  "listing_gains_numeric": 11.38,
+  "logo": "https://www.chittorgarh.net/images/ipo/radiant-cash-management-services.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/radiant-cash-management-services.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 150 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "150",
+        "amount": "14850"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1950",
+        "amount": "193050"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "2100",
+        "amount": "207900"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "10050",
+        "amount": "994950"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "10200",
+        "amount": "1009800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/radiant-cash-management-ipo/1355/"
+    }
+  },
+  "lot_size": 150,
+  "opening_date": "2022-12-22T18:30:00.000Z",
+  "pageHeading": "Radiant Cash Management Services Limited IPO (Radiant Cash Management IPO) Detail",
+  "pageTitle": "Radiant Cash Management IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Col. David Devasahayam and Dr Renuka David are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "66.39%",
+      "share_holding_post_issue": "53.21%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Radiant Cash Management IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2021/radiant-cash-management-services-limited_53262.html"
+    },
+    {
+      "text": "Radiant Cash Management IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/radiant-cash-management-services-limited-prospectus_66859.html"
+    },
+    {
+      "text": "Anchor Investors in Radiant Cash Management IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20221222-48&attachedId=72e4bf4d-0abf-4306-8af1-026d92a63965"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "8",
+        "neutral": "1",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "9"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/radiant-cash-management-ipo/1355/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "radiant.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Radiant Cash Management IPO offers 27429925 shares. 7837121 (28.57%) to QIB 5877841 (21.43%) to NII 13714963 (50.00%) to RII. 91433 RIIs will receive minimum 150 shares and 932 (sNII) and 1865 (bNII) will receive minimum 2100 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "7837121 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "5877841 (21.43%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "3918560 (14.29%)",
+        "maximum_allottees": "1865"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1959281 (7.14%)",
+        "maximum_allottees": "932"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "13714963 (50.00%)",
+        "maximum_allottees": "91433"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "27429925 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:15.040Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Radiant Cash Management IPO is subscribed 0.53 times on December 27 2022 7:52:00 PM (Day 3). The public issue subscribed 0.21 times in the retail category 1.01 times in the QIB category and 0.66 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.01",
+        "shares_offered": "7837121",
+        "shares_bid_for": "7934550"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.66",
+        "shares_offered": "5877841",
+        "shares_bid_for": "3877200"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "0.94",
+        "shares_offered": "3918560",
+        "shares_bid_for": "3698850"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "0.09",
+        "shares_offered": "1959281",
+        "shares_bid_for": "178350"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.21",
+        "shares_offered": "13714963",
+        "shares_bid_for": "2815950"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "0.53",
+        "shares_offered": "27429925",
+        "shares_bid_for": "14627700"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 27 2022",
+    "tentative_allotment": "Fri Dec 30 2022",
+    "initiation_of_refunds": "Mon Jan 2 2023",
+    "credit_of_shares_to_demat": "Tue Jan 3 2023"
+  },
+  "updatedAt": "2025-04-19T04:38:33.556Z",
+  "updated_at": "2025-04-18T18:01:15.040Z",
+  "year": 2022,
+  "worst_listing_gains": "11.38%",
+  "worst_listing_gains_numeric": 11.38
+}

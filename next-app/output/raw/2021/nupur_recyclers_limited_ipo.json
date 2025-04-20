@@ -1,0 +1,355 @@
+{
+  "_id": "6802918b3ccffd1c7912ca06",
+  "ipo_id": "2021_nupur_recyclers_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:44:53.555Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/nupur-recyclers-ipo/1192/"
+  },
+  "about": {
+    "details": "<p>Nupur Recyclers is engaged in metal scrap processing &amp; recycling. The company is involved in the importing, manufacturing, and trading of non-ferrous metal scraps such as shredded zinc scrap, zinc die cast scrap, zurik ss scrap, and aluminium zorba grades. The company acts as an intermediary in the metals scrap supply chain where they import scrap metals from various suppliers and supply the same to customers in the Metal Business.</p>\n<p>The company has also added two new verticals of installation of charging stations in the Delhi NCR Region in collaboration with EVi Tech. Its also extracts Lithium-Ion, Cobalt, and Black Mass from the used mobile phone batteries and processes them to be used in refurbishments. The company derives the majority of its revenue from Zurik products.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>Positive cash flow of the company ·</li>\n<li>Excellent network management &amp; logistics</li>\n<li>Experienced and professional team</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Jun-21",
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "330.75",
+          "251.99",
+          "93.66",
+          "28.46"
+        ],
+        [
+          "Total Revenue",
+          "393.48",
+          "1049.72",
+          "132.14",
+          "9.06"
+        ],
+        [
+          "Profit After Tax",
+          "66.43",
+          "100.05",
+          "0.32",
+          "0.11"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 13, 2021 to December 15, 2021",
+    "ipoListingDate": "December 23, 2021",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹60.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹34.20 Cr)",
+    "freshIssue": "57,00,000 shares (aggregating up to ₹34.20 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "3,00,000 shares",
+    "ipoOpenDate": "Mon, Dec 13, 2021",
+    "ipoCloseDate": "Wed, Dec 15, 2021",
+    "shareHoldingPreIssue": "1,51,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,51,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.90%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,08,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,08,00,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.52%"
+      }
+    ]
+  },
+  "closing_date": "2021-12-14T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-8882704751",
+    "email": "compliance@nupurrecyclers.com",
+    "full_address": "Nupur Recyclers Limited, Plot No. 5 G/F Kh No. 12/8 &amp; 12/9 Kh-12, Arjun Gali New Mandoli Industrial Area, North East Delhi-110093",
+    "website": "https://www.nupurrecyclers.com/"
+  },
+  "createdAt": "2025-04-18T17:53:15.307Z",
+  "faqs": [
+    {
+      "question": "What is the Nupur Recyclers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Nupur Recyclers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->34.20<!-- --> Crores. The issue is priced at <span>₹60 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 13, 2021</b>, and <b>closes on <!-- -->December 15, 2021</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Nupur Recyclers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Nupur Recyclers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Nupur Recyclers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Nupur Recyclers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Nupur Recyclers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Nupur Recyclers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Nupur Recyclers IPO opens on December 13, 2021 and closes on December 15, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Nupur Recyclers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Nupur Recyclers IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Nupur Recyclers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Nupur Recyclers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Nupur Recyclers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Nupur Recyclers IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/nupur-recyclers-ipo/1192/\" title=\"Nupur Recyclers IPO Allotment Status\">Nupur Recyclers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Nupur Recyclers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Nupur Recyclers IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Nupur Recyclers",
+  "issue_price": "₹60.00",
+  "issue_price_numeric": 60,
+  "issue_size": "[.] shares (aggregating up to ₹34.20 Cr)",
+  "issue_size_numeric": 34.2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Corporate Capitalventures Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/143/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/143/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "60.00"
+      },
+      "open": {
+        "nse_sme": "74.00"
+      },
+      "low": {
+        "nse_sme": "70.35"
+      },
+      "high": {
+        "nse_sme": "77.70"
+      },
+      "last_trade": {
+        "nse_sme": "77.70"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "December 23 2021",
+    "nse_symbol": "NRL",
+    "isin": "INE0JM501013",
+    "final_issue_price": "60 per share"
+  },
+  "listing_date": "2021-12-22T18:30:00.000Z",
+  "listing_gains": "29.50%",
+  "listing_gains_numeric": 29.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/nupur-recyclers-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/nupur-recyclers-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/nupur-recyclers-ipo/1192/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2021-12-12T18:30:00.000Z",
+  "pageHeading": "Nupur Recyclers Limited IPO (Nupur Recyclers IPO) Detail",
+  "pageTitle": "Nupur Recyclers IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Rajesh Gupta and Mr. Anoop Garg are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "99.90%",
+      "share_holding_post_issue": "72.52%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Nupur Recyclers IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Nupur_Rec_DP.pdf"
+    },
+    {
+      "text": "Nupur Recyclers IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/nupur-recyclers-limited-sme-issue-prospectus_55010.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/nupur-recyclers-ipo/1192/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "compliances@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Nupur Recyclers IPO offers 5700000 shares. 2700000 (47.37%) to NII 2700000 (47.37%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "300000 (5.26%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2700000 (47.37%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2700000 (47.37%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5700000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:15.307Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Nupur Recyclers IPO is subscribed 43.67 times on December 15 2021 5:01:00 PM (Day 3). The public issue subscribed 34.23 times in the retail category [.] times in the QIB category and 53.12 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "53.12",
+        "shares_offered": "2700000",
+        "shares_bid_for": "143420000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "34.23",
+        "shares_offered": "2700000",
+        "shares_bid_for": "92412000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "43.67",
+        "shares_offered": "5400000",
+        "shares_bid_for": "235832000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 15 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:12.677Z",
+  "updated_at": "2025-04-18T17:53:15.307Z",
+  "year": 2021,
+  "worst_listing_gains": "29.50%",
+  "worst_listing_gains_numeric": 29.5
+}

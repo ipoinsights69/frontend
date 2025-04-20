@@ -1,0 +1,330 @@
+{
+  "_id": "680298593ccffd1c7912cbef",
+  "ipo_id": "2018_roni_households_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:11:46.269Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/roni-households-ipo/952/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2017, Jalgaon, Maharashtra based Roni Household Limited is a company engaged in the trading of plastic granules and plastic household products which includes tubs, buckets, ghamelas etc. </p><p>Roni intends to further expand its business by manufacturing plastic products for household use. It has taken a land on lease in MIDC Jalgaon for the proposed manufacturing unit.</p><p>In the first 6 months of its operations, the company has posted Sales, EBIDTA and Profit after Tax (PAT) of Rs 429.70 lakhs, Rs 10.58 lakhs and Rs 7.80 lakhs respectively.</p><p>The company has  9 employees (including two Executive Directors) on its payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Aug-18",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "557.90",
+          "348.04"
+        ],
+        [
+          "Total Revenue",
+          "73.87",
+          "429.70"
+        ],
+        [
+          "Profit After Tax",
+          "1.62",
+          "7.80"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "November 19, 2018 to November 22, 2018",
+    "ipoListingDate": "December 3, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹20.00",
+    "lotSize": "6,000 Shares",
+    "issueSize": "15,00,000 shares (aggregating up to ₹3.00 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "84,000 shares",
+    "ipoOpenDate": "Mon, Nov 19, 2018",
+    "ipoCloseDate": "Thu, Nov 22, 2018",
+    "shareHoldingPreIssue": "28,35,946 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "28,35,946 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "28,35,946 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "28,35,946 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-11-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 77965 42369",
+    "email": "info@ronihouseholds.com",
+    "full_address": "Roni Households Limited, Plot No. F - 55, Addl. MIDC Area, Ajanta Road Jalgaon - 425003",
+    "website": "http://www.ronihouseholds.com/"
+  },
+  "createdAt": "2025-04-18T18:22:17.568Z",
+  "faqs": [
+    {
+      "question": "What is the Roni Households IPO?",
+      "answer": "<div itemprop=\"text\"><p>Roni Households IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1500000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->3.00<!-- --> Crores. The issue is priced at <span>₹20 per share</span>. The minimum order quantity is <!-- -->6000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 19, 2018</b>, and <b>closes on <!-- -->November 22, 2018</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Roni Households IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Roni Households IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Roni Households IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Roni Households IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Roni Households IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Roni Households IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Roni Households IPO opens on November 19, 2018 and closes on November 22, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Roni Households IPO?",
+      "answer": "<div itemprop=\"text\"><p>Roni Households IPO<!-- --> <b>lot size is <!-- -->6000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Roni Households IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Roni Households IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Roni Households IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Roni Households IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/roni-households-ipo/952/\" title=\"Roni Households IPO Allotment Status\">Roni Households IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Roni Households IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Roni Households IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Roni Households",
+  "issue_price": "₹20.00",
+  "issue_price_numeric": 20,
+  "issue_size": "15,00,000 shares (aggregating up to ₹3.00 Cr)",
+  "issue_size_numeric": 15,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Aryaman Financial Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/77/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/77/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "20.00"
+      },
+      "open": {
+        "bse_sme": "20.05"
+      },
+      "low": {
+        "bse_sme": "20.40"
+      },
+      "high": {
+        "bse_sme": "20.50"
+      },
+      "last_trade": {
+        "bse_sme": "20.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 3 2018",
+    "bse_script_code": "542145",
+    "isin": "INE02AP01013",
+    "final_issue_price": "20 per share"
+  },
+  "listing_date": "2018-12-02T18:30:00.000Z",
+  "listing_gains": "2.50%",
+  "listing_gains_numeric": 2.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/roni-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/roni-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 6000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "12000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/roni-households-ipo/952/"
+    }
+  },
+  "lot_size": 6,
+  "opening_date": "2018-11-18T18:30:00.000Z",
+  "pageHeading": "Roni Households Limited IPO (Roni Households IPO) Detail",
+  "pageTitle": "Roni Households IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Roni Households IPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/2018104164853DRHP_Roni%20Households%20Limited.pdf"
+    },
+    {
+      "text": "Roni Households IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2018/roni-households-ltd_41239.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/roni-households-ipo/952/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Roni Households IPO offers 1500000 shares. 708000 (47.20%) to NII 708000 (47.20%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "84000 (5.60%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "708000 (47.20%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "708000 (47.20%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1500000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:17.568Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Roni Households IPO is subscribed 1.12 times on November 22 2018 7:49:03 PM (Day 4). The public issue subscribed 1.76 times in the retail category [.] times in the QIB category and 0.48 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.48",
+        "shares_offered": "708000",
+        "shares_bid_for": "342000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.76",
+        "shares_offered": "708000",
+        "shares_bid_for": "1248000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.12",
+        "shares_offered": "1416000",
+        "shares_bid_for": "1590000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 22 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:20.414Z",
+  "updated_at": "2025-04-18T18:22:17.568Z",
+  "year": 2018,
+  "worst_listing_gains": "2.50%",
+  "worst_listing_gains_numeric": 2.5
+}

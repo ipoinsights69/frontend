@@ -1,0 +1,20 @@
+{
+  "total_ipos": 1359,
+  "current_year": {
+    "year": 2025,
+    "count": 65
+  },
+  "status": {
+    "upcoming": 1,
+    "open": 0,
+    "closed": 0,
+    "listed": 1358,
+    "unknown": 0
+  },
+  "best_performer": {
+    "ipo_id": "winsol_engineers_limited_ipo",
+    "ipo_name": "Winsol Engineers",
+    "company_name": "Winsol Engineers",
+    "listing_gain": 411
+  }
+}

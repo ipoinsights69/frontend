@@ -1,0 +1,292 @@
+{
+  "_id": "680298533ccffd1c7912cae1",
+  "ipo_id": "2017_bansal_multiflex_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": false,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:08:47.461Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/bansal-multiflex-ipo/676/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2013, Bansal Multiflex Ltd (BML) is engaged in trading of cloth, different type of semi furnished fabrics, varieties of finished fabrics. They are also engaged in trading of different type of chemicals primarily used in making detergent and soaps.</p><p>BML also engages services of third party job workers for processing of grey cloth which includes dying, bleaching, printing, drying etc. The company sells the semi-finished and finished product to garment houses for manufacturing of garments in the apparel industry. BML’s Product portfolio comprises of Grey fabric, Cotton Fabric, Dress materials, Matching Twill Fabrics, Satin fabrics, Slub Satin Fabrics, Cotton Slub fabrics, Dobby fabrics, Meti fabrics, Jute Fabrics, Denim Fabric, Xford Fabrics, Rencho Fabrics, Micro Cotton Fabrics and Raymond Cotton Fabrics under the spectrum of fabric and cloth and Acid Slury (LABSA),AOS Chemicals, Caustic Flakes, Caustic Soda Flakes under the spectrum of chemicals.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lacs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "1981.94",
+          "58.93",
+          "18.36",
+          "130.47"
+        ],
+        [
+          "Total Revenue",
+          "1176.97",
+          "213.45",
+          "177.43",
+          "140.38"
+        ],
+        [
+          "Profit After Tax",
+          "37.72",
+          "2.11",
+          "1.35",
+          "0.40"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 30, 2017 to July 4, 2017",
+    "ipoListingDate": "July 12, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹31.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "20,00,000 shares (aggregating up to ₹6.20 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "ipoOpenDate": "Fri, Jun 30, 2017",
+    "ipoCloseDate": "Tue, Jul 4, 2017",
+    "shareHoldingPreIssue": "54,10,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "54,10,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "74,10,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "74,10,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-07-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "079-25454570",
+    "email": "CS@bansalmultiflex.com",
+    "full_address": "Bansal Multiflex Ltd, 72 The Nutan Guj. Co Op Shops and Warehouse, Soc O/S Raipur Gate, Near Laxmi Cotton Mill",
+    "website": "http://www.bansalmultiflex.com"
+  },
+  "createdAt": "2025-04-18T18:22:11.544Z",
+  "faqs": [
+    {
+      "question": "What is the Bansal Multiflex IPO?",
+      "answer": "<div itemprop=\"text\"><p>Bansal Multiflex IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2000000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->6.20<!-- --> Crores. The issue is priced at <span>₹31 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 30, 2017</b>, and <b>closes on <!-- -->July 4, 2017</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Bansal Multiflex IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Bansal Multiflex IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Bansal Multiflex IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Bansal Multiflex IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Bansal Multiflex IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Bansal Multiflex IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Bansal Multiflex IPO opens on June 30, 2017 and closes on July 4, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Bansal Multiflex IPO?",
+      "answer": "<div itemprop=\"text\"><p>Bansal Multiflex IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,24,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Bansal Multiflex IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Bansal Multiflex IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Bansal Multiflex IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Bansal Multiflex IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/bansal-multiflex-ipo/676/\" title=\"Bansal Multiflex IPO Allotment Status\">Bansal Multiflex IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Bansal Multiflex IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Bansal Multiflex IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Bansal Multiflex",
+  "issue_price": "₹31.00",
+  "issue_price_numeric": 31,
+  "issue_size": "20,00,000 shares (aggregating up to ₹6.20 Cr)",
+  "issue_size_numeric": 20,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Pantomath Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/107/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/107/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "31.00"
+      },
+      "open": {
+        "nse_sme": "34.00"
+      },
+      "low": {
+        "nse_sme": "32.70"
+      },
+      "high": {
+        "nse_sme": "36.85"
+      },
+      "last_trade": {
+        "nse_sme": "35.70"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "July 12 2017",
+    "nse_symbol": "BANSAL",
+    "isin": "INE668X01018",
+    "final_issue_price": "31 per share"
+  },
+  "listing_date": "2017-07-11T18:30:00.000Z",
+  "listing_gains": "15.16%",
+  "listing_gains_numeric": 15.16,
+  "logo": "https://www.chittorgarh.net/images/ipo/bansal_multiflex_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/bansal_multiflex_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "124000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "124000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "248000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/bansal-multiflex-ipo/676/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2017-06-29T18:30:00.000Z",
+  "pageHeading": "Bansal Multiflex Ltd IPO (Bansal Multiflex IPO) Detail",
+  "pageTitle": "Bansal Multiflex IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Bansal Multiflex IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/BML_DP.pdf"
+    },
+    {
+      "text": "Bansal Multiflex IPO RHP",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2017/1498036148359.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/bansal-multiflex-ipo/676/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "scraped_at": "2025-04-18T18:22:11.544Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Bansal Multiflex IPO is subscribed [.] times on July 4 2017 5:00:00 PM (Day 3). The public issue subscribed [.] times in the retail category [.] times in the QIB category and [.] times in the NII category. Check Day by Day Subscription Details (Live Status)"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 4 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:42.658Z",
+  "updated_at": "2025-04-18T18:22:11.544Z",
+  "year": 2017,
+  "worst_listing_gains": "15.16%",
+  "worst_listing_gains_numeric": 15.16
+}

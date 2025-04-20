@@ -1,0 +1,358 @@
+{
+  "_id": "6802985b3ccffd1c7912cc45",
+  "ipo_id": "2019_mahip_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:20:49.900Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/mahip-industries-ipo/968/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1995, Ahmedabad based Mahip Industries Limited is a company engaged in the manufacturing of packaging materials.</p><p>The company's product portfolio includes Stagguard, Box, Corrugated Boxes, Corrugated Boxes with Partition, Corrugated Boxes With Lid, Printed Corrugated Boxes, Customized Corrugated Boxes, Laminated Corrugated Boxes, Bituminized corrugated boxes, Corrugated Cartons/Printed, Corrugated Cartons, Heavy Duty Corrugated Boxes, Multicolor Printed Cartons, Corrugated Sheets, Corrugated Paper Rolls, Auto Slot Boxes &amp; Die Cut Boxes etc. </p><p>The company has a facility with an installed capacity of 3500 tons per annum and intends to increase the existing capacity to 8352 tons in near future.</p><p>Currently, the company does its business in Gujarat, through its network of dealer/distributor /agents. It also sells directly to the customers. It intends to enter and capture new markets in other states.</p><p>It has 50 full-time employees on its payroll.</p><p>Competitive Strengths of the Company-</p><p>1. Over 2 decades of experience in the industry<br>2. Varied product portfolio<br>3. In- House logistic support</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "6638.06",
+          "5338.20",
+          "5357.69",
+          "5053.27",
+          "4225.99"
+        ],
+        [
+          "Total Revenue",
+          "14077.26",
+          "10782.57",
+          "10439.44",
+          "9308.07",
+          "9286.37"
+        ],
+        [
+          "Profit After Tax",
+          "414.13",
+          "121.86",
+          "111.33",
+          "93.72",
+          "103.26"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 26, 2019 to March 1, 2019",
+    "ipoListingDate": "March 12, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹32.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "51,96,000 shares (aggregating up to ₹16.63 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "2,60,000 shares",
+    "ipoOpenDate": "Tue, Feb 26, 2019",
+    "ipoCloseDate": "Fri, Mar 1, 2019",
+    "shareHoldingPreIssue": "1,40,43,984 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,40,43,984 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "89.60%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,92,39,984 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,92,39,984 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "65.41%"
+      }
+    ]
+  },
+  "closing_date": "2019-02-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 - 79 - 4004 8788",
+    "email": "cs@careccl.com",
+    "full_address": "Mahip Industries Limited, Survey No. 127 Jalalpur - Godhneshwar, Dholka - Bagodara Highway, Ahmedabad - 387 810",
+    "website": "http://www.mahipindustriesltd.in/"
+  },
+  "createdAt": "2025-04-18T18:22:19.297Z",
+  "faqs": [
+    {
+      "question": "What is the Mahip Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mahip Industries IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5196000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->16.63<!-- --> Crores. The issue is priced at <span>₹32 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 26, 2019</b>, and <b>closes on <!-- -->March 1, 2019</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Mahip Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Mahip Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Mahip Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Mahip Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Mahip Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Mahip Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Mahip Industries IPO opens on February 26, 2019 and closes on March 1, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Mahip Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mahip Industries IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,28,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Mahip Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Mahip Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Mahip Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Mahip Industries IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/mahip-industries-ipo/968/\" title=\"Mahip Industries IPO Allotment Status\">Mahip Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Mahip Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Mahip Industries IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Mahip Industries",
+  "issue_price": "₹32.00",
+  "issue_price_numeric": 32,
+  "issue_size": "51,96,000 shares (aggregating up to ₹16.63 Cr)",
+  "issue_size_numeric": 51,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Finshore Management Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/147/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/147/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "32.00"
+      },
+      "open": {
+        "bse_sme": "32.00"
+      },
+      "low": {
+        "bse_sme": "32.00"
+      },
+      "high": {
+        "bse_sme": "33.60"
+      },
+      "last_trade": {
+        "bse_sme": "33.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 12 2019",
+    "bse_script_code": "542503",
+    "isin": "INE00CX01017",
+    "final_issue_price": "32 per share"
+  },
+  "listing_date": "2019-03-11T18:30:00.000Z",
+  "listing_gains": "5.00%",
+  "listing_gains_numeric": 5,
+  "logo": "https://www.chittorgarh.net/images/ipo/mahip-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/mahip-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "128000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "128000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "256000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/mahip-industries-ipo/968/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2019-02-25T18:30:00.000Z",
+  "pageHeading": "Mahip Industries Limited IPO (Mahip Industries IPO) Detail",
+  "pageTitle": "Mahip Industries IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Rajiv Govindram Agrawaland Rajiv Govindram Agrawal HUF.",
+    "holdings": {
+      "share_holding_pre_issue": "89.60%",
+      "share_holding_post_issue": "65.41%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Mahip Industries IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/379020/IPO/DRHP_Mahip_15.02.2019_20190216175132.pdf"
+    },
+    {
+      "text": "Mahip Industries IPO RHP",
+      "url": "http://www.bseindia.com/downloads/ipo/MIL_GIDP_250220191353.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/mahip-industries-ipo/968/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Mahip Industries IPO offers 5196000 shares. 2468000 (47.50%) to NII 2468000 (47.50%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "260000 (5.00%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2468000 (47.50%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2468000 (47.50%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5196000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:19.297Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Mahip Industries IPO is subscribed 1.54 times on March 1 2019 7:49:03 PM (Day 4). The public issue subscribed 1.54 times in the retail category [.] times in the QIB category and 1.53 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.53",
+        "shares_offered": "2468000",
+        "shares_bid_for": "3780000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.54",
+        "shares_offered": "2468000",
+        "shares_bid_for": "3808000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.54",
+        "shares_offered": "4936000",
+        "shares_bid_for": "7588000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 1 2019"
+  },
+  "updatedAt": "2025-04-19T04:39:36.105Z",
+  "updated_at": "2025-04-18T18:22:19.297Z",
+  "year": 2019,
+  "worst_listing_gains": "5.00%",
+  "worst_listing_gains_numeric": 5
+}

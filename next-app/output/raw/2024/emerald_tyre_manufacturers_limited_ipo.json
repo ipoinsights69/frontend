@@ -1,0 +1,461 @@
+{
+  "_id": "680249fc3ccffd1c7912c74f",
+  "ipo_id": "2024_emerald_tyre_manufacturers_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:17:24.776Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/emerald-tyre-manufacturers-ipo/1919/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2002, Emerald Tyre Manufacturers specializes in manufacturing, supplying, and servicing a wide range of tyres. The company offers its products under the brand name \"<strong>GRECKSTER</strong>\".</p>\n<p>Emerald Tyre Manufacturers products are Solid Resilient Tyres, Press bands, Industrial Penumatic Tyres &amp; Butyl Tubes &amp; Flaps and Wheel Rims.</p>\n<p>The company's products are being exported to global markets including, the USA, UAE, Russia, and major European Countries like Belgium, Germany, Netherlands, Hungry, Portugal, Italy, Denmark Poland besides the UK. The company also has warehouses located in Belgium, UAE and the USA providing on-time delivery of products and value-added services to customers across Europe, the Middle East and now in North America.</p>\n<p>As of March 31 2024, The company had 224 permanent and 191 contractual employees.</p>\n<p><strong>Competitive Strength:</strong></p>\n<ol>\n<li>Experienced and dedicated management team</li>\n<li>Manufacturing Facility to handle a wide range of off Highway Tyres</li>\n<li>Wide product range and customized product offering</li>\n<li>Diverse Customer Base</li>\n<li>Qualitative Products</li>\n</ol>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Emerald Tyre Manufacturers Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Jul 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "18190.29",
+          "17393.60",
+          "14976.86",
+          "13556.09"
+        ],
+        [
+          "Revenue",
+          "6492.75",
+          "17196.84",
+          "16798.10",
+          "13469.67"
+        ],
+        [
+          "Profit After Tax",
+          "413.64",
+          "1214.32",
+          "892.85",
+          "484.62"
+        ],
+        [
+          "Net Worth",
+          "5813.80",
+          "5397.59",
+          "3698.84",
+          "2897.44"
+        ],
+        [
+          "Reserves and Surplus",
+          "4364.75",
+          "3948.54",
+          "3042.79",
+          "2241.39"
+        ],
+        [
+          "Total Borrowing",
+          "8750.18",
+          "8718.28",
+          "8466.40",
+          "7504.59"
+        ]
+      ]
+    },
+    {
+      "heading": "Emerald Tyre Manufacturers Limited Stock Quote & Charts",
+      "sanitizedHeading": "emerald_tyre_manufacturers_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROCE",
+          "15.84%"
+        ],
+        [
+          "Debt/Equity",
+          "1.61"
+        ],
+        [
+          "RoNW",
+          "22.63%"
+        ],
+        [
+          "PAT Margin",
+          "7.16"
+        ],
+        [
+          "Price to Book Value",
+          "2.55"
+        ]
+      ]
+    },
+    {
+      "heading": "Emerald Tyre Manufacturers Limited Stock Quote & Charts",
+      "sanitizedHeading": "emerald_tyre_manufacturers_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.44",
+          "6.28"
+        ],
+        [
+          "P/E (x)",
+          "11.25",
+          "15.12"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Emerald Tyre Manufacturers IPO raises Rs 13.91 crore from anchor investors. Emerald Tyre Manufacturers IPO Anchor bid date is December 4 2024. Emerald Tyre Manufacturers IPO Anchor Investors list",
+    "list_link": {
+      "text": "Emerald Tyre Manufacturers IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/emrald_tyre_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "March 10 2025",
+      "shares_offered": "1464000",
+      "anchor_portion_size": "13.91"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 5, 2024 to December 9, 2024",
+    "ipoListingDate": "Thu, Dec 12, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹95.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "51,85,200 shares (aggregating up to ₹49.26 Cr)",
+    "freshIssue": "49,86,000 shares (aggregating up to ₹47.37 Cr)",
+    "offerForSale": "1,99,200 shares of ₹10 (aggregating up to ₹1.89 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,00,000 shares",
+      "maker_name": "Giriraj Stock Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/245/"
+    },
+    "ipoOpenDate": "Thu, Dec 5, 2024",
+    "ipoCloseDate": "Mon, Dec 9, 2024",
+    "initiationOfRefunds": "Tue, Dec 10, 2024",
+    "creditOfSharesToDemat": "Wed, Dec 11, 2024",
+    "shareHoldingPreIssue": "1,44,90,512 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,44,90,512 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "67.62%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,94,76,512 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,94,76,512 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-12-08T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "9043063194",
+    "email": "cosec@emeraldtyres.com",
+    "full_address": "Emerald Tyre Manufacturers Limited, Emerald House Plot No.2, Second Street Porur Gardens Phase-I, Vanagaram Tiruvallur Poonamallee 600095",
+    "website": "https://emeraldtyres.com/"
+  },
+  "createdAt": "2025-04-18T12:47:56.574Z",
+  "faqs": [
+    {
+      "question": "What is the Emerald Tyre Manufacturers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Emerald Tyre Manufacturers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5185200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->49.26<!-- --> Crores. The issue is priced at <span>₹95 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 5, 2024</b>, and <b>closes on <!-- -->December 9, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Emerald Tyre Manufacturers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Emerald Tyre Manufacturers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Emerald Tyre Manufacturers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Emerald Tyre Manufacturers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Emerald Tyre Manufacturers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Emerald Tyre Manufacturers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Emerald Tyre Manufacturers IPO opens on December 5, 2024 and closes on December 9, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Emerald Tyre Manufacturers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Emerald Tyre Manufacturers IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,14,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Emerald Tyre Manufacturers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Emerald Tyre Manufacturers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Emerald Tyre Manufacturers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Emerald Tyre Manufacturers IPO<!-- --> will be done on <!-- -->Tuesday, December 10, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, December 11, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/emerald-tyre-manufacturers-ipo/1919/\" title=\"Emerald Tyre Manufacturers IPO Allotment Status\">Emerald Tyre Manufacturers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Emerald Tyre Manufacturers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Emerald Tyre Manufacturers IPO<!-- --> listing date is on <b>Thursday, December 12, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Emerald Tyre Manufacturers",
+  "issue_price": "₹95.00",
+  "issue_price_numeric": 95,
+  "issue_size": "51,85,200 shares (aggregating up to ₹49.26 Cr)",
+  "issue_size_numeric": 51,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "GYR Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/182/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/182/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "95.00"
+      },
+      "open": {
+        "nse_sme": "180.50"
+      },
+      "low": {
+        "nse_sme": "180.50"
+      },
+      "high": {
+        "nse_sme": "189.50"
+      },
+      "last_trade": {
+        "nse_sme": "189.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "December 12 2024",
+    "nse_symbol": "ETML",
+    "isin": "INE0RHD01013",
+    "final_issue_price": "95 per share"
+  },
+  "listing_date": "2024-12-11T18:30:00.000Z",
+  "listing_gains": "99.47%",
+  "listing_gains_numeric": 99.47,
+  "logo": "https://www.chittorgarh.net/images/ipo/emerald-tyre-manufacturers-ltd-ipo-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/emerald-tyre-manufacturers-ltd-ipo-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "114000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "114000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "228000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/emerald-tyre-manufacturers-ipo/1919/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-12-04T18:30:00.000Z",
+  "pageHeading": "Emerald Tyre Manufacturers Limited IPO (Emerald Tyre Manufacturers IPO) Detail",
+  "pageTitle": "Emerald Tyre Manufacturers IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Chandhrasekharan Trirupathi Venkatachalam is the Promoter of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "67.62%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Emerald Tyre Manufacturers IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_4548_25112024182608.zip"
+    },
+    {
+      "text": "Emerald Tyre Manufacturers IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_ETML.zip"
+    },
+    {
+      "text": "Anchor Investors in Emerald Tyre Manufacturers IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/emrald_tyre_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/emerald-tyre-manufacturers-ipo/1919/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "emerald.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Emerald Tyre Manufacturers IPO offers 5185200 shares. 976800 (18.84%) to QIB 733200 (14.14%) to NII 1711200 (33%) to RII and 1464000 (28.23%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1464000 (28.23%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "300000 (5.79%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "976800 (18.84%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "733200 (14.14%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1711200 (33%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5185200 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:56.573Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Emerald Tyre Manufacturers IPO is subscribed 530.59 times on December 9 2024 6:19:59 PM (Day 3). The public issue subscribed 558.11 times in the retail category 195.95 times in the QIB category and 912.18 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "195.95",
+        "shares_offered": "976800",
+        "shares_bid_for": "191406000",
+        "total_application": "116"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "912.18",
+        "shares_offered": "733200",
+        "shares_bid_for": "668808000",
+        "total_application": "60461"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "558.11",
+        "shares_offered": "1711200",
+        "shares_bid_for": "955045200",
+        "total_application": "795871"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "530.59",
+        "shares_offered": "3421200",
+        "shares_bid_for": "1815259200",
+        "total_application": "856448"
+      }
+    },
+    "total_applications": "856448",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 9 2024",
+    "tentative_allotment": "Tue Dec 10 2024",
+    "initiation_of_refunds": "Tue Dec 10 2024",
+    "credit_of_shares_to_demat": "Wed Dec 11 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:47.283Z",
+  "updated_at": "2025-04-18T12:47:56.573Z",
+  "year": 2024,
+  "worst_listing_gains": "99.47%",
+  "worst_listing_gains_numeric": 99.47,
+  "last_performance_update": "2025-04-19T04:43:47.283Z"
+}

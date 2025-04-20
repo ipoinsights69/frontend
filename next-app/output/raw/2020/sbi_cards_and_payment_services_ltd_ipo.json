@@ -1,0 +1,498 @@
+{
+  "_id": "6802917b3ccffd1c7912c9b4",
+  "ipo_id": "2020_sbi_cards_and_payment_services_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:43:41.652Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sbi-cards-ipo/1025/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1998, SBI Cards and Payment Services Limited is a subsidiary of SBI, India's largest commercial bank in terms of deposits, advances and the number of branches. SBI currently holds (along with its nominees) 689,927,363 Equity Shares, constituting to 74.00 % of the pre-Offer issued, subscribed and paid-up Equity Share capital of the Company.</p><p>The company the 2nd largest credit card issuer in the country, with a 17.6% and 18.1% market share of the Indian credit card market (number of credit cards) as of March 31, 2019, and November 30, 2019, respectively, and a 17.1% and 17.9% market share of the Indian credit card market ( total credit card spends) in fiscal 2019 and in the eight months ended November 30, 2019.</p><p>SBI Cards offers a wide range of credit cards to individual and corporate clients including lifestyle, rewards, shopping, travel, fuel, banking partnership cards, and corporate cards, etc. </p><p>SBI Cards has partnered with several leading names across industries, including Air India, Apollo Hospitals, BPCL, Etihad Guest, Fbb, IRCTC, OLA Money and Yatra, amongst others.</p><p>As a subsidiary of SBI, the company has access to SBI's extensive network of 21,961 branches across India. The partnership enables it to market its cards to a huge customer base of 445.5 million customers.<br> <br>Headquartered in New Delhi, as of December 31, 2019, the company has a sales force of 38,677 outsourced sales personnel operating out of 145 Indian cities.</p><p>The company's total income increased at a CAGR of 44.9% and the revenues from operations have increased at a CAGR of 44.6% between fiscal 2017 to 2019. The net profit grew at a CAGR of 52.1% during the period. </p><p><b>Competitive Strengths</b><br>1. 2nd largest credit card issuer in India with a strong track record of growth and profitability.<br>2. Leading player in open market customer acquisitions using physical and digital channels in India.<br>3. A well-known promoter in SBI with strong brand recognition.<br>4. Diversified credit card portfolio and partnerships with leading brands across industries.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Dec-19",
+          "31-March-19",
+          "31-Mar-18",
+          "31-Mar-17"
+        ],
+        [
+          "Total Assets",
+          "259934.65",
+          "202396.36",
+          "156860.07",
+          "107649.82"
+        ],
+        [
+          "Total Revenue",
+          "72401.56",
+          "72868.35",
+          "53701.92",
+          "34710.38"
+        ],
+        [
+          "Profit After Tax",
+          "11612.07",
+          "8627.22",
+          "6011.42",
+          "3728.61"
+        ]
+      ]
+    },
+    {
+      "heading": "SBI Cards and Payment Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "sbi_cards_and_payment_services_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "45.8",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 2, 2020 to March 5, 2020",
+    "ipoListingDate": "Mon, Mar 16, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹755.00",
+    "lotSize": "19 Shares",
+    "issueSize": "13,71,93,464 shares (aggregating up to ₹10,354.77 Cr)",
+    "freshIssue": "66,22,517 shares (aggregating up to ₹500.00 Cr)",
+    "offerForSale": "13,05,26,798 shares of ₹10 (aggregating up to ₹9,854.77 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Mar 2, 2020",
+    "ipoCloseDate": "Thu, Mar 5, 2020",
+    "initiationOfRefunds": "Thu, Mar 12, 2020",
+    "creditOfSharesToDemat": "Fri, Mar 13, 2020",
+    "shareHoldingPreIssue": "93,23,34,278 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "93,23,34,278 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "74%"
+      }
+    ],
+    "shareHoldingPostIssue": "93,89,56,794 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "93,89,56,794 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "69.51%"
+      }
+    ]
+  },
+  "closing_date": "2020-03-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 (11) 6126 8100",
+    "email": "investor.relations@sbicard.com",
+    "full_address": "SBI Cards and Payment Services Ltd, Unit 401 &amp; 402 4th Floor, Aggarwal Millennium Tower E-123, Netaji Subhash Place Wazirpur New Delhi",
+    "website": "http://www.sbicard.com/"
+  },
+  "createdAt": "2025-04-18T17:52:59.618Z",
+  "faqs": [
+    {
+      "question": "What is SBI Card IPO?",
+      "answer": "<div itemprop=\"text\"><div><p>SBI Cards &amp; Payment Services Ltd is coming up with an initial public offer of around Rs 10,000 Cr to offer an exit to the existing shareholders, expand the capital base and get listed at BSE and NSE stock exchanges.</p>\n<p>The SBI Card IPO opens on Mar 2, 2020, and closes on Mar 5, 2020. The bidding closes for retail investors on March 5, 2020, at 5 PM.</p>\n<p>The SBI Card IPO price and lot size are not yet announced. They are expected to be announced on or before Feb 26, 2020.</p>\n<p>SBI Card IPO also has a reserved quota for <a href=\"/article/sbi-cards-ipo-employees-application-explained/453/\" title=\"SBI Card IPO Employees Quota Explained\">SBI employees</a>. SBI employees can apply up to Rs 5L under employee quota in addition to Rs 2L in retail and Rs 2L in shareholders' quota.</p>\n<p>The SBI Card IPO shareholder quota cut-off date is Aug 18, 2020. Investors who have SBI shares in their demat account on this date are eligible to apply in the <a href=\"/article/sbi-cards-ipo-shareholders-application-explained/452/\" title=\"SBI Card IPO Shareholders Quota Explained\">reserved shareholder's category</a>.</p>\n<p>SBI card IPO shares are proposed to list at BSE and NSE. Its expected listing date is Mar 16, 2020.</p>\n</div></div><div class=\"mt-2 text-end\"><a title=\"What is SBI Card IPO?\" href=\"/faq_pg/what-is-sbi-card-ipo/1756/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "How to buy SBI Card IPO Online?",
+      "answer": "<div itemprop=\"text\"><div><p>There are two ways to buy SBI Card IPO shares:</p>\n<ol>\n\t<li><strong>ASBA Payment Method (Net Banking)</strong>\n\t\t<p>The net-banking facility of popular banks offers an Online IPO application. If you have your account with banks like <a href=\"/article/how-to-buy-ipo-online-in-sbi-bank/344/\" title=\"SBI IPO Application\">SBI</a>, <a href=\"/article/how-to-buy-ipo-online-in-icici-bank/325/\" title=\" ICICI IPO Application\">ICICI</a>, <a href=\"/article/how-to-apply-ipo-through-hdfc-netbanking/339/\" title=\"HDFC IPO Application\">HDFC</a>, PNB, <a href=\"/article/how-to-buy-ipo-online-in-axis-bank/338/\" title=\"Axis Bank IPO Application\">Axis</a>, <a href=\"/article/how-to-buy-ipo-online-in-kotak-bank/341/\" title=\"Kotak IPO Application\">Kotak</a>, you can easily apply in SBI Card IPO online.</p>\n\t</li>\n\t<li><strong>UPI Payment Method</strong>\n\t\t<p>Most top share brokers in India including <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha - Steps to apply in IPO\">Zerodha</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Edelweiss - Steps to apply in IPO\">Edelweiss</a>, Sharekhan, and <a href=\"/broker/5paisa/ipo/4/\" title=\"5paisa - Steps to apply in IPO\">5paisa</a> offer UPI payment gateway based online IPO application. If you have an account with a broker who offers an online IPO application, you could easily apply in IPO though them.</p>\n\t</li>\n</ol></div></div><div class=\"mt-2 text-end\"><a title=\"How to buy SBI Card IPO Online?\" href=\"/faq_pg/how-to-buy-sbi-card-ipo-online/1757/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "What is SBI Card IPO lot size and price?",
+      "answer": "<div itemprop=\"text\"><div><p>SBI Cards IPO lot size is 19 shares and prince band is Rs 750 to Rs 755. </p></div></div><div class=\"mt-2 text-end\"><a title=\"What is SBI Card IPO lot size and price?\" href=\"/faq_pg/what-is-sbi-card-ipo-lot-size-and-price/1751/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "Can I apply in retail and shareholder quota for SBI Card IPO?",
+      "answer": "<div itemprop=\"text\"><div><p>An individual can also apply in the Shareholders category (any amount)&nbsp;if he holds the State Bank of India (SBI) shares in his demat account on the day of filing the SBI Card IPO RHP with SEBI. For SBI Card the date of filing RHP with SEBI is awaited.</p>\n<p>SBI shareholders can apply in both; RII or NII as well as shareholder category with the maximum limit of Rs 200,000 in shareholders category.</p>\n\n<p>Please note an eligible SBI shareholder bidding in SBI shareholder reservation portion (subject to bid amount not exceeding Rs 2,00,000 under SBI shareholder reservation portion) may also bid under net offer i.e. either in Retail Individual Bidders Portion for upto Rs 200,000 OR in Non-Institutional Bidders Portion such that the Bid Amount exceeds Rs 200,000 but not exceeding the size of the Net Offer (excluding QIB portion), subject to applicable limits.</p>\n\n<p>An SBI Shareholders bidding in the SBI Shareholders Reservation Portion above Rs 200,000 cannot Bid in the Net Offer as such Bids will be treated as multiple Bids.</p>\n\n</div></div><div class=\"mt-2 text-end\"><a title=\"Can I apply in retail and shareholder quota for SBI Card IPO?\" href=\"/faq_pg/can-i-apply-in-retail-and-shareholder-quota-for-sbi-card-ipo/1353/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "What is the maximum amount to apply under the Retail and shareholder category for SBI Card IPO?",
+      "answer": "<div itemprop=\"text\"><div><p>The maximum bid amount when applying in both Retail and Shareholders Category is:</p>\n<ol>\n\t<li>Shareholders Category: Rs 200,000</li>\n\t<li>Retail Category: Any amount (Considered as RII or NII based on the amount)</li>\n</ol>\n<p>An eligible SBI shareholder bidding in SBI shareholder reservation portion (subject to bid amount not exceeding Rs 2,00,000 under SBI shareholder reservation portion) may also bid under net offer i.e. either in Retail Individual Bidders Portion for upto Rs 200,000 OR in Non-Institutional Bidders Portion such that the Bid Amount exceeds Rs 200,000 but not exceeding the size of the Net Offer (excluding QIB portion), subject to applicable limits.</p>\n<p>In SBI Shareholders bidding in the SBI Shareholders Reservation Portion above Rs 200,000 cannot Bid in the Net Offer as such Bids will be treated as multiple Bids.</p></div></div><div class=\"mt-2 text-end\"><a title=\"What is the maximum amount to apply under the Retail and shareholder category for SBI Card IPO?\" href=\"/faq_pg/what-is-the-maximum-amount-to-apply-under-the-retail-and-shareholder-category-for-sbi-card-ipo/1354/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "When the bids are rejected considering multiple bids in the SBI Card IPO?",
+      "answer": "<div itemprop=\"text\"><div><p>Your bids can be rejected in SBI Card IPO considering multiple bids in the following cases:</p>\n<ul>\n\t<li>An Eligible Shareholder holding multiple Demat accounts makes multiple applications&nbsp;under shareholders category with the same PAN number.</li>\n\t<li>An Eligible Shareholder, being the first holder of a joint Demat account makes multiple applications individually and jointly.</li>\n\t<li>ASBA Bidders submitting more than one ASBA Form per ASBA Account</li>\n</ul></div></div><div class=\"mt-2 text-end\"><a title=\"When the bids are rejected considering multiple bids in the SBI Card IPO?\" href=\"/faq_pg/when-the-bids-are-rejected-considering-multiple-bids-in-the-sbi-card-ipo/1355/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "Can I apply in Employee and Retail Category in SBI Card IPO?",
+      "answer": "<div itemprop=\"text\"><div><p>Eligible Employees can bid under all 3 categories of SBI Card IPO:</p>\n<ul>\n\t<li>Retail Category (any amount*)</li>\n\t<li>Shareholder Category (&lt; Rs 2L)</li>\n\t<li>Employee Category (&lt;Rs 5L)</li>\n</ul>\n<p>An SBI shareholder and employee of SBI can apply in all three categories. A spate IPO application should be used for each of these categories.</p>\n<p>* Retail application is considered as RII or NII category based on the amount in application. Amount &lt; Rs 2L is considered as RII and above Rs 2L is NII.</p></div></div><div class=\"mt-2 text-end\"><a title=\"Can I apply in Employee and Retail Category in SBI Card IPO?\" href=\"/faq_pg/can-i-apply-in-employee-and-retail-category-in-sbi-card-ipo/1356/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "How many SBI shares required to eligible for SBI Card shareholders category?",
+      "answer": "<div itemprop=\"text\"><div><p>Minimum 1 share of SBI should be in your demat account on February 18, 2020, to be eligible for applying in shareholders category of SBI Cards IPO. Feb 18 is the cut-off date for eligibility. The IPO application should be on the name of the primary demat account holder.</p></div></div><div class=\"mt-2 text-end\"><a title=\"How many SBI shares required to eligible for SBI Card shareholders category?\" href=\"/faq_pg/if-i-buy-1-share-of-sbi-will-i-be-eligible-for-shareholder-s-quota-for-sbi-card-ipo/1357/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "What is a cut-off date for SBI shareholders in the SBI Cards IPO?",
+      "answer": "<div itemprop=\"text\"><div><p>The cut-off date for eligible SBI Cards shareholders is <b>Feb 18, 2020</b>. You should have at least 1 share in your demat account on Feb 18, 2020, to be eligible to apply for IPO shares in the SBI Card IPO Shareholders category.</p></div></div><div class=\"mt-2 text-end\"><a title=\"What is a cut-off date for SBI shareholders in the SBI Cards IPO?\" href=\"/faq_pg/what-is-last-date-buy-sbi-shares-for-sbi-cards-shareholder-category/1395/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "How can I buy SBI cards IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><div><p>Zerodha customers can apply in SBI Card IPO using UPI as a payment gateway from the Zerodha Console application. Follow the below steps to buy SBI Card IPO through Zerodha:&nbsp;</p>\n<ol>\n\t<li>Login to Zerodha Console</li>\n\t<li>Click on Portfolio tab</li>\n\t<li>Choose 'IPO' from the drop-down list</li>\n\t<li>Select the IPO you want to invest&nbsp;</li>\n\t<li>Enter your UPI ID and verify the details</li>\n\t<li>Put Bid and Price in the box</li>\n\t<li>Tick on the checkbox</li>\n\t<li>Click on Submit button</li>\n</ol>\n\n<img src=\"https://www.chittorgarh.net/images/screenshots/zerodha-apply-in-shareholder-category-ipo.png\" title=\"Zerodha Apply in Shareholders Quota of IPO\" class=\"img-fluid mx-auto\"></div></div><div class=\"mt-2 text-end\"><a title=\"How can I buy SBI cards IPO through Zerodha?\" href=\"/faq_pg/how-can-i-buy-sbi-cards-ipo-through-zerodha/1767/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "Can I apply in SBI Card IPO using a bank account or UPI on a different name?",
+      "answer": "<div itemprop=\"text\"><div><p>SBI Card IPO RHP point 24 on page 416 'Do not submit a Bid cum Application Form with third-party UPI ID or using a third-party bank account (in case of Bids submitted by Retail Individual Investors using the UPI Mechanism)'</p>\n<p>The 3rd party IPO application (with different primary account holder in demat and bank) are permitted. But only a few banks like SBI Net Banking offer this. Private banks like ICICI, HDFC, etc do not offer this facility.</p>\n<p>For example:</p>\n<ul>\n\t<li>When applying from Zerodha, Edelweiss or Upstox, you cannot apply in SBI Card IPO in the HUF account (or minor account) using UPI linked to your bank account.</li>\n\t<li>You can apply in HUF, Minor or someone else's demat account using ASBA from SBI Bank who offers up to five(5) 3rd party IPO applications from one bank account.</li>\n</ul></div></div><div class=\"mt-2 text-end\"><a title=\"Can I apply in SBI Card IPO using a bank account or UPI on a different name?\" href=\"/faq_pg/can-i-apply-in-sbi-card-ipo-using-a-bank-account-or-upi-on-a-different-name/1770/\"><small>Discuss this question</small></a></div>"
+    },
+    {
+      "question": "What is the SBI Cards IPO?",
+      "answer": "<div itemprop=\"text\"><p>SBI Cards IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->137193464<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->10,354.77<!-- --> Crores. The issue is priced at <span>₹755 per share</span>. The minimum order quantity is <!-- -->19<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 2, 2020</b>, and <b>closes on <!-- -->March 5, 2020</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in SBI Cards IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->SBI Cards IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->SBI Cards IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->SBI Cards IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->SBI Cards IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When SBI Cards IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The SBI Cards IPO opens on March 2, 2020 and closes on March 5, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of SBI Cards IPO?",
+      "answer": "<div itemprop=\"text\"><p>SBI Cards IPO<!-- --> <b>lot size is <!-- -->19</b>, and the <b>minimum amount required is <span>₹14,345</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for SBI Cards IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->SBI Cards IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is SBI Cards IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->SBI Cards IPO<!-- --> will be done on <!-- -->Wednesday, March 11, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, March 13, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/sbi-cards-ipo/1025/\" title=\"SBI Cards IPO Allotment Status\">SBI Cards IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is SBI Cards IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->SBI Cards IPO<!-- --> listing date is on <b>Monday, March 16, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "SBI Cards and Payment Services",
+  "issue_price": "₹755.00",
+  "issue_price_numeric": 755,
+  "issue_size": "13,71,93,464 shares (aggregating up to ₹10,354.77 Cr)",
+  "issue_size_numeric": 13,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Bofa Securities India Limited",
+      "url": "/report/ipo-lead-manager-review/112/22/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/22/"
+    },
+    {
+      "name": "Hsbc Securities & Capital Markets Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/69/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/69/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Nomura Financial Advisory And Securities",
+      "url": "/report/ipo-lead-manager-review/112/72/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/72/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "755.00",
+        "nse": "755.00"
+      },
+      "open": {
+        "bse": "658.00",
+        "nse": "661.00"
+      },
+      "low": {
+        "bse": "658.00",
+        "nse": "656.00"
+      },
+      "high": {
+        "bse": "755.00",
+        "nse": "755.00"
+      },
+      "last_trade": {
+        "bse": "683.20",
+        "nse": "681.40"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 16 2020",
+    "bse_script_code": "543066",
+    "nse_symbol": "SBICARD",
+    "isin": "INE018E01016",
+    "final_issue_price": "755 per share"
+  },
+  "listing_date": "2020-03-15T18:30:00.000Z",
+  "listing_gains": "-9.51%",
+  "listing_gains_numeric": -9.51,
+  "logo": "https://www.chittorgarh.net/images/ipo/sbicard_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sbicard_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 19 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "19",
+        "amount": "14345"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "247",
+        "amount": "186485"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "266",
+        "amount": "200830"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "1311",
+        "amount": "989805"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "1330",
+        "amount": "1004150"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sbi-cards-ipo/1025/"
+    }
+  },
+  "lot_size": 19,
+  "opening_date": "2020-03-01T18:30:00.000Z",
+  "pageHeading": "SBI Cards and Payment Services Ltd IPO (SBI Cards IPO) Detail",
+  "pageTitle": "SBI Cards IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The promoter of the Company is SBI.",
+    "holdings": {
+      "share_holding_pre_issue": "74%",
+      "share_holding_post_issue": "69.51%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "SBI Cards IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2019/sbi-cards-and-payment-services-limited_45160.html"
+    },
+    {
+      "text": "SBI Cards IPO RHP",
+      "url": "https://nsearchives.nseindia.com/corporate/FP_INE018E01016_06MAR2020.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "9",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sbi-cards-ipo/1025/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "sbicard.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "SBI Cards IPO offers 100279411 shares. 24224003 (24.16%) to QIB 18341418 (18.29%) to NII 42796641 (42.68%) to RII 1864669 (1.86%) to employees. 2252454 RIIs will receive minimum 19 shares and (sNII) and (bNII) will receive minimum 266 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "24224003 (24.16%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "18341418 (18.29%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "42796641 (42.68%)",
+        "maximum_allottees": "2252454"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "1864669 (1.86%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "13052680 (13.02%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "100279411 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:59.617Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The SBI Cards IPO is subscribed 26.54 times on March 5 2020 6:45:03 PM (Day 4). The public issue subscribed 2.5 times in the retail category 57.18 times in the QIB category and 45.23 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "57.18",
+        "shares_offered": "24224003",
+        "shares_bid_for": "1385243431"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "45.23",
+        "shares_offered": "18341418",
+        "shares_bid_for": "829526396"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.5",
+        "shares_offered": "42796641",
+        "shares_bid_for": "106990292"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "4.74",
+        "shares_offered": "1864669",
+        "shares_bid_for": "8839978"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "25.36",
+        "shares_offered": "13052680",
+        "shares_bid_for": "330959328"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "26.54",
+        "shares_offered": "100279411",
+        "shares_bid_for": "2661559425"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 5 2020",
+    "tentative_allotment": "Wed Mar 11 2020",
+    "initiation_of_refunds": "Thu Mar 12 2020",
+    "credit_of_shares_to_demat": "Fri Mar 13 2020"
+  },
+  "updatedAt": "2025-04-19T04:38:01.428Z",
+  "updated_at": "2025-04-18T17:52:59.617Z",
+  "year": 2020,
+  "worst_listing_gains": "-9.51%",
+  "worst_listing_gains_numeric": -9.51
+}

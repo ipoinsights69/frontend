@@ -1,0 +1,460 @@
+{
+  "_id": "680249fe3ccffd1c7912c796",
+  "ipo_id": "2024_konstelec_engineers_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:42:01.341Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/konstelec-engineers-ipo/1621/"
+  },
+  "about": {
+    "details": "<p>Founded in December 1995, Konstelec Engineers Limited is active in the fields of engineering, procurement and construction/commissioning (EPC).</p>\n<p>The company offers a wide range of services including engineering and drawings, procurement, operations and maintenance, project management and construction and commissioning. The company's areas of expertise include electrical installation, solar power plant installation, instrumentation and automation. The company has completed more than 200 projects of varying size and complexity, including 45 major projects worth over 400 crores.</p>\n<p>The company's clients include Reliance Industries Limited, Engineers India Limited, JSW Steel, Indian Oil, BPCL, HPCL, CPCL, MRPL, ISRO, ACC, BARC, Dangote Industries Limited, Adani, NTPC, Tata Steel Ltd, Navin Fluorine International Ltd and IGPL, etc.</p>\n<p>The company provides services in more than 15 states in India and Nigeria.</p>\n<p>As on November 30, 2023, Konstelec Engineers Limited has an order book of more than 57 major projects worth around 573 crore in various stages of implementation.</p>\n<p>The company employs over 800 people in India and Africa, including more than 120 engineers, 250 technicians and various other locally employed staff.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Konstelec Engineers Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "16223.23",
+          "14612.99",
+          "11884.44",
+          "10364.02"
+        ],
+        [
+          "Revenue",
+          "9434.05",
+          "15500.05",
+          "10902.31",
+          "10617.16"
+        ],
+        [
+          "Profit After Tax",
+          "456.16",
+          "777.77",
+          "352.25",
+          "190.34"
+        ],
+        [
+          "Net Worth",
+          "6647.68",
+          "6191.50",
+          "5423.73",
+          "5071.48"
+        ],
+        [
+          "Reserves and Surplus",
+          "5547.68",
+          "6091.50",
+          "5323.73",
+          "4971.48"
+        ],
+        [
+          "Total Borrowing",
+          "4109.45",
+          "3507.15",
+          "2650.59",
+          "2548.12"
+        ]
+      ]
+    },
+    {
+      "heading": "Konstelec Engineers Limited Stock Quote & Charts",
+      "sanitizedHeading": "konstelec_engineers_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "13.39%"
+        ],
+        [
+          "ROCE",
+          "16.81%"
+        ],
+        [
+          "Debt/Equity",
+          "0.57"
+        ],
+        [
+          "RoNW",
+          "12.56%"
+        ],
+        [
+          "Price to Book Value",
+          "1.24"
+        ]
+      ]
+    },
+    {
+      "heading": "Konstelec Engineers Limited Stock Quote & Charts",
+      "sanitizedHeading": "konstelec_engineers_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.07",
+          "6.04"
+        ],
+        [
+          "P/E (x)",
+          "9.9",
+          "11.59"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Konstelec Engineers IPO raises Rs 8.16 crore from anchor investors. Konstelec Engineers IPO Anchor bid date is January 18 2024. Konstelec Engineers IPO Anchor Investors list",
+    "list_link": {
+      "text": "Konstelec Engineers IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/konstelec-engineers-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "April 24 2024",
+      "shares_offered": "1166000",
+      "anchor_portion_size": "8.16"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "January 19, 2024 to January 24, 2024",
+    "ipoListingDate": "Tue, Jan 30, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹70.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "41,00,000 shares (aggregating up to ₹28.70 Cr)",
+    "freshIssue": "41,00,000 shares (aggregating up to ₹28.70 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,06,000 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Fri, Jan 19, 2024",
+    "ipoCloseDate": "Wed, Jan 24, 2024",
+    "initiationOfRefunds": "Mon, Jan 29, 2024",
+    "creditOfSharesToDemat": "Mon, Jan 29, 2024",
+    "shareHoldingPreIssue": "1,10,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,10,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "91.65%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,51,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,51,00,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.77%"
+      }
+    ]
+  },
+  "closing_date": "2024-01-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 2243 421551",
+    "email": "compliance@konstelec.com",
+    "full_address": "Konstelec Engineers Limited, 308 Creative Industrial Estate, Sundar Nagar Lane No. 2 Kalina, Santacruz (East) Mumbai- 400098",
+    "website": "https://www.konstelec.com/"
+  },
+  "createdAt": "2025-04-18T12:47:58.219Z",
+  "faqs": [
+    {
+      "question": "What is the Konstelec Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Konstelec Engineers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4100000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->28.70<!-- --> Crores. The issue is priced at <span>₹70 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 19, 2024</b>, and <b>closes on <!-- -->January 24, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Konstelec Engineers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Konstelec Engineers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Konstelec Engineers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Konstelec Engineers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Konstelec Engineers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Konstelec Engineers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Konstelec Engineers IPO opens on January 19, 2024 and closes on January 24, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Konstelec Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Konstelec Engineers IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,40,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Konstelec Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Konstelec Engineers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Konstelec Engineers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Konstelec Engineers IPO<!-- --> will be done on <!-- -->Thursday, January 25, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, January 29, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/konstelec-engineers-ipo/1621/\" title=\"Konstelec Engineers IPO Allotment Status\">Konstelec Engineers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Konstelec Engineers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Konstelec Engineers IPO<!-- --> listing date is on <b>Tuesday, January 30, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Konstelec Engineers",
+  "issue_price": "₹70.00",
+  "issue_price_numeric": 70,
+  "issue_size": "41,00,000 shares (aggregating up to ₹28.70 Cr)",
+  "issue_size_numeric": 41,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "70.00"
+      },
+      "open": {
+        "nse_sme": "210.00"
+      },
+      "low": {
+        "nse_sme": "210.00"
+      },
+      "high": {
+        "nse_sme": "220.50"
+      },
+      "last_trade": {
+        "nse_sme": "220.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "January 30 2024",
+    "nse_symbol": "KONSTELEC",
+    "isin": "INE0QEI01011",
+    "final_issue_price": "70 per share"
+  },
+  "listing_date": "2024-01-29T18:30:00.000Z",
+  "listing_gains": "215.00%",
+  "listing_gains_numeric": 215,
+  "logo": "https://www.chittorgarh.net/images/ipo/konstelec-engineers-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/konstelec-engineers-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "140000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "140000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "280000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/konstelec-engineers-ipo/1621/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-01-18T18:30:00.000Z",
+  "pageHeading": "Konstelec Engineers Limited IPO (Konstelec Engineers IPO) Detail",
+  "pageTitle": "Konstelec Engineers IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Biharilal Ravilal Shah and Mr. Amish Biharilal Shah are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "91.65%",
+      "share_holding_post_issue": "66.77%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Konstelec Engineers IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/KonstelecEngineers_DRHP.zip"
+    },
+    {
+      "text": "Konstelec Engineers IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Konstelec_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Konstelec Engineers IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/konstelec-engineers-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/konstelec-engineers-ipo/1621/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Konstelec Engineers IPO offers 4100000 shares. 778000 (18.98%) to QIB 586000 (14.29%) to NII 1364000 (33.27%) to RII and 1166000 (28.44%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1166000 (28.44%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "206000 (5.02%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "778000 (18.98%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "586000 (14.29%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1364000 (33.27%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4100000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.218Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Konstelec Engineers IPO is subscribed 341.8 times on January 24 2024 7:30:00 PM (Day 3). The public issue subscribed 437.67 times in the retail category 113.8 times in the QIB category and 421.36 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "113.8",
+        "shares_offered": "778000",
+        "shares_bid_for": "88536000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "421.36",
+        "shares_offered": "586000",
+        "shares_bid_for": "246918000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "437.67",
+        "shares_offered": "1364000",
+        "shares_bid_for": "596976000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "341.8",
+        "shares_offered": "2728000",
+        "shares_bid_for": "932430000"
+      }
+    },
+    "total_applications": "298488",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 24 2024",
+    "tentative_allotment": "Thu Jan 25 2024",
+    "initiation_of_refunds": "Mon Jan 29 2024",
+    "credit_of_shares_to_demat": "Mon Jan 29 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:00.809Z",
+  "updated_at": "2025-04-18T12:47:58.218Z",
+  "year": 2024,
+  "worst_listing_gains": "215.00%",
+  "worst_listing_gains_numeric": 215
+}

@@ -1,0 +1,460 @@
+{
+  "_id": "68024a023ccffd1c7912c805",
+  "ipo_id": "2024_storage_technologies_and_automation_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:32:07.722Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/storage-technologies-automation-ipo/1709/"
+  },
+  "about": {
+    "details": "<p>Founded in October 2010, \"Storage Technologies and Automation Limited is engaged in storage racking systems.</p>\n<p>The company manufactures and installs metal storage racks, automated warehouses, and other storage solutions. The company provides storage solutions for various industries, including oil &amp; gas, automotive, aerospace, food &amp; beverages, pharmaceuticals, textiles, retail, and FMCG.</p>\n<p>The company is an ISO 9001:2015 certified storage solution manufacturing company.</p>\n<p>The company's manufacturing process is supported by approximately 56,250 square feet of space in Bangalore and 20,000 square feet of storage space.</p>\n<p>To date, the company has executed more than 2500 projects and has served more than 900 customers worldwide.</p>\n<p>The company has a presence in over 30 countries across the globe.</p>\n<p>As of October 31, 2023, the company has a total of 166 permanent employees and 94 contracted employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Storage Technologies & Automation Ltd Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Oct 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "6375.77",
+          "4004.01",
+          "3567.70",
+          "3113.04"
+        ],
+        [
+          "Revenue",
+          "5317.09",
+          "8137.12",
+          "6989.72",
+          "4852.38"
+        ],
+        [
+          "Profit After Tax",
+          "358.91",
+          "48.30",
+          "-20.49",
+          "118.42"
+        ],
+        [
+          "Net Worth",
+          "953.52",
+          "594.61",
+          "546.31",
+          "566.81"
+        ],
+        [
+          "Reserves and Surplus",
+          "653.52",
+          "294.61",
+          "246.31",
+          "466.81"
+        ],
+        [
+          "Total Borrowing",
+          "1632.53",
+          "931.63",
+          "871.10",
+          "347.48"
+        ]
+      ]
+    },
+    {
+      "heading": "Storage Technologies And Automation Ltd Stock Quote & Charts",
+      "sanitizedHeading": "storage_technologies_and_automation_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "46.37%"
+        ],
+        [
+          "ROCE",
+          "22.52%"
+        ],
+        [
+          "RoNW",
+          "37.64%"
+        ],
+        [
+          "PAT Margin",
+          "6.78"
+        ]
+      ]
+    },
+    {
+      "heading": "Storage Technologies And Automation Ltd Stock Quote & Charts",
+      "sanitizedHeading": "storage_technologies_and_automation_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "11.96",
+          null
+        ],
+        [
+          "P/E (x)",
+          "48.45",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Storage Technologies Racks and Rollers IPO raises Rs 8.50 crore from anchor investors. Storage Technologies Racks and Rollers IPO Anchor bid date is April 29 2024. Storage Technologies Racks and Rollers IPO Anchor Investors list",
+    "list_link": {
+      "text": "Storage Technologies Racks and Rollers IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/storage_technologies_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "August 4 2024",
+      "shares_offered": "1089600",
+      "anchor_portion_size": "8.50"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "April 30, 2024 to May 3, 2024",
+    "ipoListingDate": "Wed, May 8, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹78.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "38,40,000 shares (aggregating up to ₹29.95 Cr)",
+    "freshIssue": "38,40,000 shares (aggregating up to ₹29.95 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "2,00,000 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Tue, Apr 30, 2024",
+    "ipoCloseDate": "Fri, May 3, 2024",
+    "initiationOfRefunds": "Tue, May 7, 2024",
+    "creditOfSharesToDemat": "Tue, May 7, 2024",
+    "shareHoldingPreIssue": "90,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "90,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,28,40,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,28,40,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "70.09%"
+      }
+    ]
+  },
+  "closing_date": "2024-05-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 98444 86300",
+    "email": "cs@racksandrollers.com",
+    "full_address": "Storage Technologies and Automation Ltd, No 10 Survey No 21/6A, 21/7A 21/7B and 21/8 Singanayakanahalli, Yelahanka Bangalore Bangalore-560064",
+    "website": "https://racksandrollers.com/"
+  },
+  "createdAt": "2025-04-18T12:48:02.618Z",
+  "faqs": [
+    {
+      "question": "What is the Storage Technologies Racks and Rollers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Storage Technologies Racks and Rollers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3840000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->29.95<!-- --> Crores. The issue is priced at <span>₹78 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->April 30, 2024</b>, and <b>closes on <!-- -->May 3, 2024</b>.</p><p>Integrated Registry Management Services Private Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Storage Technologies Racks and Rollers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Storage Technologies Racks and Rollers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Storage Technologies Racks and Rollers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Storage Technologies Racks and Rollers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Storage Technologies Racks and Rollers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Storage Technologies Racks and Rollers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Storage Technologies Racks and Rollers IPO opens on April 30, 2024 and closes on May 3, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Storage Technologies Racks and Rollers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Storage Technologies Racks and Rollers IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,24,800</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Storage Technologies Racks and Rollers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Storage Technologies Racks and Rollers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Storage Technologies Racks and Rollers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Storage Technologies Racks and Rollers IPO<!-- --> will be done on <!-- -->Monday, May 6, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, May 7, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/storage-technologies-automation-ipo/1709/\" title=\"Storage Technologies Racks and Rollers IPO Allotment Status\">Storage Technologies Racks and Rollers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Storage Technologies Racks and Rollers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Storage Technologies Racks and Rollers IPO<!-- --> listing date is on <b>Wednesday, May 8, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Storage Technologies and Automation",
+  "issue_price": "₹78.00",
+  "issue_price_numeric": 78,
+  "issue_size": "38,40,000 shares (aggregating up to ₹29.95 Cr)",
+  "issue_size_numeric": 38,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Oneview Corporate Advisors Pvt. Ltd.",
+      "url": "/report/ipo-lead-manager-review/112/94/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/94/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "78.00"
+      },
+      "open": {
+        "bse_sme": "148.20"
+      },
+      "low": {
+        "bse_sme": "148.20"
+      },
+      "high": {
+        "bse_sme": "155.59"
+      },
+      "last_trade": {
+        "bse_sme": "153.05"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 8 2024",
+    "bse_script_code": "544171",
+    "isin": "INE0RGM01016",
+    "final_issue_price": "78 per share"
+  },
+  "listing_date": "2024-05-07T18:30:00.000Z",
+  "listing_gains": "96.22%",
+  "listing_gains_numeric": 96.22,
+  "logo": "https://www.chittorgarh.net/images/ipo/racks-rollers-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/racks-rollers-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "124800"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "124800"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "249600"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/storage-technologies-automation-ipo/1709/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-04-29T18:30:00.000Z",
+  "pageHeading": "Storage Technologies and Automation Ltd IPO (Storage Technologies Racks and Rollers IPO) Detail",
+  "pageTitle": "Storage Technologies Racks and Rollers IPO Date, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Mr. Khasim Sait Mr. Mohammad Arif Abdul Gaffar Dor Mr. Hanif A Khatri Mr. Syed Azeem Mr. Afzal Hussain and Mr. Nuumaan Khasim",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "70.09%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Storage Technologies Racks and Rollers IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/305526/DRHP%20-%20STAL-25-01-24_20240206172938.pdf"
+    },
+    {
+      "text": "Storage Technologies Racks and Rollers IPO Addendum DRHP",
+      "url": "https://www.bseindia.com/corporates/download/305526/Addendum%20with%20DRHP-STAL_20240416144536.pdf"
+    },
+    {
+      "text": "Storage Technologies Racks and Rollers IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/305526/SME_IPO%20BasisOfAllotment/Prospectus-%2004-05-2024_FINAL%20Clean%20Version_20240506163134.pdf"
+    },
+    {
+      "text": "Anchor Investors in Storage Technologies Racks and Rollers IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/storage_technologies_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/storage-technologies-automation-ipo/1709/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Integrated Registry Management Services Private Limited",
+    "phone": "044 - 28140801 to 28140803",
+    "email": "giri@integratedindia.in",
+    "website": "https://www.integratedregistry.in/RegistrarsToSTA.aspx?OD=1"
+  },
+  "reservation": {
+    "summary": "Storage Technologies Racks and Rollers IPO offers 3840000 shares. 728000 (18.96%) to QIB 547200 (14.25%) to NII 1275200 (33.21%) to RII and 1089600 (28.38%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1089600 (28.38%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "200000 (5.21%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "728000 (18.96%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "547200 (14.25%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1275200 (33.21%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3840000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:02.616Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Storage Technologies Racks and Rollers IPO is subscribed 278.82 times on May 3 2024 7:02:04 PM (Day 3). The public issue subscribed 242.74 times in the retail category 117.86 times in the QIB category and 577.02 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "117.86",
+        "shares_offered": "728000",
+        "shares_bid_for": "85800000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "577.02",
+        "shares_offered": "547200",
+        "shares_bid_for": "315745600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "242.74",
+        "shares_offered": "1275200",
+        "shares_bid_for": "309545600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "278.82",
+        "shares_offered": "2550400",
+        "shares_bid_for": "711091200"
+      }
+    },
+    "total_applications": "268741",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 3 2024",
+    "tentative_allotment": "Mon May 6 2024",
+    "initiation_of_refunds": "Tue May 7 2024",
+    "credit_of_shares_to_demat": "Tue May 7 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:15.003Z",
+  "updated_at": "2025-04-18T12:48:02.616Z",
+  "year": 2024,
+  "worst_listing_gains": "96.22%",
+  "worst_listing_gains_numeric": 96.22
+}

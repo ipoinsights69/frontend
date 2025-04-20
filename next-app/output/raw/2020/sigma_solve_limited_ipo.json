@@ -1,0 +1,355 @@
+{
+  "_id": "6802917b3ccffd1c7912c9b1",
+  "ipo_id": "2020_sigma_solve_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:42:43.478Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sigma-solve-ipo/1067/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2010, The Ahmadabad-based Sigma Solve Ltd is primarily engaged in offering IT and IT-enabled services to customers. Sigma Solve Ltd through association with Sigma Solve Inc. (subsidiary company) offers software development, turnkey consultancy services, and services related to Web &amp; E-commerce development, Real Time Application development, Business Intelligence Analytics, Digital Marketing, CRM Development, UI&amp; UX Design, Automation testing, and others. </p><p>Sigma Solve Ltd generates 100% of its revenues through exporting products to Sigma Solve Inc that has offices across Florida (USA), Atlanata, and Australia. </p><p><strong>Sigma Solve Ltd Product Portfolio</strong></p><p>• Web &amp; eCommerce Development; Shopify, nopcommerce, PrestaShop, Magento, Wordpress, Cake PHP.<br>• Real Time Application Development<br>• Business Intelligence Analytics; Tableau, Salesforce, Creatio, etc.<br>• Digital Marketing<br>• UI &amp; UX Design<br>• Automation Testing and Quality Assurance</p><p><strong>Competitive Strengths</strong></p><p>• 100% revenue from Export.<br>• Customer-oriented products and services.<br>• Diversified product portfolio.<br>• User Experience design services for web and mobile.<br></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Lacs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "498.25",
+          "226.25",
+          "112.17"
+        ],
+        [
+          "Total Revenue",
+          "568.83",
+          "348.79",
+          "257.47"
+        ],
+        [
+          "Profit After Tax",
+          "65.02",
+          "34.57",
+          "23.36"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 29, 2020 to October 9, 2020",
+    "ipoListingDate": "Mon, Oct 19, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹45.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "11,01,000 shares (aggregating up to ₹4.95 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "57,000 shares",
+    "ipoOpenDate": "Tue, Sep 29, 2020",
+    "ipoCloseDate": "Fri, Oct 9, 2020",
+    "initiationOfRefunds": "Thu, Oct 15, 2020",
+    "creditOfSharesToDemat": "Thu, Oct 15, 2020",
+    "shareHoldingPreIssue": "30,10,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "30,10,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "41,11,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "41,11,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.24%"
+      }
+    ]
+  },
+  "closing_date": "2020-10-08T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 79 2970 8387",
+    "email": "compliance@sigmasolve.net",
+    "full_address": "Sigma Solve Limited, 305-308 3rd floor Alpha Megacone House, Opp. Armieda Sindhu Bhavan Road S G Highway, Ahmedabad - 380 054",
+    "website": "http://www.sigmasolve.in/"
+  },
+  "createdAt": "2025-04-18T17:52:59.635Z",
+  "faqs": [
+    {
+      "question": "What is the Sigma Solve IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sigma Solve IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1101000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->4.95<!-- --> Crores. The issue is priced at <span>₹45 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 29, 2020</b>, and <b>closes on <!-- -->October 9, 2020</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sigma Solve IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sigma Solve IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sigma Solve IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sigma Solve IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sigma Solve IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sigma Solve IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sigma Solve IPO opens on September 29, 2020 and closes on October 9, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sigma Solve IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sigma Solve IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,35,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sigma Solve IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sigma Solve IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sigma Solve IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sigma Solve IPO<!-- --> will be done on <!-- -->Wednesday, October 14, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, October 15, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/sigma-solve-ipo/1067/\" title=\"Sigma Solve IPO Allotment Status\">Sigma Solve IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sigma Solve IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sigma Solve IPO<!-- --> listing date is on <b>Monday, October 19, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sigma Solve",
+  "issue_price": "₹45.00",
+  "issue_price_numeric": 45,
+  "issue_size": "11,01,000 shares (aggregating up to ₹4.95 Cr)",
+  "issue_size_numeric": 11,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Broking Ltd",
+      "url": "/report/ipo-lead-manager-review/112/160/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/160/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "45.00"
+      },
+      "open": {
+        "nse_sme": "46.00"
+      },
+      "low": {
+        "nse_sme": "45.10"
+      },
+      "high": {
+        "nse_sme": "46.00"
+      },
+      "last_trade": {
+        "nse_sme": "45.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 19 2020",
+    "nse_symbol": "SIGMA",
+    "isin": "INE0A0S01010",
+    "final_issue_price": "45 per share"
+  },
+  "listing_date": "2020-10-18T18:30:00.000Z",
+  "listing_gains": "0.22%",
+  "listing_gains_numeric": 0.22,
+  "logo": "https://www.chittorgarh.net/images/ipo/sigma-solve-ltd-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sigma-solve-ltd-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "270000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sigma-solve-ipo/1067/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2020-09-28T18:30:00.000Z",
+  "pageHeading": "Sigma Solve Limited IPO (Sigma Solve IPO) Detail",
+  "pageTitle": "Sigma Solve IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Prakash Ratilal Parikh and Mrs. Kalpana Prakashbhai Parikh are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "73.24%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sigma Solve IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Sigma_DP.pdf"
+    },
+    {
+      "text": "Sigma Solve IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Sigma_Prospectus.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sigma-solve-ipo/1067/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "sigma.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Sigma Solve IPO offers 1101000 shares. 522000 (47.41%) to NII 522000 (47.41%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "57000 (5.18%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "522000 (47.41%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "522000 (47.41%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1101000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:59.635Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sigma Solve IPO is subscribed 1.59 times on October 9 2020 5:00:00 PM (Day 8). The public issue subscribed 2.09 times in the retail category [.] times in the QIB category and 1.09 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.09",
+        "shares_offered": "522000",
+        "shares_bid_for": "570000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.09",
+        "shares_offered": "522000",
+        "shares_bid_for": "1089000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.59",
+        "shares_offered": "1044000",
+        "shares_bid_for": "1659000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 9 2020",
+    "tentative_allotment": "Wed Oct 14 2020",
+    "initiation_of_refunds": "Thu Oct 15 2020",
+    "credit_of_shares_to_demat": "Thu Oct 15 2020"
+  },
+  "updatedAt": "2025-04-19T04:38:01.064Z",
+  "updated_at": "2025-04-18T17:52:59.635Z",
+  "year": 2020,
+  "worst_listing_gains": "0.22%",
+  "worst_listing_gains_numeric": 0.22
+}

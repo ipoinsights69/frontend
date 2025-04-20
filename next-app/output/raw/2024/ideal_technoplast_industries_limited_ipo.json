@@ -1,0 +1,435 @@
+{
+  "_id": "680249fd3ccffd1c7912c775",
+  "ipo_id": "2024_ideal_technoplast_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:24:21.795Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ideal-technoplast-industries-ipo/1813/"
+  },
+  "about": {
+    "details": "<p>Established in 2012, Ideal Technoplast Industries Limited is a manufacturer of rigid plastic packaging manufacturer offering its products to both domestic and international markets (indirectly through export companies and third parties).</p>\n<p>Ideal Technoplast offers industrial packaging solutions including round and square containers, twist containers and bottles for industries such as paints, agro, chemicals, cosmetics, adhesives, lubricants, food, and edible oil.</p>\n<p>The company has advanced manufacturing technologies, including in-house design and printing technology. The production facility in Surat spans several floors over an area of 20,000 sq. ft., and has state-of-the-art technology, including a fully automated line.</p>\n<p>As of 31st March, 2024, the company has a total of 28 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Ideal Technoplast Industries Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "29 Feb 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1508.51",
+          "978",
+          "356.78",
+          "300.86"
+        ],
+        [
+          "Revenue",
+          "2424.11",
+          "1199.79",
+          "568.13",
+          "569.47"
+        ],
+        [
+          "Profit After Tax",
+          "326.61",
+          "50.62",
+          "10.53",
+          "9.82"
+        ],
+        [
+          "Net Worth",
+          "743.07",
+          "188.6",
+          "137.98",
+          "127.45"
+        ],
+        [
+          "Reserves and Surplus",
+          "375.57",
+          "48.95",
+          "-1.67",
+          "-12.19"
+        ],
+        [
+          "Total Borrowing",
+          "456.89",
+          "586.04",
+          "146.56",
+          "118.62"
+        ]
+      ]
+    },
+    {
+      "heading": "Ideal Technoplast Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "ideal_technoplast_industries_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "43.95"
+        ],
+        [
+          "ROCE",
+          "32.95"
+        ],
+        [
+          "RoNW",
+          "43.95"
+        ],
+        [
+          "PAT Margin",
+          "13.47"
+        ],
+        [
+          "Price to Book Value",
+          "5.98"
+        ]
+      ]
+    },
+    {
+      "heading": "Ideal Technoplast Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "ideal_technoplast_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "9.70",
+          "7.13"
+        ],
+        [
+          "P/E (x)",
+          "12.47",
+          "16.98"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 21, 2024 to August 23, 2024",
+    "ipoListingDate": "Wed, Aug 28, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹121.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "13,25,000 shares (aggregating up to ₹16.03 Cr)",
+    "freshIssue": "13,25,000 shares (aggregating up to ₹16.03 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "67,000 shares",
+      "maker_name": "Sunflower Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/357/"
+    },
+    "ipoOpenDate": "Wed, Aug 21, 2024",
+    "ipoCloseDate": "Fri, Aug 23, 2024",
+    "initiationOfRefunds": "Tue, Aug 27, 2024",
+    "creditOfSharesToDemat": "Tue, Aug 27, 2024",
+    "shareHoldingPreIssue": "36,75,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "36,75,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "50,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "50,00,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.50%"
+      }
+    ]
+  },
+  "closing_date": "2024-08-22T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "0261-2769409",
+    "email": "cs@idealtechnoplast.com",
+    "full_address": "Ideal Technoplast Industries Limited, Plot No. 1 to 4 and 78 to 81, Block No. 572 &amp; 572/B Madhav Industrial Estate, Vill. Olpad Ta.Olpad Surat - 3945",
+    "website": "http://www.idealtechnoplasts.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.448Z",
+  "faqs": [
+    {
+      "question": "What is the Ideal Technoplast Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ideal Technoplast Industries IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1325000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->16.03<!-- --> Crores. The issue is priced at <span>₹121 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 21, 2024</b>, and <b>closes on <!-- -->August 23, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Ideal Technoplast Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Ideal Technoplast Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Ideal Technoplast Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Ideal Technoplast Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Ideal Technoplast Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Ideal Technoplast Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Ideal Technoplast Industries IPO opens on August 21, 2024 and closes on August 23, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Ideal Technoplast Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Ideal Technoplast Industries IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,21,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Ideal Technoplast Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Ideal Technoplast Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Ideal Technoplast Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Ideal Technoplast Industries IPO<!-- --> will be done on <!-- -->Monday, August 26, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, August 27, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/ideal-technoplast-industries-ipo/1813/\" title=\"Ideal Technoplast Industries IPO Allotment Status\">Ideal Technoplast Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Ideal Technoplast Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Ideal Technoplast Industries IPO<!-- --> listing date is on <b>Wednesday, August 28, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Ideal Technoplast Industries",
+  "issue_price": "₹121.00",
+  "issue_price_numeric": 121,
+  "issue_size": "13,25,000 shares (aggregating up to ₹16.03 Cr)",
+  "issue_size_numeric": 13,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swastika Investmart Ltd",
+      "url": "/report/ipo-lead-manager-review/112/122/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/122/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "121.00"
+      },
+      "open": {
+        "nse_sme": "132.10"
+      },
+      "low": {
+        "nse_sme": "132.10"
+      },
+      "high": {
+        "nse_sme": "138.70"
+      },
+      "last_trade": {
+        "nse_sme": "138.70"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "August 28 2024",
+    "nse_symbol": "IDEALTECHO",
+    "isin": "INE0T9I01011",
+    "final_issue_price": "121 per share"
+  },
+  "listing_date": "2024-08-27T18:30:00.000Z",
+  "listing_gains": "14.63%",
+  "listing_gains_numeric": 14.63,
+  "logo": "https://www.chittorgarh.net/images/ipo/ideal-technoplast-industries-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/ideal-technoplast-industries-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "121000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "121000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "242000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ideal-technoplast-industries-ipo/1813/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-08-20T18:30:00.000Z",
+  "pageHeading": "Ideal Technoplast Industries Limited IPO (Ideal Technoplast Industries IPO) Detail",
+  "pageTitle": "Ideal Technoplast Industries IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Prafulbhai Karshanbhai Vaghasia Mrs. Vaishnavi Prafulbhai Vaghasiya Mr. Vipulbhai Dulabhai Mendapara Mrs. Mitulaben Vipulbhai Mendapara Mr. Gauravbhai Chhaganbhai Gopani and Mrs. Ashaben Gauravbhai Gopani are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "73.50%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Ideal Technoplast Industries IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/IdealTechnoplastIndustriesLimited_DP.zip"
+    },
+    {
+      "text": "Ideal Technoplast Industries IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_IDEALTECHO.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ideal-technoplast-industries-ipo/1813/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Ideal Technoplast Industries IPO offers 1325000 shares. 629000 (47.47%) to NII 629000 (47.47%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "67000 (5.06%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "629000 (47.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "629000 (47.47%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1325000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.448Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Ideal Technoplast Industries IPO is subscribed 116.75 times on August 23 2024 6:19:59 PM (Day 3). The public issue subscribed 115.57 times in the retail category [.] times in the QIB category and 108.49 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "108.49",
+        "shares_offered": "629000",
+        "shares_bid_for": "68240000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "115.57",
+        "shares_offered": "629000",
+        "shares_bid_for": "72694000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "116.75",
+        "shares_offered": "1258000",
+        "shares_bid_for": "146870000"
+      }
+    },
+    "total_applications": "72694",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 23 2024",
+    "tentative_allotment": "Mon Aug 26 2024",
+    "initiation_of_refunds": "Tue Aug 27 2024",
+    "credit_of_shares_to_demat": "Tue Aug 27 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:52.241Z",
+  "updated_at": "2025-04-18T12:47:57.448Z",
+  "year": 2024,
+  "worst_listing_gains": "14.63%",
+  "worst_listing_gains_numeric": 14.63,
+  "last_performance_update": "2025-04-19T04:43:52.239Z"
+}

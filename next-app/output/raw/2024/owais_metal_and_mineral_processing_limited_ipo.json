@@ -1,0 +1,442 @@
+{
+  "_id": "680249ff3ccffd1c7912c7c8",
+  "ipo_id": "2024_owais_metal_and_mineral_processing_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:39:38.114Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/owais-metal-and-mineral-processing-ipo/1659/"
+  },
+  "about": {
+    "details": "<p>Owais Metal and Mineral Processing Limited was established in 2022 and is engaged in the production and processing of metals and minerals. Prior to the incorporation of the company, the business of the company was carried on under the name of M/s Owais Ali Overseas, a sole proprietorship firm of the promoter Mr. Saiyyed Owais Ali.</p>\n<p>The company is engaged in the manufacturing and processing of the following products</p>\n<ol>\n<li>Manganese oxide (MNO): It is used in the fertilizer industry and manganese sulphate plants</li>\n<li>MC Ferro Manganese: used in the steel and casting industry</li>\n<li>Charcoal production: used in furnaces in industries that require high heat for their manufacturing process, e.g. the steel industry</li>\n<li>Processing of minerals such as ferroalloys, quartz, and manganese ore: used in the hotel industry, the tile and ceramics industry, the glass industry, and the interior design and furniture industry.<br>The company supplies its products to the states of Madhya Pradesh, Maharashtra, Punjab, Delhi and Gujrat.</li>\n</ol>\n<p>The company's manufacturing facility is located in Meghnagar, Madhya Pradesh. As of December 31, 2023, the company had 25 permanent employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Owais Metal and Mineral Processing Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5164.23",
+          "379.62"
+        ],
+        [
+          "Revenue",
+          "3977.54",
+          null
+        ],
+        [
+          "Profit After Tax",
+          "765.47",
+          "-12.72"
+        ],
+        [
+          "Net Worth",
+          "2122.77",
+          "57.28"
+        ],
+        [
+          "Reserves and Surplus",
+          "795.25",
+          "44.28"
+        ],
+        [
+          "Total Borrowing",
+          "1350.59",
+          "321.29"
+        ]
+      ]
+    },
+    {
+      "heading": "Owais Metal And Mineral Processing Limited Stock Quote & Charts",
+      "sanitizedHeading": "owais_metal_and_mineral_processing_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "-5.35%"
+        ],
+        [
+          "Debt/Equity",
+          "5.61"
+        ],
+        [
+          "RoNW",
+          "-22.22%"
+        ],
+        [
+          "Price to Book Value",
+          "5.37"
+        ]
+      ]
+    },
+    {
+      "heading": "Owais Metal And Mineral Processing Limited Stock Quote & Charts",
+      "sanitizedHeading": "owais_metal_and_mineral_processing_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.08",
+          "2.98"
+        ],
+        [
+          "P/E (x)",
+          "21.35",
+          "29.24"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Owais Metal and Mineral Processing IPO raises Rs 11.90 crore from anchor investors. Owais Metal and Mineral Processing IPO Anchor bid date is February 23 2024. Owais Metal and Mineral Processing IPO Anchor Investors list",
+    "list_link": {
+      "text": "Owais Metal and Mineral Processing IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/owais-metals-minerals-anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "May 29 2024",
+      "shares_offered": "1368000",
+      "anchor_portion_size": "11.90"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "February 26, 2024 to February 28, 2024",
+    "ipoListingDate": "Mon, Mar 4, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹87.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "49,07,200 shares (aggregating up to ₹42.69 Cr)",
+    "freshIssue": "49,07,200 shares (aggregating up to ₹42.69 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,44,000 shares",
+      "maker_name": "Gretex Share Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/247/"
+    },
+    "ipoOpenDate": "Mon, Feb 26, 2024",
+    "ipoCloseDate": "Wed, Feb 28, 2024",
+    "initiationOfRefunds": "Fri, Mar 1, 2024",
+    "creditOfSharesToDemat": "Fri, Mar 1, 2024",
+    "shareHoldingPreIssue": "1,32,75,198 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,32,75,198 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,81,82,398 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,81,82,398 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.01%"
+      }
+    ]
+  },
+  "closing_date": "2024-02-27T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-9300096498",
+    "email": "info@ommpl.com",
+    "full_address": "Owais Metal and Mineral Processing Limited, C/o Sayyad Akhtar Ali Vahid Nagar, Old Baipass Road NA",
+    "website": "http://www.ommpl.com/"
+  },
+  "createdAt": "2025-04-18T12:47:59.735Z",
+  "faqs": [
+    {
+      "question": "What is the Owais Metal and Mineral Processing IPO?",
+      "answer": "<div itemprop=\"text\"><p>Owais Metal and Mineral Processing IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4907200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->42.69<!-- --> Crores. The issue is priced at <span>₹87 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 26, 2024</b>, and <b>closes on <!-- -->February 28, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Owais Metal and Mineral Processing IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Owais Metal and Mineral Processing IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Owais Metal and Mineral Processing IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Owais Metal and Mineral Processing IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Owais Metal and Mineral Processing IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Owais Metal and Mineral Processing IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Owais Metal and Mineral Processing IPO opens on February 26, 2024 and closes on February 28, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Owais Metal and Mineral Processing IPO?",
+      "answer": "<div itemprop=\"text\"><p>Owais Metal and Mineral Processing IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,39,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Owais Metal and Mineral Processing IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Owais Metal and Mineral Processing IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Owais Metal and Mineral Processing IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Owais Metal and Mineral Processing IPO<!-- --> will be done on <!-- -->Thursday, February 29, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, March 1, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/owais-metal-and-mineral-processing-ipo/1659/\" title=\"Owais Metal and Mineral Processing IPO Allotment Status\">Owais Metal and Mineral Processing IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Owais Metal and Mineral Processing IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Owais Metal and Mineral Processing IPO<!-- --> listing date is on <b>Monday, March 4, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Owais Metal and Mineral Processing",
+  "issue_price": "₹87.00",
+  "issue_price_numeric": 87,
+  "issue_size": "49,07,200 shares (aggregating up to ₹42.69 Cr)",
+  "issue_size_numeric": 49,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Gretex Corporate Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/123/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/123/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "87.00"
+      },
+      "open": {
+        "nse_sme": "250.00"
+      },
+      "low": {
+        "nse_sme": "241.00"
+      },
+      "high": {
+        "nse_sme": "262.50"
+      },
+      "last_trade": {
+        "nse_sme": "262.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 4 2024",
+    "nse_symbol": "OWAIS",
+    "isin": "INE0R8M01017",
+    "final_issue_price": "87 per share"
+  },
+  "listing_date": "2024-03-03T18:30:00.000Z",
+  "listing_gains": "201.72%",
+  "listing_gains_numeric": 201.72,
+  "logo": "https://www.chittorgarh.net/images/ipo/owais-metal-and-mineral-processing-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/owais-metal-and-mineral-processing-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "139200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "139200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "278400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/owais-metal-and-mineral-processing-ipo/1659/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-02-25T18:30:00.000Z",
+  "pageHeading": "Owais Metal and Mineral Processing Limited IPO (Owais Metal and Mineral Processing IPO) Detail",
+  "pageTitle": "Owais Metal and Mineral Processing IPO Date, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Saiyyed Owais Ali Mr. Sayyad Akhtar Ali and Mr. Saiyyed Murtuza Ali are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "73.01%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Owais Metal and Mineral Processing IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/OwaisMetal_DRHP.pdf"
+    },
+    {
+      "text": "Owais Metal and Mineral Processing IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_OWAIS.zip"
+    },
+    {
+      "text": "Anchor Investors in Owais Metal and Mineral Processing IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/owais-metals-minerals-anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "3",
+        "neutral": "1",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/owais-metal-and-mineral-processing-ipo/1659/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Owais Metal and Mineral Processing IPO offers 4907200 shares. 912000 (18.58%) to QIB 684800 (13.96%) to NII 1598400 (32.57%) to RII and 1368000 (27.88%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1368000 (27.88%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "344000 (7.01%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "912000 (18.58%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "684800 (13.96%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1598400 (32.57%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4907200 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.735Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Owais Metal and Mineral Processing IPO is subscribed 221.18 times on February 28 2024 6:21:00 PM (Day 3). The public issue subscribed 248.5 times in the retail category 92.06 times in the QIB category and 329.36 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "92.06",
+        "shares_offered": "912000",
+        "shares_bid_for": "83961600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "329.36",
+        "shares_offered": "684800",
+        "shares_bid_for": "225544000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "248.5",
+        "shares_offered": "1598400",
+        "shares_bid_for": "397208000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "221.18",
+        "shares_offered": "3195200",
+        "shares_bid_for": "706713600"
+      }
+    },
+    "total_applications": "248255",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 28 2024",
+    "tentative_allotment": "Thu Feb 29 2024",
+    "initiation_of_refunds": "Fri Mar 1 2024",
+    "credit_of_shares_to_demat": "Fri Mar 1 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:07.832Z",
+  "updated_at": "2025-04-18T12:47:59.735Z",
+  "year": 2024,
+  "worst_listing_gains": "201.72%",
+  "worst_listing_gains_numeric": 201.72
+}

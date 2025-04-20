@@ -1,0 +1,462 @@
+{
+  "_id": "68024a013ccffd1c7912c7df",
+  "ipo_id": "2024_rajputana_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:25:35.939Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/rajputana-industries-ipo/1792/"
+  },
+  "about": {
+    "details": "<p>Rajputana Industries Limited was established in 2011 and manufactures a wide range of non-ferrous metal products in copper, aluminum, brass, and various alloys from recycled scrap metal.</p>\n<p>The company manufactures billets of metals such as aluminium, copper or brass, etc. from scrap metal procured from open markets. The scrap metal is processed into billets through recycling at the company's own manufacturing facility in Sikar, Rajasthan. The company sells these billets to various manufacturing companies or uses them to manufacture products such as copper rods, aluminum rods, copper mother tubes, brass wires, super-enameled copper conductors, and many other products. These wires, tubes, rods, billets, and bars are manufactured in various shapes and sizes as per the requirements of the customers and/or the demand in the market.</p>\n<p>In order to expand its product portfolio, the company is entering into the production of cables, which are primarily used in the construction industry, especially in residential construction, and as underwater cables for motors. The planned cable plant is to be installed in the company's existing production facility by utilizing the excess space of the production plant.</p>\n<p>As of July 10, 2024, the company had 98 full-time employees, including employees in the areas of accounting and finance, compliance, maintenance, marketing and logistics, production and operations, quality, executives and permanent employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Rajputana Industries Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "14974.81",
+          "11781.27",
+          "10236.66"
+        ],
+        [
+          "Revenue",
+          "32701.29",
+          "25524.98",
+          "24450.96"
+        ],
+        [
+          "Profit After Tax",
+          "512.64",
+          "309.67",
+          "263.77"
+        ],
+        [
+          "Net Worth",
+          "3257.20",
+          "2743.85",
+          "1712.39"
+        ],
+        [
+          "Total Borrowing",
+          "2936.30",
+          "3001.61",
+          "2537.98"
+        ]
+      ]
+    },
+    {
+      "heading": "Rajputana Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "rajputana_industries_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "17.09%"
+        ],
+        [
+          "ROCE",
+          "30.28%"
+        ],
+        [
+          "RoNW",
+          "15.74%"
+        ],
+        [
+          "PAT Margin",
+          "1.57"
+        ],
+        [
+          "Price to Book Value",
+          "1.79"
+        ]
+      ]
+    },
+    {
+      "heading": "Rajputana Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "rajputana_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.22",
+          "2.31"
+        ],
+        [
+          "P/E (x)",
+          "11.81",
+          "16.47"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Rajputana Industries IPO raises Rs 6.12 crore from anchor investors. Rajputana Industries IPO Anchor bid date is July 29 2024. Rajputana Industries IPO Anchor Investors list",
+    "list_link": {
+      "text": "Rajputana Industries IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rajputana_industries_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "October 31 2024",
+      "shares_offered": "1611000",
+      "anchor_portion_size": "6.12"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "July 30, 2024 to August 1, 2024",
+    "ipoListingDate": "Tue, Aug 6, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹38.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "62,85,000 shares (aggregating up to ₹23.88 Cr)",
+    "freshIssue": "62,85,000 shares (aggregating up to ₹23.88 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,60,000 shares",
+      "maker_name": "Holani Consultants Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/252/"
+    },
+    "ipoOpenDate": "Tue, Jul 30, 2024",
+    "ipoCloseDate": "Thu, Aug 1, 2024",
+    "initiationOfRefunds": "Mon, Aug 5, 2024",
+    "creditOfSharesToDemat": "Mon, Aug 5, 2024",
+    "shareHoldingPreIssue": "1,59,30,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,59,30,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "92.15%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,22,15,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,22,15,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-07-31T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9588841031",
+    "email": "cs@rajputanaindustries.com",
+    "full_address": "Rajputana Industries Limited, F-269-B, Road No. 13, VKIA Jaipur - 302013",
+    "website": "http://www.rajputanaindustries.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.069Z",
+  "faqs": [
+    {
+      "question": "What is the Rajputana Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rajputana Industries IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6285000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->23.88<!-- --> Crores. The issue is priced at <span>₹38 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 30, 2024</b>, and <b>closes on <!-- -->August 1, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Rajputana Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Rajputana Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Rajputana Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Rajputana Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Rajputana Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Rajputana Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Rajputana Industries IPO opens on July 30, 2024 and closes on August 1, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Rajputana Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rajputana Industries IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,14,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Rajputana Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Rajputana Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Rajputana Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Rajputana Industries IPO<!-- --> will be done on <!-- -->Friday, August 2, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, August 5, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/rajputana-industries-ipo/1792/\" title=\"Rajputana Industries IPO Allotment Status\">Rajputana Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Rajputana Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Rajputana Industries IPO<!-- --> listing date is on <b>Tuesday, August 6, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Rajputana Industries",
+  "issue_price": "₹38.00",
+  "issue_price_numeric": 38,
+  "issue_size": "62,85,000 shares (aggregating up to ₹23.88 Cr)",
+  "issue_size_numeric": 62,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Holani Consultants Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/151/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/151/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "38.00"
+      },
+      "open": {
+        "nse_sme": "72.20"
+      },
+      "low": {
+        "nse_sme": "72.20"
+      },
+      "high": {
+        "nse_sme": "75.80"
+      },
+      "last_trade": {
+        "nse_sme": "75.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "August 6 2024",
+    "nse_symbol": "RAJINDLTD",
+    "isin": "INE0PCU01012",
+    "final_issue_price": "38 per share"
+  },
+  "listing_date": "2024-08-05T18:30:00.000Z",
+  "listing_gains": "99.47%",
+  "listing_gains_numeric": 99.47,
+  "logo": "https://www.chittorgarh.net/images/ipo/rajputana-industries-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/rajputana-industries-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "114000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "114000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "228000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/rajputana-industries-ipo/1792/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2024-07-29T18:30:00.000Z",
+  "pageHeading": "Rajputana Industries Limited IPO (Rajputana Industries IPO) Detail",
+  "pageTitle": "Rajputana Industries IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The company's promoters are M/s Shera Energy Limited M/s Isha Infrapower Private Limited Mrs. Shivani Sheikh and Mr. Sheikh Naseem.",
+    "holdings": {
+      "share_holding_pre_issue": "92.15%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Rajputana Industries IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/RajputanaIndustriesLimited_DRHP.zip"
+    },
+    {
+      "text": "Rajputana Industries IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_RAJINDLTD.zip"
+    },
+    {
+      "text": "Anchor Investors in Rajputana Industries IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rajputana_industries_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/rajputana-industries-ipo/1792/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Rajputana Industries IPO offers 6285000 shares. 1074000 (17.09%) to QIB 900000 (14.32%) to NII 2010000 (31.98%) to RII 30000 (0.48%) to employees and 1611000 (25.63%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1611000 (25.63%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "360000 (5.73%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1074000 (17.09%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "900000 (14.32%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2010000 (31.98%)"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "30000 (0.48%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "300000 (4.77%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6285000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.069Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Rajputana Industries IPO is subscribed 376.41 times on August 1 2024 6:19:00 PM (Day 3). The public issue subscribed 524.61 times in the retail category 177.94 times in the QIB category and 417.95 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "177.94",
+        "shares_offered": "1074000",
+        "shares_bid_for": "191112000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "417.95",
+        "shares_offered": "900000",
+        "shares_bid_for": "376158000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "524.61",
+        "shares_offered": "2010000",
+        "shares_bid_for": "1054476000"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "2.8",
+        "shares_offered": "30000",
+        "shares_bid_for": "84000"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "6.67",
+        "shares_offered": "300000",
+        "shares_bid_for": "2001000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "376.41",
+        "shares_offered": "4314000",
+        "shares_bid_for": "1623831000"
+      }
+    },
+    "total_applications": "351492",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 1 2024",
+    "tentative_allotment": "Fri Aug 2 2024",
+    "initiation_of_refunds": "Mon Aug 5 2024",
+    "credit_of_shares_to_demat": "Mon Aug 5 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:10.446Z",
+  "updated_at": "2025-04-18T12:48:01.069Z",
+  "year": 2024,
+  "worst_listing_gains": "99.47%",
+  "worst_listing_gains_numeric": 99.47
+}

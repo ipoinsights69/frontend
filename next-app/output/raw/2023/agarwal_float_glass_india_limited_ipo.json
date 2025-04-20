@@ -1,0 +1,393 @@
+{
+  "_id": "68028e993ccffd1c7912c8a3",
+  "ipo_id": "2023_agarwal_float_glass_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:35:16.720Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/agarwal-float-glass-india-ipo/1372/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2018, Agarwal Float Glass India Limited is engaged in the business of <strong>trading of glass</strong> and <strong>specialized glass products</strong>. The company procures quality products from manufacturers and thereafter sells the same through the sales managers or directly to customers, as a wholesaler of glass and glass products.</p>\n<p>The company is a crucial part of the Agarwal Group. The Group was set up by Uma Shankar Agarwal and Mahesh Kumar Agarwal in 1997 for trading ;in glass and glass products.</p>\n<p>The products of Agarwal Float Glass India are delivered across the country. Their products are utilized in varied areas like office buildings, hotels, institutions, banks, insurance companies, shopping malls, diplomatic residences, and many others as per suitability. The product portfolio ranges between clear glass, different kinds of value-added glass products and processed glass products, of varying thicknesses.</p>\n<p>Alongside trading of glass, the entity also offers processed glass including:</p>\n<ul>\n<li>Toughened glass</li>\n<li>Frosted glass</li>\n<li>Frosted design glass</li>\n<li>Leaguered glass, figure glass</li>\n<li>Heat-strengthened glass</li>\n<li>Insulated glass</li>\n<li>PVB laminated glass</li>\n<li>Bullet-resistant glass and all building glasses</li>\n</ul>\n<p>Agarwal Float Glass India Limited is highly dependent on suppliers and distributors. These suppliers include Saint-Gobain India Private Limited, Sisecam Flat Glass India Private Limited, Gold Plus Glass Industry Limited, Asahi India Glass Limited, and Gujarat Guardian Limited. With the help of strong associations, the company is able to deliver high quality products and satisfy the requirements of its customers.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "1767.31",
+          "3227.43",
+          "8.83",
+          "201.30",
+          "-0.84",
+          "1120.38"
+        ],
+        [
+          "31-Mar-21",
+          "1811.87",
+          "3188.13",
+          "24.73",
+          "226.02",
+          "23.88",
+          "1175.30"
+        ],
+        [
+          "31-Mar-22",
+          "1761.79",
+          "4216.91",
+          "101.68",
+          "327.68",
+          "125.54",
+          "1141.78"
+        ],
+        [
+          "30-Sep-22",
+          "2177.31",
+          "2369.04",
+          "267.75",
+          "595.43",
+          "393.29",
+          "1167.91"
+        ]
+      ]
+    },
+    {
+      "heading": "Agarwal Float Glass India Limited Stock Quote & Charts",
+      "sanitizedHeading": "agarwal_float_glass_india_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "5.68",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 10, 2023 to February 15, 2023",
+    "ipoListingDate": "Thu, Feb 23, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹42.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "21,90,000 shares (aggregating up to ₹9.20 Cr)",
+    "freshIssue": "21,90,000 shares (aggregating up to ₹9.20 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,14,000 shares",
+      "maker_name": "Smc Global Securities Ltd.",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/348/"
+    },
+    "ipoOpenDate": "Fri, Feb 10, 2023",
+    "ipoCloseDate": "Wed, Feb 15, 2023",
+    "initiationOfRefunds": "Tue, Feb 21, 2023",
+    "creditOfSharesToDemat": "Wed, Feb 22, 2023",
+    "shareHoldingPreIssue": "50,53,488 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "50,53,488 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.99%"
+      }
+    ],
+    "shareHoldingPostIssue": "72,43,488 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72,43,488 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "69.77%"
+      }
+    ]
+  },
+  "closing_date": "2023-02-14T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 723 004 3211",
+    "email": "compliance@agarwafloat.com",
+    "full_address": "Agarwal Float Glass India Limited, H-1/790, Sitapura Industrial Area Ext., Near Fire Bridge Office",
+    "website": "http://www.agarwalfloat.com/"
+  },
+  "createdAt": "2025-04-18T17:40:40.906Z",
+  "faqs": [
+    {
+      "question": "What is the Agarwal Float Glass India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Agarwal Float Glass India IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2190000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->9.20<!-- --> Crores. The issue is priced at <span>₹42 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 10, 2023</b>, and <b>closes on <!-- -->February 15, 2023</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Agarwal Float Glass India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Agarwal Float Glass India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Agarwal Float Glass India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Agarwal Float Glass India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Agarwal Float Glass India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Agarwal Float Glass India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Agarwal Float Glass India IPO opens on February 10, 2023 and closes on February 15, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Agarwal Float Glass India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Agarwal Float Glass India IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,26,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Agarwal Float Glass India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Agarwal Float Glass India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Agarwal Float Glass India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Agarwal Float Glass India IPO<!-- --> will be done on <!-- -->Monday, February 20, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, February 22, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/agarwal-float-glass-india-ipo/1372/\" title=\"Agarwal Float Glass India IPO Allotment Status\">Agarwal Float Glass India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Agarwal Float Glass India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Agarwal Float Glass India IPO<!-- --> listing date is on <b>Thursday, February 23, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Agarwal Float Glass India",
+  "issue_price": "₹42.00",
+  "issue_price_numeric": 42,
+  "issue_size": "21,90,000 shares (aggregating up to ₹9.20 Cr)",
+  "issue_size_numeric": 21,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "GYR Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/182/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/182/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "42.00"
+      },
+      "open": {
+        "nse_sme": "44.00"
+      },
+      "low": {
+        "nse_sme": "42.00"
+      },
+      "high": {
+        "nse_sme": "44.50"
+      },
+      "last_trade": {
+        "nse_sme": "44.05"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "February 23 2023",
+    "nse_symbol": "AGARWALFT",
+    "isin": "INE0MLA01012",
+    "final_issue_price": "42 per share"
+  },
+  "listing_date": "2023-02-22T18:30:00.000Z",
+  "listing_gains": "4.88%",
+  "listing_gains_numeric": 4.88,
+  "logo": "https://www.chittorgarh.net/images/ipo/agarwal-float-glass-india-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/agarwal-float-glass-india-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "126000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "126000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "252000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/agarwal-float-glass-india-ipo/1372/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2023-02-09T18:30:00.000Z",
+  "pageHeading": "Agarwal Float Glass India Limited IPO (Agarwal Float Glass India IPO) Detail",
+  "pageTitle": "Agarwal Float Glass India IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Uma Shankar Agarwal and Mahesh Kumar Agarwal are the Promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "99.99%",
+      "share_holding_post_issue": "69.77%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Agarwal Float Glass India IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AgarwalFloat_Glass_DP.pdf"
+    },
+    {
+      "text": "Agarwal Float Glass India IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AgarwalFloat_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "4"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/agarwal-float-glass-india-ipo/1372/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "afgil.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Agarwal Float Glass India IPO offers 2190000 shares. 1038000 (47.40%) to NII 1038000 (47.40%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "114000 (5.21%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1038000 (47.40%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1038000 (47.40%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2190000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:40.906Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Agarwal Float Glass India IPO is subscribed 5.16 times on February 15 2023 7:00:00 PM (Day 4). The public issue subscribed 7.2 times in the retail category [.] times in the QIB category and 3.13 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "3.13",
+        "shares_offered": "1038000",
+        "shares_bid_for": "3249000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "7.2",
+        "shares_offered": "1038000",
+        "shares_bid_for": "7470000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "5.16",
+        "shares_offered": "2076000",
+        "shares_bid_for": "10719000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 15 2023",
+    "tentative_allotment": "Mon Feb 20 2023",
+    "initiation_of_refunds": "Tue Feb 21 2023",
+    "credit_of_shares_to_demat": "Wed Feb 22 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:23.965Z",
+  "updated_at": "2025-04-18T17:40:40.906Z",
+  "year": 2023,
+  "worst_listing_gains": "4.88%",
+  "worst_listing_gains_numeric": 4.88
+}

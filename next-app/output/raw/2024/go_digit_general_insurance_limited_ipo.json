@@ -1,0 +1,507 @@
+{
+  "_id": "680249fd3ccffd1c7912c76e",
+  "ipo_id": "2024_go_digit_general_insurance_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:30:31.582Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/go-digit-general-insurance-ipo/1727/"
+  },
+  "about": {
+    "details": "<p>Incorporated in December 2016, Go Digit General Insurance Limited is an insurance provider&nbsp;offering motor insurance, health insurance, travel insurance, property insurance, marine insurance, liability insurance and other insurance products, which customers can customize to meet their needs.</p>\n<p>The company has currently launched a total of 74 active products across all its business lines.</p>\n<p>As of December 31, 2023, the company had about 61,972 partners, including 58,532 POSPs and other agents.</p>\n<p>As of December 31, 2023, the company had a distribution centers in 24 states and union territories in India.</p>\n<p>As of Dec 31, 2023, company had 473 active bots to automate tasks for functions and partners.</p>\n<p>As of December 31, 2023, the company currently operates 75 offices throughout India.</p>\n<p>As of March 31, 2023 and December 31, 2023, the company had 3,333 and 3,957 employees, respectively.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Go Digit General Insurance Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3619.95",
+          "3346.75",
+          "2919.01",
+          "1874.80"
+        ],
+        [
+          "Revenue",
+          "130.83",
+          "39.19",
+          "-293.64",
+          "-118.55"
+        ],
+        [
+          "Profit After Tax",
+          "129.02",
+          "35.54",
+          "-295.85",
+          "-122.76"
+        ],
+        [
+          "Net Worth",
+          "2459.34",
+          "2325.47",
+          "1866.87",
+          "1134.57"
+        ],
+        [
+          "Reserves and Surplus",
+          "2391.97",
+          "2383.61",
+          "1975.07",
+          "973.14"
+        ],
+        [
+          "Total Borrowing",
+          "200.00",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "heading": "Go Digit General Insurance Limited Stock Quote & Charts",
+      "sanitizedHeading": "go_digit_general_insurance_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "RoNW",
+          "5.25%"
+        ],
+        [
+          "Price to Book Value",
+          "9.67"
+        ]
+      ]
+    },
+    {
+      "heading": "Go Digit General Insurance Limited Stock Quote & Charts",
+      "sanitizedHeading": "go_digit_general_insurance_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "0.41",
+          "1.88"
+        ],
+        [
+          "P/E (x)",
+          "670.31",
+          "145.03"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Go Digit IPO raises Rs 1176.59 crore from anchor investors. Go Digit IPO Anchor bid date is May 14 2024. Go Digit IPO Anchor Investors list",
+    "list_link": {
+      "text": "Go Digit IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/godigit_anchor_allocatio_report.pdf"
+    },
+    "details": {
+      "ipo_date": "August 19 2024",
+      "shares_offered": "43257009",
+      "anchor_portion_size": "1176.59"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "May 15, 2024 to May 17, 2024",
+    "ipoListingDate": "Thu, May 23, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹272.00",
+    "lotSize": "55 Shares",
+    "issueSize": "9,61,26,686 shares (aggregating up to ₹2,614.65 Cr)",
+    "freshIssue": "4,13,60,294 shares (aggregating up to ₹1,125.00 Cr)",
+    "offerForSale": "5,47,66,392 shares of ₹10 (aggregating up to ₹1,489.65 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, May 15, 2024",
+    "ipoCloseDate": "Fri, May 17, 2024",
+    "initiationOfRefunds": "Wed, May 22, 2024",
+    "creditOfSharesToDemat": "Wed, May 22, 2024",
+    "shareHoldingPreIssue": "87,58,42,046 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "87,58,42,046 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "83.31%"
+      }
+    ],
+    "shareHoldingPostIssue": "91,72,02,340 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "91,72,02,340 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-05-16T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 20 67495400",
+    "email": "cs@godigit.com",
+    "full_address": "Go Digit General Insurance Limited, 1 to 6 Floor Ananta One Pride Hotel Lane, Narveer Tanaji Wadi City Survey No.1579, Shivajinagar Pune 411005",
+    "website": "https://www.godigit.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.198Z",
+  "faqs": [
+    {
+      "question": "What is the Go Digit IPO?",
+      "answer": "<div itemprop=\"text\"><p>Go Digit IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->96126686<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->2,614.65<!-- --> Crores. The issue is priced at <span>₹272 per share</span>. The minimum order quantity is <!-- -->55<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 15, 2024</b>, and <b>closes on <!-- -->May 17, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Go Digit IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Go Digit IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Go Digit IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Go Digit IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Go Digit IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Go Digit IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Go Digit IPO opens on May 15, 2024 and closes on May 17, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Go Digit IPO?",
+      "answer": "<div itemprop=\"text\"><p>Go Digit IPO<!-- --> <b>lot size is <!-- -->55</b>, and the <b>minimum amount required is <span>₹14,960</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Go Digit IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Go Digit IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Go Digit IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Go Digit IPO<!-- --> will be done on <!-- -->Tuesday, May 21, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, May 22, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/go-digit-general-insurance-ipo/1727/\" title=\"Go Digit IPO Allotment Status\">Go Digit IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Go Digit IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Go Digit IPO<!-- --> listing date is on <b>Thursday, May 23, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Go Digit General Insurance",
+  "issue_price": "₹272.00",
+  "issue_price_numeric": 272,
+  "issue_size": "9,61,26,686 shares (aggregating up to ₹2,614.65 Cr)",
+  "issue_size_numeric": 9,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Morgan Stanley India Company Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/31/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/31/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Hdfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/82/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/82/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Nuvama Wealth Management Limited",
+      "url": "/report/ipo-lead-manager-review/112/408/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/408/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "272.00",
+        "nse": "272.00"
+      },
+      "open": {
+        "bse": "281.10",
+        "nse": "286.00"
+      },
+      "low": {
+        "bse": "281.10",
+        "nse": "280.00"
+      },
+      "high": {
+        "bse": "314.00",
+        "nse": "314.00"
+      },
+      "last_trade": {
+        "bse": "305.75",
+        "nse": "306.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 23 2024",
+    "bse_script_code": "544179",
+    "nse_symbol": "GODIGIT",
+    "isin": "INE03JT01014",
+    "final_issue_price": "272 per share"
+  },
+  "listing_date": "2024-05-22T18:30:00.000Z",
+  "listing_gains": "12.41%",
+  "listing_gains_numeric": 12.41,
+  "logo": "https://www.chittorgarh.net/images/ipo/godigit_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/godigit_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 55 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "55",
+        "amount": "14960"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "715",
+        "amount": "194480"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "770",
+        "amount": "209440"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "3630",
+        "amount": "987360"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "3685",
+        "amount": "1002320"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/go-digit-general-insurance-ipo/1727/"
+    }
+  },
+  "lot_size": 55,
+  "opening_date": "2024-05-14T18:30:00.000Z",
+  "pageHeading": "Go Digit General Insurance Limited IPO (Go Digit IPO) Detail",
+  "pageTitle": "Go Digit IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The promoter of the company are Kamesh Goyal GoDigit Infoworks Services Private Limited Oben Ventures LLP And FAL Corporation.",
+    "holdings": {
+      "share_holding_pre_issue": "83.31%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Go Digit IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2023/go-digit-general-insurance-limited-drhp_69822.html"
+    },
+    {
+      "text": "Go Digit IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2024/go-digit-general-insurance-limited-rhp_83281.html"
+    },
+    {
+      "text": "Anchor Investors in Go Digit IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/godigit_anchor_allocatio_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "7",
+        "neutral": "3",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "6"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/go-digit-general-insurance-ipo/1727/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "godigit.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Go Digit IPO offers 96126686 shares. 28838007 (30.00%) to QIB 14419002 (15.00%) to NII 9612668 (10.00%) to RII and 43257009 (45.00%) to Anchor investors. 174775 RIIs will receive minimum 55 shares and 6241 (sNII) and 12483 (bNII) will receive minimum 770 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "43257009 (45.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "28838007 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "14419002 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "9612668 (10.00%)",
+        "maximum_allottees": "12483"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "4806334 (5.00%)",
+        "maximum_allottees": "6241"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "9612668 (10.00%)",
+        "maximum_allottees": "174775"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "96126686 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.198Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Go Digit IPO is subscribed 9.6 times on May 17 2024 6:19:06 PM (Day 3). The public issue subscribed 4.27 times in the retail category 12.56 times in the QIB category and 7.24 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "12.56",
+        "shares_offered": "28838007",
+        "shares_bid_for": "362269545"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "7.24",
+        "shares_offered": "14419002",
+        "shares_bid_for": "104340610"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "8.28",
+        "shares_offered": "9612668",
+        "shares_bid_for": "79585330"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "5.15",
+        "shares_offered": "4806334",
+        "shares_bid_for": "24755280"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "4.27",
+        "shares_offered": "9612668",
+        "shares_bid_for": "41011300"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "9.6",
+        "shares_offered": "52869677",
+        "shares_bid_for": "507621455"
+      }
+    },
+    "total_applications": "585348"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 17 2024",
+    "tentative_allotment": "Tue May 21 2024",
+    "initiation_of_refunds": "Wed May 22 2024",
+    "credit_of_shares_to_demat": "Wed May 22 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:51.215Z",
+  "updated_at": "2025-04-18T12:47:57.198Z",
+  "year": 2024,
+  "worst_listing_gains": "12.41%",
+  "worst_listing_gains_numeric": 12.41,
+  "last_performance_update": "2025-04-19T04:43:51.214Z"
+}

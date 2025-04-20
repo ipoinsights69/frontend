@@ -1,0 +1,389 @@
+{
+  "_id": "6802936b3ccffd1c7912caa4",
+  "ipo_id": "2022_rex_sealing_and_packing_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:54:34.781Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/rex-sealing-and-packing-industries-ipo/1361/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2005, Rex Sealing and Packing Industries Limited is a manufacturer and exporter of Sealing packing and Insulation products including Jointing Sheets, Fabric Expansion Joints, Gland packing &amp; Ropes, High-Temperature resistant textiles, Ceramic Fiber Products, etc.</p>\n<p>The business was first started by Mr Manjunath Nayak under the name M/s Rex Industries for manufacturing Gland Packing.</p>\n<p>The vast product portfolio of Rex Sealing and Packing Industries includes:</p>\n<ol>\n<li>Compressed Fibre Jointing Sheets / Gaskets</li>\n<li>Gland Packing &amp; Ropes</li>\n<li>Fabric Expansion Joints</li>\n<li>Technical and Heat Resistance Textiles</li>\n<li>Ceramic Fiber Product</li>\n</ol>\n<p>The company executes in-house manufacturing through its unit situated in MIDC- Taloja Industrial Area, Palekhurd Panvel, Raigad.</p>\n<p>The company is also planning to set up an additional manufacturing unit in Anand Nagar, MIDC Ambernath, admeasuring 4000. Sq meter for expansion of business and manufacture. Rex Sealing and Packing Industries will manufacture all types of \"Asbestos Free\" Gaskets sheets for Automotive, Steel, and other process units through this extension.</p>\n<p>They are a customer-centric company, and the products of the company are used by some well-known industrial houses in the Petrochemical, Pharmaceutical, Power, Steel, Cement, Chemical, Gas, and Process industry.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "1357.01",
+          "2017.7",
+          "113.32",
+          "732.87",
+          "437.35"
+        ],
+        [
+          "31-Mar-21",
+          "1317.08",
+          "1726.3",
+          "36.81",
+          "769.67",
+          "338.95"
+        ],
+        [
+          "31-Mar-22",
+          "1443.75",
+          "2115.68",
+          "54.62",
+          "824.3",
+          "377.71"
+        ],
+        [
+          "30-Jun-22",
+          "1508.67",
+          "571.62",
+          "37.6",
+          "861.9",
+          "328.22"
+        ]
+      ]
+    },
+    {
+      "heading": "Rex Sealing And Packing Industries Ltd Stock Quote & Charts",
+      "sanitizedHeading": "rex_sealing_and_packing_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "19.62",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 30, 2022 to January 4, 2023",
+    "ipoListingDate": "Thu, Jan 12, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹135.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "5,99,000 shares (aggregating up to ₹8.09 Cr)",
+    "freshIssue": "3,00,000 shares (aggregating up to ₹4.05 Cr)",
+    "offerForSale": "2,99,000 shares of ₹10 (aggregating up to ₹4.04 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "33,000 shares",
+      "maker_name": "Aryaman Capital Markets Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/217/"
+    },
+    "ipoOpenDate": "Fri, Dec 30, 2022",
+    "ipoCloseDate": "Wed, Jan 4, 2023",
+    "initiationOfRefunds": "Tue, Jan 10, 2023",
+    "creditOfSharesToDemat": "Wed, Jan 11, 2023",
+    "shareHoldingPreIssue": "19,20,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "19,20,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.99%"
+      }
+    ],
+    "shareHoldingPostIssue": "22,20,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "22,20,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.02%"
+      }
+    ]
+  },
+  "closing_date": "2023-01-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-22-40021599",
+    "email": "compliance@rexseal.com",
+    "full_address": "Rex Sealing and Packing Industries Limited, A-207 2nd Floor Plot No.711 A, Byculla Services Industries D K Road, Ghodapdeo Byculla (East) Mumbai - 400027",
+    "website": "http://www.rexseal.com/"
+  },
+  "createdAt": "2025-04-18T18:01:15.079Z",
+  "faqs": [
+    {
+      "question": "What is the Rex Sealing and Packing Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rex Sealing and Packing Industries IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->599000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->8.09<!-- --> Crores. The issue is priced at <span>₹135 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 30, 2022</b>, and <b>closes on <!-- -->January 4, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Rex Sealing and Packing Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Rex Sealing and Packing Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Rex Sealing and Packing Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Rex Sealing and Packing Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Rex Sealing and Packing Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Rex Sealing and Packing Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Rex Sealing and Packing Industries IPO opens on December 30, 2022 and closes on January 4, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Rex Sealing and Packing Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rex Sealing and Packing Industries IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,35,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Rex Sealing and Packing Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Rex Sealing and Packing Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Rex Sealing and Packing Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Rex Sealing and Packing Industries IPO<!-- --> will be done on <!-- -->Monday, January 9, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, January 11, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/rex-sealing-and-packing-industries-ipo/1361/\" title=\"Rex Sealing and Packing Industries IPO Allotment Status\">Rex Sealing and Packing Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Rex Sealing and Packing Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Rex Sealing and Packing Industries IPO<!-- --> listing date is on <b>Thursday, January 12, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Rex Sealing and Packing Industries",
+  "issue_price": "₹135.00",
+  "issue_price_numeric": 135,
+  "issue_size": "5,99,000 shares (aggregating up to ₹8.09 Cr)",
+  "issue_size_numeric": 5,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Aryaman Financial Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/77/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/77/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "135.00"
+      },
+      "open": {
+        "bse_sme": "137.00"
+      },
+      "low": {
+        "bse_sme": "136.00"
+      },
+      "high": {
+        "bse_sme": "143.85"
+      },
+      "last_trade": {
+        "bse_sme": "143.85"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "January 12 2023",
+    "bse_script_code": "543744",
+    "isin": "INE0MFT01014",
+    "final_issue_price": "135 per share"
+  },
+  "listing_date": "2023-01-11T18:30:00.000Z",
+  "listing_gains": "6.56%",
+  "listing_gains_numeric": 6.56,
+  "logo": "https://www.chittorgarh.net/images/ipo/rex-sealing-packing-industries-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/rex-sealing-packing-industries-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "135000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "135000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "270000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/rex-sealing-and-packing-industries-ipo/1361/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2022-12-29T18:30:00.000Z",
+  "pageHeading": "Rex Sealing and Packing Industries Limited IPO (Rex Sealing and Packing Industries IPO) Detail",
+  "pageTitle": "Rex Sealing and Packing Industries IPO Date, Details",
+  "promoterHolding": {
+    "promoters": "Naresh Nayak Niranjan Nayak and Manjunath Nayak are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "99.99%",
+      "share_holding_post_issue": "73.02%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Rex Sealing and Packing Industries IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/342187/Rex%20Sealing-Draft%20Prospectus%20-%20final_20220919141652.pdf"
+    },
+    {
+      "text": "Rex Sealing and Packing Industries IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/rex-sealing-and-packing-industries-limited-sme-issue-prospectus_66638.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/rex-sealing-and-packing-industries-ipo/1361/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Rex Sealing and Packing Industries IPO offers 599000 shares. 283000 (47.25%) to NII 283000 (47.25%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "33000 (5.51%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "283000 (47.25%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "283000 (47.25%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "599000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:15.079Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Rex Sealing and Packing Industries IPO is subscribed 2.65 times on January 4 2023 6:57:00 PM (Day 4). The public issue subscribed 3.3 times in the retail category [.] times in the QIB category and 2 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2",
+        "shares_offered": "283000",
+        "shares_bid_for": "566000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.3",
+        "shares_offered": "283000",
+        "shares_bid_for": "934000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.65",
+        "shares_offered": "566000",
+        "shares_bid_for": "1500000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 4 2023",
+    "tentative_allotment": "Mon Jan 9 2023",
+    "initiation_of_refunds": "Tue Jan 10 2023",
+    "credit_of_shares_to_demat": "Wed Jan 11 2023"
+  },
+  "updatedAt": "2025-04-19T04:38:34.166Z",
+  "updated_at": "2025-04-18T18:01:15.079Z",
+  "year": 2022,
+  "worst_listing_gains": "6.56%",
+  "worst_listing_gains_numeric": 6.56
+}

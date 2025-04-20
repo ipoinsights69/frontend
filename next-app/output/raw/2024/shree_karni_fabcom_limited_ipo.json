@@ -1,0 +1,460 @@
+{
+  "_id": "68024a013ccffd1c7912c802",
+  "ipo_id": "2024_shree_karni_fabcom_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:38:37.664Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/shree-karni-fabcom-ipo/1668/"
+  },
+  "about": {
+    "details": "<p>Incorporated in March 2018, Shree Karni Fancom Limited produces customized knitted and woven fabrics for industries such as luggage, medical arch support, chairs, shoes, and apparel. They specialize in Woven Fabrics, Knitted Fabrics, Coated Fabrics, and 100% polyester, and source yarn, resin, acrylic, and coating chemicals to produce specialized technical textiles.</p>\n<p>The manufacturing unit has modern, highly automated machines that produce specialized technical textiles with installed capacities of 70k meters/day for weaving, 90k kilos/month for knitting, 50k meters/day for coatings, 15k meters/day for PVC, 8k meters/day for EVA lamination, and 40k meters/day for heat embossing.</p>\n<p>Revenue from operations for 8 months ended Nov 30, 2023 was ₹7572.22 lakhs. Fiscals 2021, 2022, 2023 revenue was ₹3287.42 lakhs, ₹8357.36 lakhs, and ₹12694.65 lakhs respectively. Revenue grew at a CAGR of 56.89% during this period.</p>\n<p>The company has been awarded a certificate for their management system, ISO 9001:2015 by INTERTEK.</p>\n<p>The company sells its products to various contract manufacturers of branded luggage and shoe manufacturers, traders, and others located in 13 states.</p>\n<p>As on November 30, 2023, the company has&nbsp;39 employees in various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Shree Karni Fabcom Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Nov 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "14124.38",
+          "9864.25",
+          "5911.11",
+          "2743.05"
+        ],
+        [
+          "Revenue",
+          "7599.48",
+          "12704.05",
+          "8365.18",
+          "3289.86"
+        ],
+        [
+          "Profit After Tax",
+          "813.44",
+          "555.25",
+          "514.84",
+          "153.48"
+        ],
+        [
+          "Net Worth",
+          "1912.17",
+          "2602.24",
+          "1321.61",
+          "671.23"
+        ],
+        [
+          "Reserves and Surplus",
+          "1392.17",
+          "2502.24",
+          "1221.61",
+          "571.23"
+        ],
+        [
+          "Total Borrowing",
+          "9504.27",
+          "3658.72",
+          "2718.09",
+          "1451.30"
+        ]
+      ]
+    },
+    {
+      "heading": "Shree Karni Fabcom Limited Stock Quote & Charts",
+      "sanitizedHeading": "shree_karni_fabcom_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "42.56%"
+        ],
+        [
+          "ROCE",
+          "11.34%"
+        ],
+        [
+          "RoNW",
+          "42.56%"
+        ],
+        [
+          "PAT Margin",
+          "10.75"
+        ],
+        [
+          "Price to Book Value",
+          "6.17"
+        ]
+      ]
+    },
+    {
+      "heading": "Shree Karni Fabcom Limited Stock Quote & Charts",
+      "sanitizedHeading": "shree_karni_fabcom_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "10.68",
+          "17.25"
+        ],
+        [
+          "P/E (x)",
+          "21.26",
+          "13.16"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Shree Karni Fabcom IPO raises Rs 12.09 crore from anchor investors. Shree Karni Fabcom IPO Anchor bid date is March 5 2024. Shree Karni Fabcom IPO Anchor Investors list",
+    "list_link": {
+      "text": "Shree Karni Fabcom IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/shree_karni-fabcom-anchorallocation.pdf"
+    },
+    "details": {
+      "ipo_date": "June 10 2024",
+      "shares_offered": "532800",
+      "anchor_portion_size": "12.09"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "March 6, 2024 to March 11, 2024",
+    "ipoListingDate": "Thu, Mar 14, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹227.00",
+    "lotSize": "600 Shares",
+    "issueSize": "18,72,000 shares (aggregating up to ₹42.49 Cr)",
+    "freshIssue": "18,72,000 shares (aggregating up to ₹42.49 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "93,600 shares",
+      "maker_name": "MLB Stock Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/417/"
+    },
+    "ipoOpenDate": "Wed, Mar 6, 2024",
+    "ipoCloseDate": "Mon, Mar 11, 2024",
+    "initiationOfRefunds": "Wed, Mar 13, 2024",
+    "creditOfSharesToDemat": "Wed, Mar 13, 2024",
+    "shareHoldingPreIssue": "52,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "52,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "96.16%"
+      }
+    ],
+    "shareHoldingPostIssue": "70,72,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "70,72,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "70.07%"
+      }
+    ]
+  },
+  "closing_date": "2024-03-10T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 262 235 0900",
+    "email": "shreekarni@skflindia.com",
+    "full_address": "Shree Karni Fabcom Limited, Plot 188189190 Block No. 314, Rajhans Texpa Village Baleshvar, Taluka Palsana Surat - 394 317",
+    "website": "http://www.skflindia.com/"
+  },
+  "createdAt": "2025-04-18T12:48:01.855Z",
+  "faqs": [
+    {
+      "question": "What is the Shree Karni Fabcom IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shree Karni Fabcom IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1872000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->42.49<!-- --> Crores. The issue is priced at <span>₹227 per share</span>. The minimum order quantity is <!-- -->600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 6, 2024</b>, and <b>closes on <!-- -->March 11, 2024</b>.</p><p>Mas Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Shree Karni Fabcom IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Shree Karni Fabcom IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Shree Karni Fabcom IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Shree Karni Fabcom IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Shree Karni Fabcom IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Shree Karni Fabcom IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Shree Karni Fabcom IPO opens on March 6, 2024 and closes on March 11, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Shree Karni Fabcom IPO?",
+      "answer": "<div itemprop=\"text\"><p>Shree Karni Fabcom IPO<!-- --> <b>lot size is <!-- -->600</b>, and the <b>minimum amount required is <span>₹1,36,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Shree Karni Fabcom IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Shree Karni Fabcom IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Shree Karni Fabcom IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Shree Karni Fabcom IPO<!-- --> will be done on <!-- -->Tuesday, March 12, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, March 13, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/shree-karni-fabcom-ipo/1668/\" title=\"Shree Karni Fabcom IPO Allotment Status\">Shree Karni Fabcom IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Shree Karni Fabcom IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Shree Karni Fabcom IPO<!-- --> listing date is on <b>Thursday, March 14, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Shree Karni Fabcom",
+  "issue_price": "₹227.00",
+  "issue_price_numeric": 227,
+  "issue_size": "18,72,000 shares (aggregating up to ₹42.49 Cr)",
+  "issue_size_numeric": 18,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Horizon Management Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/406/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/406/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "227.00"
+      },
+      "open": {
+        "nse_sme": "260.00"
+      },
+      "low": {
+        "nse_sme": "260.00"
+      },
+      "high": {
+        "nse_sme": "273.00"
+      },
+      "last_trade": {
+        "nse_sme": "273.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 14 2024",
+    "nse_symbol": "SHREEKARNI",
+    "isin": "INE0S4Y01010",
+    "final_issue_price": "227 per share"
+  },
+  "listing_date": "2024-03-13T18:30:00.000Z",
+  "listing_gains": "20.26%",
+  "listing_gains_numeric": 20.26,
+  "logo": "https://www.chittorgarh.net/images/ipo/shree-karni-fabcom-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/shree-karni-fabcom-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "136200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "136200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "1200",
+        "amount": "272400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/shree-karni-fabcom-ipo/1668/"
+    }
+  },
+  "lot_size": 600,
+  "opening_date": "2024-03-05T18:30:00.000Z",
+  "pageHeading": "Shree Karni Fabcom Limited IPO (Shree Karni Fabcom IPO) Detail",
+  "pageTitle": "Shree Karni Fabcom IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Manoj Kumar Karnani Radhe Shyam Daga Rajiv Lakhotia and Raj Kumar Agarwal",
+    "holdings": {
+      "share_holding_pre_issue": "96.16%",
+      "share_holding_post_issue": "70.07%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Shree Karni Fabcom IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ShreeKarniFabcom_DRHP.pdf"
+    },
+    {
+      "text": "Shree Karni Fabcom IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ShreeKarniFabcom_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Shree Karni Fabcom IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/shree_karni-fabcom-anchorallocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/shree-karni-fabcom-ipo/1668/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Mas Services Limited",
+    "phone": "(011) 2610 4142",
+    "email": "ipo@masserv.com",
+    "website": "https://www.masserv.com/opt.asp"
+  },
+  "reservation": {
+    "summary": "Shree Karni Fabcom IPO offers 1872000 shares. 355800 (19.01%) to QIB 267000 (14.26%) to NII 622800 (33.27%) to RII and 532800 (28.46%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "532800 (28.46%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "93600 (5%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "355800 (19.01%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "267000 (14.26%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "622800 (33.27%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1872000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.855Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Shree Karni Fabcom IPO is subscribed 296.43 times on March 11 2024 6:21:00 PM (Day 3). The public issue subscribed 330.45 times in the retail category 112.94 times in the QIB category and 461.58 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "112.94",
+        "shares_offered": "355800",
+        "shares_bid_for": "40183800"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "461.58",
+        "shares_offered": "267000",
+        "shares_bid_for": "123241800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "330.45",
+        "shares_offered": "622800",
+        "shares_bid_for": "205803000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "296.43",
+        "shares_offered": "1245600",
+        "shares_bid_for": "369228600"
+      }
+    },
+    "total_applications": "343005",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 11 2024",
+    "tentative_allotment": "Tue Mar 12 2024",
+    "initiation_of_refunds": "Wed Mar 13 2024",
+    "credit_of_shares_to_demat": "Wed Mar 13 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:14.670Z",
+  "updated_at": "2025-04-18T12:48:01.855Z",
+  "year": 2024,
+  "worst_listing_gains": "20.26%",
+  "worst_listing_gains_numeric": 20.26
+}

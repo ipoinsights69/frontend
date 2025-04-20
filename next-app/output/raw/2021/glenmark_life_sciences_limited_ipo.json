@@ -1,0 +1,412 @@
+{
+  "_id": "6802918a3ccffd1c7912c9ed",
+  "ipo_id": "2021_glenmark_life_sciences_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:47:16.914Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/glenmark-life-sciences-ipo/1124/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2011, Glenmark Life Sciences is the leading manufacturer of Active Pharmaceutical Ingredients (APIs). The company develops, manufactures, and supplies high-quality APIs for cardiovascular disease (CVS), central nervous system disease (CNS), pain management, and diabetes, gastrointestinal disorders, anti-infectives, and other therapeutic areas. It further operates in Contract Development and manufacturing operations (CDMO) to offer services to specialty Pharmaceutical companies.</p>\n\n<p>Its products are being sold in India and also expoted to multiple countries i.e. Europe, North America, Latin America, Japan, etc. Currently, it has 4 manufacturing facilities at Ankleshwar and Dahej in Gujarat and Mohol and Kurkumbh in Maharashtra State with an aggregate annual installed capacity of 725.8 KL as of December 31, 2020.</p>\n\n<p><strong>Competitive strengths</strong></p>\n<ul>\n<li>Leading manufacturer of selected specialized APIs for chronic therapeutic areas like CVS, CNS, diabetes, and pain management.</li>\n<li>Export products in Europe, Latin America, North America, Japan, and the rest of the world.</li>\n<li>Strong relationship with leading global generic companies.</li>\n<li>Proven track record of strong financial performance.</li>\n<li>High-quality product manufacturing with R&amp;D infrastructure.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "19970.75",
+          "17256.04",
+          "14753.95"
+        ],
+        [
+          "Total Revenue",
+          "18859.76",
+          "15493.03",
+          "8868.65"
+        ],
+        [
+          "Profit After Tax",
+          "3515.81",
+          "3130.98",
+          "1955.92"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "July 27, 2021 to July 29, 2021",
+    "ipoListingDate": "Fri, Aug 6, 2021",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹720.00",
+    "lotSize": "20 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹1,513.60 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹1,060.00 Cr)",
+    "offerForSale": "63,00,000 shares of ₹2 (aggregating up to ₹453.60 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Jul 27, 2021",
+    "ipoCloseDate": "Thu, Jul 29, 2021",
+    "initiationOfRefunds": "Wed, Aug 4, 2021",
+    "creditOfSharesToDemat": "Thu, Aug 5, 2021",
+    "shareHoldingPreIssue": "10,78,04,950 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "10,78,04,950 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "12,25,27,172 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "12,25,27,172 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "82.84%"
+      }
+    ]
+  },
+  "closing_date": "2021-07-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 2189 234456/ +91 2189",
+    "email": "complianceofficer@glenmarklifesciences.com",
+    "full_address": "Glenmark Life Sciences Limited, Plot No. 170-172 Chandramouli Industrial Estate, Mohol Bazarpeth Solapur 413 213",
+    "website": "http://www.glenmarklifesciences.com/"
+  },
+  "createdAt": "2025-04-18T17:53:14.382Z",
+  "faqs": [
+    {
+      "question": "What is the Glenmark Life Sciences IPO?",
+      "answer": "<div itemprop=\"text\"><p>Glenmark Life Sciences IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->1,513.60<!-- --> Crores. The issue is priced at <span>₹720 per share</span>. The minimum order quantity is <!-- -->20<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 27, 2021</b>, and <b>closes on <!-- -->July 29, 2021</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Glenmark Life Sciences IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Glenmark Life Sciences IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Glenmark Life Sciences IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Glenmark Life Sciences IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Glenmark Life Sciences IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Glenmark Life Sciences IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Glenmark Life Sciences IPO opens on July 27, 2021 and closes on July 29, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Glenmark Life Sciences IPO?",
+      "answer": "<div itemprop=\"text\"><p>Glenmark Life Sciences IPO<!-- --> <b>lot size is <!-- -->20</b>, and the <b>minimum amount required is <span>₹14,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Glenmark Life Sciences IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Glenmark Life Sciences IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Glenmark Life Sciences IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Glenmark Life Sciences IPO<!-- --> will be done on <!-- -->Tuesday, August 3, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, August 5, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/glenmark-life-sciences-ipo/1124/\" title=\"Glenmark Life Sciences IPO Allotment Status\">Glenmark Life Sciences IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Glenmark Life Sciences IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Glenmark Life Sciences IPO<!-- --> listing date is on <b>Friday, August 6, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Glenmark Life Sciences",
+  "issue_price": "₹720.00",
+  "issue_price_numeric": 720,
+  "issue_size": "[.] shares (aggregating up to ₹1,513.60 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Bofa Securities India Limited",
+      "url": "/report/ipo-lead-manager-review/112/22/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/22/"
+    },
+    {
+      "name": "Bob Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/48/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/48/"
+    },
+    {
+      "name": "Dam Capital Advisors Ltd",
+      "url": "/report/ipo-lead-manager-review/112/30/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/30/"
+    },
+    {
+      "name": "Goldman Sachs",
+      "url": "/report/ipo-lead-manager-review/112/75/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/75/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "720.00",
+        "nse": "720.00"
+      },
+      "open": {
+        "bse": "751.10",
+        "nse": "750.00"
+      },
+      "low": {
+        "bse": "737.35",
+        "nse": "738.00"
+      },
+      "high": {
+        "bse": "799.95",
+        "nse": "799.00"
+      },
+      "last_trade": {
+        "bse": "748.20",
+        "nse": "748.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 6 2021",
+    "bse_script_code": "543322",
+    "nse_symbol": "ALIVUS",
+    "isin": "INE03Q201024",
+    "final_issue_price": "720 per share"
+  },
+  "listing_date": "2021-08-05T18:30:00.000Z",
+  "listing_gains": "3.92%",
+  "listing_gains_numeric": 3.92,
+  "logo": "https://www.chittorgarh.net/images/ipo/glenmark-life-sciences-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/glenmark-life-sciences-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 20 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "20",
+        "amount": "14400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "260",
+        "amount": "187200"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "280",
+        "amount": "201600"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "1380",
+        "amount": "993600"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "1400",
+        "amount": "1008000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/glenmark-life-sciences-ipo/1124/"
+    }
+  },
+  "lot_size": 20,
+  "opening_date": "2021-07-26T18:30:00.000Z",
+  "pageHeading": "Glenmark Life Sciences Limited IPO (Glenmark Life Sciences IPO) Detail",
+  "pageTitle": "Glenmark Life Sciences IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Glenmark Pharmaceuticals Limited is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "82.84%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Glenmark Life Sciences IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2021/glenmark-life-sciences-limited_49859.html"
+    },
+    {
+      "text": "Glenmark Life Sciences IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/glenmark-life-sciences-ltd-_51543.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "13",
+        "neutral": "2",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/glenmark-life-sciences-ipo/1124/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "glenmark.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Glenmark Life Sciences IPO offers 15018279 shares. 4242379 (28.25%) to QIB 3232770 (21.53%) to NII 7543130 (50.23%) to RII. 377156 RIIs will receive minimum 20 shares and (sNII) and (bNII) will receive minimum 280 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4242379 (28.25%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3232770 (21.53%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "7543130 (50.23%)",
+        "maximum_allottees": "377156"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "15018279 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:14.382Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Glenmark Life Sciences IPO is subscribed 44.17 times on July 29 2021 5:01:00 PM (Day 3). The public issue subscribed 14.63 times in the retail category 36.97 times in the QIB category and 122.54 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "36.97",
+        "shares_offered": "4242379",
+        "shares_bid_for": "156829300"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "122.54",
+        "shares_offered": "3232770",
+        "shares_bid_for": "396129640"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "14.63",
+        "shares_offered": "7543130",
+        "shares_bid_for": "110365220"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "44.17",
+        "shares_offered": "15018279",
+        "shares_bid_for": "663324160"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 29 2021",
+    "tentative_allotment": "Tue Aug 3 2021",
+    "initiation_of_refunds": "Wed Aug 4 2021",
+    "credit_of_shares_to_demat": "Thu Aug 5 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:09.736Z",
+  "updated_at": "2025-04-18T17:53:14.382Z",
+  "year": 2021,
+  "worst_listing_gains": "3.92%",
+  "worst_listing_gains_numeric": 3.92
+}

@@ -1,0 +1,451 @@
+{
+  "_id": "680249fb3ccffd1c7912c71b",
+  "ipo_id": "2024_avp_infracon_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:38:08.530Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/avp-infracon-ipo/1673/"
+  },
+  "about": {
+    "details": "<p>AVP Infracon Limited was established in 2009 and is engaged in the construction of road projects on the basis of Bill of Quantities (BOQ) and Engineering, Procurement and Construction (EPC). The company was previously known as AVP Constructions Private Limited.</p>\n<p>The company provides all types of infrastructure development works, civil works like expressways, national highways, flyovers, bridges and viaducts, irrigation projects, urban development - civic amenities, hospitals, warehouses, hotels and other commercial and residential projects. The company bids for construction of roads, bridges, irrigation and canal projects, flyovers and industrial areas, mainly in the state of Tamil Nadu.</p>\n<p>As of January 2024, the company has completed over 40 projects worth around Rs. 31,321.03 lakhs and employs more than 100 people.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "AVP Infracon Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Oct 2023",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "17232.87",
+          "14670.84"
+        ],
+        [
+          "Revenue",
+          "7411.90",
+          "11550.09"
+        ],
+        [
+          "Profit After Tax",
+          "855.78",
+          "1205.31"
+        ],
+        [
+          "Net Worth",
+          "3405.31",
+          "2549.66"
+        ],
+        [
+          "Reserves and Surplus",
+          "1605.31",
+          "2069.66"
+        ],
+        [
+          "Total Borrowing",
+          "7791.95",
+          "6729.31"
+        ]
+      ]
+    },
+    {
+      "heading": "Avp Infracon Limited Stock Quote & Charts",
+      "sanitizedHeading": "avp_infracon_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "25.05%"
+        ],
+        [
+          "ROCE",
+          "22.63%"
+        ],
+        [
+          "Debt/Equity",
+          "1.96"
+        ],
+        [
+          "RoNW",
+          "25.05%"
+        ],
+        [
+          "PAT Margin",
+          "11.91"
+        ],
+        [
+          "Price to Book Value",
+          "3.96"
+        ]
+      ]
+    },
+    {
+      "heading": "Avp Infracon Limited Stock Quote & Charts",
+      "sanitizedHeading": "avp_infracon_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "6.70",
+          "5.87"
+        ],
+        [
+          "P/E (x)",
+          "11.2",
+          "12.77"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "AVP Infracon IPO raises Rs 14.03 crore from anchor investors. AVP Infracon IPO Anchor bid date is March 12 2024. AVP Infracon IPO Anchor Investors list",
+    "list_link": {
+      "text": "AVP Infracon IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/avp-infra-anchor-investor-list.pdf"
+    },
+    "details": {
+      "ipo_date": "June 16 2024",
+      "shares_offered": "1870400",
+      "anchor_portion_size": "14.03"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "March 13, 2024 to March 15, 2024",
+    "ipoListingDate": "Wed, Mar 20, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹75.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "69,79,200 shares (aggregating up to ₹52.34 Cr)",
+    "freshIssue": "69,79,200 shares (aggregating up to ₹52.34 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "7,31,200 shares",
+      "maker_name": "Share India Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/343/"
+    },
+    "ipoOpenDate": "Wed, Mar 13, 2024",
+    "ipoCloseDate": "Fri, Mar 15, 2024",
+    "initiationOfRefunds": "Tue, Mar 19, 2024",
+    "creditOfSharesToDemat": "Tue, Mar 19, 2024",
+    "shareHoldingPreIssue": "1,80,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,80,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "86.5%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,49,79,200 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,49,79,200 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "62.33%"
+      }
+    ]
+  },
+  "closing_date": "2024-03-14T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-44-48683999",
+    "email": "cs@avpinfra.com",
+    "full_address": "AVP Infracon Limited, Plot No. E-30 Second floor, 2nd Avenue Besant Nagar, Chennai- 600090",
+    "website": "http://www.avpinfra.com/"
+  },
+  "createdAt": "2025-04-18T12:47:55.413Z",
+  "faqs": [
+    {
+      "question": "What is the AVP Infracon IPO?",
+      "answer": "<div itemprop=\"text\"><p>AVP Infracon IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6979200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->52.34<!-- --> Crores. The issue is priced at <span>₹75 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 13, 2024</b>, and <b>closes on <!-- -->March 15, 2024</b>.</p><p>Purva Sharegistry India Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in AVP Infracon IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->AVP Infracon IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->AVP Infracon IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->AVP Infracon IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->AVP Infracon IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When AVP Infracon IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The AVP Infracon IPO opens on March 13, 2024 and closes on March 15, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of AVP Infracon IPO?",
+      "answer": "<div itemprop=\"text\"><p>AVP Infracon IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for AVP Infracon IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->AVP Infracon IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is AVP Infracon IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->AVP Infracon IPO<!-- --> will be done on <!-- -->Monday, March 18, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, March 19, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/avp-infracon-ipo/1673/\" title=\"AVP Infracon IPO Allotment Status\">AVP Infracon IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is AVP Infracon IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->AVP Infracon IPO<!-- --> listing date is on <b>Wednesday, March 20, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "AVP Infracon",
+  "issue_price": "₹75.00",
+  "issue_price_numeric": 75,
+  "issue_size": "69,79,200 shares (aggregating up to ₹52.34 Cr)",
+  "issue_size_numeric": 69,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Share India Capital Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/162/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/162/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "75.00"
+      },
+      "open": {
+        "nse_sme": "79.00"
+      },
+      "low": {
+        "nse_sme": "75.05"
+      },
+      "high": {
+        "nse_sme": "79.00"
+      },
+      "last_trade": {
+        "nse_sme": "75.05"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 20 2024",
+    "nse_symbol": "AVPINFRA",
+    "isin": "INE0R9401019",
+    "final_issue_price": "75 per share"
+  },
+  "listing_date": "2024-03-19T18:30:00.000Z",
+  "listing_gains": "0.07%",
+  "listing_gains_numeric": 0.07,
+  "logo": "https://www.chittorgarh.net/images/ipo/avp-infracon-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/avp-infracon-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/avp-infracon-ipo/1673/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-03-12T18:30:00.000Z",
+  "pageHeading": "AVP Infracon Limited IPO (AVP Infracon IPO) Detail",
+  "pageTitle": "AVP Infracon IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. D Prasanna and Mr. B Venkateshwarlu are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "86.5%",
+      "share_holding_post_issue": "62.33%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "AVP Infracon IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/AVPInfraconLimited_DRHP.zip"
+    },
+    {
+      "text": "AVP Infracon IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_AVPINFRA.zip"
+    },
+    {
+      "text": "Anchor Investors in AVP Infracon IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/avp-infra-anchor-investor-list.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/avp-infracon-ipo/1673/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Purva Sharegistry India Pvt Ltd",
+    "phone": "+91-022-23018261/ 23016761",
+    "email": "support@purvashare.com",
+    "website": "https://www.purvashare.com/investor-service/ipo-query"
+  },
+  "reservation": {
+    "summary": "AVP Infracon IPO offers 6979200 shares. 1248000 (17.88%) to QIB 939200 (13.46%) to NII 2190400 (31.38%) to RII and 1870400 (26.80%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1870400 (26.80%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "731200 (10.48%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1248000 (17.88%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "939200 (13.46%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2190400 (31.38%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6979200 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:55.413Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The AVP Infracon IPO is subscribed 21.45 times on March 15 2024 6:22:00 PM (Day 3). The public issue subscribed 22.49 times in the retail category 1.05 times in the QIB category and 46.15 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.05",
+        "shares_offered": "1248000",
+        "shares_bid_for": "1310400"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "46.15",
+        "shares_offered": "939200",
+        "shares_bid_for": "43342400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "22.49",
+        "shares_offered": "2190400",
+        "shares_bid_for": "49265600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "21.45",
+        "shares_offered": "4377600",
+        "shares_bid_for": "93918400"
+      }
+    },
+    "total_applications": "30791",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 15 2024",
+    "tentative_allotment": "Mon Mar 18 2024",
+    "initiation_of_refunds": "Tue Mar 19 2024",
+    "credit_of_shares_to_demat": "Tue Mar 19 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:40.316Z",
+  "updated_at": "2025-04-18T12:47:55.413Z",
+  "year": 2024,
+  "worst_listing_gains": "0.07%",
+  "worst_listing_gains_numeric": 0.07,
+  "last_performance_update": "2025-04-19T04:43:40.315Z"
+}

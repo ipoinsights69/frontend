@@ -1,0 +1,512 @@
+{
+  "_id": "680249fa3ccffd1c7912c70c",
+  "ipo_id": "2024_apeejay_surrendra_park_hotels_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:40:55.618Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/apeejay-surrendra-park-ipo/1635/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1987, Apeejay Surrendra Park Hotels Limited is engaged in the hospitality business operating under the brand names of \"<strong>THE PARK</strong>\", \"<strong>THE PARK Collection</strong>\", \"<strong>Zone by The Park</strong>\", \"<strong>Zone Connect by The Park</strong>\" and \"<strong>Stop by Zone</strong>\". The company is also engaged in the business of retail food and beverage industry through its retail brand '<strong>Flurys.</strong></p>\n<p>As of March 31, 2023, the company operates 80 restaurants, night clubs and bars, offering a wide selection of culinary experiences.</p>\n<p>The company currently operates 27 hotels, which are spread across different categories such as luxury boutique, upscale, and upper midscale. These hotels are present in various cities in India including Kolkata, New Delhi, Chennai, Hyderabad, Bangalore, Mumbai, Coimbatore, Indore, Goa, Jaipur, Jodhpur, Jammu, Navi Mumbai, Visakhapatnam, Port Blair, and Pathankot, offering a total of 2,111 rooms as of August 2023.</p>\n<p>The company owns restaurants under the brand name of Zen, Lotus, Aish, Saffron, Fire, Italia, 601, The Bridge, The Street, Verandah, Vista, Bamboo Bay, Monsoon, Mist, Love and Bazaar.</p>\n<p>As of June 2023, the company has a total of 1,923 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Apeejay Surrendra Park Hotels Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1382.51",
+          "1361.79",
+          "1275.18",
+          "1280.34"
+        ],
+        [
+          "Revenue",
+          "272.31",
+          "524.43",
+          "267.83",
+          "190.29"
+        ],
+        [
+          "Profit After Tax",
+          "22.95",
+          "48.06",
+          "-28.20",
+          "-75.88"
+        ],
+        [
+          "Net Worth",
+          "578.71",
+          "555.68",
+          "508.51",
+          "536.28"
+        ],
+        [
+          "Reserves and Surplus",
+          "561.24",
+          "538.22",
+          "491.05",
+          "518.81"
+        ],
+        [
+          "Total Borrowing",
+          "597.09",
+          "566.88",
+          "622.68",
+          "593.44"
+        ]
+      ]
+    },
+    {
+      "heading": "Apeejay Surrendra Park Hotels Ltd Stock Quote & Charts",
+      "sanitizedHeading": "apeejay_surrendra_park_hotels_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "Debt/Equity",
+          "0.99"
+        ],
+        [
+          "RoNW",
+          "9.03%"
+        ],
+        [
+          "Price to Book Value",
+          "4.87"
+        ]
+      ]
+    },
+    {
+      "heading": "Apeejay Surrendra Park Hotels Ltd Stock Quote & Charts",
+      "sanitizedHeading": "apeejay_surrendra_park_hotels_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.75",
+          "2.15"
+        ],
+        [
+          "P/E (x)",
+          "56.33",
+          "72.05"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Apeejay Surrendra Park IPO raises Rs 409.50 crore from anchor investors. Apeejay Surrendra Park IPO Anchor bid date is February 2 2024. Apeejay Surrendra Park IPO Anchor Investors list",
+    "list_link": {
+      "text": "Apeejay Surrendra Park IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/apeejay-surrendra-park-anchor-intimation.pdf"
+    },
+    "details": {
+      "ipo_date": "May 8 2024",
+      "shares_offered": "26419354",
+      "anchor_portion_size": "409.50"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "February 5, 2024 to February 7, 2024",
+    "ipoListingDate": "Mon, Feb 12, 2024",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹155.00",
+    "lotSize": "96 Shares",
+    "issueSize": "5,93,54,838 shares (aggregating up to ₹920.00 Cr)",
+    "freshIssue": "3,87,09,677 shares (aggregating up to ₹600.00 Cr)",
+    "offerForSale": "2,06,45,161 shares of ₹1 (aggregating up to ₹320.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Feb 5, 2024",
+    "ipoCloseDate": "Wed, Feb 7, 2024",
+    "initiationOfRefunds": "Fri, Feb 9, 2024",
+    "creditOfSharesToDemat": "Fri, Feb 9, 2024",
+    "shareHoldingPreIssue": "17,46,61,760 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "17,46,61,760 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "94.18%"
+      }
+    ],
+    "shareHoldingPostIssue": "21,33,71,437 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "21,33,71,437 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "68.13%"
+      }
+    ]
+  },
+  "closing_date": "2024-02-06T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 33 2249 9000",
+    "email": "investorrelations @asphl.in",
+    "full_address": "Apeejay Surrendra Park Hotels Limited, 17 Park Street, kolkata, 700 016",
+    "website": "https://www.theparkhotels.com/"
+  },
+  "createdAt": "2025-04-18T12:47:54.457Z",
+  "faqs": [
+    {
+      "question": "What is the Apeejay Surrendra Park IPO?",
+      "answer": "<div itemprop=\"text\"><p>Apeejay Surrendra Park IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->59354838<!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->920.00<!-- --> Crores. The issue is priced at <span>₹155 per share</span>. The minimum order quantity is <!-- -->96<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 5, 2024</b>, and <b>closes on <!-- -->February 7, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Apeejay Surrendra Park IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Apeejay Surrendra Park IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Apeejay Surrendra Park IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Apeejay Surrendra Park IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Apeejay Surrendra Park IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Apeejay Surrendra Park IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Apeejay Surrendra Park IPO opens on February 5, 2024 and closes on February 7, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Apeejay Surrendra Park IPO?",
+      "answer": "<div itemprop=\"text\"><p>Apeejay Surrendra Park IPO<!-- --> <b>lot size is <!-- -->96</b>, and the <b>minimum amount required is <span>₹14,880</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Apeejay Surrendra Park IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Apeejay Surrendra Park IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Apeejay Surrendra Park IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Apeejay Surrendra Park IPO<!-- --> will be done on <!-- -->Thursday, February 8, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, February 9, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/apeejay-surrendra-park-ipo/1635/\" title=\"Apeejay Surrendra Park IPO Allotment Status\">Apeejay Surrendra Park IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Apeejay Surrendra Park IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Apeejay Surrendra Park IPO<!-- --> listing date is on <b>Monday, February 12, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Apeejay Surrendra Park Hotels",
+  "issue_price": "₹155.00",
+  "issue_price_numeric": 155,
+  "issue_size": "5,93,54,838 shares (aggregating up to ₹920.00 Cr)",
+  "issue_size_numeric": 5,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "155.00",
+        "nse": "155.00"
+      },
+      "open": {
+        "bse": "187.00",
+        "nse": "186.00"
+      },
+      "low": {
+        "bse": "170.15",
+        "nse": "171.25"
+      },
+      "high": {
+        "bse": "223.50",
+        "nse": "223.20"
+      },
+      "last_trade": {
+        "bse": "203.45",
+        "nse": "203.55"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 12 2024",
+    "bse_script_code": "544111",
+    "nse_symbol": "PARKHOTELS",
+    "isin": "INE988S01028",
+    "final_issue_price": "155 per share"
+  },
+  "listing_date": "2024-02-11T18:30:00.000Z",
+  "listing_gains": "31.26%",
+  "listing_gains_numeric": 31.26,
+  "logo": "https://www.chittorgarh.net/images/ipo/apeejay-surendra-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/apeejay-surendra-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 96 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "96",
+        "amount": "14880"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1248",
+        "amount": "193440"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1344",
+        "amount": "208320"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "6432",
+        "amount": "996960"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "6528",
+        "amount": "1011840"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/apeejay-surrendra-park-ipo/1635/"
+    }
+  },
+  "lot_size": 96,
+  "opening_date": "2024-02-04T18:30:00.000Z",
+  "pageHeading": "Apeejay Surrendra Park Hotels Limited IPO (Apeejay Surrendra Park IPO) Detail",
+  "pageTitle": "Apeejay Surrendra Park IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the Company are Karan Paul Priya Paul Apeejay Surrendra Trust and Great Eastern Stores Private Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "94.18%",
+      "share_holding_post_issue": "68.13%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Apeejay Surrendra Park IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/331101/APEEJAY%20SURRENDRA%20PARK%20HOTELS%20LIMITED%20DRHP_20230822114459.pdf"
+    },
+    {
+      "text": "Apeejay Surrendra Park IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/apeejay-surrendra-park-hotels-limited-rhp_81048.html"
+    },
+    {
+      "text": "Anchor Investors in Apeejay Surrendra Park IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/apeejay-surrendra-park-anchor-intimation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "5",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/apeejay-surrendra-park-ipo/1635/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "parkhotels.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Apeejay Surrendra Park IPO offers 59385352 shares. 17612903 (29.66%) to QIB 8806452 (14.83%) to NII 5870968 (9.89%) to RII 675675 (1.14%) to employees and 26419354 (44.49%) to Anchor investors. 61155 RIIs will receive minimum 96 shares and 2184 (sNII) and 4368 (bNII) will receive minimum 1344 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "26419354 (44.49%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "17612903 (29.66%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "8806452 (14.83%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "5870967 (9.89%)",
+        "maximum_allottees": "4368"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "2935484 (4.94%)",
+        "maximum_allottees": "2184"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "5870968 (9.89%)",
+        "maximum_allottees": "61155"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "675675 (1.14%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "59385352 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:54.456Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Apeejay Surrendra Park IPO is subscribed 62.91 times on February 7 2024 7:02:00 PM (Day 3). The public issue subscribed 32 times in the retail category 79.23 times in the QIB category and 55.26 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "79.23",
+        "shares_offered": "17612903",
+        "shares_bid_for": "1395433920"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "55.26",
+        "shares_offered": "8806452",
+        "shares_bid_for": "486643776"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "61.55",
+        "shares_offered": "5870967",
+        "shares_bid_for": "361356960"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "42.68",
+        "shares_offered": "2935484",
+        "shares_bid_for": "125286816"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "32",
+        "shares_offered": "5870968",
+        "shares_bid_for": "187895712"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "5.73",
+        "shares_offered": "675675",
+        "shares_bid_for": "3870144"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "62.91",
+        "shares_offered": "32965998",
+        "shares_bid_for": "2073843552"
+      }
+    },
+    "total_applications": "1895231"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 7 2024",
+    "tentative_allotment": "Thu Feb 8 2024",
+    "initiation_of_refunds": "Fri Feb 9 2024",
+    "credit_of_shares_to_demat": "Fri Feb 9 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:37.934Z",
+  "updated_at": "2025-04-18T12:47:54.456Z",
+  "year": 2024,
+  "worst_listing_gains": "31.26%",
+  "worst_listing_gains_numeric": 31.26,
+  "last_performance_update": "2025-04-19T04:43:37.934Z"
+}

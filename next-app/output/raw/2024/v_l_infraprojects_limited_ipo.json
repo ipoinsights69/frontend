@@ -1,0 +1,469 @@
+{
+  "_id": "68024a033ccffd1c7912c824",
+  "ipo_id": "2024_v_l_infraprojects_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": true,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:26:21.778Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/v-l-infraprojects-ipo/1781/"
+  },
+  "about": {
+    "details": "<p>V.L.Infraprojects Limited was founded in 2014 and offers the planning, construction, and commissioning of various government projects, especially in the field of water infrastructure and irrigation.</p>\n<p>The company is engaged in the execution of water supply and wastewater infrastructure projects which mainly include procurement of pipes and their laying, connection, and commissioning with backward integration, including all related civil engineering works such as civil works, pumping stations, and installation of electro-mechanical equipment (pumping machines) for distribution of water supply from river to household. The company also provides operation and maintenance services for water pipelines.</p>\n<p>The company is a Class AA approved contractor by the Government of Gujarat, holds a civil/ electrical contractor license from the Karnataka State Public Works Department, is registered with the Government of Telangana in a special class, and is approved as a contractor by the Government of Madhya Pradesh.</p>\n<p>As of March 31, 2024, the company had a total of 30 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "V.L.Infraprojects Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5691.39",
+          "2836.24",
+          "1955.40",
+          "1641.29"
+        ],
+        [
+          "Revenue",
+          "11400.05",
+          "4565.14",
+          "3560.70",
+          "3077.57"
+        ],
+        [
+          "Profit After Tax",
+          "614.01",
+          "222.66",
+          "110.58",
+          "83.37"
+        ],
+        [
+          "Net Worth",
+          "1636.01",
+          "1022.00",
+          "730.84",
+          "620.26"
+        ],
+        [
+          "Reserves and Surplus",
+          "505.76",
+          "268.50",
+          "456.84",
+          "346.26"
+        ],
+        [
+          "Total Borrowing",
+          "1654.81",
+          "999.02",
+          "1003.52",
+          "659.41"
+        ]
+      ]
+    },
+    {
+      "heading": "V.l.infraprojects Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "46.20%"
+        ],
+        [
+          "ROCE",
+          "39.09%"
+        ],
+        [
+          "RoNW",
+          "37.53%"
+        ],
+        [
+          "PAT Margin",
+          "5.39"
+        ],
+        [
+          "Price to Book Value",
+          "2.90"
+        ]
+      ]
+    },
+    {
+      "heading": "V.l.infraprojects Limited Stock Quote & Charts",
+      "sanitizedHeading": "stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "5.43",
+          "3.91"
+        ],
+        [
+          "P/E (x)",
+          "7.73",
+          "10.75"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "V.L.Infraprojects IPO raises Rs 5.24 crore from anchor investors. V.L.Infraprojects IPO Anchor bid date is July 22 2024. V.L.Infraprojects IPO Anchor Investors list",
+    "list_link": {
+      "text": "V.L.Infraprojects IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/vl_infraprojects_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "October 24 2024",
+      "shares_offered": "1248000",
+      "anchor_portion_size": "5.24"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "July 23, 2024 to July 25, 2024",
+    "ipoListingDate": "Tue, Jul 30, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹42.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "44,10,000 shares (aggregating up to ₹18.52 Cr)",
+    "freshIssue": "44,10,000 shares (aggregating up to ₹18.52 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,40,000 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Tue, Jul 23, 2024",
+    "ipoCloseDate": "Thu, Jul 25, 2024",
+    "initiationOfRefunds": "Mon, Jul 29, 2024",
+    "creditOfSharesToDemat": "Mon, Jul 29, 2024",
+    "shareHoldingPreIssue": "1,13,02,500 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,13,02,500 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "90.91%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,57,12,500 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,57,12,500 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "65.39%"
+      }
+    ]
+  },
+  "closing_date": "2024-07-24T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9998850177",
+    "email": "cs@vlil.in",
+    "full_address": "V.L.Infraprojects Limited, Office at 716 Shivalik Satyamev, Near Vakil saheb Bridge Bopal, Ahmedabad- 380058",
+    "website": "http://www.vlil.in/"
+  },
+  "createdAt": "2025-04-18T12:48:03.336Z",
+  "faqs": [
+    {
+      "question": "What is the V.L.Infraprojects IPO?",
+      "answer": "<div itemprop=\"text\"><p>V.L.Infraprojects IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4410000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->18.52<!-- --> Crores. The issue is priced at <span>₹42 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 23, 2024</b>, and <b>closes on <!-- -->July 25, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in V.L.Infraprojects IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->V.L.Infraprojects IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->V.L.Infraprojects IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->V.L.Infraprojects IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->V.L.Infraprojects IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When V.L.Infraprojects IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The V.L.Infraprojects IPO opens on July 23, 2024 and closes on July 25, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of V.L.Infraprojects IPO?",
+      "answer": "<div itemprop=\"text\"><p>V.L.Infraprojects IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,26,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for V.L.Infraprojects IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->V.L.Infraprojects IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is V.L.Infraprojects IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->V.L.Infraprojects IPO<!-- --> will be done on <!-- -->Friday, July 26, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, July 29, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/v-l-infraprojects-ipo/1781/\" title=\"V.L.Infraprojects IPO Allotment Status\">V.L.Infraprojects IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is V.L.Infraprojects IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->V.L.Infraprojects IPO<!-- --> listing date is on <b>Tuesday, July 30, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "V.L.Infraprojects",
+  "issue_price": "₹42.00",
+  "issue_price_numeric": 42,
+  "issue_size": "44,10,000 shares (aggregating up to ₹18.52 Cr)",
+  "issue_size_numeric": 44,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "42.00"
+      },
+      "open": {
+        "nse_sme": "79.80"
+      },
+      "low": {
+        "nse_sme": "79.80"
+      },
+      "high": {
+        "nse_sme": "83.75"
+      },
+      "last_trade": {
+        "nse_sme": "83.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "July 30 2024",
+    "nse_symbol": "VLINFRA",
+    "isin": "INE0QXL01015",
+    "final_issue_price": "42 per share"
+  },
+  "listing_date": "2024-07-29T18:30:00.000Z",
+  "listing_gains": "99.40%",
+  "listing_gains_numeric": 99.4,
+  "logo": "https://www.chittorgarh.net/images/ipo/v-l-infraprojects-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/v-l-infraprojects-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "126000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "126000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "252000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/v-l-infraprojects-ipo/1781/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2024-07-22T18:30:00.000Z",
+  "pageHeading": "V.L.Infraprojects Limited IPO (V.L.Infraprojects IPO) Detail",
+  "pageTitle": "V.L.Infraprojects IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Rajagopal Reddy Annam Reddy Mrs. Mydhili Rajagopal Reddy and Mr. Nageswara Rao Repuri are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "90.91%",
+      "share_holding_post_issue": "65.39%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "V.L.Infraprojects IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/V.L.InfraprojectsLimited_DRHP.zip"
+    },
+    {
+      "text": "V.L.Infraprojects IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_VLINFRA.zip"
+    },
+    {
+      "text": "Anchor Investors in V.L.Infraprojects IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/vl_infraprojects_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/v-l-infraprojects-ipo/1781/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "V.L.Infraprojects IPO offers 4410000 shares. 834000 (18.91%) to QIB 627000 (14.22%) to NII 1461000 (33.13%) to RII and 1248000 (28.30%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1248000 (28.30%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "240000 (5.44%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "834000 (18.91%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "627000 (14.22%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1461000 (33.13%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4410000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.336Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The V.L.Infraprojects IPO is subscribed 636.17 times on July 25 2024 6:19:59 PM (Day 3). The public issue subscribed 844.22 times in the retail category 203.73 times in the QIB category and 726.56 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "203.73",
+        "shares_offered": "834000",
+        "shares_bid_for": "169911000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "726.56",
+        "shares_offered": "627000",
+        "shares_bid_for": "455553000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "844.22",
+        "shares_offered": "1461000",
+        "shares_bid_for": "1233411000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "636.17",
+        "shares_offered": "2922000",
+        "shares_bid_for": "1858875000"
+      }
+    },
+    "total_applications": "411137",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 25 2024",
+    "tentative_allotment": "Fri Jul 26 2024",
+    "initiation_of_refunds": "Mon Jul 29 2024",
+    "credit_of_shares_to_demat": "Mon Jul 29 2024"
+  },
+  "timeline": {
+    "summary": "V.L.Infraprojects IPO opens on July 23 2024 and closes on July 25 2024.",
+    "schedule": {
+      "ipo_date": "5 PM on July 25 2024",
+      "tentative_allotment": "Fri Jul 26 2024",
+      "initiation_of_refunds": "Mon Jul 29 2024",
+      "credit_of_shares_to_demat": "Mon Jul 29 2024"
+    }
+  },
+  "updatedAt": "2025-04-19T04:37:19.351Z",
+  "updated_at": "2025-04-18T12:48:03.336Z",
+  "year": 2024,
+  "worst_listing_gains": "99.40%",
+  "worst_listing_gains_numeric": 99.4
+}

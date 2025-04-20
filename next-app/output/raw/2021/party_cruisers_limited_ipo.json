@@ -1,0 +1,336 @@
+{
+  "_id": "6802918b3ccffd1c7912ca11",
+  "ipo_id": "2021_party_cruisers_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:48:51.950Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/party-cruisers-ipo/1086/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1994, Party Cruisers Limited is specialized in wedding management and event management activities. The company offers a range of event activities from pre-wedding to during wedding and post-wedding activities such as in-house designing, destination wedding decor, etc.</p>\n\n<p>From the initial conception (i.e. pre-event publicity, venue search, booking, transportation) to turnkey production (on-site management, staffing, entertainment, set-up, and designing) and post-event facilities (final material distribution, post-event report, attendance assessment) everything is managed by Party Cruisers to provide an AESTHETIC ambiance and luxury wedding experience to customers. It has two registered brands naming \"<strong>Vivaah\"</strong> and \"<strong>Vows-Away and Beyond\"</strong> to offer professional wedding services whereas event management facilities are provided under its own-brand \"<strong>Event Factory</strong>\" and through franchisee. It also has a brand \"Live Space\" that specializes in the venue and set construction, designing as well as consulting facilities for weddings.</p>\n\n<p>The company generates 75% of the revenues from wedding management activities and the rest is contributed by event management activities.</p>\n<p><strong>Competitive strengths</strong></p>\n<ul>\n<li>Established brand name and strong franchisee model.</li>\n<li>Well-established relationship with suppliers.</li>\n<li>Strong in-house designing capabilities.</li>\n<li>Range of services including wedding and event management.</li>\n<li>Diversified revenue base.</li>\n<li>Experienced team of promoters.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Lakh)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-20",
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "1169.44",
+          "1227.70",
+          "1194.35",
+          "1014.12"
+        ],
+        [
+          "Total Revenue",
+          "171.49",
+          "1588.58",
+          "1888.17",
+          "1535.67"
+        ],
+        [
+          "Profit After Tax",
+          "14.84",
+          "130.15",
+          "193.47",
+          "147.80"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 22, 2021 to February 25, 2021",
+    "ipoListingDate": "Fri, Mar 5, 2021",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹51.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "15,20,000 shares (aggregating up to ₹7.75 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "76 shares",
+    "ipoOpenDate": "Mon, Feb 22, 2021",
+    "ipoCloseDate": "Thu, Feb 25, 2021",
+    "initiationOfRefunds": "Wed, Mar 3, 2021",
+    "creditOfSharesToDemat": "Thu, Mar 4, 2021",
+    "shareHoldingPreIssue": "40,80,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "40,80,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "94.30%"
+      }
+    ],
+    "shareHoldingPostIssue": "56,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "56,00,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "68.71%"
+      }
+    ]
+  },
+  "closing_date": "2021-02-24T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "91 22 49739352",
+    "email": "compliance@partycruisersindia.com",
+    "full_address": "Party Cruisers Limited, 303/304/305 Simran Plaza Khar 4th Road, Next to Regal Enclave Hotel, Khar (West)",
+    "website": "http://www.partycruisersindia.com/"
+  },
+  "createdAt": "2025-04-18T17:53:15.718Z",
+  "faqs": [
+    {
+      "question": "What is the Party Cruisers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Party Cruisers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1520000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->7.75<!-- --> Crores. The issue is priced at <span>₹51 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 22, 2021</b>, and <b>closes on <!-- -->February 25, 2021</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Party Cruisers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Party Cruisers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Party Cruisers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Party Cruisers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Party Cruisers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Party Cruisers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Party Cruisers IPO opens on February 22, 2021 and closes on February 25, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Party Cruisers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Party Cruisers IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,02,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Party Cruisers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Party Cruisers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Party Cruisers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Party Cruisers IPO<!-- --> will be done on <!-- -->Tuesday, March 2, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, March 4, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/party-cruisers-ipo/1086/\" title=\"Party Cruisers IPO Allotment Status\">Party Cruisers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Party Cruisers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Party Cruisers IPO<!-- --> listing date is on <b>Friday, March 5, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Party Cruisers",
+  "issue_price": "₹51.00",
+  "issue_price_numeric": 51,
+  "issue_size": "15,20,000 shares (aggregating up to ₹7.75 Cr)",
+  "issue_size_numeric": 15,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "First Overseas Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/110/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/110/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "51.00"
+      },
+      "open": {
+        "nse_sme": "54.00"
+      },
+      "low": {
+        "nse_sme": "51.30"
+      },
+      "high": {
+        "nse_sme": "54.00"
+      },
+      "last_trade": {
+        "nse_sme": "51.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 5 2021",
+    "nse_symbol": "PARTYCRUS",
+    "isin": "INE06ZX01015",
+    "final_issue_price": "51 per share"
+  },
+  "listing_date": "2021-03-04T18:30:00.000Z",
+  "listing_gains": "0.59%",
+  "listing_gains_numeric": 0.59,
+  "logo": "https://www.chittorgarh.net/images/ipo/party-cruisers-limited-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/party-cruisers-limited-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "102000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "102000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "204000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/party-cruisers-ipo/1086/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2021-02-21T18:30:00.000Z",
+  "pageHeading": "Party Cruisers Limited IPO (Party Cruisers IPO) Detail",
+  "pageTitle": "Party Cruisers IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Zuzer Hatim Lucknowala and Mrs. Rachana Zuzer Lucknowala are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "94.30%",
+      "share_holding_post_issue": "68.71%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Party Cruisers IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/367399/IPO/DRHP%20Party%20Cruisers%20Ltd_FOCL%20Version%2015%20May%202019_20190515201732.pdf"
+    },
+    {
+      "text": "Party Cruisers IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2021/party-cruisers-limited_49192.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/party-cruisers-ipo/1086/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Party Cruisers IPO offers 1444076 shares. 722000 (50.00%) to NII 722000 (50.00%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "76 (0.01%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "722000 (50.00%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "722000 (50.00%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1444076 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:15.718Z",
+  "source_url": "",
+  "status": "listed",
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 25 2021",
+    "tentative_allotment": "Tue Mar 2 2021",
+    "initiation_of_refunds": "Wed Mar 3 2021",
+    "credit_of_shares_to_demat": "Thu Mar 4 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:13.876Z",
+  "updated_at": "2025-04-18T17:53:15.718Z",
+  "year": 2021,
+  "worst_listing_gains": "0.59%",
+  "worst_listing_gains_numeric": 0.59
+}

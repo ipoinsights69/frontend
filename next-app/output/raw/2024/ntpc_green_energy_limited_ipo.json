@@ -1,0 +1,583 @@
+{
+  "_id": "680249ff3ccffd1c7912c7bd",
+  "ipo_id": "2024_ntpc_green_energy_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:18:30.421Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/ntpc-green-energy-ipo/1902/"
+  },
+  "about": {
+    "details": "<p>Incorporated in April 2022, NTPC Green Energy Limited is a wholly-owned subsidiary of NTPC Limited. NTPC Green is a renewable energy company that focuses on undertaking projects through organic and inorganic routes.</p>\n<p>As of August 31, 2024, the company had an operational capacity of 3,071 MW from solar projects and 100 MW from wind projects across six states.</p>\n<p>As of June 30, 2024, the company's Portfolio consisted of 14,696 MW, including 2,925 MW of operating projects and 11,771 MW of contracted and awarded projects.</p>\n<p>As of June 30, 2024, the company had 15 off-takers across 37 solar projects and 9 wind projects.</p>\n<p>As of June 30, 2024, the company is constructing 31 renewable energy projects in 7 states, totaling 11,771 MW.</p>\n<p>Competitive Strength</p>\n<ul>\n<li>Promted by NTPC Limited, with its extensive experience in large-scale project execution, maintains strong relationships with offtakers and suppliers and showcases significant financial strength.</li>\n<li>As of June 2024, the company has a Portfolio of 14,696 MWs solar and wind projects.</li>\n<li>Experienced team in renewable energy project execution.</li>\n</ul>\n<p>As of June 30, 2024, the workforce comprised 234 employees, and the company utilised the services of 45 contract labourers.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "NTPC Green Energy IPO Details",
+      "sanitizedHeading": "ntpc_green_energy",
+      "headers": [
+        "Application Category",
+        "Maximum Bidding Limits",
+        "Bidding at Cut-off Price Allowed"
+      ],
+      "rows": [
+        [
+          "Only RII",
+          "Up to Rs 2 Lakhs",
+          "Yes"
+        ],
+        [
+          "Only sNII",
+          "Rs 2 Lakhs to Rs 10 Lakhs",
+          "No"
+        ],
+        [
+          "Only bNII",
+          "Rs 10 Lakhs to NII Reservation Portion",
+          "No"
+        ],
+        [
+          "Only shareholder",
+          null,
+          "Allowed only if bidding amount is upto Rs 2 lakhs"
+        ],
+        [
+          "Only employee",
+          "Up to",
+          "Yes"
+        ],
+        [
+          "Employee + Shareholder",
+          "Shareholder limit: Employee limit: . (In certain cases employees are given discount if bidding amount is upto Rs. 2 lakhs)",
+          "Yes"
+        ],
+        [
+          "Employee + Shareholder + RII/NII",
+          "Shareholder limit: Employee limit: (In certain cases employees are given discount if bidding amount is upto Rs. 2 lakhs) If applying as RII: Upto Rs. 2 lakhs If applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+          "Yes for shareholder/employee/RII"
+        ],
+        [
+          "Shareholder + RII/NII",
+          "Shareholder limit: Upto Rs. 2 lakhs If applying as RII: Upto Rs. 2 lakhs If applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+          "Yes for shareholder/RII"
+        ],
+        [
+          "Employee + RII/NII",
+          "Employee limit: (In certain cases employees are given discount if bidding amount is upto Rs. 2 lakhs) If applying as RII: Upto Rs. 2 lakhs If applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+          "Yes for shareholder/RII"
+        ]
+      ]
+    },
+    {
+      "heading": "NTPC Green Energy Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2024",
+        "31 Mar 2024",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "32408.30",
+          "27206.42",
+          "18431.40"
+        ],
+        [
+          "Revenue",
+          "1132.74",
+          "2037.66",
+          "170.63"
+        ],
+        [
+          "Profit After Tax",
+          "175.30",
+          "344.72",
+          "171.23"
+        ],
+        [
+          "Net Worth",
+          "8189.18",
+          "6232.14",
+          null
+        ],
+        [
+          "Reserves and Surplus",
+          "596.08",
+          "512.60",
+          "167.88"
+        ],
+        [
+          "Total Borrowing",
+          "17057.50",
+          "12796.74",
+          null
+        ]
+      ]
+    },
+    {
+      "heading": "Ntpc Green Energy Limited Stock Quote & Charts",
+      "sanitizedHeading": "ntpc_green_energy_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "7.39%"
+        ],
+        [
+          "Debt/Equity",
+          "1.91"
+        ],
+        [
+          "RoNW",
+          "2.14%"
+        ],
+        [
+          "PAT Margin",
+          "16.20"
+        ],
+        [
+          "Price to Book Value",
+          "9.89"
+        ]
+      ]
+    },
+    {
+      "heading": "Ntpc Green Energy Limited Stock Quote & Charts",
+      "sanitizedHeading": "ntpc_green_energy_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "0.46",
+          "0.42"
+        ],
+        [
+          "P/E (x)",
+          "234.97",
+          "259.56"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "NTPC Green Energy IPO raises Rs 3960.00 crore from anchor investors. NTPC Green Energy IPO Anchor bid date is November 18 2024. NTPC Green Energy IPO Anchor Investors list",
+    "list_link": {
+      "text": "NTPC Green Energy IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/ntpcgreen_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "February 23 2025",
+      "shares_offered": "366666666",
+      "anchor_portion_size": "3960.00"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "November 19, 2024 to November 22, 2024",
+    "ipoListingDate": "Wed, Nov 27, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹108.00",
+    "lotSize": "138 Shares",
+    "issueSize": "92,59,25,926 shares (aggregating up to ₹10,000.00 Cr)",
+    "freshIssue": "92,59,25,926 shares (aggregating up to ₹10,000.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Nov 19, 2024",
+    "ipoCloseDate": "Fri, Nov 22, 2024",
+    "initiationOfRefunds": "Tue, Nov 26, 2024",
+    "creditOfSharesToDemat": "Tue, Nov 26, 2024",
+    "shareHoldingPreIssue": "7,50,00,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "7,50,00,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "8,42,59,25,926 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "8,42,59,25,926 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "89.01%"
+      }
+    ]
+  },
+  "closing_date": "2024-11-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 11 24362577",
+    "email": "ngel@ntpc.co.in",
+    "full_address": "NTPC Green Energy Limited, NTPC Bhawan Core -7, SCOPEComplex 7 Institutional Area, Lodi Road New Delhi-110003",
+    "website": "https://www.ngel.in/"
+  },
+  "createdAt": "2025-04-18T12:47:59.557Z",
+  "faqs": [
+    {
+      "question": "What is the NTPC Green Energy IPO?",
+      "answer": "<div itemprop=\"text\"><p>NTPC Green Energy IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->925925926<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->10,000.00<!-- --> Crores. The issue is priced at <span>₹108 per share</span>. The minimum order quantity is <!-- -->138<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 19, 2024</b>, and <b>closes on <!-- -->November 22, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in NTPC Green Energy IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->NTPC Green Energy IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->NTPC Green Energy IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->NTPC Green Energy IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->NTPC Green Energy IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When NTPC Green Energy IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The NTPC Green Energy IPO opens on November 19, 2024 and closes on November 22, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of NTPC Green Energy IPO?",
+      "answer": "<div itemprop=\"text\"><p>NTPC Green Energy IPO<!-- --> <b>lot size is <!-- -->138</b>, and the <b>minimum amount required is <span>₹14,904</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for NTPC Green Energy IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->NTPC Green Energy IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is NTPC Green Energy IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->NTPC Green Energy IPO<!-- --> will be done on <!-- -->Monday, November 25, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, November 26, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/ntpc-green-energy-ipo/1902/\" title=\"NTPC Green Energy IPO Allotment Status\">NTPC Green Energy IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is NTPC Green Energy IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->NTPC Green Energy IPO<!-- --> listing date is on <b>Wednesday, November 27, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "NTPC Green Energy",
+  "issue_price": "₹108.00",
+  "issue_price_numeric": 108,
+  "issue_size": "92,59,25,926 shares (aggregating up to ₹10,000.00 Cr)",
+  "issue_size_numeric": 92,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Idbi Capital Market Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/47/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/47/"
+    },
+    {
+      "name": "Hdfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/82/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/82/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Nuvama Wealth Management Limited",
+      "url": "/report/ipo-lead-manager-review/112/408/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/408/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "108.00",
+        "nse": "108.00"
+      },
+      "open": {
+        "bse": "111.60",
+        "nse": "111.50"
+      },
+      "low": {
+        "bse": "111.60",
+        "nse": "111.50"
+      },
+      "high": {
+        "bse": "122.75",
+        "nse": "122.65"
+      },
+      "last_trade": {
+        "bse": "122.10",
+        "nse": "121.65"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 27 2024",
+    "bse_script_code": "544289",
+    "nse_symbol": "NTPCGREEN",
+    "isin": "INE0ONG01011",
+    "final_issue_price": "108 per share"
+  },
+  "listing_date": "2024-11-26T18:30:00.000Z",
+  "listing_gains": "13.06%",
+  "listing_gains_numeric": 13.06,
+  "logo": "https://www.chittorgarh.net/images/ipo/ntpc_green_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/ntpc_green_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 138 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "138",
+        "amount": "14904"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1794",
+        "amount": "193752"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1932",
+        "amount": "208656"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "9246",
+        "amount": "998568"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "9384",
+        "amount": "1013472"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/ntpc-green-energy-ipo/1902/"
+    }
+  },
+  "lot_size": 138,
+  "opening_date": "2024-11-18T18:30:00.000Z",
+  "pageHeading": "NTPC Green Energy Limited IPO (NTPC Green Energy IPO) Detail",
+  "pageTitle": "NTPC Green Energy IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the Company are the President of India acting through the Ministry of Power Government of India and NTPC Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "89.01%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "NTPC Green Energy IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/ntpc-green-energy-limited_86875.html"
+    },
+    {
+      "text": "NTPC Green Energy IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2024/ntpc-green-energy-limited-rhp_88431.html"
+    },
+    {
+      "text": "Anchor Investors in NTPC Green Energy IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/ntpcgreen_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "24",
+        "neutral": "2",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "7",
+        "neutral": "1",
+        "avoid": "26"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/ntpc-green-energy-ipo/1902/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "ntpcgreen.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "NTPC Green Energy IPO offers 926824883 shares. 244444445 (26.37%) to QIB 122222222 (13.19%) to NII 81481481 (8.79%) to RII 19417476 (2.1%) to employees and 366666666 (39.56%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "366666666 (39.56%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "244444445 (26.37%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "122222222 (13.19%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "81481482 (8.79%)",
+        "maximum_allottees": "42174"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "40740741 (4.4%)",
+        "maximum_allottees": "21087"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "81481481 (8.79%)",
+        "maximum_allottees": "590445"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "19417476 (2.1%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "92592593 (9.99%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "926824883 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.557Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The NTPC Green Energy IPO is subscribed 2.55 times on November 22 2024 6:19:08 PM (Day 3). The public issue subscribed 3.59 times in the retail category 3.51 times in the QIB category and 0.85 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "3.51",
+        "shares_offered": "244444445",
+        "shares_bid_for": "858449286"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.85",
+        "shares_offered": "122222222",
+        "shares_bid_for": "104499258"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "0.6",
+        "shares_offered": "81481482",
+        "shares_bid_for": "49025052"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "1.36",
+        "shares_offered": "40740741",
+        "shares_bid_for": "55474206"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.59",
+        "shares_offered": "81481481",
+        "shares_bid_for": "292732776"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "0.83",
+        "shares_offered": "19417476",
+        "shares_bid_for": "16175946"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "1.67",
+        "shares_offered": "92592593",
+        "shares_bid_for": "154650114"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.55",
+        "shares_offered": "560158217",
+        "shares_bid_for": "1426507380"
+      }
+    },
+    "total_applications": "2226023"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 22 2024",
+    "tentative_allotment": "Mon Nov 25 2024",
+    "initiation_of_refunds": "Tue Nov 26 2024",
+    "credit_of_shares_to_demat": "Tue Nov 26 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:06.095Z",
+  "updated_at": "2025-04-18T12:47:59.557Z",
+  "year": 2024,
+  "worst_listing_gains": "13.06%",
+  "worst_listing_gains_numeric": 13.06
+}

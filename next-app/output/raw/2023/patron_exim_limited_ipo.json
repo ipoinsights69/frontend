@@ -1,0 +1,388 @@
+{
+  "_id": "68028e9d3ccffd1c7912c934",
+  "ipo_id": "2023_patron_exim_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:35:08.891Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/patron-exim-ipo/1375/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1992, Patron Exim Limited is an Ahmedabad-based company engaged in the trading and distribution of a wide range of pharmaceutical raw material which is also known as APIs (Active Pharmaceutical Ingredients), industrial chemical, excipient, and solvents.</p>\n<p>Patron Exim's product portfolio comprises around 150 AIPs, Excipient, Pharma Chemical &amp; Intermediates. The company is also in the trading of a variety of chemicals, such as Petrochemicals, Dyes &amp; Pigment Chemicals, Paints &amp; Speciality Chemical, Agro Chemicals, Oil &amp; Refinery Chemicals, Foam &amp; Adhesive, Plywood &amp; Laminates Chemical.</p>\n<p>The company has total strength of permanent employees 09 in various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "1634.01",
+          "2516.44",
+          "2.20",
+          "259.43",
+          "137.18"
+        ],
+        [
+          "31-Mar-21",
+          "810.93",
+          "2053.72",
+          "7.31",
+          "270.43",
+          "236.99"
+        ],
+        [
+          "31-Mar-22",
+          "1464.57",
+          "501.61",
+          "83.11",
+          "514.46",
+          "0.00"
+        ],
+        [
+          "30-Nov-22",
+          "2447.61",
+          "1054.12",
+          "145.41",
+          "1625.87",
+          "617.64"
+        ]
+      ]
+    },
+    {
+      "heading": "Patron Exim Ltd Stock Quote & Charts",
+      "sanitizedHeading": "patron_exim_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "28.72",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 21, 2023 to February 24, 2023",
+    "ipoListingDate": "Mon, Mar 6, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹27.00",
+    "lotSize": "4,000 Shares",
+    "issueSize": "61,80,000 shares (aggregating up to ₹16.69 Cr)",
+    "freshIssue": "61,80,000 shares (aggregating up to ₹16.69 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "3,16,000 shares",
+      "maker_name": "Sunflower Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/357/"
+    },
+    "ipoOpenDate": "Tue, Feb 21, 2023",
+    "ipoCloseDate": "Fri, Feb 24, 2023",
+    "initiationOfRefunds": "Thu, Mar 2, 2023",
+    "creditOfSharesToDemat": "Fri, Mar 3, 2023",
+    "shareHoldingPreIssue": "1,70,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,70,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "97.06%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,31,80,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,31,80,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "71.18%"
+      }
+    ]
+  },
+  "closing_date": "2023-02-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "9979978393",
+    "email": "info@patronexim.com",
+    "full_address": "Patron Exim Limited, 411 Safal Perlude B/h Ashwaraj Bunglows, 100 FT Road Prahladnagar Vejalpur, Ahmedabad 380015",
+    "website": "https://patronexim.com/"
+  },
+  "createdAt": "2025-04-18T17:40:45.921Z",
+  "faqs": [
+    {
+      "question": "What is the Patron Exim IPO?",
+      "answer": "<div itemprop=\"text\"><p>Patron Exim IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6180000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->16.69<!-- --> Crores. The issue is priced at <span>₹27 per share</span>. The minimum order quantity is <!-- -->4000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 21, 2023</b>, and <b>closes on <!-- -->February 24, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Patron Exim IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Patron Exim IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Patron Exim IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Patron Exim IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Patron Exim IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Patron Exim IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Patron Exim IPO opens on February 21, 2023 and closes on February 24, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Patron Exim IPO?",
+      "answer": "<div itemprop=\"text\"><p>Patron Exim IPO<!-- --> <b>lot size is <!-- -->4000</b>, and the <b>minimum amount required is <span>₹1,08,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Patron Exim IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Patron Exim IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Patron Exim IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Patron Exim IPO<!-- --> will be done on <!-- -->Wednesday, March 1, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, March 3, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/patron-exim-ipo/1375/\" title=\"Patron Exim IPO Allotment Status\">Patron Exim IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Patron Exim IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Patron Exim IPO<!-- --> listing date is on <b>Monday, March 6, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Patron Exim",
+  "issue_price": "₹27.00",
+  "issue_price_numeric": 27,
+  "issue_size": "61,80,000 shares (aggregating up to ₹16.69 Cr)",
+  "issue_size_numeric": 61,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Interactive Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/188/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/188/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "27.00"
+      },
+      "open": {
+        "bse_sme": "28.40"
+      },
+      "low": {
+        "bse_sme": "26.98"
+      },
+      "high": {
+        "bse_sme": "28.40"
+      },
+      "last_trade": {
+        "bse_sme": "26.98"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 6 2023",
+    "bse_script_code": "543798",
+    "isin": "INE0NPA01011",
+    "final_issue_price": "27 per share"
+  },
+  "listing_date": "2023-03-05T18:30:00.000Z",
+  "listing_gains": "-0.07%",
+  "listing_gains_numeric": -0.07,
+  "logo": "https://www.chittorgarh.net/images/ipo/patron-exim-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/patron-exim-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "108000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "4000",
+        "amount": "108000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "8000",
+        "amount": "216000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/patron-exim-ipo/1375/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2023-02-20T18:30:00.000Z",
+  "pageHeading": "Patron Exim Limited IPO (Patron Exim IPO) Detail",
+  "pageTitle": "Patron Exim IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Narendrakumar Gangaramdas Patel and Mrs. Sushilabahen Narendrakumar Patel are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "97.06%",
+      "share_holding_post_issue": "71.18%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Patron Exim IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/388058/Final%20Draft%20Prospectus%20Patron_20230110002926.pdf"
+    },
+    {
+      "text": "Patron Exim IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/388058/SME_IPO%20Open/Prospectus_20230216161118.pdf "
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "3"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/patron-exim-ipo/1375/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Patron Exim IPO offers 6180000 shares. 2932000 (47.44%) to NII 2932000 (47.44%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "316000 (5.11%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2932000 (47.44%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2932000 (47.44%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6180000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:45.921Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Patron Exim IPO is subscribed 1.07 times on February 24 2023 6:59:00 PM (Day 4). The public issue subscribed 1.17 times in the retail category [.] times in the QIB category and 0.97 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.97",
+        "shares_offered": "2932000",
+        "shares_bid_for": "2840000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.17",
+        "shares_offered": "2932000",
+        "shares_bid_for": "3444000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.07",
+        "shares_offered": "5864000",
+        "shares_bid_for": "6284000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 24 2023",
+    "tentative_allotment": "Wed Mar 1 2023",
+    "initiation_of_refunds": "Thu Mar 2 2023",
+    "credit_of_shares_to_demat": "Fri Mar 3 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:42.645Z",
+  "updated_at": "2025-04-18T17:40:45.921Z",
+  "year": 2023,
+  "worst_listing_gains": "-0.07%",
+  "worst_listing_gains_numeric": -0.07
+}

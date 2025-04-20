@@ -1,0 +1,409 @@
+{
+  "_id": "6802985b3ccffd1c7912cc47",
+  "ipo_id": "2019_mstc_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": true,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:20:43.263Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/mstc-limited-ipo/969/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1964, Kolkata based MSTC Limited is a public sector unit (PSU) involved in the trading of bulk raw material and e-commerce service provider to government and government-controlled entities. </p><p>The company was previously a canalizing agency (an enterprise created specifically to import and/or export of ferrous scrap) until 1992. After de-canalisation it has established itself as an e-commerce service provider and a major player in trading of bulk raw material. </p><p>In FY 2017, the company entered into the recycling business through a 50:50 joint venture with Mahindra Intertrade Ltd (a subsidiary of Mahindra Vehicle Manufacturers Ltd) by forming a new company Mahindra MSTC Recycling Pvt Ltd (MMRPL). This new firm is in the business of auto shredding, processing of end of life vehicles (ELVs), other white goods and products for the production of iron and non-iron shredded scrap</p><p>The 3 main business verticals in the company are:</p><p>(i) E-commerce, <br>(ii) Trading of bulk raw material<br>(iii) Recycling through MMRPL. </p><p>Since 2002, the company is offering e-auction platforms to many Government and Government controlled entities. As on December 31, 2018, MSTC has conducted over 1,90,000 auctions, serving over 1,10,000 users. It has conducted 28,600 auctions/events during 2018 and 30,500 auctions/event for nine months period ended December 31, 2018.  </p><p>MSTC was the company behind developing E-RaKAM portal, a  digital initiative bringing together the farmers, FPOs, PSU, civil supplies and buyers on a single platform for selling and buying of agricultural products.</p><p>MSTC has a country-wide footprint with 4 regional offices located in Delhi, Mumbai, Kolkata and Chennai, 13 branch offices in major cities of India and 3 site offices.</p><p>For Fiscals 2018, 2017 and 2016, the total revenue of the company was Rs 27,931.50 million, Rs 18,762.00 million, and Rs 33,078.00 million respectively.</p><p>The revenues from trading vertical are Rs 22,627.50 million, Rs 13,854.10 million and Rs 28,114.70 million for Fiscal 2018, 2017 and 2016 respectively.</p><p>The revenues from e-commerce vertical are Rs 1,900.60 million, Rs 1,618.80 million and Rs 1,277.50 million for Fiscal 2018, 2017 and 2016 respectively.</p><p>The EBITDA  for Fiscals 2018, 2017 and 2016 was Rs 1,131.99 million, Rs 2,626.40 million and (Rs 853.50) million respectively. </p><p>Competitive strengths of the company:</p><p>1. One of the leading PSU providing e-commerce services.<br>2. Diversified customer portfolio<br>3. The active client base of government and government-controlled entities.<br>4. Preferred service provider for conducting e-auctions for government bodies</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-18",
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16"
+        ],
+        [
+          "Total Assets",
+          "42566.28",
+          "47378.56",
+          "45998.14",
+          "41621.75"
+        ],
+        [
+          "Total Revenue",
+          "14915.50",
+          "27931.50",
+          "18762.00",
+          "33078.00"
+        ],
+        [
+          "Profit After Tax",
+          "(158.84)",
+          "(64.81)",
+          "1391.50",
+          "(2471.00)"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 13, 2019 to March 20, 2019",
+    "ipoListingDate": "Fri, Mar 29, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹120.00",
+    "lotSize": "90 Shares",
+    "issueSize": "1,76,70,400 shares (aggregating up to ₹212.04 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Mar 13, 2019",
+    "ipoCloseDate": "Wed, Mar 20, 2019",
+    "initiationOfRefunds": "Tue, Mar 26, 2019",
+    "creditOfSharesToDemat": "Thu, Mar 28, 2019",
+    "shareHoldingPreIssue": "7,04,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "7,04,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "89.85%"
+      }
+    ],
+    "shareHoldingPostIssue": "7,04,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "7,04,00,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "64.75%"
+      }
+    ]
+  },
+  "closing_date": "2019-03-19T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-033-2281-3088",
+    "email": "cosec@mstcindia.co.in",
+    "full_address": "MSTC Limited, 225-C, A. J. C. Bose Road, Kolkata - 700 020",
+    "website": "http://www.mstcindia.co.in/"
+  },
+  "createdAt": "2025-04-18T18:22:19.305Z",
+  "faqs": [
+    {
+      "question": "What is the MSTC IPO?",
+      "answer": "<div itemprop=\"text\"><p>MSTC IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->17670400<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->212.04<!-- --> Crores. The issue is priced at <span>₹120 per share</span>. The minimum order quantity is <!-- -->90<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 13, 2019</b>, and <b>closes on <!-- -->March 20, 2019</b>.</p><p>Alankit Assignments Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in MSTC IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->MSTC IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->MSTC IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->MSTC IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->MSTC IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When MSTC IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The MSTC IPO opens on March 13, 2019 and closes on March 20, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of MSTC IPO?",
+      "answer": "<div itemprop=\"text\"><p>MSTC IPO<!-- --> <b>lot size is <!-- -->90</b>, and the <b>minimum amount required is <span>₹11,520</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for MSTC IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->MSTC IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is MSTC IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->MSTC IPO<!-- --> will be done on <!-- -->Monday, March 25, 2019<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, March 28, 2019<!-- -->. Check the <a href=\"/ipo_allotment_status/mstc-limited-ipo/969/\" title=\"MSTC IPO Allotment Status\">MSTC IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is MSTC IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->MSTC IPO<!-- --> listing date is on <b>Friday, March 29, 2019</b>.</p></div>"
+    }
+  ],
+  "ipoName": "MSTC",
+  "issue_price": "₹120.00",
+  "issue_price_numeric": 120,
+  "issue_size": "1,76,70,400 shares (aggregating up to ₹212.04 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Equirus Capital Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/133/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/133/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "120.00",
+        "nse": "120.00"
+      },
+      "open": {
+        "bse": "111.00",
+        "nse": "115.00"
+      },
+      "low": {
+        "bse": "110.05",
+        "nse": "111.00"
+      },
+      "high": {
+        "bse": "116.55",
+        "nse": "120.00"
+      },
+      "last_trade": {
+        "bse": "114.20",
+        "nse": "113.95"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 29 2019",
+    "bse_script_code": "542597",
+    "nse_symbol": "MSTCLTD",
+    "isin": "INE255X01014",
+    "final_issue_price": "120 per share"
+  },
+  "listing_date": "2019-03-28T18:30:00.000Z",
+  "listing_gains": "-4.83%",
+  "listing_gains_numeric": -4.83,
+  "logo": "https://www.chittorgarh.net/images/ipo/mstc-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/mstc-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 90 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "90",
+        "amount": "11520"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "17",
+        "shares": "1530",
+        "amount": "195840"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "18",
+        "shares": "1620",
+        "amount": "207360"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "86",
+        "shares": "7740",
+        "amount": "990720"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "87",
+        "shares": "7830",
+        "amount": "1002240"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/mstc-limited-ipo/969/"
+    }
+  },
+  "lot_size": 90,
+  "opening_date": "2019-03-12T18:30:00.000Z",
+  "pageHeading": "MSTC Limited IPO (MSTC IPO) Detail",
+  "pageTitle": "MSTC IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The Promoter of the company is the President of India acting through the MoS. The Promoter currently holds 89.85% of the pre-Offer paid-up Equity Share capital of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "89.85%",
+      "share_holding_post_issue": "64.75%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "MSTC IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2019/mstc-limited_41966.html"
+    },
+    {
+      "text": "MSTC IPO RHP",
+      "url": "https://nsearchives.nseindia.com/corporate/FP_INE255X01014_22MAR2019.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/mstc-limited-ipo/969/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Alankit Assignments Ltd",
+    "phone": "(011) 4254 1234",
+    "email": "sarunraj@alankit.com",
+    "website": "http://ipo.alankit.com/"
+  },
+  "reservation": {
+    "summary": "MSTC IPO offers 17670400 shares. 13200000 (74.70%) to QIB 2640000 (14.94%) to NII 1760000 (9.96%) to RII 70400 (0.40%) to employees. 19555 RIIs will receive minimum 90 shares and (sNII) and (bNII) will receive minimum 1620 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "13200000 (74.70%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2640000 (14.94%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1760000 (9.96%)",
+        "maximum_allottees": "19555"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "70400 (0.40%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "17670400 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:19.305Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The MSTC IPO is subscribed 1.46 times on March 20 2019 5:00:00 PM (Day 6). The public issue subscribed 2.95 times in the retail category 1.13 times in the QIB category and 2.15 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.13",
+        "shares_offered": "13200000",
+        "shares_bid_for": "14860710"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.15",
+        "shares_offered": "2640000",
+        "shares_bid_for": "5665860"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.95",
+        "shares_offered": "1760000",
+        "shares_bid_for": "5193990"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.54",
+        "shares_offered": "70400",
+        "shares_bid_for": "108540"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.46",
+        "shares_offered": "17670400",
+        "shares_bid_for": "25829100"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 20 2019",
+    "tentative_allotment": "Mon Mar 25 2019",
+    "initiation_of_refunds": "Tue Mar 26 2019",
+    "credit_of_shares_to_demat": "Thu Mar 28 2019"
+  },
+  "timeline": {
+    "summary": "MSTC IPO opens on March 13 2019 and closes on March 20 2019.",
+    "schedule": {
+      "ipo_date": "5 PM on March 20 2019",
+      "tentative_allotment": "Mon Mar 25 2019",
+      "initiation_of_refunds": "Tue Mar 26 2019",
+      "credit_of_shares_to_demat": "Thu Mar 28 2019"
+    }
+  },
+  "updatedAt": "2025-04-19T04:39:36.377Z",
+  "updated_at": "2025-04-18T18:22:19.305Z",
+  "year": 2019,
+  "worst_listing_gains": "-4.83%",
+  "worst_listing_gains_numeric": -4.83
+}

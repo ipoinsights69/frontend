@@ -1,0 +1,359 @@
+{
+  "_id": "6802985c3ccffd1c7912cc62",
+  "ipo_id": "2019_vaxtex_cotfab_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:18:19.939Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/vaxtex-cotfab-ipo/1029/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2005, Ahmedabad based Vaxtex Cotfab Limited is engaged in the business of Textile processing of fabric and trading. The Company does Processing (dyeing and finishing) of grey fabrics for shirting, suiting, and other accessories. It also works on an outsourcing basis for other fabric/garment companies. </p><p>Vartex has a processing unit and a Packing and Storage unit located at Narol, Ahmedabad in Gujarat. The installed capacity of the processing unit is 12,00,000 meters/month for processing of various fabrics from natural and man-made fibres specializing in 100% cotton, Giza &amp; Supima cotton blended fabrics, polyester viscose and polyester cotton. The company undertakes corporate orders for Finished Fabrics from brands. </p><p>It also has a dedicated in-house Testing and Quality Control Team which undertakes testing and quality management. </p><p><b>Competitive Strengths</b></p><p>1. Strategic location advantage in Ahmedabad, Gujarat<br>2. Experienced promoters<br>3. Strong technical capabilities for maintaining high product quality<br>4. Sound financial track record with revenues showing an increase of 581.84% and<br>313.99% in 2016-17 and 2017-18.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Jun-19",
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Mar-17"
+        ],
+        [
+          "Total Assets",
+          "1969.99",
+          "1350.29",
+          "1018.76",
+          "470.00"
+        ],
+        [
+          "Total Revenue",
+          "454.46",
+          "2201.80",
+          "1846.63",
+          "446.06"
+        ],
+        [
+          "Profit After Tax",
+          "33.58",
+          "60.20",
+          "17.09",
+          "1.85"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 27, 2019 to January 3, 2020",
+    "ipoListingDate": "Mon, Jan 13, 2020",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹24.00",
+    "lotSize": "6,000 Shares",
+    "issueSize": "15,96,000 shares (aggregating up to ₹3.83 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "84,000 shares",
+    "ipoOpenDate": "Fri, Dec 27, 2019",
+    "ipoCloseDate": "Fri, Jan 3, 2020",
+    "initiationOfRefunds": "Thu, Jan 9, 2020",
+    "creditOfSharesToDemat": "Fri, Jan 10, 2020",
+    "shareHoldingPreIssue": "44,27,500 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "44,27,500 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "98.50%"
+      }
+    ],
+    "shareHoldingPostIssue": "60,23,500 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "60,23,500 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.50 %"
+      }
+    ]
+  },
+  "closing_date": "2020-01-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "91-9724496973/9727123004",
+    "email": "vaxtexcotfab@gmail.com",
+    "full_address": "Vaxtex Cotfab Limited, Survey No 230 Opp Mariya Park, B/h Ranipur Vill Saijpur-Narol, Ahmedabad - 382405 Gujarat India.",
+    "website": "http://www.vaxtexcotfab.com"
+  },
+  "createdAt": "2025-04-18T18:22:20.009Z",
+  "faqs": [
+    {
+      "question": "What is the Vaxtex Cotfab IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vaxtex Cotfab IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1596000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->3.83<!-- --> Crores. The issue is priced at <span>₹24 per share</span>. The minimum order quantity is <!-- -->6000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 27, 2019</b>, and <b>closes on <!-- -->January 3, 2020</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Vaxtex Cotfab IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Vaxtex Cotfab IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Vaxtex Cotfab IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Vaxtex Cotfab IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Vaxtex Cotfab IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Vaxtex Cotfab IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Vaxtex Cotfab IPO opens on December 27, 2019 and closes on January 3, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Vaxtex Cotfab IPO?",
+      "answer": "<div itemprop=\"text\"><p>Vaxtex Cotfab IPO<!-- --> <b>lot size is <!-- -->6000</b>, and the <b>minimum amount required is <span>₹1,44,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Vaxtex Cotfab IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Vaxtex Cotfab IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Vaxtex Cotfab IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Vaxtex Cotfab IPO<!-- --> will be done on <!-- -->Wednesday, January 8, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, January 10, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/vaxtex-cotfab-ipo/1029/\" title=\"Vaxtex Cotfab IPO Allotment Status\">Vaxtex Cotfab IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Vaxtex Cotfab IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Vaxtex Cotfab IPO<!-- --> listing date is on <b>Monday, January 13, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Vaxtex Cotfab",
+  "issue_price": "₹24.00",
+  "issue_price_numeric": 24,
+  "issue_size": "15,96,000 shares (aggregating up to ₹3.83 Cr)",
+  "issue_size_numeric": 15,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Capitalsquare Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/168/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/168/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "24.00"
+      },
+      "open": {
+        "nse_sme": "24.10"
+      },
+      "low": {
+        "nse_sme": "23.30"
+      },
+      "high": {
+        "nse_sme": "25.00"
+      },
+      "last_trade": {
+        "nse_sme": "24.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "January 13 2020",
+    "nse_symbol": "VCL",
+    "isin": "INE098201010",
+    "final_issue_price": "24 per share"
+  },
+  "listing_date": "2020-01-12T18:30:00.000Z",
+  "listing_gains": "3.33%",
+  "listing_gains_numeric": 3.33,
+  "logo": "https://www.chittorgarh.net/images/ipo/vartexcotfab-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/vartexcotfab-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 6000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "144000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "6000",
+        "amount": "144000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "12000",
+        "amount": "288000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/vaxtex-cotfab-ipo/1029/"
+    }
+  },
+  "lot_size": 6,
+  "opening_date": "2019-12-26T18:30:00.000Z",
+  "pageHeading": "Vaxtex Cotfab Limited IPO (Vaxtex Cotfab IPO) Detail",
+  "pageTitle": "Vaxtex Cotfab IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the Company are Mr Khushant Gupta Mr Mithleshkumar M Agrawal Qmin Pharma Private Limited and Miracle Stores Private Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "98.50%",
+      "share_holding_post_issue": "73.50 %"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Vaxtex Cotfab IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Vaxtex_DP.pdf"
+    },
+    {
+      "text": "Vaxtex Cotfab IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/VCL_Prospectus.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/vaxtex-cotfab-ipo/1029/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "investor@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Vaxtex Cotfab IPO offers 1680000 shares. 798000 (47.50%) to NII 798000 (47.50%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "84000 (5.00%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "798000 (47.50%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "798000 (47.50%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1680000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:20.009Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Vaxtex Cotfab IPO is subscribed 2.86 times on January 3 2020 5:00:00 PM (Day 6). The public issue subscribed 3.97 times in the retail category [.] times in the QIB category and 1.75 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.75",
+        "shares_offered": "798000",
+        "shares_bid_for": "1398000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "3.97",
+        "shares_offered": "798000",
+        "shares_bid_for": "3168000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.86",
+        "shares_offered": "1596000",
+        "shares_bid_for": "4566000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 3 2020",
+    "tentative_allotment": "Wed Jan 8 2020",
+    "initiation_of_refunds": "Thu Jan 9 2020",
+    "credit_of_shares_to_demat": "Fri Jan 10 2020"
+  },
+  "updatedAt": "2025-04-19T04:39:39.820Z",
+  "updated_at": "2025-04-18T18:22:20.009Z",
+  "year": 2019,
+  "worst_listing_gains": "3.33%",
+  "worst_listing_gains_numeric": 3.33
+}

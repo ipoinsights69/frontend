@@ -1,0 +1,413 @@
+{
+  "_id": "6802918b3ccffd1c7912c9fb",
+  "ipo_id": "2021_krsnaa_diagnostics_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:47:07.190Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/krsnaa-diagnostics-ipo/1138/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2010, Krsnaa Diagnostics Ltd is one of the fastest-growing diagnostic chains in India. The company offers a wide range of diagnostic services such as imaging/radiology services (X-rays, MRI, etc.), routine clinical laboratory tests, pathology, and tele-radiology services to private and public hospitals, medical colleges, and community health centres.</p>\n\n<p>The firm has an extensive network of diagnostic centres across India with a key focus on non-metro, and lower tier cities and towns. As of December 31, 2020, it operates 1,801 diagnostic centres that are offering radiology and pathology services across 13 different cities in India. In fiscal 2020, the business has served 5.27 million patients.</p>\n\n<p><strong>Competitive Strengths</strong></p>\n<ul>\n<li>Differentiated diagnostic service provider company in India.</li>\n<li>A comprehensive range of diagnostic services i.e. imaging, pathology, etc.</li>\n<li>Strong brand equity with quality healthcare services at affordable prices.</li>\n<li>Extensive market footprint in 13 states across India.</li>\n<li>Consistent financial performance track record.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "6045.30",
+          "6299.82",
+          "5289.85"
+        ],
+        [
+          "Total Revenue",
+          "6614.76",
+          "2713.79",
+          "2143.15"
+        ],
+        [
+          "Profit After Tax",
+          "1849.29",
+          "(1119.51)",
+          "(580.57)"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 4, 2021 to August 6, 2021",
+    "ipoListingDate": "Mon, Aug 16, 2021",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹954.00",
+    "lotSize": "15 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹1,213.33 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹400.00 Cr)",
+    "offerForSale": "85,25,520 shares of ₹5 (aggregating up to ₹813.33 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Aug 4, 2021",
+    "ipoCloseDate": "Fri, Aug 6, 2021",
+    "initiationOfRefunds": "Thu, Aug 12, 2021",
+    "creditOfSharesToDemat": "Fri, Aug 13, 2021",
+    "shareHoldingPreIssue": "2,71,91,528 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,71,91,528 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "31.62%"
+      }
+    ],
+    "shareHoldingPostIssue": "3,14,07,044 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "3,14,07,044 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "27.38%"
+      }
+    ]
+  },
+  "closing_date": "2021-08-05T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 20 4695 4695",
+    "email": "cs@krsnadiagnostics.com",
+    "full_address": "Krsnaa Diagnostics Limited, S.No. 243 A-Hissa No. 6 CTS No. 4519 4519/1, Chinchwad Taluka – Haveli Pune - 411 019",
+    "website": "https://krsnaadiagnostics.com/"
+  },
+  "createdAt": "2025-04-18T17:53:15.012Z",
+  "faqs": [
+    {
+      "question": "What is the Krsnaa Diagnostics IPO?",
+      "answer": "<div itemprop=\"text\"><p>Krsnaa Diagnostics IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->1,213.33<!-- --> Crores. The issue is priced at <span>₹954 per share</span>. The minimum order quantity is <!-- -->15<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 4, 2021</b>, and <b>closes on <!-- -->August 6, 2021</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Krsnaa Diagnostics IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Krsnaa Diagnostics IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Krsnaa Diagnostics IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Krsnaa Diagnostics IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Krsnaa Diagnostics IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Krsnaa Diagnostics IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Krsnaa Diagnostics IPO opens on August 4, 2021 and closes on August 6, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Krsnaa Diagnostics IPO?",
+      "answer": "<div itemprop=\"text\"><p>Krsnaa Diagnostics IPO<!-- --> <b>lot size is <!-- -->15</b>, and the <b>minimum amount required is <span>₹14,310</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Krsnaa Diagnostics IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Krsnaa Diagnostics IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Krsnaa Diagnostics IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Krsnaa Diagnostics IPO<!-- --> will be done on <!-- -->Wednesday, August 11, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, August 13, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/krsnaa-diagnostics-ipo/1138/\" title=\"Krsnaa Diagnostics IPO Allotment Status\">Krsnaa Diagnostics IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Krsnaa Diagnostics IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Krsnaa Diagnostics IPO<!-- --> listing date is on <b>Monday, August 16, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Krsnaa Diagnostics",
+  "issue_price": "₹954.00",
+  "issue_price_numeric": 954,
+  "issue_size": "[.] shares (aggregating up to ₹1,213.33 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Dam Capital Advisors Ltd",
+      "url": "/report/ipo-lead-manager-review/112/30/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/30/"
+    },
+    {
+      "name": "Equirus Capital Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/133/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/133/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "954.00",
+        "nse": "954.00"
+      },
+      "open": {
+        "bse": "1025.00",
+        "nse": "1005.55"
+      },
+      "low": {
+        "bse": "961.45",
+        "nse": "960.00"
+      },
+      "high": {
+        "bse": "1099.50",
+        "nse": "1099.70"
+      },
+      "last_trade": {
+        "bse": "990.75",
+        "nse": "987.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 16 2021",
+    "bse_script_code": "543328",
+    "nse_symbol": "KRSNAA",
+    "isin": "INE08LI01020",
+    "final_issue_price": "954 per share"
+  },
+  "listing_date": "2021-08-15T18:30:00.000Z",
+  "listing_gains": "3.85%",
+  "listing_gains_numeric": 3.85,
+  "logo": "https://www.chittorgarh.net/images/ipo/krsnaa-diagnostics-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/krsnaa-diagnostics-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 15 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "15",
+        "amount": "14310"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "195",
+        "amount": "186030"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "210",
+        "amount": "200340"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "1035",
+        "amount": "987390"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "1050",
+        "amount": "1001700"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/krsnaa-diagnostics-ipo/1138/"
+    }
+  },
+  "lot_size": 15,
+  "opening_date": "2021-08-03T18:30:00.000Z",
+  "pageHeading": "Krsnaa Diagnostics Limited IPO (Krsnaa Diagnostics IPO) Detail",
+  "pageTitle": "Krsnaa Diagnostics IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Rajendra Mutha is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "31.62%",
+      "share_holding_post_issue": "27.38%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Krsnaa Diagnostics IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2021/krsnaa-diagnostics-limited_50149.html"
+    },
+    {
+      "text": "Krsnaa Diagnostics IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/krsnaa-diagnostics-limited_51805.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "2",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/krsnaa-diagnostics-ipo/1138/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "krsnaa.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Krsnaa Diagnostics IPO offers 7112099 shares. 3752625 (52.76%) to QIB 1876312 (26.38%) to NII 1250874 (17.59%) to RII 232288 (3.27%) to employees. 83391 RIIs will receive minimum 15 shares and (sNII) and (bNII) will receive minimum 210 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "3752625 (52.76%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1876312 (26.38%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1250874 (17.59%)",
+        "maximum_allottees": "83391"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "232288 (3.27%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "7112099 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:15.011Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Krsnaa Diagnostics IPO is subscribed 64.38 times on August 6 2021 6:50:00 PM (Day 3). The public issue subscribed 41.95 times in the retail category 49.83 times in the QIB category and 116.3 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "49.83",
+        "shares_offered": "3752625",
+        "shares_bid_for": "186979845"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "116.3",
+        "shares_offered": "1876312",
+        "shares_bid_for": "218210460"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "41.95",
+        "shares_offered": "1250874",
+        "shares_bid_for": "52474665"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "0.98",
+        "shares_offered": "232288",
+        "shares_bid_for": "227400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "64.38",
+        "shares_offered": "7112099",
+        "shares_bid_for": "457892370"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 6 2021",
+    "tentative_allotment": "Wed Aug 11 2021",
+    "initiation_of_refunds": "Thu Aug 12 2021",
+    "credit_of_shares_to_demat": "Fri Aug 13 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:11.285Z",
+  "updated_at": "2025-04-18T17:53:15.011Z",
+  "year": 2021,
+  "worst_listing_gains": "3.85%",
+  "worst_listing_gains_numeric": 3.85
+}

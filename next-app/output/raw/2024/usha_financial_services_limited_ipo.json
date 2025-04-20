@@ -1,0 +1,546 @@
+{
+  "_id": "68024a033ccffd1c7912c825",
+  "ipo_id": "2024_usha_financial_services_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": false,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": false,
+      "registrarDetails": false,
+      "leadManagers": false,
+      "listingDetails": false,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": false,
+      "prospectusLinks": false,
+      "reservation": false,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:19:22.202Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/usha-financial-services-ipo/1889/"
+  },
+  "about": {
+    "details": "<p>Incorporated in May 1995, Usha Financial Services Limited is a non-banking finance company providing lending solutions to other NBFCs, corporates, MSMEs, and individuals, particularly women entrepreneurs.</p>\n<p>The company also provides Electric Vehicle (EV) financing services. It offers a diversified range of financial products to individuals, body corporates, NBFCs, and MSMEs.</p>\n<p>The company has an AUM of Rs. 30,695.76 Lakhs and a Net worth of Rs. 10,602.63 Lakhs. It maintains a CRAR of 33.03% and a D/E Ratio of 1.71.</p>\n<p>The company has maintained long-term relationships with its lenders. As of September 30, 2024, the company's lenders included four banks and 15 NBFCs.</p>\n<p>The company utilizes two distinct business models to generate revenue: (A) Retail Lending and (B) Wholesale Lending.</p>\n<p>The product portfolio of the company consists of the following&nbsp;</p>\n<ul>\n<li>Loans to Other NBFCs and Corporates</li>\n<li>Green financing/ electric vehicle financing</li>\n<li>MSMEs, focusing on small entrepreneurs</li>\n</ul>\n<p>Competitive Strength</p>\n<ul>\n<li>Experienced management team</li>\n<li>The company has strategic agreements with NBFCs and other entities, its business partners/correspondents, which are crucial for its retail lending business, providing access to extensive borrower networks.</li>\n<li>The extensive customer due diligence procedures include multiple levels of checks and controls.</li>\n</ul>\n<p>As of October 2024, the company had 43 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Usha Financial Services Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "35133.66",
+          "33585.81",
+          "37222.64",
+          "16428.07"
+        ],
+        [
+          "Revenue",
+          "2681.26",
+          "6396.05",
+          "4618.73",
+          "2531.36"
+        ],
+        [
+          "Profit After Tax",
+          "504.16",
+          "1344.95",
+          "1016.55",
+          "414.42"
+        ],
+        [
+          "Net Worth",
+          "11106.79",
+          "10602.63",
+          "8207.38",
+          "4767.58"
+        ],
+        [
+          "Reserves and Surplus",
+          "9519.03",
+          "9014.87",
+          "7265.57",
+          "4109.41"
+        ],
+        [
+          "Total Borrowing",
+          "18861.94",
+          "18128.22",
+          "24751.41",
+          "9723.22"
+        ]
+      ]
+    },
+    {
+      "heading": "Usha Financial Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "9.29%"
+        ],
+        [
+          "ROCE",
+          "12.02%"
+        ],
+        [
+          "Debt/Equity",
+          "1.70"
+        ],
+        [
+          "RoNW",
+          "9.29%"
+        ],
+        [
+          "Price to Book Value",
+          "24.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Usha Financial Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "financials",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.47",
+          "9.28"
+        ],
+        [
+          "P/E (x)",
+          "19.83",
+          "18.11"
+        ]
+      ]
+    },
+    {
+      "heading": "Usha Financial Services IPO Listing Details",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Listing Date",
+        "October 31 2024"
+      ],
+      "rows": [
+        [
+          "BSE Script Code",
+          null
+        ],
+        [
+          "NSE Symbol",
+          "USHAFIN"
+        ],
+        [
+          "ISIN",
+          "INE0LS001014"
+        ],
+        [
+          "Final Issue Price",
+          "168 per share"
+        ]
+      ]
+    },
+    {
+      "heading": "Usha Financial Services IPO - Buy or Not",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Review By",
+        "Subscribe",
+        "Neutral",
+        "Avoid"
+      ],
+      "rows": [
+        [
+          "Brokers",
+          "1",
+          "0",
+          "0"
+        ],
+        [
+          "Members",
+          "0",
+          "0",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "October 24, 2024 to October 28, 2024",
+    "ipoListingDate": "Thu, Oct 31, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹168.00",
+    "lotSize": "800 Shares",
+    "issueSize": "58,60,000 shares (aggregating up to ₹98.45 Cr)",
+    "freshIssue": "58,60,000 shares (aggregating up to ₹98.45 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,20,800 shares",
+      "maker_name": "Ss Corporate Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/353/"
+    },
+    "ipoOpenDate": "Thu, Oct 24, 2024",
+    "ipoCloseDate": "Mon, Oct 28, 2024",
+    "initiationOfRefunds": "Wed, Oct 30, 2024",
+    "creditOfSharesToDemat": "Wed, Oct 30, 2024",
+    "shareHoldingPreIssue": "1,58,77,631 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,58,77,631 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "98.91%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,17,37,631 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,17,37,631 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.24%"
+      }
+    ]
+  },
+  "closing_date": "2024-10-27T18:30:00.000Z",
+  "createdAt": "2025-04-18T12:48:03.344Z",
+  "faqs": [
+    {
+      "question": "What is the Usha Financial Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Usha Financial Services IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5860000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->98.45<!-- --> Crores. The issue is priced at <span>₹168 per share</span>. The minimum order quantity is <!-- -->800<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->October 24, 2024</b>, and <b>closes on <!-- -->October 28, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Usha Financial Services IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Usha Financial Services IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Usha Financial Services IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Usha Financial Services IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Usha Financial Services IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Usha Financial Services IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Usha Financial Services IPO opens on October 24, 2024 and closes on October 28, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Usha Financial Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Usha Financial Services IPO<!-- --> <b>lot size is <!-- -->800</b>, and the <b>minimum amount required is <span>₹1,34,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Usha Financial Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Usha Financial Services IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Usha Financial Services IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Usha Financial Services IPO<!-- --> will be done on <!-- -->Tuesday, October 29, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, October 30, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/usha-financial-services-ipo/1889/\" title=\"Usha Financial Services IPO Allotment Status\">Usha Financial Services IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Usha Financial Services IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Usha Financial Services IPO<!-- --> listing date is on <b>Thursday, October 31, 2024</b>.</p></div>"
+    }
+  ],
+  "financials": {
+    "heading": "Usha Financial Services IPO Promoter Holding",
+    "summary": "Investors can bid for a minimum of 800 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "data": [
+      {
+        "metric": "Listing Date",
+        "values": [
+          "October 31 2024"
+        ]
+      },
+      {
+        "metric": "Face Value",
+        "values": [
+          "10 per share"
+        ]
+      },
+      {
+        "metric": "Issue Price",
+        "values": [
+          "168 per share"
+        ]
+      },
+      {
+        "metric": "Lot Size",
+        "values": [
+          "800 Shares"
+        ]
+      },
+      {
+        "metric": "Total Issue Size",
+        "values": [
+          "5860000 shares (aggregating up to 98.45 Cr)"
+        ]
+      },
+      {
+        "metric": "Fresh Issue",
+        "values": [
+          "5860000 shares (aggregating up to 98.45 Cr)"
+        ]
+      },
+      {
+        "metric": "Issue Type",
+        "values": [
+          "Bookbuilding IPO"
+        ]
+      },
+      {
+        "metric": "Listing At",
+        "values": [
+          "NSE SME"
+        ]
+      },
+      {
+        "metric": "Share Holding Pre Issue",
+        "values": [
+          "15877631 shares"
+        ]
+      },
+      {
+        "metric": "Share Holding Post Issue",
+        "values": [
+          "21737631 shares"
+        ]
+      },
+      {
+        "metric": "Market Maker Portion",
+        "values": [
+          "320800 sharesSs Corporate Securities Limited"
+        ]
+      },
+      {
+        "metric": "Market Maker Shares Offered",
+        "values": [
+          "320800 (5.47%)"
+        ]
+      },
+      {
+        "metric": "QIB Shares Offered",
+        "values": [
+          "1108000 (18.91%)"
+        ]
+      },
+      {
+        "metric": "NII (HNI) Shares Offered",
+        "values": [
+          "831200 (14.18%)"
+        ]
+      },
+      {
+        "metric": "Retail Shares Offered",
+        "values": [
+          "1939200 (33.09%)"
+        ]
+      },
+      {
+        "metric": "Total Shares Offered",
+        "values": [
+          "5860000 (100%)"
+        ]
+      },
+      {
+        "metric": "Shares Offered",
+        "values": [
+          "1660800"
+        ]
+      },
+      {
+        "metric": "Anchor Portion Size (In Cr.)",
+        "values": [
+          "27.90"
+        ]
+      },
+      {
+        "metric": "Anchor lock-in period end date for 50% shares (30 Days)",
+        "values": [
+          "November 28 2024"
+        ]
+      },
+      {
+        "metric": "Anchor lock-in period end date for remaining shares (90 Days)",
+        "values": [
+          "January 27 2025"
+        ]
+      },
+      {
+        "metric": "IPO Close Date",
+        "values": [
+          "Mon Oct 28 2024"
+        ]
+      },
+      {
+        "metric": "Tentative Allotment",
+        "values": [
+          "Tue Oct 29 2024"
+        ]
+      },
+      {
+        "metric": "Initiation of Refunds",
+        "values": [
+          "Wed Oct 30 2024"
+        ]
+      },
+      {
+        "metric": "Credit of Shares to Demat",
+        "values": [
+          "Wed Oct 30 2024"
+        ]
+      },
+      {
+        "metric": "Tentative Listing Date",
+        "values": [
+          "Thu Oct 31 2024"
+        ]
+      },
+      {
+        "metric": "Cut-off time for UPI mandate confirmation",
+        "values": [
+          "5 PM on October 28 2024"
+        ]
+      },
+      {
+        "metric": "Retail (Max)",
+        "values": [
+          "1",
+          "800",
+          "134400"
+        ]
+      },
+      {
+        "metric": "HNI (Min)",
+        "values": [
+          "2",
+          "1600",
+          "268800"
+        ]
+      },
+      {
+        "metric": "Lot Size Calculator"
+      }
+    ],
+    "periods": [
+      "1",
+      "800",
+      "134400"
+    ]
+  },
+  "ipoName": "Usha Financial Services",
+  "issue_price": "₹168.00",
+  "issue_price_numeric": 168,
+  "issue_size": "58,60,000 shares (aggregating up to ₹98.45 Cr)",
+  "issue_size_numeric": 58,
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "168.00"
+      },
+      "open": {
+        "nse_sme": "164.00"
+      },
+      "low": {
+        "nse_sme": "155.80"
+      },
+      "high": {
+        "nse_sme": "168.00"
+      },
+      "last_trade": {
+        "nse_sme": "155.85"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listing_date": "2024-10-30T18:30:00.000Z",
+  "listing_gains": "-7.23%",
+  "listing_gains_numeric": -7.23,
+  "logo": "https://www.chittorgarh.net/images/ipo/usha_financial_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/usha_financial_logo.jpeg",
+  "lot_size": 800,
+  "opening_date": "2024-10-23T18:30:00.000Z",
+  "pageHeading": "Usha Financial Services Limited IPO (Usha Financial Services IPO) Detail",
+  "pageTitle": "Usha Financial Services IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The company's promoters are Mr. Rajesh Gupta Mr. Anoop Garg Ms. Geeta Goswami Ms. Nupur Gupta and M/s BR Hands Investments Private Limited.",
+    "holdings": {
+      "share_holding_pre_issue": "98.91%",
+      "share_holding_post_issue": "72.24%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "scraped_at": "2025-04-18T12:48:03.343Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Usha Financial Services IPO is subscribed 19.37 times on October 28 2024 6:20:00 PM (Day 3). The public issue subscribed 20.76 times in the retail category 10.04 times in the QIB category and 28.55 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "10.04",
+        "shares_offered": "1108000",
+        "shares_bid_for": "11127200",
+        "total_application": "13"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "28.55",
+        "shares_offered": "831200",
+        "shares_bid_for": "23728000",
+        "total_application": "4027"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "20.76",
+        "shares_offered": "1939200",
+        "shares_bid_for": "40255200",
+        "total_application": "50319"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "19.37",
+        "shares_offered": "3878400",
+        "shares_bid_for": "75110400",
+        "total_application": "54359"
+      }
+    },
+    "total_applications": "54359",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 28 2024",
+    "tentative_allotment": "Tue Oct 29 2024",
+    "initiation_of_refunds": "Wed Oct 30 2024",
+    "credit_of_shares_to_demat": "Wed Oct 30 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:19.496Z",
+  "updated_at": "2025-04-18T12:48:03.343Z",
+  "year": 2024,
+  "worst_listing_gains": "-7.23%",
+  "worst_listing_gains_numeric": -7.23
+}

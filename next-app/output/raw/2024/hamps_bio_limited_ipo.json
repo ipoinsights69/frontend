@@ -1,0 +1,446 @@
+{
+  "_id": "680249fd3ccffd1c7912c765",
+  "ipo_id": "2024_hamps_bio_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:16:06.668Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/hamps-bio-ipo/1931/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2007, Hamps Bio Limited is engaged in the marketing and distribution of pharmaceutical products like tablets, syrups, capsules, injectables, oil, and nutritional supplements.</p>\n<p>The company distributes its products through a network of over 50 distributors and e-commerce platforms, including Amazon (US, Canada, EU), Flipkart, and Jio Mart. Their pharma products are sold in 8 states and union territories, while Freeze-dried and Frozen products reach 6 countries and 22 states and union territories.</p>\n<p>The company's business is divided into two segments:</p>\n<ol>\n<li><strong>Pharmaceuticals: </strong>The company's pharmaceutical products are marketed under the <strong>\"Hamps\"</strong> brand. The range includes tablets, syrups, capsules, injectables, and powders.</li>\n<li><strong>Freeze-dried and Frozen products:</strong> The FMCG division focuses on freeze-dried and frozen items under the <strong>\"FzyEzy\"</strong> brand. The company operates through both B2B and B2C models, offering products under its brand and through contract manufacturing. Freeze-dried and frozen products include Strawberry, Jamun, Mango, Beet Powder, Chikoo powder etc.</li>\n</ol>\n<p>The company offers over 180 products across both segments. As of October 31, 2024, The company had 78 employees.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>Expert Leadership and Industry Experience Driving Strategic Business Growth</li>\n<li>Distribution Network with an Expansive E-Retailing Presence</li>\n<li>Wide and diversified range of products</li>\n<li>Diversified, global customer base with long-standing relationships</li>\n<li>Wide Geographical Presence</li>\n<li>Brand Identity</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Hamps Bio Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Oct 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "644.00",
+          "514.77",
+          "395.87",
+          "364.31"
+        ],
+        [
+          "Revenue",
+          "436.42",
+          "650.13",
+          "558.49",
+          "534.46"
+        ],
+        [
+          "Profit After Tax",
+          "34.08",
+          "50.07",
+          "35.90",
+          "12.15"
+        ],
+        [
+          "Net Worth",
+          "370.78",
+          "337.42",
+          "136.30",
+          "100.57"
+        ],
+        [
+          "Reserves and Surplus",
+          "57.18",
+          "141.42",
+          "-13.70",
+          "-49.43"
+        ],
+        [
+          "Total Borrowing",
+          "138.31",
+          "104.52",
+          "173.77",
+          "204.31"
+        ]
+      ]
+    },
+    {
+      "heading": "Hamps Bio Ltd Stock Quote & Charts",
+      "sanitizedHeading": "hamps_bio_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "21.14%"
+        ],
+        [
+          "ROCE",
+          "18.31%"
+        ],
+        [
+          "Debt/Equity",
+          "0.31"
+        ],
+        [
+          "RoNW",
+          "14.84%"
+        ],
+        [
+          "PAT Margin",
+          "7.73"
+        ],
+        [
+          "Price to Book Value",
+          "2.96"
+        ]
+      ]
+    },
+    {
+      "heading": "Hamps Bio Ltd Stock Quote & Charts",
+      "sanitizedHeading": "hamps_bio_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "1.60",
+          "1.34"
+        ],
+        [
+          "P/E (x)",
+          "31.94",
+          "38.03"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 13, 2024 to December 17, 2024",
+    "ipoListingDate": "Fri, Dec 20, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹51.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "12,20,000 shares (aggregating up to ₹6.22 Cr)",
+    "freshIssue": "12,20,000 shares (aggregating up to ₹6.22 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "62,000 shares",
+      "maker_name": "Pure Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/327/"
+    },
+    "ipoOpenDate": "Fri, Dec 13, 2024",
+    "ipoCloseDate": "Tue, Dec 17, 2024",
+    "initiationOfRefunds": "Thu, Dec 19, 2024",
+    "creditOfSharesToDemat": "Thu, Dec 19, 2024",
+    "shareHoldingPreIssue": "31,36,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "31,36,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "43,56,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "43,56,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "71.99%"
+      }
+    ]
+  },
+  "closing_date": "2024-12-16T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 8000006663",
+    "email": "info@hampsbio.com",
+    "full_address": "Hamps Bio Limited, 2900/112, GIDC Near Atul Limited, Ankleshwar Bharuch 393 002",
+    "website": "http://www.hampsbio.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.147Z",
+  "faqs": [
+    {
+      "question": "What is the Hamps Bio IPO?",
+      "answer": "<div itemprop=\"text\"><p>Hamps Bio IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1220000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->6.22<!-- --> Crores. The issue is priced at <span>₹51 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 13, 2024</b>, and <b>closes on <!-- -->December 17, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Hamps Bio IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Hamps Bio IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Hamps Bio IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Hamps Bio IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Hamps Bio IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Hamps Bio IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Hamps Bio IPO opens on December 13, 2024 and closes on December 17, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Hamps Bio IPO?",
+      "answer": "<div itemprop=\"text\"><p>Hamps Bio IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,02,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Hamps Bio IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Hamps Bio IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Hamps Bio IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Hamps Bio IPO<!-- --> will be done on <!-- -->Wednesday, December 18, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, December 19, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/hamps-bio-ipo/1931/\" title=\"Hamps Bio IPO Allotment Status\">Hamps Bio IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Hamps Bio IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Hamps Bio IPO<!-- --> listing date is on <b>Friday, December 20, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Hamps Bio",
+  "issue_price": "₹51.00",
+  "issue_price_numeric": 51,
+  "issue_size": "12,20,000 shares (aggregating up to ₹6.22 Cr)",
+  "issue_size_numeric": 12,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Marwadi Chandarana Intermediaries Brokers Pvt. Ltd.",
+      "url": "/report/ipo-lead-manager-review/112/435/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/435/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "51.00"
+      },
+      "open": {
+        "bse_sme": "96.90"
+      },
+      "low": {
+        "bse_sme": "96.90"
+      },
+      "high": {
+        "bse_sme": "101.74"
+      },
+      "last_trade": {
+        "bse_sme": "101.74"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 20 2024",
+    "bse_script_code": "544312",
+    "isin": "INE0QBD01018",
+    "final_issue_price": "51 per share"
+  },
+  "listing_date": "2024-12-19T18:30:00.000Z",
+  "listing_gains": "99.49%",
+  "listing_gains_numeric": 99.49,
+  "logo": "https://www.chittorgarh.net/images/ipo/hamps-bio-ltd-ipo-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/hamps-bio-ltd-ipo-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "102000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "102000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "204000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/hamps-bio-ipo/1931/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-12-12T18:30:00.000Z",
+  "pageHeading": "Hamps Bio Limited IPO (Hamps Bio IPO) Detail",
+  "pageTitle": "Hamps Bio IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Herrik Shah Shrenik Shah Pallavi Shah Mitali Shah Herrik Shah HUF and Shrenik Shah HUF are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "71.99%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Hamps Bio IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/341287/Hamps%20Bio%20Limited_DP_29072024_F_20240730114101.pdf"
+    },
+    {
+      "text": "Hamps Bio IPO Addendum DRHP",
+      "url": "https://www.bsesme.com/download/341287/Addendum-Hamps%20Bio%20Limited%20Draft%20Prospectus_20241112115014.zip"
+    },
+    {
+      "text": "Hamps Bio IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/hamps-bio-limited_89447.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/hamps-bio-ipo/1931/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Hamps Bio IPO offers 1220001 shares. 579000 (47.46%) to NII 579000 (47.46%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "62000 (5.08%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "579000 (47.46%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "579000 (47.46%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1220001 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.147Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Hamps Bio IPO is subscribed 1057 times on December 17 2024 6:20:09 PM (Day 3). The public issue subscribed 1342.04 times in the retail category [.] times in the QIB category and 758.27 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "758.27",
+        "shares_offered": "579000",
+        "shares_bid_for": "439036000",
+        "total_application": "34525"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1342.04",
+        "shares_offered": "579000",
+        "shares_bid_for": "777042000",
+        "total_application": "388521"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1057",
+        "shares_offered": "1158001",
+        "shares_bid_for": "1224012000",
+        "total_application": "665592"
+      }
+    },
+    "total_applications": "665592",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 17 2024",
+    "tentative_allotment": "Wed Dec 18 2024",
+    "initiation_of_refunds": "Thu Dec 19 2024",
+    "credit_of_shares_to_demat": "Thu Dec 19 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:50.101Z",
+  "updated_at": "2025-04-18T12:47:57.147Z",
+  "year": 2024,
+  "worst_listing_gains": "99.49%",
+  "worst_listing_gains_numeric": 99.49,
+  "last_performance_update": "2025-04-19T04:43:50.100Z"
+}

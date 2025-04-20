@@ -1,0 +1,454 @@
+{
+  "_id": "680249fc3ccffd1c7912c73b",
+  "ipo_id": "2024_deccan_transcon_leasing_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:22:10.984Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/deccan-transcon-leasing-ipo/1850/"
+  },
+  "about": {
+    "details": "<p>Incorporated in February 2007 Deccan Transcon Leasing Limited offers tank containers on lease and logistic and supply chain solutions to clients in various sectors.</p>\n<p>The company offers comprehensive freight and shipping solutions, including domestic tank container logistics, tank fleet management, customs clearance and transportation, and Non-Vessel Operating Common Carriers (NVOCC) services.</p>\n<p>As of July 31, 2024, the company had more than 100 customers who had been associated with it for over 3 years. Additionally, the company has served more than 884 customers in the last year.</p>\n<p>The company has successfully built a track record of serving over 5,000 customers.</p>\n<p>The company's services can be divided into two categories</p>\n<ol>\n<li>Leasing of Containers</li>\n<li>Shipping &amp; Freight forwarding</li>\n</ol>\n<p>The company mainly serves customers in industries such as chemicals, pharmaceuticals, FMCG, agriculture, and others, with a focus on specialty chemicals and petrochemicals in 40 countries.</p>\n<p>The company has agencies located in regions such as Europe, Asia, Oceania, South America, Africa, and the USA. These agencies handle logistics operations under an agency relationship for both inbound and outbound cargo movement. They are responsible for performing all necessary operations and documentation work for cargo movement between the mentioned regions.</p>\n<p>Competitive Strengths:</p>\n<ul>\n<li>With a global footprint, the company can offer its 129 services to clients across various continents and economic regions.</li>\n<li>Large Customer base with long-term relationship</li>\n<li>Latest solutions in logistics technology, such as advanced tracking systems, placing service orders, digital platforms for customer interaction and transaction processing.</li>\n<li>Providing end-to-end logistics services.</li>\n</ul>\n<p>As of July 31, 2024,the company had 84 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Deccan Transcon Leasing Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "7721.58",
+          "5407.72",
+          "3924.64"
+        ],
+        [
+          "Revenue",
+          "15363.76",
+          "18061.76",
+          "15319.4"
+        ],
+        [
+          "Profit After Tax",
+          "1181.89",
+          "855.7",
+          "519.1"
+        ],
+        [
+          "Net Worth",
+          "3221.32",
+          "2028.26",
+          "1207.59"
+        ],
+        [
+          "Reserves and Surplus",
+          "1501.37",
+          "1808.26",
+          "987.59"
+        ],
+        [
+          "Total Borrowing",
+          "2309.55",
+          "1775.49",
+          "989.82"
+        ]
+      ]
+    },
+    {
+      "heading": "Deccan Transcon Leasing Limited Stock Quote & Charts",
+      "sanitizedHeading": "deccan_transcon_leasing_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "45.03%"
+        ],
+        [
+          "ROCE",
+          "41.43%"
+        ],
+        [
+          "Debt/Equity",
+          "0.72"
+        ],
+        [
+          "RoNW",
+          "36.69%"
+        ],
+        [
+          "PAT Margin",
+          "7.75"
+        ],
+        [
+          "Price to Book Value",
+          "5.77"
+        ]
+      ]
+    },
+    {
+      "heading": "Deccan Transcon Leasing Limited Stock Quote & Charts",
+      "sanitizedHeading": "deccan_transcon_leasing_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "6.87",
+          "5.20"
+        ],
+        [
+          "P/E (x)",
+          "15.72",
+          "20.76"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Deccan Transcon Leasing IPO raises Rs 15.12 crore from anchor investors. Deccan Transcon Leasing IPO Anchor bid date is September 12 2024. Deccan Transcon Leasing IPO Anchor Investors list",
+    "list_link": {
+      "text": "Deccan Transcon Leasing IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/deccan_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "December 18 2024",
+      "shares_offered": "1400400",
+      "anchor_portion_size": "15.12"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 13, 2024 to September 19, 2024",
+    "ipoListingDate": "Tue, Sep 24, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹108.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "60,24,000 shares (aggregating up to ₹65.06 Cr)",
+    "freshIssue": "55,24,000 shares (aggregating up to ₹59.66 Cr)",
+    "offerForSale": "5,00,000 shares of ₹10 (aggregating up to ₹5.40 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,30,000 shares",
+      "maker_name": "Giriraj Stock Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/245/"
+    },
+    "ipoOpenDate": "Fri, Sep 13, 2024",
+    "ipoCloseDate": "Thu, Sep 19, 2024",
+    "initiationOfRefunds": "Mon, Sep 23, 2024",
+    "creditOfSharesToDemat": "Mon, Sep 23, 2024",
+    "shareHoldingPreIssue": "1,71,99,448 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,71,99,448 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "87.17%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,27,23,448 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,27,23,448 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-09-18T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "040-40146828",
+    "email": "compliance@deccantrans.c",
+    "full_address": "Deccan Transcon Leasing Limited, Suite No 507 5th floor, Image Capital Park Image Garden Road, Madhapur Shaikpet Hyderabad- 500081",
+    "website": "https://www.deccantrans.com/"
+  },
+  "createdAt": "2025-04-18T12:47:56.043Z",
+  "faqs": [
+    {
+      "question": "What is the Deccan Transcon Leasing IPO?",
+      "answer": "<div itemprop=\"text\"><p>Deccan Transcon Leasing IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6024000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->65.06<!-- --> Crores. The issue is priced at <span>₹108 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 13, 2024</b>, and <b>closes on <!-- -->September 19, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Deccan Transcon Leasing IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Deccan Transcon Leasing IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Deccan Transcon Leasing IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Deccan Transcon Leasing IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Deccan Transcon Leasing IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Deccan Transcon Leasing IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Deccan Transcon Leasing IPO opens on September 13, 2024 and closes on September 19, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Deccan Transcon Leasing IPO?",
+      "answer": "<div itemprop=\"text\"><p>Deccan Transcon Leasing IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,29,600</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Deccan Transcon Leasing IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Deccan Transcon Leasing IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Deccan Transcon Leasing IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Deccan Transcon Leasing IPO<!-- --> will be done on <!-- -->Friday, September 20, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, September 23, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/deccan-transcon-leasing-ipo/1850/\" title=\"Deccan Transcon Leasing IPO Allotment Status\">Deccan Transcon Leasing IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Deccan Transcon Leasing IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Deccan Transcon Leasing IPO<!-- --> listing date is on <b>Tuesday, September 24, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Deccan Transcon Leasing",
+  "issue_price": "₹108.00",
+  "issue_price_numeric": 108,
+  "issue_size": "60,24,000 shares (aggregating up to ₹65.06 Cr)",
+  "issue_size_numeric": 60,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Unistone Capital Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/176/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/176/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "108.00"
+      },
+      "open": {
+        "nse_sme": "116.00"
+      },
+      "low": {
+        "nse_sme": "110.20"
+      },
+      "high": {
+        "nse_sme": "117.90"
+      },
+      "last_trade": {
+        "nse_sme": "110.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 24 2024",
+    "nse_symbol": "DECCANTRAN",
+    "isin": "INE0S7C01019",
+    "final_issue_price": "108 per share"
+  },
+  "listing_date": "2024-09-23T18:30:00.000Z",
+  "listing_gains": "2.08%",
+  "listing_gains_numeric": 2.08,
+  "logo": "https://www.chittorgarh.net/images/ipo/deccan_transcore_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/deccan_transcore_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "129600"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "129600"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "259200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/deccan-transcon-leasing-ipo/1850/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-09-12T18:30:00.000Z",
+  "pageHeading": "Deccan Transcon Leasing Limited IPO (Deccan Transcon Leasing IPO) Detail",
+  "pageTitle": "Deccan Transcon Leasing IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The company's promoters are Jaidev Menon Parath Karthika Menon Miriyala Shekhar Pranav Jaidev and Navaneeth Jaidev.",
+    "holdings": {
+      "share_holding_pre_issue": "87.17%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Deccan Transcon Leasing IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/DeccanTransconLeasingLtd_DRHP.pdf"
+    },
+    {
+      "text": "Deccan Transcon Leasing IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_DECCANTRAN.zip"
+    },
+    {
+      "text": "Anchor Investors in Deccan Transcon Leasing IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/deccan_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/deccan-transcon-leasing-ipo/1850/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "deccantranscon.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Deccan Transcon Leasing IPO offers 6024000 shares. 1446600 (24.01%) to QIB 854100 (14.18%) to NII 1992900 (33.08%) to RII and 1400400 (23.25%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1400400 (23.25%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "330000 (5.48%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1446600 (24.01%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "854100 (14.18%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1992900 (33.08%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6024000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:56.042Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Deccan Transcon Leasing IPO is subscribed 102.6 times on September 19 2024 6:16:00 PM (Day 5). The public issue subscribed 127.18 times in the retail category 42.07 times in the QIB category and 147.76 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "42.07",
+        "shares_offered": "1446600",
+        "shares_bid_for": "60853200"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "147.76",
+        "shares_offered": "854100",
+        "shares_bid_for": "126200400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "127.18",
+        "shares_offered": "1992900",
+        "shares_bid_for": "253462800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "102.6",
+        "shares_offered": "4293600",
+        "shares_bid_for": "440516400"
+      }
+    },
+    "total_applications": "211219",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 19 2024",
+    "tentative_allotment": "Fri Sep 20 2024",
+    "initiation_of_refunds": "Mon Sep 23 2024",
+    "credit_of_shares_to_demat": "Mon Sep 23 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:44.676Z",
+  "updated_at": "2025-04-18T12:47:56.042Z",
+  "year": 2024,
+  "worst_listing_gains": "2.08%",
+  "worst_listing_gains_numeric": 2.08,
+  "last_performance_update": "2025-04-19T04:43:44.676Z"
+}

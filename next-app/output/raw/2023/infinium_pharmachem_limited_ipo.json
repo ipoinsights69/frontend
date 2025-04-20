@@ -1,0 +1,390 @@
+{
+  "_id": "68028e9c3ccffd1c7912c8f2",
+  "ipo_id": "2023_infinium_pharmachem_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:34:12.349Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/infinium-pharmachem-ipo/1402/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2003,&nbsp;Infinium Pharmachem Limited&nbsp;<strong>manufactures &amp; supplies Iodine Derivatives,&nbsp;APIs, and Iodination reaction-based bulk drugs.</strong></p>\n<p>The company offers&nbsp;R &amp; D&nbsp;services and commercial scale manufacturing and packaging for Pharmaceutical, Agrochemical, Nutraceutical, Speciality Chemicals &amp; other chemical industries.</p>\n<p>Infinium Pharmachem's manufacturing plant is located in&nbsp;Gujarat - INDIA, which&nbsp;spans across 4100 Sq. Mtr. Plot area. The facility&nbsp;is FDA certified &amp; GMP compliant with capabilities of producing complex Iodine Derivatives.&nbsp;</p>\n<p>The company&nbsp;serves to over 15+ countries across the globe and has over&nbsp;200+ Iodine Derivatives and 7+ APIs.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "2244.60",
+          "3941.64",
+          "93.40",
+          "424.74",
+          "566.17"
+        ],
+        [
+          "31-Mar-21",
+          "3418.27",
+          "7115.37",
+          "272.48",
+          "702.32",
+          "579.47"
+        ],
+        [
+          "31-Mar-22",
+          "5899.95",
+          "10005.25",
+          "610.64",
+          "1310.22",
+          "1385.01"
+        ],
+        [
+          "30-Sep-22",
+          "7075.71",
+          "7985.39",
+          "551.01",
+          "1855.77",
+          "1614.71"
+        ]
+      ]
+    },
+    {
+      "heading": "Infinium Pharmachem Limited Stock Quote & Charts",
+      "sanitizedHeading": "infinium_pharmachem_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "7.83",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 31, 2023 to April 5, 2023",
+    "ipoListingDate": "Mon, Apr 17, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹135.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "18,75,000 shares (aggregating up to ₹25.26 Cr)",
+    "freshIssue": "18,75,000 shares (aggregating up to ₹25.26 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "94,000 shares",
+      "maker_name": "Swastika Investmart Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/361/"
+    },
+    "ipoOpenDate": "Fri, Mar 31, 2023",
+    "ipoCloseDate": "Wed, Apr 5, 2023",
+    "initiationOfRefunds": "Wed, Apr 12, 2023",
+    "creditOfSharesToDemat": "Thu, Apr 13, 2023",
+    "shareHoldingPreIssue": "50,83,060 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "50,83,060 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "69,58,060 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "69,58,060 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.05%"
+      }
+    ]
+  },
+  "closing_date": "2023-04-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-2692-238849",
+    "email": "info@infiniumpharmachem.com",
+    "full_address": "Infinium Pharmachem Limited, 38 G.I.D.C Sojitra, Taluka - Sojitra, Dist. - Anand - 387240",
+    "website": "https://infiniumpharmachem.com/"
+  },
+  "createdAt": "2025-04-18T17:40:44.446Z",
+  "faqs": [
+    {
+      "question": "What is the Infinium Pharmachem IPO?",
+      "answer": "<div itemprop=\"text\"><p>Infinium Pharmachem IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1875000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->25.26<!-- --> Crores. The issue is priced at <span>₹135 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 31, 2023</b>, and <b>closes on <!-- -->April 5, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Infinium Pharmachem IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Infinium Pharmachem IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Infinium Pharmachem IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Infinium Pharmachem IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Infinium Pharmachem IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Infinium Pharmachem IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Infinium Pharmachem IPO opens on March 31, 2023 and closes on April 5, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Infinium Pharmachem IPO?",
+      "answer": "<div itemprop=\"text\"><p>Infinium Pharmachem IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,35,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Infinium Pharmachem IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Infinium Pharmachem IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Infinium Pharmachem IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Infinium Pharmachem IPO<!-- --> will be done on <!-- -->Tuesday, April 11, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, April 13, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/infinium-pharmachem-ipo/1402/\" title=\"Infinium Pharmachem IPO Allotment Status\">Infinium Pharmachem IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Infinium Pharmachem IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Infinium Pharmachem IPO<!-- --> listing date is on <b>Monday, April 17, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Infinium Pharmachem",
+  "issue_price": "₹135.00",
+  "issue_price_numeric": 135,
+  "issue_size": "18,75,000 shares (aggregating up to ₹25.26 Cr)",
+  "issue_size_numeric": 18,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swastika Investmart Ltd",
+      "url": "/report/ipo-lead-manager-review/112/122/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/122/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "135.00"
+      },
+      "open": {
+        "nse_sme": "141.50"
+      },
+      "low": {
+        "nse_sme": "141.50"
+      },
+      "high": {
+        "nse_sme": "148.55"
+      },
+      "last_trade": {
+        "nse_sme": "147.80"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "April 17 2023",
+    "nse_symbol": "INFINIUM",
+    "isin": "INE0MRE01011",
+    "final_issue_price": "135 per share"
+  },
+  "listing_date": "2023-04-16T18:30:00.000Z",
+  "listing_gains": "9.48%",
+  "listing_gains_numeric": 9.48,
+  "logo": "https://www.chittorgarh.net/images/ipo/infinium-pharmachem-limited-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/infinium-pharmachem-limited-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "135000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "135000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "270000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/infinium-pharmachem-ipo/1402/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-03-30T18:30:00.000Z",
+  "pageHeading": "Infinium Pharmachem Limited IPO (Infinium Pharmachem IPO) Detail",
+  "pageTitle": "Infinium Pharmachem IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Sanjaykumar Viththalbhai Patel Mr. Pravin Bhadabhai Madhani and Mr. Mitesh Lavjibhai Chikhaliya are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "73.05%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Infinium Pharmachem IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/InfiniumPharmaLtd_DRHP.zip"
+    },
+    {
+      "text": "Infinium Pharmachem IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2023/infinium-pharmachem-limited_69297.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/infinium-pharmachem-ipo/1402/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Infinium Pharmachem IPO offers 1969000 shares. 937500 (47.61%) to NII 937500 (47.61%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "94000 (4.77%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "937500 (47.61%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "937500 (47.61%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1969000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.446Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Infinium Pharmachem IPO is subscribed 1.84 times on April 5 2023 7:30:00 PM (Day 3). The public issue subscribed 1.86 times in the retail category [.] times in the QIB category and 1.8 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.8",
+        "shares_offered": "937500",
+        "shares_bid_for": "1686000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.86",
+        "shares_offered": "937500",
+        "shares_bid_for": "1742000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.84",
+        "shares_offered": "1875000",
+        "shares_bid_for": "3446000"
+      }
+    },
+    "total_applications": "1742",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on April 5 2023",
+    "tentative_allotment": "Tue Apr 11 2023",
+    "initiation_of_refunds": "Wed Apr 12 2023",
+    "credit_of_shares_to_demat": "Thu Apr 13 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:33.274Z",
+  "updated_at": "2025-04-18T17:40:44.446Z",
+  "year": 2023,
+  "worst_listing_gains": "9.48%",
+  "worst_listing_gains_numeric": 9.48
+}

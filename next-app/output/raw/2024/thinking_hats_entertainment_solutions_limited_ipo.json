@@ -1,0 +1,436 @@
+{
+  "_id": "68024a033ccffd1c7912c81e",
+  "ipo_id": "2024_thinking_hats_entertainment_solutions_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:20:58.870Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/thinking-hats-entertainment-solutions-ipo/1870/"
+  },
+  "about": {
+    "details": "<p>Incorporated in February 2013, Thinking Hats Entertainment Solutions Limited specializes in concept development, event design, and production for live events, corporate functions, MICE, social and virtual events, as well as OTT content production and experiential marketing with a focus on content development, intellectual property curation, and tech-centric product development.</p>\n<p>The company makes exclusive content for OTT platforms such as Netflix, Amazon, Sony Liv, MX Player, Disney+Hotstar, Voot, Zee5, etc.</p>\n<p>The company has produced two web series for OTT platforms: \"Aapkey Kamrey Me Koi Rehta Hai\" and \"Kathmandu Connection 2\", as well as one Bengali movie titled \"Onek Diner Pore\". In addition to movies and OTT web series, we also create short films for YouTube content and corporate event movies.</p>\n<p>The company's clients include Tata Group, including Westside and Zudio, Goldman Sachs, McDonalds, and Uber, as well as media brands like The Times of India, HT Media, Network 18 Media &amp; Investments, Radio Mirchi, and Fever Entertainment.</p>\n<p>Competitive Strength</p>\n<ul>\n<li>Talented team with a successful track record in event management, retail visual merchandising, and high-quality digital content creation.</li>\n<li>They have established connections with their clients and key figures in the entertainment industry, such as writers, directors, and streaming platforms.</li>\n<li>Strong brand recognition and a reputation for excellence in successful event management and retail visual merchandising.</li>\n</ul>\n<p>As of September 2024, the Company had 35 employees on payroll.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Thinking Hats Entertainment Solutions Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2403.22",
+          "1456.81",
+          "641.14"
+        ],
+        [
+          "Revenue",
+          "2670.1",
+          "2227.8",
+          "1245.2"
+        ],
+        [
+          "Profit After Tax",
+          "309.16",
+          "200.79",
+          "37.21"
+        ],
+        [
+          "Net Worth",
+          "1099.86",
+          "573.26",
+          "372.47"
+        ],
+        [
+          "Reserves and Surplus",
+          "1012.28",
+          "497.01",
+          "296.22"
+        ],
+        [
+          "Total Borrowing",
+          "543.46",
+          "413.65",
+          "29.22"
+        ]
+      ]
+    },
+    {
+      "heading": "Thinking Hats Entertainment Solutions Limited Stock Quote & Charts",
+      "sanitizedHeading": "thinking_hats_entertainment_solutions_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "28.11%"
+        ],
+        [
+          "ROCE",
+          "29.37%"
+        ],
+        [
+          "Debt/Equity",
+          "0.49"
+        ],
+        [
+          "RoNW",
+          "28.11%"
+        ],
+        [
+          "PAT Margin",
+          "11.61"
+        ],
+        [
+          "Price to Book Value",
+          "3.50"
+        ]
+      ]
+    },
+    {
+      "heading": "Thinking Hats Entertainment Solutions Limited Stock Quote & Charts",
+      "sanitizedHeading": "thinking_hats_entertainment_solutions_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.41",
+          "2.48"
+        ],
+        [
+          "P/E (x)",
+          "12.89",
+          "17.77"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 25, 2024 to September 27, 2024",
+    "ipoListingDate": "Thu, Oct 3, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹44.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "34,29,000 shares (aggregating up to ₹15.09 Cr)",
+    "freshIssue": "34,29,000 shares (aggregating up to ₹15.09 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,80,000 shares",
+      "maker_name": "Giriraj Stock Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/245/"
+    },
+    "ipoOpenDate": "Wed, Sep 25, 2024",
+    "ipoCloseDate": "Fri, Sep 27, 2024",
+    "initiationOfRefunds": "Tue, Oct 1, 2024",
+    "creditOfSharesToDemat": "Tue, Oct 1, 2024",
+    "shareHoldingPreIssue": "90,58,150 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "90,58,150 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "78.29%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,24,87,150 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,24,87,150 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-09-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 976 915 6256",
+    "email": "info@thes.in",
+    "full_address": "Thinking Hats Entertainment Solutions Limited, KU220 Kuber Kartik New Link Road, Prem Co-operative Society, Andheri West Mumbai - 400 053",
+    "website": "https://thes.in/"
+  },
+  "createdAt": "2025-04-18T12:48:03.192Z",
+  "faqs": [
+    {
+      "question": "What is the Thinking Hats Entertainment Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>Thinking Hats Entertainment Solutions IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3429000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->15.09<!-- --> Crores. The issue is priced at <span>₹44 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 25, 2024</b>, and <b>closes on <!-- -->September 27, 2024</b>.</p><p>Mas Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Thinking Hats Entertainment Solutions IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Thinking Hats Entertainment Solutions IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Thinking Hats Entertainment Solutions IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Thinking Hats Entertainment Solutions IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Thinking Hats Entertainment Solutions IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Thinking Hats Entertainment Solutions IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Thinking Hats Entertainment Solutions IPO opens on September 25, 2024 and closes on September 27, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Thinking Hats Entertainment Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>Thinking Hats Entertainment Solutions IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,32,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Thinking Hats Entertainment Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Thinking Hats Entertainment Solutions IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Thinking Hats Entertainment Solutions IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Thinking Hats Entertainment Solutions IPO<!-- --> will be done on <!-- -->Monday, September 30, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, October 1, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/thinking-hats-entertainment-solutions-ipo/1870/\" title=\"Thinking Hats Entertainment Solutions IPO Allotment Status\">Thinking Hats Entertainment Solutions IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Thinking Hats Entertainment Solutions IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Thinking Hats Entertainment Solutions IPO<!-- --> listing date is on <b>Thursday, October 3, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Thinking Hats Entertainment Solutions",
+  "issue_price": "₹44.00",
+  "issue_price_numeric": 44,
+  "issue_size": "34,29,000 shares (aggregating up to ₹15.09 Cr)",
+  "issue_size_numeric": 34,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Horizon Financial Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/194/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/194/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "44.00"
+      },
+      "open": {
+        "nse_sme": "60.00"
+      },
+      "low": {
+        "nse_sme": "57.00"
+      },
+      "high": {
+        "nse_sme": "61.00"
+      },
+      "last_trade": {
+        "nse_sme": "57.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 3 2024",
+    "nse_symbol": "THESL",
+    "isin": "INE0SHE01019",
+    "final_issue_price": "44 per share"
+  },
+  "listing_date": "2024-10-02T18:30:00.000Z",
+  "listing_gains": "29.55%",
+  "listing_gains_numeric": 29.55,
+  "logo": "https://www.chittorgarh.net/images/ipo/thinkinghats_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/thinkinghats_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "132000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "132000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "264000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/thinking-hats-entertainment-solutions-ipo/1870/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2024-09-24T18:30:00.000Z",
+  "pageHeading": "Thinking Hats Entertainment Solutions Limited IPO (Thinking Hats Entertainment Solutions IPO) Detail",
+  "pageTitle": "Thinking Hats Entertainment Solutions IPO Date, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Rajesh Bhardwaj Gaurav Singhania and Shruti Singhania.",
+    "holdings": {
+      "share_holding_pre_issue": "78.29%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Thinking Hats Entertainment Solutions IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ThinkingHatsEntertainmentSolutionsLimited_DRHP.pdf"
+    },
+    {
+      "text": "Thinking Hats Entertainment Solutions IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_THESL.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/thinking-hats-entertainment-solutions-ipo/1870/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Mas Services Limited",
+    "phone": "(011) 2610 4142",
+    "email": "ipo@masserv.com",
+    "website": "https://www.masserv.com/opt.asp"
+  },
+  "reservation": {
+    "summary": "Thinking Hats Entertainment Solutions IPO offers 3429000 shares. 324000 (9.45%) to QIB 876000 (25.55%) to NII 2049000 (59.76%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "180000 (5.25%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "324000 (9.45%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "876000 (25.55%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2049000 (59.76%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3429000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.192Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Thinking Hats Entertainment Solutions IPO is subscribed 322.19 times on September 27 2024 6:19:59 PM (Day 3). The public issue subscribed 347.64 times in the retail category 67.67 times in the QIB category and 356.81 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "67.67",
+        "shares_offered": "324000",
+        "shares_bid_for": "21924000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "356.81",
+        "shares_offered": "876000",
+        "shares_bid_for": "312567000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "347.64",
+        "shares_offered": "2049000",
+        "shares_bid_for": "712308000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "322.19",
+        "shares_offered": "3249000",
+        "shares_bid_for": "1046799000"
+      }
+    },
+    "total_applications": "237436",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 27 2024",
+    "tentative_allotment": "Mon Sep 30 2024",
+    "initiation_of_refunds": "Tue Oct 1 2024",
+    "credit_of_shares_to_demat": "Tue Oct 1 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:18.453Z",
+  "updated_at": "2025-04-18T12:48:03.192Z",
+  "year": 2024,
+  "worst_listing_gains": "29.55%",
+  "worst_listing_gains_numeric": 29.55
+}

@@ -1,0 +1,362 @@
+{
+  "_id": "6802985b3ccffd1c7912cc51",
+  "ipo_id": "2019_northern_spirits_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:20:34.631Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/northern-spirits-ipo/974/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2012, Northern Spirits Limited (NSL) a New Delhi based Importer &amp; Distributor of fine Alcoholic Beverages Company. The company is involved in the distribution of Whisky, Vodka, GIN, Red and white wine, Beer, tequila etc. in Northern Region - Delhi, North East, and West Bengal. Northern Spirits achieved 40% annual business growth in four years. </p><p>Company imports and distribute leading alcohol brands such as William Grants, Bacardi Global, Shepherd Neame Beer, Carlo Rossi California Wines, and Cooper's Australian Beer.</p><p>The company also imports exotic blends along with its Agency Brands and Franchisee Ownership for some class-apart liquors.</p><p>Northern Spirits have collaboration with South State Beverage, Australia for manufacturing and supply of DNA Branded Alcoholic Beverages.</p><p>Further, the company is planning to enhance the business and grab the high growth opportunities for the foreseeable future in the foreign liquor industry. </p><p>The competitive strengthens of the company are:</p><p>1. Own infrastructure and third-party warehouse<br>2. Sound knowledge of the market in identifying opportunities<br>3. Quality focused products<br>4. Strong market skills and relationships</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sept-18",
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14"
+        ],
+        [
+          "Total Assets",
+          "7692.55",
+          "2040.78",
+          "1255.15",
+          "784.12",
+          "463.74",
+          "70.00"
+        ],
+        [
+          "Total Revenue",
+          "4866.17",
+          "2589.28",
+          "1736.42",
+          "339.81",
+          "167.14",
+          "101.64"
+        ],
+        [
+          "Profit After Tax",
+          "275.44",
+          "100.63",
+          "53.23",
+          "(50.85)",
+          "9.62",
+          "2.21"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 22, 2019 to March 27, 2019",
+    "ipoListingDate": "April 4, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹43.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "43,02,000 shares (aggregating up to ₹18.50 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "2,16,000 shares",
+    "ipoOpenDate": "Fri, Mar 22, 2019",
+    "ipoCloseDate": "Wed, Mar 27, 2019",
+    "shareHoldingPreIssue": "1,17,49,200 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,17,49,200 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "90.98%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,60,51,200 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,60,51,200 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.59%"
+      }
+    ]
+  },
+  "closing_date": "2019-03-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "033-22902043",
+    "email": "info@northernspirits.in",
+    "full_address": "Northern Spirits Limited, 5A Woodburn Park Road, Woodburn Central Unit 603 6th Floor, Kolkata-700020 West Bengal",
+    "website": "http://www.northernspirits.in"
+  },
+  "createdAt": "2025-04-18T18:22:19.459Z",
+  "faqs": [
+    {
+      "question": "What is the Northern Spirits IPO?",
+      "answer": "<div itemprop=\"text\"><p>Northern Spirits IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4302000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->18.50<!-- --> Crores. The issue is priced at <span>₹43 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 22, 2019</b>, and <b>closes on <!-- -->March 27, 2019</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Northern Spirits IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Northern Spirits IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Northern Spirits IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Northern Spirits IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Northern Spirits IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Northern Spirits IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Northern Spirits IPO opens on March 22, 2019 and closes on March 27, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Northern Spirits IPO?",
+      "answer": "<div itemprop=\"text\"><p>Northern Spirits IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,29,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Northern Spirits IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Northern Spirits IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Northern Spirits IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Northern Spirits IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/northern-spirits-ipo/974/\" title=\"Northern Spirits IPO Allotment Status\">Northern Spirits IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Northern Spirits IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Northern Spirits IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Northern Spirits",
+  "issue_price": "₹43.00",
+  "issue_price_numeric": 43,
+  "issue_size": "43,02,000 shares (aggregating up to ₹18.50 Cr)",
+  "issue_size_numeric": 43,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Finshore Management Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/147/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/147/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "43.00"
+      },
+      "open": {
+        "bse_sme": "43.70"
+      },
+      "low": {
+        "bse_sme": "41.55"
+      },
+      "high": {
+        "bse_sme": "43.70"
+      },
+      "last_trade": {
+        "bse_sme": "43.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "April 4 2019",
+    "bse_script_code": "542628",
+    "isin": "INE01BL01012",
+    "final_issue_price": "43 per share"
+  },
+  "listing_date": "2019-04-03T18:30:00.000Z",
+  "listing_gains": "0.23%",
+  "listing_gains_numeric": 0.23,
+  "logo": "https://www.chittorgarh.net/images/ipo/northern-spirits1-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/northern-spirits1-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "129000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "129000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "258000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/northern-spirits-ipo/974/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2019-03-21T18:30:00.000Z",
+  "pageHeading": "Northern Spirits Limited IPO (Northern Spirits IPO) Detail",
+  "pageTitle": "Northern Spirits IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Promoters of the company are:1. Mr Kulbir Bakshi2. Mr Anuj Bakshi3. Mr Ankush Bakshi",
+    "holdings": {
+      "share_holding_pre_issue": "90.98%",
+      "share_holding_post_issue": "66.59%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Northern Spirits IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/339712/IPO/DRHP_20190128120659.pdf"
+    },
+    {
+      "text": "Northern Spirits IPO RHP",
+      "url": "https://listing.bseindia.com/download/339712/IPO%20Open/1_Prospectus_NSL_04.03.2019_20190315195710.pdf "
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/northern-spirits-ipo/974/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "investor@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "Northern Spirits IPO offers 4302000 shares. 2043000 (47.49%) to NII 2043000 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "216000 (5.02%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2043000 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2043000 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4302000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:19.459Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Northern Spirits IPO is subscribed 1.3 times on March 27 2019 6:49:04 PM (Day 4). The public issue subscribed 0.78 times in the retail category [.] times in the QIB category and 1.83 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.83",
+        "shares_offered": "2043000",
+        "shares_bid_for": "3729000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.78",
+        "shares_offered": "2043000",
+        "shares_bid_for": "1596000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.3",
+        "shares_offered": "4086000",
+        "shares_bid_for": "5325000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 27 2019"
+  },
+  "updatedAt": "2025-04-19T04:39:37.880Z",
+  "updated_at": "2025-04-18T18:22:19.459Z",
+  "year": 2019,
+  "worst_listing_gains": "0.23%",
+  "worst_listing_gains_numeric": 0.23
+}

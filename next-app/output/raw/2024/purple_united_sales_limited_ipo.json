@@ -1,0 +1,464 @@
+{
+  "_id": "68024a013ccffd1c7912c7d9",
+  "ipo_id": "2024_purple_united_sales_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:16:17.173Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/purple-united-sales-ipo/1920/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2014, Purple United is a fashion brand that offers clothing, shoes, and accessories for children of all ages.</p>\n<p>The company's flagship line, \"<strong>Purple United Kids</strong>\", accompanies children up to the age of 14 and offers laboratory-tested products made of high-quality materials in bright colours and designs for every occasion. The company designs, develops, sources, markets and distributes clothing and footwear for infants (0 to 1 year), toddlers (2 to 6 years) and older children (7 to 14 years). The company offers a wide range of accessories and hardware, such as strollers.</p>\n<p>The company operates mainly in India, with 17 exclusive stores (called EBOs) in 5 states and 10 cities in India and 20 shop-in-shop locations in popular retail chains. Purple United Kids products are also available online through their website, mobile app, and big e-commerce platforms like Myntra, Amazon, Flipkart, FirstCry, Nykaa, Hopscotch, AJJIO, and more. Additionally, the company works with 44 retailers across the country.</p>\n<p>The company's product range includes t-shirts, shirts, jackets, sweaters, apparel sets, dungarees, rompers, party wear, dresses, denim, trousers, jeggings, skirts, shoes, ballerinas, mules, moulds, flipflops, sandals, caps, tote bags, socks and strollers among others.</p>\n<p>As of June 30, 2024, the company had 161 employees, all of whom were employed on a full-time basis.</p>\n<p>Its competitive strengths:</p>\n<ol>\n<li>Well positioned to capitalise on the fast growing children's products market.</li>\n<li>Extensive product portfolio with quality products that offer a solid value proposition</li>\n<li>Strong backend with design capabilities, strong focus on the 3Fs (fun, fashion and functionality) and control over distribution channels.</li>\n<li>Experienced promoter and management team</li>\n<li>Strong financial performance</li>\n</ol>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Purple United Sales Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "7033.67",
+          "4913.96",
+          "3250.92",
+          "2278.96"
+        ],
+        [
+          "Revenue",
+          "3052.04",
+          "4291.59",
+          "2571.1",
+          "1656.19"
+        ],
+        [
+          "Profit After Tax",
+          "329.28",
+          "481.54",
+          "149.22",
+          "177.16"
+        ],
+        [
+          "Net Worth",
+          "2368.62",
+          "1733.64",
+          "1036.58",
+          "617.59"
+        ],
+        [
+          "Reserves and Surplus",
+          "1668.04",
+          "1070.34",
+          "428.5",
+          "63.77"
+        ],
+        [
+          "Total Borrowing",
+          "3366.66",
+          "2562.8",
+          "1187.42",
+          "1105.76"
+        ]
+      ]
+    },
+    {
+      "heading": "Purple United Sales Limited Stock Quote & Charts",
+      "sanitizedHeading": "purple_united_sales_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROCE",
+          "19.35%"
+        ],
+        [
+          "Debt/Equity",
+          "1.48"
+        ],
+        [
+          "RoNW",
+          "27.78%"
+        ],
+        [
+          "PAT Margin",
+          "11.26"
+        ],
+        [
+          "Price to Book Value",
+          "4.82"
+        ]
+      ]
+    },
+    {
+      "heading": "Purple United Sales Limited Stock Quote & Charts",
+      "sanitizedHeading": "purple_united_sales_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "6.87",
+          "6.85"
+        ],
+        [
+          "P/E (x)",
+          "18.33",
+          "18.39"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Purple United Sales IPO raises Rs 9.34 crore from anchor investors. Purple United Sales IPO Anchor bid date is December 10 2024. Purple United Sales IPO Anchor Investors list",
+    "list_link": {
+      "text": "Purple United Sales IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/purnleunitedsalesanchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "March 15 2025",
+      "shares_offered": "741000",
+      "anchor_portion_size": "9.34"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 11, 2024 to December 13, 2024",
+    "ipoListingDate": "Wed, Dec 18, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹126.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "26,04,000 shares (aggregating up to ₹32.81 Cr)",
+    "freshIssue": "26,04,000 shares (aggregating up to ₹32.81 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,31,000 shares",
+      "maker_name": "Prabhat Financial Services Ltd.",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/320/"
+    },
+    "ipoOpenDate": "Wed, Dec 11, 2024",
+    "ipoCloseDate": "Fri, Dec 13, 2024",
+    "initiationOfRefunds": "Tue, Dec 17, 2024",
+    "creditOfSharesToDemat": "Tue, Dec 17, 2024",
+    "shareHoldingPreIssue": "70,05,800 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "70,05,800 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "87.54%"
+      }
+    ],
+    "shareHoldingPostIssue": "96,09,800 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "96,09,800 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "63.82%"
+      }
+    ]
+  },
+  "closing_date": "2024-12-12T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9667792635",
+    "email": "jdseth@purpleuni",
+    "full_address": "Purple United Sales Limited, Khasra No. 55/14 &amp; 55/15, Near Rani Khera Road, Mundka West Delhi New Delhi Delhi India 11004",
+    "website": "https://purpleunited.in/"
+  },
+  "createdAt": "2025-04-18T12:48:00.862Z",
+  "faqs": [
+    {
+      "question": "What is the Purple United Sales IPO?",
+      "answer": "<div itemprop=\"text\"><p>Purple United Sales IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2604000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->32.81<!-- --> Crores. The issue is priced at <span>₹126 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 11, 2024</b>, and <b>closes on <!-- -->December 13, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Purple United Sales IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Purple United Sales IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Purple United Sales IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Purple United Sales IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Purple United Sales IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Purple United Sales IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Purple United Sales IPO opens on December 11, 2024 and closes on December 13, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Purple United Sales IPO?",
+      "answer": "<div itemprop=\"text\"><p>Purple United Sales IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,26,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Purple United Sales IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Purple United Sales IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Purple United Sales IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Purple United Sales IPO<!-- --> will be done on <!-- -->Monday, December 16, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, December 17, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/purple-united-sales-ipo/1920/\" title=\"Purple United Sales IPO Allotment Status\">Purple United Sales IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Purple United Sales IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Purple United Sales IPO<!-- --> listing date is on <b>Wednesday, December 18, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Purple United Sales",
+  "issue_price": "₹126.00",
+  "issue_price_numeric": 126,
+  "issue_size": "26,04,000 shares (aggregating up to ₹32.81 Cr)",
+  "issue_size_numeric": 26,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Expert Global Consultants Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/196/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/196/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "126.00"
+      },
+      "open": {
+        "nse_sme": "199.00"
+      },
+      "low": {
+        "nse_sme": "189.05"
+      },
+      "high": {
+        "nse_sme": "208.95"
+      },
+      "last_trade": {
+        "nse_sme": "208.95"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "December 18 2024",
+    "nse_symbol": "PURPLEUTED",
+    "isin": "INE0P5R01014",
+    "final_issue_price": "126 per share"
+  },
+  "listing_date": "2024-12-17T18:30:00.000Z",
+  "listing_gains": "65.83%",
+  "listing_gains_numeric": 65.83,
+  "logo": "https://www.chittorgarh.net/images/ipo/purple-united-ipo-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/purple-united-ipo-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "126000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "126000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "252000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/purple-united-sales-ipo/1920/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-12-10T18:30:00.000Z",
+  "pageHeading": "Purple United Sales Limited IPO (Purple United Sales IPO) Detail",
+  "pageTitle": "Purple United Sales IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "MR. Jatinder Dev Seth MRS. Bhawana Seth Innovation Mobile Web Technologies Private Limited Manish Dev Seth and Monica Seth are the Promoters of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "87.54%",
+      "share_holding_post_issue": "63.82%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Purple United Sales IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/DP_PurpleUnited.zip"
+    },
+    {
+      "text": "Purple United Sales IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/purple-united-sales-limited_89290.html"
+    },
+    {
+      "text": "Anchor Investors in Purple United Sales IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/purnleunitedsalesanchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/purple-united-sales-ipo/1920/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "pusl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Purple United Sales IPO offers 2604000 shares. 495000 (19.01%) to QIB 371000 (14.25%) to NII 866000 (33.26%) to RII and 741000 (28.46%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "741000 (28.46%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "131000 (5.03%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "495000 (19.01%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "371000 (14.25%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "866000 (33.26%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2604000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:00.862Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Purple United Sales IPO is subscribed 160.08 times on December 13 2024 6:19:59 PM (Day 3). The public issue subscribed 155.29 times in the retail category 86.3 times in the QIB category and 269.7 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "86.3",
+        "shares_offered": "495000",
+        "shares_bid_for": "42720000",
+        "total_application": "52"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "269.7",
+        "shares_offered": "371000",
+        "shares_bid_for": "100057000",
+        "total_application": "8042"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "155.29",
+        "shares_offered": "866000",
+        "shares_bid_for": "134484000",
+        "total_application": "134484"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "160.08",
+        "shares_offered": "1732000",
+        "shares_bid_for": "277261000",
+        "total_application": "142578"
+      }
+    },
+    "total_applications": "142578",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 13 2024",
+    "tentative_allotment": "Mon Dec 16 2024",
+    "initiation_of_refunds": "Tue Dec 17 2024",
+    "credit_of_shares_to_demat": "Tue Dec 17 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:09.878Z",
+  "updated_at": "2025-04-18T12:48:00.862Z",
+  "year": 2024,
+  "worst_listing_gains": "65.83%",
+  "worst_listing_gains_numeric": 65.83
+}

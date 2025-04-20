@@ -1,0 +1,438 @@
+{
+  "_id": "68024a033ccffd1c7912c82a",
+  "ipo_id": "2024_united_cotfab_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:28:59.816Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/united-cotfab-ipo/1743/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2015, United Cotfab Limited manufactures high-quality open-end yarn for the textile industry. The company's clients include textile manufacturers, garment exporters and distributors.</p>\n<p>The company's product portfolio includes Open End Cotton Yarn and Cotton Yarn</p>\n<p>The company's manufacturing process adheres to stringent quality standards and is backed by advanced technology and machinery.</p>\n<p>The manufacturing facility of the Company is situated in Taluka, Ahmedabad. The Manufacturing facility of the company&nbsp;has an installed capacity of approx 9125 (MT) per annum</p>\n<p>As of March 31, 2024, the company has 118 Employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "United Cotfab Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "8168.46",
+          "5367.71",
+          "1559.95",
+          "107.10"
+        ],
+        [
+          "Revenue",
+          "11552.74",
+          "64.02",
+          "1.88",
+          null
+        ],
+        [
+          "Profit After Tax",
+          "866.65",
+          "13.93",
+          "1.60",
+          "-0.11"
+        ],
+        [
+          "Net Worth",
+          "1356.42",
+          "993.56",
+          "681.97",
+          "0.22"
+        ],
+        [
+          "Reserves and Surplus",
+          "188.10",
+          null,
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "4750.93",
+          "3821.18",
+          "773.47",
+          "106.50"
+        ]
+      ]
+    },
+    {
+      "heading": "United Cotfab Ltd Stock Quote & Charts",
+      "sanitizedHeading": "united_cotfab_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "72.76%"
+        ],
+        [
+          "ROCE",
+          "26.95%"
+        ],
+        [
+          "Debt/Equity",
+          "3.42"
+        ],
+        [
+          "RoNW",
+          "63.89%"
+        ],
+        [
+          "PAT Margin",
+          "7.52"
+        ],
+        [
+          "Price to Book Value",
+          "6.19"
+        ]
+      ]
+    },
+    {
+      "heading": "United Cotfab Ltd Stock Quote & Charts",
+      "sanitizedHeading": "united_cotfab_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.22",
+          "5.04"
+        ],
+        [
+          "P/E (x)",
+          "9.7",
+          "13.88"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 13, 2024 to June 19, 2024",
+    "ipoListingDate": "Mon, Jun 24, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹70.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "51,84,000 shares (aggregating up to ₹36.29 Cr)",
+    "freshIssue": "51,84,000 shares (aggregating up to ₹36.29 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "2,60,000 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Thu, Jun 13, 2024",
+    "ipoCloseDate": "Wed, Jun 19, 2024",
+    "initiationOfRefunds": "Fri, Jun 21, 2024",
+    "creditOfSharesToDemat": "Fri, Jun 21, 2024",
+    "shareHoldingPreIssue": "1,20,06,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,20,06,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,71,90,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,71,90,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "69.84%"
+      }
+    ]
+  },
+  "closing_date": "2024-06-18T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 987987 4955",
+    "email": "info@unitedcotfab.com",
+    "full_address": "United Cotfab Limited, Survey No. 191 Village-Timba, Taluka-Dascroi Timba, Dascroi",
+    "website": "https://www.unitedcotfab.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.393Z",
+  "faqs": [
+    {
+      "question": "What is the United Cotfab IPO?",
+      "answer": "<div itemprop=\"text\"><p>United Cotfab IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5184000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->36.29<!-- --> Crores. The issue is priced at <span>₹70 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 13, 2024</b>, and <b>closes on <!-- -->June 19, 2024</b>.</p><p>Purva Sharegistry India Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in United Cotfab IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->United Cotfab IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->United Cotfab IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->United Cotfab IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->United Cotfab IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When United Cotfab IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The United Cotfab IPO opens on June 13, 2024 and closes on June 19, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of United Cotfab IPO?",
+      "answer": "<div itemprop=\"text\"><p>United Cotfab IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,40,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for United Cotfab IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->United Cotfab IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is United Cotfab IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->United Cotfab IPO<!-- --> will be done on <!-- -->Thursday, June 20, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, June 21, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/united-cotfab-ipo/1743/\" title=\"United Cotfab IPO Allotment Status\">United Cotfab IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is United Cotfab IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->United Cotfab IPO<!-- --> listing date is on <b>Monday, June 24, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "United Cotfab",
+  "issue_price": "₹70.00",
+  "issue_price_numeric": 70,
+  "issue_size": "51,84,000 shares (aggregating up to ₹36.29 Cr)",
+  "issue_size_numeric": 51,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "70.00"
+      },
+      "open": {
+        "bse_sme": "75.00"
+      },
+      "low": {
+        "bse_sme": "75.00"
+      },
+      "high": {
+        "bse_sme": "78.75"
+      },
+      "last_trade": {
+        "bse_sme": "78.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "June 24 2024",
+    "bse_script_code": "544195",
+    "isin": "INE0S0I01011",
+    "final_issue_price": "70 per share"
+  },
+  "listing_date": "2024-06-23T18:30:00.000Z",
+  "listing_gains": "12.50%",
+  "listing_gains_numeric": 12.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/united_cotfab_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/united_cotfab_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "140000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "140000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "280000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/united-cotfab-ipo/1743/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-06-12T18:30:00.000Z",
+  "pageHeading": "United Cotfab Limited IPO (United Cotfab IPO) Detail",
+  "pageTitle": "United Cotfab IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Mr. Nirmalkumar Mangalchand Mittal and Mr. Gagan Nirmalkumar Mittal.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "69.84%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "United Cotfab IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/382833/Draft%20Prospectus_United%20Cotfab%20Limited_20231227114510.pdf"
+    },
+    {
+      "text": "United Cotfab IPO RHP",
+      "url": "https://www.bseindia.com/downloads/ipo/PROSPECTUS%20&%20GID_120620241820.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/united-cotfab-ipo/1743/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Purva Sharegistry India Pvt Ltd",
+    "phone": "+91-022-23018261/ 23016761",
+    "email": "support@purvashare.com",
+    "website": "https://www.purvashare.com/investor-service/ipo-query"
+  },
+  "reservation": {
+    "summary": "United Cotfab IPO offers 5184000 shares. 2462000 (47.49%) to NII 2462000 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "260000 (5.02%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2462000 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2462000 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5184000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.393Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The United Cotfab IPO is subscribed 107.16 times on June 19 2024 6:19:05 PM (Day 4). The public issue subscribed 77.22 times in the retail category [.] times in the QIB category and 114.71 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "114.71",
+        "shares_offered": "2462000",
+        "shares_bid_for": "282410000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "77.22",
+        "shares_offered": "2462000",
+        "shares_bid_for": "190114000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "107.16",
+        "shares_offered": "4924000",
+        "shares_bid_for": "527670000"
+      }
+    },
+    "total_applications": "114473",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 19 2024",
+    "tentative_allotment": "Thu Jun 20 2024",
+    "initiation_of_refunds": "Fri Jun 21 2024",
+    "credit_of_shares_to_demat": "Fri Jun 21 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:20.152Z",
+  "updated_at": "2025-04-18T12:48:03.393Z",
+  "year": 2024,
+  "worst_listing_gains": "12.50%",
+  "worst_listing_gains_numeric": 12.5
+}

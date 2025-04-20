@@ -1,0 +1,468 @@
+{
+  "_id": "68024a033ccffd1c7912c829",
+  "ipo_id": "2024_united_heat_transfer_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:19:34.857Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/united-heat-transfer-ipo/1893/"
+  },
+  "about": {
+    "details": "<p>Incorporated in January 1995, United Heat Transfers Limited manufactures essential equipment such as heat exchangers, pressure vessels, and process flow skids. The company's products are used in petrol and diesel engines, maritime vessels, mining trucks, and heavy machinery, among other applications.</p>\n<p>The company operates two manufacturing units in Nashik, equipped with modern infrastructure, including advanced technology and machinery that enhance productivity and efficiency.</p>\n<p>As of July 31, 2024, the Company employs approximately 105 employees at various levels on its payroll, and 127 employees on a contractual basis.</p>\n<p>Competitive Strength</p>\n<ul>\n<li>A diverse customer base across various continents enhances our global presence, minimizing reliance on any single market.</li>\n<li>Knowledgeable and skilled team to ensure efficient production and delivery of products.</li>\n<li>Meeting Industry Standards to ensure high quality and reliability for its customers</li>\n<li>Strategic distribution channels and location enhance customer convenience and accessibility, boosting the company's reach and sales potential.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "United Heat Transfer Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Jul 2024",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "7230.03",
+          "7046.67",
+          "6481.52",
+          "6262.36"
+        ],
+        [
+          "Revenue",
+          "2120.01",
+          "6409.55",
+          "7040.15",
+          "4796.11"
+        ],
+        [
+          "Profit After Tax",
+          "242.53",
+          "623.85",
+          "211.54",
+          "152.67"
+        ],
+        [
+          "Net Worth",
+          "2865.24",
+          "2037.71",
+          "1413.86",
+          "1202.32"
+        ],
+        [
+          "Reserves and Surplus",
+          "1473.24",
+          "762.71",
+          "988.86",
+          "777.32"
+        ],
+        [
+          "Total Borrowing",
+          "3202.13",
+          "3692.18",
+          "3295.18",
+          "3761.47"
+        ]
+      ]
+    },
+    {
+      "heading": "United Heat Transfer Limited Stock Quote & Charts",
+      "sanitizedHeading": "united_heat_transfer_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "8.46%"
+        ],
+        [
+          "ROCE",
+          "10.79%"
+        ],
+        [
+          "Debt/Equity",
+          "1.12"
+        ],
+        [
+          "RoNW",
+          "8.46%"
+        ],
+        [
+          "PAT Margin",
+          "11.44"
+        ],
+        [
+          "Price to Book Value",
+          "3.69"
+        ]
+      ]
+    },
+    {
+      "heading": "United Heat Transfer Limited Stock Quote & Charts",
+      "sanitizedHeading": "united_heat_transfer_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.48",
+          "3.83"
+        ],
+        [
+          "P/E (x)",
+          "13.16",
+          "15.41"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "United Heat Transfer IPO raises Rs 8.46 crore from anchor investors. United Heat Transfer IPO Anchor bid date is October 21 2024. United Heat Transfer IPO Anchor Investors list",
+    "list_link": {
+      "text": "United Heat Transfer IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/uhtl_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "January 22 2025",
+      "shares_offered": "1434000",
+      "anchor_portion_size": "8.46"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "October 22, 2024 to October 24, 2024",
+    "ipoListingDate": "Tue, Oct 29, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹59.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "50,84,000 shares (aggregating up to ₹30.00 Cr)",
+    "freshIssue": "50,84,000 shares (aggregating up to ₹30.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,56,000 shares",
+      "maker_name": "Swastika Investmart Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/361/"
+    },
+    "ipoOpenDate": "Tue, Oct 22, 2024",
+    "ipoCloseDate": "Thu, Oct 24, 2024",
+    "initiationOfRefunds": "Mon, Oct 28, 2024",
+    "creditOfSharesToDemat": "Mon, Oct 28, 2024",
+    "shareHoldingPreIssue": "1,39,20,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,39,20,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "91.59%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,90,04,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,90,04,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "67.09%"
+      }
+    ]
+  },
+  "closing_date": "2024-10-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 25323 82484",
+    "email": "company.secretary@unitedheat.net",
+    "full_address": "United Heat Transfer Limited, Plot No F-131, MIDC Area, Ambad Nashik-422010",
+    "website": "https://unitedheat.net/"
+  },
+  "createdAt": "2025-04-18T12:48:03.382Z",
+  "faqs": [
+    {
+      "question": "What is the United Heat Transfer IPO?",
+      "answer": "<div itemprop=\"text\"><p>United Heat Transfer IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5084000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->30.00<!-- --> Crores. The issue is priced at <span>₹59 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->October 22, 2024</b>, and <b>closes on <!-- -->October 24, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in United Heat Transfer IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->United Heat Transfer IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->United Heat Transfer IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->United Heat Transfer IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->United Heat Transfer IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When United Heat Transfer IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The United Heat Transfer IPO opens on October 22, 2024 and closes on October 24, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of United Heat Transfer IPO?",
+      "answer": "<div itemprop=\"text\"><p>United Heat Transfer IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,18,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for United Heat Transfer IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->United Heat Transfer IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is United Heat Transfer IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->United Heat Transfer IPO<!-- --> will be done on <!-- -->Friday, October 25, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, October 28, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/united-heat-transfer-ipo/1893/\" title=\"United Heat Transfer IPO Allotment Status\">United Heat Transfer IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is United Heat Transfer IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->United Heat Transfer IPO<!-- --> listing date is on <b>Tuesday, October 29, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "United Heat Transfer",
+  "issue_price": "₹59.00",
+  "issue_price_numeric": 59,
+  "issue_size": "50,84,000 shares (aggregating up to ₹30.00 Cr)",
+  "issue_size_numeric": 50,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swastika Investmart Ltd",
+      "url": "/report/ipo-lead-manager-review/112/122/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/122/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "59.00"
+      },
+      "open": {
+        "nse_sme": "60.95"
+      },
+      "low": {
+        "nse_sme": "57.95"
+      },
+      "high": {
+        "nse_sme": "63.95"
+      },
+      "last_trade": {
+        "nse_sme": "63.95"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 29 2024",
+    "nse_symbol": "UHTL",
+    "isin": "INE0SMR01011",
+    "final_issue_price": "59 per share"
+  },
+  "listing_date": "2024-10-28T18:30:00.000Z",
+  "listing_gains": "8.39%",
+  "listing_gains_numeric": 8.39,
+  "logo": "https://www.chittorgarh.net/images/ipo/unitedheattransfer_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/unitedheattransfer_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "118000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "118000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "236000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/united-heat-transfer-ipo/1893/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-10-21T18:30:00.000Z",
+  "pageHeading": "United Heat Transfer Limited IPO (United Heat Transfer IPO) Detail",
+  "pageTitle": "United Heat Transfer IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Mr. Yogesh Vishwanath Patil Mr. Vivek Vishwanath Patil Mr. Shatanik Vivek Patil and Ms. Durva Yogesh Patil.",
+    "holdings": {
+      "share_holding_pre_issue": "91.59%",
+      "share_holding_post_issue": "67.09%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "United Heat Transfer IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/UnitedHeatTransferLimited_DRHP.pdf"
+    },
+    {
+      "text": "United Heat Transfer IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2024/united-heat-transfer-limited_88335.html"
+    },
+    {
+      "text": "Anchor Investors in United Heat Transfer IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/uhtl_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/united-heat-transfer-ipo/1893/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "merchantbanking@swastika.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "United Heat Transfer IPO offers 5084000 shares. 974000 (19.16%) to QIB 728000 (14.32%) to NII 1692000 (33.28%) to RII and 1434000 (28.21%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1434000 (28.21%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "256000 (5.04%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "974000 (19.16%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "728000 (14.32%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1692000 (33.28%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5084000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.382Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The United Heat Transfer IPO is subscribed 83.7 times on October 24 2024 6:20:00 PM (Day 3). The public issue subscribed 98.93 times in the retail category 26.56 times in the QIB category and 124.72 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "26.56",
+        "shares_offered": "974000",
+        "shares_bid_for": "25872000",
+        "total_application": "0"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "124.72",
+        "shares_offered": "728000",
+        "shares_bid_for": "90798000",
+        "total_application": "0"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "98.93",
+        "shares_offered": "1692000",
+        "shares_bid_for": "167396000",
+        "total_application": "0"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "83.7",
+        "shares_offered": "3394000",
+        "shares_bid_for": "284066000",
+        "total_application": "83698"
+      }
+    },
+    "total_applications": "83698",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 24 2024",
+    "tentative_allotment": "Fri Oct 25 2024",
+    "initiation_of_refunds": "Mon Oct 28 2024",
+    "credit_of_shares_to_demat": "Mon Oct 28 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:20.028Z",
+  "updated_at": "2025-04-18T12:48:03.382Z",
+  "year": 2024,
+  "worst_listing_gains": "8.39%",
+  "worst_listing_gains_numeric": 8.39
+}

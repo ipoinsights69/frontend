@@ -1,0 +1,302 @@
+{
+  "_id": "680298593ccffd1c7912cbdb",
+  "ipo_id": "2018_medico_remedies_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": false,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:17:33.816Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/medico-remedies-ipo/801/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1994, Medico Remedies Limited is a WHO-GMP &amp; ISO-9001:2008 certified company engaged in manufacturing and selling of pharmaceutical formulation products in India.</p><p>The company offers formulation pharmacy products including anti-infective, beta lactum, cephalosporin, antimalarial, antiretroviral, and anti-ulcer drugs, as well as antacids; vitamins, haematinics and other supplements and nonsteroidal anti-inflammatory drugs, antihistaminics, anti-diabetics, cardio vascular drugs, diuretics, anti-epileptics, combination drug kits, syrups and creams and gels.</p><p>They serves wholesalers or traders of formulation products. The company also exports its products to Uganda, Myanmar, Vietnam, Cambodia, Dominican Republic, Sri Lanka, Philippines, Turkmenistan, Ghana, Mauritius, Madagascar, Congo, Iraq, Honduras, Cuba, Jamaica, Hong Kong, Nigeria, Senegal, Panama, Mozambique etc.</p>"
+  },
+  "basicDetails": {
+    "ipoDate": "January 29, 2018 to January 31, 2018",
+    "ipoListingDate": "February 8, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹100.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "10,99,200 shares (aggregating up to ₹10.99 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "57,600 shares",
+    "ipoOpenDate": "Mon, Jan 29, 2018",
+    "ipoCloseDate": "Wed, Jan 31, 2018",
+    "shareHoldingPreIssue": "32,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "32,00,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "41,49,200 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "41,49,200 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-01-30T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+ 91-22-26701055/66",
+    "email": "info@medicoremedies.com",
+    "full_address": "Medico Remedies Ltd, 50 Juhu Supreme Shopping Center, Gulmahor Cross Road No.9, Juhu Mumbai - 400049",
+    "website": "http://www.medicoremediesindia.com"
+  },
+  "createdAt": "2025-04-18T18:22:17.289Z",
+  "faqs": [
+    {
+      "question": "What is the Medico Remedies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Medico Remedies IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1099200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->10.99<!-- --> Crores. The issue is priced at <span>₹100 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 29, 2018</b>, and <b>closes on <!-- -->January 31, 2018</b>.</p><p>Cameo Corporate Services Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Medico Remedies IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Medico Remedies IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Medico Remedies IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Medico Remedies IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Medico Remedies IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Medico Remedies IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Medico Remedies IPO opens on January 29, 2018 and closes on January 31, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Medico Remedies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Medico Remedies IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Medico Remedies IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Medico Remedies IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Medico Remedies IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Medico Remedies IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/medico-remedies-ipo/801/\" title=\"Medico Remedies IPO Allotment Status\">Medico Remedies IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Medico Remedies IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Medico Remedies IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Medico Remedies",
+  "issue_price": "₹100.00",
+  "issue_price_numeric": 100,
+  "issue_size": "10,99,200 shares (aggregating up to ₹10.99 Cr)",
+  "issue_size_numeric": 10,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Aryaman Financial Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/77/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/77/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "100.00"
+      },
+      "open": {
+        "bse_sme": "100.00"
+      },
+      "low": {
+        "bse_sme": "90.00"
+      },
+      "high": {
+        "bse_sme": "100.00"
+      },
+      "last_trade": {
+        "bse_sme": "97.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 8 2018",
+    "bse_script_code": "540937",
+    "nse_symbol": "MEDICO",
+    "isin": "INE630Y01016",
+    "final_issue_price": "100 per share"
+  },
+  "listing_date": "2018-02-07T18:30:00.000Z",
+  "listing_gains": "-2.85%",
+  "listing_gains_numeric": -2.85,
+  "logo": "https://www.chittorgarh.net/images/ipo/medico_remedies_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/medico_remedies_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/medico-remedies-ipo/801/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2018-01-28T18:30:00.000Z",
+  "pageHeading": "Medico Remedies Ltd IPO (Medico Remedies IPO) Detail",
+  "pageTitle": "Medico Remedies IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "Medico Remedies IPO DRHP",
+      "url": "https://www.bseindia.com/downloads/ipo/201792817270Medico_Remedies_Limited_DP.pdf"
+    },
+    {
+      "text": "Medico Remedies IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2018/medico-remedies-limited_37485.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/medico-remedies-ipo/801/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "reservation": {
+    "summary": "Medico Remedies IPO offers 1156800 shares. 520800 (45.02%) to NII 520800 (45.02%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "57600 (4.98%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "520800 (45.02%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "520800 (45.02%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "57600 (4.98%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1156800 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:17.288Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Medico Remedies IPO is subscribed 1.84 times on January 31 2018 5:00:00 PM (Day 3). The public issue subscribed 2.52 times in the retail category [.] times in the QIB category and 1.16 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.16",
+        "shares_offered": "520800",
+        "shares_bid_for": "602400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.52",
+        "shares_offered": "520800",
+        "shares_bid_for": "1312800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.84",
+        "shares_offered": "1041600",
+        "shares_bid_for": "1915200"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 31 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:17.688Z",
+  "updated_at": "2025-04-18T18:22:17.288Z",
+  "year": 2018,
+  "worst_listing_gains": "-2.85%",
+  "worst_listing_gains_numeric": -2.85
+}

@@ -1,0 +1,435 @@
+{
+  "_id": "680249fd3ccffd1c7912c762",
+  "ipo_id": "2024_gabriel_pet_straps_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:41:10.840Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/gabriel-pet-straps-ipo/1633/"
+  },
+  "about": {
+    "details": "<p>Gabriel Pet Straps Limited was founded in 2020 and manufactures and sells Pet Straps under the brand name Gabriel for the packaging of heavy materials.</p>\n<p>The company offers tailor-made packaging solutions in various sizes and colors, as well as the additional option of printing directly on the strapping, for various industries such as cotton bales, fibres, packaging, paper, waste cloth, etc.</p>\n<p>The manufacturing facility of Gabriel Pet Straps is located in Rajkot, Gujarat. The company manufactures pet straps in widths ranging from 9 mm to 32 mm and thicknesses from 0.70 mm to 1.30 mm.</p>\n<p>Gabriel operates across India and has a distribution network in 10 states for the domestic market.</p>\n<p>As of October 31, 2023, the company employed 26 people (including laborers) in its factory and office.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Gabriel Pet Straps Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "15 Oct 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1067.69",
+          "742.16",
+          "491.96",
+          "106.64"
+        ],
+        [
+          "Revenue",
+          "451.90",
+          "1500.60",
+          "968.57",
+          "7.70"
+        ],
+        [
+          "Profit After Tax",
+          "17.30",
+          "51.96",
+          "-3.68",
+          null
+        ],
+        [
+          "Net Worth",
+          "203.30",
+          "249.41",
+          "183.74",
+          "98.19"
+        ],
+        [
+          "Reserves and Surplus",
+          "18.42",
+          null,
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "630.91",
+          "297.48",
+          "273.06",
+          null
+        ]
+      ]
+    },
+    {
+      "heading": "Gabriel Pet Straps Ltd Stock Quote & Charts",
+      "sanitizedHeading": "gabriel_pet_straps_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "23.99%"
+        ],
+        [
+          "ROCE",
+          "46.89%"
+        ],
+        [
+          "Debt/Equity",
+          "1.19"
+        ],
+        [
+          "RoNW",
+          "20.83%"
+        ],
+        [
+          "Price to Book Value",
+          "1.42"
+        ]
+      ]
+    },
+    {
+      "heading": "Gabriel Pet Straps Ltd Stock Quote & Charts",
+      "sanitizedHeading": "gabriel_pet_straps_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.81",
+          "1.12"
+        ],
+        [
+          "P/E (x)",
+          "35.94",
+          "90.14"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "January 31, 2024 to February 2, 2024",
+    "ipoListingDate": "Wed, Feb 7, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹101.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "7,98,000 shares (aggregating up to ₹8.06 Cr)",
+    "freshIssue": "7,98,000 shares (aggregating up to ₹8.06 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "44,400 shares",
+      "maker_name": "Shreni Shares Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/346/"
+    },
+    "ipoOpenDate": "Wed, Jan 31, 2024",
+    "ipoCloseDate": "Fri, Feb 2, 2024",
+    "initiationOfRefunds": "Tue, Feb 6, 2024",
+    "creditOfSharesToDemat": "Tue, Feb 6, 2024",
+    "shareHoldingPreIssue": "18,48,840 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "18,48,840 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "26,46,840 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "26,46,840 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "69.84%"
+      }
+    ]
+  },
+  "closing_date": "2024-02-01T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 8849254043",
+    "email": "investors@gabrielpetstraps.com",
+    "full_address": "Gabriel Pet Straps Limited, Plot No. 23 Radhe Industrial Area, Paddhari Bypass Behind Reliance Petrol Pump, Jamnagar Highway Paddhari Rajkot - 360110",
+    "website": "http://www.gabrielpetstraps.com/"
+  },
+  "createdAt": "2025-04-18T12:47:57.021Z",
+  "faqs": [
+    {
+      "question": "What is the Gabriel Pet Straps IPO?",
+      "answer": "<div itemprop=\"text\"><p>Gabriel Pet Straps IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->798000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->8.06<!-- --> Crores. The issue is priced at <span>₹101 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->January 31, 2024</b>, and <b>closes on <!-- -->February 2, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Gabriel Pet Straps IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Gabriel Pet Straps IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Gabriel Pet Straps IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Gabriel Pet Straps IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Gabriel Pet Straps IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Gabriel Pet Straps IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Gabriel Pet Straps IPO opens on January 31, 2024 and closes on February 2, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Gabriel Pet Straps IPO?",
+      "answer": "<div itemprop=\"text\"><p>Gabriel Pet Straps IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,21,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Gabriel Pet Straps IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Gabriel Pet Straps IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Gabriel Pet Straps IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Gabriel Pet Straps IPO<!-- --> will be done on <!-- -->Monday, February 5, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, February 6, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/gabriel-pet-straps-ipo/1633/\" title=\"Gabriel Pet Straps IPO Allotment Status\">Gabriel Pet Straps IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Gabriel Pet Straps IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Gabriel Pet Straps IPO<!-- --> listing date is on <b>Wednesday, February 7, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Gabriel Pet Straps",
+  "issue_price": "₹101.00",
+  "issue_price_numeric": 101,
+  "issue_size": "7,98,000 shares (aggregating up to ₹8.06 Cr)",
+  "issue_size_numeric": 7,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Shreni Shares Limited",
+      "url": "/report/ipo-lead-manager-review/112/449/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/449/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "101.00"
+      },
+      "open": {
+        "bse_sme": "115.00"
+      },
+      "low": {
+        "bse_sme": "111.20"
+      },
+      "high": {
+        "bse_sme": "120.75"
+      },
+      "last_trade": {
+        "bse_sme": "120.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "February 7 2024",
+    "bse_script_code": "544108",
+    "isin": "INE0QZF01012",
+    "final_issue_price": "101 per share"
+  },
+  "listing_date": "2024-02-06T18:30:00.000Z",
+  "listing_gains": "19.55%",
+  "listing_gains_numeric": 19.55,
+  "logo": "https://www.chittorgarh.net/images/ipo/gabriel-pet-straps-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/gabriel-pet-straps-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "121200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "121200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "242400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/gabriel-pet-straps-ipo/1633/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-01-30T18:30:00.000Z",
+  "pageHeading": "Gabriel Pet Straps Limited IPO (Gabriel Pet Straps IPO) Detail",
+  "pageTitle": "Gabriel Pet Straps IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Mr. Shah Jay Pareshbhai Mr. Varasada Vimal Dayabhai and Mr. Kavathiya Vivek Dharmendrabhai.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "69.84%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Gabriel Pet Straps IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/327334/Draft%20Prospectus_Gabriel_20231116203916.pdf"
+    },
+    {
+      "text": "Gabriel Pet Straps IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/327334/SME_IPO%20Open/1.%20Prospectus_Gabriel%20Pet%20Straps%20Limited_20240125151026.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "3"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/gabriel-pet-straps-ipo/1633/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Gabriel Pet Straps IPO offers 798000 shares. 376800 (47.22%) to NII 376800 (47.22%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "44400 (5.56%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "376800 (47.22%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "376800 (47.22%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "798000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.021Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Gabriel Pet Straps IPO is subscribed 246.2 times on February 2 2024 7:02:00 PM (Day 3). The public issue subscribed 122.92 times in the retail category [.] times in the QIB category and 361.56 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "361.56",
+        "shares_offered": "376800",
+        "shares_bid_for": "136234800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "122.92",
+        "shares_offered": "376800",
+        "shares_bid_for": "46317600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "246.2",
+        "shares_offered": "753600",
+        "shares_bid_for": "185539200"
+      }
+    },
+    "total_applications": "56375",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 2 2024",
+    "tentative_allotment": "Mon Feb 5 2024",
+    "initiation_of_refunds": "Tue Feb 6 2024",
+    "credit_of_shares_to_demat": "Tue Feb 6 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:49.721Z",
+  "updated_at": "2025-04-18T12:47:57.021Z",
+  "year": 2024,
+  "worst_listing_gains": "19.55%",
+  "worst_listing_gains_numeric": 19.55,
+  "last_performance_update": "2025-04-19T04:43:49.721Z"
+}

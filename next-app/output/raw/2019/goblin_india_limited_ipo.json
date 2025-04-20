@@ -1,0 +1,355 @@
+{
+  "_id": "6802985b3ccffd1c7912cc3d",
+  "ipo_id": "2019_goblin_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:18:40.818Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/goblin-ipo/1017/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1989, Ahmedabad based Goblin India Ltd is engaged in the business of designing, marketing and sale of business, travel &amp; casual luggage and travel accessories. The company is also involved in other distribution and trading business of batteries &amp; torches, household items, office electronics, and other commodities to the corporate.</p><p>Goblin brand is known for travelling gears and corporate gifting. It sells the products through different channels such as wholesale, retail, e-commerce, and corporate gifting. In India, it has 129 direct dealers, 4 distributors and 245 dealers. Goblin also has a subsidiary in France with 250+ dealers. The company has two retail outlets in Ahmedabad and one store in Paris. Goblin also sells the products through Amazon, Flipkart and other e-commerce platforms.</p><p>The companies such as Cipla Limited, Torrent Pharmaceuticals, Corona Remedies, Intas Pharmaceuticals, Sun Pharmaceuticals, Micro Labs Limited, Indian Institute of Management (Ahmedabad) and Nirma Limited are the clients of Goblin for corporate gifting. Goblin depends on third-party companies which are located in India and China for the product manufacturing.</p><p></p><h2>Competitive Strengths</h2>1. Cordial Corporate relationship<br>2. Sales in domestic and overseas markets<br>3. Multi-tiered distribution network<br>4. Superior levels of design<br>5. Diversified Licensed Products Profile<p></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-19",
+          "31-Mar-18",
+          "31-Mar-17"
+        ],
+        [
+          "Total Assets",
+          "3680.24",
+          "3328.30",
+          "2283.23"
+        ],
+        [
+          "Total Revenue",
+          "6848.65",
+          "6093.69",
+          "5243.98"
+        ],
+        [
+          "Profit After Tax",
+          "344.92",
+          "309.37",
+          "63.32"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 30, 2019 to October 4, 2019",
+    "ipoListingDate": "Tue, Oct 15, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹52.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "29,24,000 shares (aggregating up to ₹15.20 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "1,48,000 shares",
+    "ipoOpenDate": "Mon, Sep 30, 2019",
+    "ipoCloseDate": "Fri, Oct 4, 2019",
+    "initiationOfRefunds": "Mon, Oct 14, 2019",
+    "creditOfSharesToDemat": "Mon, Oct 14, 2019",
+    "shareHoldingPreIssue": "75,19,876 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "75,19,876 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "73.38%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,04,43,876 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,04,43,876 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "52.83%"
+      }
+    ]
+  },
+  "closing_date": "2019-10-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 79 26465080",
+    "email": "cs@goblinindia.com",
+    "full_address": "Goblin India Limited, Camex House 1st Floor, Commerce Road Navrangpura, Ahmedabad-380009 India",
+    "website": "http://www.goblinindia.com/"
+  },
+  "createdAt": "2025-04-18T18:22:19.177Z",
+  "faqs": [
+    {
+      "question": "What is the Goblin IPO?",
+      "answer": "<div itemprop=\"text\"><p>Goblin IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2924000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->15.20<!-- --> Crores. The issue is priced at <span>₹52 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 30, 2019</b>, and <b>closes on <!-- -->October 4, 2019</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Goblin IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Goblin IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Goblin IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Goblin IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Goblin IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Goblin IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Goblin IPO opens on September 30, 2019 and closes on October 4, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Goblin IPO?",
+      "answer": "<div itemprop=\"text\"><p>Goblin IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,04,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Goblin IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Goblin IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Goblin IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Goblin IPO<!-- --> will be done on <!-- -->Thursday, October 10, 2019<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, October 14, 2019<!-- -->. Check the <a href=\"/ipo_allotment_status/goblin-ipo/1017/\" title=\"Goblin IPO Allotment Status\">Goblin IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Goblin IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Goblin IPO<!-- --> listing date is on <b>Tuesday, October 15, 2019</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Goblin India",
+  "issue_price": "₹52.00",
+  "issue_price_numeric": 52,
+  "issue_size": "29,24,000 shares (aggregating up to ₹15.20 Cr)",
+  "issue_size_numeric": 29,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fast Track Finsec Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/161/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/161/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "52.00"
+      },
+      "open": {
+        "bse_sme": "55.00"
+      },
+      "low": {
+        "bse_sme": "54.10"
+      },
+      "high": {
+        "bse_sme": "57.70"
+      },
+      "last_trade": {
+        "bse_sme": "56.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "October 15 2019",
+    "bse_script_code": "542850",
+    "isin": "INE492Z01018",
+    "final_issue_price": "52 per share"
+  },
+  "listing_date": "2019-10-14T18:30:00.000Z",
+  "listing_gains": "8.85%",
+  "listing_gains_numeric": 8.85,
+  "logo": "https://www.chittorgarh.net/images/ipo/goblin-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/goblin-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "104000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "104000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "208000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/goblin-ipo/1017/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2019-09-29T18:30:00.000Z",
+  "pageHeading": "Goblin India Limited IPO (Goblin IPO) Detail",
+  "pageTitle": "Goblin IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Mr. Manojkumar Choukhany and Mrs. Sonam Choukhany are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "73.38%",
+      "share_holding_post_issue": "52.83%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Goblin IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/321629/IPO/GOBLIN%20INDIA%20LIMITED_DRHP_20190716175430.pdf"
+    },
+    {
+      "text": "Goblin IPO RHP",
+      "url": "https://www.bseindia.com/downloads/ipo/GIDP_RHP_Goblin_270920191603.zip "
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/goblin-ipo/1017/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Goblin IPO offers 2924000 shares. 1388000 (47.47%) to NII 1388000 (47.47%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "148000 (5.06%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1388000 (47.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1388000 (47.47%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2924000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:19.176Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Goblin IPO is subscribed 1.37 times on October 4 2019 6:49:05 PM (Day 4). The public issue subscribed 0.87 times in the retail category [.] times in the QIB category and 1.87 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.87",
+        "shares_offered": "1388000",
+        "shares_bid_for": "2592000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.87",
+        "shares_offered": "1388000",
+        "shares_bid_for": "1212000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.37",
+        "shares_offered": "2776000",
+        "shares_bid_for": "3804000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 4 2019",
+    "tentative_allotment": "Thu Oct 10 2019",
+    "initiation_of_refunds": "Mon Oct 14 2019",
+    "credit_of_shares_to_demat": "Mon Oct 14 2019"
+  },
+  "updatedAt": "2025-04-19T04:39:34.010Z",
+  "updated_at": "2025-04-18T18:22:19.176Z",
+  "year": 2019,
+  "worst_listing_gains": "8.85%",
+  "worst_listing_gains_numeric": 8.85
+}

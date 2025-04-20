@@ -1,0 +1,444 @@
+{
+  "_id": "68028e9f3ccffd1c7912c976",
+  "ipo_id": "2023_unihealth_consultancy_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:30:41.225Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/unihealth-consultancy-ipo/1497/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2010, Unihealth Consultancy Limited is a healthcare service provider based out of Mumbai, India, and has an operational presence in multiple countries across the African continent.</p>\n<p>Unihealth Consultancy's business segments include Medical Centres, Hospitals, Consultancy Services, Distribution of Pharmaceutical and medical Consumable Products, and Medical Value Travel. It operates a combined capacity of 200 operational hospital beds across two multi-specialty facilities i.e. UMC Victoria Hospital in Kampala, Uganda, has a bed strength of 120 beds, and UMC Zhahir Hospital in Kano, Nigeria has a bed strength of 80 beds. In addition to these, it operates 'Unihealth Medical Centre' a dedicated dialysis facility, in Mwanza, Tanzania.</p>\n<p>The company is currently providing Project Management Consultancy Services to set up a 300+ bedded Health City in Undri, Pune (Maharashtra, India) for PHRC Lifespaces Organization along with a few other healthcare consultancy projects in Kenya and Angola.</p>\n<p>Unihealth Pharmaceuticals Private Limited, a subsidiary of the company, is in the business of procuring and exporting pharmaceutical and medical consumable products. The Company exports and supplies these products mainly to Victoria Hospital Limited (Joint Venture of Unihealth Consultancy Limited) in Uganda, UMC Global Health Limited (Joint-Venture of Unihealth Consultancy Limited) in Nigeria and 114 Biohealth Limited (Subsidiary of Unihealth Consultancy Limited) in Tanzania.</p>\n<p>The company's clientele comes from countries like India, Uganda, Nigeria &amp; Tanzania, Kenya, Zimbabwe &amp; Angola and Ethiopia, Mozambique &amp; DR Congo.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "5838.87",
+          "6478.65",
+          "7833.32"
+        ],
+        [
+          "Revenue",
+          "2863.51",
+          "3792.69",
+          "4603.01"
+        ],
+        [
+          "Profit After Tax",
+          "500.89",
+          "382.02",
+          "768.00"
+        ],
+        [
+          "Net Worth",
+          "1070.36",
+          "1479.17",
+          "2612.83"
+        ],
+        [
+          "Reserves and Surplus",
+          "936.17",
+          "1344.98",
+          "2612.83"
+        ],
+        [
+          "Total Borrowing",
+          "3871.05",
+          "3801.30",
+          "3926.67"
+        ]
+      ]
+    },
+    {
+      "heading": "Unihealth Consultancy Limited Stock Quote & Charts",
+      "sanitizedHeading": "unihealth_consultancy_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "36.19%"
+        ],
+        [
+          "ROCE",
+          "20.99%"
+        ],
+        [
+          "Debt/Equity",
+          "1.43"
+        ],
+        [
+          "RoNW",
+          "27.91%"
+        ]
+      ]
+    },
+    {
+      "heading": "Unihealth Consultancy Limited Stock Quote & Charts",
+      "sanitizedHeading": "unihealth_consultancy_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "6.94",
+          null
+        ],
+        [
+          "P/E (x)",
+          "19.02",
+          "26.56"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Unihealth Consultancy IPO raises Rs 16.08 crore from anchor investors. Unihealth Consultancy IPO Anchor bid date is September 7 2023. Unihealth Consultancy IPO Anchor Investors list",
+    "list_link": {
+      "text": "Unihealth Consultancy IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/ipo_notes/unihealth-intimation-anchor-letter-nse.pdf"
+    },
+    "details": {
+      "ipo_date": "December 14 2023",
+      "shares_offered": "1218000",
+      "anchor_portion_size": "16.08"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 8, 2023 to September 12, 2023",
+    "ipoListingDate": "Thu, Sep 21, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹132.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "42,84,000 shares (aggregating up to ₹56.55 Cr)",
+    "freshIssue": "42,84,000 shares (aggregating up to ₹56.55 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,16,000 shares",
+      "maker_name": "Rikhav Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/337/"
+    },
+    "ipoOpenDate": "Fri, Sep 8, 2023",
+    "ipoCloseDate": "Tue, Sep 12, 2023",
+    "initiationOfRefunds": "Mon, Sep 18, 2023",
+    "creditOfSharesToDemat": "Wed, Sep 20, 2023",
+    "shareHoldingPreIssue": "1,11,15,952 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,11,15,952 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "95.32%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,53,99,952 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,53,99,952 shares"
+      }
+    ]
+  },
+  "closing_date": "2023-09-11T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+022 2354 4625",
+    "email": "cs@unihealthonline.com",
+    "full_address": "Unihealth Consultancy Limited, H-13 &amp; H-14 Everest, 9th Floor 156 Tardeo Road, Mumbai- 400034",
+    "website": "https://www.unihealthonline.com/"
+  },
+  "createdAt": "2025-04-18T17:40:47.178Z",
+  "faqs": [
+    {
+      "question": "What is the Unihealth Consultancy IPO?",
+      "answer": "<div itemprop=\"text\"><p>Unihealth Consultancy IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4284000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->56.55<!-- --> Crores. The issue is priced at <span>₹132 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 8, 2023</b>, and <b>closes on <!-- -->September 12, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Unihealth Consultancy IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Unihealth Consultancy IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Unihealth Consultancy IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Unihealth Consultancy IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Unihealth Consultancy IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Unihealth Consultancy IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Unihealth Consultancy IPO opens on September 8, 2023 and closes on September 12, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Unihealth Consultancy IPO?",
+      "answer": "<div itemprop=\"text\"><p>Unihealth Consultancy IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,32,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Unihealth Consultancy IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Unihealth Consultancy IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Unihealth Consultancy IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Unihealth Consultancy IPO<!-- --> will be done on <!-- -->Friday, September 15, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, September 20, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/unihealth-consultancy-ipo/1497/\" title=\"Unihealth Consultancy IPO Allotment Status\">Unihealth Consultancy IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Unihealth Consultancy IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Unihealth Consultancy IPO<!-- --> listing date is on <b>Thursday, September 21, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Unihealth Consultancy",
+  "issue_price": "₹132.00",
+  "issue_price_numeric": 132,
+  "issue_size": "42,84,000 shares (aggregating up to ₹56.55 Cr)",
+  "issue_size_numeric": 42,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Unistone Capital Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/176/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/176/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "132.00"
+      },
+      "open": {
+        "nse_sme": "135.00"
+      },
+      "low": {
+        "nse_sme": "130.25"
+      },
+      "high": {
+        "nse_sme": "141.75"
+      },
+      "last_trade": {
+        "nse_sme": "133.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 21 2023",
+    "nse_symbol": "UNIHEALTH",
+    "isin": "INE0PRF01011",
+    "final_issue_price": "132 per share"
+  },
+  "listing_date": "2023-09-20T18:30:00.000Z",
+  "listing_gains": "0.76%",
+  "listing_gains_numeric": 0.76,
+  "logo": "https://www.chittorgarh.net/images/ipo/unihealth-consultancy-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/unihealth-consultancy-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "132000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "132000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "264000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/unihealth-consultancy-ipo/1497/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-09-07T18:30:00.000Z",
+  "pageHeading": "Unihealth Consultancy Limited IPO (Unihealth Consultancy IPO) Detail",
+  "pageTitle": "Unihealth Consultancy IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Dr. Anurag Shah and Dr. Akshay Parmar.",
+    "holdings": {
+      "share_holding_pre_issue": "95.32%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Unihealth Consultancy IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Unihealth_DRHP.zip"
+    },
+    {
+      "text": "Unihealth Consultancy IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/Unihealth_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Unihealth Consultancy IPO",
+      "url": "https://www.chittorgarh.net/reports/ipo_notes/unihealth-intimation-anchor-letter-nse.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/unihealth-consultancy-ipo/1497/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Unihealth Consultancy IPO offers 5286000 shares. 2034000 (38.48%) to QIB 610200 (11.54%) to NII 1423800 (26.94%) to RII 1218000 (23.04%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1218000 (23.04%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "216000 (4.09%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2034000 (38.48%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "610200 (11.54%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1423800 (26.94%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5286000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.178Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Unihealth Consultancy IPO is subscribed 18.22 times on September 12 2023 7:29:00 PM (Day 3). The public issue subscribed 24.61 times in the retail category 5.97 times in the QIB category and 37.65 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "5.97",
+        "shares_offered": "2034000",
+        "shares_bid_for": "12150000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "37.65",
+        "shares_offered": "610200",
+        "shares_bid_for": "22971000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "24.61",
+        "shares_offered": "1423800",
+        "shares_bid_for": "35044000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "18.22",
+        "shares_offered": "3852000",
+        "shares_bid_for": "70165000"
+      }
+    },
+    "total_applications": "35044",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 12 2023",
+    "tentative_allotment": "Fri Sep 15 2023",
+    "initiation_of_refunds": "Mon Sep 18 2023",
+    "credit_of_shares_to_demat": "Wed Sep 20 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:51.921Z",
+  "updated_at": "2025-04-18T17:40:47.178Z",
+  "year": 2023,
+  "worst_listing_gains": "0.76%",
+  "worst_listing_gains_numeric": 0.76
+}

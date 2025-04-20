@@ -1,0 +1,435 @@
+{
+  "_id": "680249fc3ccffd1c7912c738",
+  "ipo_id": "2024_deem_roll_tech_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:39:53.890Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/deem-roll-tech-ipo/1656/"
+  },
+  "about": {
+    "details": "<p>Incorporated in May 2003, Deem Roll Tech Limited manufactures steel and alloy rolls that are exported to more than 10 countries, including the USA, Germany, Europe, the Middle East, Oman, Saudi Arabia, South Africa, Nepal, and Bangladesh. As of September 30, 2023, the company has served over 340 domestic customers and 30 export customers.</p>\n<p>The company has three manufacturing Units one of which is located in Mehsana, Gujarat, the second unit is located in&nbsp;Dadpur, Hoogly, West Bengal and the third unit is located in Ahmedabad,Gujrat. The manufacturing unit comprises several sections, including engineering &amp; design, mould making, melting, casting, machining, and dispatch, all of which are supported by related quality testing and assurance equipment.</p>\n<p>As of March 31, 2023, the company manufactures more than 7 kinds of Rolls.</p>\n<p>The revenue from operations for the six-month period ending on September 30, 2023, and for the fiscal years 2021, 2022, and 2023 were ₹6,379.49 lakhs, ₹9,170.45 lakhs, ₹10,337.12 lakhs, and ₹5,007.78 lakhs, respectively. This represents a compound annual growth rate (CAGR) of 27.30%.</p>\n<p>As of December 31, 2023, the company has 275 employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Deem Roll Tech Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "9825.85",
+          "9251.44",
+          "8263.02",
+          "7898.93"
+        ],
+        [
+          "Revenue",
+          "5027.55",
+          "10448.57",
+          "9212.12",
+          "6461.96"
+        ],
+        [
+          "Profit After Tax",
+          "371.83",
+          "692.05",
+          "409.78",
+          "298.24"
+        ],
+        [
+          "Net Worth",
+          "3780.02",
+          "3408.19",
+          "2716.16",
+          "2306.35"
+        ],
+        [
+          "Reserves and Surplus",
+          "4245.86",
+          "4319.43",
+          "3627.38",
+          "3217.60"
+        ],
+        [
+          "Total Borrowing",
+          "2062.47",
+          "2080.88",
+          "1636.65",
+          "1802.25"
+        ]
+      ]
+    },
+    {
+      "heading": "Deem Roll Tech Limited Stock Quote & Charts",
+      "sanitizedHeading": "deem_roll_tech_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "16.83%"
+        ],
+        [
+          "ROCE",
+          "20.26%"
+        ],
+        [
+          "Debt/Equity",
+          "0.47"
+        ],
+        [
+          "RoNW",
+          "20.31%"
+        ],
+        [
+          "Price to Book Value",
+          "2.21"
+        ]
+      ]
+    },
+    {
+      "heading": "Deem Roll Tech Limited Stock Quote & Charts",
+      "sanitizedHeading": "deem_roll_tech_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "11.40",
+          "8.92"
+        ],
+        [
+          "P/E (x)",
+          "11.31",
+          "14.46"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 20, 2024 to February 22, 2024",
+    "ipoListingDate": "Tue, Feb 27, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹129.00",
+    "lotSize": "1,000 Shares",
+    "issueSize": "22,68,000 shares (aggregating up to ₹29.26 Cr)",
+    "freshIssue": "22,68,000 shares (aggregating up to ₹29.26 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,14,000 shares",
+      "maker_name": "Ss Corporate Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/353/"
+    },
+    "ipoOpenDate": "Tue, Feb 20, 2024",
+    "ipoCloseDate": "Thu, Feb 22, 2024",
+    "initiationOfRefunds": "Mon, Feb 26, 2024",
+    "creditOfSharesToDemat": "Mon, Feb 26, 2024",
+    "shareHoldingPreIssue": "60,69,272 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "60,69,272 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "92.18%"
+      }
+    ],
+    "shareHoldingPostIssue": "83,37,272 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "83,37,272 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "67.12%"
+      }
+    ]
+  },
+  "closing_date": "2024-02-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9925196196",
+    "email": "accounts@deemrolls.com",
+    "full_address": "Deem Roll Tech Limited, Survey No.110/1 P-1110/2, Ganeshpura, Ta: Kadi Mahesana-382729",
+    "website": "http://www.deemrolls.com/"
+  },
+  "createdAt": "2025-04-18T12:47:56.023Z",
+  "faqs": [
+    {
+      "question": "What is the Deem Roll Tech IPO?",
+      "answer": "<div itemprop=\"text\"><p>Deem Roll Tech IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2268000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->29.26<!-- --> Crores. The issue is priced at <span>₹129 per share</span>. The minimum order quantity is <!-- -->1000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 20, 2024</b>, and <b>closes on <!-- -->February 22, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Deem Roll Tech IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Deem Roll Tech IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Deem Roll Tech IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Deem Roll Tech IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Deem Roll Tech IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Deem Roll Tech IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Deem Roll Tech IPO opens on February 20, 2024 and closes on February 22, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Deem Roll Tech IPO?",
+      "answer": "<div itemprop=\"text\"><p>Deem Roll Tech IPO<!-- --> <b>lot size is <!-- -->1000</b>, and the <b>minimum amount required is <span>₹1,29,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Deem Roll Tech IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Deem Roll Tech IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Deem Roll Tech IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Deem Roll Tech IPO<!-- --> will be done on <!-- -->Friday, February 23, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, February 26, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/deem-roll-tech-ipo/1656/\" title=\"Deem Roll Tech IPO Allotment Status\">Deem Roll Tech IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Deem Roll Tech IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Deem Roll Tech IPO<!-- --> listing date is on <b>Tuesday, February 27, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Deem Roll Tech",
+  "issue_price": "₹129.00",
+  "issue_price_numeric": 129,
+  "issue_size": "22,68,000 shares (aggregating up to ₹29.26 Cr)",
+  "issue_size_numeric": 22,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fedex Securities Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/144/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/144/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "129.00"
+      },
+      "open": {
+        "nse_sme": "200.00"
+      },
+      "low": {
+        "nse_sme": "190.00"
+      },
+      "high": {
+        "nse_sme": "210.00"
+      },
+      "last_trade": {
+        "nse_sme": "209.70"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "February 27 2024",
+    "nse_symbol": "DEEM",
+    "isin": "INE586O01011",
+    "final_issue_price": "129 per share"
+  },
+  "listing_date": "2024-02-26T18:30:00.000Z",
+  "listing_gains": "62.56%",
+  "listing_gains_numeric": 62.56,
+  "logo": "https://www.chittorgarh.net/images/ipo/deem_roll_tech-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/deem_roll_tech-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "129000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1000",
+        "amount": "129000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2000",
+        "amount": "258000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/deem-roll-tech-ipo/1656/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-02-19T18:30:00.000Z",
+  "pageHeading": "Deem Roll Tech Limited IPO (Deem Roll Tech IPO) Detail",
+  "pageTitle": "Deem Roll Tech IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Jyoti Prasad Bhattacharya and Dev Jyotiprasad Bhattacharya.",
+    "holdings": {
+      "share_holding_pre_issue": "92.18%",
+      "share_holding_post_issue": "67.12%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Deem Roll Tech IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/DeemRollTech_DP.zip"
+    },
+    {
+      "text": "Deem Roll Tech IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_DEEM.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/deem-roll-tech-ipo/1656/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Deem Roll Tech IPO offers 2268000 shares. 1077000 (47.49%) to NII 1077000 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "114000 (5.03%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1077000 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1077000 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2268000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:56.022Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Deem Roll Tech IPO is subscribed 256.55 times on February 22 2024 6:21:00 PM (Day 3). The public issue subscribed 180.5 times in the retail category [.] times in the QIB category and 311.95 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "311.95",
+        "shares_offered": "1077000",
+        "shares_bid_for": "335968000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "180.5",
+        "shares_offered": "1077000",
+        "shares_bid_for": "194403000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "256.55",
+        "shares_offered": "2154000",
+        "shares_bid_for": "552608000"
+      }
+    },
+    "total_applications": "194403",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 22 2024",
+    "tentative_allotment": "Fri Feb 23 2024",
+    "initiation_of_refunds": "Mon Feb 26 2024",
+    "credit_of_shares_to_demat": "Mon Feb 26 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:44.275Z",
+  "updated_at": "2025-04-18T12:47:56.022Z",
+  "year": 2024,
+  "worst_listing_gains": "62.56%",
+  "worst_listing_gains_numeric": 62.56,
+  "last_performance_update": "2025-04-19T04:43:44.275Z"
+}

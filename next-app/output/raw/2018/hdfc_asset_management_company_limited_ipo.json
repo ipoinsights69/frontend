@@ -1,0 +1,579 @@
+{
+  "_id": "680298583ccffd1c7912cbc0",
+  "ipo_id": "2018_hdfc_asset_management_company_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:13:29.755Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/hdfc-amc-ipo/897/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1999, Mumbai based HDFC Asset Management Company (HDFC AMC) Limited is well-known fund house engaged in providing savings and investment products. It is a joint venture between Housing Development Finance Corporation Limited (HDFC) and Standard Life Investments Limited (SLI). SLI is part of Standard Life Aberdeen plc., one of the world's largest investment company.</p><p>According to CRISIL, as of December 31, 2017, HDFC AMC has been the most profitable AMC of the country in terms of net profits since Fiscal 2013 with a total AUM (Assets Under Management) of Rs 2,932.54 billion. Its profits has grown every year since 2002. </p><p>It has been the largest AMC in equity-oriented AUM since the last quarter of Fiscal 2011 and has consistently been among the top two asset management companies in India in terms of total average AUM since the month of August 2008.. </p><p>HDFC AMC offers a wide range of savings and investment products across asset classes. As of December 31, 2017, it offered 127 schemes categorized into-</p><p></p><ul><li>28 equity-oriented schemes</li><li>91 debt schemes</li><li>3 liquid schemes</li><li>5 other schemes (including exchange-traded schemes and funds of fund schemes).</li></ul> <p></p><p>The company also provides portfolio management and segregated account services to HNIs, family offices, trusts, domestic corporates and provident funds etc. As of December 31, 2017, it managed a total AUM of Rs 75.78 billion as part of its portfolio management and segregated account services' business.</p><p>Strengths-</p><p>1. Brand reputation of HDFC and SLI helps in earning the trust of customers.<br>2. Consistent investment performance over the years has helped it established itself as one of the leading AMC in the country <br>3. Diversified product mix with a multi-channel distribution network helps it expand its reach.<br>4. Strong profitable growth, over the years, provides it with resources to fund future growth.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Dec-17",
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "25831.58",
+          "15995.90",
+          "14227.17",
+          "13117.50",
+          "11213.36",
+          "8294.39"
+        ],
+        [
+          "Total Revenue",
+          "13167.21",
+          "15879.10",
+          "14943.42",
+          "10642.76",
+          "9031.14",
+          "7839.76"
+        ],
+        [
+          "Profit After Tax",
+          "4955.55",
+          "5502.46",
+          "4778.80",
+          "4155.00",
+          "3577.70",
+          "3187.46"
+        ]
+      ]
+    },
+    {
+      "heading": "Peer Comparision",
+      "sanitizedHeading": "peer_comparision",
+      "headers": [
+        "QIB",
+        "4435511"
+      ],
+      "rows": [
+        [
+          "NII",
+          "3326634"
+        ],
+        [
+          "Retail",
+          "7762145"
+        ],
+        [
+          "Eligible HDFC AMC Employees",
+          "320000"
+        ],
+        [
+          "Eligible HDFC Employees",
+          "560000"
+        ],
+        [
+          "Eligible HDFC Shareholders FAQs",
+          "2400000"
+        ],
+        [
+          "Total",
+          "18804290"
+        ]
+      ]
+    },
+    {
+      "heading": "Peer Comparision",
+      "sanitizedHeading": "peer_comparision",
+      "headers": [
+        "Financial",
+        "HDFC AMC",
+        "Reliance AMC",
+        "ICICI AMC"
+      ],
+      "rows": [
+        [
+          "Revenue Growth",
+          "19.7%",
+          "23.8%",
+          "36.1%"
+        ],
+        [
+          "Net Profit Growth",
+          "19.2%",
+          "17.8%",
+          "36.0%"
+        ],
+        [
+          "AUM Growth",
+          "27.5%",
+          "21.1%",
+          "30.1%"
+        ],
+        [
+          "Return on Equity",
+          "33.4%",
+          "22.8%",
+          "76.0%"
+        ],
+        [
+          "Return on Asset",
+          "36.4%",
+          "22.6%",
+          "58.0%"
+        ],
+        [
+          "Revenue (% of AUM)",
+          "0.59%",
+          "0.40%",
+          "0.59%"
+        ],
+        [
+          "Net Profit (% of AUM)",
+          "0.24%",
+          "0.13%",
+          "0.20%"
+        ],
+        [
+          "Total Expense (% of AUM)",
+          "0.27%",
+          "0.27%",
+          "0.31%"
+        ]
+      ]
+    },
+    {
+      "heading": "Peer Comparision",
+      "sanitizedHeading": "peer_comparision",
+      "headers": [
+        "Key Ratio",
+        "HDFC AMC",
+        "Reliance AMC"
+      ],
+      "rows": [
+        [
+          "Price-to-Earning (x)",
+          "32.3",
+          "27.1"
+        ],
+        [
+          "Price-to-Book (x)",
+          "10.8",
+          "6.2"
+        ],
+        [
+          "Market Cap As % Of Total AUM",
+          "7.8",
+          "3.6"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "July 25, 2018 to July 27, 2018",
+    "ipoListingDate": "Mon, Aug 6, 2018",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹1,100.00",
+    "lotSize": "13 Shares",
+    "issueSize": "2,54,57,555 shares (aggregating up to ₹2,800.33 Cr)",
+    "offerForSale": "2,54,57,555 shares of ₹5 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Jul 25, 2018",
+    "ipoCloseDate": "Fri, Jul 27, 2018",
+    "initiationOfRefunds": "Thu, Aug 2, 2018",
+    "creditOfSharesToDemat": "Fri, Aug 3, 2018",
+    "shareHoldingPreIssue": "21,19,88,800 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "21,19,88,800 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "21,19,88,800 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "21,19,88,800 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-07-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 (22) 6631 3333",
+    "email": "shareholders.relations@hdfcfund.com",
+    "full_address": "HDFC Asset Management Company Limited, HDFC House 2nd Floor H.T. Parekh Marg, 165-166 Backbay Reclamation, Churchgate Mumbai 400 020 Maharashtra",
+    "website": "http://www.hdfcfund.com/"
+  },
+  "createdAt": "2025-04-18T18:22:16.763Z",
+  "faqs": [
+    {
+      "question": "What is the HDFC AMC IPO?",
+      "answer": "<div itemprop=\"text\"><p>HDFC AMC IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->25457555<!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->2,800.33<!-- --> Crores. The issue is priced at <span>₹1100 per share</span>. The minimum order quantity is <!-- -->13<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 25, 2018</b>, and <b>closes on <!-- -->July 27, 2018</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in HDFC AMC IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->HDFC AMC IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->HDFC AMC IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->HDFC AMC IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->HDFC AMC IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When HDFC AMC IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The HDFC AMC IPO opens on July 25, 2018 and closes on July 27, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of HDFC AMC IPO?",
+      "answer": "<div itemprop=\"text\"><p>HDFC AMC IPO<!-- --> <b>lot size is <!-- -->13</b>, and the <b>minimum amount required is <span>₹14,300</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for HDFC AMC IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->HDFC AMC IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is HDFC AMC IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->HDFC AMC IPO<!-- --> will be done on <!-- -->Wednesday, August 1, 2018<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, August 3, 2018<!-- -->. Check the <a href=\"/ipo_allotment_status/hdfc-amc-ipo/897/\" title=\"HDFC AMC IPO Allotment Status\">HDFC AMC IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is HDFC AMC IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->HDFC AMC IPO<!-- --> listing date is on <b>Monday, August 6, 2018</b>.</p></div>"
+    }
+  ],
+  "ipoName": "HDFC Asset Management Company",
+  "issue_price": "₹1,100.00",
+  "issue_price_numeric": 1,
+  "issue_size": "2,54,57,555 shares (aggregating up to ₹2,800.33 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Bofa Securities India Limited",
+      "url": "/report/ipo-lead-manager-review/112/22/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/22/"
+    },
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "Clsa India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/142/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/142/"
+    },
+    {
+      "name": "Hdfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/82/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/82/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "J.P. Morgan India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/19/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/19/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Morgan Stanley India Company Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/31/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/31/"
+    },
+    {
+      "name": "Nomura Financial Advisory And Securities",
+      "url": "/report/ipo-lead-manager-review/112/72/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/72/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "1100.00",
+        "nse": "1100.00"
+      },
+      "open": {
+        "bse": "1739.00",
+        "nse": "1726.25"
+      },
+      "low": {
+        "bse": "1730.00",
+        "nse": "1726.25"
+      },
+      "high": {
+        "bse": "1842.95",
+        "nse": "1844.00"
+      },
+      "last_trade": {
+        "bse": "1815.15",
+        "nse": "1815.95"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 6 2018",
+    "bse_script_code": "541729",
+    "nse_symbol": "HDFCAMC",
+    "isin": "INE127D01025",
+    "final_issue_price": "1100 per share"
+  },
+  "listing_date": "2018-08-05T18:30:00.000Z",
+  "listing_gains": "65.01%",
+  "listing_gains_numeric": 65.01,
+  "logo": "https://www.chittorgarh.net/images/ipo/hdfcamc-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/hdfcamc-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 13 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "13",
+        "amount": "14300"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "169",
+        "amount": "185900"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "182",
+        "amount": "200200"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "69",
+        "shares": "897",
+        "amount": "986700"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "70",
+        "shares": "910",
+        "amount": "1001000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/hdfc-amc-ipo/897/"
+    }
+  },
+  "lot_size": 13,
+  "opening_date": "2018-07-24T18:30:00.000Z",
+  "pageHeading": "HDFC Asset Management Company Limited IPO (HDFC AMC IPO) Detail",
+  "pageTitle": "HDFC AMC IPO Date, Price, GMP, Review, Analysis & Details",
+  "prospectusLinks": [
+    {
+      "text": "HDFC AMC IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2018/hdfc-asset-management-company-limited_38250.html"
+    },
+    {
+      "text": "HDFC AMC IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2018/hdfc-asset-management-company-limited_39851.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "12",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/hdfc-amc-ipo/897/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "HDFC AMC IPO offers 18804290 shares. 4435511 (23.59%) to QIB 3326634 (17.69%) to NII 7762145 (41.28%) to RII 880000 (4.68%) to employees. 597088 RIIs will receive minimum 13 shares and (sNII) and (bNII) will receive minimum 182 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4435511 (23.59%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3326634 (17.69%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "7762145 (41.28%)",
+        "maximum_allottees": "597088"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "880000 (4.68%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2400000 (12.76%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "18804290 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:16.762Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The HDFC AMC IPO is subscribed 82.99 times on July 27 2018 6:44:04 PM (Day 3). The public issue subscribed 6.57 times in the retail category 192.26 times in the QIB category and 195.15 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "192.26",
+        "shares_offered": "4435511",
+        "shares_bid_for": "852759362"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "195.15",
+        "shares_offered": "3326634",
+        "shares_bid_for": "649183951"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "6.57",
+        "shares_offered": "7762145",
+        "shares_bid_for": "51010271"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.51",
+        "shares_offered": "880000",
+        "shares_bid_for": "1332539"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "2.65",
+        "shares_offered": "2400000",
+        "shares_bid_for": "6350565"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "82.99",
+        "shares_offered": "18804290",
+        "shares_bid_for": "1560636688"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 27 2018",
+    "tentative_allotment": "Wed Aug 1 2018",
+    "initiation_of_refunds": "Thu Aug 2 2018",
+    "credit_of_shares_to_demat": "Fri Aug 3 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:13.503Z",
+  "updated_at": "2025-04-18T18:22:16.762Z",
+  "year": 2018,
+  "worst_listing_gains": "65.01%",
+  "worst_listing_gains_numeric": 65.01
+}

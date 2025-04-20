@@ -1,0 +1,396 @@
+{
+  "_id": "6802918b3ccffd1c7912ca01",
+  "ipo_id": "2021_laxmi_organic_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:48:31.351Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/laxmi-organic-ipo/1096/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1989, Laxmi Organic Industries Ltd is a specialty chemical manufacturer that operates in 2 business segments; <strong>Acetyl Intermediates (AI)</strong> and <strong>Specialty Intermediates (SI)</strong>. It is the leading manufacturer of ethyl acetate with over 30% market share in the Indian ethyl acetate market and the only manufacturer of diketene derivatives in India.</p>\n\n<p>Its AI segment includes ethyl acetate, acetaldehyde, fuel-grade ethanol, and other proprietary solvents whereas the SI segment includes ketene, diketene derivatives namely esters, acetic anhydride, arylides, amides, and other chemicals. Its products are being used in various industries like pharmaceuticals, agrochemicals, inks &amp; coatings, dyes &amp; pigments, paints, printing &amp; packaging, etc. Alembic Pharmaceuticals Limited, Laurus Labs Limited, Granules India Limited, Hetero Labs Limited, Heubach Colour Private Limited, Hubergroup India Private Limited, Huhtamaki India Limited, Macleods Pharmaceuticals Private Limited, Suven Pharmaceuticals Limited, Colourtex Industries Private Limited, and UPL Limited are some of its customers.</p>\n\n<p>The company has a global footprint with customers in 30 countries including but not restricted to China, Russia, Singapore, UAE, UK, USA, Netherland, etc. Currently, it has 2 manufacturing facilities in Mahad, Maharashtra for the manufacturing of AI and SI products. It is also proposing to set-up a new manufacturing facility at Lote Parshuram, Maharashtra to manufacture four specialty chemicals.</p>\n<p><strong>Competitive Strengths</strong></p>\n<ul>\n<li>Leading manufacturer of ethyl acetate in India.</li>\n<li>Largest manufacturer of diketene derivative products.</li>\n<li>Diversified customer base across industries.</li>\n<li>Strategically located manufacturing facilities.</li>\n<li>Consistent financial performance.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-20",
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "10371.32",
+          "10706.33",
+          "10144.88",
+          "8947.34"
+        ],
+        [
+          "Total Revenue",
+          "8143.55",
+          "15386.21",
+          "15743.23",
+          "13960.75"
+        ],
+        [
+          "Profit After Tax",
+          "454.84",
+          "702.12",
+          "723.91",
+          "756.95"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 15, 2021 to March 17, 2021",
+    "ipoListingDate": "Thu, Mar 25, 2021",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹130.00",
+    "lotSize": "115 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹600.00 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹300.00 Cr)",
+    "offerForSale": "[.] shares of ₹2 (aggregating up to ₹300.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Mar 15, 2021",
+    "ipoCloseDate": "Wed, Mar 17, 2021",
+    "initiationOfRefunds": "Tue, Mar 23, 2021",
+    "creditOfSharesToDemat": "Wed, Mar 24, 2021",
+    "shareHoldingPreIssue": "24,05,85,850 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "24,05,85,850 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "89.51%"
+      }
+    ],
+    "shareHoldingPostIssue": "26,36,62,773 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "26,36,62,773 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.92%"
+      }
+    ]
+  },
+  "closing_date": "2021-03-16T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-2145-232424",
+    "email": "investors@laxmi.com",
+    "full_address": "Laxmi Organic Industries Limited, A-22/2/3 MIDC, Mahad Raigad– 402 309",
+    "website": "http://www.laxmi.com/"
+  },
+  "createdAt": "2025-04-18T17:53:15.055Z",
+  "faqs": [
+    {
+      "question": "What is the Laxmi Organic IPO?",
+      "answer": "<div itemprop=\"text\"><p>Laxmi Organic IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->600.00<!-- --> Crores. The issue is priced at <span>₹130 per share</span>. The minimum order quantity is <!-- -->115<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 15, 2021</b>, and <b>closes on <!-- -->March 17, 2021</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Laxmi Organic IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Laxmi Organic IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Laxmi Organic IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Laxmi Organic IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Laxmi Organic IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Laxmi Organic IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Laxmi Organic IPO opens on March 15, 2021 and closes on March 17, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Laxmi Organic IPO?",
+      "answer": "<div itemprop=\"text\"><p>Laxmi Organic IPO<!-- --> <b>lot size is <!-- -->115</b>, and the <b>minimum amount required is <span>₹14,950</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Laxmi Organic IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Laxmi Organic IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Laxmi Organic IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Laxmi Organic IPO<!-- --> will be done on <!-- -->Monday, March 22, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, March 24, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/laxmi-organic-ipo/1096/\" title=\"Laxmi Organic IPO Allotment Status\">Laxmi Organic IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Laxmi Organic IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Laxmi Organic IPO<!-- --> listing date is on <b>Thursday, March 25, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Laxmi Organic Industries",
+  "issue_price": "₹130.00",
+  "issue_price_numeric": 130,
+  "issue_size": "[.] shares (aggregating up to ₹600.00 Cr)",
+  "issue_size_numeric": 600,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Dam Capital Advisors Ltd",
+      "url": "/report/ipo-lead-manager-review/112/30/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/30/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "130.00",
+        "nse": "130.00"
+      },
+      "open": {
+        "bse": "156.20",
+        "nse": "155.50"
+      },
+      "low": {
+        "bse": "143.00",
+        "nse": "143.25"
+      },
+      "high": {
+        "bse": "174.50",
+        "nse": "174.60"
+      },
+      "last_trade": {
+        "bse": "164.60",
+        "nse": "164.45"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 25 2021",
+    "bse_script_code": "543277",
+    "nse_symbol": "LXCHEM",
+    "isin": "INE576O01020",
+    "final_issue_price": "130 per share"
+  },
+  "listing_date": "2021-03-24T18:30:00.000Z",
+  "listing_gains": "26.62%",
+  "listing_gains_numeric": 26.62,
+  "logo": "https://www.chittorgarh.net/images/ipo/laxmi-organic-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/laxmi-organic-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 115 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "115",
+        "amount": "14950"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1495",
+        "amount": "194350"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1610",
+        "amount": "209300"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "7590",
+        "amount": "986700"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "7705",
+        "amount": "1001650"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/laxmi-organic-ipo/1096/"
+    }
+  },
+  "lot_size": 115,
+  "opening_date": "2021-03-14T18:30:00.000Z",
+  "pageHeading": "Laxmi Organic Industries Limited IPO (Laxmi Organic IPO) Detail",
+  "pageTitle": "Laxmi Organic IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Yellow Stone Trust and Ravi Goenka are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "89.51%",
+      "share_holding_post_issue": "72.92%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Laxmi Organic IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2020/laxmi-organic-industries-limited-drhp_48448.html"
+    },
+    {
+      "text": "Laxmi Organic IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2021/laxmi-organic-industries-limited-rhp_49422.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "6",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/laxmi-organic-ipo/1096/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "laxmiorganic.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Laxmi Organic IPO offers 32558138 shares. 9302324 (28.57%) to QIB 6976744 (21.43%) to NII 16279070 (50.00%) to RII. 141557 RIIs will receive minimum 115 shares and (sNII) and (bNII) will receive minimum 1610 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "9302324 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "6976744 (21.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "16279070 (50.00%)",
+        "maximum_allottees": "141557"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "32558138 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:15.055Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Laxmi Organic IPO is subscribed 106.81 times on March 17 2021 6:49:00 AM (Day 3). The public issue subscribed 20.1 times in the retail category 175.43 times in the QIB category and 217.62 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "175.43",
+        "shares_offered": "9302324",
+        "shares_bid_for": "1631902900"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "217.62",
+        "shares_offered": "6976744",
+        "shares_bid_for": "1518292445"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "20.1",
+        "shares_offered": "16279070",
+        "shares_bid_for": "327257225"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "106.81",
+        "shares_offered": "32558138",
+        "shares_bid_for": "3477452570"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 17 2021",
+    "tentative_allotment": "Mon Mar 22 2021",
+    "initiation_of_refunds": "Tue Mar 23 2021",
+    "credit_of_shares_to_demat": "Wed Mar 24 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:12.147Z",
+  "updated_at": "2025-04-18T17:53:15.055Z",
+  "year": 2021,
+  "worst_listing_gains": "26.62%",
+  "worst_listing_gains_numeric": 26.62
+}

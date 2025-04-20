@@ -1,0 +1,449 @@
+{
+  "_id": "68028e9b3ccffd1c7912c8d4",
+  "ipo_id": "2023_e_factor_experiences_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:29:16.823Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/e-factor-experiences-ipo/1529/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2003, E Factor Experiences Limited is an Indian event management company.</p>\n<p>The company is engaged in providing event experiences, event services, technology-based permanent &amp; semi-permanent multimedia light &amp; sound installations and specialized turnkey event assignments, wedding management, and private and social event solutions.</p>\n<p>E Factor Experiences Limited's portfolio of services includes turnkey assignments in the form of Government Tourism Events and Festivals, techno-cultural light &amp; sound shows, Sporting Events and Contests, Conferences, Mega Ground Concerts, Televised Events, private and social events like wedding and anniversary celebrations, etc.</p>\n<p>E Factor Experiences offices in Delhi, Noida, Jaipur, and Odisha. The company has a team of 32 employees.</p>\n<p>The company has managed events like Eco Retreat, Odisha, DotFest, Bhubaneswar, Laser Show &amp; Fireworks at Deepotsav, Kashi Balloon &amp; Boat Race, Baba Saheb - The Grand Musical Show on life &amp; teaching of Baba Saheb Ambedkar and many more.</p>\n<p>E Factor Experiences entered into a permanent and sustained business with its experiential tourism brand, \"Sky Waltz\" owned by the Subsidiary company namely E-Factor Adventure Tourism Private Limited. Skywaltz is engaged in the business of managing and operating hot air ballooning and yachting activities in multiple locations in India and has been a government-approved commercial hot air balloon operator for the last 12 years.</p>\n<p>The company also has acquired a 46.33% stake in Untamed Leisure and Hospitality Private Limited (formerly known as E Factor Leisure and Hospitality Private Limited) making this company the Associate company, which is engaged in the business of event management and hospitality services and other related activities of leisure and entertainment.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2581.94",
+          "4916.87",
+          "5674.80"
+        ],
+        [
+          "Revenue",
+          "990.56",
+          "5700.24",
+          "11945.21"
+        ],
+        [
+          "Profit After Tax",
+          "123.39",
+          "255.73",
+          "761.35"
+        ],
+        [
+          "Net Worth",
+          "96.96",
+          "351.85",
+          "1101.67"
+        ],
+        [
+          "Reserves and Surplus",
+          "-247.04",
+          "5.36",
+          "138.46"
+        ],
+        [
+          "Total Borrowing",
+          "683.23",
+          "590.95",
+          "912.74"
+        ]
+      ]
+    },
+    {
+      "heading": "E Factor Experiences Limited Stock Quote & Charts",
+      "sanitizedHeading": "e_factor_experiences_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "103.79%"
+        ],
+        [
+          "ROCE",
+          "54.85%"
+        ],
+        [
+          "Debt/Equity",
+          "0.83"
+        ],
+        [
+          "RoNW",
+          "68.35%"
+        ]
+      ]
+    },
+    {
+      "heading": "E Factor Experiences Limited Stock Quote & Charts",
+      "sanitizedHeading": "e_factor_experiences_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "7.82",
+          null
+        ],
+        [
+          "P/E (x)",
+          "9.59",
+          "12.89"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "E Factor Experiences IPO raises Rs 7.38 crore from anchor investors. E Factor Experiences IPO Anchor bid date is September 26 2023. E Factor Experiences IPO Anchor Investors list",
+    "list_link": {
+      "text": "E Factor Experiences IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/e-factor-experience.pdf"
+    },
+    "details": {
+      "ipo_date": "January 4 2024",
+      "shares_offered": "984000",
+      "anchor_portion_size": "7.38"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 27, 2023 to October 3, 2023",
+    "ipoListingDate": "Mon, Oct 9, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹75.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "34,56,000 shares (aggregating up to ₹25.92 Cr)",
+    "freshIssue": "34,56,000 shares (aggregating up to ₹25.92 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,74,400 shares",
+      "maker_name": "Hem Finlease Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/250/"
+    },
+    "ipoOpenDate": "Wed, Sep 27, 2023",
+    "ipoCloseDate": "Tue, Oct 3, 2023",
+    "initiationOfRefunds": "Sat, Oct 7, 2023",
+    "creditOfSharesToDemat": "Sun, Oct 8, 2023",
+    "shareHoldingPreIssue": "96,32,098 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "96,32,098 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.99%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,30,88,098 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,30,88,098 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.59%"
+      }
+    ]
+  },
+  "closing_date": "2023-10-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-120-3100184",
+    "email": "cs@efactorexp.com",
+    "full_address": "E Factor Experiences Limited, 101-A, Kundan Kutir Hari Nagar Ashram, New Delhi - 110014 India",
+    "website": "http://www.efactor4u.com/"
+  },
+  "createdAt": "2025-04-18T17:40:43.799Z",
+  "faqs": [
+    {
+      "question": "What is the E Factor Experiences IPO?",
+      "answer": "<div itemprop=\"text\"><p>E Factor Experiences IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3456000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->25.92<!-- --> Crores. The issue is priced at <span>₹75 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 27, 2023</b>, and <b>closes on <!-- -->October 3, 2023</b>.</p><p>Maashitla Securities Private Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in E Factor Experiences IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->E Factor Experiences IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->E Factor Experiences IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->E Factor Experiences IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->E Factor Experiences IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When E Factor Experiences IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The E Factor Experiences IPO opens on September 27, 2023 and closes on October 3, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of E Factor Experiences IPO?",
+      "answer": "<div itemprop=\"text\"><p>E Factor Experiences IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for E Factor Experiences IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->E Factor Experiences IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is E Factor Experiences IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->E Factor Experiences IPO<!-- --> will be done on <!-- -->Friday, October 6, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Sunday, October 8, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/e-factor-experiences-ipo/1529/\" title=\"E Factor Experiences IPO Allotment Status\">E Factor Experiences IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is E Factor Experiences IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->E Factor Experiences IPO<!-- --> listing date is on <b>Monday, October 9, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "E Factor Experiences",
+  "issue_price": "₹75.00",
+  "issue_price_numeric": 75,
+  "issue_size": "34,56,000 shares (aggregating up to ₹25.92 Cr)",
+  "issue_size_numeric": 34,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hem Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/76/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/76/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "75.00"
+      },
+      "open": {
+        "nse_sme": "115.00"
+      },
+      "low": {
+        "nse_sme": "115.00"
+      },
+      "high": {
+        "nse_sme": "120.75"
+      },
+      "last_trade": {
+        "nse_sme": "120.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 9 2023",
+    "nse_symbol": "EFACTOR",
+    "isin": "INE0KFF01017",
+    "final_issue_price": "75 per share"
+  },
+  "listing_date": "2023-10-08T18:30:00.000Z",
+  "listing_gains": "61.00%",
+  "listing_gains_numeric": 61,
+  "logo": "https://www.chittorgarh.net/images/ipo/e-factor-experiences-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/e-factor-experiences-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/e-factor-experiences-ipo/1529/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-09-26T18:30:00.000Z",
+  "pageHeading": "E Factor Experiences Limited IPO (E Factor Experiences IPO) Detail",
+  "pageTitle": "E Factor Experiences IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Jai Thakore Samit Garg Aruna Garg and Manika Garg are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "99.99%",
+      "share_holding_post_issue": "73.59%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "E Factor Experiences IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/EFactor_DP.pdf"
+    },
+    {
+      "text": "E Factor Experiences IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2023/e-factor-experiences-limited-sme-prospectus_78655.html"
+    },
+    {
+      "text": "Anchor Investors in E Factor Experiences IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/e-factor-experience.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/e-factor-experiences-ipo/1529/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Maashitla Securities Private Limited",
+    "phone": "+91-11-45121795-96",
+    "email": "investor.ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "reservation": {
+    "summary": "E Factor Experiences IPO offers 3456000 shares. 656000 (18.98%) to QIB 492800 (14.26%) to NII 1148800 (33.24%) to RII 984000 (28.47%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "984000 (28.47%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "174400 (5.05%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "656000 (18.98%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "492800 (14.26%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1148800 (33.24%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3456000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:43.799Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The E Factor Experiences IPO is subscribed 73.14 times on October 3 2023 7:30:00 PM (Day 4). The public issue subscribed 47.78 times in the retail category 46.09 times in the QIB category and 168.26 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "46.09",
+        "shares_offered": "656000",
+        "shares_bid_for": "30233600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "168.26",
+        "shares_offered": "492800",
+        "shares_bid_for": "82916800"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "47.78",
+        "shares_offered": "1148800",
+        "shares_bid_for": "54884800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "73.14",
+        "shares_offered": "2297600",
+        "shares_bid_for": "168035200"
+      }
+    },
+    "total_applications": "34303",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 3 2023",
+    "tentative_allotment": "Fri Oct 6 2023",
+    "initiation_of_refunds": "Sat Oct 7 2023",
+    "credit_of_shares_to_demat": "Sun Oct 8 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:29.682Z",
+  "updated_at": "2025-04-18T17:40:43.799Z",
+  "year": 2023,
+  "worst_listing_gains": "61.00%",
+  "worst_listing_gains_numeric": 61
+}

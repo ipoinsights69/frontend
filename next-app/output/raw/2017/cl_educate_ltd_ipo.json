@@ -1,0 +1,378 @@
+{
+  "_id": "680298543ccffd1c7912caf0",
+  "ipo_id": "2017_cl_educate_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:10:24.194Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/cl-educate-ipo/631/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1996, CL Educate Ltd is engaged in providing various educational products and services. They operates through two segments, Education and Training Programme (Including Sale of Study Material) and Vocational Training.</p><p> The Company's Education and training program (including sale of study material) segment includes coaching for higher education entrances. The Company's Vocational training segment includes specific projects undertaken (including government projects).</p><p>CL Educate offers test preparation courses and services under the <b>Career Launcher</b> brand, publishing and content development services under the brand <b>GK Publications</b> and event management, marketing support, customer engagement, and managed manpower and training services under the <b>Kestone</b> brand name.</p><p>They also provides integrated solutions to educational institutions and universities, including business advisory and outreach support services under the <b>CL Media</b> brand, as well as research incubation and support services under the brand <b>Accendere</b> brand. In addition, the company operates K-12 schools under the Indus World School brand name. As on September 30, 2015, they had 146 test-prep centers spread over 86 cities in India, 8 K-12 schools spread across 6 cities &amp; 28 vocational training centers and offices.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Sep-16",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13",
+          "31-Mar-12"
+        ],
+        [
+          "Total Assets",
+          "3852.74",
+          "3789.34",
+          "3253.44",
+          "1838.88",
+          "1782.94",
+          "1707.98"
+        ],
+        [
+          "Total Revenue",
+          "894.46",
+          "1738.46",
+          "1558.47",
+          "1247.42",
+          "1355.23",
+          "1021.74"
+        ],
+        [
+          "Profit After Tax (PAT)",
+          "71.34",
+          "49.18",
+          "76.59",
+          "23.57",
+          "67.43",
+          "(53.76)"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 20, 2017 to March 22, 2017",
+    "ipoListingDate": "Fri, Mar 31, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹502.00",
+    "lotSize": "29 Shares",
+    "issueSize": "47,60,000 shares (aggregating up to ₹238.95 Cr)",
+    "freshIssue": "21,80,119 shares (aggregating up to ₹[.] Cr)",
+    "offerForSale": "25,79,881 shares of ₹10 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Mar 20, 2017",
+    "ipoCloseDate": "Wed, Mar 22, 2017",
+    "initiationOfRefunds": "Wed, Mar 29, 2017",
+    "creditOfSharesToDemat": "Thu, Mar 30, 2017",
+    "shareHoldingPreIssue": "1,19,83,159 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,19,83,159 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,41,63,278 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,41,63,278 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-03-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-11-45070311",
+    "email": "compliance@cleducate.com",
+    "full_address": "CL Educate Ltd, A-41 Espire Building Lower Grd Flr, Mohan Co-operative Industrial Area, Main Mathura Road New Delhi - 110 044",
+    "website": "http://www.cleducate.com"
+  },
+  "createdAt": "2025-04-18T18:22:12.502Z",
+  "faqs": [
+    {
+      "question": "What is the CL Educate IPO?",
+      "answer": "<div itemprop=\"text\"><p>CL Educate IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->4760000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->238.95<!-- --> Crores. The issue is priced at <span>₹502 per share</span>. The minimum order quantity is <!-- -->29<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 20, 2017</b>, and <b>closes on <!-- -->March 22, 2017</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in CL Educate IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->CL Educate IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->CL Educate IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->CL Educate IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->CL Educate IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When CL Educate IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The CL Educate IPO opens on March 20, 2017 and closes on March 22, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of CL Educate IPO?",
+      "answer": "<div itemprop=\"text\"><p>CL Educate IPO<!-- --> <b>lot size is <!-- -->29</b>, and the <b>minimum amount required is <span>₹14,558</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for CL Educate IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->CL Educate IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is CL Educate IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->CL Educate IPO<!-- --> will be done on <!-- -->Wednesday, March 29, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, March 30, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/cl-educate-ipo/631/\" title=\"CL Educate IPO Allotment Status\">CL Educate IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is CL Educate IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->CL Educate IPO<!-- --> listing date is on <b>Friday, March 31, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "CL Educate",
+  "issue_price": "₹502.00",
+  "issue_price_numeric": 502,
+  "issue_size": "47,60,000 shares (aggregating up to ₹238.95 Cr)",
+  "issue_size_numeric": 47,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "502.00",
+        "nse": "502.00"
+      },
+      "open": {
+        "bse": "398.00",
+        "nse": "402.00"
+      },
+      "low": {
+        "bse": "398.00",
+        "nse": "402.00"
+      },
+      "high": {
+        "bse": "417.90",
+        "nse": "422.10"
+      },
+      "last_trade": {
+        "bse": "417.90",
+        "nse": "422.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 31 2017",
+    "bse_script_code": "540403",
+    "nse_symbol": "CLEDUCATE",
+    "isin": "INE201M01011",
+    "final_issue_price": "502 per share"
+  },
+  "listing_date": "2017-03-30T18:30:00.000Z",
+  "listing_gains": "-16.75%",
+  "listing_gains_numeric": -16.75,
+  "logo": "https://www.chittorgarh.net/images/ipo/cleducate_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/cleducate_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 29 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "29",
+        "amount": "14558"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "377",
+        "amount": "189254"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "406",
+        "amount": "203812"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "1972",
+        "amount": "989944"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "2001",
+        "amount": "1004502"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/cl-educate-ipo/631/"
+    }
+  },
+  "lot_size": 29,
+  "opening_date": "2017-03-19T18:30:00.000Z",
+  "pageHeading": "CL Educate Ltd IPO (CL Educate IPO) Detail",
+  "pageTitle": "CL Educate IPO Date, Price, GMP, Review, Analysis & Details",
+  "prospectusLinks": [
+    {
+      "text": "CL Educate IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2016/cl-educate-limited_32196.html"
+    },
+    {
+      "text": "CL Educate IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2017/cl-educate-limited_34484.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/cl-educate-ipo/631/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "CL Educate IPO offers 3332000 shares. 952000 (28.57%) to QIB 714000 (21.43%) to NII 1666000 (50.00%) to RII. 57448 RIIs will receive minimum 29 shares and (sNII) and (bNII) will receive minimum 406 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "952000 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "714000 (21.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1666000 (50.00%)",
+        "maximum_allottees": "57448"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3332000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:12.502Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The CL Educate IPO is subscribed 1.9 times on March 22 2017 5:45:00 PM (Day 3). The public issue subscribed 1.63 times in the retail category 3.65 times in the QIB category and 0.21 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "3.65",
+        "shares_offered": "952000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.21",
+        "shares_offered": "714000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.63",
+        "shares_offered": "1666000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.9",
+        "shares_offered": "3332000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 22 2017",
+    "tentative_allotment": "Wed Mar 29 2017",
+    "initiation_of_refunds": "Wed Mar 29 2017",
+    "credit_of_shares_to_demat": "Thu Mar 30 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:45.535Z",
+  "updated_at": "2025-04-18T18:22:12.502Z",
+  "year": 2017,
+  "worst_listing_gains": "-16.75%",
+  "worst_listing_gains_numeric": -16.75
+}

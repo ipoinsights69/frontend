@@ -1,0 +1,501 @@
+{
+  "_id": "68028e9c3ccffd1c7912c8f6",
+  "ipo_id": "2023_india_shelter_finance_corporation_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:27:06.587Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/india-shelter-ipo/1477/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1998, India Shelter Finance Corporation Limited, previously known as Satyaprakash Housing Finance India Limited, is engaged in the business of housing finance. The company provides loans for house construction, extension, renovation, and purchase of new homes or plots. The company also offers loans against property (LAP).</p>\n<p>The company offers loan amounts between Rs. 5 Lakhs to Rs. 50 Lakhs for a tenure of up to 20 years. As of 30th Nov 2023, IndiaShelter has disbursed over Rs. 5500 Crores in loans, helping families own, extend, or improve their homes.</p>\n<p>As of September 30, 2023, the company has a network of 203 branches spread across 15 states with a presence in Rajasthan, Maharashtra, Madhya Pradesh, Karnataka, and Gujarat.</p>\n<p>The company's number of branches increased from 115 as of March 31, 2021, to 130 as of March 31, 2022, and 203 as of September 30, 2023.</p>\n<p>The company pursues a Phygital model which involves a \"foot on the street\" approach to physical customer service through a network of more than 1,500 customer advisors (as of 30 September 2023) and the digitalization of customer service in all credit and banking processes.</p>\n<p>India Shelter Finance Corporation Limited has an in-house team of over 300 collection officers, as of March 31, 2023.</p>\n<p>To enhance customer satisfaction, India Shelter has launched iServe - a dedicated customer service application catering to queries and concerns of existing customers online on time.</p>\n<p>As of March 31, 2023, of the company borrowers, 97.5% had one or more borrowers as women and 71.3% of our customers were first-time home loan takers.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "India Shelter Finance Corporation Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "4758.68",
+          "4295.59",
+          "3221.22",
+          "2462.64"
+        ],
+        [
+          "Revenue",
+          "398.58",
+          "606.23",
+          "459.81",
+          "322.80"
+        ],
+        [
+          "Profit After Tax",
+          "107.35",
+          "155.34",
+          "128.45",
+          "87.39"
+        ],
+        [
+          "Net Worth",
+          "1374.97",
+          "1240.53",
+          "1076.13",
+          "937.27"
+        ],
+        [
+          "Reserves and Surplus",
+          "1335.36",
+          "1197.98",
+          "1033.02",
+          "894.20"
+        ],
+        [
+          "Total Borrowing",
+          "3272.48",
+          "2973.43",
+          "2059.40",
+          "1480.72"
+        ]
+      ]
+    },
+    {
+      "heading": "India Shelter Finance Corporation Limited Stock Quote & Charts",
+      "sanitizedHeading": "india_shelter_finance_corporation_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "13.4%"
+        ],
+        [
+          "Debt/Equity",
+          "2.12"
+        ],
+        [
+          "RoNW",
+          "13.4%"
+        ]
+      ]
+    },
+    {
+      "heading": "India Shelter Finance Corporation Limited Stock Quote & Charts",
+      "sanitizedHeading": "india_shelter_finance_corporation_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "17.47",
+          null
+        ],
+        [
+          "P/E (x)",
+          "28.22",
+          "24.58"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "India Shelter Finance IPO raises Rs 360.00 crore from anchor investors. India Shelter Finance IPO Anchor bid date is December 12 2023. India Shelter Finance IPO Anchor Investors list",
+    "list_link": {
+      "text": "India Shelter Finance IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/india-shelter-finance-corporation-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "March 17 2024",
+      "shares_offered": "7302229",
+      "anchor_portion_size": "360.00"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 13, 2023 to December 15, 2023",
+    "ipoListingDate": "Wed, Dec 20, 2023",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹493.00",
+    "lotSize": "30 Shares",
+    "issueSize": "2,43,40,771 shares (aggregating up to ₹1,200.00 Cr)",
+    "freshIssue": "1,62,27,181 shares (aggregating up to ₹800.00 Cr)",
+    "offerForSale": "81,13,590 shares of ₹5 (aggregating up to ₹400.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Dec 13, 2023",
+    "ipoCloseDate": "Fri, Dec 15, 2023",
+    "initiationOfRefunds": "Tue, Dec 19, 2023",
+    "creditOfSharesToDemat": "Tue, Dec 19, 2023",
+    "shareHoldingPreIssue": "56.75%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "56.75%"
+      }
+    ],
+    "shareHoldingPostIssue": "10,70,51,137 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "10,70,51,137 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "48.17%"
+      }
+    ]
+  },
+  "closing_date": "2023-12-14T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 124 413 1800",
+    "email": "compliance@indiashelter.in",
+    "full_address": "India Shelter Finance Corporation Limited, 6 th Floor Plot No. 15, Sector 44, Institutional Area",
+    "website": "https://www.indiashelter.in/"
+  },
+  "createdAt": "2025-04-18T17:40:44.467Z",
+  "faqs": [
+    {
+      "question": "What is the India Shelter Finance IPO?",
+      "answer": "<div itemprop=\"text\"><p>India Shelter Finance IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->24340771<!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->1,200.00<!-- --> Crores. The issue is priced at <span>₹493 per share</span>. The minimum order quantity is <!-- -->30<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 13, 2023</b>, and <b>closes on <!-- -->December 15, 2023</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in India Shelter Finance IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->India Shelter Finance IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->India Shelter Finance IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->India Shelter Finance IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->India Shelter Finance IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When India Shelter Finance IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The India Shelter Finance IPO opens on December 13, 2023 and closes on December 15, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of India Shelter Finance IPO?",
+      "answer": "<div itemprop=\"text\"><p>India Shelter Finance IPO<!-- --> <b>lot size is <!-- -->30</b>, and the <b>minimum amount required is <span>₹14,790</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for India Shelter Finance IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->India Shelter Finance IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is India Shelter Finance IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->India Shelter Finance IPO<!-- --> will be done on <!-- -->Monday, December 18, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, December 19, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/india-shelter-ipo/1477/\" title=\"India Shelter Finance IPO Allotment Status\">India Shelter Finance IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is India Shelter Finance IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->India Shelter Finance IPO<!-- --> listing date is on <b>Wednesday, December 20, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "India Shelter Finance Corporation",
+  "issue_price": "₹493.00",
+  "issue_price_numeric": 493,
+  "issue_size": "2,43,40,771 shares (aggregating up to ₹1,200.00 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Ambit Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/119/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/119/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "493.00",
+        "nse": "493.00"
+      },
+      "open": {
+        "bse": "612.70",
+        "nse": "620.00"
+      },
+      "low": {
+        "bse": "530.95",
+        "nse": "531.00"
+      },
+      "high": {
+        "bse": "625.00",
+        "nse": "630.00"
+      },
+      "last_trade": {
+        "bse": "543.50",
+        "nse": "544.70"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 20 2023",
+    "bse_script_code": "544044",
+    "nse_symbol": "INDIASHLTR",
+    "isin": "INE922K01024",
+    "final_issue_price": "493 per share"
+  },
+  "listing_date": "2023-12-19T18:30:00.000Z",
+  "listing_gains": "10.24%",
+  "listing_gains_numeric": 10.24,
+  "logo": "https://www.chittorgarh.net/images/ipo/india-shelter-finance-corporation-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/india-shelter-finance-corporation-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 30 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "30",
+        "amount": "14790"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "390",
+        "amount": "192270"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "420",
+        "amount": "207060"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2010",
+        "amount": "990930"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2040",
+        "amount": "1005720"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/india-shelter-ipo/1477/"
+    }
+  },
+  "lot_size": 30,
+  "opening_date": "2023-12-12T18:30:00.000Z",
+  "pageHeading": "India Shelter Finance Corporation Limited IPO (India Shelter Finance IPO) Detail",
+  "pageTitle": "India Shelter Finance IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Anil Mehta WestBridge Crossover Fund LLC and Aravali Investment Holdings are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "56.75%",
+      "share_holding_post_issue": "48.17%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "India Shelter Finance IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2023/india-shelter-finance-corporation-limited-drhp_74993.html"
+    },
+    {
+      "text": "India Shelter Finance IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/india-shelter-finance-corporation-limited-prospectus_79987.html"
+    },
+    {
+      "text": "Anchor Investors in India Shelter Finance IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/india-shelter-finance-corporation-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "13",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/india-shelter-ipo/1477/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "indiashelter.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "India Shelter Finance IPO offers 24340769 shares. 4868154 (20.00%) to QIB 3651116 (15.00%) to NII 8519270 (35.00%) to RII and 7302229 (30.00%) to Anchor investors. 283975 RIIs will receive minimum 30 shares and 2897 (sNII) and 5795 (bNII) will receive minimum 420 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "7302229 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4868154 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3651116 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2434077 (10.00%)",
+        "maximum_allottees": "5795"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1217039 (5.00%)",
+        "maximum_allottees": "2897"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "8519270 (35.00%)",
+        "maximum_allottees": "283975"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "24340769 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.466Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The India Shelter Finance IPO is subscribed 38.59 times on December 15 2023 7:02:00 PM (Day 3). The public issue subscribed 10.46 times in the retail category 94.29 times in the QIB category and 29.97 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "94.29",
+        "shares_offered": "4868154",
+        "shares_bid_for": "459012960"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "29.97",
+        "shares_offered": "3651116",
+        "shares_bid_for": "109412700"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "29.77",
+        "shares_offered": "2434077",
+        "shares_bid_for": "72451200"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "30.37",
+        "shares_offered": "1217039",
+        "shares_bid_for": "36961500"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "10.46",
+        "shares_offered": "8519270",
+        "shares_bid_for": "89097360"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "38.59",
+        "shares_offered": "17038540",
+        "shares_bid_for": "657523020"
+      }
+    },
+    "total_applications": "2573896"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 15 2023",
+    "tentative_allotment": "Mon Dec 18 2023",
+    "initiation_of_refunds": "Tue Dec 19 2023",
+    "credit_of_shares_to_demat": "Tue Dec 19 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:33.774Z",
+  "updated_at": "2025-04-18T17:40:44.466Z",
+  "year": 2023,
+  "worst_listing_gains": "10.24%",
+  "worst_listing_gains_numeric": 10.24
+}

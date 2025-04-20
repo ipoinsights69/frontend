@@ -1,0 +1,428 @@
+{
+  "_id": "680249fe3ccffd1c7912c792",
+  "ipo_id": "2024_koura_fine_diamond_jewelry_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:38:40.680Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/koura-fine-diamond-jewelry-ipo/1669/"
+  },
+  "about": {
+    "details": "<p>Incorporated in March 2022, Koura Fine Diamond Jewelry Limited wholesales gold and diamond jewelry. The company offers 22 Karat Gold and 18 Karat Diamond jewellery.</p>\n<p>The company deals exclusively in jewelry that is certified by the Hallmark. For gold jewelry, the company obtains certification from the Bureau of Indian Standards (BIS) with 91.6% certifications for 22 Karat and from the International Gemmological Institute, India, and (BIS) with 75% certifications for 18 Karat diamond jewelry.</p>\n<p>The company has been successfully operating in Gujarat and Odisha, both in the western and eastern regions.</p>\n<p>As of December,31st, 2023, the company has&nbsp;a total strength of 08 employees in various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Koura Fine Diamond Jewelry Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "352.53",
+          "327.34"
+        ],
+        [
+          "Revenue",
+          "601.84",
+          "556.35"
+        ],
+        [
+          "Profit After Tax",
+          "17.01",
+          "13.41"
+        ],
+        [
+          "Net Worth",
+          "286.06",
+          "269.06"
+        ],
+        [
+          "Reserves and Surplus",
+          "25.91",
+          "221.76"
+        ],
+        [
+          "Total Borrowing",
+          "48.84",
+          "51.80"
+        ]
+      ]
+    },
+    {
+      "heading": "Koura Fine Diamond Jewelry Ltd Stock Quote & Charts",
+      "sanitizedHeading": "koura_fine_diamond_jewelry_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "6.13%"
+        ],
+        [
+          "ROCE",
+          "7.64%"
+        ],
+        [
+          "Debt/Equity",
+          "0.17"
+        ],
+        [
+          "RoNW",
+          "5.95%"
+        ],
+        [
+          "PAT Margin",
+          "2.83"
+        ],
+        [
+          "Price to Book Value",
+          "5.00"
+        ]
+      ]
+    },
+    {
+      "heading": "Koura Fine Diamond Jewelry Ltd Stock Quote & Charts",
+      "sanitizedHeading": "koura_fine_diamond_jewelry_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "0.52",
+          "0.94"
+        ],
+        [
+          "P/E (x)",
+          "106.7",
+          "58.23"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 6, 2024 to March 11, 2024",
+    "ipoListingDate": "Thu, Mar 14, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹55.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "10,00,000 shares (aggregating up to ₹5.50 Cr)",
+    "freshIssue": "10,00,000 shares (aggregating up to ₹5.50 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "70,000 shares",
+      "maker_name": "Giriraj Stock Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/245/"
+    },
+    "ipoOpenDate": "Wed, Mar 6, 2024",
+    "ipoCloseDate": "Mon, Mar 11, 2024",
+    "initiationOfRefunds": "Wed, Mar 13, 2024",
+    "creditOfSharesToDemat": "Wed, Mar 13, 2024",
+    "shareHoldingPreIssue": "26,01,500 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "26,01,500 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "36,01,500 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "36,01,500 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.23%"
+      }
+    ]
+  },
+  "closing_date": "2024-03-10T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 7016302567",
+    "email": "Info@kouradiamondjewelry.com",
+    "full_address": "Koura Fine Diamond Jewelry Limited, 304 Iscon Emporio, B/S Star India Bazar Nr. Jodhpur, Cross Road Satellite Ahmedabad 380015",
+    "website": "https://kouradiamondjewelry.com/"
+  },
+  "createdAt": "2025-04-18T12:47:58.204Z",
+  "faqs": [
+    {
+      "question": "What is the Koura Fine Diamond Jewelry IPO?",
+      "answer": "<div itemprop=\"text\"><p>Koura Fine Diamond Jewelry IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1000000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->5.50<!-- --> Crores. The issue is priced at <span>₹55 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 6, 2024</b>, and <b>closes on <!-- -->March 11, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Koura Fine Diamond Jewelry IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Koura Fine Diamond Jewelry IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Koura Fine Diamond Jewelry IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Koura Fine Diamond Jewelry IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Koura Fine Diamond Jewelry IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Koura Fine Diamond Jewelry IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Koura Fine Diamond Jewelry IPO opens on March 6, 2024 and closes on March 11, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Koura Fine Diamond Jewelry IPO?",
+      "answer": "<div itemprop=\"text\"><p>Koura Fine Diamond Jewelry IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,10,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Koura Fine Diamond Jewelry IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Koura Fine Diamond Jewelry IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Koura Fine Diamond Jewelry IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Koura Fine Diamond Jewelry IPO<!-- --> will be done on <!-- -->Tuesday, March 12, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, March 13, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/koura-fine-diamond-jewelry-ipo/1669/\" title=\"Koura Fine Diamond Jewelry IPO Allotment Status\">Koura Fine Diamond Jewelry IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Koura Fine Diamond Jewelry IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Koura Fine Diamond Jewelry IPO<!-- --> listing date is on <b>Thursday, March 14, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Koura Fine Diamond Jewelry",
+  "issue_price": "₹55.00",
+  "issue_price_numeric": 55,
+  "issue_size": "10,00,000 shares (aggregating up to ₹5.50 Cr)",
+  "issue_size_numeric": 10,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "GYR Capital Advisors Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/182/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/182/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "55.00"
+      },
+      "open": {
+        "bse_sme": "75.00"
+      },
+      "low": {
+        "bse_sme": "71.25"
+      },
+      "high": {
+        "bse_sme": "78.75"
+      },
+      "last_trade": {
+        "bse_sme": "78.63"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 14 2024",
+    "bse_script_code": "544139",
+    "isin": "INE0M8R01011",
+    "final_issue_price": "55 per share"
+  },
+  "listing_date": "2024-03-13T18:30:00.000Z",
+  "listing_gains": "42.96%",
+  "listing_gains_numeric": 42.96,
+  "logo": "https://www.chittorgarh.net/images/ipo/koura-fine-jewelry-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/koura-fine-jewelry-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "110000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "110000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "220000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/koura-fine-diamond-jewelry-ipo/1669/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-03-05T18:30:00.000Z",
+  "pageHeading": "Koura Fine Diamond Jewelry Limited IPO (Koura Fine Diamond Jewelry IPO) Detail",
+  "pageTitle": "Koura Fine Diamond Jewelry IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoter of the Company is Kamlesh Keshavlal Lodhiya",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "72.23%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Koura Fine Diamond Jewelry IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/300094/KOURA%20FINE%20DIAMOND%20JEWELRY%20LIMITED-Draft%20Prospectus_20230720111624.pdf"
+    },
+    {
+      "text": "Koura Fine Diamond Jewelry IPO Addendum DRHP",
+      "url": "https://www.bseindia.com/corporates/download/300094/Addendum_with_Draft_Prospectus_of_Koura_Fine_Diamond_Jewelry_Limited_20231214170304.pdf"
+    },
+    {
+      "text": "Koura Fine Diamond Jewelry IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/300094/SME_IPO%20Open/KOURA_FINE_DIAMOND_JEWELRY_LIMITED-Prospectus_20240304130120.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/koura-fine-diamond-jewelry-ipo/1669/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "ccl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Koura Fine Diamond Jewelry IPO offers 1000000 shares. 464000 (46.40%) to NII 466000 (46.60%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "70000 (7.00%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "464000 (46.40%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "466000 (46.60%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1000000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.204Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Koura Fine Diamond Jewelry IPO is subscribed 733.01 times on March 11 2024 6:21:00 PM (Day 3). The public issue subscribed 1083.98 times in the retail category [.] times in the QIB category and 373.66 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "373.66",
+        "shares_offered": "464000",
+        "shares_bid_for": "173378000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1083.98",
+        "shares_offered": "466000",
+        "shares_bid_for": "505134000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "733.01",
+        "shares_offered": "930000",
+        "shares_bid_for": "681698000"
+      }
+    },
+    "total_applications": "357575",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 11 2024",
+    "tentative_allotment": "Tue Mar 12 2024",
+    "initiation_of_refunds": "Wed Mar 13 2024",
+    "credit_of_shares_to_demat": "Wed Mar 13 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:00.334Z",
+  "updated_at": "2025-04-18T12:47:58.204Z",
+  "year": 2024,
+  "worst_listing_gains": "42.96%",
+  "worst_listing_gains_numeric": 42.96
+}

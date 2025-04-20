@@ -1,0 +1,438 @@
+{
+  "_id": "680249fe3ccffd1c7912c786",
+  "ipo_id": "2024_kalana_ispat_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:21:29.274Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/kalana-ispat-ipo/1865/"
+  },
+  "about": {
+    "details": "<p>Incorporated in October 2012, Kalana Ispat Limited is primarily involved in manufacturing M.S. Billets and Alloy Steel Billets of various grades.</p>\n<p>The company's business can be divided into segments</p>\n<ol>\n<li>Sale of Products, and</li>\n<li>Sale of Services.</li>\n</ol>\n<p>The manufacturing facility has been duly certified by international standards of quality management systems such as ISO 2830:2012.</p>\n<p>The company's manufacturing unit has an annual capacity of 38000MT/Annum.</p>\n<p>Competitive Strength</p>\n<ul>\n<li>Innovation focused business model;</li>\n<li>Consistent track record of profitable growth due to a scalable business model;</li>\n<li>Established and proven track record;</li>\n<li>Experienced Promoters and dedicated employees</li>\n<li>Enhancing Promoters Experience; and</li>\n<li>Cordial relations with their customers.</li>\n</ul>\n<p>As of September 2024, the company has three key management personnel (KMPs) and fifteen employees on its payroll. Additionally, the company arranges for temporary manpower per its production requirements from service agencies.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Kalana Ispat Limited Financial Information (Restated Standalone)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1885.71",
+          "1617.46",
+          "1264.89",
+          "1330.7"
+        ],
+        [
+          "Revenue",
+          "7394.46",
+          "8335.87",
+          "5793.32",
+          "4298.06"
+        ],
+        [
+          "Profit After Tax",
+          "236.7",
+          "50.09",
+          "13.66",
+          "13.62"
+        ],
+        [
+          "Net Worth",
+          "1081.58",
+          "441.94",
+          "391.65",
+          "376.19"
+        ],
+        [
+          "Reserves and Surplus",
+          "271.46",
+          "339.7",
+          "289.61",
+          "275.95"
+        ],
+        [
+          "Total Borrowing",
+          "461.38",
+          "861.79",
+          "260.57",
+          "262.93"
+        ]
+      ]
+    },
+    {
+      "heading": "Kalana Ispat Limited Stock Quote & Charts",
+      "sanitizedHeading": "kalana_ispat_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "31.12%"
+        ],
+        [
+          "ROCE",
+          "21.20%"
+        ],
+        [
+          "Debt/Equity",
+          "0.43"
+        ],
+        [
+          "RoNW",
+          "21.88%"
+        ],
+        [
+          "PAT Margin",
+          "3.21"
+        ],
+        [
+          "Price to Book Value",
+          "4.76"
+        ]
+      ]
+    },
+    {
+      "heading": "Kalana Ispat Limited Stock Quote & Charts",
+      "sanitizedHeading": "kalana_ispat_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.92",
+          "1.81"
+        ],
+        [
+          "P/E (x)",
+          "22.59",
+          "36.37"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 19, 2024 to September 23, 2024",
+    "ipoListingDate": "Thu, Sep 26, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹66.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "49,38,000 shares (aggregating up to ₹32.59 Cr)",
+    "freshIssue": "49,38,000 shares (aggregating up to ₹32.59 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,48,000 shares",
+      "maker_name": "Aftertrade Broking Pvt Ltd",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/335/"
+    },
+    "ipoOpenDate": "Thu, Sep 19, 2024",
+    "ipoCloseDate": "Mon, Sep 23, 2024",
+    "initiationOfRefunds": "Wed, Sep 25, 2024",
+    "creditOfSharesToDemat": "Wed, Sep 25, 2024",
+    "shareHoldingPreIssue": "81,01,185 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "81,01,185 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "82.72%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,30,41,985 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,30,41,985 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "51.38%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-22T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-81418 48159",
+    "email": "compliance@kalanaispat.com",
+    "full_address": "Kalana Ispat Limited, 504 Ashwamegh Avnue, 5th Floor Nr Mithakhali Underbridge, Mithakhali Ahmedabad-380009",
+    "website": "https://kalanaispat.com/"
+  },
+  "createdAt": "2025-04-18T12:47:58.015Z",
+  "faqs": [
+    {
+      "question": "What is the Kalana Ispat IPO?",
+      "answer": "<div itemprop=\"text\"><p>Kalana Ispat IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4938000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->32.59<!-- --> Crores. The issue is priced at <span>₹66 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 19, 2024</b>, and <b>closes on <!-- -->September 23, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Kalana Ispat IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Kalana Ispat IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Kalana Ispat IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Kalana Ispat IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Kalana Ispat IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Kalana Ispat IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Kalana Ispat IPO opens on September 19, 2024 and closes on September 23, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Kalana Ispat IPO?",
+      "answer": "<div itemprop=\"text\"><p>Kalana Ispat IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,32,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Kalana Ispat IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Kalana Ispat IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Kalana Ispat IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Kalana Ispat IPO<!-- --> will be done on <!-- -->Tuesday, September 24, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, September 25, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/kalana-ispat-ipo/1865/\" title=\"Kalana Ispat IPO Allotment Status\">Kalana Ispat IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Kalana Ispat IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Kalana Ispat IPO<!-- --> listing date is on <b>Thursday, September 26, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Kalana Ispat",
+  "issue_price": "₹66.00",
+  "issue_price_numeric": 66,
+  "issue_size": "49,38,000 shares (aggregating up to ₹32.59 Cr)",
+  "issue_size_numeric": 49,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Jawa Capital Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/421/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/421/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "66.00"
+      },
+      "open": {
+        "nse_sme": "45.15"
+      },
+      "low": {
+        "nse_sme": "43.00"
+      },
+      "high": {
+        "nse_sme": "47.40"
+      },
+      "last_trade": {
+        "nse_sme": "47.40"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 26 2024",
+    "nse_symbol": "KALANA",
+    "isin": "INE0T0L01014",
+    "final_issue_price": "66 per share"
+  },
+  "listing_date": "2024-09-25T18:30:00.000Z",
+  "listing_gains": "-28.18%",
+  "listing_gains_numeric": -28.18,
+  "logo": "https://www.chittorgarh.net/images/ipo/kalanaispat_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/kalanaispat_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "132000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "132000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "264000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/kalana-ispat-ipo/1865/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-09-18T18:30:00.000Z",
+  "pageHeading": "Kalana Ispat Limited IPO (Kalana Ispat IPO) Detail",
+  "pageTitle": "Kalana Ispat IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Mr. Aftabhusen S Khandwawala Mr. Varghese Joseph Pottakerry Mr. Gurubaxsing Jamiatsing Bagga and Mr. Sadik Nannabhai Qureshi.",
+    "holdings": {
+      "share_holding_pre_issue": "82.72%",
+      "share_holding_post_issue": "51.38%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Kalana Ispat IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/KalanaIspatLd_DP.zip+"
+    },
+    {
+      "text": "Kalana Ispat IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_KALANA.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "2"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/kalana-ispat-ipo/1865/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Kalana Ispat IPO offers 4938000 shares. 2345000 (47.49%) to NII 2345000 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "248000 (5.02%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2345000 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2345000 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4938000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:58.015Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Kalana Ispat IPO is subscribed 59.92 times on September 23 2024 6:20:00 PM (Day 3). The public issue subscribed 74.54 times in the retail category [.] times in the QIB category and 40.69 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "40.69",
+        "shares_offered": "2345000",
+        "shares_bid_for": "95420000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "74.54",
+        "shares_offered": "2345000",
+        "shares_bid_for": "174806000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "59.92",
+        "shares_offered": "4690000",
+        "shares_bid_for": "281038000"
+      }
+    },
+    "total_applications": "87403",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 23 2024",
+    "tentative_allotment": "Tue Sep 24 2024",
+    "initiation_of_refunds": "Wed Sep 25 2024",
+    "credit_of_shares_to_demat": "Wed Sep 25 2024"
+  },
+  "updatedAt": "2025-04-19T04:36:58.829Z",
+  "updated_at": "2025-04-18T12:47:58.015Z",
+  "year": 2024,
+  "worst_listing_gains": "-28.18%",
+  "worst_listing_gains_numeric": -28.18
+}

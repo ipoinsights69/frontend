@@ -1,0 +1,414 @@
+{
+  "_id": "68028e9c3ccffd1c7912c8dd",
+  "ipo_id": "2023_exhicon_events_media_solutions_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:34:14.850Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/exhicon-events-media-solutions-ipo/1406/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1997, Exhicon Events Media Solutions Limited provides products and services for the exhibition, conferences, and events industry.</p>\n<p>The company offers media to integrated marketing solutions, event infrastructure, and management to organizing solutions to B2B and B2C fairs and events.</p>\n<p>Exhicon also supplies steel AC structures, octanorm systems, flooring and carpets, modular registration setup, furniture and general lighting, sound light and video, branding &amp; signage's' CCTV and hardware setup,  modular stocks of outdoor and indoor event venue construct spread over 5 cities of India.</p>\n<p>The company has following subsidiaries:</p>\n<p>Copo Digital Services (India) Private Limited: Copo Digital provides technology consulting, development, and support services.</p>\n<p>Digiglobe Advertising Private Limited: Digiglobe offers online media and advertising services.</p>\n<p>Worldwide Exhibitions Agency Asia Limited, Hong Kong: Worldwide Exhibitions Agency Asia provides sales and marketing solutions for exhibition organizers across the globe.</p>\n<p>Exhicon Events Media Solutions' client list includes state Governments, and domestic associations as well as international clients in Hospitality, F&amp;B, Non-Chemical FMCG, International Trading, and Healthcare industries.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-21",
+          "788.06",
+          "949.12",
+          "11.73",
+          "31.67",
+          "30.67",
+          "164.19"
+        ],
+        [
+          "31-Mar-22",
+          "1747.60",
+          "4651.08",
+          "428.38",
+          "460.08",
+          "459.08",
+          "105.98"
+        ],
+        [
+          "30-Sep-22",
+          "2168.42",
+          "2931.08",
+          "470.37",
+          "930.45",
+          "929.45",
+          "139.03"
+        ]
+      ]
+    },
+    {
+      "heading": "Exhicon Events Media Solutions Ltd Stock Quote & Charts",
+      "sanitizedHeading": "exhicon_events_media_solutions_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "67.65%"
+        ],
+        [
+          "ROCE",
+          "144.58%"
+        ]
+      ]
+    },
+    {
+      "heading": "Exhicon Events Media Solutions Ltd Stock Quote & Charts",
+      "sanitizedHeading": "exhicon_events_media_solutions_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "8.08",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 31, 2023 to April 5, 2023",
+    "ipoListingDate": "Mon, Apr 17, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹64.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "33,00,000 shares (aggregating up to ₹21.12 Cr)",
+    "freshIssue": "33,00,000 shares (aggregating up to ₹21.12 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "3,30,000 shares",
+      "maker_name": "Share India Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/343/"
+    },
+    "ipoOpenDate": "Fri, Mar 31, 2023",
+    "ipoCloseDate": "Wed, Apr 5, 2023",
+    "initiationOfRefunds": "Wed, Apr 12, 2023",
+    "creditOfSharesToDemat": "Thu, Apr 13, 2023",
+    "shareHoldingPreIssue": "85,75,500 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "85,75,500 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "86.20%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,18,75,500 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,18,75,500 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "62.25%"
+      }
+    ]
+  },
+  "closing_date": "2023-04-04T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91- 8097538188",
+    "email": "cs@exhiconevents.in",
+    "full_address": "Exhicon Events Media Solutions Limited, 103 Crystal Paradise, DS Road off Veera Desai Road, Andheri (W) Mumbai City - 400053",
+    "website": "https://exhicongroup.com/"
+  },
+  "createdAt": "2025-04-18T17:40:43.986Z",
+  "faqs": [
+    {
+      "question": "What is the Exhicon Events IPO?",
+      "answer": "<div itemprop=\"text\"><p>Exhicon Events IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3300000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->21.12<!-- --> Crores. The issue is priced at <span>₹64 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 31, 2023</b>, and <b>closes on <!-- -->April 5, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Exhicon Events IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Exhicon Events IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Exhicon Events IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Exhicon Events IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Exhicon Events IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Exhicon Events IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Exhicon Events IPO opens on March 31, 2023 and closes on April 5, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Exhicon Events IPO?",
+      "answer": "<div itemprop=\"text\"><p>Exhicon Events IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,28,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Exhicon Events IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Exhicon Events IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Exhicon Events IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Exhicon Events IPO<!-- --> will be done on <!-- -->Tuesday, April 11, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, April 13, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/exhicon-events-media-solutions-ipo/1406/\" title=\"Exhicon Events IPO Allotment Status\">Exhicon Events IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Exhicon Events IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Exhicon Events IPO<!-- --> listing date is on <b>Monday, April 17, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Exhicon Events Media Solutions",
+  "issue_price": "₹64.00",
+  "issue_price_numeric": 64,
+  "issue_size": "33,00,000 shares (aggregating up to ₹21.12 Cr)",
+  "issue_size_numeric": 33,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Share India Capital Services Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/162/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/162/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "64.00"
+      },
+      "open": {
+        "bse_sme": "64.00"
+      },
+      "low": {
+        "bse_sme": "64.00"
+      },
+      "high": {
+        "bse_sme": "67.20"
+      },
+      "last_trade": {
+        "bse_sme": "67.20"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "April 17 2023",
+    "bse_script_code": "543895",
+    "isin": "INE0O8901016",
+    "final_issue_price": "64 per share"
+  },
+  "listing_date": "2023-04-16T18:30:00.000Z",
+  "listing_gains": "5.00%",
+  "listing_gains_numeric": 5,
+  "logo": "https://www.chittorgarh.net/images/ipo/exhicon-events-media-solutions-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/exhicon-events-media-solutions-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "128000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "128000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "256000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/exhicon-events-media-solutions-ipo/1406/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-03-30T18:30:00.000Z",
+  "pageHeading": "Exhicon Events Media Solutions Limited IPO (Exhicon Events IPO) Detail",
+  "pageTitle": "Exhicon Events IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Mohammad Quaim Syed and Ms. Padma Mishra are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "86.20%",
+      "share_holding_post_issue": "62.25%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Exhicon Events IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/345167/Exhicon_DRHP_20230306143500.pdf"
+    },
+    {
+      "text": "Exhicon Events IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2023/exhicon-events-media-solutions-limited-sme-issue-prospectus_70034.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/exhicon-events-media-solutions-ipo/1406/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "exhiconevents.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Exhicon Events IPO offers 3630000 shares. 1484000 (40.88%) to QIB 776000 (21.38%) to NII 1040000 (28.65%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "330000 (9.09%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1484000 (40.88%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "776000 (21.38%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1040000 (28.65%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3630000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:43.986Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Exhicon Events IPO is subscribed 1.95 times on April 5 2023 7:02:00 PM (Day 3). The public issue subscribed 2.31 times in the retail category 1 times in the QIB category and 3.28 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1",
+        "shares_offered": "1484000",
+        "shares_bid_for": "1484000"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "3.28",
+        "shares_offered": "776000",
+        "shares_bid_for": "2546000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.31",
+        "shares_offered": "1040000",
+        "shares_bid_for": "2402000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.95",
+        "shares_offered": "3300000",
+        "shares_bid_for": "6432000"
+      }
+    },
+    "total_applications": "1513",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on April 5 2023",
+    "tentative_allotment": "Tue Apr 11 2023",
+    "initiation_of_refunds": "Wed Apr 12 2023",
+    "credit_of_shares_to_demat": "Thu Apr 13 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:31.002Z",
+  "updated_at": "2025-04-18T17:40:43.986Z",
+  "year": 2023,
+  "worst_listing_gains": "5.00%",
+  "worst_listing_gains_numeric": 5
+}

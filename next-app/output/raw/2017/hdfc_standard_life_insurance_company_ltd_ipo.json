@@ -1,0 +1,583 @@
+{
+  "_id": "680298553ccffd1c7912cb03",
+  "ipo_id": "2017_hdfc_standard_life_insurance_company_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": false,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:05:44.027Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/hdfc-life-ipo/756/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2000, HDFC Standard Life Insurance Company Ltd (HDFC Life) is Mumbai based life insurance provider in India. HDFC Life offers a wide range of individual and group insurance solutions including Protection, Pension, Savings &amp; Investment and Health, along with Children's and Women's Plan.</p><p>HDFC Life is a joint venture between HDFC and Standard Life Aberdeen plc. HDFC is a leading financial service provider in India offering finance for housing, banking, life and general insurance, asset management, venture capital and education loans. Standard Life is an Edinburgh based investment company offering wide range of financial services across the globe. Standard Life is a public company established in 1825.</p><p>HDFC Life sells policies through a multi channel network. This includes direct sales through own branches, Insurance agents, Partner Banks and through other financial institutions. HDFC Life has over 414 branches and 15,406 full-time employees located across India. Company has over 58,147 individual agents.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Life Insurance IPO Compare",
+      "sanitizedHeading": "life_insurance_compare",
+      "headers": [
+        "Particulars",
+        "ICICI Prudentials",
+        "SBI Life Insurance",
+        "HDFC Std Life"
+      ],
+      "rows": [
+        [
+          "Group",
+          "ICICI",
+          "SBI",
+          "HDFC"
+        ],
+        [
+          "JV Partner",
+          "Prudential Life",
+          "BNP Paribas",
+          "Standard Life"
+        ],
+        [
+          "FV",
+          "10",
+          "10",
+          "10"
+        ],
+        [
+          "Price band",
+          "Rs. 300-334",
+          "Rs. 685-700",
+          "Rs. 275-290"
+        ],
+        [
+          "Shares allotted at",
+          "Rs. 334",
+          "Rs. 700",
+          "NA"
+        ],
+        [
+          "Issue Size (Rs. Crore",
+          "Rs. 6057 crore",
+          "Rs. 8400 crore",
+          "Rs. 8245-8695"
+        ],
+        [
+          "Minimum application lot",
+          "44 shares",
+          "21 shares",
+          "50 shares"
+        ],
+        [
+          "P/E at the time of IPO",
+          "29",
+          "55",
+          "65"
+        ],
+        [
+          "P/BV at the time of IPO",
+          "9",
+          "11.9",
+          "15"
+        ],
+        [
+          "RoE (FY15-17 average)",
+          "31.20%",
+          "20.10%",
+          "29.40%"
+        ],
+        [
+          "AUM (FY17) Rs. Bn.",
+          "Rs. 1229.0",
+          "Rs. 977.0",
+          "Rs. 917.0"
+        ],
+        [
+          "Solvency ratio (FY17)",
+          "281.00%",
+          "204%",
+          "192%"
+        ],
+        [
+          "Claim Settlement Ratio (FY17)",
+          "97.20%",
+          "98.00%",
+          "99.20%"
+        ],
+        [
+          "Issue constituted dilution of",
+          "19.10%",
+          "16%",
+          "14.90%"
+        ],
+        [
+          "Post issue promoter's holding",
+          "81%",
+          "84%",
+          "81.04%"
+        ],
+        [
+          "Issue date",
+          "19.09.16-21.09.16",
+          "20.09.17-22.09.17",
+          "07.11.17-09.11.17"
+        ],
+        [
+          "Listing on",
+          "BSE/NSE",
+          "BSE/NSE",
+          "BSE/NSE"
+        ],
+        [
+          "Issue subscribed by",
+          "10.48 times",
+          "3.55 times",
+          "NA"
+        ],
+        [
+          "Opened @ on listing day",
+          "Rs. 329.00",
+          "Rs. 733.30",
+          "NA"
+        ],
+        [
+          "High of Listing day",
+          "Rs. 333.90",
+          "Rs. 738.00",
+          "NA"
+        ],
+        [
+          "Low of Listing day",
+          "Rs. 295.50",
+          "Rs. 702.25",
+          "NA"
+        ],
+        [
+          "Close on listing day",
+          "Rs. 297.65",
+          "Rs. 708.00",
+          "NA"
+        ],
+        [
+          "Mkt Share (FY17)",
+          "15.50%",
+          "20%",
+          "17.20%"
+        ],
+        [
+          "Total No. of Products",
+          "28",
+          "39",
+          "40"
+        ],
+        [
+          "EV (FY17) Rs. Bn.",
+          "Rs. 161.8",
+          "Rs. 165.4",
+          "Rs. 123.90"
+        ],
+        [
+          "Dividend pay out ratio",
+          "39.50%",
+          "18.90%",
+          "29.60%"
+        ],
+        [
+          "Surrender Ratio (v/s total premium) (FY17)",
+          "52.76%",
+          "22.79%",
+          "31.33%"
+        ],
+        [
+          "Market share (Industry level) FY17",
+          "12%",
+          "11.20%",
+          "6.80%"
+        ],
+        [
+          "Market share (Private Sector) FY17",
+          "22.30%",
+          "20.70%",
+          "12.70%"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "November 7, 2017 to November 9, 2017",
+    "ipoListingDate": "Fri, Nov 17, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹290.00",
+    "lotSize": "50 Shares",
+    "issueSize": "29,98,27,818 shares (aggregating up to ₹8,695.01 Cr)",
+    "offerForSale": "29,98,27,818 shares of ₹10 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Nov 7, 2017",
+    "ipoCloseDate": "Thu, Nov 9, 2017",
+    "initiationOfRefunds": "Wed, Nov 15, 2017",
+    "creditOfSharesToDemat": "Thu, Nov 16, 2017",
+    "shareHoldingPreIssue": "2,00,89,73,222 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,00,89,73,222 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "2,00,89,73,222 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,00,89,73,222 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-11-08T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 (22) 6751 6666",
+    "email": "investor.service@hdfclife.com",
+    "full_address": "HDFC Standard Life Insurance Company Ltd, 13th Floor Lodha Excelus Apollo Mills Compound, N.M. Joshi Marg Mahalaxmi, Mumbai 400 011",
+    "website": "https://www.hdfclife.com/"
+  },
+  "createdAt": "2025-04-18T18:22:13.040Z",
+  "faqs": [
+    {
+      "question": "What is the HDFC Life IPO?",
+      "answer": "<div itemprop=\"text\"><p>HDFC Life IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->299827818<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->8,695.01<!-- --> Crores. The issue is priced at <span>₹290 per share</span>. The minimum order quantity is <!-- -->50<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 7, 2017</b>, and <b>closes on <!-- -->November 9, 2017</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in HDFC Life IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->HDFC Life IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->HDFC Life IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->HDFC Life IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->HDFC Life IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When HDFC Life IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The HDFC Life IPO opens on November 7, 2017 and closes on November 9, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of HDFC Life IPO?",
+      "answer": "<div itemprop=\"text\"><p>HDFC Life IPO<!-- --> <b>lot size is <!-- -->50</b>, and the <b>minimum amount required is <span>₹14,500</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for HDFC Life IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->HDFC Life IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is HDFC Life IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->HDFC Life IPO<!-- --> will be done on <!-- -->Tuesday, November 14, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, November 16, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/hdfc-life-ipo/756/\" title=\"HDFC Life IPO Allotment Status\">HDFC Life IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is HDFC Life IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->HDFC Life IPO<!-- --> listing date is on <b>Friday, November 17, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "HDFC Standard Life Insurance Company",
+  "issue_price": "₹290.00",
+  "issue_price_numeric": 290,
+  "issue_size": "29,98,27,818 shares (aggregating up to ₹8,695.01 Cr)",
+  "issue_size_numeric": 29,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Clsa India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/142/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/142/"
+    },
+    {
+      "name": "Credit Suisse Securities",
+      "url": "/report/ipo-lead-manager-review/112/111/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/111/"
+    },
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Haitong Securities India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/135/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/135/"
+    },
+    {
+      "name": "Hdfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/82/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/82/"
+    },
+    {
+      "name": "Idfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/134/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/134/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Morgan Stanley India Company Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/31/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/31/"
+    },
+    {
+      "name": "Nomura Financial Advisory And Securities",
+      "url": "/report/ipo-lead-manager-review/112/72/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/72/"
+    },
+    {
+      "name": "Ubs Securities India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/13/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/13/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "290.00",
+        "nse": "290.00"
+      },
+      "open": {
+        "bse": "311.00",
+        "nse": "310.00"
+      },
+      "low": {
+        "bse": "307.65",
+        "nse": "307.00"
+      },
+      "high": {
+        "bse": "369.00",
+        "nse": "369.00"
+      },
+      "last_trade": {
+        "bse": "344.25",
+        "nse": "344.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 17 2017",
+    "bse_script_code": "540777",
+    "nse_symbol": "HDFCLIFE",
+    "isin": "INE795G01014",
+    "final_issue_price": "290 per share"
+  },
+  "listing_date": "2017-11-16T18:30:00.000Z",
+  "listing_gains": "18.71%",
+  "listing_gains_numeric": 18.71,
+  "logo": "https://www.chittorgarh.net/images/ipo/hdfc-life-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/hdfc-life-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 50 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "50",
+        "amount": "14500"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "650",
+        "amount": "188500"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "700",
+        "amount": "203000"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "3400",
+        "amount": "986000"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "3450",
+        "amount": "1000500"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/hdfc-life-ipo/756/"
+    }
+  },
+  "lot_size": 50,
+  "opening_date": "2017-11-06T18:30:00.000Z",
+  "pageHeading": "HDFC Standard Life Insurance Company Ltd IPO (HDFC Life IPO) Detail",
+  "pageTitle": "HDFC Life IPO Date, Price, GMP, Review, Analysis & Details",
+  "prospectusLinks": [
+    {
+      "text": "HDFC Life IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2017/hdfc-standard-life-insurance-company-limited_35715.html"
+    },
+    {
+      "text": "HDFC Life IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2017/hdfc-standard-life-insurance-company-limited_36603.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "8",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/hdfc-life-ipo/756/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "HDFC Life IPO offers 219759218 shares. 53379158 (24.29%) to QIB 40034328 (18.22%) to NII 93413431 (42.51%) to RII 2949520 (1.34%) to employees. 1868268 RIIs will receive minimum 50 shares and (sNII) and (bNII) will receive minimum 700 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "53379158 (24.29%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "40034328 (18.22%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "93413431 (42.51%)",
+        "maximum_allottees": "1868268"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "2949520 (1.34%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "29982781 (13.64%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "219759218 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:13.039Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The HDFC Life IPO is subscribed 4.89 times on November 9 2017 7:00:00 PM (Day 3). The public issue subscribed 0.91 times in the retail category 16.6 times in the QIB category and 2.29 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "16.6",
+        "shares_offered": "53379158"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.29",
+        "shares_offered": "40034328"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.91",
+        "shares_offered": "93413431"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.22",
+        "shares_offered": "2949520"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "0.29",
+        "shares_offered": "29982781"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "4.89",
+        "shares_offered": "219759218"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 9 2017",
+    "tentative_allotment": "Tue Nov 14 2017",
+    "initiation_of_refunds": "Wed Nov 15 2017",
+    "credit_of_shares_to_demat": "Thu Nov 16 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:48.879Z",
+  "updated_at": "2025-04-18T18:22:13.039Z",
+  "year": 2017,
+  "worst_listing_gains": "18.71%",
+  "worst_listing_gains_numeric": 18.71
+}

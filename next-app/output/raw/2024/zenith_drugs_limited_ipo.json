@@ -1,0 +1,453 @@
+{
+  "_id": "68024a043ccffd1c7912c840",
+  "ipo_id": "2024_zenith_drugs_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:40:07.578Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/zenith-drugs-ipo/1653/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2000, Zenith Drugs Limited is a pharmaceutical company specialising in manufacturing and trading high-quality, affordable medicines, including generic drugs.</p>\n<p>The company adheres to WHO-GMP guidelines and has received the ISO 9001:2015 certification from a respected EuroUK certification body, demonstrating its commitment to quality.</p>\n<p>The product portfolio of the company includes&nbsp;</p>\n<ul>\n<li>ORS Powder;</li>\n<li>Liquid Orals;</li>\n<li>Ointments;</li>\n<li>Liquid Externals; and</li>\n<li>Capsules</li>\n</ul>\n<p>The Food &amp; Drugs Administration has approved over 600 products, of which 325 are currently in production.</p>\n<p>The company is in the process of setting up a new manufacturing facility in&nbsp;Village Muradpura, Depalpur, Indore, Madhya Pradesh.</p>\n<p>The company supplies its products to countries such as&nbsp;Costa Rica in Central America and the Caribbean and Pacific regions, Malawi, Mauritius, Mozambique, Sudan, Tanzania, Bhutan , Cambodia in Southeast Asia, Tajikistan, Liberia, Sierra Leone, and Conakry.</p>\n<p>Zenith Drugs Limited specializes in third-party manufacturing, also known as white label manufacturing, for esteemed pharmaceutical companies such as Ajanta Pharma, Bio Medical Laboratories, and Zest Pharma, among others.</p>\n<p>There are currently 89 employees as of March 31, 2023 - 61 on payroll and 28 on contract.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Zenith Drugs Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "11249.04",
+          "9793.83",
+          "6858.47"
+        ],
+        [
+          "Revenue",
+          "6948.43",
+          "11569.65",
+          "9266.63"
+        ],
+        [
+          "Profit After Tax",
+          "539.38",
+          "515.29",
+          "312.86"
+        ],
+        [
+          "Net Worth",
+          "2264.96",
+          "1724.42",
+          "1209.09"
+        ],
+        [
+          "Reserves and Surplus",
+          "1064.96",
+          "1684.42",
+          "1169.09"
+        ],
+        [
+          "Total Borrowing",
+          "2902.81",
+          "2605.03",
+          "1880.86"
+        ]
+      ]
+    },
+    {
+      "heading": "Zenith Drugs Limited Stock Quote & Charts",
+      "sanitizedHeading": "zenith_drugs_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "35.13%"
+        ],
+        [
+          "ROCE",
+          "37.29%"
+        ],
+        [
+          "Debt/Equity",
+          "1.51"
+        ],
+        [
+          "RoNW",
+          "29.88%"
+        ],
+        [
+          "Price to Book Value",
+          "5.50"
+        ]
+      ]
+    },
+    {
+      "heading": "Zenith Drugs Limited Stock Quote & Charts",
+      "sanitizedHeading": "zenith_drugs_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.29",
+          "6.29"
+        ],
+        [
+          "P/E (x)",
+          "18.4",
+          "12.56"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Zenith Drugs IPO raises Rs 10.18 crore from anchor investors. Zenith Drugs IPO Anchor bid date is February 16 2024. Zenith Drugs IPO Anchor Investors list",
+    "list_link": {
+      "text": "Zenith Drugs IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/zenith-drugs-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "May 23 2024",
+      "shares_offered": "1288000",
+      "anchor_portion_size": "10.18"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "February 19, 2024 to February 22, 2024",
+    "ipoListingDate": "Tue, Feb 27, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹79.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "51,48,800 shares (aggregating up to ₹40.68 Cr)",
+    "freshIssue": "51,48,800 shares (aggregating up to ₹40.68 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "8,52,800 shares",
+      "maker_name": "Gretex Share Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/247/"
+    },
+    "ipoOpenDate": "Mon, Feb 19, 2024",
+    "ipoCloseDate": "Thu, Feb 22, 2024",
+    "initiationOfRefunds": "Mon, Feb 26, 2024",
+    "creditOfSharesToDemat": "Mon, Feb 26, 2024",
+    "shareHoldingPreIssue": "1,20,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,20,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,71,48,800 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,71,48,800 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "69.98%"
+      }
+    ]
+  },
+  "closing_date": "2024-02-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 8435501867",
+    "email": "info@zenithdrugs.com",
+    "full_address": "Zenith Drugs Limited, K. No. 72 / 5 Village Muradpura, NA Depalpur, Indore-453001",
+    "website": "https://zenithdrugs.com/"
+  },
+  "createdAt": "2025-04-18T12:48:03.946Z",
+  "faqs": [
+    {
+      "question": "What is the Zenith Drugs IPO?",
+      "answer": "<div itemprop=\"text\"><p>Zenith Drugs IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5148800<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->40.68<!-- --> Crores. The issue is priced at <span>₹79 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 19, 2024</b>, and <b>closes on <!-- -->February 22, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Zenith Drugs IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Zenith Drugs IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Zenith Drugs IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Zenith Drugs IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Zenith Drugs IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Zenith Drugs IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Zenith Drugs IPO opens on February 19, 2024 and closes on February 22, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Zenith Drugs IPO?",
+      "answer": "<div itemprop=\"text\"><p>Zenith Drugs IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,26,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Zenith Drugs IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Zenith Drugs IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Zenith Drugs IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Zenith Drugs IPO<!-- --> will be done on <!-- -->Friday, February 23, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, February 26, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/zenith-drugs-ipo/1653/\" title=\"Zenith Drugs IPO Allotment Status\">Zenith Drugs IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Zenith Drugs IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Zenith Drugs IPO<!-- --> listing date is on <b>Tuesday, February 27, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Zenith Drugs",
+  "issue_price": "₹79.00",
+  "issue_price_numeric": 79,
+  "issue_size": "51,48,800 shares (aggregating up to ₹40.68 Cr)",
+  "issue_size_numeric": 51,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Gretex Corporate Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/123/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/123/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "79.00"
+      },
+      "open": {
+        "nse_sme": "110.00"
+      },
+      "low": {
+        "nse_sme": "104.50"
+      },
+      "high": {
+        "nse_sme": "114.50"
+      },
+      "last_trade": {
+        "nse_sme": "105.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "February 27 2024",
+    "nse_symbol": "ZENITHDRUG",
+    "isin": "INE0QWN01013",
+    "final_issue_price": "79 per share"
+  },
+  "listing_date": "2024-02-26T18:30:00.000Z",
+  "listing_gains": "33.10%",
+  "listing_gains_numeric": 33.1,
+  "logo": "https://www.chittorgarh.net/images/ipo/zenith-drugs-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/zenith-drugs-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "126400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "126400"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "252800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/zenith-drugs-ipo/1653/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-02-18T18:30:00.000Z",
+  "pageHeading": "Zenith Drugs Limited IPO (Zenith Drugs IPO) Detail",
+  "pageTitle": "Zenith Drugs IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Mr. Sandeep Bhardwaj Mr. Bhupesh Soni and Mr. Ajay Singh Dassundi",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "69.98%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Zenith Drugs IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ZenithDrugs_DRHP.pdf"
+    },
+    {
+      "text": "Zenith Drugs IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/ZenithDrugs_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Zenith Drugs IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/zenith-drugs-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/zenith-drugs-ipo/1653/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Zenith Drugs IPO offers 5148800 shares. 859200 (16.69%) to QIB 644800 (12.52%) to NII 1504000 (29.21%) to RII and 1288000 (25.02%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1288000 (25.02%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "852800 (16.56%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "859200 (16.69%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "644800 (12.52%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1504000 (29.21%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5148800 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.946Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Zenith Drugs IPO is subscribed 179.18 times on February 22 2024 6:21:00 PM (Day 4). The public issue subscribed 139.28 times in the retail category 106.72 times in the QIB category and 368.77 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "106.72",
+        "shares_offered": "859200",
+        "shares_bid_for": "91697600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "368.77",
+        "shares_offered": "644800",
+        "shares_bid_for": "237782400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "139.28",
+        "shares_offered": "1504000",
+        "shares_bid_for": "209481600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "179.18",
+        "shares_offered": "3008000",
+        "shares_bid_for": "538961600"
+      }
+    },
+    "total_applications": "130926",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 22 2024",
+    "tentative_allotment": "Fri Feb 23 2024",
+    "initiation_of_refunds": "Mon Feb 26 2024",
+    "credit_of_shares_to_demat": "Mon Feb 26 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:23.028Z",
+  "updated_at": "2025-04-18T12:48:03.946Z",
+  "year": 2024,
+  "worst_listing_gains": "33.10%",
+  "worst_listing_gains_numeric": 33.1
+}

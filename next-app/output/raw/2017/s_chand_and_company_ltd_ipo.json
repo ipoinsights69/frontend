@@ -1,0 +1,339 @@
+{
+  "_id": "680298563ccffd1c7912cb4c",
+  "ipo_id": "2017_s_chand_and_company_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": false,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:09:42.833Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/s-chand-and-company-ipo/651/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1970, S Chand And Company Limited operates as an education content company in India. The company develops and delivers content, solutions, and services in the education K-12, higher education, and early learning segments.</p><p>Company is involved in publishing, printing, sale, purchase, export, and import of various books and other literary work; agency ship and distribution of publishers for books and other literary work; selling of educational toys; and publishing books for children, schools, colleges, and universities, as well as digital content and interactive learning systems to schools and running pre-schools.</p><p>The company also provides digital data management services and digital content books to schools and colleges; solutions for higher education in colleges, universities, and technical institutes; and DTP printing, DTP jobs, page making, editing and proof reading, and cover designing services of books, journals, tabloids, magazines, bulletins, brochures, and periodicals in the form of hard copy, compact disks, and e-forms. S Chand And Company Ltd offers 53  consumer  brands  across  knowledge  products  and  services  including S.chand, Vikas, Madhubun, Saraswati, Destination Success and Ignitor. The company also exports its printed and digital content to Asia, the Middle East, Africa, and internationally.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Dec-16",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13",
+          "31-Mar-12"
+        ],
+        [
+          "Total Assets",
+          "7431.94",
+          "6854.89",
+          "5315.98",
+          "4242.82",
+          "3988.05",
+          "2076.88"
+        ],
+        [
+          "Total Revenue",
+          "922.12",
+          "2822.53",
+          "2357.88",
+          "2300.32",
+          "1921.72",
+          "1713.21"
+        ],
+        [
+          "Profit After Tax (PAT)",
+          "(300.39)",
+          "164.80",
+          "76.85",
+          "108.62",
+          "71.65",
+          "88.53"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "April 26, 2017 to April 28, 2017",
+    "ipoListingDate": "Tue, May 9, 2017",
+    "faceValue": "₹5 per share",
+    "issuePrice": "₹670.00",
+    "lotSize": "22 Shares",
+    "issueSize": "1,08,73,982 shares (aggregating up to ₹728.56 Cr)",
+    "freshIssue": "48,50,746 shares (aggregating up to ₹325.00 Cr)",
+    "offerForSale": "60,23,236 shares of ₹5 (aggregating up to ₹403.56 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Apr 26, 2017",
+    "ipoCloseDate": "Fri, Apr 28, 2017",
+    "initiationOfRefunds": "Fri, May 5, 2017",
+    "creditOfSharesToDemat": "Mon, May 8, 2017",
+    "shareHoldingPreIssue": "2,98,44,496 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "2,98,44,496 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "3,46,95,242 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "3,46,95,242 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-04-27T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 11 4973 1800",
+    "email": "investors @schandgroup.com",
+    "full_address": "S Chand and Company Ltd, Ravindra Mansion, Ramnagar, New Delhi 110055",
+    "website": "http://www.schandgroup.com"
+  },
+  "createdAt": "2025-04-18T18:22:14.404Z",
+  "faqs": [
+    {
+      "question": "What is the S Chand and Company IPO?",
+      "answer": "<div itemprop=\"text\"><p>S Chand and Company IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->10873982<!-- --> equity shares</b> of the face value of ₹<!-- -->5<!-- --> aggregating up to ₹<!-- -->728.56<!-- --> Crores. The issue is priced at <span>₹670 per share</span>. The minimum order quantity is <!-- -->22<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->April 26, 2017</b>, and <b>closes on <!-- -->April 28, 2017</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in S Chand and Company IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->S Chand and Company IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->S Chand and Company IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->S Chand and Company IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->S Chand and Company IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When S Chand and Company IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The S Chand and Company IPO opens on April 26, 2017 and closes on April 28, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of S Chand and Company IPO?",
+      "answer": "<div itemprop=\"text\"><p>S Chand and Company IPO<!-- --> <b>lot size is <!-- -->22</b>, and the <b>minimum amount required is <span>₹14,740</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for S Chand and Company IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->S Chand and Company IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is S Chand and Company IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->S Chand and Company IPO<!-- --> will be done on <!-- -->Thursday, May 4, 2017<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, May 8, 2017<!-- -->. Check the <a href=\"/ipo_allotment_status/s-chand-and-company-ipo/651/\" title=\"S Chand and Company IPO Allotment Status\">S Chand and Company IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is S Chand and Company IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->S Chand and Company IPO<!-- --> listing date is on <b>Tuesday, May 9, 2017</b>.</p></div>"
+    }
+  ],
+  "ipoName": "S Chand and Company",
+  "issue_price": "₹670.00",
+  "issue_price_numeric": 670,
+  "issue_size": "1,08,73,982 shares (aggregating up to ₹728.56 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/42/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/42/"
+    },
+    {
+      "name": "Credit Suisse Securities",
+      "url": "/report/ipo-lead-manager-review/112/111/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/111/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "670.00",
+        "nse": "670.00"
+      },
+      "open": {
+        "bse": "707.00",
+        "nse": "700.00"
+      },
+      "low": {
+        "bse": "658.00",
+        "nse": "658.20"
+      },
+      "high": {
+        "bse": "707.00",
+        "nse": "700.00"
+      },
+      "last_trade": {
+        "bse": "675.85",
+        "nse": "676.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 9 2017",
+    "bse_script_code": "540497",
+    "nse_symbol": "SCHAND",
+    "isin": "INE807K01035",
+    "final_issue_price": "670 per share"
+  },
+  "listing_date": "2017-05-08T18:30:00.000Z",
+  "listing_gains": "0.87%",
+  "listing_gains_numeric": 0.87,
+  "logo": "https://www.chittorgarh.net/images/ipo/schand_and_company_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/schand_and_company_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 22 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "22",
+        "amount": "14740"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "286",
+        "amount": "191620"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "308",
+        "amount": "206360"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "1474",
+        "amount": "987580"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "1496",
+        "amount": "1002320"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/s-chand-and-company-ipo/651/"
+    }
+  },
+  "lot_size": 22,
+  "opening_date": "2017-04-25T18:30:00.000Z",
+  "pageHeading": "S Chand and Company Ltd IPO (S Chand and Company IPO) Detail",
+  "pageTitle": "S Chand and Company IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "S Chand and Company IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2016/s-chand-and-company-limited_33820.html"
+    },
+    {
+      "text": "S Chand and Company IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2017/s-chand-and-company-limited_34736.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "6",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/s-chand-and-company-ipo/651/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "schand.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "scraped_at": "2025-04-18T18:22:14.404Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The S Chand and Company IPO is subscribed 59.49 times on April 28 2017 5:00:00 PM (Day 3). The public issue subscribed 6.07 times in the retail category 44.27 times in the QIB category and 204.65 times in the NII category. Check Day by Day Subscription Details (Live Status)"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on April 28 2017",
+    "tentative_allotment": "Thu May 4 2017",
+    "initiation_of_refunds": "Fri May 5 2017",
+    "credit_of_shares_to_demat": "Mon May 8 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:59.385Z",
+  "updated_at": "2025-04-18T18:22:14.404Z",
+  "year": 2017,
+  "worst_listing_gains": "0.87%",
+  "worst_listing_gains_numeric": 0.87
+}

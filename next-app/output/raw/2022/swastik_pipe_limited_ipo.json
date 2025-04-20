@@ -1,0 +1,384 @@
+{
+  "_id": "6802936c3ccffd1c7912cab2",
+  "ipo_id": "2022_swastik_pipe_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:56:30.381Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/swastik-pipe-ipo/1317/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1973, Swastik Pipe Limited is the <strong>manufacturer and exporter of Mild Steel/Carbon Steel ERW Black and Galvanized Pipes, Hallow Steel Pipe, API Pipe, Stainless Steel Tubes, Cold Rolled Steel (CR) Strips/ Coils, Swaged Type Tubular Poles, and Solar Structure.</strong></p>\n<p>The company has two plants located at Bahadurgarh, Distt. Jharjjar, Haryana (Unit no.1) and at Kotwan, Kosi Kalan, Distt. Mathura, Uttar Pradesh (Unit No. 2) with an installed capacity, both units aggregating 2,01,250 MT.</p>\n<p>Swastik Pipe has diversified its Manufacturing activities towards the production of Solar Module Mounting Structures, Transmission Towers, Steel Tubular Poles and Solar Poles Special Structure for Railways, Scaffolding and Formwork.</p>\n<p>Swastik Pipe Ltd is one of the oldest manufacturers and suppliers of steel pipes and tubes to various heavy engineering industries in India and abroad. The company's customers are HPSCSC, SHIMLA, Emanate Pipe Private Limited, Vindhya Telelinks Limited, Harsh Steel Pipes, and SUPER STAR STEELS (P) LTD., among others.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus"
+      ],
+      "rows": [
+        [
+          "31-Mar-19",
+          "35607.65",
+          "72756.38",
+          "467.97",
+          "9370.13",
+          "8450.03"
+        ],
+        [
+          "31-Mar-20",
+          "33650.76",
+          "65807.21",
+          "-1389.25",
+          "7980.91",
+          "7060.78"
+        ],
+        [
+          "31-Mar-21",
+          "33625.88",
+          "52383.88",
+          "148.64",
+          "8129.51",
+          "7209.42"
+        ],
+        [
+          "31-Mar-22",
+          "34127.21",
+          "61219.77",
+          "2041.11",
+          "14169.42",
+          "12471.47"
+        ]
+      ]
+    },
+    {
+      "heading": "Swastik Pipe Limited Stock Quote & Charts",
+      "sanitizedHeading": "swastik_pipe_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "11.38",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 29, 2022 to October 3, 2022",
+    "ipoListingDate": "Wed, Oct 12, 2022",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹100.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "62,52,000 shares (aggregating up to ₹62.52 Cr)",
+    "freshIssue": "62,52,000 shares (aggregating up to ₹62.52 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "3,14,400 shares",
+    "ipoOpenDate": "Thu, Sep 29, 2022",
+    "ipoCloseDate": "Mon, Oct 3, 2022",
+    "initiationOfRefunds": "Mon, Oct 10, 2022",
+    "creditOfSharesToDemat": "Tue, Oct 11, 2022",
+    "shareHoldingPreIssue": "1,69,79,460 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,69,79,460 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "88.27%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,32,31,460 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,32,31,460 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "64.51%"
+      }
+    ]
+  },
+  "closing_date": "2022-10-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-11-35453545",
+    "email": "cs@swastikpipes.com",
+    "full_address": "Swastik Pipe Limited, 2, Arihant Nagar, Punjabi Bagh (W)",
+    "website": "https://swastikpipes.com/"
+  },
+  "createdAt": "2025-04-18T18:01:16.156Z",
+  "faqs": [
+    {
+      "question": "What is the Swastik Pipe IPO?",
+      "answer": "<div itemprop=\"text\"><p>Swastik Pipe IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6252000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->62.52<!-- --> Crores. The issue is priced at <span>₹100 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 29, 2022</b>, and <b>closes on <!-- -->October 3, 2022</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Swastik Pipe IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Swastik Pipe IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Swastik Pipe IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Swastik Pipe IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Swastik Pipe IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Swastik Pipe IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Swastik Pipe IPO opens on September 29, 2022 and closes on October 3, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Swastik Pipe IPO?",
+      "answer": "<div itemprop=\"text\"><p>Swastik Pipe IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Swastik Pipe IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Swastik Pipe IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Swastik Pipe IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Swastik Pipe IPO<!-- --> will be done on <!-- -->Friday, October 7, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, October 11, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/swastik-pipe-ipo/1317/\" title=\"Swastik Pipe IPO Allotment Status\">Swastik Pipe IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Swastik Pipe IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Swastik Pipe IPO<!-- --> listing date is on <b>Wednesday, October 12, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Swastik Pipe",
+  "issue_price": "₹100.00",
+  "issue_price_numeric": 100,
+  "issue_size": "62,52,000 shares (aggregating up to ₹62.52 Cr)",
+  "issue_size_numeric": 62,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Corporate Capitalventures Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/143/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/143/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "100.00"
+      },
+      "open": {
+        "nse_sme": "66.00"
+      },
+      "low": {
+        "nse_sme": "66.00"
+      },
+      "high": {
+        "nse_sme": "69.30"
+      },
+      "last_trade": {
+        "nse_sme": "69.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 12 2022",
+    "nse_symbol": "SWASTIK",
+    "isin": "INE0DGC01025",
+    "final_issue_price": "100 per share"
+  },
+  "listing_date": "2022-10-11T18:30:00.000Z",
+  "listing_gains": "-30.70%",
+  "listing_gains_numeric": -30.7,
+  "logo": "https://www.chittorgarh.net/images/ipo/swastik-pipe-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/swastik-pipe-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/swastik-pipe-ipo/1317/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2022-09-28T18:30:00.000Z",
+  "pageHeading": "Swastik Pipe Limited IPO (Swastik Pipe IPO) Detail",
+  "pageTitle": "Swastik Pipe IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Sandeep Bansal Smt. Geeta Devi Aggarwal Mrs. Anupama Bansal and Mr. Shashwat Bansal are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "88.27%",
+      "share_holding_post_issue": "64.51%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Swastik Pipe IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SwastikPipesLimited_DP.pdf"
+    },
+    {
+      "text": "Swastik Pipe IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SwastikPipes_RHP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/swastik-pipe-ipo/1317/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "compliances@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Swastik Pipe IPO offers 6252000 shares. 2968800 (47.49%) to NII 2968800 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "314400 (5.03%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2968800 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2968800 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6252000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:16.156Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Swastik Pipe IPO is subscribed 1.35 times on October 3 2022 7:00:00 PM (Day 3). The public issue subscribed 1.33 times in the retail category [.] times in the QIB category and 1.37 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.37",
+        "shares_offered": "2968800",
+        "shares_bid_for": "4069200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.33",
+        "shares_offered": "2968800",
+        "shares_bid_for": "3956400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.35",
+        "shares_offered": "5937600",
+        "shares_bid_for": "8025600"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 3 2022",
+    "tentative_allotment": "Fri Oct 7 2022",
+    "initiation_of_refunds": "Mon Oct 10 2022",
+    "credit_of_shares_to_demat": "Tue Oct 11 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:35.774Z",
+  "updated_at": "2025-04-18T18:01:16.156Z",
+  "year": 2022,
+  "worst_listing_gains": "-30.70%",
+  "worst_listing_gains_numeric": -30.7
+}

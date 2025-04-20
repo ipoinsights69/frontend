@@ -1,0 +1,359 @@
+{
+  "_id": "6802985c3ccffd1c7912cc5f",
+  "ipo_id": "2019_white_organic_retail_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:20:01.653Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/white-organic-ipo/987/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2011, Mumbai based White Organic Retail Ltd is engaged in the trading of agriculture products such as Vegetables, Fruits, Grains, Pulses, and Cereals. Initially, before Sept 2016, the company was named as Sapna Infraventure Private Limited and involved in Real Estate Development Activity. In Oct 2016, the company started retailing and distribution operations of Organic Products. It had a store for the commercial operation at Chembur, Mumbai which is closed now. Although, the company is about to open the new store at Bhandup (West), Mumbai. </p><p><b>Future Plans:</b><br>The company has future plans to expand distribution and retail network, which are as follow:</p><p>1. It is planning to establish more than 40 retail outlets. <br>2. The company will launch new products such as Aloe Vera Juices, Incence Sticks, Aloe Vera Gel, Soap, Mukhwas, Health Powders, Syrups, Churans, Snacks, Sweetners, Cow Ghee, Jaggery, Beauty Products, etc. <br>3. It is also looking to introduce the capsule range of Jvara, Haldi, Amla, etc; and medicinal powders of Rasayan, Moringa, Ashwagandha, Gokharu, etc. <br>4. The management of the company is also looking to introduce eCommerce website and mobile application soon.<br>5. White Organic Retail Ltd also has plans to start export operations in future. </p><p><b>The competitive strengths of the company are:</b><br>1. A strong client base<br>2. Wide product range<br>3. Effective supplier relationship</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Dec-18",
+          "31-Mar-18",
+          "31-Mar-17",
+          "31-Mar-16"
+        ],
+        [
+          "Total Assets",
+          "6022.65",
+          "5017.40",
+          "1447.81",
+          "1276.55"
+        ],
+        [
+          "Total Revenue",
+          "11549.52",
+          "8292.76",
+          "142.62",
+          "-"
+        ],
+        [
+          "Profit After Tax",
+          "450.78",
+          "302.45",
+          "58.68",
+          "23.90"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "April 26, 2019 to May 2, 2019",
+    "ipoListingDate": "Fri, May 10, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹63.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "24,54,000 shares (aggregating up to ₹15.46 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": "1,24,000 shares",
+    "ipoOpenDate": "Fri, Apr 26, 2019",
+    "ipoCloseDate": "Thu, May 2, 2019",
+    "initiationOfRefunds": "Wed, May 8, 2019",
+    "creditOfSharesToDemat": "Thu, May 9, 2019",
+    "shareHoldingPreIssue": "30,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "30,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "54,54,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "54,54,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "55.01%"
+      }
+    ]
+  },
+  "closing_date": "2019-05-01T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "022 25011983",
+    "email": "info@whiteorganics.co.in",
+    "full_address": "White Organic Retail Limited, 312A Kailas Plaza Vallabh Baug Lane, Ghatkopar (East) Mumbai, Mumbai City India 400077",
+    "website": "http://www.whiteorganics.co.in/"
+  },
+  "createdAt": "2025-04-18T18:22:19.992Z",
+  "faqs": [
+    {
+      "question": "What is the White Organic IPO?",
+      "answer": "<div itemprop=\"text\"><p>White Organic IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2454000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->15.46<!-- --> Crores. The issue is priced at <span>₹63 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->April 26, 2019</b>, and <b>closes on <!-- -->May 2, 2019</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in White Organic IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->White Organic IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->White Organic IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->White Organic IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->White Organic IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When White Organic IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The White Organic IPO opens on April 26, 2019 and closes on May 2, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of White Organic IPO?",
+      "answer": "<div itemprop=\"text\"><p>White Organic IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,26,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for White Organic IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->White Organic IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is White Organic IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->White Organic IPO<!-- --> will be done on <!-- -->Tuesday, May 7, 2019<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, May 9, 2019<!-- -->. Check the <a href=\"/ipo_allotment_status/white-organic-ipo/987/\" title=\"White Organic IPO Allotment Status\">White Organic IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is White Organic IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->White Organic IPO<!-- --> listing date is on <b>Friday, May 10, 2019</b>.</p></div>"
+    }
+  ],
+  "ipoName": "White Organic Retail",
+  "issue_price": "₹63.00",
+  "issue_price_numeric": 63,
+  "issue_size": "24,54,000 shares (aggregating up to ₹15.46 Cr)",
+  "issue_size_numeric": 24,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Finshore Management Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/147/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/147/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "63.00"
+      },
+      "open": {
+        "bse_sme": "64.20"
+      },
+      "low": {
+        "bse_sme": "64.00"
+      },
+      "high": {
+        "bse_sme": "64.45"
+      },
+      "last_trade": {
+        "bse_sme": "64.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 10 2019",
+    "bse_script_code": "542667",
+    "isin": "INE06CG01019",
+    "final_issue_price": "63 per share"
+  },
+  "listing_date": "2019-05-09T18:30:00.000Z",
+  "listing_gains": "2.06%",
+  "listing_gains_numeric": 2.06,
+  "logo": "https://www.chittorgarh.net/images/ipo/white-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/white-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "126000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "126000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "252000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/white-organic-ipo/987/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2019-04-25T18:30:00.000Z",
+  "pageHeading": "White Organic Retail Limited IPO (White Organic IPO) Detail",
+  "pageTitle": "White Organic IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Prashant Mahesh Rupani Darshak Mahesh Rupani and White Organic Agro Ltd are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "55.01%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "White Organic IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/345397/IPO/DRHP_White%20Organic_28.03.2019_Final_20190328132452.pdf"
+    },
+    {
+      "text": "White Organic IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/345397/IPO%20Open/Prospectus_WORL_16.04.2019_ROC_20190416131252.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/white-organic-ipo/987/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "worl.ipo@linktime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "White Organic IPO offers 2454000 shares. 1165000 (47.47%) to NII 1165000 (47.47%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "124000 (5.05%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1165000 (47.47%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1165000 (47.47%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2454000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:19.992Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The White Organic IPO is subscribed 1.36 times on May 2 2019 6:49:00 PM (Day 5). The public issue subscribed 0.7 times in the retail category [.] times in the QIB category and 2.02 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.02",
+        "shares_offered": "1165000",
+        "shares_bid_for": "2358000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.7",
+        "shares_offered": "1165000",
+        "shares_bid_for": "818000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.36",
+        "shares_offered": "2330000",
+        "shares_bid_for": "3176000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 2 2019",
+    "tentative_allotment": "Tue May 7 2019",
+    "initiation_of_refunds": "Wed May 8 2019",
+    "credit_of_shares_to_demat": "Thu May 9 2019"
+  },
+  "updatedAt": "2025-04-19T04:39:39.381Z",
+  "updated_at": "2025-04-18T18:22:19.992Z",
+  "year": 2019,
+  "worst_listing_gains": "2.06%",
+  "worst_listing_gains_numeric": 2.06
+}

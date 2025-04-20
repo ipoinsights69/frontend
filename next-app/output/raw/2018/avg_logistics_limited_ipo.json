@@ -1,0 +1,346 @@
+{
+  "_id": "680298573ccffd1c7912cb96",
+  "ipo_id": "2018_avg_logistics_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:15:41.728Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/avg-logistics-ipo/847/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2010, Delhi based AVG Logistics Limited is a third-party logistics service operator. The company offers Full Truck Load (FTL) and “hub-and-spoke” transportation model and warehousing services to select clients with the pan-India distribution network and automated technology systems. </p><p>AVG offers its customers services in three key areas:</p><p>(1) Transportation whereby we provide point-to-point, less than truck-load, time-definite transportation services;<br>(2) Warehousing whereby we provide warehousing, distribution and cold-chain warehousing; and <br>(3) Value-added Services including, temperature-controlled logistics, supply chain solutions and cargo handling services at integrated check posts.</p><p>As of September 30, 2017, the company had five (5) trans-shipment centres at Guwahati, Bangalore, Hyderabad, DelhiUP border, and Kundli (Delhi-Haryana border) and forty nine (49) branches across India, covering twenty three (23) states as of September 30, 2017. It operates two hundred sixty four (264) owned containerised vehicles which are GPS-enabled vehicles, of which eighty five (85) are refrigerated (reefer) trucks. </p><p>AVG also provides warehousing facilities to select customers and the warehouses are well connected to several manufacturing and consumption clusters in India aggregating to 3.54 lakh square feet. It has warehouses in Modinagar, Ghaziabad, Delhi and Panipat. The company is in the process of setting up additional large format, multi-user warehouses in certain strategic locations and have acquired land at Agartala in Tripura and Mysore in Karnataka adding 1.08 lakhs square feet which will enable the expansion of its warehousing space to 4.62 lakhs square feet by April, 2019. </p><p>As of January 31, 2018, we had 521 full-time employees.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. Lacs)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "8352.23",
+          "6996.76",
+          "6096.39",
+          "4058.12",
+          "2951.18"
+        ],
+        [
+          "Total Revenue",
+          "19485.88",
+          "19229.25",
+          "18331.70",
+          "13041.25",
+          "9631.92"
+        ],
+        [
+          "Profit After Tax",
+          "443.34",
+          "380.16",
+          "319.31",
+          "262.06",
+          "190.48"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 28, 2018 to April 3, 2018",
+    "ipoListingDate": "April 11, 2018",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹107.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "30,90,000 shares (aggregating up to ₹33.06 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "1,54,800 shares",
+    "ipoOpenDate": "Wed, Mar 28, 2018",
+    "ipoCloseDate": "Tue, Apr 3, 2018",
+    "shareHoldingPreIssue": "72,08,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "72,08,000 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "1,02,98,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,02,98,000 shares"
+      }
+    ]
+  },
+  "closing_date": "2018-04-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 11 4567 4071",
+    "email": "compliances@avglogistics.com",
+    "full_address": "AVG Logistics Limited, Shop No. 25, DDA Market Savita Vihar, Delhi 110092",
+    "website": "http://www.avglogistics.com"
+  },
+  "createdAt": "2025-04-18T18:22:15.845Z",
+  "faqs": [
+    {
+      "question": "What is the AVG Logistics IPO?",
+      "answer": "<div itemprop=\"text\"><p>AVG Logistics IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3090000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->33.06<!-- --> Crores. The issue is priced at <span>₹107 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 28, 2018</b>, and <b>closes on <!-- -->April 3, 2018</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in AVG Logistics IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->AVG Logistics IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->AVG Logistics IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->AVG Logistics IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->AVG Logistics IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When AVG Logistics IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The AVG Logistics IPO opens on March 28, 2018 and closes on April 3, 2018.</p></div>"
+    },
+    {
+      "question": "What is the lot size of AVG Logistics IPO?",
+      "answer": "<div itemprop=\"text\"><p>AVG Logistics IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,28,400</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for AVG Logistics IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->AVG Logistics IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is AVG Logistics IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->AVG Logistics IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/avg-logistics-ipo/847/\" title=\"AVG Logistics IPO Allotment Status\">AVG Logistics IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is AVG Logistics IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->AVG Logistics IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "AVG Logistics",
+  "issue_price": "₹107.00",
+  "issue_price_numeric": 107,
+  "issue_size": "30,90,000 shares (aggregating up to ₹33.06 Cr)",
+  "issue_size_numeric": 30,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Systematix Corporate Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/61/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/61/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "107.00"
+      },
+      "open": {
+        "nse_sme": "113.00"
+      },
+      "low": {
+        "nse_sme": "112.00"
+      },
+      "high": {
+        "nse_sme": "118.65"
+      },
+      "last_trade": {
+        "nse_sme": "118.55"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "April 11 2018",
+    "nse_symbol": "AVG",
+    "isin": "INE680Z01018",
+    "final_issue_price": "107 per share"
+  },
+  "listing_date": "2018-04-10T18:30:00.000Z",
+  "listing_gains": "10.79%",
+  "listing_gains_numeric": 10.79,
+  "logo": "https://www.chittorgarh.net/images/ipo/avg-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/avg-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "128400"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "128400"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "256800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/avg-logistics-ipo/847/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2018-03-27T18:30:00.000Z",
+  "pageHeading": "AVG Logistics Limited IPO (AVG Logistics IPO) Detail",
+  "pageTitle": "AVG Logistics IPO Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "AVG Logistics IPO DRHP",
+      "url": "https://archives.nseindia.com/emerge/corporates/content/DRHP_AVG_Logistics_Limited.pdf "
+    },
+    {
+      "text": "AVG Logistics IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2018/avg-logistics-limited_38513.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/avg-logistics-ipo/847/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "avglogistics.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "AVG Logistics IPO offers 3244800 shares. 1467600 (45.23%) to NII 1467600 (45.23%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "154800 (4.77%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1467600 (45.23%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1467600 (45.23%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "154800 (4.77%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3244800 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:15.844Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The AVG Logistics IPO is subscribed 1.92 times on April 3 2018 5:00:00 PM (Day 3). The public issue subscribed 1.08 times in the retail category [.] times in the QIB category and 2.28 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.28",
+        "shares_offered": "1467600",
+        "shares_bid_for": "3344400"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.08",
+        "shares_offered": "1467600",
+        "shares_bid_for": "1586400"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.92",
+        "shares_offered": "2935200",
+        "shares_bid_for": "5646000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on April 3 2018"
+  },
+  "updatedAt": "2025-04-19T04:39:08.299Z",
+  "updated_at": "2025-04-18T18:22:15.844Z",
+  "year": 2018,
+  "worst_listing_gains": "10.79%",
+  "worst_listing_gains_numeric": 10.79
+}

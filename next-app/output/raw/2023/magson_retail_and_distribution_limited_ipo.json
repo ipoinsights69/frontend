@@ -1,0 +1,418 @@
+{
+  "_id": "68028e9d3ccffd1c7912c916",
+  "ipo_id": "2023_magson_retail_and_distribution_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:32:54.701Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/magson-retail-and-distribution-ipo/1445/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2018, Magson Retail &amp; Distribution Limited is engaged in the retail and distribution business of gourmet, frozen food, and specialty foods.</p>\n<p>Magson Retail &amp; Distribution's product category includes:</p>\n<ul>\n<li>Frozen food Vegetarian and Non-vegetarian</li>\n<li>Premium Cheese and Dairy products</li>\n<li>Exotic Vegetables and fruits</li>\n<li>Ambient Products</li>\n<li>Imported/ luxury Chocolates</li>\n<li>Imported packed products</li>\n</ul>\n<p>The company has over 26 retail stores/outlets of which 16 are operated by the company, 7 are operated by franchise owners and 3 stores are operated under 2 joint ventures. MRDL operates all its stores under the registered brand name \"MagSon\".</p>\n<p>These stores/outlets are located across Western India with 26 outlets in prominent cities which includes one each in Thane, Udaipur, Gandhinagar, Anand, Rajkot, Jamnagar, and Gandhidham. Three stores each in Surat and Vadodara, and thirteen stores/outlets in Ahmedabad (including one chocolate store). The total retail space of 26 outlets/stores is more than 30,000 sq. ft. with the total stock (SKU) count in the store being more than 3000 units.</p>\n<p>The company has rented a warehouse of more than 14,000 sq. ft. in Ahmedabad from where it manages its inventory. Magson procures 75% of the products directly from the manufacturers thereby eliminating the middlemen which enables the company to earn higher margins. The other 25% is supplied directly from other distributors/wholesalers.</p>\n<p>In December 2021, Magson launched its own brand - Rf Gourmet, it provides premium products such as French Fries, Fiery Fries, Chilli Garlic Potato Shots, Delhi Aloo Tikki, Veggie Burger Tikki, Chunky Fries, Eggs, and a range of Chicken Seekh Kababs.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "833.45",
+          "3241.22",
+          "166.31",
+          "169.04",
+          "168.04",
+          "354.00"
+        ],
+        [
+          "31-Mar-21",
+          "1283.84",
+          "5358.92",
+          "181.75",
+          "350.80",
+          "349.80",
+          "386.60"
+        ],
+        [
+          "31-Mar-22",
+          "1494.69",
+          "5566.77",
+          "223.36",
+          "574.06",
+          "573.06",
+          "344.72"
+        ],
+        [
+          "31-Mar-23",
+          "1999.87",
+          "6301.49",
+          "251.88",
+          "926.25",
+          "352.65",
+          "321.95"
+        ]
+      ]
+    },
+    {
+      "heading": "Magson Retail And Distribution Limited Stock Quote & Charts",
+      "sanitizedHeading": "magson_retail_and_distribution_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "Debt/Equity",
+          "0.35"
+        ],
+        [
+          "RoNW",
+          "27.19%"
+        ]
+      ]
+    },
+    {
+      "heading": "Magson Retail And Distribution Limited Stock Quote & Charts",
+      "sanitizedHeading": "magson_retail_and_distribution_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.96",
+          null
+        ],
+        [
+          "P/E (x)",
+          "20.25",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "June 23, 2023 to June 27, 2023",
+    "ipoListingDate": "Thu, Jul 6, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹65.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "21,14,000 shares (aggregating up to ₹13.74 Cr)",
+    "freshIssue": "21,14,000 shares (aggregating up to ₹13.74 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,06,000 shares",
+      "maker_name": "Sunflower Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/357/"
+    },
+    "ipoOpenDate": "Fri, Jun 23, 2023",
+    "ipoCloseDate": "Tue, Jun 27, 2023",
+    "initiationOfRefunds": "Tue, Jul 4, 2023",
+    "creditOfSharesToDemat": "Wed, Jul 5, 2023",
+    "shareHoldingPreIssue": "57,36,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "57,36,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "95.89%"
+      }
+    ],
+    "shareHoldingPostIssue": "78,50,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "78,50,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "70.06%"
+      }
+    ]
+  },
+  "closing_date": "2023-06-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9978607507",
+    "email": "cs.magson@gmail.com",
+    "full_address": "Magson Retail And Distribution Limited, 204-B Primate Complex Opp. Mother Milk Palace, Nr. Judges Bungalows Cross Roads, Bodakdev Ahmedabad - 380015",
+    "website": "https://www.magson.in/#"
+  },
+  "createdAt": "2025-04-18T17:40:45.016Z",
+  "faqs": [
+    {
+      "question": "What is the Magson IPO?",
+      "answer": "<div itemprop=\"text\"><p>Magson IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2114000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->13.74<!-- --> Crores. The issue is priced at <span>₹65 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->June 23, 2023</b>, and <b>closes on <!-- -->June 27, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Magson IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Magson IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Magson IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Magson IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Magson IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Magson IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Magson IPO opens on June 23, 2023 and closes on June 27, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Magson IPO?",
+      "answer": "<div itemprop=\"text\"><p>Magson IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,30,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Magson IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Magson IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Magson IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Magson IPO<!-- --> will be done on <!-- -->Monday, July 3, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, July 5, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/magson-retail-and-distribution-ipo/1445/\" title=\"Magson IPO Allotment Status\">Magson IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Magson IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Magson IPO<!-- --> listing date is on <b>Thursday, July 6, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Magson Retail And Distribution",
+  "issue_price": "₹65.00",
+  "issue_price_numeric": 65,
+  "issue_size": "21,14,000 shares (aggregating up to ₹13.74 Cr)",
+  "issue_size_numeric": 21,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Isk Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/174/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/174/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "65.00"
+      },
+      "open": {
+        "nse_sme": "91.15"
+      },
+      "low": {
+        "nse_sme": "86.60"
+      },
+      "high": {
+        "nse_sme": "95.70"
+      },
+      "last_trade": {
+        "nse_sme": "95.70"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "July 6 2023",
+    "nse_symbol": "MAGSON",
+    "isin": "INE0O1S01012",
+    "final_issue_price": "65 per share"
+  },
+  "listing_date": "2023-07-05T18:30:00.000Z",
+  "listing_gains": "47.23%",
+  "listing_gains_numeric": 47.23,
+  "logo": "https://www.chittorgarh.net/images/ipo/magson-retail-and-distribution-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/magson-retail-and-distribution-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "130000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "130000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "260000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/magson-retail-and-distribution-ipo/1445/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2023-06-22T18:30:00.000Z",
+  "pageHeading": "Magson Retail And Distribution Limited IPO (Magson IPO) Detail",
+  "pageTitle": "Magson IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "Mr. Rajesh Emmanuel Francis and Mr. Manish Shivnarayan Pancholi are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "95.89%",
+      "share_holding_post_issue": "70.06%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Magson IPO DRHP",
+      "url": "https://archives.nseindia.com/emerge/corporates/content/MagsonRetail_DP.pdf"
+    },
+    {
+      "text": "Magson IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/MagsonRetail_PROSP.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/magson-retail-and-distribution-ipo/1445/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Magson IPO offers 2114000 shares. 1004000 (47.49%) to NII 1004000 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "106000 (5.01%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1004000 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1004000 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2114000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:45.015Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Magson IPO is subscribed 6.74 times on June 27 2023 7:29:00 PM (Day 3). The public issue subscribed 7.38 times in the retail category [.] times in the QIB category and 6.09 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "6.09",
+        "shares_offered": "1004000",
+        "shares_bid_for": "6118000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "7.38",
+        "shares_offered": "1004000",
+        "shares_bid_for": "7406000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "6.74",
+        "shares_offered": "2008000",
+        "shares_bid_for": "13528000"
+      }
+    },
+    "total_applications": "3703",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 27 2023",
+    "tentative_allotment": "Mon Jul 3 2023",
+    "initiation_of_refunds": "Tue Jul 4 2023",
+    "credit_of_shares_to_demat": "Wed Jul 5 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:38.092Z",
+  "updated_at": "2025-04-18T17:40:45.015Z",
+  "year": 2023,
+  "worst_listing_gains": "47.23%",
+  "worst_listing_gains_numeric": 47.23
+}

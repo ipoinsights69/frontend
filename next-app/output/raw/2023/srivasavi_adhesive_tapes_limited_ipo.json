@@ -1,0 +1,393 @@
+{
+  "_id": "68028e9e3ccffd1c7912c962",
+  "ipo_id": "2023_srivasavi_adhesive_tapes_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:35:07.206Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/srivasavi-adhesive-tapes-ipo/1384/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2010, Srivasavi Adhesive Tapes Limited is engaged in manufacturing, coating, converting, and Die cuts of industrial Specialty self-adhesive tapes. Srivasavi is an ISO 9001:2015 certified company certified by TUV Nord.</p>\n<p>Srivasavi Adhesive Tapes Limited customized die cuts of Films, Foams, and allied products. It caters to various industries such as Automotive, Locomotives, Aerospace, Defence, Electrical &amp; Electronics, Renewable Energy, Print &amp; Paper, Food &amp; Pharma, FMCG, White &amp; Brown Goods, Furniture, Retail, Construction, Infrastructure, Sports &amp; Fitness Equipment, Textiles &amp; Leather Industries.</p>\n<p>The company serves its customers with a wide range of pressure-sensitive adhesive tapes, BOPP tapes, Eco-Friendly paper Tapes, Filament tapes, Double Side tapes, Packaging tapes, Specialty Protection tapes, Surface Protection tapes, Masking tapes, Specialty Foams/ Films.</p>\n<p>Srivasavi Adhesive widely has two business divisions</p>\n<ol>\n<li>Domestic Sales</li>\n<li>Exports</li>\n</ol>\n<p>The company has a presence in 23 states in the domestic market base. And Internationally they supply products in  including Egypt, United State of America, France, Kuwait, Poland, Qatar, Spain, Australia, Italy, South Africa, Indonesia, Sri Lanka, and UAE based on sales made for the period ended September 30, 2022.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "2038.86",
+          "4634.50",
+          "101.13",
+          "494.07",
+          "369.34",
+          "572.93"
+        ],
+        [
+          "31-Mar-21",
+          "2263.66",
+          "5566.61",
+          "187.34",
+          "681.41",
+          "556.68",
+          "395.02"
+        ],
+        [
+          "31-Mar-22",
+          "2763.35",
+          "6392.19",
+          "362.12",
+          "1043.53",
+          "918.80",
+          "607.08"
+        ],
+        [
+          "30-Sep-22",
+          "3051.98",
+          "3072.61",
+          "180.73",
+          "1224.25",
+          "184.84",
+          "600.06"
+        ]
+      ]
+    },
+    {
+      "heading": "Srivasavi Adhesive Tapes Limited Stock Quote & Charts",
+      "sanitizedHeading": "srivasavi_adhesive_tapes_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "16.08",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "February 23, 2023 to February 28, 2023",
+    "ipoListingDate": "Thu, Mar 9, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹41.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "37,80,000 shares (aggregating up to ₹15.50 Cr)",
+    "freshIssue": "37,80,000 shares (aggregating up to ₹15.50 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,92,000 shares",
+      "maker_name": "Shreni Shares Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/346/"
+    },
+    "ipoOpenDate": "Thu, Feb 23, 2023",
+    "ipoCloseDate": "Tue, Feb 28, 2023",
+    "initiationOfRefunds": "Mon, Mar 6, 2023",
+    "creditOfSharesToDemat": "Wed, Mar 8, 2023",
+    "shareHoldingPreIssue": "1,03,94,166 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,03,94,166 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.84%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,41,74,166 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,41,74,166 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.21%"
+      }
+    ]
+  },
+  "closing_date": "2023-02-27T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "08023629383",
+    "email": "investors@vasavitapes.com",
+    "full_address": "Srivasavi Adhesive Tapes Limited, No. B 100, KSSIDC Industrial Estate, Doddaballapura",
+    "website": "http://www.vasavitapes.com/"
+  },
+  "createdAt": "2025-04-18T17:40:46.813Z",
+  "faqs": [
+    {
+      "question": "What is the Srivasavi Adhesive Tapes IPO?",
+      "answer": "<div itemprop=\"text\"><p>Srivasavi Adhesive Tapes IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3780000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->15.50<!-- --> Crores. The issue is priced at <span>₹41 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 23, 2023</b>, and <b>closes on <!-- -->February 28, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Srivasavi Adhesive Tapes IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Srivasavi Adhesive Tapes IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Srivasavi Adhesive Tapes IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Srivasavi Adhesive Tapes IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Srivasavi Adhesive Tapes IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Srivasavi Adhesive Tapes IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Srivasavi Adhesive Tapes IPO opens on February 23, 2023 and closes on February 28, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Srivasavi Adhesive Tapes IPO?",
+      "answer": "<div itemprop=\"text\"><p>Srivasavi Adhesive Tapes IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,23,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Srivasavi Adhesive Tapes IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Srivasavi Adhesive Tapes IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Srivasavi Adhesive Tapes IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Srivasavi Adhesive Tapes IPO<!-- --> will be done on <!-- -->Friday, March 3, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, March 8, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/srivasavi-adhesive-tapes-ipo/1384/\" title=\"Srivasavi Adhesive Tapes IPO Allotment Status\">Srivasavi Adhesive Tapes IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Srivasavi Adhesive Tapes IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Srivasavi Adhesive Tapes IPO<!-- --> listing date is on <b>Thursday, March 9, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Srivasavi Adhesive Tapes",
+  "issue_price": "₹41.00",
+  "issue_price_numeric": 41,
+  "issue_size": "37,80,000 shares (aggregating up to ₹15.50 Cr)",
+  "issue_size_numeric": 37,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Shreni Shares Limited",
+      "url": "/report/ipo-lead-manager-review/112/449/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/449/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "41.00"
+      },
+      "open": {
+        "nse_sme": "40.00"
+      },
+      "low": {
+        "nse_sme": "38.10"
+      },
+      "high": {
+        "nse_sme": "42.00"
+      },
+      "last_trade": {
+        "nse_sme": "42.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "March 9 2023",
+    "nse_symbol": "SRIVASAVI",
+    "isin": "INE0NPI01014",
+    "final_issue_price": "41 per share"
+  },
+  "listing_date": "2023-03-08T18:30:00.000Z",
+  "listing_gains": "2.44%",
+  "listing_gains_numeric": 2.44,
+  "logo": "https://www.chittorgarh.net/images/ipo/srivasavi-adhesive-tapes-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/srivasavi-adhesive-tapes-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "123000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "123000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "246000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/srivasavi-adhesive-tapes-ipo/1384/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2023-02-22T18:30:00.000Z",
+  "pageHeading": "Srivasavi Adhesive Tapes Limited IPO (Srivasavi Adhesive Tapes IPO) Detail",
+  "pageTitle": "Srivasavi Adhesive Tapes IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "D N Anilkumara and Ashwini DA are the Promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "99.84%",
+      "share_holding_post_issue": "73.21%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Srivasavi Adhesive Tapes IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/SrivasaviA_DP.pdf"
+    },
+    {
+      "text": "Srivasavi Adhesive Tapes IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2023/srivasavi-adhesive-tapes-limited-prospectus_70424.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/srivasavi-adhesive-tapes-ipo/1384/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Srivasavi Adhesive Tapes IPO offers 3780000 shares. 1794000 (47.46%) to NII 1794000 (47.46%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "192000 (5.08%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1794000 (47.46%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1794000 (47.46%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3780000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.812Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Srivasavi Adhesive Tapes IPO is subscribed 7.75 times on February 28 2023 7:00:00 PM (Day 4). The public issue subscribed 8.38 times in the retail category [.] times in the QIB category and 7.12 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "7.12",
+        "shares_offered": "1794000",
+        "shares_bid_for": "12765000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "8.38",
+        "shares_offered": "1794000",
+        "shares_bid_for": "15039000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "7.75",
+        "shares_offered": "3588000",
+        "shares_bid_for": "27804000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 28 2023",
+    "tentative_allotment": "Fri Mar 3 2023",
+    "initiation_of_refunds": "Mon Mar 6 2023",
+    "credit_of_shares_to_demat": "Wed Mar 8 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:48.943Z",
+  "updated_at": "2025-04-18T17:40:46.812Z",
+  "year": 2023,
+  "worst_listing_gains": "2.44%",
+  "worst_listing_gains_numeric": 2.44
+}

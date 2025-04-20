@@ -1,0 +1,378 @@
+{
+  "_id": "680298553ccffd1c7912cb0f",
+  "ipo_id": "2017_indigrid_invit_fund_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": false,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:09:32.091Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/indigrid-invit-fund/661/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2016, IndiGrid InvIT Fund is an infrastructure investment trust (“InvIT”) established to own inter-state power transmission assets in India. They are focused on providing stable and sustainable distributions to their Unitholders.</p><p>Sterlite Power Grid Ventures Ltd, sponsor of IndiGrid InvIT Fund is one of the leading independent power transmission companies operating in the private sector, with extensive  experience in bidding, designing, financing, constructing and maintaining power transmission projects across India.  </p><p>Company's sponsor owns 11 inter-state power transmission projects with a total network of 30 power transmission lines of approximately 7,733 ckms and nine substations having 13,890 MVA of transformation capacity. Some of these projects have been fully commissioned, while others are at different stages of development. They recently won bids for two transmission projects in Brazil,</p><p>Of the 11 inter-state power transmission projects owned by the Sponsor, they will initially acquire two projects with a total network of eight power transmission lines of 1,936 ckms and two substations having 6,000 MVA of transformation capacity across four states (the “Initial Portfolio Assets”).</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "India Grid Trust IV Stock Quote & Charts",
+      "sanitizedHeading": "india_grid_trust_iv_stock_quote_charts",
+      "headers": [
+        "Price band",
+        "Rs. 100-102",
+        "Rs. 98-100"
+      ],
+      "rows": [
+        [
+          "Issur Size",
+          "Rs. 5921 cr.",
+          "Rs. 2250 cr."
+        ],
+        [
+          "Sector",
+          "Toll Road constructions",
+          "Power Transmission"
+        ],
+        [
+          "Likely yield",
+          "8 to 12%",
+          "10 to 15%"
+        ],
+        [
+          "Entry Level",
+          "At a Premium",
+          "At par value"
+        ],
+        [
+          "Tenure",
+          "16 years",
+          "35 years"
+        ],
+        [
+          "Corporate Ratings",
+          "AAA/Stable",
+          "AAA/Stable"
+        ],
+        [
+          "Proportionate Allotment",
+          "75% of the issue (i.e. except retail)",
+          "75% of the issue (i.e. except retail)"
+        ],
+        [
+          "Risk Factors",
+          "Inflation Traffic Volume Govt. policies",
+          "Load Availability Market trends"
+        ],
+        [
+          "Market perception",
+          "Bearing Risk as above",
+          "Considered as Safe asset class Globally"
+        ],
+        [
+          "Promoter",
+          "IRB Group",
+          "Sterlie Group"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "May 17, 2017 to May 19, 2017",
+    "ipoListingDate": "June 6, 2017",
+    "faceValue": "₹100 per share",
+    "issuePrice": "₹100.00",
+    "lotSize": "10,205 Shares",
+    "issueSize": "22,50,00,000 shares (aggregating up to ₹2,250.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, May 17, 2017",
+    "ipoCloseDate": "Fri, May 19, 2017",
+    "shareHoldingPreIssue": "58,34,83,081 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "58,34,83,081 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "80,84,83,081 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "80,84,83,081 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-05-18T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 11 4996 2200",
+    "email": "complianceofficer@indigrid.co.in",
+    "full_address": "IndiGrid InvIT Fund, F-1 The Mira Corporate Suites, 1 &amp; 2 Ishwar Nagar, Mathura Road New Delhi 110 065",
+    "website": "http://www.indigrid.co.in"
+  },
+  "createdAt": "2025-04-18T18:22:13.380Z",
+  "faqs": [
+    {
+      "question": "What is the IndiGrid InvIT Fund?",
+      "answer": "<div itemprop=\"text\"><p>IndiGrid InvIT Fund<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->225000000<!-- --> equity shares</b> of the face value of ₹<!-- -->100<!-- --> aggregating up to ₹<!-- -->2,250.00<!-- --> Crores. The issue is priced at <span>₹100 per share</span>. The minimum order quantity is <!-- -->10205<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 17, 2017</b>, and <b>closes on <!-- -->May 19, 2017</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in IndiGrid InvIT Fund through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->IndiGrid InvIT Fund<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->IndiGrid InvIT Fund<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->IndiGrid InvIT Fund<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->IndiGrid InvIT Fund<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When IndiGrid InvIT Fund will open?",
+      "answer": "<div itemprop=\"text\"><p>The IndiGrid InvIT Fund opens on May 17, 2017 and closes on May 19, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of IndiGrid InvIT Fund?",
+      "answer": "<div itemprop=\"text\"><p>IndiGrid InvIT Fund<!-- --> <b>lot size is <!-- -->10205</b>, and the <b>minimum amount required is <span>₹10,20,500</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for IndiGrid InvIT Fund?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->IndiGrid InvIT Fund<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is IndiGrid InvIT Fund allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->IndiGrid InvIT Fund<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/indigrid-invit-fund/661/\" title=\"IndiGrid InvIT Fund Allotment Status\">IndiGrid InvIT Fund<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is IndiGrid InvIT Fund listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->IndiGrid InvIT Fund<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "IndiGrid InvIT Fund",
+  "issue_price": "₹100.00",
+  "issue_price_numeric": 100,
+  "issue_size": "22,50,00,000 shares (aggregating up to ₹2,250.00 Cr)",
+  "issue_size_numeric": 22,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "Edelweiss Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/32/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/32/"
+    },
+    {
+      "name": "Morgan Stanley India Company Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/31/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/31/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "100.00",
+        "nse": "100.00"
+      },
+      "open": {
+        "bse": "100.00",
+        "nse": "99.70"
+      },
+      "low": {
+        "bse": "94.00",
+        "nse": "93.70"
+      },
+      "high": {
+        "bse": "100.00",
+        "nse": "99.70"
+      },
+      "last_trade": {
+        "bse": "98.45",
+        "nse": "98.64"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "June 6 2017",
+    "bse_script_code": "540565",
+    "nse_symbol": "INDIGRID",
+    "isin": "INE219X23014",
+    "final_issue_price": "100 per share"
+  },
+  "listing_date": "2017-06-05T18:30:00.000Z",
+  "listing_gains": "-1.55%",
+  "listing_gains_numeric": -1.55,
+  "logo": "https://www.chittorgarh.net/images/ipo/indgrid_invit_fund_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/indgrid_invit_fund_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 10205 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "10205",
+        "amount": "1020500"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "0",
+        "shares": "0"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/indigrid-invit-fund/661/"
+    }
+  },
+  "lot_size": 10,
+  "opening_date": "2017-05-16T18:30:00.000Z",
+  "pageHeading": "IndiGrid InvIT Fund IPO (IndiGrid InvIT Fund) Detail",
+  "pageTitle": "IndiGrid InvIT Fund Date, Price, GMP, Review, Details",
+  "prospectusLinks": [
+    {
+      "text": "IndiGrid InvIT Fund DRHP",
+      "url": "https://www.sebi.gov.in/filings/invit-public-issues/dec-2016/india-grid-trust_33793.html"
+    },
+    {
+      "text": "IndiGrid InvIT Fund RHP",
+      "url": "https://www.sebi.gov.in/filings/invit-public-issues/may-2017/india-grid-trust_34879.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/indigrid-invit-fund/661/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "indigrid.invit@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "IndiGrid InvIT Fund offers 126278838 shares. 68880294 (54.55%) to QIB.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "68880294 (54.55%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "57398544 (45.45%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "126278838 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:13.380Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The IndiGrid InvIT Fund is subscribed 1.35 times on May 19 2017 5:00:00 PM (Day 3). The public issue subscribed [.] times in the retail category 1.14 times in the QIB category and [.] times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "1.14",
+        "shares_offered": "68880294"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "1.6",
+        "shares_offered": "57398544"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.35",
+        "shares_offered": "126278838"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 19 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:50.644Z",
+  "updated_at": "2025-04-18T18:22:13.380Z",
+  "year": 2017,
+  "worst_listing_gains": "-1.55%",
+  "worst_listing_gains_numeric": -1.55
+}

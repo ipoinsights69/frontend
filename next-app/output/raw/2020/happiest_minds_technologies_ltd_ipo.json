@@ -1,0 +1,396 @@
+{
+  "_id": "6802917a3ccffd1c7912c99e",
+  "ipo_id": "2020_happiest_minds_technologies_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:43:05.668Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/happiest-minds-ipo/1056/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2011, Positioned as \"Born Digital. Born Agile\" Happiest Minds Ltd is a Bangalore based IT service provider company. The business of the company is divided into three categories; Digital Business Service (DBS), Product Engineering Service (PES) and Infrastructure and Management  Security Service ( IMSS).</p><p>The DBS unit offers digital application development &amp; modernisation, assistance in designing &amp; testing of operations, management of the platform, consulting and domain led offerings.</p><p>PES unit helps by transforming the potential of digital by making the product secure and smart. Wherein, IMSS provides an end to end monitoring and management capability for applications and infrastructure of the clients. </p><p>As of June 30, 2020, Happiest Minds had 148 active customers and has a global presence in countries like US, UK, Australia, Canada and the Middle East. The business units of the company is assisted by the 3 Centres of Excellence which are  Internet of Things, Analytics / Artificial Intelligence, and Digital Process Automation. In Fiscal 2020, 96.9% of the company's revenues came from digital services which is one of the highest among Indian IT companies.</p><p>Happiest Minds delivers services across industry sectors such as Retail, Edutech, Industrial, BFSI, Hi-Tech, Engineering R&amp;D, Manufacturing, Travel, Media and Entertainment.</p><p><strong>Competitive Strengths</strong></p><p>1. Focused on software product development<br>2. Strong Brand in offering Digital IT services<br>3. End to End digital lifecycle<br>4. Agile Engineering and Delivery</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Million)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Jun-20",
+          "31-Mar-20",
+          "31-Mar-19",
+          "31-Mar-18"
+        ],
+        [
+          "Total Assets",
+          "5730.8",
+          "5081.5",
+          "4135.2",
+          "3869.9"
+        ],
+        [
+          "Total Revenue",
+          "1869.9",
+          "7142.3",
+          "6018.1",
+          "4891.2"
+        ],
+        [
+          "Profit After Tax",
+          "501.8",
+          "717.1",
+          "142.1",
+          "(224.7)"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 7, 2020 to September 9, 2020",
+    "ipoListingDate": "Thu, Sep 17, 2020",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹166.00",
+    "lotSize": "90 Shares",
+    "issueSize": "4,22,90,091 shares (aggregating up to ₹702.02 Cr)",
+    "freshIssue": "66,26,506 shares (aggregating up to ₹110.00 Cr)",
+    "offerForSale": "3,56,63,585 shares of ₹2 (aggregating up to ₹592.02 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Sep 7, 2020",
+    "ipoCloseDate": "Wed, Sep 9, 2020",
+    "initiationOfRefunds": "Tue, Sep 15, 2020",
+    "creditOfSharesToDemat": "Tue, Sep 15, 2020",
+    "shareHoldingPreIssue": "14,02,37,050 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "14,02,37,050 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "61.77%"
+      }
+    ],
+    "shareHoldingPostIssue": "14,68,63,556 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "14,68,63,556 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "53.25%"
+      }
+    ]
+  },
+  "closing_date": "2020-09-08T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 80 6196 0300",
+    "email": "investors@happiestminds.com",
+    "full_address": "Happiest Minds Technologies Ltd, 53/1-4 Hosur Main Road, Madivala (Next to Madivala Police Station), Bengaluru - 560 068",
+    "website": "http://www.happiestminds.com/"
+  },
+  "createdAt": "2025-04-18T17:52:57.893Z",
+  "faqs": [
+    {
+      "question": "What is the Happiest Minds IPO?",
+      "answer": "<div itemprop=\"text\"><p>Happiest Minds IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->42290091<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->702.02<!-- --> Crores. The issue is priced at <span>₹166 per share</span>. The minimum order quantity is <!-- -->90<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 7, 2020</b>, and <b>closes on <!-- -->September 9, 2020</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Happiest Minds IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Happiest Minds IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Happiest Minds IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Happiest Minds IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Happiest Minds IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Happiest Minds IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Happiest Minds IPO opens on September 7, 2020 and closes on September 9, 2020.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Happiest Minds IPO?",
+      "answer": "<div itemprop=\"text\"><p>Happiest Minds IPO<!-- --> <b>lot size is <!-- -->90</b>, and the <b>minimum amount required is <span>₹14,940</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Happiest Minds IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Happiest Minds IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Happiest Minds IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Happiest Minds IPO<!-- --> will be done on <!-- -->Monday, September 14, 2020<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, September 15, 2020<!-- -->. Check the <a href=\"/ipo_allotment_status/happiest-minds-ipo/1056/\" title=\"Happiest Minds IPO Allotment Status\">Happiest Minds IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Happiest Minds IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Happiest Minds IPO<!-- --> listing date is on <b>Thursday, September 17, 2020</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Happiest Minds Technologies",
+  "issue_price": "₹166.00",
+  "issue_price_numeric": 166,
+  "issue_size": "4,22,90,091 shares (aggregating up to ₹702.02 Cr)",
+  "issue_size_numeric": 4,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Nomura Financial Advisory And Securities",
+      "url": "/report/ipo-lead-manager-review/112/72/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/72/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "166.00",
+        "nse": "166.00"
+      },
+      "open": {
+        "bse": "351.00",
+        "nse": "350.00"
+      },
+      "low": {
+        "bse": "351.00",
+        "nse": "350.00"
+      },
+      "high": {
+        "bse": "395.00",
+        "nse": "394.95"
+      },
+      "last_trade": {
+        "bse": "371.00",
+        "nse": "370.95"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 17 2020",
+    "bse_script_code": "543227",
+    "nse_symbol": "HAPPSTMNDS",
+    "isin": "INE419U01012",
+    "final_issue_price": "166 per share"
+  },
+  "listing_date": "2020-09-16T18:30:00.000Z",
+  "listing_gains": "123.49%",
+  "listing_gains_numeric": 123.49,
+  "logo": "https://www.chittorgarh.net/images/ipo/happiest-minds-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/happiest-minds-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 90 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "90",
+        "amount": "14940"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1170",
+        "amount": "194220"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1260",
+        "amount": "209160"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "5940",
+        "amount": "986040"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "6030",
+        "amount": "1000980"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/happiest-minds-ipo/1056/"
+    }
+  },
+  "lot_size": 90,
+  "opening_date": "2020-09-06T18:30:00.000Z",
+  "pageHeading": "Happiest Minds Technologies Ltd IPO (Happiest Minds IPO) Detail",
+  "pageTitle": "Happiest Minds IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Ashok Soota is the promoter of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "61.77%",
+      "share_holding_post_issue": "53.25%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Happiest Minds IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2020/happiest-minds-technologies-limited_46843.html"
+    },
+    {
+      "text": "Happiest Minds IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2020/happiest-minds-technologies-ltd_47554.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "8",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/happiest-minds-ipo/1056/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "happiestminds.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Happiest Minds IPO offers 23259550 shares. 12687028 (54.55%) to QIB 6343513 (27.27%) to NII 4229009 (18.18%) to RII. 46988 RIIs will receive minimum 90 shares and (sNII) and (bNII) will receive minimum 1260 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "12687028 (54.55%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "6343513 (27.27%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4229009 (18.18%)",
+        "maximum_allottees": "46988"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "23259550 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:52:57.893Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Happiest Minds IPO is subscribed 150.98 times on September 9 2020 5:00:07 PM (Day 3). The public issue subscribed 70.94 times in the retail category 77.43 times in the QIB category and 351.46 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "77.43",
+        "shares_offered": "12687028",
+        "shares_bid_for": "982312020"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "351.46",
+        "shares_offered": "6343513",
+        "shares_bid_for": "2229501690"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "70.94",
+        "shares_offered": "4229009",
+        "shares_bid_for": "300013740"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "150.98",
+        "shares_offered": "23259550",
+        "shares_bid_for": "3511827450"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 9 2020",
+    "tentative_allotment": "Mon Sep 14 2020",
+    "initiation_of_refunds": "Tue Sep 15 2020",
+    "credit_of_shares_to_demat": "Tue Sep 15 2020"
+  },
+  "updatedAt": "2025-04-19T04:37:58.457Z",
+  "updated_at": "2025-04-18T17:52:57.893Z",
+  "year": 2020,
+  "worst_listing_gains": "123.49%",
+  "worst_listing_gains_numeric": 123.49
+}

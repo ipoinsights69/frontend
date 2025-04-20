@@ -1,0 +1,405 @@
+{
+  "_id": "68028e9c3ccffd1c7912c8f1",
+  "ipo_id": "2023_innokaiz_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:33:52.642Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/innokaiz-india-ipo/1415/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2013, Innokaiz India Limited <strong>provides event management, corporate gifting, advertising, and marketing services through both offline and online formats.</strong></p>\n<p>The company's service model is divided into the following categories:</p>\n<p><strong>1. Advertising and Marketing Services:</strong></p>\n<ul>\n<li><strong>Outdoor Advertisements: </strong>The company provides services at outdoor Bus Shelters, Arches, Police Booth, General Booth, Pole Kiosk, Signal Post, Temp Hoarding, Sun Pack flute Board, Backdrop, Banners, Roadshows, Mobile Vans, Etc. In signage: Backlit Board, Nonlit Board, ACP Pylon, Acrylic Boards, Cutout, Standee, Etc.</li>\n<li><strong>Digital Marketing: </strong>SEO, UI/UX, Content Marketing, and Web Development.</li>\n</ul>\n<p><strong>2. Event Management: </strong>The company organizes and manages all the requirements for Corporate Events including Meetings, Incentive Programs, and Conferences, Exhibitions (MICE). They arrange events for Banking, Insurance, Asset Management Companies, etc., and have organized over 200 events of various magnitudes so far.</p>\n<p><strong>3. Corporate Gifting: </strong>The company provides corporate gifting vouchers and customized solutions suitable to all occasions including personalization and providing logo printing as per designs.</p>\n<p><strong>4. E-commerce:</strong> The company also provides Home Appliances, Electronic Gadgets, Mobiles, Laptops, Toys &amp; day to day needs products through its e-commerce platform.</p>\n<p>The company holds <strong>World Record for Conducting 15,250 Roadshows/ Lead Generation and Sales Promotion activities.</strong></p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "2568.38",
+          "13872.44",
+          "361.55",
+          "541.93",
+          "540.93",
+          "110.60"
+        ],
+        [
+          "31-Mar-21",
+          "3871.07",
+          "18506.21",
+          "509.15",
+          "1051.09",
+          "1050.09",
+          "103.52"
+        ],
+        [
+          "31-Mar-22",
+          "4972.47",
+          "28609.09",
+          "791.63",
+          "1842.72",
+          "1841.72",
+          "132.17"
+        ],
+        [
+          "31-Oct-22",
+          "4763.15",
+          "14883.52",
+          "610.28",
+          "2453.00",
+          "1702.00",
+          "93.62"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Innokaiz India IPO raises Rs 6.03 crore from anchor investors. Innokaiz India IPO Anchor bid date is April 27 2023. Innokaiz India IPO Anchor Investors list",
+    "list_link": {
+      "text": "Innokaiz India IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/others/innokaiz-company-anchor-intimation.pdf"
+    },
+    "details": {
+      "ipo_date": "August 6 2023",
+      "shares_offered": "772800",
+      "anchor_portion_size": "6.03"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "April 28, 2023 to May 3, 2023",
+    "ipoListingDate": "Thu, May 11, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹78.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "27,13,600 shares (aggregating up to ₹21.17 Cr)",
+    "freshIssue": "27,13,600 shares (aggregating up to ₹21.17 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "1,36,000 shares",
+      "maker_name": "Gretex Share Broking Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/247/"
+    },
+    "ipoOpenDate": "Fri, Apr 28, 2023",
+    "ipoCloseDate": "Wed, May 3, 2023",
+    "initiationOfRefunds": "Tue, May 9, 2023",
+    "creditOfSharesToDemat": "Wed, May 10, 2023",
+    "shareHoldingPreIssue": "75,10,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "75,10,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "98.00"
+      }
+    ],
+    "shareHoldingPostIssue": "1,02,23,600 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,02,23,600 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "71.99"
+      }
+    ]
+  },
+  "closing_date": "2023-05-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "044-28250545",
+    "email": "info@innokaiz.com",
+    "full_address": "Innokaiz India Limited, Door No. 43 Old No. 22, Real Enclave Flat No. 1 4th Floor, Josier Street Nungambakkam Chennai- 600034",
+    "website": "https://innokaiz.com/"
+  },
+  "createdAt": "2025-04-18T17:40:44.441Z",
+  "faqs": [
+    {
+      "question": "What is the Innokaiz India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Innokaiz India IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2713600<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->21.17<!-- --> Crores. The issue is priced at <span>₹78 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->April 28, 2023</b>, and <b>closes on <!-- -->May 3, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Innokaiz India IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Innokaiz India IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Innokaiz India IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Innokaiz India IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Innokaiz India IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Innokaiz India IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Innokaiz India IPO opens on April 28, 2023 and closes on May 3, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Innokaiz India IPO?",
+      "answer": "<div itemprop=\"text\"><p>Innokaiz India IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,24,800</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Innokaiz India IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Innokaiz India IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Innokaiz India IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Innokaiz India IPO<!-- --> will be done on <!-- -->Monday, May 8, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, May 10, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/innokaiz-india-ipo/1415/\" title=\"Innokaiz India IPO Allotment Status\">Innokaiz India IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Innokaiz India IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Innokaiz India IPO<!-- --> listing date is on <b>Thursday, May 11, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Innokaiz India",
+  "issue_price": "₹78.00",
+  "issue_price_numeric": 78,
+  "issue_size": "27,13,600 shares (aggregating up to ₹21.17 Cr)",
+  "issue_size_numeric": 27,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Gretex Corporate Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/123/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/123/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "78.00"
+      },
+      "open": {
+        "bse_sme": "148.20"
+      },
+      "low": {
+        "bse_sme": "148.20"
+      },
+      "high": {
+        "bse_sme": "155.61"
+      },
+      "last_trade": {
+        "bse_sme": "155.61"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 11 2023",
+    "bse_script_code": "543905",
+    "isin": "INE0LDI01022",
+    "final_issue_price": "78 per share"
+  },
+  "listing_date": "2023-05-10T18:30:00.000Z",
+  "listing_gains": "99.50%",
+  "listing_gains_numeric": 99.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/innokaiz-india-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/innokaiz-india-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "124800"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "124800"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "249600"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/innokaiz-india-ipo/1415/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-04-27T18:30:00.000Z",
+  "pageHeading": "Innokaiz India Limited IPO (Innokaiz India IPO) Detail",
+  "pageTitle": "Innokaiz India IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Balakrishnan Sukumarbalakrishnan is the company promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "98.00",
+      "share_holding_post_issue": "71.99"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Innokaiz India IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/373086/DRHP_Innokaiz_20230303203206.pdf"
+    },
+    {
+      "text": "Innokaiz India IPO RHP",
+      "url": "https://www.bseindia.com/corporates/download/373086/SME_IPO%20BasisOfAllotment/Prospectus_Innokaiz_20230506143245.pdf"
+    },
+    {
+      "text": "Anchor Investors in Innokaiz India IPO",
+      "url": "https://www.chittorgarh.net/reports/others/innokaiz-company-anchor-intimation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/innokaiz-india-ipo/1415/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Innokaiz India IPO offers 2713600 shares. 515200 (18.99%) to QIB 387200 (14.27%) to NII 902400 (33.25%) to RII 772800 (28.48%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "772800 (28.48%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "136000 (5.01%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "515200 (18.99%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "387200 (14.27%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "902400 (33.25%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2713600 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.441Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Innokaiz India IPO is subscribed 95.08 times on May 3 2023 7:02:00 PM (Day 3). The public issue subscribed 46.1 times in the retail category 23.93 times in the QIB category and 303.92 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "23.93",
+        "shares_offered": "515200",
+        "shares_bid_for": "12329600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "303.92",
+        "shares_offered": "387200",
+        "shares_bid_for": "117681600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "46.1",
+        "shares_offered": "902400",
+        "shares_bid_for": "41604800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "95.08",
+        "shares_offered": "1804800",
+        "shares_bid_for": "171616000"
+      }
+    },
+    "total_applications": "28624",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 3 2023",
+    "tentative_allotment": "Mon May 8 2023",
+    "initiation_of_refunds": "Tue May 9 2023",
+    "credit_of_shares_to_demat": "Wed May 10 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:33.183Z",
+  "updated_at": "2025-04-18T17:40:44.441Z",
+  "year": 2023,
+  "worst_listing_gains": "99.50%",
+  "worst_listing_gains_numeric": 99.5
+}

@@ -1,0 +1,505 @@
+{
+  "_id": "680249ff3ccffd1c7912c7c7",
+  "ipo_id": "2024_p_n_gadgil_jewellers_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:22:21.810Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/p-n-gadgil-jewellers-ipo/1841/"
+  },
+  "about": {
+    "details": "<p>P N Gadgil Jewellers Limited was established in 2013 and offers a wide range of precious metal/jewelry products including gold, silver, platinum, and diamond jewelry under its brand name \"PNG\" in various price ranges and designs.</p>\n<p>As of December 31, 2023, the Company has 8 sub-brands offering gold jewelry collections for various occasions, namely Saptam, Swarajya, Rings of Love, The Golden Katha of Craftmanship, Flip, Litestyle, Pratha and Yoddha, two sub-brands offering diamond jewelry collections, namely Eiina and PNG Solitaire, and two sub-brands offering platinum jewelry collections, namely Men of Platinum and Evergreen Love. The company also offers its customers the option of having jewelry made to measure.</p>\n<p>As of December 31, 2023, the Company had grown to 33 stores, including 32 stores across 18 cities in Maharashtra and Goa and one store in the US with a total retail space of approximately 95,885 sq. ft. All stores are operated and managed by the company, with 23 stores owned by the company and 10 stores operated by franchisees under the FOCO (franchisee-owned and company-operated) model. Of these stores, 19 are large format (2,500 sq. ft. or more), 11 are medium format (between 1,000 sq. ft. to 2,500 sq.ft.) and 3 are small format (less than 1,000 sq. ft.).</p>\n<div>As of September 30, 2023, the company had 1,152 employees.</div>"
+  },
+  "additionalTables": [
+    {
+      "heading": "P N Gadgil Jewellers Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1464.98",
+          "1062.55",
+          "1110.24"
+        ],
+        [
+          "Revenue",
+          "6119.1",
+          "4559.31",
+          "2586.31"
+        ],
+        [
+          "Profit After Tax",
+          "154.34",
+          "93.7",
+          "69.52"
+        ],
+        [
+          "Net Worth",
+          "534.38",
+          "365.73",
+          "282.01"
+        ],
+        [
+          "Reserves and Surplus",
+          null,
+          "255.53",
+          "191.22"
+        ],
+        [
+          "Total Borrowing",
+          "396.5",
+          "283.21",
+          "294.93"
+        ]
+      ]
+    },
+    {
+      "heading": "P N Gadgil Jewellers Limited Stock Quote & Charts",
+      "sanitizedHeading": "p_n_gadgil_jewellers_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "28.88%"
+        ],
+        [
+          "ROCE",
+          "27.31%"
+        ],
+        [
+          "Debt/Equity",
+          "0.74"
+        ],
+        [
+          "RoNW",
+          "28.88%"
+        ],
+        [
+          "PAT Margin",
+          "2.53"
+        ],
+        [
+          "Price to Book Value",
+          "10.60"
+        ]
+      ]
+    },
+    {
+      "heading": "P N Gadgil Jewellers Limited Stock Quote & Charts",
+      "sanitizedHeading": "p_n_gadgil_jewellers_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "13.08",
+          "11.37"
+        ],
+        [
+          "P/E (x)",
+          "36.7",
+          "42.2"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "P N Gadgil Jewellers IPO raises Rs 330.00 crore from anchor investors. P N Gadgil Jewellers IPO Anchor bid date is September 9 2024. P N Gadgil Jewellers IPO Anchor Investors list",
+    "list_link": {
+      "text": "P N Gadgil Jewellers IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/png_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "December 12 2024",
+      "shares_offered": "6874999",
+      "anchor_portion_size": "330.00"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 10, 2024 to September 12, 2024",
+    "ipoListingDate": "Tue, Sep 17, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹480.00",
+    "lotSize": "31 Shares",
+    "issueSize": "2,29,16,667 shares (aggregating up to ₹1,100.00 Cr)",
+    "freshIssue": "1,77,08,334 shares (aggregating up to ₹850.00 Cr)",
+    "offerForSale": "52,08,333 shares of ₹10 (aggregating up to ₹250.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Sep 10, 2024",
+    "ipoCloseDate": "Thu, Sep 12, 2024",
+    "initiationOfRefunds": "Mon, Sep 16, 2024",
+    "creditOfSharesToDemat": "Mon, Sep 16, 2024",
+    "shareHoldingPreIssue": "11,80,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "11,80,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "13,57,08,334 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "13,57,08,334 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "83.11 %"
+      }
+    ]
+  },
+  "closing_date": "2024-09-11T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+912024478474",
+    "email": "secretarial@pngadgil.com",
+    "full_address": "P N Gadgil Jewellers Limited, 694, Narayan Peth, Pune - 411 030",
+    "website": "https://www.pngjewellers.com/"
+  },
+  "createdAt": "2025-04-18T12:47:59.730Z",
+  "faqs": [
+    {
+      "question": "What is the P N Gadgil Jewellers IPO?",
+      "answer": "<div itemprop=\"text\"><p>P N Gadgil Jewellers IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->22916667<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->1,100.00<!-- --> Crores. The issue is priced at <span>₹480 per share</span>. The minimum order quantity is <!-- -->31<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 10, 2024</b>, and <b>closes on <!-- -->September 12, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in P N Gadgil Jewellers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->P N Gadgil Jewellers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->P N Gadgil Jewellers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->P N Gadgil Jewellers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->P N Gadgil Jewellers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When P N Gadgil Jewellers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The P N Gadgil Jewellers IPO opens on September 10, 2024 and closes on September 12, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of P N Gadgil Jewellers IPO?",
+      "answer": "<div itemprop=\"text\"><p>P N Gadgil Jewellers IPO<!-- --> <b>lot size is <!-- -->31</b>, and the <b>minimum amount required is <span>₹14,880</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for P N Gadgil Jewellers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->P N Gadgil Jewellers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is P N Gadgil Jewellers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->P N Gadgil Jewellers IPO<!-- --> will be done on <!-- -->Friday, September 13, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, September 16, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/p-n-gadgil-jewellers-ipo/1841/\" title=\"P N Gadgil Jewellers IPO Allotment Status\">P N Gadgil Jewellers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is P N Gadgil Jewellers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->P N Gadgil Jewellers IPO<!-- --> listing date is on <b>Tuesday, September 17, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "P N Gadgil Jewellers",
+  "issue_price": "₹480.00",
+  "issue_price_numeric": 480,
+  "issue_size": "2,29,16,667 shares (aggregating up to ₹1,100.00 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "url": "/report/ipo-lead-manager-review/112/28/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/28/"
+    },
+    {
+      "name": "Nuvama Wealth Management Limited",
+      "url": "/report/ipo-lead-manager-review/112/408/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/408/"
+    },
+    {
+      "name": "Bob Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/48/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/48/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "480.00",
+        "nse": "480.00"
+      },
+      "open": {
+        "bse": "834.00",
+        "nse": "830.00"
+      },
+      "low": {
+        "bse": "782.00",
+        "nse": "781.50"
+      },
+      "high": {
+        "bse": "843.80",
+        "nse": "848.00"
+      },
+      "last_trade": {
+        "bse": "792.80",
+        "nse": "793.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 17 2024",
+    "bse_script_code": "544256",
+    "nse_symbol": "PNGJL",
+    "isin": "INE953R01016",
+    "final_issue_price": "480 per share"
+  },
+  "listing_date": "2024-09-16T18:30:00.000Z",
+  "listing_gains": "65.17%",
+  "listing_gains_numeric": 65.17,
+  "logo": "https://www.chittorgarh.net/images/ipo/png-jwellers-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/png-jwellers-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 31 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "31",
+        "amount": "14880"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "403",
+        "amount": "193440"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "434",
+        "amount": "208320"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "2077",
+        "amount": "996960"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "2108",
+        "amount": "1011840"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/p-n-gadgil-jewellers-ipo/1841/"
+    }
+  },
+  "lot_size": 31,
+  "opening_date": "2024-09-09T18:30:00.000Z",
+  "pageHeading": "P N Gadgil Jewellers Limited IPO (P N Gadgil Jewellers IPO) Detail",
+  "pageTitle": "P N Gadgil Jewellers IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Saurabh Vidyadhar Gadgil Radhika Saurabh Gadgil and SVG Business Trust are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "83.11 %"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "P N Gadgil Jewellers IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/mar-2024/p-n-gadgil-jewellers-limited-drhp_82611.html"
+    },
+    {
+      "text": "P N Gadgil Jewellers IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/p-n-gadgil-jewellers-limited-rhp_86571.html"
+    },
+    {
+      "text": "Anchor Investors in P N Gadgil Jewellers IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/png_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "3",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "3",
+        "neutral": "0",
+        "avoid": "2"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/p-n-gadgil-jewellers-ipo/1841/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "P N Gadgil Jewellers IPO offers 23760963 shares. 4824560 (20.3%) to QIB 3618421 (15.23%) to NII 8442983 (35.53%) to RII and 6874999 (28.93%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "6874999 (28.93%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4824560 (20.3%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3618421 (15.23%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2412281 (10.15%)",
+        "maximum_allottees": "5558"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1206140 (5.08%)",
+        "maximum_allottees": "2779"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "8442983 (35.53%)",
+        "maximum_allottees": "272354"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "23760963 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.729Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The P N Gadgil Jewellers IPO is subscribed 59.41 times on September 12 2024 6:19:07 PM (Day 3). The public issue subscribed 16.58 times in the retail category 136.85 times in the QIB category and 56.08 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "136.85",
+        "shares_offered": "4824560",
+        "shares_bid_for": "660226623"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "56.08",
+        "shares_offered": "3618421",
+        "shares_bid_for": "202937439"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "59.11",
+        "shares_offered": "2412281",
+        "shares_bid_for": "142591227"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "50.03",
+        "shares_offered": "1206140",
+        "shares_bid_for": "60346212"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "16.58",
+        "shares_offered": "8442983",
+        "shares_bid_for": "139955049"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "59.41",
+        "shares_offered": "16885964",
+        "shares_bid_for": "1003119111"
+      }
+    },
+    "total_applications": "3986537"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 12 2024",
+    "tentative_allotment": "Fri Sep 13 2024",
+    "initiation_of_refunds": "Mon Sep 16 2024",
+    "credit_of_shares_to_demat": "Mon Sep 16 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:07.697Z",
+  "updated_at": "2025-04-18T12:47:59.729Z",
+  "year": 2024,
+  "worst_listing_gains": "65.17%",
+  "worst_listing_gains_numeric": 65.17
+}

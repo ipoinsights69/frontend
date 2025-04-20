@@ -1,0 +1,498 @@
+{
+  "_id": "680249ff3ccffd1c7912c7b8",
+  "ipo_id": "2024_orient_technologies_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:24:11.846Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/orient-technologies-ipo/1809/"
+  },
+  "about": {
+    "details": "<p>Incorporated in July 1997, Orient Technologies Limited is a fast-growing information technology (IT) solutions provider headquartered in Mumbai, Maharashtra. The company has developed extensive knowledge to create products and solutions for specific areas within its business verticals.</p>\n<p>These areas are outlined below:</p>\n<p><strong>IT Infrastructure:</strong> Products and solutions include Data Centre Solutions and End-User Computing;</p>\n<p><strong>IT Enabled Services (IteS)</strong>: Services include Managed Services, Multi-Vendor Support Services, IT Facility Management Services, Network Operations Centre Services, Security Services, and Renewals; and</p>\n<p><strong>Cloud and Data Management Services</strong>: Services include migration of workload from data centres to cloud.</p>\n<p>The company's wide range of customized offerings and its ability to tailor solutions to meet customers' specific needs have enabled it to attract prominent clients across various industries. They serve leading public and private sector entities in diverse customer industries, such as banking, financial services, insurance (BFSI), IT, ITeS, and healthcare/pharmaceutical.</p>\n<p>Orient Technologies Limited, established in July 1997, is a fast-growing IT solutions provider based in Mumbai. It specializes in IT infrastructure, IT-enabled services (IteS), and cloud and data management services.</p>\n<p>The clientele of the company includes Bluechip Corporate Investment Centre Private Limited (Bluechip), Tradebulls Securities Private Limited (Tradebulls), Vasai Janata Sahakari Bank Limited (VJS Bank) and Vasai Vikas Sahakari Bank Limited (VKS Bank), Integreon Managed Solutions India Private Limited (Integreon),Coal India Limited (Coal India), Mazagon Dock Shipbuilders Limited (Mazagon Dock), Joint Commissioner of Sales Tax (GST Mahavikas), Mumbai and D'Décor Exports Private Limited (D'Décor).</p>\n<p>The company has received the following certifications: ISO 27001:2013 for Information Security Management System, ISO 20000-1:2018 for Information Technology Services Management, ISO 9001:2015 for Quality Management System, and ISO/IEC 27001:2013 for Information Security Management System. Additionally, we have been awarded the ISO 22301:2012 certificate for our business continuity management systems and the CMMI Maturity Level 3 Certificate.</p>\n<p>The company's corporate office is in Mumbai, Maharashtra, and sales and services offices are located in various cities in India, such as Navi Mumbai and Pune in Maharashtra, Ahmedabad, Gujarat, New Delhi, Bengaluru, Karnataka, and Chennai, Tamil Nadu.</p>\n<p>The company has 1,482 permanent employees as of June 30, 2024.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Orient Technologies Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "311.14",
+          "215.25",
+          "176.32",
+          "112.45"
+        ],
+        [
+          "Revenue",
+          "606.86",
+          "542.01",
+          "469.12",
+          "248.96"
+        ],
+        [
+          "Profit After Tax",
+          "41.45",
+          "38.3",
+          "33.49",
+          "0.13"
+        ],
+        [
+          "Net Worth",
+          "175.31",
+          "128.82",
+          "94.11",
+          "61.29"
+        ],
+        [
+          "Reserves and Surplus",
+          "138.79",
+          "111.32",
+          "76.61",
+          "44.79"
+        ],
+        [
+          "Total Borrowing",
+          "4.82",
+          "12.86",
+          "2.28",
+          "9.22"
+        ]
+      ]
+    },
+    {
+      "heading": "Orient Technologies Limited Stock Quote & Charts",
+      "sanitizedHeading": "orient_technologies_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "27.26"
+        ],
+        [
+          "ROCE",
+          "28.42"
+        ],
+        [
+          "RoNW",
+          "23.64"
+        ],
+        [
+          "PAT Margin",
+          "6.87"
+        ],
+        [
+          "Price to Book Value",
+          "4.21"
+        ]
+      ]
+    },
+    {
+      "heading": "Orient Technologies Limited Stock Quote & Charts",
+      "sanitizedHeading": "orient_technologies_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "11.57",
+          "9.95"
+        ],
+        [
+          "P/E (x)",
+          "17.8",
+          "20.7"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Orient Technologies IPO raises Rs 64.43 crore from anchor investors. Orient Technologies IPO Anchor bid date is August 19 2024. Orient Technologies IPO Anchor Investors list",
+    "list_link": {
+      "text": "Orient Technologies IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/orienttechnologiesanchorinvestorletter.pdf"
+    },
+    "details": {
+      "ipo_date": "November 23 2024",
+      "shares_offered": "3127522",
+      "anchor_portion_size": "64.43"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 21, 2024 to August 23, 2024",
+    "ipoListingDate": "Wed, Aug 28, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹206.00",
+    "lotSize": "72 Shares",
+    "issueSize": "1,04,25,243 shares (aggregating up to ₹214.76 Cr)",
+    "freshIssue": "58,25,243 shares (aggregating up to ₹120.00 Cr)",
+    "offerForSale": "46,00,000 shares of ₹10 (aggregating up to ₹94.76 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Aug 21, 2024",
+    "ipoCloseDate": "Fri, Aug 23, 2024",
+    "initiationOfRefunds": "Tue, Aug 27, 2024",
+    "creditOfSharesToDemat": "Tue, Aug 27, 2024",
+    "shareHoldingPreIssue": "3,58,16,500 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "3,58,16,500 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "97.96%"
+      }
+    ],
+    "shareHoldingPostIssue": "4,16,41,743 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "4,16,41,743 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73.21%"
+      }
+    ]
+  },
+  "closing_date": "2024-08-22T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 4292 8777",
+    "email": "complianceofficer@orientindia.net",
+    "full_address": "Orient Technologies Limited, Off No-502 5th Floor Akruti Star, Central Road MIDC Opp. Akruti Point Central, Andheri (East) Mumbai - 400093",
+    "website": "https://www.orientindia.in/"
+  },
+  "createdAt": "2025-04-18T12:47:59.523Z",
+  "faqs": [
+    {
+      "question": "What is the Orient Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Orient Technologies IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->10425243<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->214.76<!-- --> Crores. The issue is priced at <span>₹206 per share</span>. The minimum order quantity is <!-- -->72<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 21, 2024</b>, and <b>closes on <!-- -->August 23, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Orient Technologies IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Orient Technologies IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Orient Technologies IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Orient Technologies IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Orient Technologies IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Orient Technologies IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Orient Technologies IPO opens on August 21, 2024 and closes on August 23, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Orient Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>Orient Technologies IPO<!-- --> <b>lot size is <!-- -->72</b>, and the <b>minimum amount required is <span>₹14,832</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Orient Technologies IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Orient Technologies IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Orient Technologies IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Orient Technologies IPO<!-- --> will be done on <!-- -->Monday, August 26, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, August 27, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/orient-technologies-ipo/1809/\" title=\"Orient Technologies IPO Allotment Status\">Orient Technologies IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Orient Technologies IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Orient Technologies IPO<!-- --> listing date is on <b>Wednesday, August 28, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Orient Technologies",
+  "issue_price": "₹206.00",
+  "issue_price_numeric": 206,
+  "issue_size": "1,04,25,243 shares (aggregating up to ₹214.76 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Elara Capital",
+      "url": "/report/ipo-lead-manager-review/112/117/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/117/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "206.00",
+        "nse": "206.00"
+      },
+      "open": {
+        "bse": "290.00",
+        "nse": "288.00"
+      },
+      "low": {
+        "bse": "285.10",
+        "nse": "287.20"
+      },
+      "high": {
+        "bse": "304.45",
+        "nse": "302.40"
+      },
+      "last_trade": {
+        "bse": "304.45",
+        "nse": "302.40"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 28 2024",
+    "bse_script_code": "544235",
+    "nse_symbol": "ORIENTTECH",
+    "isin": "INE0PPK01015",
+    "final_issue_price": "206 per share"
+  },
+  "listing_date": "2024-08-27T18:30:00.000Z",
+  "listing_gains": "47.79%",
+  "listing_gains_numeric": 47.79,
+  "logo": "https://www.chittorgarh.net/images/ipo/orient_techologies_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/orient_techologies_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 72 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "72",
+        "amount": "14832"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "936",
+        "amount": "192816"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1008",
+        "amount": "207648"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "4824",
+        "amount": "993744"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "4896",
+        "amount": "1008576"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/orient-technologies-ipo/1809/"
+    }
+  },
+  "lot_size": 72,
+  "opening_date": "2024-08-20T18:30:00.000Z",
+  "pageHeading": "Orient Technologies Limited IPO (Orient Technologies IPO) Detail",
+  "pageTitle": "Orient Technologies IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Ajay Baliram Sawant Jayesh Manharlal Shah Umesh Navnitlal Shah and Ujwal Arvind Mhatre are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "97.96%",
+      "share_holding_post_issue": "73.21%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Orient Technologies IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/orient-technologies-limited-drhp_81751.html"
+    },
+    {
+      "text": "Orient Technologies IPO RHP",
+      "url": "https://nsearchives.nseindia.com/content/ipo/RHP_ORIENTTECH.zip"
+    },
+    {
+      "text": "Anchor Investors in Orient Technologies IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/orienttechnologiesanchorinvestorletter.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "11",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/orient-technologies-ipo/1809/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "complianceofficer@orientindia.net",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Orient Technologies IPO offers 10425192 shares. 2085049 (20.00%) to QIB 1563786 (15.00%) to NII 3648835 (35.00%) to RII and 3127522 (30.00%) to Anchor investors. 50678 RIIs will receive minimum 72 shares and 517 (sNII) and 1034 (bNII) will receive minimum 1008 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "3127522 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2085049 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1563786 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1042525 (10.00%)",
+        "maximum_allottees": "1034"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "521262 (5.00%)",
+        "maximum_allottees": "517"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3648835 (35.00%)",
+        "maximum_allottees": "50678"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "10425192 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:59.523Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Orient Technologies IPO is subscribed 154.84 times on August 23 2024 6:19:09 PM (Day 3). The public issue subscribed 68.93 times in the retail category 188.79 times in the QIB category and 310.03 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "188.79",
+        "shares_offered": "2085049",
+        "shares_bid_for": "393646320"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "310.03",
+        "shares_offered": "1563786",
+        "shares_bid_for": "484827696"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "343.45",
+        "shares_offered": "1042525",
+        "shares_bid_for": "358054992"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "243.2",
+        "shares_offered": "521262",
+        "shares_bid_for": "126772704"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "68.93",
+        "shares_offered": "3648835",
+        "shares_bid_for": "251519688"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "154.84",
+        "shares_offered": "7297670",
+        "shares_bid_for": "1129993704"
+      }
+    },
+    "total_applications": "2923835"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 23 2024",
+    "tentative_allotment": "Mon Aug 26 2024",
+    "initiation_of_refunds": "Tue Aug 27 2024",
+    "credit_of_shares_to_demat": "Tue Aug 27 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:05.467Z",
+  "updated_at": "2025-04-18T12:47:59.523Z",
+  "year": 2024,
+  "worst_listing_gains": "47.79%",
+  "worst_listing_gains_numeric": 47.79
+}

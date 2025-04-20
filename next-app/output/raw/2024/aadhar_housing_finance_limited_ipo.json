@@ -1,0 +1,519 @@
+{
+  "_id": "680249f93ccffd1c7912c6fc",
+  "ipo_id": "2024_aadhar_housing_finance_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:31:21.439Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/aadhar-housing-finance-ipo/1717/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2010, Aadhar Housing Finance Limited is a housing finance company targeting the lower income segment.&nbsp;</p>\n<p>The deep impact branches' sales offices aim to serve customers in India's tier 4 and tier 5 towns.</p>\n<p>As of Sept. 30, 2023, the company enrolled 12,221 Aadhar Mitras who get referral fees for sourcing customers' loans.</p>\n<p>The company provides a variety of mortgage loan products for residential and commercial property purchase and construction, home improvement and extension.</p>\n<p>As of September 30, 2023, the company has a vast network of 471 branches, including 91 sales offices.&nbsp;These branches and sales offices are spread across 20 states and union territories, and they operate in around 10,926 pin codes throughout India.</p>\n<p>As of September 30th, 2023, the company has 3,695 employees. Its subsidiary, Aadhar Sales and Services Private Limited (ASSPL), has 1,851 employees.</p>\n<p>The company has served 246,983 customers nationwide through 471 branches and offices.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Aadhar Housing Finance Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "18035.57",
+          "16617.87",
+          "14375.81",
+          "13630.33"
+        ],
+        [
+          "Revenue",
+          "1895.17",
+          "2043.52",
+          "1728.56",
+          "1575.55"
+        ],
+        [
+          "Profit After Tax",
+          "547.88",
+          "545.34",
+          "446.20",
+          "340.46"
+        ],
+        [
+          "Net Worth",
+          "4249.10",
+          "3697.60",
+          "3146.63",
+          "2692.76"
+        ],
+        [
+          "Total Borrowing",
+          "13127.59",
+          "12153.45",
+          "10674.59",
+          "10374.47"
+        ]
+      ]
+    },
+    {
+      "heading": "Aadhar Housing Finance Limited Stock Quote & Charts",
+      "sanitizedHeading": "aadhar_housing_finance_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "18.4%"
+        ],
+        [
+          "Debt/Equity",
+          "3.10"
+        ],
+        [
+          "RoNW",
+          "12.9%"
+        ],
+        [
+          "Price to Book Value",
+          "2.93"
+        ]
+      ]
+    },
+    {
+      "heading": "Aadhar Housing Finance Limited Stock Quote & Charts",
+      "sanitizedHeading": "aadhar_housing_finance_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "13.81",
+          "17.13"
+        ],
+        [
+          "P/E (x)",
+          "22.8",
+          "18.39"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Aadhar Housing Finance IPO raises Rs 897.90 crore from anchor investors. Aadhar Housing Finance IPO Anchor bid date is May 7 2024. Aadhar Housing Finance IPO Anchor Investors list",
+    "list_link": {
+      "text": "Aadhar Housing Finance IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/aadhar-housing-finance-limited-company-anchor-intimation-letter.pdf"
+    },
+    "details": {
+      "ipo_date": "August 11 2024",
+      "shares_offered": "28504761",
+      "anchor_portion_size": "897.90"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "May 8, 2024 to May 10, 2024",
+    "ipoListingDate": "Wed, May 15, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹315.00",
+    "lotSize": "47 Shares",
+    "issueSize": "9,52,38,095 shares (aggregating up to ₹3,000.00 Cr)",
+    "freshIssue": "3,17,46,032 shares (aggregating up to ₹1,000.00 Cr)",
+    "offerForSale": "6,34,92,063 shares of ₹10 (aggregating up to ₹2,000.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, May 8, 2024",
+    "ipoCloseDate": "Fri, May 10, 2024",
+    "initiationOfRefunds": "Tue, May 14, 2024",
+    "creditOfSharesToDemat": "Tue, May 14, 2024",
+    "shareHoldingPreIssue": "39,47,54,970 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "39,47,54,970 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "98.72%"
+      }
+    ],
+    "shareHoldingPostIssue": "42,65,01,002 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "42,65,01,002 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "76.48%"
+      }
+    ]
+  },
+  "closing_date": "2024-05-09T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 41689900",
+    "email": "complianceofficer@aadharhousing.com",
+    "full_address": "Aadhar Housing Finance Limited, 2nd floor No. 3 JVT Towers, 8th‘A’ Main Road Sampangi Rama Nagar, Bengaluru-560027",
+    "website": "https://aadharhousing.com/"
+  },
+  "createdAt": "2025-04-18T12:47:53.227Z",
+  "faqs": [
+    {
+      "question": "What is the Aadhar Housing Finance IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aadhar Housing Finance IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->95238095<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->3,000.00<!-- --> Crores. The issue is priced at <span>₹315 per share</span>. The minimum order quantity is <!-- -->47<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 8, 2024</b>, and <b>closes on <!-- -->May 10, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Aadhar Housing Finance IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Aadhar Housing Finance IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Aadhar Housing Finance IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Aadhar Housing Finance IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Aadhar Housing Finance IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Aadhar Housing Finance IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Aadhar Housing Finance IPO opens on May 8, 2024 and closes on May 10, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Aadhar Housing Finance IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aadhar Housing Finance IPO<!-- --> <b>lot size is <!-- -->47</b>, and the <b>minimum amount required is <span>₹14,805</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Aadhar Housing Finance IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Aadhar Housing Finance IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Aadhar Housing Finance IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Aadhar Housing Finance IPO<!-- --> will be done on <!-- -->Monday, May 13, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, May 14, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/aadhar-housing-finance-ipo/1717/\" title=\"Aadhar Housing Finance IPO Allotment Status\">Aadhar Housing Finance IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Aadhar Housing Finance IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Aadhar Housing Finance IPO<!-- --> listing date is on <b>Wednesday, May 15, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Aadhar Housing Finance",
+  "issue_price": "₹315.00",
+  "issue_price_numeric": 315,
+  "issue_size": "9,52,38,095 shares (aggregating up to ₹3,000.00 Cr)",
+  "issue_size_numeric": 9,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/23/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/23/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "Nomura Financial Advisory And Securities",
+      "url": "/report/ipo-lead-manager-review/112/72/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/72/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "315.00",
+        "nse": "315.00"
+      },
+      "open": {
+        "bse": "314.30",
+        "nse": "315.00"
+      },
+      "low": {
+        "bse": "293.35",
+        "nse": "292.00"
+      },
+      "high": {
+        "bse": "343.20",
+        "nse": "343.70"
+      },
+      "last_trade": {
+        "bse": "329.55",
+        "nse": "329.45"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "May 15 2024",
+    "bse_script_code": "544176",
+    "nse_symbol": "AADHARHFC",
+    "isin": "INE883F01010",
+    "final_issue_price": "315 per share"
+  },
+  "listing_date": "2024-05-14T18:30:00.000Z",
+  "listing_gains": "4.62%",
+  "listing_gains_numeric": 4.62,
+  "logo": "https://www.chittorgarh.net/images/ipo/aadhar-housing-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/aadhar-housing-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 47 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "47",
+        "amount": "14805"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "611",
+        "amount": "192465"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "658",
+        "amount": "207270"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "3149",
+        "amount": "991935"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "3196",
+        "amount": "1006740"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/aadhar-housing-finance-ipo/1717/"
+    }
+  },
+  "lot_size": 47,
+  "opening_date": "2024-05-07T18:30:00.000Z",
+  "pageHeading": "Aadhar Housing Finance Limited IPO (Aadhar Housing Finance IPO) Detail",
+  "pageTitle": "Aadhar Housing Finance IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": ">BCP Topco VII Pte. Ltd. is the promoter of the Company.",
+    "holdings": {
+      "share_holding_pre_issue": "98.72%",
+      "share_holding_post_issue": "76.48%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Aadhar Housing Finance IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/aadhar-housing-finance-limited-drhp_81209.html"
+    },
+    {
+      "text": "Aadhar Housing Finance IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2024/aadhar-housing-finance-limited-rhp_83134.html"
+    },
+    {
+      "text": "Anchor Investors in Aadhar Housing Finance IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/aadhar-housing-finance-limited-company-anchor-intimation-letter.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "11",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "1",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/aadhar-housing-finance-ipo/1717/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "ahfl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Aadhar Housing Finance IPO offers 95255600 shares. 19003176 (19.95%) to QIB 14252381 (14.96%) to NII 33255556 (34.91%) to RII 239726 (0.25%) to employees and 28504761 (29.92%) to Anchor investors. 707565 RIIs will receive minimum 47 shares and 7220 (sNII) and 14440 (bNII) will receive minimum 658 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "28504761 (29.92%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "19003176 (19.95%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "14252381 (14.96%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "9501587 (9.97%)",
+        "maximum_allottees": "14440"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "4750794 (4.99%)",
+        "maximum_allottees": "7220"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "33255556 (34.91%)",
+        "maximum_allottees": "707565"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "239726 (0.25%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "95255600 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:53.226Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Aadhar Housing Finance IPO is subscribed 26.76 times on May 10 2024 6:19:07 PM (Day 3). The public issue subscribed 2.58 times in the retail category 76.42 times in the QIB category and 17.33 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "76.42",
+        "shares_offered": "19003176",
+        "shares_bid_for": "1452203838"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "17.33",
+        "shares_offered": "14252381",
+        "shares_bid_for": "246956424"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "18.9",
+        "shares_offered": "9501587",
+        "shares_bid_for": "179554617"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "14.19",
+        "shares_offered": "4750794",
+        "shares_bid_for": "67401807"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.58",
+        "shares_offered": "33255556",
+        "shares_bid_for": "85736601"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "6.88",
+        "shares_offered": "239726",
+        "shares_bid_for": "1648384"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "26.76",
+        "shares_offered": "66750839",
+        "shares_bid_for": "1786545247"
+      }
+    },
+    "total_applications": "1636280"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 10 2024",
+    "tentative_allotment": "Mon May 13 2024",
+    "initiation_of_refunds": "Tue May 14 2024",
+    "credit_of_shares_to_demat": "Tue May 14 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:35.460Z",
+  "updated_at": "2025-04-18T12:47:53.226Z",
+  "year": 2024,
+  "worst_listing_gains": "4.62%",
+  "worst_listing_gains_numeric": 4.62,
+  "last_performance_update": "2025-04-19T04:43:35.459Z"
+}

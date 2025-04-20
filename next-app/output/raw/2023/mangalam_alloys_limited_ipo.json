@@ -1,0 +1,424 @@
+{
+  "_id": "68028e9d3ccffd1c7912c911",
+  "ipo_id": "2023_mangalam_alloys_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:29:58.488Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/mangalam-alloys-ipo/1517/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1988, Mangalam Alloys Limited is a manufacturer of stainless-steel-based products.</p>\n<p>The company manufactures SS Ingots, SS Black Bar, SS RCS, SS Bright Round Bar, Bright Hex Bar, Bright Square Bar, Angle, Patti, Forgings, and Fasteners in more than 30 international grades and in the size range from 3 mm to 400 mm.</p>\n<p>Mangalam Alloys manufactures stainless steel ingots through three furnaces by melting stainless steel scrap, rolling ingots to stainless steel rounds &amp; flats followed by a heat treatment annealing furnace and bright bar unit. Its manufacturing unit spread across 40,000 sq. meters of land, has an installed capacity of 25,000 TPA (Melting Capacity).</p>\n<p>The company recorded Rs. 30,292.25 Lacs, Rs. 30,936.90 Lacs, and Rs. 27,125.88 Lacs in revenue from operation in fiscal 2023, 2022, and 2021 respectively.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "31210.81",
+          "30066.96",
+          "33201.81"
+        ],
+        [
+          "Revenue",
+          "27190.68",
+          "30973.94",
+          "30817.92"
+        ],
+        [
+          "Profit After Tax",
+          "-653.69",
+          "505.08",
+          "1013.52"
+        ],
+        [
+          "Net Worth",
+          "6390.37",
+          "6895.35",
+          "7903.11"
+        ],
+        [
+          "Reserves and Surplus",
+          "4534.42",
+          "5039.40",
+          "6047.16"
+        ],
+        [
+          "Total Borrowing",
+          "16769.66",
+          "16361.81",
+          "15353.27"
+        ]
+      ]
+    },
+    {
+      "heading": "Mangalam Alloys Limited Stock Quote & Charts",
+      "sanitizedHeading": "mangalam_alloys_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "12.82"
+        ],
+        [
+          "ROCE",
+          "20.92"
+        ],
+        [
+          "Debt/Equity",
+          "1.94"
+        ],
+        [
+          "RoNW",
+          "13.70%"
+        ]
+      ]
+    },
+    {
+      "heading": "Mangalam Alloys Limited Stock Quote & Charts",
+      "sanitizedHeading": "mangalam_alloys_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "5.46",
+          null
+        ],
+        [
+          "P/E (x)",
+          "14.65",
+          "19.46"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 21, 2023 to September 25, 2023",
+    "ipoListingDate": "Wed, Oct 4, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹80.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "68,64,000 shares (aggregating up to ₹54.91 Cr)",
+    "freshIssue": "61,26,400 shares (aggregating up to ₹49.01 Cr)",
+    "offerForSale": "7,37,600 shares of ₹10 (aggregating up to ₹5.90 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "3,44,000 shares",
+      "maker_name": "Rikhav Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/337/"
+    },
+    "ipoOpenDate": "Thu, Sep 21, 2023",
+    "ipoCloseDate": "Mon, Sep 25, 2023",
+    "initiationOfRefunds": "Mon, Oct 2, 2023",
+    "creditOfSharesToDemat": "Tue, Oct 3, 2023",
+    "shareHoldingPreIssue": "1,85,59,527 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,85,59,527 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "81.17%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,46,85,927 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,46,85,927 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "59.74%"
+      }
+    ]
+  },
+  "closing_date": "2023-09-24T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-2764 232064",
+    "email": "cs@mangalamalloys.com",
+    "full_address": "Mangalam Alloys Limited, Plot No. 3123-3126, GIDC Phase III, Chhatral Dist. Gandhinagar - 382729",
+    "website": "https://www.mangalamalloys.com/"
+  },
+  "createdAt": "2025-04-18T17:40:44.997Z",
+  "faqs": [
+    {
+      "question": "What is the Mangalam Alloys IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mangalam Alloys IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->6864000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->54.91<!-- --> Crores. The issue is priced at <span>₹80 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 21, 2023</b>, and <b>closes on <!-- -->September 25, 2023</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Mangalam Alloys IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Mangalam Alloys IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Mangalam Alloys IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Mangalam Alloys IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Mangalam Alloys IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Mangalam Alloys IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Mangalam Alloys IPO opens on September 21, 2023 and closes on September 25, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Mangalam Alloys IPO?",
+      "answer": "<div itemprop=\"text\"><p>Mangalam Alloys IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,28,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Mangalam Alloys IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Mangalam Alloys IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Mangalam Alloys IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Mangalam Alloys IPO<!-- --> will be done on <!-- -->Saturday, September 2, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, October 3, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/mangalam-alloys-ipo/1517/\" title=\"Mangalam Alloys IPO Allotment Status\">Mangalam Alloys IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Mangalam Alloys IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Mangalam Alloys IPO<!-- --> listing date is on <b>Wednesday, October 4, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Mangalam Alloys",
+  "issue_price": "₹80.00",
+  "issue_price_numeric": 80,
+  "issue_size": "68,64,000 shares (aggregating up to ₹54.91 Cr)",
+  "issue_size_numeric": 68,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Expert Global Consultants Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/196/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/196/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "80.00"
+      },
+      "open": {
+        "nse_sme": "80.00"
+      },
+      "low": {
+        "nse_sme": "76.00"
+      },
+      "high": {
+        "nse_sme": "80.00"
+      },
+      "last_trade": {
+        "nse_sme": "76.00"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 4 2023",
+    "nse_symbol": "MAL",
+    "isin": "INE00C401011",
+    "final_issue_price": "80 per share"
+  },
+  "listing_date": "2023-10-03T18:30:00.000Z",
+  "listing_gains": "-5.00%",
+  "listing_gains_numeric": -5,
+  "logo": "https://www.chittorgarh.net/images/ipo/mangalam-alloys-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/mangalam-alloys-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "128000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "128000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "256000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/mangalam-alloys-ipo/1517/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-09-20T18:30:00.000Z",
+  "pageHeading": "Mangalam Alloys Limited IPO (Mangalam Alloys IPO) Detail",
+  "pageTitle": "Mangalam Alloys IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Uttamchand Chandanmal Mehta and Mr. Tushar Uttamchand Mehta are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "81.17%",
+      "share_holding_post_issue": "59.74%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Mangalam Alloys IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/330175/IPO/Draft%20Prospectus%20-%20Mangalam%20Alloys%20Limited_20190329165635.pdf"
+    },
+    {
+      "text": "Mangalam Alloys IPO RHP",
+      "url": "https://archives.nseindia.com/emerge/corporates/content/MangalamAlloys_PROSP.pdf "
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/mangalam-alloys-ipo/1517/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Mangalam Alloys IPO offers 6864000 shares. 3259200 (47.48%) to NII 3260800 (47.51%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "344000 (5.01%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "3259200 (47.48%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3260800 (47.51%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "6864000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.997Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Mangalam Alloys IPO is subscribed 5.57 times on September 25 2023 7:29:00 PM (Day 3). The public issue subscribed 8.73 times in the retail category [.] times in the QIB category and 2.41 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.41",
+        "shares_offered": "3259200",
+        "shares_bid_for": "7848000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "8.73",
+        "shares_offered": "3260800",
+        "shares_bid_for": "28451200"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "5.57",
+        "shares_offered": "6520000",
+        "shares_bid_for": "36315200"
+      }
+    },
+    "total_applications": "17782",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 25 2023",
+    "tentative_allotment": "Sat Sep 2 2023",
+    "initiation_of_refunds": "Mon Oct 2 2023",
+    "credit_of_shares_to_demat": "Tue Oct 3 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:37.376Z",
+  "updated_at": "2025-04-18T17:40:44.997Z",
+  "year": 2023,
+  "worst_listing_gains": "-5.00%",
+  "worst_listing_gains_numeric": -5
+}

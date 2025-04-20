@@ -1,0 +1,534 @@
+{
+  "_id": "680249fc3ccffd1c7912c739",
+  "ipo_id": "2024_dam_capital_advisors_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:15:39.380Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/dam-capital-advisors-ipo/1936/"
+  },
+  "about": {
+    "details": "<p>DAM Capital Advisors Limited is an investment bank in India. The company offers a wide range of financial solutions in the areas of:</p>\n<p>(i) Investment banking comprising equity capital markets (ECM), mergers and acquisitions (M&amp;A), private equity (PE), and structured finance advisory; and</p>\n<p>(ii) Institutional equities comprising broking and research.</p>\n<p>The company has successfully executed 72 ECM transactions comprising 27 IPOs, 16 qualified institutions placements, 6 offers for sale, 6 preferential issues, 4 rights issues, 8 buybacks, 4 open offers and 1 initial public offer of units by a real estate investment trust. (since the Acquisition i.e., November 7, 2019, till October 31, 2024).</p>\n<p>DAM Capital Advisors Limited has also advised on 23 advisory transactions including M&amp;A; A advisory, private equity advisory and structured finance advisory and has also executed block trades since the Acquisition i.e., November 7, 2019, till October 31, 2024.</p>\n<p>The institutional equities business, as of October 31, 2024, comprises 29 employees in research and 34 employees in the broking team.</p>\n<p>The company has provided services to 263 active clients including registered FPIs spread across geographies such as India, USA, UK, Europe, Hong Kong, Singapore, Australia, Taiwan, South Korea, Middle East and South Africa.</p>\n<p>As of October 31, 2024, The company had a team of 121 employees across all businesses. The company's wholly-owned Subsidiary, DAM Capital (USA) Inc. is incorporated in New York, USA and is registered as a Broker-Dealer with the Securities and Exchange Commission.</p>\n<p>Company's History:</p>\n<p>The company started its journey in the securities market in 1993 as S.S. Kantilal Ishwarlal Sharebrokers and Investors Private Limited. In 1994, the company rebranded as S.S. Kantilal Ishwarlal Securities Private Limited (SSKIPL).</p>\n<p>In 2006, Infrastructure Development Finance Company (IDFC) started acquiring SSKIPL, completing the process in 2008. In 2019, the IDFC group sold its entire stake to Dharmesh Anil Mehta and other investors. Following this, in July 2020, the company rebranded as DAM Capital Advisors Limited.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "DAM Capital Advisors IPO Details",
+      "sanitizedHeading": "dam_capital_advisors",
+      "headers": [
+        "Application Category",
+        "Maximum Bidding Limits",
+        "Bidding at Cut-off Price Allowed"
+      ],
+      "rows": [
+        [
+          "Only RII",
+          "Up to Rs 2 Lakhs",
+          "Yes"
+        ],
+        [
+          "Only sNII",
+          "Rs 2 Lakhs to Rs 10 Lakhs",
+          "No"
+        ],
+        [
+          "Only bNII",
+          "Rs 10 Lakhs to NII Reservation Portion",
+          "No"
+        ],
+        [
+          "Only employee",
+          "Up to Rs 5 Lakhs",
+          "Yes"
+        ],
+        [
+          "Employee + RII/NII",
+          "Employee limit: Up to Rs 5 Lakhs (In certain cases employees are given discount if bidding amount is upto Rs. 2 lakhs) If applying as RII: Upto Rs. 2 lakhs If applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+          "Yes for Employee and RII/NII"
+        ]
+      ]
+    },
+    {
+      "heading": "DAM Capital Advisors Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "214.68",
+          "1201.16",
+          "166.72"
+        ],
+        [
+          "Revenue",
+          "182",
+          "85.04",
+          "94.51"
+        ],
+        [
+          "Profit After Tax",
+          "70.52",
+          "8.67",
+          "21.9"
+        ],
+        [
+          "Net Worth",
+          "162.61",
+          "95.13",
+          "87.97"
+        ],
+        [
+          "Reserves and Surplus",
+          "148.47",
+          "80.99",
+          "73.84"
+        ],
+        [
+          "Total Borrowing",
+          "4.93",
+          "3.29",
+          "1.41"
+        ]
+      ]
+    },
+    {
+      "heading": "Dam Capital Advisors Limited Stock Quote & Charts",
+      "sanitizedHeading": "dam_capital_advisors_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "54.72%"
+        ],
+        [
+          "RoNW",
+          "44.98%"
+        ],
+        [
+          "PAT Margin",
+          "38.75"
+        ],
+        [
+          "Price to Book Value",
+          "12.76"
+        ]
+      ]
+    },
+    {
+      "heading": "Dam Capital Advisors Limited Stock Quote & Charts",
+      "sanitizedHeading": "dam_capital_advisors_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "9.98",
+          "9.98"
+        ],
+        [
+          "P/E (x)",
+          "28.37",
+          "28.37"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "DAM Capital Advisors IPO raises Rs 251.48 crore from anchor investors. DAM Capital Advisors IPO Anchor bid date is December 18 2024. DAM Capital Advisors IPO Anchor Investors list",
+    "list_link": {
+      "text": "DAM Capital Advisors IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/damcapital_anchorallocationreport.pdf"
+    },
+    "details": {
+      "ipo_date": "March 23 2025",
+      "shares_offered": "8886268",
+      "anchor_portion_size": "251.48"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 19, 2024 to December 23, 2024",
+    "ipoListingDate": "Fri, Dec 27, 2024",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹283.00",
+    "lotSize": "53 Shares",
+    "issueSize": "2,96,90,900 shares (aggregating up to ₹840.25 Cr)",
+    "offerForSale": "2,96,90,900 shares of ₹2 (aggregating up to ₹840.25 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Dec 19, 2024",
+    "ipoCloseDate": "Mon, Dec 23, 2024",
+    "initiationOfRefunds": "Thu, Dec 26, 2024",
+    "creditOfSharesToDemat": "Thu, Dec 26, 2024",
+    "shareHoldingPreIssue": "7,06,86,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "7,06,86,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "45.88%"
+      }
+    ],
+    "shareHoldingPostIssue": "7,06,86,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "7,06,86,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "41.5%"
+      }
+    ]
+  },
+  "closing_date": "2024-12-22T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 4202 2500",
+    "email": "compliance@damcapital.in",
+    "full_address": "DAM Capital Advisors Limited, PG-1 Ground Floor, Rotunda Building Dalal Street, Fort Mumbai 400001",
+    "website": "https://www.damcapital.in/"
+  },
+  "createdAt": "2025-04-18T12:47:56.027Z",
+  "faqs": [
+    {
+      "question": "What is the DAM Capital Advisors IPO?",
+      "answer": "<div itemprop=\"text\"><p>DAM Capital Advisors IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->29690900<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->840.25<!-- --> Crores. The issue is priced at <span>₹283 per share</span>. The minimum order quantity is <!-- -->53<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 19, 2024</b>, and <b>closes on <!-- -->December 23, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in DAM Capital Advisors IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->DAM Capital Advisors IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->DAM Capital Advisors IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->DAM Capital Advisors IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->DAM Capital Advisors IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When DAM Capital Advisors IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The DAM Capital Advisors IPO opens on December 19, 2024 and closes on December 23, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of DAM Capital Advisors IPO?",
+      "answer": "<div itemprop=\"text\"><p>DAM Capital Advisors IPO<!-- --> <b>lot size is <!-- -->53</b>, and the <b>minimum amount required is <span>₹14,999</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for DAM Capital Advisors IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->DAM Capital Advisors IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is DAM Capital Advisors IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->DAM Capital Advisors IPO<!-- --> will be done on <!-- -->Tuesday, December 24, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, December 26, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/dam-capital-advisors-ipo/1936/\" title=\"DAM Capital Advisors IPO Allotment Status\">DAM Capital Advisors IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is DAM Capital Advisors IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->DAM Capital Advisors IPO<!-- --> listing date is on <b>Friday, December 27, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "DAM Capital Advisors",
+  "issue_price": "₹283.00",
+  "issue_price_numeric": 283,
+  "issue_size": "2,96,90,900 shares (aggregating up to ₹840.25 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Nuvama Wealth Management Limited",
+      "url": "/report/ipo-lead-manager-review/112/408/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/408/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "283.00",
+        "nse": "283.00"
+      },
+      "open": {
+        "bse": "392.90",
+        "nse": "393.00"
+      },
+      "low": {
+        "bse": "392.90",
+        "nse": "392.95"
+      },
+      "high": {
+        "bse": "456.90",
+        "nse": "456.90"
+      },
+      "last_trade": {
+        "bse": "415.05",
+        "nse": "415.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 27 2024",
+    "bse_script_code": "544316",
+    "nse_symbol": "DAMCAPITAL",
+    "isin": "INE284H01025",
+    "final_issue_price": "283 per share"
+  },
+  "listing_date": "2024-12-26T18:30:00.000Z",
+  "listing_gains": "46.66%",
+  "listing_gains_numeric": 46.66,
+  "logo": "https://www.chittorgarh.net/images/ipo/dam-capital-advisors-logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/dam-capital-advisors-logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 53 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "53",
+        "amount": "14999"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "689",
+        "amount": "194987"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "742",
+        "amount": "209986"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "3498",
+        "amount": "989934"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "3551",
+        "amount": "1004933"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/dam-capital-advisors-ipo/1936/"
+    }
+  },
+  "lot_size": 53,
+  "opening_date": "2024-12-18T18:30:00.000Z",
+  "pageHeading": "DAM Capital Advisors Limited IPO (DAM Capital Advisors IPO) Detail",
+  "pageTitle": "DAM Capital Advisors IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Dharmesh Anil Mehta Sonali Dharmesh Mehta and Boombucket Advisors Private Limited are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "45.88%",
+      "share_holding_post_issue": "41.5%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "DAM Capital Advisors IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/dam-capital-advisors-limited_86541.html"
+    },
+    {
+      "text": "DAM Capital Advisors IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/dam-capital-advisors-limited-rhp_90015.html"
+    },
+    {
+      "text": "Anchor Investors in DAM Capital Advisors IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/damcapital_anchorallocationreport.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "16",
+        "neutral": "2",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/dam-capital-advisors-ipo/1936/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "damcapital.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "DAM Capital Advisors IPO offers 29690900 shares. 5924182 (19.95%) to QIB 4443135 (14.96%) to NII 10367315 (34.92%) to RII 70000 (0.24%) to employees and 8886268 (29.93%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "8886268 (29.93%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "5924182 (19.95%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4443135 (14.96%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2962090 (9.98%)",
+        "maximum_allottees": "3992"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1481045 (4.99%)",
+        "maximum_allottees": "1996"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "10367315 (34.92%)",
+        "maximum_allottees": "195609"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "70000 (0.24%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "29690900 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:56.027Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The DAM Capital Advisors IPO is subscribed 81.88 times on December 23 2024 6:19:12 PM (Day 3). The public issue subscribed 26.8 times in the retail category 166.33 times in the QIB category and 98.47 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "166.33",
+        "shares_offered": "5924182",
+        "shares_bid_for": "985397571"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "98.47",
+        "shares_offered": "4443135",
+        "shares_bid_for": "437519399"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "102.21",
+        "shares_offered": "2962090",
+        "shares_bid_for": "302746653"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "91",
+        "shares_offered": "1481045",
+        "shares_bid_for": "134772746"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "26.8",
+        "shares_offered": "10367315",
+        "shares_bid_for": "277815135"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "40.09",
+        "shares_offered": "70000",
+        "shares_bid_for": "2806244"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "81.88",
+        "shares_offered": "20804632",
+        "shares_bid_for": "1703538349"
+      }
+    },
+    "total_applications": "4735871"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 23 2024",
+    "tentative_allotment": "Tue Dec 24 2024",
+    "initiation_of_refunds": "Thu Dec 26 2024",
+    "credit_of_shares_to_demat": "Thu Dec 26 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:44.403Z",
+  "updated_at": "2025-04-18T12:47:56.027Z",
+  "year": 2024,
+  "worst_listing_gains": "46.66%",
+  "worst_listing_gains_numeric": 46.66,
+  "last_performance_update": "2025-04-19T04:43:44.403Z"
+}

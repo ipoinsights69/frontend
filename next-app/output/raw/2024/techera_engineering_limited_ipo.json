@@ -1,0 +1,452 @@
+{
+  "_id": "68024a023ccffd1c7912c812",
+  "ipo_id": "2024_techera_engineering_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:20:58.099Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/techera-engineering-ipo/1868/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2018, Techera Engineering (India) Limited designs, manufactures and supplies precise tooling and components for the aerospace and defence industries. The company also provides automation system solutions.</p>\n<p>The company makes assembly tools, jigs, fixtures, maintenance and repair tools, ground support equipment, and precision machined components. It uses advanced manufacturing technologies, such as 5-axis machining and 3D modelling, to meet the needs of its target sectors.</p>\n<p>The company has been certified for ISO 9001:2015 and ISO 14001:2018, reflecting its adherence to quality management systems.</p>\n<p>As of September 2024, the company employs 177 full-time qualified professionals.</p>\n<p>Competitive Strength</p>\n<p><strong>Specialized Expertise</strong>: TechEra Engineering specializes in aerospace and defense manufacturing, focusing on assembly tooling, jigs, fixtures, and precision-machined components with a key emphasis on niche markets.</p>\n<p><strong>Technical Capabilities</strong>: The company has invested in advanced manufacturing technologies, including 5-axis machining and augmented reality/virtual reality for design visualization, to handle precise and complex projects.</p>\n<p><strong>Experienced Leadership</strong>: The management team, consisting of individuals with extensive experience in aerospace engineering and automation, provides strategic direction.</p>\n<p><strong>Recognitions and Certifications</strong>: Receipt of awards and certifications from reputable organizations demonstrates commitment to quality and excellence.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "TechEra Engineering LImited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "37.24",
+          "39.21",
+          "21.36"
+        ],
+        [
+          "Revenue",
+          "39.08",
+          "26.59",
+          "7.37"
+        ],
+        [
+          "Profit After Tax",
+          "4.82",
+          "1.31",
+          "-6.29"
+        ],
+        [
+          "Net Worth",
+          "15.9",
+          "11.08",
+          "9.78"
+        ],
+        [
+          "Reserves and Surplus",
+          "3.76",
+          "-2.72",
+          "-4.02"
+        ],
+        [
+          "Total Borrowing",
+          "14.3",
+          "13.77",
+          "8.87"
+        ]
+      ]
+    },
+    {
+      "heading": "Techera Engineering (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "techera_engineering_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "30.33%"
+        ],
+        [
+          "ROCE",
+          "23..47%"
+        ],
+        [
+          "Debt/Equity",
+          "0.90"
+        ],
+        [
+          "RoNW",
+          "30.33%"
+        ],
+        [
+          "PAT Margin",
+          "12.45"
+        ],
+        [
+          "Price to Book Value",
+          "6.26"
+        ]
+      ]
+    },
+    {
+      "heading": "Techera Engineering (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "techera_engineering_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.97",
+          "2.92"
+        ],
+        [
+          "P/E (x)",
+          "20.65",
+          "28.09"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "TechEra Engineering IPO raises Rs 10.22 crore from anchor investors. TechEra Engineering IPO Anchor bid date is September 24 2024. TechEra Engineering IPO Anchor Investors list",
+    "list_link": {
+      "text": "TechEra Engineering IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/techera_engineering_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "December 29 2024",
+      "shares_offered": "1246400",
+      "anchor_portion_size": "10.22"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 25, 2024 to September 27, 2024",
+    "ipoListingDate": "Thu, Oct 3, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹82.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "43,77,600 shares (aggregating up to ₹35.90 Cr)",
+    "freshIssue": "43,77,600 shares (aggregating up to ₹35.90 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,19,200 shares",
+      "maker_name": "SKI Capital Services Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/428/"
+    },
+    "ipoOpenDate": "Wed, Sep 25, 2024",
+    "ipoCloseDate": "Fri, Sep 27, 2024",
+    "initiationOfRefunds": "Tue, Oct 1, 2024",
+    "creditOfSharesToDemat": "Tue, Oct 1, 2024",
+    "shareHoldingPreIssue": "1,21,43,325 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,21,43,325 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "57.48%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,65,20,925 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,65,20,925 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-09-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 8605016251",
+    "email": "cs@techera.co.in",
+    "full_address": "TechEra Engineering LImited, Gat No. 565, Behind Namo Marble &amp; Timbers At Post Velu, Tal. Bhor Pune-412205",
+    "website": "https://techera.co.in/"
+  },
+  "createdAt": "2025-04-18T12:48:02.858Z",
+  "faqs": [
+    {
+      "question": "What is the TechEra Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>TechEra Engineering IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4377600<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->35.90<!-- --> Crores. The issue is priced at <span>₹82 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 25, 2024</b>, and <b>closes on <!-- -->September 27, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in TechEra Engineering IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->TechEra Engineering IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->TechEra Engineering IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->TechEra Engineering IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->TechEra Engineering IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When TechEra Engineering IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The TechEra Engineering IPO opens on September 25, 2024 and closes on September 27, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of TechEra Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>TechEra Engineering IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,31,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for TechEra Engineering IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->TechEra Engineering IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is TechEra Engineering IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->TechEra Engineering IPO<!-- --> will be done on <!-- -->Monday, September 30, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, October 1, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/techera-engineering-ipo/1868/\" title=\"TechEra Engineering IPO Allotment Status\">TechEra Engineering IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is TechEra Engineering IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->TechEra Engineering IPO<!-- --> listing date is on <b>Thursday, October 3, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "TechEra Engineering",
+  "issue_price": "₹82.00",
+  "issue_price_numeric": 82,
+  "issue_size": "43,77,600 shares (aggregating up to ₹35.90 Cr)",
+  "issue_size_numeric": 43,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "SKI Capital Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/427/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/427/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse": "82.00"
+      },
+      "open": {
+        "nse": "125.00"
+      },
+      "low": {
+        "nse": "125.00"
+      },
+      "high": {
+        "nse": "131.25"
+      },
+      "last_trade": {
+        "nse": "131.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "October 3 2024",
+    "nse_symbol": "TECHERA",
+    "isin": "INE0JQS01019",
+    "final_issue_price": "82 per share"
+  },
+  "listing_date": "2024-10-02T18:30:00.000Z",
+  "listing_gains": "60.06%",
+  "listing_gains_numeric": 60.06,
+  "logo": "https://www.chittorgarh.net/images/ipo/techera_engineering_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/techera_engineering_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "131200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "131200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "262400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/techera-engineering-ipo/1868/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-09-24T18:30:00.000Z",
+  "pageHeading": "TechEra Engineering LImited IPO (TechEra Engineering IPO) Detail",
+  "pageTitle": "TechEra Engineering IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The company's promoters are Nimesh Rameshchandra Desai Meet Nimesh Desai and Kalpana Nimesh Desai.",
+    "holdings": {
+      "share_holding_pre_issue": "57.48%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "TechEra Engineering IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/TechEraEngineering(India)Limited_DRHP.pdf"
+    },
+    {
+      "text": "TechEra Engineering IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_TECHERA.zip"
+    },
+    {
+      "text": "Anchor Investors in TechEra Engineering IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/techera_engineering_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/techera-engineering-ipo/1868/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "teil.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "TechEra Engineering IPO offers 4377600 shares. 832000 (19.01%) to QIB 624000 (14.25%) to NII 1456000 (33.26%) to RII and 1246400 (28.47%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1246400 (28.47%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "219200 (5.01%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "832000 (19.01%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "624000 (14.25%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1456000 (33.26%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4377600 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:02.858Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The TechEra Engineering IPO is subscribed 69.8 times on September 27 2024 6:20:00 PM (Day 3). The public issue subscribed 66.52 times in the retail category 31.22 times in the QIB category and 128.88 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "31.22",
+        "shares_offered": "832000",
+        "shares_bid_for": "25974400"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "128.88",
+        "shares_offered": "624000",
+        "shares_bid_for": "80419200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "66.52",
+        "shares_offered": "1456000",
+        "shares_bid_for": "96851200"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "69.8",
+        "shares_offered": "2912000",
+        "shares_bid_for": "203244800"
+      }
+    },
+    "total_applications": "60532",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 27 2024",
+    "tentative_allotment": "Mon Sep 30 2024",
+    "initiation_of_refunds": "Tue Oct 1 2024",
+    "credit_of_shares_to_demat": "Tue Oct 1 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:16.992Z",
+  "updated_at": "2025-04-18T12:48:02.858Z",
+  "year": 2024,
+  "worst_listing_gains": "60.06%",
+  "worst_listing_gains_numeric": 60.06
+}

@@ -1,0 +1,374 @@
+{
+  "_id": "6802985a3ccffd1c7912cc34",
+  "ipo_id": "2019_dc_infotech_and_communication_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:18:26.846Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/dc-infotech-ipo/1026/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1998, Mumbai based DC Infotech Ltd is engaged in reselling and distribution business of computers, and computer peripherals. </p><p>The company operates on a broad-based distribution model where it deals with multiple brand strategy and different products. DC Infotech supplies IT products such as networking, security, firewall's, desktop virtualizanion, broadband, surveillance, wireless,  digital signage, power solutions and others like cloud security,  digital performance, network performance, and enterprise security. </p><p>DC Infotech is an IT Solution distribution house in India. Currently, it has 1600 dealers across the country offering a wide range of hardware and software IT products. The company works as a middle man between users &amp; resellers and IT manufacturers/ developers. The company also provides demand generation, after-sale support, logistics services as well. It has 2 offices located in Maharashtra and 8 Warehouses across different states in India.</p><p><b>Business Process:</b><br>DC Infotech purchases IT products in bulk from vendors and sells them to channel partners (systems integrators, retailers, corporate resellers, etc). The company supplies both the Value Business and Volume business products to corporate/large businesses and vendors.</p><p><b>Some of the vendors of the company are:</b></p><ul><li>Netgear</li><li>Zscaler</li><li>D-Link</li><li>Samsung</li><li>Aten</li><li>Avnet</li><li>Netscout</li><li>Riverbed</li><li>Delta Power Solutions</li><li>Sonicwall</li><li>Ncomputing</li></ul><p></p><p></p><h2>Competitive Strengths:</h2><p></p><p>1. End-to-end services<br>2. PAN India reach<br>3. Logistics capabilities<br>4. Long term vendors <br>5. Wide product range</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (Rs in Lakhs)"
+      ],
+      "rows": [
+        [
+          null,
+          "1-Apr-2019 to 30-June-19",
+          "19-Feb-2019 to 31-Mar-19",
+          "1-Apr-2018 to 18-Feb-2019",
+          "31-Mar-18",
+          "31-Mar-17"
+        ],
+        [
+          "Total Assets",
+          "5721.55",
+          "5427.20",
+          "4391.03",
+          "4784.13",
+          "3626.92"
+        ],
+        [
+          "Total Revenue",
+          "3648.56",
+          "1523.49",
+          "9883.42",
+          "9756.24",
+          "10878.78"
+        ],
+        [
+          "Profit After Tax",
+          "90.52",
+          "81.71",
+          "52.21",
+          "130.12",
+          "90.41"
+        ]
+      ]
+    },
+    {
+      "heading": "Dc Infotech and Communication Limited Stock Quote & Charts",
+      "sanitizedHeading": "dc_infotech_and_communication_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "7.4",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "December 12, 2019 to December 18, 2019",
+    "ipoListingDate": "December 27, 2019",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹45.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "24,00,000 shares (aggregating up to ₹10.80 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "1,26,000 shares",
+    "ipoOpenDate": "Thu, Dec 12, 2019",
+    "ipoCloseDate": "Wed, Dec 18, 2019",
+    "shareHoldingPreIssue": "36,00,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "36,00,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "60,00,000 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "60,00,000 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "60%"
+      }
+    ]
+  },
+  "closing_date": "2019-12-17T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "022-28329000",
+    "email": "cs@dcinfotech.com",
+    "full_address": "DC Infotech and Communication Ltd, Unit No. 2 Aristocrate Ground Floor, Lajya Compound, Mogra Road Andheri (East) Mumbai 400069",
+    "website": "http://www.dcinfotech.com/"
+  },
+  "createdAt": "2025-04-18T18:22:18.821Z",
+  "faqs": [
+    {
+      "question": "What is the DC Infotech IPO?",
+      "answer": "<div itemprop=\"text\"><p>DC Infotech IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->2400000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->10.80<!-- --> Crores. The issue is priced at <span>₹45 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 12, 2019</b>, and <b>closes on <!-- -->December 18, 2019</b>.</p><p>Satellite Corporate Services Private Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in DC Infotech IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->DC Infotech IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->DC Infotech IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->DC Infotech IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->DC Infotech IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When DC Infotech IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The DC Infotech IPO opens on December 12, 2019 and closes on December 18, 2019.</p></div>"
+    },
+    {
+      "question": "What is the lot size of DC Infotech IPO?",
+      "answer": "<div itemprop=\"text\"><p>DC Infotech IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,35,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for DC Infotech IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->DC Infotech IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is DC Infotech IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->DC Infotech IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/dc-infotech-ipo/1026/\" title=\"DC Infotech IPO Allotment Status\">DC Infotech IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is DC Infotech IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->DC Infotech IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "DC Infotech and Communication",
+  "issue_price": "₹45.00",
+  "issue_price_numeric": 45,
+  "issue_size": "24,00,000 shares (aggregating up to ₹10.80 Cr)",
+  "issue_size_numeric": 24,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fedex Securities Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/144/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/144/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "45.00"
+      },
+      "open": {
+        "nse_sme": "45.50"
+      },
+      "low": {
+        "nse_sme": "45.00"
+      },
+      "high": {
+        "nse_sme": "45.50"
+      },
+      "last_trade": {
+        "nse_sme": "45.20"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "December 27 2019",
+    "nse_symbol": "DCI",
+    "isin": "INE0A1101019",
+    "final_issue_price": "45 per share"
+  },
+  "listing_date": "2019-12-26T18:30:00.000Z",
+  "listing_gains": "0.44%",
+  "listing_gains_numeric": 0.44,
+  "logo": "https://www.chittorgarh.net/images/ipo/dc_infotech_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/dc_infotech_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "135000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "270000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/dc-infotech-ipo/1026/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2019-12-11T18:30:00.000Z",
+  "pageHeading": "DC Infotech and Communication Ltd IPO (DC Infotech IPO) Detail",
+  "pageTitle": "DC Infotech IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Chetankumar Timbadia and Devendra Sayani are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "60%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "DC Infotech IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/DC_Infotech_DP.pdf"
+    },
+    {
+      "text": "DC Infotech IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/DC_Infotech_Prosp.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/dc-infotech-ipo/1026/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Satellite Corporate Services Private Limited",
+    "phone": "+91-22- 28520461/462",
+    "email": "service@satellitecorporate.com",
+    "website": "https://www.satellitecorporate.com/ipo-query.php"
+  },
+  "reservation": {
+    "summary": "DC Infotech IPO offers 2526000 shares. 1263000 (50.00%) to NII 1137000 (45.01%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "126000 (4.99%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1263000 (50.00%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1137000 (45.01%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "2526000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:18.821Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The DC Infotech IPO is subscribed 1.56 times on December 18 2019 5:00:00 PM (Day 5). The public issue subscribed 1.76 times in the retail category [.] times in the QIB category and 1.39 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1.39",
+        "shares_offered": "1263000",
+        "shares_bid_for": "1752000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.76",
+        "shares_offered": "1137000",
+        "shares_bid_for": "1998000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "1.56",
+        "shares_offered": "2400000",
+        "shares_bid_for": "3750000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 18 2019"
+  },
+  "updatedAt": "2025-04-19T04:39:32.512Z",
+  "updated_at": "2025-04-18T18:22:18.821Z",
+  "year": 2019,
+  "worst_listing_gains": "0.44%",
+  "worst_listing_gains_numeric": 0.44
+}

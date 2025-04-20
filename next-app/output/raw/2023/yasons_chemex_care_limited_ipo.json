@@ -1,0 +1,421 @@
+{
+  "_id": "68028e9f3ccffd1c7912c987",
+  "ipo_id": "2023_yasons_chemex_care_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:32:02.929Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/yasons-chemex-care-ipo/1463/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2017, Yasons Chemex Care Limited is engaged in the manufacturing business. They manufacture dyes and pigment paste, and FMCG products.</p>\n<p>In the dyes segment, they manufacture a wide variety of dyes such as basic dyes, reactive dyes, food colorants, direct dyes, and vat dyes. They offer multiple shades of dyes. Further, the dye manufacturing undertaken by the company can be broadly classified under the following types-</p>\n<ul>\n<li>Natural dyes</li>\n<li>Synthetic dyes</li>\n<li>Synthetic organic dyes</li>\n</ul>\n<p>The other business segments of Yasons Chemex Care Limited are manufacturing pigment paste from various chemicals and FMCG products manufacturing or packaging. The FMCG products include hair oil, perfumes, deodorant, handmade soap, sanitizer, etc.</p>\n<p>The products of Yasons Chemex Care Limited are marketed under their brand name \"<strong>PLXO</strong>\".</p>\n<p>Yasons Chemex Care also trades in dyes, pigment, and pigment paste in order to meet customer requirements.</p>\n<p>The products manufactured by the company are directly or indirectly applied by various industries like textile, paper, paints, inks, soap, plastic, wood, detergents and FMCG.</p>\n<p>The Company has two manufacturing facilities situated in the state of Gujarat. They manufacture dyes and pigment paste at our manufacturing facility situated at A-1/329, Phase-II, G.I.D.C, Vatva, Ahmedabad, having an installed capacity of 650 MTPA per annum.</p>\n<p>Further, the Company manufactures FMCG products at the second manufacturing facility situated at 22, Shreeji Krupa Estate, Tajpur Road, Changodar.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "2058.07",
+          "1961.55",
+          "115.51",
+          "1407.14",
+          "46.16"
+        ],
+        [
+          "31-Mar-21",
+          "2558.26",
+          "1804.79",
+          "125.35",
+          "1532.94",
+          "269.04"
+        ],
+        [
+          "31-Mar-22",
+          "2779.28",
+          "2617.01",
+          "195.41",
+          "1728.57",
+          "281.40"
+        ],
+        [
+          "31-Mar-23",
+          "2758.59",
+          "4100.64",
+          "343.16",
+          "2072.04",
+          "346.40"
+        ]
+      ]
+    },
+    {
+      "heading": "Yasons Chemex Care Limited Stock Quote & Charts",
+      "sanitizedHeading": "yasons_chemex_care_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "0.17"
+        ],
+        [
+          "ROCE",
+          "0.21"
+        ],
+        [
+          "Debt/Equity",
+          "0.17"
+        ],
+        [
+          "RoNW",
+          "16.56%"
+        ]
+      ]
+    },
+    {
+      "heading": "Yasons Chemex Care Limited Stock Quote & Charts",
+      "sanitizedHeading": "yasons_chemex_care_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.42",
+          null
+        ],
+        [
+          "P/E (x)",
+          "22.47",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "July 24, 2023 to July 26, 2023",
+    "ipoListingDate": "Thu, Aug 3, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹40.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "51,42,000 shares (aggregating up to ₹20.57 Cr)",
+    "freshIssue": "51,42,000 shares (aggregating up to ₹20.57 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,70,000 shares",
+      "maker_name": "Nikunj Stock Brokers Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/310/"
+    },
+    "ipoOpenDate": "Mon, Jul 24, 2023",
+    "ipoCloseDate": "Wed, Jul 26, 2023",
+    "initiationOfRefunds": "Tue, Aug 1, 2023",
+    "creditOfSharesToDemat": "Wed, Aug 2, 2023",
+    "shareHoldingPreIssue": "1,41,61,920 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,41,61,920 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "70.16%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,93,03,920 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,93,03,920 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "51.47%"
+      }
+    ]
+  },
+  "closing_date": "2023-07-25T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 079400 28639",
+    "email": "yccl@yashchemex.com",
+    "full_address": "Yasons Chemex Care Limited, 4th floor 412 Sigma Icon-1 132ft Ring Road, Opp. Medilink Hospital Satellite, Ahmedabad - 380015",
+    "website": "http://www.yasonschemexcare.com/"
+  },
+  "createdAt": "2025-04-18T17:40:47.939Z",
+  "faqs": [
+    {
+      "question": "What is the Yasons Chemex Care IPO?",
+      "answer": "<div itemprop=\"text\"><p>Yasons Chemex Care IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->5142000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->20.57<!-- --> Crores. The issue is priced at <span>₹40 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->July 24, 2023</b>, and <b>closes on <!-- -->July 26, 2023</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Yasons Chemex Care IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Yasons Chemex Care IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Yasons Chemex Care IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Yasons Chemex Care IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Yasons Chemex Care IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Yasons Chemex Care IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Yasons Chemex Care IPO opens on July 24, 2023 and closes on July 26, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Yasons Chemex Care IPO?",
+      "answer": "<div itemprop=\"text\"><p>Yasons Chemex Care IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Yasons Chemex Care IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Yasons Chemex Care IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Yasons Chemex Care IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Yasons Chemex Care IPO<!-- --> will be done on <!-- -->Monday, July 31, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, August 2, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/yasons-chemex-care-ipo/1463/\" title=\"Yasons Chemex Care IPO Allotment Status\">Yasons Chemex Care IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Yasons Chemex Care IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Yasons Chemex Care IPO<!-- --> listing date is on <b>Thursday, August 3, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Yasons Chemex Care",
+  "issue_price": "₹40.00",
+  "issue_price_numeric": 40,
+  "issue_size": "51,42,000 shares (aggregating up to ₹20.57 Cr)",
+  "issue_size_numeric": 51,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fedex Securities Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/144/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/144/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "40.00"
+      },
+      "open": {
+        "nse_sme": "32.00"
+      },
+      "low": {
+        "nse_sme": "30.40"
+      },
+      "high": {
+        "nse_sme": "33.60"
+      },
+      "last_trade": {
+        "nse_sme": "33.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "August 3 2023",
+    "nse_symbol": "YCCL",
+    "isin": "INE08S201019",
+    "final_issue_price": "40 per share"
+  },
+  "listing_date": "2023-08-02T18:30:00.000Z",
+  "listing_gains": "-16.00%",
+  "listing_gains_numeric": -16,
+  "logo": "https://www.chittorgarh.net/images/ipo/yasons-chemex-care-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/yasons-chemex-care-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/yasons-chemex-care-ipo/1463/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2023-07-23T18:30:00.000Z",
+  "pageHeading": "Yasons Chemex Care Limited IPO (Yasons Chemex Care IPO) Detail",
+  "pageTitle": "Yasons Chemex Care IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Yash Chemex Limited is the company's Promoter.",
+    "holdings": {
+      "share_holding_pre_issue": "70.16%",
+      "share_holding_post_issue": "51.47%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Yasons Chemex Care IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/YasonsChemex_DP.zip"
+    },
+    {
+      "text": "Yasons Chemex Care IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2023/yasons-chemex-care-limited_77828.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "4",
+        "neutral": "0",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/yasons-chemex-care-ipo/1463/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "yasons.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Yasons Chemex Care IPO offers 5142000 shares. 2436000 (47.37%) to NII 2436000 (47.37%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "270000 (5.25%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "2436000 (47.37%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2436000 (47.37%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "5142000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.939Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Yasons Chemex Care IPO is subscribed 59.6 times on July 26 2023 8:19:00 PM (Day 3). The public issue subscribed 68.76 times in the retail category [.] times in the QIB category and 47.71 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "47.71",
+        "shares_offered": "2436000",
+        "shares_bid_for": "116232000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "68.76",
+        "shares_offered": "2436000",
+        "shares_bid_for": "167511000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "59.6",
+        "shares_offered": "4872000",
+        "shares_bid_for": "290355000"
+      }
+    },
+    "total_applications": "55837",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on July 26 2023",
+    "tentative_allotment": "Mon Jul 31 2023",
+    "initiation_of_refunds": "Tue Aug 1 2023",
+    "credit_of_shares_to_demat": "Wed Aug 2 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:54.244Z",
+  "updated_at": "2025-04-18T17:40:47.939Z",
+  "year": 2023,
+  "worst_listing_gains": "-16.00%",
+  "worst_listing_gains_numeric": -16
+}

@@ -1,0 +1,425 @@
+{
+  "_id": "680293663ccffd1c7912ca37",
+  "ipo_id": "2022_aether_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:58:46.059Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/aether-industries-ipo/1257/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2013, Aether Industries Limited is a manufacturer of <strong>speciality chemicals</strong>. The company is the <strong>sole manufacturer</strong> in India of chemicals such as 4-(2-Methoxyethyl) Phenol (4MEP), 3-Methoxy-2-Methylbenzoyl Chloride (MMBC), Thiophene-2-Ethanol (T2E), Ortho Tolyl Benzo Nitrile (OTBN), N-Octyl-D-Glucamine, Delta-Valerolactone and Bifenthrin Alcohol.</p>\n<p>The company has three business models: Large scale manufacturing of intermediates and speciality chemicals, CRAMS (contract research and manufacturing services) and Contract manufacturing.</p>\n<p>Aether Industries has <strong>two manufacturing sites</strong> at Sachin in Surat, Gujarat. Manufacturing Facility 1 is a 3,500 square metre facility including R&amp;D and Hydrogenation Facilities and Pilot Plant. Manufacturing Facility 2 encompasses roughly 10,500 square metres, with an installed capacity of 6,096 MT per year spread among three buildings and 16 production streams as of September 30, 2021.</p>\n<p>As of March 31, 2022, Aether Industries Limited's product portfolio comprised over 25 products which were&nbsp;sold to over 34 global companies in 18 countries and to over 154 domestic companies. The company is the <strong>largest manufacturer</strong> of 4MEP, T2E, NODG and HEEP products in the world by volume.</p>\n<p><strong>Competitive Strengths</strong></p>\n<ul>\n<li>Differentiated portfolio of market-leading products.</li>\n<li>Focus on R&amp;D to leverage the core competencies of chemistry and technology.</li>\n<li>Long-standing relationships with a diversified customer base.</li>\n<li>Synergistic Business Models focused on Large Scale Manufacturing, CRAMS and Contract Manufacturing.</li>\n<li>Focus on Quality, Environment, Health and Safety (QEHS).</li>\n<li>Strong and consistent financial performance.</li>\n<li>Experienced Promoters and Senior Management with extensive domain knowledge.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax"
+      ],
+      "rows": [
+        [
+          "31-Mar-19",
+          "206.68",
+          "203.28",
+          "23.34"
+        ],
+        [
+          "31-Mar-20",
+          "300.47",
+          "303.78",
+          "39.96"
+        ],
+        [
+          "31-Mar-21",
+          "452.94",
+          "453.79",
+          "71.12"
+        ],
+        [
+          "31-Dec-21",
+          "709.56",
+          "449.32",
+          "82.9"
+        ]
+      ]
+    },
+    {
+      "heading": "Aether Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "aether_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "72.3",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "May 24, 2022 to May 26, 2022",
+    "ipoListingDate": "Fri, Jun 3, 2022",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹642.00",
+    "lotSize": "23 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹808.04 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹627.00 Cr)",
+    "offerForSale": "28,20,000 shares of ₹10 (aggregating up to ₹181.04 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, May 24, 2022",
+    "ipoCloseDate": "Thu, May 26, 2022",
+    "initiationOfRefunds": "Wed, Jun 1, 2022",
+    "creditOfSharesToDemat": "Thu, Jun 2, 2022",
+    "shareHoldingPreIssue": "11,47,16,318 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "11,47,16,318 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "96.96%"
+      }
+    ],
+    "shareHoldingPostIssue": "12,44,82,673 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "12,44,82,673 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "87.09%"
+      }
+    ]
+  },
+  "closing_date": "2022-05-25T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 261 660 3360",
+    "email": "compliance@aether.co.in",
+    "full_address": "Aether Industries Limited, Plot No. 8203, GIDC Sachin, Surat- 394230",
+    "website": "https://aether.co.in/"
+  },
+  "createdAt": "2025-04-18T18:01:09.829Z",
+  "faqs": [
+    {
+      "question": "What is the Aether Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aether Industries IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->808.04<!-- --> Crores. The issue is priced at <span>₹642 per share</span>. The minimum order quantity is <!-- -->23<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 24, 2022</b>, and <b>closes on <!-- -->May 26, 2022</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Aether Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Aether Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Aether Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Aether Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Aether Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Aether Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Aether Industries IPO opens on May 24, 2022 and closes on May 26, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Aether Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aether Industries IPO<!-- --> <b>lot size is <!-- -->23</b>, and the <b>minimum amount required is <span>₹14,766</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Aether Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Aether Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Aether Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Aether Industries IPO<!-- --> will be done on <!-- -->Tuesday, May 31, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, June 2, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/aether-industries-ipo/1257/\" title=\"Aether Industries IPO Allotment Status\">Aether Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Aether Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Aether Industries IPO<!-- --> listing date is on <b>Friday, June 3, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Aether Industries",
+  "issue_price": "₹642.00",
+  "issue_price_numeric": 642,
+  "issue_size": "[.] shares (aggregating up to ₹808.04 Cr)",
+  "issue_size_numeric": 808.04,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Hdfc Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/82/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/82/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "642.00",
+        "nse": "642.00"
+      },
+      "open": {
+        "bse": "706.15",
+        "nse": "704.00"
+      },
+      "low": {
+        "bse": "699.85",
+        "nse": "701.00"
+      },
+      "high": {
+        "bse": "776.75",
+        "nse": "774.40"
+      },
+      "last_trade": {
+        "bse": "776.75",
+        "nse": "774.40"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "June 3 2022",
+    "bse_script_code": "543534",
+    "nse_symbol": "AETHER",
+    "isin": "INE0BWX01014",
+    "final_issue_price": "642 per share"
+  },
+  "listing_date": "2022-06-02T18:30:00.000Z",
+  "listing_gains": "20.99%",
+  "listing_gains_numeric": 20.99,
+  "logo": "https://www.chittorgarh.net/images/ipo/aether-industries-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/aether-industries-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 23 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "23",
+        "amount": "14766"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "299",
+        "amount": "191958"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "322",
+        "amount": "206724"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "1541",
+        "amount": "989322"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "1564",
+        "amount": "1004088"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/aether-industries-ipo/1257/"
+    }
+  },
+  "lot_size": 23,
+  "opening_date": "2022-05-23T18:30:00.000Z",
+  "pageHeading": "Aether Industries Limited IPO (Aether Industries IPO) Detail",
+  "pageTitle": "Aether Industries IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Ashwin Jayantilal Desai Purnima Ashwin Desai Rohan Ashwin Desai Dr. Aman Ashvin Desai AJD Family Trust PAD Family Trust RAD Family Trust AAD Family Trust and AAD Business Trust are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "96.96%",
+      "share_holding_post_issue": "87.09%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Aether Industries IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/aether-industries-limited_55116.html"
+    },
+    {
+      "text": "Aether Industries IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2022/aether-industries-limited_58968.html"
+    },
+    {
+      "text": "Anchor Investors in Aether Industries IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20220523-33&attachedId=5d689807-ffa5-4937-a556-6eaffcf62012"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "9",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "9",
+        "neutral": "1",
+        "avoid": "4"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/aether-industries-ipo/1257/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "aether.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Aether Industries IPO offers 9356193 shares. 2748241 (29.37%) to QIB 1947222 (20.81%) to NII 4543517 (48.56%) to RII 117213 (1.25%) to employees. 197544 RIIs will receive minimum 23 shares and (sNII) and (bNII) will receive minimum 322 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2748241 (29.37%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "1947222 (20.81%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4543517 (48.56%)",
+        "maximum_allottees": "197544"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "117213 (1.25%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "9356193 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:09.828Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Aether Industries IPO is subscribed 6.26 times on May 26 2022 5:00:00 PM (Day 3). The public issue subscribed 1.14 times in the retail category 17.57 times in the QIB category and 2.52 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "17.57",
+        "shares_offered": "2748241",
+        "shares_bid_for": "48298988"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.52",
+        "shares_offered": "1947222",
+        "shares_bid_for": "4913835"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "1.14",
+        "shares_offered": "4543517",
+        "shares_bid_for": "5197494"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "1.06",
+        "shares_offered": "117213",
+        "shares_bid_for": "124269"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "6.26",
+        "shares_offered": "9356193",
+        "shares_bid_for": "58534586"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 26 2022",
+    "tentative_allotment": "Tue May 31 2022",
+    "initiation_of_refunds": "Wed Jun 1 2022",
+    "credit_of_shares_to_demat": "Thu Jun 2 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:19.578Z",
+  "updated_at": "2025-04-18T18:01:09.828Z",
+  "year": 2022,
+  "worst_listing_gains": "20.99%",
+  "worst_listing_gains_numeric": 20.99
+}

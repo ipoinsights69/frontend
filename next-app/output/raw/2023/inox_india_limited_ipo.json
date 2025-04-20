@@ -1,0 +1,494 @@
+{
+  "_id": "68028e9c3ccffd1c7912c903",
+  "ipo_id": "2023_inox_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:27:04.536Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/inox-cva-ipo/1593/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1976, Inox India Limited manufactures and supplies cryogenic equipment.</p>\n<p>The company's business activities comprise three divisions:</p>\n<p>1. Industrial Gas: The division designs, manufactures and installs cryogenic tanks and systems for the storage, transportation and distribution of industrial gases, including green hydrogen and oxygen.</p>\n<p>2. LNG: The division develops, manufactures, supplies and installs both standard and engineered equipment for LNG storage, distribution, and transportation, as well as small-scale LNG infrastructure solutions for industrial, marine and automotive applications.</p>\n<p>3. Cryo Scientific: This division offers equipment and turnkey solutions for scientific and industrial research in the field of cryogenic distribution with a focus on technology-intensive applications.</p>\n<p>The product portfolio includes standard cryogenic tanks and equipment, beverage kegs, bespoke technology, equipment and solutions as well as large-scale turnkey projects used in various industries such as industrial gases, liquefied natural gas (\"LNG\"), green hydrogen, energy, steel, medical and healthcare, chemicals and fertilisers, aviation and aerospace, pharmaceuticals and construction.</p>\n<p>In the six months to September 30, 2023, and the financial years 2023, 2022 and 2021, the company supplied its equipment and systems to 1,255 domestic and 254 international customers in our three business segments.</p>\n<p>The company's major customers include Air Liquide Global E&amp;C Solutions India Private Limited, Caribbean LNG Inc, 2G Energy Inc, ISRO, Hyundai Engineering and Construction Co Ltd and many others.</p>\n<p>As of September 2023, the company has exported products and services to 66 countries, including the United States, Saudi Arabia, the Netherlands, Brazil, Korea, the United Arab Emirates, Australia and Bangladesh.</p>\n<p>The company's manufacturing facilities are located in Kalol, Kandla Special Economic Zone (Kandla SEZ) and Silvassa in the Union Territory of Dādra and Nagar Haveli.</p>\n<p>As of September 2023, the company's order book stood at Rs. 10,366.09 million.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Inox India Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1155.81",
+          "1148.36",
+          "896.75",
+          "687.20"
+        ],
+        [
+          "Revenue",
+          "580.00",
+          "984.20",
+          "803.71",
+          "608.99"
+        ],
+        [
+          "Profit After Tax",
+          "103.34",
+          "152.71",
+          "130.50",
+          "96.11"
+        ],
+        [
+          "Net Worth",
+          "554.24",
+          "549.48",
+          "502.28",
+          "371.51"
+        ],
+        [
+          "Reserves and Surplus",
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "31.03",
+          null,
+          "43.38",
+          "60.37"
+        ]
+      ]
+    },
+    {
+      "heading": "INOX India Limited Stock Quote & Charts",
+      "sanitizedHeading": "inox_india_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "27.79%"
+        ],
+        [
+          "ROCE",
+          "36.53%"
+        ],
+        [
+          "RoNW",
+          "27.79%"
+        ]
+      ]
+    },
+    {
+      "heading": "INOX India Limited Stock Quote & Charts",
+      "sanitizedHeading": "inox_india_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "16.83",
+          null
+        ],
+        [
+          "P/E (x)",
+          "39.22",
+          "29"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Inox CVA IPO raises Rs 437.80 crore from anchor investors. Inox CVA IPO Anchor bid date is December 13 2023. Inox CVA IPO Anchor Investors list",
+    "list_link": {
+      "text": "Inox CVA IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/inox-cva-anchor-intimation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "March 18 2024",
+      "shares_offered": "6633285",
+      "anchor_portion_size": "437.80"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "December 14, 2023 to December 18, 2023",
+    "ipoListingDate": "Thu, Dec 21, 2023",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹660.00",
+    "lotSize": "22 Shares",
+    "issueSize": "2,21,10,955 shares (aggregating up to ₹1,459.32 Cr)",
+    "offerForSale": "2,21,10,955 shares of ₹2 (aggregating up to ₹1,459.32 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Dec 14, 2023",
+    "ipoCloseDate": "Mon, Dec 18, 2023",
+    "initiationOfRefunds": "Wed, Dec 20, 2023",
+    "creditOfSharesToDemat": "Wed, Dec 20, 2023",
+    "shareHoldingPreIssue": "9,07,63,500 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "9,07,63,500 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "99.30%"
+      }
+    ],
+    "shareHoldingPostIssue": "9,07,63,500 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "9,07,63,500 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "75.46%"
+      }
+    ]
+  },
+  "closing_date": "2023-12-17T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 265 6160100",
+    "email": "secretarial.in@inoxcva.com",
+    "full_address": "Inox India Limited, 9 th Floor K P Platina, Racecourse, Vadodara - 390 007",
+    "website": "https://inoxcva.com/"
+  },
+  "createdAt": "2025-04-18T17:40:44.662Z",
+  "faqs": [
+    {
+      "question": "What is the Inox CVA IPO?",
+      "answer": "<div itemprop=\"text\"><p>Inox CVA IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->22110955<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->1,459.32<!-- --> Crores. The issue is priced at <span>₹660 per share</span>. The minimum order quantity is <!-- -->22<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->December 14, 2023</b>, and <b>closes on <!-- -->December 18, 2023</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Inox CVA IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Inox CVA IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Inox CVA IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Inox CVA IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Inox CVA IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Inox CVA IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Inox CVA IPO opens on December 14, 2023 and closes on December 18, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Inox CVA IPO?",
+      "answer": "<div itemprop=\"text\"><p>Inox CVA IPO<!-- --> <b>lot size is <!-- -->22</b>, and the <b>minimum amount required is <span>₹14,520</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Inox CVA IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Inox CVA IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Inox CVA IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Inox CVA IPO<!-- --> will be done on <!-- -->Tuesday, December 19, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Wednesday, December 20, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/inox-cva-ipo/1593/\" title=\"Inox CVA IPO Allotment Status\">Inox CVA IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Inox CVA IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Inox CVA IPO<!-- --> listing date is on <b>Thursday, December 21, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Inox India",
+  "issue_price": "₹660.00",
+  "issue_price_numeric": 660,
+  "issue_size": "2,21,10,955 shares (aggregating up to ₹1,459.32 Cr)",
+  "issue_size_numeric": 2,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "660.00",
+        "nse": "660.00"
+      },
+      "open": {
+        "bse": "933.15",
+        "nse": "949.65"
+      },
+      "low": {
+        "bse": "855.20",
+        "nse": "855.10"
+      },
+      "high": {
+        "bse": "990.00",
+        "nse": "990.00"
+      },
+      "last_trade": {
+        "bse": "939.90",
+        "nse": "939.95"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "December 21 2023",
+    "bse_script_code": "544046",
+    "nse_symbol": "INOXINDIA",
+    "isin": "INE616N01034",
+    "final_issue_price": "660 per share"
+  },
+  "listing_date": "2023-12-20T18:30:00.000Z",
+  "listing_gains": "42.41%",
+  "listing_gains_numeric": 42.41,
+  "logo": "https://www.chittorgarh.net/images/ipo/inox-logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/inox-logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 22 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "22",
+        "amount": "14520"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "286",
+        "amount": "188760"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "308",
+        "amount": "203280"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "68",
+        "shares": "1496",
+        "amount": "987360"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "69",
+        "shares": "1518",
+        "amount": "1001880"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/inox-cva-ipo/1593/"
+    }
+  },
+  "lot_size": 22,
+  "opening_date": "2023-12-13T18:30:00.000Z",
+  "pageHeading": "Inox India Limited IPO (Inox CVA IPO) Detail",
+  "pageTitle": "Inox CVA IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company are Pavan Kumar Jain Nayantara Jain Siddharth Jain and Ishita Jain",
+    "holdings": {
+      "share_holding_pre_issue": "99.30%",
+      "share_holding_post_issue": "75.46%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Inox CVA IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2023/inox-india-limited-drhp_76156.html"
+    },
+    {
+      "text": "Inox CVA IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/inox-india-limited-rhp_79818.html"
+    },
+    {
+      "text": "Anchor Investors in Inox CVA IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/inox-cva-anchor-intimation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "16",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "9",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/inox-cva-ipo/1593/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "inox.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Inox CVA IPO offers 22110955 shares. 4422191 (20.00%) to QIB 3316644 (15.00%) to NII 7738835 (35.00%) to RII and 6633285 (30.00%) to Anchor investors. 351765 RIIs will receive minimum 22 shares and 3589 (sNII) and 7178 (bNII) will receive minimum 308 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "6633285 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "4422191 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "3316644 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "2211096 (10.00%)",
+        "maximum_allottees": "7178"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1105548 (5.00%)",
+        "maximum_allottees": "3589"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "7738835 (35.00%)",
+        "maximum_allottees": "351765"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "22110955 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.661Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Inox CVA IPO is subscribed 61.28 times on December 18 2023 6:40:00 PM (Day 3). The public issue subscribed 15.3 times in the retail category 147.8 times in the QIB category and 53.2 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "147.8",
+        "shares_offered": "4422191",
+        "shares_bid_for": "653616260"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "53.2",
+        "shares_offered": "3316644",
+        "shares_bid_for": "176453002"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "56.55",
+        "shares_offered": "2211096",
+        "shares_bid_for": "125028200"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "46.52",
+        "shares_offered": "1105548",
+        "shares_bid_for": "51424802"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "15.3",
+        "shares_offered": "7738835",
+        "shares_bid_for": "118366050"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "61.28",
+        "shares_offered": "15477670",
+        "shares_bid_for": "948435312"
+      }
+    },
+    "total_applications": "4376302"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on December 18 2023",
+    "tentative_allotment": "Tue Dec 19 2023",
+    "initiation_of_refunds": "Wed Dec 20 2023",
+    "credit_of_shares_to_demat": "Wed Dec 20 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:35.385Z",
+  "updated_at": "2025-04-18T17:40:44.661Z",
+  "year": 2023,
+  "worst_listing_gains": "42.41%",
+  "worst_listing_gains_numeric": 42.41
+}

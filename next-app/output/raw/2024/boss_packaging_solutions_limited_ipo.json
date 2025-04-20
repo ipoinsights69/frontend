@@ -1,0 +1,432 @@
+{
+  "_id": "680249fb3ccffd1c7912c723",
+  "ipo_id": "2024_boss_packaging_solutions_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:23:38.398Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/boss-packaging-solutions-ipo/1826/"
+  },
+  "about": {
+    "details": "<p>Incorporated in January 2012, Boss Packaging Solutions Limited manufactures, supplies, and exports a variety of packaging, capping, and filling machines. They also offer self-adhesive sticker labelling machines, conveyors, turntables, web sealers, and sleeve applicators.</p>\n<p>The company's product portfolio includes a variety of labeling, packing, filling, and sealing machines, as well as accessories and full packaging lines, which are used in various industries.</p>\n<p>The company supplies its products to industries such as edible oil, lubricants, chemicals, cosmetics, homecare, pharmaceuticals, viscous liquid, juices and dairy, agriculture and pesticides, food and ancillaries, cosmetic and toiletries, and distilleries and breweries.</p>\n<p>The company has served 70 customers, 60 customers and 50 customers during the Fiscal 2024, Fiscal 2023 and Fiscal 2022, respectively.</p>\n<p>As of August 2024, The company has sold its machines in over 18 Indian states, 3 Union territories, and 4 countries..</p>\n<p>As on March 31, 2024, the company employs a total of 64 staff members, consisting of skilled and unskilled labor, administrative personnel, and the management team.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Boss Packaging Solutions Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "766.10",
+          "536.12",
+          "279.21"
+        ],
+        [
+          "Revenue",
+          "1217.54",
+          "1034.71",
+          "548.21"
+        ],
+        [
+          "Profit After Tax",
+          "101.04",
+          "100.51",
+          "41.77"
+        ],
+        [
+          "Net Worth",
+          "452.93",
+          "202.04",
+          "101.53"
+        ],
+        [
+          "Reserves and Surplus",
+          "135.70",
+          "201.04",
+          "100.53"
+        ],
+        [
+          "Total Borrowing",
+          "65.62",
+          "3.70",
+          "19.73"
+        ]
+      ]
+    },
+    {
+      "heading": "Boss Packaging Solutions Limited Stock Quote & Charts",
+      "sanitizedHeading": "boss_packaging_solutions_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "22.31%"
+        ],
+        [
+          "ROCE",
+          "28.99%"
+        ],
+        [
+          "Debt/Equity",
+          "0.14"
+        ],
+        [
+          "RoNW",
+          "22.31%"
+        ],
+        [
+          "PAT Margin",
+          "8.30"
+        ],
+        [
+          "Price to Book Value",
+          "4.62"
+        ]
+      ]
+    },
+    {
+      "heading": "Boss Packaging Solutions Limited Stock Quote & Charts",
+      "sanitizedHeading": "boss_packaging_solutions_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "3.19",
+          "2.27"
+        ],
+        [
+          "P/E (x)",
+          "20.72",
+          "29.04"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "August 30, 2024 to September 3, 2024",
+    "ipoListingDate": "Fri, Sep 6, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹66.00",
+    "lotSize": "2,000 Shares",
+    "issueSize": "12,74,000 shares (aggregating up to ₹8.41 Cr)",
+    "freshIssue": "12,74,000 shares (aggregating up to ₹8.41 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "66,000 shares",
+      "maker_name": "B.N. Rathi Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/418/"
+    },
+    "ipoOpenDate": "Fri, Aug 30, 2024",
+    "ipoCloseDate": "Tue, Sep 3, 2024",
+    "initiationOfRefunds": "Thu, Sep 5, 2024",
+    "creditOfSharesToDemat": "Thu, Sep 5, 2024",
+    "shareHoldingPreIssue": "31,72,260 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "31,72,260 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100%"
+      }
+    ],
+    "shareHoldingPostIssue": "44,46,260 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "44,46,260 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "71.35%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-02T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "079-48972009",
+    "email": "cs@bosspackaging.in",
+    "full_address": "Boss Packaging Solutions Limited, 11-C Survey No. 56/1/2/3 Ramdev Estate, Near Siddipura Estate Opposite Ramol Mehmdabad, Highway Vin Zol Road Ahmedabad-382445",
+    "website": "https://bosspackaging.in/"
+  },
+  "createdAt": "2025-04-18T12:47:55.625Z",
+  "faqs": [
+    {
+      "question": "What is the Boss Packaging Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>Boss Packaging Solutions IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1274000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->8.41<!-- --> Crores. The issue is priced at <span>₹66 per share</span>. The minimum order quantity is <!-- -->2000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 30, 2024</b>, and <b>closes on <!-- -->September 3, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Boss Packaging Solutions IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Boss Packaging Solutions IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Boss Packaging Solutions IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Boss Packaging Solutions IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Boss Packaging Solutions IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Boss Packaging Solutions IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Boss Packaging Solutions IPO opens on August 30, 2024 and closes on September 3, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Boss Packaging Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>Boss Packaging Solutions IPO<!-- --> <b>lot size is <!-- -->2000</b>, and the <b>minimum amount required is <span>₹1,32,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Boss Packaging Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Boss Packaging Solutions IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Boss Packaging Solutions IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Boss Packaging Solutions IPO<!-- --> will be done on <!-- -->Wednesday, September 4, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, September 5, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/boss-packaging-solutions-ipo/1826/\" title=\"Boss Packaging Solutions IPO Allotment Status\">Boss Packaging Solutions IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Boss Packaging Solutions IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Boss Packaging Solutions IPO<!-- --> listing date is on <b>Friday, September 6, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Boss Packaging Solutions",
+  "issue_price": "₹66.00",
+  "issue_price_numeric": 66,
+  "issue_size": "12,74,000 shares (aggregating up to ₹8.41 Cr)",
+  "issue_size_numeric": 12,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fedex Securities Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/144/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/144/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "66.00"
+      },
+      "open": {
+        "nse_sme": "82.50"
+      },
+      "low": {
+        "nse_sme": "78.40"
+      },
+      "high": {
+        "nse_sme": "86.60"
+      },
+      "last_trade": {
+        "nse_sme": "86.60"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 6 2024",
+    "nse_symbol": "BOSS",
+    "isin": "INE0QNI01012",
+    "final_issue_price": "66 per share"
+  },
+  "listing_date": "2024-09-05T18:30:00.000Z",
+  "listing_gains": "31.21%",
+  "listing_gains_numeric": 31.21,
+  "logo": "https://www.chittorgarh.net/images/ipo/boss_logo.jpg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/boss_logo.jpg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 2000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "132000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "2000",
+        "amount": "132000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "4000",
+        "amount": "264000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/boss-packaging-solutions-ipo/1826/"
+    }
+  },
+  "lot_size": 2,
+  "opening_date": "2024-08-29T18:30:00.000Z",
+  "pageHeading": "Boss Packaging Solutions Limited IPO (Boss Packaging Solutions IPO) Detail",
+  "pageTitle": "Boss Packaging Solutions IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Manishbhai Natvarbhai Brahmbhatt Kamlesh Hasmukhbhai Patel Ketan Suryakant Thakkar Jagrutiben Manishbhai Brahmbhatt Bhavikaben Ketan Thakkar and Premkumar Manishbhai Brahmbhatt.",
+    "holdings": {
+      "share_holding_pre_issue": "100%",
+      "share_holding_post_issue": "71.35%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Boss Packaging Solutions IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/BossPackagingSolutions_DP.zip"
+    },
+    {
+      "text": "Boss Packaging Solutions IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_BOSS.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/boss-packaging-solutions-ipo/1826/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "bpsl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Boss Packaging Solutions IPO offers 1274000 shares. 604000 (47.41%) to NII 604000 (47.41%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "66000 (5.18%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "604000 (47.41%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "604000 (47.41%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1274000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:55.625Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Boss Packaging Solutions IPO is subscribed 136.21 times on September 3 2024 6:19:59 PM (Day 3). The public issue subscribed 165.29 times in the retail category [.] times in the QIB category and 103.8 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "103.8",
+        "shares_offered": "604000",
+        "shares_bid_for": "62694000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "165.29",
+        "shares_offered": "604000",
+        "shares_bid_for": "99838000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "136.21",
+        "shares_offered": "1208000",
+        "shares_bid_for": "164544000"
+      }
+    },
+    "total_applications": "49919",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 3 2024",
+    "tentative_allotment": "Wed Sep 4 2024",
+    "initiation_of_refunds": "Thu Sep 5 2024",
+    "credit_of_shares_to_demat": "Thu Sep 5 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:41.379Z",
+  "updated_at": "2025-04-18T12:47:55.625Z",
+  "year": 2024,
+  "worst_listing_gains": "31.21%",
+  "worst_listing_gains_numeric": 31.21,
+  "last_performance_update": "2025-04-19T04:43:41.378Z"
+}

@@ -1,0 +1,469 @@
+{
+  "_id": "68024a023ccffd1c7912c815",
+  "ipo_id": "2024_tbi_corn_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:29:25.811Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/tbi-corn-ipo/1736/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2000, TBI Corn Limited is a manufacturer and exporter of Corn Meal Grits. The Company is ISO 9001:2015 and ISO 22000:2018 certified. </p>\n<p>The company specialize in producing high-quality Corn/Maize Grits and related products in the Sangli district of Maharashtra, India.</p>\n<p>The company sells various products, including fat-free corn grits/meals, corn flakes, stone-free broken maize and corn flour, and turmeric finger. </p>\n<p>All products are made without chemical additives or preservatives and are GMO-free.</p>\n<p>The company exports its products to various countries such as Dubai, Oman, Jordan, South Africa, and Vietnam.</p>\n<p>As of 31st December 2023, the company has a total of 48 employees</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "TBI Corn Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "9511.50",
+          "12162.04",
+          "4317.63",
+          "4254.86"
+        ],
+        [
+          "Revenue",
+          "10196.53",
+          "14042.63",
+          "10097.26",
+          "6776.38"
+        ],
+        [
+          "Profit After Tax",
+          "766.45",
+          "686.09",
+          "45.16",
+          "23.93"
+        ],
+        [
+          "Net Worth",
+          "4067.70",
+          "2677.81",
+          "683.24",
+          "512.42"
+        ],
+        [
+          "Reserves and Surplus",
+          "2729.94",
+          "1677.49",
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "5137.13",
+          "6352.82",
+          "2549.48",
+          "2300.94"
+        ]
+      ]
+    },
+    {
+      "heading": "Tbi Corn Limited Stock Quote & Charts",
+      "sanitizedHeading": "tbi_corn_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "18.84%"
+        ],
+        [
+          "ROCE",
+          "18.65%"
+        ],
+        [
+          "Debt/Equity",
+          "0.43"
+        ],
+        [
+          "RoNW",
+          "18.84%"
+        ],
+        [
+          "PAT Margin",
+          "7.59"
+        ],
+        [
+          "Price to Book Value",
+          "3.09"
+        ]
+      ]
+    },
+    {
+      "heading": "Tbi Corn Limited Stock Quote & Charts",
+      "sanitizedHeading": "tbi_corn_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "5.13",
+          "5.63"
+        ],
+        [
+          "P/E (x)",
+          "18.33",
+          "16.7"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "TBI Corn IPO raises Rs 12.77 crore from anchor investors. TBI Corn IPO Anchor bid date is May 30 2024. TBI Corn IPO Anchor Investors list",
+    "list_link": {
+      "text": "TBI Corn IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/tbi-anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "September 3 2024",
+      "shares_offered": "1358400",
+      "anchor_portion_size": "12.77"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "May 31, 2024 to June 4, 2024",
+    "ipoListingDate": "Fri, Jun 7, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹94.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "47,80,800 shares (aggregating up to ₹44.94 Cr)",
+    "freshIssue": "47,80,800 shares (aggregating up to ₹44.94 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "2,40,000 shares",
+      "maker_name": "Ss Corporate Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/353/"
+    },
+    "ipoOpenDate": "Fri, May 31, 2024",
+    "ipoCloseDate": "Tue, Jun 4, 2024",
+    "initiationOfRefunds": "Thu, Jun 6, 2024",
+    "creditOfSharesToDemat": "Thu, Jun 6, 2024",
+    "shareHoldingPreIssue": "1,33,77,605 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,33,77,605 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "76.65%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,81,58,405 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,81,58,405 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "57.71%"
+      }
+    ]
+  },
+  "closing_date": "2024-06-03T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "(0233) 2644950",
+    "email": "cs@tbicorn.com",
+    "full_address": "TBI Corn Limited, A5/3 &amp; A5/4 MIDC, Miraj, Tal- Miraj",
+    "website": "https://tbicorn.com/"
+  },
+  "createdAt": "2025-04-18T12:48:02.876Z",
+  "faqs": [
+    {
+      "question": "What is the TBI Corn IPO?",
+      "answer": "<div itemprop=\"text\"><p>TBI Corn IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->4780800<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->44.94<!-- --> Crores. The issue is priced at <span>₹94 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 31, 2024</b>, and <b>closes on <!-- -->June 4, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in TBI Corn IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->TBI Corn IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->TBI Corn IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->TBI Corn IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->TBI Corn IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When TBI Corn IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The TBI Corn IPO opens on May 31, 2024 and closes on June 4, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of TBI Corn IPO?",
+      "answer": "<div itemprop=\"text\"><p>TBI Corn IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,12,800</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for TBI Corn IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->TBI Corn IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is TBI Corn IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->TBI Corn IPO<!-- --> will be done on <!-- -->Wednesday, June 5, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, June 6, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/tbi-corn-ipo/1736/\" title=\"TBI Corn IPO Allotment Status\">TBI Corn IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is TBI Corn IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->TBI Corn IPO<!-- --> listing date is on <b>Friday, June 7, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "TBI Corn",
+  "issue_price": "₹94.00",
+  "issue_price_numeric": 94,
+  "issue_size": "47,80,800 shares (aggregating up to ₹44.94 Cr)",
+  "issue_size_numeric": 47,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Swastika Investmart Ltd",
+      "url": "/report/ipo-lead-manager-review/112/122/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/122/"
+    },
+    {
+      "name": "Ekadrisht Capital Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/422/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/422/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "94.00"
+      },
+      "open": {
+        "nse_sme": "198.00"
+      },
+      "low": {
+        "nse_sme": "198.00"
+      },
+      "high": {
+        "nse_sme": "207.90"
+      },
+      "last_trade": {
+        "nse_sme": "207.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "June 7 2024",
+    "nse_symbol": "TBI",
+    "isin": "INE0N2D01013",
+    "final_issue_price": "94 per share"
+  },
+  "listing_date": "2024-06-06T18:30:00.000Z",
+  "listing_gains": "121.17%",
+  "listing_gains_numeric": 121.17,
+  "logo": "https://www.chittorgarh.net/images/ipo/tbi-corn_logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/tbi-corn_logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "112800"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "112800"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "225600"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/tbi-corn-ipo/1736/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-05-30T18:30:00.000Z",
+  "pageHeading": "TBI Corn Limited IPO (TBI Corn IPO) Detail",
+  "pageTitle": "TBI Corn IPO Date, Price, GMP, Review, Analysis & Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Mr. Yogesh Laxman Rajhans and Mrs. Asha Laxman Rajhans.",
+    "holdings": {
+      "share_holding_pre_issue": "76.65%",
+      "share_holding_post_issue": "57.71%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "TBI Corn IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/TBICornLtd_DRHP.pdf"
+    },
+    {
+      "text": "TBI Corn IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/TBICornLtd_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in TBI Corn IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/tbi-anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/tbi-corn-ipo/1736/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "tbi.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "TBI Corn IPO offers 4780800 shares. 908800 (19.01%) to QIB 681600 (14.26%) to NII 592000 (12.38%) to RII and 1358400 (28.41%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "1358400 (28.41%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "240000 (5.02%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "908800 (19.01%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "681600 (14.26%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "592000 (12.38%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4780800 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:02.875Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The TBI Corn IPO is subscribed 231.21 times on June 4 2024 6:19:55 PM (Day 3). The public issue subscribed 523.29 times in the retail category 81.41 times in the QIB category and 516.5 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "81.41",
+        "shares_offered": "908800",
+        "shares_bid_for": "73983600"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "516.5",
+        "shares_offered": "681600",
+        "shares_bid_for": "352044000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "523.29",
+        "shares_offered": "592000",
+        "shares_bid_for": "309789600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "231.21",
+        "shares_offered": "3182400",
+        "shares_bid_for": "735817200"
+      }
+    },
+    "total_applications": "258158",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 4 2024",
+    "tentative_allotment": "Wed Jun 5 2024",
+    "initiation_of_refunds": "Thu Jun 6 2024",
+    "credit_of_shares_to_demat": "Thu Jun 6 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:17.333Z",
+  "updated_at": "2025-04-18T12:48:02.875Z",
+  "year": 2024,
+  "worst_listing_gains": "121.17%",
+  "worst_listing_gains_numeric": 121.17
+}

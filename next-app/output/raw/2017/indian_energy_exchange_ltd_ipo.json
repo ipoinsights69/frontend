@@ -1,0 +1,379 @@
+{
+  "_id": "680298553ccffd1c7912cb11",
+  "ipo_id": "2017_indian_energy_exchange_ltd_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T18:06:05.045Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/indian-energy-exchange-iex-ipo/746/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2007, Indian Energy Exchange Ltd (IEX) is a 'power exchange' offering trading in a range of electricity products in India. IEX is India's largest exchange in electricity products trading category. IEX Exchange is an online trading platform which is accessible to registered participants. It promotes efficient price discovery and the opportunity to trade in a variety of electricity products. In addition to trade execution, IEX also offers settlement services, including electronic trade confirmation, access to clearing services and risk management functionality.</p><p>At high level, the products offered by IEX for trading include:</p><p>1. DAM (Day-ahead-market) - Electricity contracts in blocks of 15 minutes. The DAM constitutes the majority of the energy contracts that are traded on IEX. IEX has market share of 99.6% in DMA trading.</p><p>2. TAM (Term-ahead-market) - Electricity contracts for fixed terms in the future, such as intra-day contracts, day ahead contingency contracts and contracts up to 11 days ahead and</p><p>3. RECs (Renewable energy certificates)</p><p>IEX is amoung 2 exchanges in India that offer an electronic platform for the trading of electricity products. IEX has over 5800 participants registered on its Exchange of which over 3,500 participants were active as of March 2017.</p><p><br>Strengths</p><p>1. IEX Exchange is an online platform. Highly scalable and proven technology infrastructure.<br>2. IEX is first and largest energy exchange in India with strong brand recognition.<br>3. India is fast growing domestic market<br>4. IEX has diverse participant base ensuring liquidity on its exchange</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended (in Rs. million)"
+      ],
+      "rows": [
+        [
+          null,
+          "31-Mar-17",
+          "31-Mar-16",
+          "31-Mar-15",
+          "31-Mar-14",
+          "31-Mar-13"
+        ],
+        [
+          "Total Assets",
+          "5517.14",
+          "4237.55",
+          "4057.37",
+          "3688.67",
+          "2822.16"
+        ],
+        [
+          "Total Revenue",
+          "2374.23",
+          "2001.40",
+          "1763.78",
+          "1739.90",
+          "1383.65"
+        ],
+        [
+          "Profit After Tax",
+          "1135.65",
+          "1003.40",
+          "900.18",
+          "919.45",
+          "662.96"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "October 9, 2017 to October 11, 2017",
+    "ipoListingDate": "October 23, 2017",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹1,650.00",
+    "lotSize": "9 Shares",
+    "issueSize": "60,65,009 shares (aggregating up to ₹1,000.73 Cr)",
+    "offerForSale": "60,65,009 shares of ₹10 (aggregating up to ₹[.] Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Oct 9, 2017",
+    "ipoCloseDate": "Wed, Oct 11, 2017",
+    "shareHoldingPreIssue": "3,03,28,624 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "3,03,28,624 shares"
+      }
+    ],
+    "shareHoldingPostIssue": "3,03,28,624 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "3,03,28,624 shares"
+      }
+    ]
+  },
+  "closing_date": "2017-10-10T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 11 4300 4000",
+    "email": "compliance@iexindia.com",
+    "full_address": "Indian Energy Exchange Ltd, Unit No. 3 4 5 and 6 Fourth Floor, TDI Centre Plot No. 7 District Centre, Jasola New Delhi 110 025",
+    "website": "https://www.iexindia.com/"
+  },
+  "createdAt": "2025-04-18T18:22:13.395Z",
+  "faqs": [
+    {
+      "question": "What is the Indian Energy Exchange IPO?",
+      "answer": "<div itemprop=\"text\"><p>Indian Energy Exchange IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->6065009<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->1,000.73<!-- --> Crores. The issue is priced at <span>₹1650 per share</span>. The minimum order quantity is <!-- -->9<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->October 9, 2017</b>, and <b>closes on <!-- -->October 11, 2017</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Indian Energy Exchange IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Indian Energy Exchange IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Indian Energy Exchange IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Indian Energy Exchange IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Indian Energy Exchange IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Indian Energy Exchange IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Indian Energy Exchange IPO opens on October 9, 2017 and closes on October 11, 2017.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Indian Energy Exchange IPO?",
+      "answer": "<div itemprop=\"text\"><p>Indian Energy Exchange IPO<!-- --> <b>lot size is <!-- -->9</b>, and the <b>minimum amount required is <span>₹14,850</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Indian Energy Exchange IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Indian Energy Exchange IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Indian Energy Exchange IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Indian Energy Exchange IPO<!-- --> will be done on <!-- -->[.]<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->[.]<!-- -->. Check the <a href=\"/ipo_allotment_status/indian-energy-exchange-iex-ipo/746/\" title=\"Indian Energy Exchange IPO Allotment Status\">Indian Energy Exchange IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Indian Energy Exchange IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Indian Energy Exchange IPO<!-- --> listing date is on <b>[.]</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Indian Energy Exchange",
+  "issue_price": "₹1,650.00",
+  "issue_price_numeric": 1,
+  "issue_size": "60,65,009 shares (aggregating up to ₹1,000.73 Cr)",
+  "issue_size_numeric": 60,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Bank Limited",
+      "url": "/report/ipo-lead-manager-review/112/42/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/42/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "1650.00",
+        "nse": "1650.00"
+      },
+      "open": {
+        "bse": "1500.00",
+        "nse": "1500.00"
+      },
+      "low": {
+        "bse": "1500.00",
+        "nse": "1500.00"
+      },
+      "high": {
+        "bse": "1658.00",
+        "nse": "1660.00"
+      },
+      "last_trade": {
+        "bse": "1626.45",
+        "nse": "1629.15"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "October 23 2017",
+    "bse_script_code": "540750",
+    "nse_symbol": "IEX",
+    "isin": "INE022Q01012",
+    "final_issue_price": "1650 per share"
+  },
+  "listing_date": "2017-10-22T18:30:00.000Z",
+  "listing_gains": "-1.43%",
+  "listing_gains_numeric": -1.43,
+  "logo": "https://www.chittorgarh.net/images/ipo/iex-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/iex-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 9 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "9",
+        "amount": "14850"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "117",
+        "amount": "193050"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "126",
+        "amount": "207900"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "603",
+        "amount": "994950"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "612",
+        "amount": "1009800"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/indian-energy-exchange-iex-ipo/746/"
+    }
+  },
+  "lot_size": 9,
+  "opening_date": "2017-10-08T18:30:00.000Z",
+  "pageHeading": "Indian Energy Exchange Ltd IPO (Indian Energy Exchange IPO) Detail",
+  "pageTitle": "Indian Energy Exchange IPO Date, Price, GMP, Details",
+  "prospectusLinks": [
+    {
+      "text": "Indian Energy Exchange IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2017/indian-energy-exchange-limited_35136.html"
+    },
+    {
+      "text": "Indian Energy Exchange IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2017/indian-energy-exchange-limited_36309.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/indian-energy-exchange-iex-ipo/746/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "einward.ris@karvy.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Indian Energy Exchange IPO offers 4245508 shares. 1213002 (28.57%) to QIB 909752 (21.43%) to NII 2122754 (50.00%) to RII. 235861 RIIs will receive minimum 9 shares and (sNII) and (bNII) will receive minimum 126 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "1213002 (28.57%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "909752 (21.43%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "2122754 (50.00%)",
+        "maximum_allottees": "235861"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "4245508 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:22:13.395Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Indian Energy Exchange IPO is subscribed 2.28 times on October 11 2017 9:20:00 PM (Day 3). The public issue subscribed 2.61 times in the retail category 2.56 times in the QIB category and 0.85 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "2.56",
+        "shares_offered": "1213002"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "0.85",
+        "shares_offered": "909752"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "2.61",
+        "shares_offered": "2122754"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "2.28",
+        "shares_offered": "4245508"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on October 11 2017"
+  },
+  "updatedAt": "2025-04-19T04:38:50.964Z",
+  "updated_at": "2025-04-18T18:22:13.395Z",
+  "year": 2017,
+  "worst_listing_gains": "-1.43%",
+  "worst_listing_gains_numeric": -1.43
+}

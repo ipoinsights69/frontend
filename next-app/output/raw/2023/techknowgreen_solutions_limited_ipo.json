@@ -1,0 +1,423 @@
+{
+  "_id": "68028e9f3ccffd1c7912c96c",
+  "ipo_id": "2023_techknowgreen_solutions_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:30:12.768Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/techknowgreen-solutions-ipo/1515/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2001, Techknowgreen Solutions Limited, previously known as Techno Green Environmental Solutions, provides environmental consulting services.</p>\n<p>Techknowgreen Solutions is one of the first companies in India to provide environmental IT solutions through software applications and compliance solutions.</p>\n<p>The company has three verticals:</p>\n<ol>\n<li>Consulting: This includes environmental impact assessment, sustainability reporting, and climatology; environmental compliance; environmental due diligence: site assessment phase, chemical analysis phase, and remediation, DPR and designing which includes STP, ETP., WTP, SWM, remediation, Air Pollution Control (Urban), HWM, EPR, and Renewables; Training and sensitization; and Environment crime investigation.</li>\n<li>Infor Tech: This includes wastewater management: STP, ETP, Zero Liquid discharge (ZLD); Air quality: developed products such as YUKA Yantra for indoor Air and virtual chimney for ambient Air purification; Solid Waste: BIOGAS, organic composter; Remediation: Soil, decontamination, hazardous waste. Information Technology: Software  development, KYC (Know your compliance), Intelligent decision support system (IDSS); Applications: ROCO footprint, E-catalyst, and mass plantation applications for MPCB; and IoT: data communication interface for applications and software.</li>\n<li>Research Policy and Engineering: This includes Carbon capture, storage, and utilization (CCUS), modeling Blue Carbon, Carbon sink, Carbon and methane - neutrality and Climate resilience, Wastewater trading, circular economic wetland technology, Advanced Oxidation process (AOP), nature-based solutions (NBS), environmental surveillance, Compliance monitoring, Big data, Cost and health benefit analysis (CBA), analysis of Alternatives, policy screening.</li>\n</ol>\n<p>Techknowgreen's clientele comes from government, semi-government organizations, MNCs, large companies, mid-size companies, and MSMEs.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1181.75",
+          "953.94",
+          "1237.25"
+        ],
+        [
+          "Revenue",
+          "785.27",
+          "999.09",
+          "1486.28"
+        ],
+        [
+          "Profit After Tax",
+          "37.17",
+          "108.18",
+          "451.38"
+        ],
+        [
+          "Net Worth",
+          "296.43",
+          "355.86",
+          "633.63"
+        ],
+        [
+          "Reserves and Surplus",
+          "-213.20",
+          "-153.76",
+          "124.00"
+        ],
+        [
+          "Total Borrowing",
+          "450.71",
+          "285.86",
+          "287.40"
+        ]
+      ]
+    },
+    {
+      "heading": "Techknowgreen Solutions Ltd Stock Quote & Charts",
+      "sanitizedHeading": "techknowgreen_solutions_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "88.57%"
+        ],
+        [
+          "ROCE",
+          "98.74%"
+        ],
+        [
+          "Debt/Equity",
+          "0.45"
+        ],
+        [
+          "RoNW",
+          "71.24%"
+        ]
+      ]
+    },
+    {
+      "heading": "Techknowgreen Solutions Ltd Stock Quote & Charts",
+      "sanitizedHeading": "techknowgreen_solutions_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.86",
+          null
+        ],
+        [
+          "P/E (x)",
+          "9.71",
+          "14.08"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 18, 2023 to September 21, 2023",
+    "ipoListingDate": "Wed, Sep 27, 2023",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹86.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "19,44,000 shares (aggregating up to ₹16.72 Cr)",
+    "freshIssue": "19,44,000 shares (aggregating up to ₹16.72 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "97,600 shares",
+      "maker_name": "Alacrity Securities Ltd.",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/205/"
+    },
+    "ipoOpenDate": "Mon, Sep 18, 2023",
+    "ipoCloseDate": "Thu, Sep 21, 2023",
+    "initiationOfRefunds": "Wed, Sep 27, 2023",
+    "creditOfSharesToDemat": "Thu, Sep 28, 2023",
+    "shareHoldingPreIssue": "54,38,730 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "54,38,730 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "89.02%"
+      }
+    ],
+    "shareHoldingPostIssue": "73,82,730 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "73,82,730 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "65.58%"
+      }
+    ]
+  },
+  "closing_date": "2023-09-20T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9607002553",
+    "email": "cs@techknowgreen.com",
+    "full_address": "Techknowgreen Solutions Limited, Flat-202 Hem Opal Apartment, Plot No. 26 Ekta Park Society, Wakdewadi Pune - 411003",
+    "website": "http://www.techknowgreen.com/index.php"
+  },
+  "createdAt": "2025-04-18T17:40:47.051Z",
+  "faqs": [
+    {
+      "question": "What is the Techknowgreen Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>Techknowgreen Solutions IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1944000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->16.72<!-- --> Crores. The issue is priced at <span>₹86 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 18, 2023</b>, and <b>closes on <!-- -->September 21, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Techknowgreen Solutions IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Techknowgreen Solutions IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Techknowgreen Solutions IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Techknowgreen Solutions IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Techknowgreen Solutions IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Techknowgreen Solutions IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Techknowgreen Solutions IPO opens on September 18, 2023 and closes on September 21, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Techknowgreen Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>Techknowgreen Solutions IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,37,600</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Techknowgreen Solutions IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Techknowgreen Solutions IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Techknowgreen Solutions IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Techknowgreen Solutions IPO<!-- --> will be done on <!-- -->Tuesday, September 26, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, September 28, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/techknowgreen-solutions-ipo/1515/\" title=\"Techknowgreen Solutions IPO Allotment Status\">Techknowgreen Solutions IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Techknowgreen Solutions IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Techknowgreen Solutions IPO<!-- --> listing date is on <b>Wednesday, September 27, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Techknowgreen Solutions",
+  "issue_price": "₹86.00",
+  "issue_price_numeric": 86,
+  "issue_size": "19,44,000 shares (aggregating up to ₹16.72 Cr)",
+  "issue_size_numeric": 19,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Indorient Financial Services Ltd",
+      "url": "/report/ipo-lead-manager-review/112/175/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/175/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "86.00"
+      },
+      "open": {
+        "bse_sme": "87.00"
+      },
+      "low": {
+        "bse_sme": "86.10"
+      },
+      "high": {
+        "bse_sme": "91.35"
+      },
+      "last_trade": {
+        "bse_sme": "91.35"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 27 2023",
+    "bse_script_code": "543991",
+    "isin": "INE0P4P01011",
+    "final_issue_price": "86 per share"
+  },
+  "listing_date": "2023-09-26T18:30:00.000Z",
+  "listing_gains": "6.22%",
+  "listing_gains_numeric": 6.22,
+  "logo": "https://www.chittorgarh.net/images/ipo/techknowgreen-solutions-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/techknowgreen-solutions-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "137600"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "137600"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "275200"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/techknowgreen-solutions-ipo/1515/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2023-09-17T18:30:00.000Z",
+  "pageHeading": "Techknowgreen Solutions Limited IPO (Techknowgreen Solutions IPO) Detail",
+  "pageTitle": "Techknowgreen Solutions IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Ajay Ramakant Ojha and Mr. Prasad Rangrao Pawar are the company's promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "89.02%",
+      "share_holding_post_issue": "65.58%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Techknowgreen Solutions IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/391915/Draft%20Prospectus_Green_20230731183959.pdf"
+    },
+    {
+      "text": "Techknowgreen Solutions IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/oct-2023/techknowgreen-solutions-limited_77877.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "2",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/techknowgreen-solutions-ipo/1515/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Techknowgreen Solutions IPO offers 1944000 shares. 923200 (47.49%) to NII 923200 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "97600 (5.02%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "923200 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "923200 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1944000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.051Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Techknowgreen Solutions IPO is subscribed 12.98 times on September 21 2023 7:02:00 PM (Day 3). The public issue subscribed 15.82 times in the retail category [.] times in the QIB category and 9.08 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "9.08",
+        "shares_offered": "923200",
+        "shares_bid_for": "8387200"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "15.82",
+        "shares_offered": "923200",
+        "shares_bid_for": "14609600"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "12.98",
+        "shares_offered": "1846400",
+        "shares_bid_for": "23958400"
+      }
+    },
+    "total_applications": "4851",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 21 2023",
+    "tentative_allotment": "Tue Sep 26 2023",
+    "initiation_of_refunds": "Wed Sep 27 2023",
+    "credit_of_shares_to_demat": "Thu Sep 28 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:50.177Z",
+  "updated_at": "2025-04-18T17:40:47.051Z",
+  "year": 2023,
+  "worst_listing_gains": "6.22%",
+  "worst_listing_gains_numeric": 6.22
+}

@@ -1,0 +1,501 @@
+{
+  "_id": "68028e993ccffd1c7912c8a1",
+  "ipo_id": "2023_aeroflex_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:31:16.933Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/aeroflex-industries-ipo/1482/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1993, Aeroflex Industries Limited, previously known as Suyog Intermediates Private Limited, manufactures and supplies environment-friendly metallic flexible flow solution products.</p>\n<p>The company's product list includes braided hoses, unbraided hoses, solar hoses, gas hoses, vacuum hoses, braiding, interlock hoses, hose assemblies, lancing hose assemblies, jacketed hose assemblies, exhaust connectors, exhaust gas recirculation (EGR) tubes, expansion bellows, compensators, and related end fittings. As on March 31, 2023, the company recorded more than 1,700 Product SKUs (Stock Keeping Units) in its product portfolio.</p>\n<p>Aeroflex Industries' manufacturing facility is located at Taloja, Navi Mumbai, Maharashtra, and is spread across 3,59,528 square feet of area. The facility is certified with Annex III, Module H of Directive 97/23/EC on Pressure Equipment, Management System as per ISO 9001:2015, Environmental Management System-ISO 14001:2015, ISO 45001:2015 (Occupational Health &amp; Safety), Testing Certificate-Gas Hoses-1/2\" NB Hose Assembly, NABL ISO /IEC 17025:2017, Statement of 153 Conformity for design, manufacturing, and testing of SS corrugated flexible Hose Assembly, Statement of Conformity for Quality Procedures applied standard EN ISO 10380:2012 and BS 6501-1 (E:2004), Certificate of Design Assessment required for quality management systems, environmental management systems, health and safety management systems.</p>\n<p>The company's clientele includes distributors, fabricators, Maintenance Repair and Operations Companies (MROs), Original Equipment Manufacturers (OEMs), and companies operating in a wide range of industries.</p>\n<p>Aeroflex recorded Rs. 2694.78 Lakhs in total revenue in Fiscal 2023 and Rs. 2409.92 Million in Fiscal 2022.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2020",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "157.19",
+          "161.64",
+          "183.44",
+          "213.98"
+        ],
+        [
+          "Revenue",
+          "144.94",
+          "144.84",
+          "240.99",
+          "269.48"
+        ],
+        [
+          "Profit After Tax",
+          "4.69",
+          "6.01",
+          "27.51",
+          "30.15"
+        ],
+        [
+          "Net Worth",
+          "52.70",
+          "58.72",
+          "86.22",
+          "114.09"
+        ],
+        [
+          "Reserves and Surplus",
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Total Borrowing",
+          "63.46",
+          "53.07",
+          "39.13",
+          "45.01"
+        ]
+      ]
+    },
+    {
+      "heading": "Aeroflex Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "aeroflex_industries_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "26.43%"
+        ],
+        [
+          "ROCE",
+          "31.96%"
+        ],
+        [
+          "Debt/Equity",
+          "0.39"
+        ],
+        [
+          "RoNW",
+          "26.43%"
+        ]
+      ]
+    },
+    {
+      "heading": "Aeroflex Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "aeroflex_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.64",
+          null
+        ],
+        [
+          "P/E (x)",
+          "40.91",
+          null
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Aeroflex Industries IPO raises Rs 103.68 crore from anchor investors. Aeroflex Industries IPO Anchor bid date is August 21 2023. Aeroflex Industries IPO Anchor Investors list",
+    "list_link": {
+      "text": "Aeroflex Industries IPO Anchor Investors list",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20230821-16&attachedId=0eab744e-8b7a-45fd-9344-9724946f0f90"
+    },
+    "details": {
+      "ipo_date": "November 27 2023",
+      "shares_offered": "9599980",
+      "anchor_portion_size": "103.68"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "August 22, 2023 to August 24, 2023",
+    "ipoListingDate": "Thu, Aug 31, 2023",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹108.00",
+    "lotSize": "130 Shares",
+    "issueSize": "3,25,00,000 shares (aggregating up to ₹351.00 Cr)",
+    "freshIssue": "1,50,00,000 shares (aggregating up to ₹162.00 Cr)",
+    "offerForSale": "1,75,00,000 shares of ₹2 (aggregating up to ₹189.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Aug 22, 2023",
+    "ipoCloseDate": "Thu, Aug 24, 2023",
+    "initiationOfRefunds": "Wed, Aug 30, 2023",
+    "creditOfSharesToDemat": "Thu, Aug 31, 2023",
+    "shareHoldingPreIssue": "91.09%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "91.09%"
+      }
+    ],
+    "shareHoldingPostIssue": "12,93,20,370 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "12,93,20,370 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "66.99%"
+      }
+    ]
+  },
+  "closing_date": "2023-08-23T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 61467100",
+    "email": "corporate@aeroflexindia.com",
+    "full_address": "Aeroflex Industries Limited, Plot No. 41 42/13 42/14 &amp; 42/18, near Taloja MIDC Village Chal Behind IGPL, Panvel Navi Mumbai - 410 208",
+    "website": "https://www.aeroflexindia.com/"
+  },
+  "createdAt": "2025-04-18T17:40:40.816Z",
+  "faqs": [
+    {
+      "question": "What is the Aeroflex Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aeroflex Industries IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->32500000<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->351.00<!-- --> Crores. The issue is priced at <span>₹108 per share</span>. The minimum order quantity is <!-- -->130<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->August 22, 2023</b>, and <b>closes on <!-- -->August 24, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Aeroflex Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Aeroflex Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Aeroflex Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Aeroflex Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Aeroflex Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Aeroflex Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Aeroflex Industries IPO opens on August 22, 2023 and closes on August 24, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Aeroflex Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Aeroflex Industries IPO<!-- --> <b>lot size is <!-- -->130</b>, and the <b>minimum amount required is <span>₹14,040</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Aeroflex Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Aeroflex Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Aeroflex Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Aeroflex Industries IPO<!-- --> will be done on <!-- -->Tuesday, August 29, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, August 31, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/aeroflex-industries-ipo/1482/\" title=\"Aeroflex Industries IPO Allotment Status\">Aeroflex Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Aeroflex Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Aeroflex Industries IPO<!-- --> listing date is on <b>Thursday, August 31, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Aeroflex Industries",
+  "issue_price": "₹108.00",
+  "issue_price_numeric": 108,
+  "issue_size": "3,25,00,000 shares (aggregating up to ₹351.00 Cr)",
+  "issue_size_numeric": 3,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Pantomath Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/107/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/107/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "108.00",
+        "nse": "108.00"
+      },
+      "open": {
+        "bse": "197.40",
+        "nse": "190.00"
+      },
+      "low": {
+        "bse": "162.10",
+        "nse": "162.30"
+      },
+      "high": {
+        "bse": "197.40",
+        "nse": "196.35"
+      },
+      "last_trade": {
+        "bse": "163.15",
+        "nse": "163.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "August 31 2023",
+    "bse_script_code": "543972",
+    "nse_symbol": "AEROFLEX",
+    "isin": "INE024001021",
+    "final_issue_price": "108 per share"
+  },
+  "listing_date": "2023-08-30T18:30:00.000Z",
+  "listing_gains": "51.06%",
+  "listing_gains_numeric": 51.06,
+  "logo": "https://www.chittorgarh.net/images/ipo/aeroflex-industries-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/aeroflex-industries-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 130 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "130",
+        "amount": "14040"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "14",
+        "shares": "1820",
+        "amount": "196560"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "15",
+        "shares": "1950",
+        "amount": "210600"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "71",
+        "shares": "9230",
+        "amount": "996840"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "72",
+        "shares": "9360",
+        "amount": "1010880"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/aeroflex-industries-ipo/1482/"
+    }
+  },
+  "lot_size": 130,
+  "opening_date": "2023-08-21T18:30:00.000Z",
+  "pageHeading": "Aeroflex Industries Limited IPO (Aeroflex Industries IPO) Detail",
+  "pageTitle": "Aeroflex Industries IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Sat Industries Limited and Italica Global FZC are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "91.09%",
+      "share_holding_post_issue": "66.99%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Aeroflex Industries IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/apr-2023/aeroflex-industries-limited_69721.html"
+    },
+    {
+      "text": "Aeroflex Industries IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2023/aeroflex-industries-limited-prospectus_76074.html"
+    },
+    {
+      "text": "Anchor Investors in Aeroflex Industries IPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20230821-16&attachedId=0eab744e-8b7a-45fd-9344-9724946f0f90"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "16",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "6",
+        "neutral": "2",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/aeroflex-industries-ipo/1482/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "aeroflexindustries.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Aeroflex Industries IPO offers 32817647 shares. 6276490 (19.13%) to QIB 4932353 (15.03%) to NII 11508824 (35.07%) to RII 9599980 (29.25%) to Anchor investors. 88529 RIIs will receive minimum 130 shares and 843 (sNII) and 1686 (bNII) will receive minimum 1950 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "9599980 (29.25%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "6276490 (19.13%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4932353 (15.03%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "3288236 (10.02%)",
+        "maximum_allottees": "1686"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1644117 (5.01%)",
+        "maximum_allottees": "843"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "11508824 (35.07%)",
+        "maximum_allottees": "88529"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "500000 (1.52%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "32817647 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:40.815Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Aeroflex Industries IPO is subscribed 97.11 times on August 24 2023 7:02:00 PM (Day 3). The public issue subscribed 34.41 times in the retail category 194.73 times in the QIB category and 126.13 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "194.73",
+        "shares_offered": "6276490",
+        "shares_bid_for": "1222231140"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "126.13",
+        "shares_offered": "4932353",
+        "shares_bid_for": "622137100"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "125.8",
+        "shares_offered": "3288236",
+        "shares_bid_for": "413663510"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "126.8",
+        "shares_offered": "1644117",
+        "shares_bid_for": "208473590"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "34.41",
+        "shares_offered": "11508824",
+        "shares_bid_for": "396017830"
+      },
+      "others": {
+        "category": "Others",
+        "subscription_times": "28.52",
+        "shares_offered": "500000",
+        "shares_bid_for": "14260870"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "97.11",
+        "shares_offered": "23217667",
+        "shares_bid_for": "2254646940"
+      }
+    },
+    "total_applications": "2768343"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on August 24 2023",
+    "tentative_allotment": "Tue Aug 29 2023",
+    "initiation_of_refunds": "Wed Aug 30 2023",
+    "credit_of_shares_to_demat": "Thu Aug 31 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:23.725Z",
+  "updated_at": "2025-04-18T17:40:40.815Z",
+  "year": 2023,
+  "worst_listing_gains": "51.06%",
+  "worst_listing_gains_numeric": 51.06
+}

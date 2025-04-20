@@ -1,0 +1,477 @@
+{
+  "_id": "68028e9e3ccffd1c7912c945",
+  "ipo_id": "2023_sai_silks_kalamandir_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": false,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:30:06.043Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/sai-silks-kalamandir-ipo/1508/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2005, Sai Silks (Kalamandir) Limited provides ethnic apparel and value-fashion products.</p>\n<p>Inspired by India's vibrant culture, traditions, and heritage, the company offers a diverse range of products which includes various types of ultra-premium and premium sarees suitable for weddings, party wear, occasional and daily wear, lehengas, men's ethnic wear, children's ethnic wear and value fashion products comprising fusion wear and western wear for women, men and children.</p>\n<p>Sai Silks has four different format stores:</p>\n<ol>\n<li>Kalamandir: Here it offers contemporary ethnic fashion for the middle income, this includes varieties of sarees, such as Tusser, Silk, Kota, Kora, Khadi, Georgette, Cotton, and Matka.</li>\n<li>VaraMahalakshmi Silks: Here it offers premium ethnic silk sarees and handlooms targeting wedding and occasional wear, such as Banarasi, Patola, Kota, Kanchipuram, Paithani, and Organza, Kuppadam, with a focus on handlooms such as Kacheepuram silk sarees.</li>\n<li>Mandir: Here it offers ultra-premium designer sarees targeting high net worth individuals, such as designer sarees such as Banarasi, Patola, Ikat, Kanchipuram, Paithani, Organza, and Kuppadam.</li>\n<li>KLM Fashion Mall: Here it offers value fashion at affordable price points, such as fusion wear, sarees for daily wear, and western wear for women, men, and children.</li>\n</ol>\n<p>The company also offers its products through e-commerce channels which comprises its website sskl.co.in and other online e-commerce marketplaces.</p>\n<p>As of July 31, 2023, the company has over 54 stores in four south Indian states namely Andhra Pradesh, Telangana, Karnataka, and Tamil Nadu, with an aggregate area of approximately 603,414 square feet. The company recorded Rs. 13,514.69 million, Rs. 11,293.23 million, and Rs. 6,772.48 million in revenue from operations in the fiscal 2023, 2022, and 2021 respectively.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Sai Silks (Kalamandir) Limited Financial Information (Restated)",
+      "sanitizedHeading": "sai_silks",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021",
+        "31 Mar 2020"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "1220.45",
+          "842.49",
+          "665.42",
+          "692.76"
+        ],
+        [
+          "Revenue",
+          "1358.92",
+          "1133.02",
+          "679.10",
+          "1178.62"
+        ],
+        [
+          "Profit After Tax",
+          "97.59",
+          "57.69",
+          "5.13",
+          "42.10"
+        ],
+        [
+          "Net Worth",
+          "397.33",
+          "300.66",
+          "242.99",
+          "231.51"
+        ],
+        [
+          "Reserves and Surplus",
+          "373.27",
+          "276.60",
+          "218.93",
+          "208.05"
+        ],
+        [
+          "Total Borrowing",
+          "345.50",
+          "260.49",
+          "217.22",
+          "164.70"
+        ]
+      ]
+    },
+    {
+      "heading": "Sai Silks (Kalamandir) Limited Stock Quote & Charts",
+      "sanitizedHeading": "sai_silks_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "27.96%"
+        ],
+        [
+          "ROCE",
+          "23.55%"
+        ],
+        [
+          "Debt/Equity",
+          "0.87"
+        ],
+        [
+          "RoNW",
+          "24.56%"
+        ]
+      ]
+    },
+    {
+      "heading": "Sai Silks (Kalamandir) Limited Stock Quote & Charts",
+      "sanitizedHeading": "sai_silks_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "8.11",
+          null
+        ],
+        [
+          "P/E (x)",
+          "27.37",
+          "34.91"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Sai Silks (Kalamandir) IPO raises Rs 360.30 crore from anchor investors. Sai Silks (Kalamandir) IPO Anchor bid date is September 18 2023. Sai Silks (Kalamandir) IPO Anchor Investors list",
+    "list_link": {
+      "text": "Sai Silks (Kalamandir) IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sai-silks-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "December 26 2023",
+      "shares_offered": "16229707",
+      "anchor_portion_size": "360.30"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 20, 2023 to September 22, 2023",
+    "ipoListingDate": "Wed, Sep 27, 2023",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹222.00",
+    "lotSize": "67 Shares",
+    "issueSize": "5,40,99,027 shares (aggregating up to ₹1,201.00 Cr)",
+    "freshIssue": "2,70,27,027 shares (aggregating up to ₹600.00 Cr)",
+    "offerForSale": "2,70,72,000 shares of ₹2 (aggregating up to ₹601.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Sep 20, 2023",
+    "ipoCloseDate": "Fri, Sep 22, 2023",
+    "initiationOfRefunds": "Fri, Sep 29, 2023",
+    "creditOfSharesToDemat": "Tue, Oct 3, 2023",
+    "shareHoldingPreIssue": "95.23%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "95.23%"
+      }
+    ],
+    "shareHoldingPostIssue": "15,33,66,112 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "15,33,66,112 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "60.80%"
+      }
+    ]
+  },
+  "closing_date": "2023-09-21T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 40 6656 6555",
+    "email": "secretarial@sskl.co.in",
+    "full_address": "Sai Silks (Kalamandir) Limited, 6-3-790/8 Flat No. 1, Bathina Apartments Ameerpet, Hyderabad - 500 016",
+    "website": "https://sskl.co.in/"
+  },
+  "createdAt": "2025-04-18T17:40:46.207Z",
+  "faqs": [
+    {
+      "question": "What is the Sai Silks (Kalamandir) IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sai Silks (Kalamandir) IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->54099027<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->1,201.00<!-- --> Crores. The issue is priced at <span>₹222 per share</span>. The minimum order quantity is <!-- -->67<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 20, 2023</b>, and <b>closes on <!-- -->September 22, 2023</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Sai Silks (Kalamandir) IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Sai Silks (Kalamandir) IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Sai Silks (Kalamandir) IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Sai Silks (Kalamandir) IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Sai Silks (Kalamandir) IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Sai Silks (Kalamandir) IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Sai Silks (Kalamandir) IPO opens on September 20, 2023 and closes on September 22, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Sai Silks (Kalamandir) IPO?",
+      "answer": "<div itemprop=\"text\"><p>Sai Silks (Kalamandir) IPO<!-- --> <b>lot size is <!-- -->67</b>, and the <b>minimum amount required is <span>₹14,874</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Sai Silks (Kalamandir) IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Sai Silks (Kalamandir) IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Sai Silks (Kalamandir) IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Sai Silks (Kalamandir) IPO<!-- --> will be done on <!-- -->Wednesday, September 27, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, October 3, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/sai-silks-kalamandir-ipo/1508/\" title=\"Sai Silks (Kalamandir) IPO Allotment Status\">Sai Silks (Kalamandir) IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Sai Silks (Kalamandir) IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Sai Silks (Kalamandir) IPO<!-- --> listing date is on <b>Wednesday, September 27, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Sai Silks (Kalamandir)",
+  "issue_price": "₹222.00",
+  "issue_price_numeric": 222,
+  "issue_size": "5,40,99,027 shares (aggregating up to ₹1,201.00 Cr)",
+  "issue_size_numeric": 5,
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "222.00",
+        "nse": "222.00"
+      },
+      "open": {
+        "bse": "230.10",
+        "nse": "231.00"
+      },
+      "low": {
+        "bse": "230.10",
+        "nse": "230.95"
+      },
+      "high": {
+        "bse": "246.85",
+        "nse": "247.00"
+      },
+      "last_trade": {
+        "bse": "244.85",
+        "nse": "244.90"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 27 2023",
+    "bse_script_code": "543989",
+    "nse_symbol": "KALAMANDIR",
+    "isin": "INE438K01021",
+    "final_issue_price": "222 per share"
+  },
+  "listing_date": "2023-09-26T18:30:00.000Z",
+  "listing_gains": "10.29%",
+  "listing_gains_numeric": 10.29,
+  "logo": "https://www.chittorgarh.net/images/ipo/sai-silks-kalamandir-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/sai-silks-kalamandir-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 67 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "67",
+        "amount": "14874"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "871",
+        "amount": "193362"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "938",
+        "amount": "208236"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "4489",
+        "amount": "996558"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "4556",
+        "amount": "1011432"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/sai-silks-kalamandir-ipo/1508/"
+    }
+  },
+  "lot_size": 67,
+  "opening_date": "2023-09-19T18:30:00.000Z",
+  "pageHeading": "Sai Silks (Kalamandir) Limited IPO (Sai Silks (Kalamandir) IPO) Detail",
+  "pageTitle": "Sai Silks (Kalamandir) IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the company are Nagakanaka Durga Prasad Chalavadi and Jhansi Rani Chalavadi.",
+    "holdings": {
+      "share_holding_pre_issue": "95.23%",
+      "share_holding_post_issue": "60.80%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Sai Silks (Kalamandir) IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/383898/DRHP_20220726174451.pdf "
+    },
+    {
+      "text": "Sai Silks (Kalamandir) IPO Addendum DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2023/sai-silks-kalamandi-limited-addendum-to-the-drhp_74376.html"
+    },
+    {
+      "text": "Sai Silks (Kalamandir) IPO RHP",
+      "url": "https://nsearchives.nseindia.com/corporate/FP_INE438K01021_26SEP2023.pdf"
+    },
+    {
+      "text": "Anchor Investors in Sai Silks (Kalamandir) IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/sai-silks-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "13",
+        "neutral": "1",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "3",
+        "neutral": "2",
+        "avoid": "1"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/sai-silks-kalamandir-ipo/1508/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Sai Silks (Kalamandir) IPO offers 54099027 shares. 10819807 (20.00%) to QIB 8114854 (15.00%) to NII 18934659 (35.00%) to RII 16229707 (30.00%) to Anchor investors. 282606 RIIs will receive minimum 67 shares and 2883 (sNII) and 5767 (bNII) will receive minimum 938 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "16229707 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "10819807 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "8114854 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "5409903 (10.00%)",
+        "maximum_allottees": "5767"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "2704951 (5.00%)",
+        "maximum_allottees": "2883"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "18934659 (35.00%)",
+        "maximum_allottees": "282606"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "54099027 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:46.207Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Sai Silks (Kalamandir) IPO is subscribed 4.47 times on September 22 2023 7:02:00 PM (Day 3). The public issue subscribed 0.91 times in the retail category 12.17 times in the QIB category and 2.54 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "12.17",
+        "shares_offered": "10819807",
+        "shares_bid_for": "131679656"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "2.54",
+        "shares_offered": "8114854",
+        "shares_bid_for": "20625481"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "3.03",
+        "shares_offered": "5409903",
+        "shares_bid_for": "16387195"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "1.57",
+        "shares_offered": "2704951",
+        "shares_bid_for": "4238286"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "0.91",
+        "shares_offered": "18934659",
+        "shares_bid_for": "17153407"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "4.47",
+        "shares_offered": "37869320",
+        "shares_bid_for": "169458544"
+      }
+    },
+    "total_applications": "147469"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 22 2023",
+    "tentative_allotment": "Wed Sep 27 2023",
+    "initiation_of_refunds": "Fri Sep 29 2023",
+    "credit_of_shares_to_demat": "Tue Oct 3 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:45.185Z",
+  "updated_at": "2025-04-18T17:40:46.207Z",
+  "year": 2023,
+  "worst_listing_gains": "10.29%",
+  "worst_listing_gains_numeric": 10.29
+}

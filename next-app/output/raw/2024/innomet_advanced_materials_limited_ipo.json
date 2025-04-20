@@ -1,0 +1,404 @@
+{
+  "_id": "680249fd3ccffd1c7912c782",
+  "ipo_id": "2024_innomet_advanced_materials_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": false,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:22:20.749Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/innomet-advanced-materials-ipo/1845/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1984, Innomet Advanced Materials Limited manufactures Metal Powders and Tungsten Heavy Alloys.</p>\n<p>The company has two divisions.</p>\n<ol>\n<li>Innomet Powders.</li>\n<li>Innotung.</li>\n</ol>\n<p>Innomet complies with the Quality Management System Standard: ISO 9001:2015 for the manufacturing and supply of Ferrous &amp; Non-Ferrous Metal/Alloy Powders and Tungsten Heavy Alloy components.</p>\n<p>The company offers a diverse range of over 20 products, including copper, bronze, brass, nickel, tin, and stainless-steel powders for various industries. They specialize in producing custom grades of metal and alloy powders containing iron, copper, nickel, tin, zinc, and cobalt.</p>\n<p>The company has supplied its products in India as well as in US, UK, Germany, Netherlands, Japan, Italy, New Zealand, Lebanon and Brunei.</p>\n<p>As of March 31, 2024, the company has 56 employees in various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Innomet Advanced Materials IPO Promoter Holding",
+      "sanitizedHeading": "promoter_holding",
+      "headers": [
+        "Share Holding Pre Issue",
+        "74.52%"
+      ],
+      "rows": [
+        [
+          "Share Holding Post Issue",
+          "54.80%"
+        ]
+      ]
+    },
+    {
+      "heading": "Innomet Advanced Materials Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3416.76",
+          "1213.68",
+          "974.01"
+        ],
+        [
+          "Revenue",
+          "2955.45",
+          "2714.78",
+          "2240.35"
+        ],
+        [
+          "Profit After Tax",
+          "251.91",
+          "321.55",
+          "55.17"
+        ],
+        [
+          "Net Worth",
+          "1472",
+          "705.94",
+          "379.78"
+        ],
+        [
+          "Reserves and Surplus",
+          "520.35",
+          "417.62",
+          "91.46"
+        ],
+        [
+          "Total Borrowing",
+          "1331.29",
+          "1209.5",
+          "981.51"
+        ]
+      ]
+    },
+    {
+      "heading": "Innomet Advanced Materials IPO Details",
+      "sanitizedHeading": "innomet_advanced_materials",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "21.37%"
+        ],
+        [
+          "ROCE",
+          "16.27%"
+        ],
+        [
+          "Debt/Equity",
+          "1.27"
+        ],
+        [
+          "RoNW",
+          "17.11%"
+        ]
+      ]
+    },
+    {
+      "heading": "Innomet Advanced Materials IPO Details",
+      "sanitizedHeading": "innomet_advanced_materials",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.65",
+          "1.95"
+        ],
+        [
+          "P/E (x)",
+          "37.78",
+          "51.37"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "September 11, 2024 to September 13, 2024",
+    "ipoListingDate": "Wed, Sep 18, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹100.00",
+    "lotSize": "1,200 Shares",
+    "issueSize": "34,23,600 shares (aggregating up to ₹34.24 Cr)",
+    "freshIssue": "34,23,600 shares (aggregating up to ₹34.24 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,71,600 shares",
+      "maker_name": "Prabhat Financial Services Ltd.",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/320/"
+    },
+    "ipoOpenDate": "Wed, Sep 11, 2024",
+    "ipoCloseDate": "Fri, Sep 13, 2024",
+    "initiationOfRefunds": "Tue, Sep 17, 2024",
+    "creditOfSharesToDemat": "Tue, Sep 17, 2024",
+    "shareHoldingPreIssue": "95,16,538 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "95,16,538 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "74.52%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,29,40,138 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,29,40,138 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "54.80%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-12T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 04023021726",
+    "email": "cs@innomet.net",
+    "full_address": "Innomet Advanced Materials Limited, B-31 BHEL Ancillary Industrial Estate, Ramachandrapuram, Medak Hyderabad-502032",
+    "website": "https://www.innomet.net/"
+  },
+  "createdAt": "2025-04-18T12:47:57.879Z",
+  "faqs": [
+    {
+      "question": "What is the Innomet Advanced Materials IPO?",
+      "answer": "<div itemprop=\"text\"><p>Innomet Advanced Materials IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3423600<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->34.24<!-- --> Crores. The issue is priced at <span>₹100 per share</span>. The minimum order quantity is <!-- -->1200<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 11, 2024</b>, and <b>closes on <!-- -->September 13, 2024</b>.</p><p>Skyline Financial Services Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Innomet Advanced Materials IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Innomet Advanced Materials IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Innomet Advanced Materials IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Innomet Advanced Materials IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Innomet Advanced Materials IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Innomet Advanced Materials IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Innomet Advanced Materials IPO opens on September 11, 2024 and closes on September 13, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Innomet Advanced Materials IPO?",
+      "answer": "<div itemprop=\"text\"><p>Innomet Advanced Materials IPO<!-- --> <b>lot size is <!-- -->1200</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Innomet Advanced Materials IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Innomet Advanced Materials IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Innomet Advanced Materials IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Innomet Advanced Materials IPO<!-- --> will be done on <!-- -->Monday, September 16, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, September 17, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/innomet-advanced-materials-ipo/1845/\" title=\"Innomet Advanced Materials IPO Allotment Status\">Innomet Advanced Materials IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Innomet Advanced Materials IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Innomet Advanced Materials IPO<!-- --> listing date is on <b>Wednesday, September 18, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Innomet Advanced Materials",
+  "issue_price": "₹100.00",
+  "issue_price_numeric": 100,
+  "issue_size": "34,23,600 shares (aggregating up to ₹34.24 Cr)",
+  "issue_size_numeric": 34,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Expert Global Consultants Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/196/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/196/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "100.00"
+      },
+      "open": {
+        "nse_sme": "190.00"
+      },
+      "low": {
+        "nse_sme": "190.00"
+      },
+      "high": {
+        "nse_sme": "199.50"
+      },
+      "last_trade": {
+        "nse_sme": "199.50"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 18 2024",
+    "nse_symbol": "INNOMET",
+    "isin": "INE0S1D01010",
+    "final_issue_price": "100 per share"
+  },
+  "listing_date": "2024-09-17T18:30:00.000Z",
+  "listing_gains": "99.50%",
+  "listing_gains_numeric": 99.5,
+  "logo": "https://www.chittorgarh.net/images/ipo/innomet-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/innomet-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1200 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1200",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "2400",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/innomet-advanced-materials-ipo/1845/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-09-10T18:30:00.000Z",
+  "pageHeading": "Innomet Advanced Materials Limited IPO (Innomet Advanced Materials IPO) Detail",
+  "pageTitle": "Innomet Advanced Materials IPO Date, Price, GMP, Details",
+  "prospectusLinks": [
+    {
+      "text": "Innomet Advanced Materials IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/InnometAdvancedMaterialsLimited_DP.zip"
+    },
+    {
+      "text": "Innomet Advanced Materials IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/PROSPECTUS_INNOMET.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/innomet-advanced-materials-ipo/1845/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "compliances@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "reservation": {
+    "summary": "Innomet Advanced Materials IPO offers 3423600 shares. 1626000 (47.49%) to NII 1626000 (47.49%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "171600 (5.01%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1626000 (47.49%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1626000 (47.49%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3423600 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:57.879Z",
+  "source_url": "",
+  "status": "listed",
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 13 2024",
+    "tentative_allotment": "Mon Sep 16 2024",
+    "initiation_of_refunds": "Tue Sep 17 2024",
+    "credit_of_shares_to_demat": "Tue Sep 17 2024"
+  },
+  "updatedAt": "2025-04-19T04:36:58.360Z",
+  "updated_at": "2025-04-18T12:47:57.879Z",
+  "year": 2024,
+  "worst_listing_gains": "99.50%",
+  "worst_listing_gains_numeric": 99.5
+}

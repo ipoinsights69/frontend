@@ -1,0 +1,420 @@
+{
+  "_id": "680249fd3ccffd1c7912c75c",
+  "ipo_id": "2024_gconnect_logitech_and_supply_chain_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T12:37:18.168Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/gconnect-logitech-ipo/1688/"
+  },
+  "about": {
+    "details": "<p>Incorporated in July 2022, Gconnect Logitech and Supply Chain Limited provides surface logistics services, including goods transport.</p>\n<p>The company's service offerings include bulk loads, Full Truck Loads (FTL) service, and dedicated loads.</p>\n<p>The company has an asset-light model and works with third parties to provide necessary assets, such as vehicles.</p>\n<p>As of September 30, 2023, the company serves approximately 24 customers, with over 8 customers having been associated with them for more than 4 years.</p>\n<p>As of Oct. 30, 2023, the company had partnered with 4 fleet management firms and had 23 vehicles of various sizes to meet customer needs.</p>\n<p>As of March 2024, the company has a total of 6 employees in various departments.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "GConnect Logitech and Supply Chain Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "423.25",
+          "82.46"
+        ],
+        [
+          "Revenue",
+          "212.57",
+          "101.03"
+        ],
+        [
+          "Profit After Tax",
+          "22.83",
+          "10.86"
+        ],
+        [
+          "Net Worth",
+          "398.15",
+          "77.51"
+        ],
+        [
+          "Reserves and Surplus",
+          "166.29",
+          "60.10"
+        ]
+      ]
+    },
+    {
+      "heading": "Gconnect Logitech And Supply Chain Ltd Stock Quote & Charts",
+      "sanitizedHeading": "gconnect_logitech_and_supply_chain_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "5.73%"
+        ],
+        [
+          "ROCE",
+          "7.67%"
+        ],
+        [
+          "RoNW",
+          "5.73%"
+        ],
+        [
+          "PAT Margin",
+          "11.22"
+        ],
+        [
+          "Price to Book Value",
+          "2.33"
+        ]
+      ]
+    },
+    {
+      "heading": "Gconnect Logitech And Supply Chain Ltd Stock Quote & Charts",
+      "sanitizedHeading": "gconnect_logitech_and_supply_chain_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "26.64",
+          "1.23"
+        ],
+        [
+          "P/E (x)",
+          "1.5",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "March 26, 2024 to March 28, 2024",
+    "ipoListingDate": "Wed, Apr 3, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹40.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "14,01,000 shares (aggregating up to ₹5.60 Cr)",
+    "freshIssue": "14,01,000 shares (aggregating up to ₹5.60 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "BSE SME",
+    "marketMakerPortion": {
+      "text": "75,000 shares",
+      "maker_name": "Aftertrade Broking Pvt Ltd",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/335/"
+    },
+    "ipoOpenDate": "Tue, Mar 26, 2024",
+    "ipoCloseDate": "Thu, Mar 28, 2024",
+    "initiationOfRefunds": "Tue, Apr 2, 2024",
+    "creditOfSharesToDemat": "Tue, Apr 2, 2024",
+    "shareHoldingPreIssue": "23,18,547 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "23,18,547 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "76.76%"
+      }
+    ],
+    "shareHoldingPostIssue": "37,19,547 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "37,19,547 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "47.85%"
+      }
+    ]
+  },
+  "closing_date": "2024-03-27T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 93777 74949",
+    "email": "contact@gconnectlogitech.com",
+    "full_address": "GConnect Logitech and Supply Chain Limited, Shop No. 6 Sadguru Complex, Nari Chowkadina, Bhavnagar – 364 001",
+    "website": "https://www.gconnectlogitech.com/"
+  },
+  "createdAt": "2025-04-18T12:47:56.985Z",
+  "faqs": [
+    {
+      "question": "What is the GConnect Logitech IPO?",
+      "answer": "<div itemprop=\"text\"><p>GConnect Logitech IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1401000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->5.60<!-- --> Crores. The issue is priced at <span>₹40 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->March 26, 2024</b>, and <b>closes on <!-- -->March 28, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in GConnect Logitech IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->GConnect Logitech IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->GConnect Logitech IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->GConnect Logitech IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->GConnect Logitech IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When GConnect Logitech IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The GConnect Logitech IPO opens on March 26, 2024 and closes on March 28, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of GConnect Logitech IPO?",
+      "answer": "<div itemprop=\"text\"><p>GConnect Logitech IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for GConnect Logitech IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->GConnect Logitech IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is GConnect Logitech IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->GConnect Logitech IPO<!-- --> will be done on <!-- -->Monday, April 1, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, April 2, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/gconnect-logitech-ipo/1688/\" title=\"GConnect Logitech IPO Allotment Status\">GConnect Logitech IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is GConnect Logitech IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->GConnect Logitech IPO<!-- --> listing date is on <b>Wednesday, April 3, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "GConnect Logitech and Supply Chain",
+  "issue_price": "₹40.00",
+  "issue_price_numeric": 40,
+  "issue_size": "14,01,000 shares (aggregating up to ₹5.60 Cr)",
+  "issue_size_numeric": 14,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Fedex Securities Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/144/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/144/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse_sme": "40.00"
+      },
+      "open": {
+        "bse_sme": "42.00"
+      },
+      "low": {
+        "bse_sme": "42.00"
+      },
+      "high": {
+        "bse_sme": "44.10"
+      },
+      "last_trade": {
+        "bse_sme": "44.10"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "April 3 2024",
+    "bse_script_code": "544156",
+    "isin": "INE0QHY01011",
+    "final_issue_price": "40 per share"
+  },
+  "listing_date": "2024-04-02T18:30:00.000Z",
+  "listing_gains": "10.25%",
+  "listing_gains_numeric": 10.25,
+  "logo": "https://www.chittorgarh.net/images/ipo/gconnect-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/gconnect-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/gconnect-logitech-ipo/1688/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2024-03-25T18:30:00.000Z",
+  "pageHeading": "GConnect Logitech and Supply Chain Limited IPO (GConnect Logitech IPO) Detail",
+  "pageTitle": "GConnect Logitech IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the Company are Mr. Jigar Vinodbhai Sheth and Mr. Vinod Venilal Sheth.",
+    "holdings": {
+      "share_holding_pre_issue": "76.76%",
+      "share_holding_post_issue": "47.85%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "GConnect Logitech IPO DRHP",
+      "url": "https://www.bseindia.com/corporates/download/313316/Gconnect%20draft%20prospectus%2023.11.2023_20231129113507.pdf"
+    },
+    {
+      "text": "GConnect Logitech IPO Addendum DRHP",
+      "url": "https://www.bseindia.com/corporates/download/313316/AddendumDRHPGconnect_20240229163713.pdf"
+    },
+    {
+      "text": "GConnect Logitech IPO RHP",
+      "url": "https://www.bseindia.com/downloads/ipo/gconnect_220320241113.zip"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/gconnect-logitech-ipo/1688/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "Gconnect.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "GConnect Logitech IPO offers 1401000 shares. 663000 (47.32%) to NII 663000 (47.32%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "75000 (5.35%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "663000 (47.32%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "663000 (47.32%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1401000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:47:56.985Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The GConnect Logitech IPO is subscribed 57.38 times on March 28 2024 7:02:09 PM (Day 3). The public issue subscribed 71.74 times in the retail category [.] times in the QIB category and 42.9 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "42.9",
+        "shares_offered": "663000",
+        "shares_bid_for": "28443000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "71.74",
+        "shares_offered": "663000",
+        "shares_bid_for": "47562000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "57.38",
+        "shares_offered": "1326000",
+        "shares_bid_for": "76092000"
+      }
+    },
+    "total_applications": "21562",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on March 28 2024",
+    "tentative_allotment": "Mon Apr 1 2024",
+    "initiation_of_refunds": "Tue Apr 2 2024",
+    "credit_of_shares_to_demat": "Tue Apr 2 2024"
+  },
+  "updatedAt": "2025-04-19T04:43:48.914Z",
+  "updated_at": "2025-04-18T12:47:56.985Z",
+  "year": 2024,
+  "worst_listing_gains": "10.25%",
+  "worst_listing_gains_numeric": 10.25,
+  "last_performance_update": "2025-04-19T04:43:48.913Z"
+}

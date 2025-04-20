@@ -1,0 +1,492 @@
+{
+  "_id": "68024a003ccffd1c7912c7d2",
+  "ipo_id": "2024_platinum_industries_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:39:18.698Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/platinum-industries-ipo/1638/"
+  },
+  "about": {
+    "details": "<p>Incorporated in August 2016, Platinum Industries Limited is a company that specializes in producing stabilizers. The company manufactures PVC stabilizers, CPVC additives and lubricants.</p>\n<p>The company's products are used in PVC pipes, PVC profiles, PVC fittings, electrical wires and cables, SPC floor tiles, Rigid PVC foam boards, packaging materials, etc.</p>\n<p>The manufacturing facility of the company is situated in Palghar, Maharashtra, and spreads across 21,000 sq. ft. of land.</p>\n<div>The revenue from operations grew at a CAGR of 42.11% in six years, from ₹284.19M in 2018 to ₹2,340.56M in 2023.</div>\n<div>\n<div>&nbsp;</div>\n<div>As of July 2023, the company has twelve distribution centres spread across India.</div>\n<div>.</div>\n</div>\n<div>As of May 31st, 2023, the production unit has 71 employees and 17 workers.</div>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Platinum Industries Limited Financial Information (Restated Consolidated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "30 Sep 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "137.72",
+          "121.17",
+          "84.48",
+          "32.26"
+        ],
+        [
+          "Revenue",
+          "123.73",
+          "232.56",
+          "189.24",
+          "89.53"
+        ],
+        [
+          "Profit After Tax",
+          "22.84",
+          "37.58",
+          "17.75",
+          "4.82"
+        ],
+        [
+          "Net Worth",
+          "85.04",
+          "61.88",
+          "22.34",
+          "4.47"
+        ],
+        [
+          "Reserves and Surplus",
+          "44.86",
+          "21.80",
+          "21.28",
+          "3.53"
+        ],
+        [
+          "Total Borrowing",
+          "11.46",
+          "17.43",
+          "24.24",
+          "3.26"
+        ]
+      ]
+    },
+    {
+      "heading": "Platinum Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "platinum_industries_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "90.02%"
+        ],
+        [
+          "ROCE",
+          "56.85%"
+        ],
+        [
+          "Debt/Equity",
+          "0.28"
+        ],
+        [
+          "RoNW",
+          "61.26%"
+        ],
+        [
+          "Price to Book Value",
+          "11.13"
+        ]
+      ]
+    },
+    {
+      "heading": "Platinum Industries Limited Stock Quote & Charts",
+      "sanitizedHeading": "platinum_industries_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "9.13",
+          "8.31"
+        ],
+        [
+          "P/E (x)",
+          "18.73",
+          "20.57"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Platinum Industries IPO raises Rs 70.59 crore from anchor investors. Platinum Industries IPO Anchor bid date is February 26 2024. Platinum Industries IPO Anchor Investors list",
+    "list_link": {
+      "text": "Platinum Industries IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/platinum_anchor-allocation-report.pdf"
+    },
+    "details": {
+      "ipo_date": "May 30 2024",
+      "shares_offered": "4128237",
+      "anchor_portion_size": "70.59"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "February 27, 2024 to February 29, 2024",
+    "ipoListingDate": "Tue, Mar 5, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹171.00",
+    "lotSize": "87 Shares",
+    "issueSize": "1,37,61,225 shares (aggregating up to ₹235.32 Cr)",
+    "freshIssue": "1,37,61,225 shares (aggregating up to ₹235.32 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Tue, Feb 27, 2024",
+    "ipoCloseDate": "Thu, Feb 29, 2024",
+    "initiationOfRefunds": "Mon, Mar 4, 2024",
+    "creditOfSharesToDemat": "Mon, Mar 4, 2024",
+    "shareHoldingPreIssue": "4,11,63,648 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "4,11,63,648 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "94.74%"
+      }
+    ],
+    "shareHoldingPostIssue": "5,49,24,873 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "5,49,24,873 shares"
+      }
+    ]
+  },
+  "closing_date": "2024-02-28T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 7304538055",
+    "email": "cs@platinumindustriesltd.com",
+    "full_address": "Platinum Industries Limited, Unit No. 841 4th Floor Solitaire Corporate, Park-8 Andheri Kurla Road, Andheri (E) Mumbai –400093",
+    "website": "https://platinumindustriesltd.com/"
+  },
+  "createdAt": "2025-04-18T12:48:00.652Z",
+  "faqs": [
+    {
+      "question": "What is the Platinum Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Platinum Industries IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->13761225<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->235.32<!-- --> Crores. The issue is priced at <span>₹171 per share</span>. The minimum order quantity is <!-- -->87<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->February 27, 2024</b>, and <b>closes on <!-- -->February 29, 2024</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Platinum Industries IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Platinum Industries IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Platinum Industries IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Platinum Industries IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Platinum Industries IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Platinum Industries IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Platinum Industries IPO opens on February 27, 2024 and closes on February 29, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Platinum Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>Platinum Industries IPO<!-- --> <b>lot size is <!-- -->87</b>, and the <b>minimum amount required is <span>₹14,877</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Platinum Industries IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Platinum Industries IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Platinum Industries IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Platinum Industries IPO<!-- --> will be done on <!-- -->Friday, March 1, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, March 4, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/platinum-industries-ipo/1638/\" title=\"Platinum Industries IPO Allotment Status\">Platinum Industries IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Platinum Industries IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Platinum Industries IPO<!-- --> listing date is on <b>Tuesday, March 5, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Platinum Industries",
+  "issue_price": "₹171.00",
+  "issue_price_numeric": 171,
+  "issue_size": "1,37,61,225 shares (aggregating up to ₹235.32 Cr)",
+  "issue_size_numeric": 1,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Unistone Capital Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/176/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/176/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "171.00",
+        "nse": "171.00"
+      },
+      "open": {
+        "bse": "228.00",
+        "nse": "225.00"
+      },
+      "low": {
+        "bse": "219.00",
+        "nse": "221.00"
+      },
+      "high": {
+        "bse": "237.00",
+        "nse": "236.25"
+      },
+      "last_trade": {
+        "bse": "220.90",
+        "nse": "221.20"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "March 5 2024",
+    "bse_script_code": "544134",
+    "nse_symbol": "PLATIND",
+    "isin": "INE0PT501018",
+    "final_issue_price": "171 per share"
+  },
+  "listing_date": "2024-03-04T18:30:00.000Z",
+  "listing_gains": "29.18%",
+  "listing_gains_numeric": 29.18,
+  "logo": "https://www.chittorgarh.net/images/ipo/platinum-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/platinum-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 87 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "87",
+        "amount": "14877"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1131",
+        "amount": "193401"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1218",
+        "amount": "208278"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "5829",
+        "amount": "996759"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "5916",
+        "amount": "1011636"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/platinum-industries-ipo/1638/"
+    }
+  },
+  "lot_size": 87,
+  "opening_date": "2024-02-26T18:30:00.000Z",
+  "pageHeading": "Platinum Industries Limited IPO (Platinum Industries IPO) Detail",
+  "pageTitle": "Platinum Industries IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The promoters of the Company are Krishna Dushyant Rana and Parul Krishna Rana.",
+    "holdings": {
+      "share_holding_pre_issue": "94.74%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Platinum Industries IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jul-2023/platinum-industries-limited-drhp_73942.html"
+    },
+    {
+      "text": "Platinum Industries IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/platinum-industries-limited-rhp_81623.html"
+    },
+    {
+      "text": "Anchor Investors in Platinum Industries IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/platinum_anchor-allocation-report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "12",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/platinum-industries-ipo/1638/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Platinum Industries IPO offers 13761225 shares. 2752375 (20.00%) to QIB 2064184 (15.00%) to NII 4816429 (35.00%) to RII and 4128237 (30.00%) to Anchor investors. 55361 RIIs will receive minimum 87 shares and 564 (sNII) and 1129 (bNII) will receive minimum 1218 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "4128237 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "2752375 (20.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "2064184 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "1376123 (10.00%)",
+        "maximum_allottees": "1129"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "688061 (5.00%)",
+        "maximum_allottees": "564"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "4816429 (35.00%)",
+        "maximum_allottees": "55361"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "13761225 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:00.652Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Platinum Industries IPO is subscribed 98.99 times on February 29 2024 6:20:00 PM (Day 3). The public issue subscribed 50.92 times in the retail category 151 times in the QIB category and 141.79 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "151",
+        "shares_offered": "2752375",
+        "shares_bid_for": "415616400"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "141.79",
+        "shares_offered": "2064184",
+        "shares_bid_for": "292688184"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "138.46",
+        "shares_offered": "1376123",
+        "shares_bid_for": "190540788"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "148.46",
+        "shares_offered": "688061",
+        "shares_bid_for": "102147396"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "50.92",
+        "shares_offered": "4816429",
+        "shares_bid_for": "245242038"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "98.99",
+        "shares_offered": "9632988",
+        "shares_bid_for": "953546622"
+      }
+    },
+    "total_applications": "3305533"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on February 29 2024",
+    "tentative_allotment": "Fri Mar 1 2024",
+    "initiation_of_refunds": "Mon Mar 4 2024",
+    "credit_of_shares_to_demat": "Mon Mar 4 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:09.147Z",
+  "updated_at": "2025-04-18T12:48:00.652Z",
+  "year": 2024,
+  "worst_listing_gains": "29.18%",
+  "worst_listing_gains_numeric": 29.18
+}

@@ -1,0 +1,520 @@
+{
+  "_id": "68028e9c3ccffd1c7912c8ff",
+  "ipo_id": "2023_jsw_infrastructure_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:29:38.813Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/jsw-infrastructure-ipo/1512/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2006, JSW Infrastructure Limited provides maritime-related services including, cargo handling, storage solutions and logistics services. The company develop and operates ports and port terminals under Port Concessions. \n</p><p>JSW Infrastructure Limited is a part of the JSW Group. The company partners with JSW Group Customers (Related Parties) to pursue growth initiatives. JSW Infrastructure is the 2<sup>nd</sup> largest commercial port operator in the country in terms of cargo handling capacity in Fiscal 2022.</p>\n<p>The company currently handle various types of cargo, including dry bulk, break bulk, liquid bulk, gases and containers. The company currently handling cargo also include thermal coal, coal (other than thermal coal), iron ore, sugar, urea, steel products, rock phosphate, molasses, gypsum, barites, laterites, edible oil, LNG, LPG, and containers.</p>\n<p>JSW Infrastructure ports and port terminals typically have long concession periods ranging between 30 to 50 years, providing the company with long-term visibility of revenue streams.</p>\n<p>The company has a presence across India with Non-Major Ports located in Maharashtra and port terminals located at Major Ports across the industrial regions of Goa and Karnataka on the west coast, and Odisha and Tamil Nadu on the east coast. JSW Infrastructure's international presence includes 2 terminals at Fujairah and Dibba in the UAE.</p>\n<p>JSW Infrastructure Limited operates nine Port Concessions in India with an installed cargo handling capacity of 158.43 MTPA as of June 30, 2023. The company's installed cargo handling capacity in India has grown at a CAGR of 15.27% from March 31, 2021 to March 31, 2023.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2020",
+        "31 Mar 2021",
+        "31 Mar 2022",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "7191.85",
+          "8254.55",
+          "9429.46",
+          "9450.66"
+        ],
+        [
+          "Revenue",
+          "1237.37",
+          "1678.26",
+          "2378.74",
+          "3372.85"
+        ],
+        [
+          "Profit After Tax",
+          "196.53",
+          "284.62",
+          "330.44",
+          "749.51"
+        ],
+        [
+          "Net Worth",
+          "2488.23",
+          "2831.18",
+          "3212.13",
+          "3934.64"
+        ],
+        [
+          "Reserves and Surplus",
+          "2486.53",
+          "2829.84",
+          "3208.98",
+          "3645.75"
+        ],
+        [
+          "Total Borrowing",
+          "3102.57",
+          "3945.82",
+          "4408.69",
+          "4243.70"
+        ]
+      ]
+    },
+    {
+      "heading": "JSW Infrastructure Limited Stock Quote & Charts",
+      "sanitizedHeading": "jsw_infrastructure_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "18.33%"
+        ],
+        [
+          "ROCE",
+          "19.49%"
+        ],
+        [
+          "RoNW",
+          "18.80%"
+        ]
+      ]
+    },
+    {
+      "heading": "JSW Infrastructure Limited Stock Quote & Charts",
+      "sanitizedHeading": "jsw_infrastructure_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "4.12",
+          null
+        ],
+        [
+          "P/E (x)",
+          "29.67",
+          "19.38"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "JSW Infrastructure IPO raises Rs 1260.00 crore from anchor investors. JSW Infrastructure IPO Anchor bid date is September 22 2023. JSW Infrastructure IPO Anchor Investors list",
+    "list_link": {
+      "text": "JSW Infrastructure IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/jsw-infrastructure-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "December 27 2023",
+      "shares_offered": "105882352",
+      "anchor_portion_size": "1260.00"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 25, 2023 to September 27, 2023",
+    "ipoListingDate": "Tue, Oct 3, 2023",
+    "faceValue": "₹2 per share",
+    "issuePrice": "₹119.00",
+    "lotSize": "126 Shares",
+    "issueSize": "23,52,94,118 shares (aggregating up to ₹2,800.00 Cr)",
+    "freshIssue": "23,52,94,118 shares (aggregating up to ₹2,800.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Mon, Sep 25, 2023",
+    "ipoCloseDate": "Wed, Sep 27, 2023",
+    "initiationOfRefunds": "Thu, Sep 28, 2023",
+    "creditOfSharesToDemat": "Fri, Sep 29, 2023",
+    "shareHoldingPreIssue": "96.42%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "96.42%"
+      }
+    ],
+    "shareHoldingPostIssue": "2,10,00,01,568 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "2,10,00,01,568 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "85.61%"
+      }
+    ]
+  },
+  "closing_date": "2023-09-26T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 22 4286 1000",
+    "email": "infra.secretarial@ jsw.in",
+    "full_address": "JSW Infrastructure Limited, JSW Centre, Bandra Kurla Complex Bandra (East), Mumbai - 400 051",
+    "website": "https://www.jsw.in/infrastructure"
+  },
+  "createdAt": "2025-04-18T17:40:44.639Z",
+  "faqs": [
+    {
+      "question": "What is the JSW Infrastructure IPO?",
+      "answer": "<div itemprop=\"text\"><p>JSW Infrastructure IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->235294118<!-- --> equity shares</b> of the face value of ₹<!-- -->2<!-- --> aggregating up to ₹<!-- -->2,800.00<!-- --> Crores. The issue is priced at <span>₹119 per share</span>. The minimum order quantity is <!-- -->126<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 25, 2023</b>, and <b>closes on <!-- -->September 27, 2023</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in JSW Infrastructure IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->JSW Infrastructure IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->JSW Infrastructure IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->JSW Infrastructure IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->JSW Infrastructure IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When JSW Infrastructure IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The JSW Infrastructure IPO opens on September 25, 2023 and closes on September 27, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of JSW Infrastructure IPO?",
+      "answer": "<div itemprop=\"text\"><p>JSW Infrastructure IPO<!-- --> <b>lot size is <!-- -->126</b>, and the <b>minimum amount required is <span>₹14,994</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for JSW Infrastructure IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->JSW Infrastructure IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is JSW Infrastructure IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->JSW Infrastructure IPO<!-- --> will be done on <!-- -->Thursday, September 28, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, September 29, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/jsw-infrastructure-ipo/1512/\" title=\"JSW Infrastructure IPO Allotment Status\">JSW Infrastructure IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is JSW Infrastructure IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->JSW Infrastructure IPO<!-- --> listing date is on <b>Tuesday, October 3, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "JSW Infrastructure",
+  "issue_price": "₹119.00",
+  "issue_price_numeric": 119,
+  "issue_size": "23,52,94,118 shares (aggregating up to ₹2,800.00 Cr)",
+  "issue_size_numeric": 23,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Credit Suisse Securities",
+      "url": "/report/ipo-lead-manager-review/112/111/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/111/"
+    },
+    {
+      "name": "Dam Capital Advisors Ltd",
+      "url": "/report/ipo-lead-manager-review/112/30/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/30/"
+    },
+    {
+      "name": "Hsbc Securities & Capital Markets Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/69/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/69/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Kotak Mahindra Capital Company Limited",
+      "url": "/report/ipo-lead-manager-review/112/12/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/12/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "119.00",
+        "nse": "119.00"
+      },
+      "open": {
+        "bse": "143.00",
+        "nse": "143.00"
+      },
+      "low": {
+        "bse": "141.75",
+        "nse": "142.20"
+      },
+      "high": {
+        "bse": "157.30",
+        "nse": "157.30"
+      },
+      "last_trade": {
+        "bse": "157.30",
+        "nse": "157.30"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "October 3 2023",
+    "bse_script_code": "543994",
+    "nse_symbol": "JSWINFRA",
+    "isin": "INE880J01026",
+    "final_issue_price": "119 per share"
+  },
+  "listing_date": "2023-10-02T18:30:00.000Z",
+  "listing_gains": "32.18%",
+  "listing_gains_numeric": 32.18,
+  "logo": "https://www.chittorgarh.net/images/ipo/jsw-infrastructure-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/jsw-infrastructure-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 126 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "126",
+        "amount": "14994"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1638",
+        "amount": "194922"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1764",
+        "amount": "209916"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "8316",
+        "amount": "989604"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "8442",
+        "amount": "1004598"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/jsw-infrastructure-ipo/1512/"
+    }
+  },
+  "lot_size": 126,
+  "opening_date": "2023-09-24T18:30:00.000Z",
+  "pageHeading": "JSW Infrastructure Limited IPO (JSW Infrastructure IPO) Detail",
+  "pageTitle": "JSW Infrastructure IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Sajjan Jindal and Sajjan Jindal Family Trust are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "96.42%",
+      "share_holding_post_issue": "85.61%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "JSW Infrastructure IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/may-2023/jsw-infrastructure-limited-drhp_71056.html"
+    },
+    {
+      "text": "JSW Infrastructure IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2023/jsw-infrastructure-limited-rhp_76862.html"
+    },
+    {
+      "text": "Anchor Investors in JSW Infrastructure IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/jsw-infrastructure-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "18",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "11",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/jsw-infrastructure-ipo/1512/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "jswinfrastructure.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "JSW Infrastructure IPO offers 235294117 shares. 70588236 (30.00%) to QIB 35294118 (15.00%) to NII 23529411 (10.00%) to RII 105882352 (45.00%) to Anchor investors. 186741 RIIs will receive minimum 126 shares and 6669 (sNII) and 13338 (bNII) will receive minimum 1764 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "105882352 (45.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "70588236 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "35294118 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "23529412 (10.00%)",
+        "maximum_allottees": "13338"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "11764705 (5.00%)",
+        "maximum_allottees": "6669"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "23529411 (10.00%)",
+        "maximum_allottees": "186741"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "235294117 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:44.639Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The JSW Infrastructure IPO is subscribed 39.36 times on September 27 2023 7:02:00 PM (Day 3). The public issue subscribed 10.87 times in the retail category 60.12 times in the QIB category and 16.83 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "60.12",
+        "shares_offered": "70588236",
+        "shares_bid_for": "4243696632"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "16.83",
+        "shares_offered": "35294118",
+        "shares_bid_for": "594172278"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "17.94",
+        "shares_offered": "23529412",
+        "shares_bid_for": "422176230"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "14.62",
+        "shares_offered": "11764705",
+        "shares_bid_for": "171996048"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "10.87",
+        "shares_offered": "23529411",
+        "shares_bid_for": "255658662"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "39.36",
+        "shares_offered": "129411765",
+        "shares_bid_for": "5093527572"
+      }
+    },
+    "total_applications": "1690299"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 27 2023",
+    "tentative_allotment": "Thu Sep 28 2023",
+    "initiation_of_refunds": "Thu Sep 28 2023",
+    "credit_of_shares_to_demat": "Fri Sep 29 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:34.923Z",
+  "updated_at": "2025-04-18T17:40:44.639Z",
+  "year": 2023,
+  "worst_listing_gains": "32.18%",
+  "worst_listing_gains_numeric": 32.18
+}

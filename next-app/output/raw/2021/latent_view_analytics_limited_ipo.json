@@ -1,0 +1,411 @@
+{
+  "_id": "6802918b3ccffd1c7912c9ff",
+  "ipo_id": "2021_latent_view_analytics_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:45:32.383Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/latent-view-analytics-ipo/1178/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2006, Latent View provides analytics services such as data and analytics consulting, business analytics &amp; insights, advanced predictive analytics, data engineering, and digital solutions. The company provides services to blue-chip companies in Technology, BFSI, CPG &amp; Retail, Industrials, and other industry domains. The company classifies its business into - (i) <strong>Consulting services</strong>, which involves understanding relevant business trends, challenges, and opportunities and preparing a roadmap of data and analytics initiatives that addresses them; (ii) <strong>Data engineering</strong>, to design, architect, and implement the data foundation required to undertake analytics; (iii) <strong>Business analytics</strong>, which delivers analysis and insights for clients to make more accurate, timely and impactful decisions; and (iv) <strong>Digital solutions</strong> which the company develops to automate business processes, predict trends and generate actionable insights.</p>\n<p>The company has a presence across countries in the United States, Europe, and Asia through their subsidiaries in the United States, Netherlands, Germany, United Kingdom, and Singapore, and their sales offices in San Jose, London, and Singapore. Latent View has worked with over 30 Fortune 500 companies in the last three fiscals and some of the key clients include Adobe, Uber Technology, and 7-Eleven.</p>\n<p><strong>Competitive Strengths:</strong></p>\n<ul>\n<li>One of the leading pure-play data analytics companies in India</li>\n<li>Extensive experience across a range of data and analytics capabilities</li>\n<li>Blue-chip clients across industries and geographies</li>\n<li>Focus on innovation and R&amp;D</li>\n<li>Scalable and attractive financial profile</li>\n<li>Strong, experienced leadership team</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Particulars",
+        "For the year/period ended ( in Millions)"
+      ],
+      "rows": [
+        [
+          null,
+          "30-Jun-21",
+          "30-Jun-20",
+          "31-Mar-21",
+          "31-Mar-20",
+          "31-Mar-19"
+        ],
+        [
+          "Total Assets",
+          "5880.08",
+          "4488.80",
+          "5191.99",
+          "3978.54",
+          "3236.83"
+        ],
+        [
+          "Total Revenue",
+          "917.43",
+          "823.81",
+          "3267.08",
+          "3296.72",
+          "2959.03"
+        ],
+        [
+          "Profit After Tax",
+          "223.14",
+          "228.04",
+          "914.63",
+          "728.45",
+          "596.65"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "November 10, 2021 to November 12, 2021",
+    "ipoListingDate": "Tue, Nov 23, 2021",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹197.00",
+    "lotSize": "76 Shares",
+    "issueSize": "[.] shares (aggregating up to ₹600.00 Cr)",
+    "freshIssue": "[.] shares (aggregating up to ₹474.00 Cr)",
+    "offerForSale": "[.] shares of ₹1 (aggregating up to ₹126.00 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Wed, Nov 10, 2021",
+    "ipoCloseDate": "Fri, Nov 12, 2021",
+    "initiationOfRefunds": "Thu, Nov 18, 2021",
+    "creditOfSharesToDemat": "Mon, Nov 22, 2021",
+    "shareHoldingPreIssue": "17,37,20,925 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "17,37,20,925 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "79.30%"
+      }
+    ],
+    "shareHoldingPostIssue": "19,78,14,348 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "19,78,14,348 shares"
+      }
+    ]
+  },
+  "closing_date": "2021-11-11T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 044 4344 1700",
+    "email": "investorcare@latentview.com",
+    "full_address": "Latent View Analytics Limited, 5th Floor Neville Tower Unit 67 and 8, Ramanujan IT City Rajiv Gandhi Salai Taramani, Chennai- 600113 Tamil Nadu India",
+    "website": "https://www.latentview.com/"
+  },
+  "createdAt": "2025-04-18T17:53:15.049Z",
+  "faqs": [
+    {
+      "question": "What is the Latent View Analytics IPO?",
+      "answer": "<div itemprop=\"text\"><p>Latent View Analytics IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->600.00<!-- --> Crores. The issue is priced at <span>₹197 per share</span>. The minimum order quantity is <!-- -->76<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->November 10, 2021</b>, and <b>closes on <!-- -->November 12, 2021</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Latent View Analytics IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Latent View Analytics IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Latent View Analytics IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Latent View Analytics IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Latent View Analytics IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Latent View Analytics IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Latent View Analytics IPO opens on November 10, 2021 and closes on November 12, 2021.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Latent View Analytics IPO?",
+      "answer": "<div itemprop=\"text\"><p>Latent View Analytics IPO<!-- --> <b>lot size is <!-- -->76</b>, and the <b>minimum amount required is <span>₹14,972</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Latent View Analytics IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Latent View Analytics IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Latent View Analytics IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Latent View Analytics IPO<!-- --> will be done on <!-- -->Wednesday, November 17, 2021<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, November 22, 2021<!-- -->. Check the <a href=\"/ipo_allotment_status/latent-view-analytics-ipo/1178/\" title=\"Latent View Analytics IPO Allotment Status\">Latent View Analytics IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Latent View Analytics IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Latent View Analytics IPO<!-- --> listing date is on <b>Tuesday, November 23, 2021</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Latent View Analytics",
+  "issue_price": "₹197.00",
+  "issue_price_numeric": 197,
+  "issue_size": "[.] shares (aggregating up to ₹600.00 Cr)",
+  "issue_size_numeric": 600,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Haitong Securities India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/135/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/135/"
+    },
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "197.00",
+        "nse": "197.00"
+      },
+      "open": {
+        "bse": "530.00",
+        "nse": "512.20"
+      },
+      "low": {
+        "bse": "462.00",
+        "nse": "461.10"
+      },
+      "high": {
+        "bse": "548.75",
+        "nse": "548.00"
+      },
+      "last_trade": {
+        "bse": "488.60",
+        "nse": "488.75"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "November 23 2021",
+    "bse_script_code": "543398",
+    "nse_symbol": "LATENTVIEW",
+    "isin": "INE0I7C01011",
+    "final_issue_price": "197 per share"
+  },
+  "listing_date": "2021-11-22T18:30:00.000Z",
+  "listing_gains": "148.02%",
+  "listing_gains_numeric": 148.02,
+  "logo": "https://www.chittorgarh.net/images/ipo/latent-view-analytics-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/latent-view-analytics-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 76 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "76",
+        "amount": "14972"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "988",
+        "amount": "194636"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1064",
+        "amount": "209608"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "66",
+        "shares": "5016",
+        "amount": "988152"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "67",
+        "shares": "5092",
+        "amount": "1003124"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/latent-view-analytics-ipo/1178/"
+    }
+  },
+  "lot_size": 76,
+  "opening_date": "2021-11-09T18:30:00.000Z",
+  "pageHeading": "Latent View Analytics Limited IPO (Latent View Analytics IPO) Detail",
+  "pageTitle": "Latent View Analytics IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Adugudi Viswanathan Venkatraman and Pramadwathi Jandhyala are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "79.30%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Latent View Analytics IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/latent-view-analytics-limited_51900.html"
+    },
+    {
+      "text": "Latent View Analytics IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/nov-2021/latent-view-analytics-limited_54086.html"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "2",
+        "neutral": "2",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/latent-view-analytics-ipo/1178/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "latentview.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Latent View Analytics IPO offers 17525693 shares. 9367800 (53.45%) to QIB 4684210 (26.73%) to NII 3122806 (17.82%) to RII 350877 (2.00%) to employees. 41089 RIIs will receive minimum 76 shares and (sNII) and (bNII) will receive minimum 1064 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "9367800 (53.45%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "4684210 (26.73%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3122806 (17.82%)",
+        "maximum_allottees": "41089"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "350877 (2.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "17525693 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:53:15.049Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Latent View Analytics IPO is subscribed 326.49 times on November 12 2021 5:00:00 PM (Day 3). The public issue subscribed 119.44 times in the retail category 145.48 times in the QIB category and 850.66 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "145.48",
+        "shares_offered": "9367800",
+        "shares_bid_for": "1362842792"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "850.66",
+        "shares_offered": "4684210",
+        "shares_bid_for": "3984685168"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "119.44",
+        "shares_offered": "3122806",
+        "shares_bid_for": "372996524"
+      },
+      "employee": {
+        "category": "Employee",
+        "subscription_times": "3.87",
+        "shares_offered": "350877",
+        "shares_bid_for": "1358044"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "326.49",
+        "shares_offered": "17525693",
+        "shares_bid_for": "5721882528"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on November 12 2021",
+    "tentative_allotment": "Wed Nov 17 2021",
+    "initiation_of_refunds": "Thu Nov 18 2021",
+    "credit_of_shares_to_demat": "Mon Nov 22 2021"
+  },
+  "updatedAt": "2025-04-19T04:38:11.847Z",
+  "updated_at": "2025-04-18T17:53:15.049Z",
+  "year": 2021,
+  "worst_listing_gains": "148.02%",
+  "worst_listing_gains_numeric": 148.02
+}

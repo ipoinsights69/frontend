@@ -1,0 +1,464 @@
+{
+  "_id": "68024a033ccffd1c7912c836",
+  "ipo_id": "2024_winsol_engineers_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:31:41.967Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/winsol-engineers-ipo/1714/"
+  },
+  "about": {
+    "details": "<p>Incorporated in December 2015,Winsol Engineers Limited is a company that provides integrated engineering, procurement, construction, and commissioning services for Balance of Plant (BoP) Solutions for both solar and wind power generation firms.</p>\n<p>The company's core services for BoP Solutions include foundation work, substation civil and electrical work, and right-of-way services.</p>\n<p>The company is ISO-9001-2015, ISO-14001-2015, and ISO-45001-2018 certified, demonstrating its execution capabilities in quality.</p>\n<p>The company has more than 200 engineers and technicians on their team for project execution.</p>\n<p>As of April 2024, they have more than 41 major ongoing projects with a total value of approximately ₹11,953.31 lakhs. As of March 31, 2024, invoices totalling more than ₹2,115.54 lakhs have been booked, leaving an unexecuted or unbilled order book of ₹9,837.75 lakhs.</p>\n<p>As of December 31, 2023, the workforce consists of over 270 employees, including more than 200 engineers and technicians.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Winsol Engineers Limited Financial Information (Restated)",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Dec 2023",
+        "31 Mar 2023",
+        "31 Mar 2022",
+        "31 Mar 2021"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "3565.34",
+          "2856.01",
+          "2764.80",
+          "1816.83"
+        ],
+        [
+          "Revenue",
+          "5202.28",
+          "6544.53",
+          "6080.00",
+          "2224.58"
+        ],
+        [
+          "Profit After Tax",
+          "677.26",
+          "518.07",
+          "108.46",
+          "49.44"
+        ],
+        [
+          "Net Worth",
+          "1527.15",
+          "873.89",
+          "343.93",
+          "238.55"
+        ],
+        [
+          "Reserves and Surplus",
+          "685.15",
+          "871.89",
+          "341.93",
+          "236.55"
+        ],
+        [
+          "Total Borrowing",
+          "846.76",
+          "1058.84",
+          "928.90",
+          "814.49"
+        ]
+      ]
+    },
+    {
+      "heading": "Winsol Engineers Limited Stock Quote & Charts",
+      "sanitizedHeading": "winsol_engineers_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "22.33%"
+        ],
+        [
+          "ROCE",
+          "11.71%"
+        ],
+        [
+          "Debt/Equity",
+          "0.55"
+        ],
+        [
+          "RoNW",
+          "44.35%"
+        ],
+        [
+          "PAT Margin",
+          "13.04"
+        ],
+        [
+          "Price to Book Value",
+          "4.13"
+        ]
+      ]
+    },
+    {
+      "heading": "Winsol Engineers Limited Stock Quote & Charts",
+      "sanitizedHeading": "winsol_engineers_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "6.15",
+          "7.83"
+        ],
+        [
+          "P/E (x)",
+          "12.19",
+          "9.58"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Winsol Engineers IPO raises Rs 6.62 crore from anchor investors. Winsol Engineers IPO Anchor bid date is May 3 2024. Winsol Engineers IPO Anchor Investors list",
+    "list_link": {
+      "text": "Winsol Engineers IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/winsol_anchor_allocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "August 8 2024",
+      "shares_offered": "883200",
+      "anchor_portion_size": "6.62"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "May 6, 2024 to May 9, 2024",
+    "ipoListingDate": "Tue, May 14, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹75.00",
+    "lotSize": "1,600 Shares",
+    "issueSize": "31,15,200 shares (aggregating up to ₹23.36 Cr)",
+    "freshIssue": "31,15,200 shares (aggregating up to ₹23.36 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "1,58,400 shares",
+      "maker_name": "Spread X Securities Private Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/411/"
+    },
+    "ipoOpenDate": "Mon, May 6, 2024",
+    "ipoCloseDate": "Thu, May 9, 2024",
+    "initiationOfRefunds": "Mon, May 13, 2024",
+    "creditOfSharesToDemat": "Mon, May 13, 2024",
+    "shareHoldingPreIssue": "84,20,000 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "84,20,000 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "100.00%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,15,35,200 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,15,35,200 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.99%"
+      }
+    ]
+  },
+  "closing_date": "2024-05-08T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "0288-271070",
+    "email": "info@winsol.info",
+    "full_address": "Winsol Engineers Limited, Shop No. 301 Madhav Commercial Complex, Near Crystal Mall, Khodiyar Colony Jamnagar- 361006",
+    "website": "https://winsol.info/"
+  },
+  "createdAt": "2025-04-18T12:48:03.792Z",
+  "faqs": [
+    {
+      "question": "What is the Winsol Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Winsol Engineers IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3115200<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->23.36<!-- --> Crores. The issue is priced at <span>₹75 per share</span>. The minimum order quantity is <!-- -->1600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 6, 2024</b>, and <b>closes on <!-- -->May 9, 2024</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Winsol Engineers IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Winsol Engineers IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Winsol Engineers IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Winsol Engineers IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Winsol Engineers IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Winsol Engineers IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Winsol Engineers IPO opens on May 6, 2024 and closes on May 9, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Winsol Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>Winsol Engineers IPO<!-- --> <b>lot size is <!-- -->1600</b>, and the <b>minimum amount required is <span>₹1,20,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Winsol Engineers IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Winsol Engineers IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Winsol Engineers IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Winsol Engineers IPO<!-- --> will be done on <!-- -->Friday, May 10, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Monday, May 13, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/winsol-engineers-ipo/1714/\" title=\"Winsol Engineers IPO Allotment Status\">Winsol Engineers IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Winsol Engineers IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Winsol Engineers IPO<!-- --> listing date is on <b>Tuesday, May 14, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Winsol Engineers",
+  "issue_price": "₹75.00",
+  "issue_price_numeric": 75,
+  "issue_size": "31,15,200 shares (aggregating up to ₹23.36 Cr)",
+  "issue_size_numeric": 31,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "url": "/report/ipo-lead-manager-review/112/192/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/192/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "75.00"
+      },
+      "open": {
+        "nse_sme": "365.00"
+      },
+      "low": {
+        "nse_sme": "362.00"
+      },
+      "high": {
+        "nse_sme": "383.25"
+      },
+      "last_trade": {
+        "nse_sme": "383.25"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "May 14 2024",
+    "nse_symbol": "WINSOL",
+    "isin": "INE0S3D01016",
+    "final_issue_price": "75 per share"
+  },
+  "listing_date": "2024-05-13T18:30:00.000Z",
+  "listing_gains": "411.00%",
+  "listing_gains_numeric": 411,
+  "logo": "https://www.chittorgarh.net/images/ipo/winsol-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/winsol-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 1600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "120000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "1600",
+        "amount": "120000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "3200",
+        "amount": "240000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/winsol-engineers-ipo/1714/"
+    }
+  },
+  "lot_size": 1,
+  "opening_date": "2024-05-05T18:30:00.000Z",
+  "pageHeading": "Winsol Engineers Limited IPO (Winsol Engineers IPO) Detail",
+  "pageTitle": "Winsol Engineers IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "The Promoters of the company namely Mr. Ramesh Jivabhai Pindariya Mrs. Amri Ramesh Pindariya Ms. Pindariya Kashmira Ms. Kashish Ramesh Pindariya And Mr. Kishor Jivabhai Pindariya.",
+    "holdings": {
+      "share_holding_pre_issue": "100.00%",
+      "share_holding_post_issue": "72.99%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Winsol Engineers IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/WinsolEngineersLimited_DRHP.pdf"
+    },
+    {
+      "text": "Winsol Engineers IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/WinsolEngineers_RHP.pdf"
+    },
+    {
+      "text": "Anchor Investors in Winsol Engineers IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/winsol_anchor_allocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "1",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/winsol-engineers-ipo/1714/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "npil.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Winsol Engineers IPO offers 3115200 shares. 593600 (19.05%) to QIB 444800 (14.28%) to NII 1035200 (33.23%) to RII and 883200 (28.35%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "883200 (28.35%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "158400 (5.08%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "593600 (19.05%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "444800 (14.28%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1035200 (33.23%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3115200 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:03.792Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Winsol Engineers IPO is subscribed 682.14 times on May 9 2024 6:19:56 PM (Day 4). The public issue subscribed 780.15 times in the retail category 207.23 times in the QIB category and 1087.81 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "207.23",
+        "shares_offered": "593600",
+        "shares_bid_for": "123012800"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "1087.81",
+        "shares_offered": "444800",
+        "shares_bid_for": "483857600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "780.15",
+        "shares_offered": "1035200",
+        "shares_bid_for": "807612800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "682.14",
+        "shares_offered": "2073600",
+        "shares_bid_for": "1414483200"
+      }
+    },
+    "total_applications": "504758",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on May 9 2024",
+    "tentative_allotment": "Fri May 10 2024",
+    "initiation_of_refunds": "Mon May 13 2024",
+    "credit_of_shares_to_demat": "Mon May 13 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:21.684Z",
+  "updated_at": "2025-04-18T12:48:03.792Z",
+  "year": 2024,
+  "worst_listing_gains": "411.00%",
+  "worst_listing_gains_numeric": 411
+}

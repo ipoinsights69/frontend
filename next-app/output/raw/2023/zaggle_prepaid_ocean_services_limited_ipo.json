@@ -1,0 +1,475 @@
+{
+  "_id": "68028ea03ccffd1c7912c98a",
+  "ipo_id": "2023_zaggle_prepaid_ocean_services_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T17:30:26.890Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/zaggle-prepaid-ocean-services-ipo/1505/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2011, Zaggle Prepaid Ocean Services Limited provides financial technology (fintech) products and services to manage corporate business expenses through automated and innovative workflows.</p>\n<p>The company offers fintech and SaaS products and services to corporates working in the fields of banking and finance, technology, healthcare, manufacturing, FMCG, infrastructure, and automobile industries. The SaaS platform is designed for: (i) business spend management (including expense management and vendor management); (ii) rewards and incentives management for employees and channel partners; and (iii) gift card management for merchants, which we refer to as customer engagement management system (CEMS).</p>\n<p>Zaggle's product portfolio includes:</p>\n<ol>\n<li>Propel: a corporate SaaS platform for channel rewards and incentives, employee rewards and recognition</li>\n<li>Save: a SaaS-based platform and a mobile application that offers expense management solutions for business spend management facilitating digitized employee reimbursements and tax benefits.</li>\n<li>CEMS: a customer engagement management system that enables merchants to comprehensively manage their customer experiences including rewarding merchants through gift card and loyalty benefits.</li>\n<li>Zaggle Payroll Card: a prepaid payroll card that allows customers to pay contractors, consultants, seasonal and temporary employees, and unbanked wage workers as an alternative to direct deposits to bank accounts or cash payments.</li>\n<li>Zoyer: an integrated data-driven, SaaS-based business spend management platform with embedded automated finance capabilities in core invoice-to-pay workflows.</li>\n</ol>\n<p>Zaggle Prepaid Ocean Services' clientele includes companies like TATA Steel, Persistent Systems, Vitech, Inox, Pitney Bowes, Wockhardt, MAZDA, PCBL (RP Sanjiv Goenka Group), Hiranandani Group, Cotiviti, Greenply Industries, and so on.</p>\n<p>As of fiscal 2023, the company has over 250 employees, 7 offices across India, more than 1750 customers, and over 1.7 million end users.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2023"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "234.76"
+        ],
+        [
+          "Revenue",
+          "554.58"
+        ],
+        [
+          "Profit After Tax",
+          "22.90"
+        ],
+        [
+          "Net Worth",
+          "48.75"
+        ],
+        [
+          "Reserves and Surplus",
+          "39.36"
+        ],
+        [
+          "Total Borrowing",
+          "121.07"
+        ]
+      ]
+    },
+    {
+      "heading": "Zaggle Prepaid Ocean Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "zaggle_prepaid_ocean_services_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "46.98%"
+        ],
+        [
+          "Debt/Equity",
+          "2.48"
+        ],
+        [
+          "RoNW",
+          "46.98%"
+        ]
+      ]
+    },
+    {
+      "heading": "Zaggle Prepaid Ocean Services Limited Stock Quote & Charts",
+      "sanitizedHeading": "zaggle_prepaid_ocean_services_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "2.46",
+          null
+        ],
+        [
+          "P/E (x)",
+          "66.67",
+          "87.23"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Zaggle Prepaid Ocean Services IPO raises Rs 253.52 crore from anchor investors. Zaggle Prepaid Ocean Services IPO Anchor bid date is September 13 2023. Zaggle Prepaid Ocean Services IPO Anchor Investors list",
+    "list_link": {
+      "text": "Zaggle Prepaid Ocean Services IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/zaggle-anchor-allocation.pdf"
+    },
+    "details": {
+      "ipo_date": "December 21 2023",
+      "shares_offered": "15458515",
+      "anchor_portion_size": "253.52"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 14, 2023 to September 18, 2023",
+    "ipoListingDate": "Fri, Sep 22, 2023",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹164.00",
+    "lotSize": "90 Shares",
+    "issueSize": "3,43,52,255 shares (aggregating up to ₹563.38 Cr)",
+    "freshIssue": "2,39,02,439 shares (aggregating up to ₹392.00 Cr)",
+    "offerForSale": "1,04,49,816 shares of ₹1 (aggregating up to ₹171.38 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Thu, Sep 14, 2023",
+    "ipoCloseDate": "Mon, Sep 18, 2023",
+    "initiationOfRefunds": "Mon, Sep 25, 2023",
+    "creditOfSharesToDemat": "Tue, Sep 26, 2023",
+    "shareHoldingPreIssue": "57.91%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "57.91%"
+      }
+    ],
+    "shareHoldingPostIssue": "12,20,96,758 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "12,20,96,758 shares"
+      }
+    ]
+  },
+  "closing_date": "2023-09-17T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 40 2311 9049",
+    "email": "haripriya.singh@zaggle.in",
+    "full_address": "Zaggle Prepaid Ocean Services Limited, 301 III Floor CSR Estate Plot No.8, Sector 1 HUDA Techno Enclave Madhapur Main Road, Hyderabad Rangareddi - 500 081",
+    "website": "https://www.zaggle.in/"
+  },
+  "createdAt": "2025-04-18T17:40:47.961Z",
+  "faqs": [
+    {
+      "question": "What is the Zaggle Prepaid Ocean Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Zaggle Prepaid Ocean Services IPO<!-- --> is a <b>main-board<!-- --> <!-- -->IPO<!-- --> of <!-- -->34352255<!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->563.38<!-- --> Crores. The issue is priced at <span>₹164 per share</span>. The minimum order quantity is <!-- -->90<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 14, 2023</b>, and <b>closes on <!-- -->September 18, 2023</b>.</p><p>Kfin Technologies Limited<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Zaggle Prepaid Ocean Services IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Zaggle Prepaid Ocean Services IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Zaggle Prepaid Ocean Services IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Zaggle Prepaid Ocean Services IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Zaggle Prepaid Ocean Services IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Zaggle Prepaid Ocean Services IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Zaggle Prepaid Ocean Services IPO opens on September 14, 2023 and closes on September 18, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Zaggle Prepaid Ocean Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>Zaggle Prepaid Ocean Services IPO<!-- --> <b>lot size is <!-- -->90</b>, and the <b>minimum amount required is <span>₹14,760</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Zaggle Prepaid Ocean Services IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Zaggle Prepaid Ocean Services IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Zaggle Prepaid Ocean Services IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Zaggle Prepaid Ocean Services IPO<!-- --> will be done on <!-- -->Friday, September 22, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, September 26, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/zaggle-prepaid-ocean-services-ipo/1505/\" title=\"Zaggle Prepaid Ocean Services IPO Allotment Status\">Zaggle Prepaid Ocean Services IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Zaggle Prepaid Ocean Services IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Zaggle Prepaid Ocean Services IPO<!-- --> listing date is on <b>Friday, September 22, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Zaggle Prepaid Ocean Services",
+  "issue_price": "₹164.00",
+  "issue_price_numeric": 164,
+  "issue_size": "3,43,52,255 shares (aggregating up to ₹563.38 Cr)",
+  "issue_size_numeric": 3,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Equirus Capital Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/133/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/133/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "bse": "164.00",
+        "nse": "164.00"
+      },
+      "open": {
+        "bse": "162.00",
+        "nse": "164.00"
+      },
+      "low": {
+        "bse": "155.60",
+        "nse": "155.30"
+      },
+      "high": {
+        "bse": "176.00",
+        "nse": "176.00"
+      },
+      "last_trade": {
+        "bse": "158.30",
+        "nse": "158.35"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      },
+      {
+        "text": "Pre-Open Session - BSE",
+        "url": "https://www.bseindia.com/eqstreamer/StockTickerSplPreOpen.html"
+      }
+    ],
+    "ipo_date": "September 22 2023",
+    "bse_script_code": "543985",
+    "nse_symbol": "ZAGGLE",
+    "isin": "INE07K301024",
+    "final_issue_price": "164 per share"
+  },
+  "listing_date": "2023-09-21T18:30:00.000Z",
+  "listing_gains": "-3.48%",
+  "listing_gains_numeric": -3.48,
+  "logo": "https://www.chittorgarh.net/images/ipo/zaggle-prepaid-ocean-services-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/zaggle-prepaid-ocean-services-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 90 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "90",
+        "amount": "14760"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "13",
+        "shares": "1170",
+        "amount": "191880"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "14",
+        "shares": "1260",
+        "amount": "206640"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "67",
+        "shares": "6030",
+        "amount": "988920"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "68",
+        "shares": "6120",
+        "amount": "1003680"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/zaggle-prepaid-ocean-services-ipo/1505/"
+    }
+  },
+  "lot_size": 90,
+  "opening_date": "2023-09-13T18:30:00.000Z",
+  "pageHeading": "Zaggle Prepaid Ocean Services Limited IPO (Zaggle Prepaid Ocean Services IPO) Detail",
+  "pageTitle": "Zaggle Prepaid Ocean Services IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "Mr. Raj P Narayanam and Mr. Avinash Ramesh Godkhindi are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "57.91%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Zaggle Prepaid Ocean Services IPO DRHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/zaggle-prepaid-ocean-services-limited-drhp_66440.html"
+    },
+    {
+      "text": "Zaggle Prepaid Ocean Services IPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/sep-2023/zaggle-prepaid-ocean-services-limited-rhp_76732.html"
+    },
+    {
+      "text": "Anchor Investors in Zaggle Prepaid Ocean Services IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/zaggle-anchor-allocation.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "3",
+        "neutral": "1",
+        "avoid": "1"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "2",
+        "avoid": "4"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/zaggle-prepaid-ocean-services-ipo/1505/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222 04079611000",
+    "email": "zaggle.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "reservation": {
+    "summary": "Zaggle Prepaid Ocean Services IPO offers 34352255 shares. 10305677 (30.00%) to QIB 5152838 (15.00%) to NII 3435225 (10.00%) to RII 15458515 (45.00%) to Anchor investors. 38169 RIIs will receive minimum 90 shares and 1363 (sNII) and 2726 (bNII) will receive minimum 1260 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "15458515 (45.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "10305677 (30.00%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "5152838 (15.00%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "3435225 (10.00%)",
+        "maximum_allottees": "2726"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "1717613 (5.00%)",
+        "maximum_allottees": "1363"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "3435225 (10.00%)",
+        "maximum_allottees": "38169"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "34352255 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.960Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Zaggle Prepaid Ocean Services IPO is subscribed 12.86 times on September 18 2023 7:02:00 PM (Day 3). The public issue subscribed 6.15 times in the retail category 16.94 times in the QIB category and 9.16 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "16.94",
+        "shares_offered": "10305677",
+        "shares_bid_for": "174556440"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "9.16",
+        "shares_offered": "5152838",
+        "shares_bid_for": "47210040"
+      },
+      "bnii": {
+        "category": "bNII (bids above 10L)",
+        "subscription_times": "10.36",
+        "shares_offered": "3435225",
+        "shares_bid_for": "35591670"
+      },
+      "snii": {
+        "category": "sNII (bids below 10L)",
+        "subscription_times": "6.76",
+        "shares_offered": "1717613",
+        "shares_bid_for": "11618370"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "6.15",
+        "shares_offered": "3435225",
+        "shares_bid_for": "21116610"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "12.86",
+        "shares_offered": "18893740",
+        "shares_bid_for": "242883090"
+      }
+    },
+    "total_applications": "159915"
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 18 2023",
+    "tentative_allotment": "Fri Sep 22 2023",
+    "initiation_of_refunds": "Mon Sep 25 2023",
+    "credit_of_shares_to_demat": "Tue Sep 26 2023"
+  },
+  "updatedAt": "2025-04-19T04:37:54.657Z",
+  "updated_at": "2025-04-18T17:40:47.960Z",
+  "year": 2023,
+  "worst_listing_gains": "-3.48%",
+  "worst_listing_gains_numeric": -3.48
+}

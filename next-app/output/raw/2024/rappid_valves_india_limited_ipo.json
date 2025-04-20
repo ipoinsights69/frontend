@@ -1,0 +1,440 @@
+{
+  "_id": "68024a013ccffd1c7912c7e6",
+  "ipo_id": "2024_rappid_valves_india_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": false,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": true
+    },
+    "scrapedAt": "2025-04-18T12:21:09.439Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/rappid-valves-india-ipo/1861/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 2002, Rappid Valves (India) Limited primarily engages in the manufacturing of Valve solutions.</p>\n<p>The company offers various valves, including ball, gate, globe, butterfly, check, double block, filter, and marine valves. These valves are made using ferrous and non-ferrous materials and come in sizes ranging from 15mm to 600mm to meet diverse requirements.</p>\n<p>The company's manufacturing unit is equipped with a comprehensive range of standard machinery, including conventional and automated CNC machines, VMCs, test benches, EOT cranes, lathes, milling machines, drilling machines, grinders, saws, testers, lapping machines, welders, compressors, buffing machines, and testing equipment, supporting a seamless manufacturing process.</p>\n<p>The Company has also obtained various quality certifications, such as ISO 9001:2015, 14001:2015, and ISO 45001:2018.</p>\n<p>Competitive Strengths</p>\n<ul>\n<li>Experienced and dedicated key management personnel</li>\n<li>Focus on Innovative and new products</li>\n<li>Solid knowledge base of Marine Industries</li>\n<li>Upgradation and expansion of manufacturing capabilities</li>\n<li>Expanding geographical reach by establishing sales offices in Dahej, Ahmedabad, Pune, and Noida.</li>\n<li>Technologically advanced manufacturing facility needed for valve production.</li>\n<li>Significantly expert personnel with an engineering background.</li>\n</ul>\n<p>As of, June 30, 2024, the company had employed 47 personnel at its Manufacturing Plant and Registered Office.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Rappid Valves (India) Limited Financial Information (Restated)",
+      "sanitizedHeading": "rappid_valves",
+      "headers": [
+        "Period Ended",
+        "31 Mar 2024",
+        "31 Mar 2023",
+        "31 Mar 2022"
+      ],
+      "rows": [
+        [
+          "Assets",
+          "2994.41",
+          "1656.75",
+          "1217.6"
+        ],
+        [
+          "Revenue",
+          "3660.06",
+          "1643.42",
+          "1215.24"
+        ],
+        [
+          "Profit After Tax",
+          "413.27",
+          "45.56",
+          "28.98"
+        ],
+        [
+          "Net Worth",
+          "1221.98",
+          "312.21",
+          "-24.64"
+        ],
+        [
+          "Reserves and Surplus",
+          "371.98",
+          "-37.79",
+          "-79.64"
+        ],
+        [
+          "Total Borrowing",
+          "1098.3",
+          "992.65",
+          "977.57"
+        ]
+      ]
+    },
+    {
+      "heading": "Rappid Valves (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "rappid_valves_stock_quote_charts",
+      "headers": [
+        "KPI",
+        "Values"
+      ],
+      "rows": [
+        [
+          "ROE",
+          "53.88%"
+        ],
+        [
+          "ROCE",
+          "29.88%"
+        ],
+        [
+          "Debt/Equity",
+          "0.90"
+        ],
+        [
+          "RoNW",
+          "33.82%"
+        ],
+        [
+          "PAT Margin",
+          "11.32"
+        ],
+        [
+          "Price to Book Value",
+          "24.89"
+        ]
+      ]
+    },
+    {
+      "heading": "Rappid Valves (india) Limited Stock Quote & Charts",
+      "sanitizedHeading": "rappid_valves_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "EPS (Rs)",
+          "10.81",
+          "7.96"
+        ],
+        [
+          "P/E (x)",
+          "20.53",
+          "27.89"
+        ]
+      ]
+    }
+  ],
+  "anchorInvestors": {
+    "summary": "Rappid Valves (India) IPO raises Rs 8.64 crore from anchor investors. Rappid Valves (India) IPO Anchor bid date is September 20 2024. Rappid Valves (India) IPO Anchor Investors list",
+    "list_link": {
+      "text": "Rappid Valves (India) IPO Anchor Investors list",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rapidvalves_anchorallocation_report.pdf"
+    },
+    "details": {
+      "ipo_date": "December 24 2024",
+      "shares_offered": "389400",
+      "anchor_portion_size": "8.64"
+    }
+  },
+  "basicDetails": {
+    "ipoDate": "September 23, 2024 to September 25, 2024",
+    "ipoListingDate": "Mon, Sep 30, 2024",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹222.00",
+    "lotSize": "600 Shares",
+    "issueSize": "13,69,800 shares (aggregating up to ₹30.41 Cr)",
+    "freshIssue": "13,69,800 shares (aggregating up to ₹30.41 Cr)",
+    "issueType": "Bookbuilding IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": {
+      "text": "69,600 shares",
+      "maker_name": "Rikhav Securities Limited",
+      "maker_url": "https://www.chittorgarh.com/report/ipo-market-maker-vs-listing-gain/127/337/"
+    },
+    "ipoOpenDate": "Mon, Sep 23, 2024",
+    "ipoCloseDate": "Wed, Sep 25, 2024",
+    "initiationOfRefunds": "Fri, Sep 27, 2024",
+    "creditOfSharesToDemat": "Fri, Sep 27, 2024",
+    "shareHoldingPreIssue": "38,22,184 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "38,22,184 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "69.46%"
+      }
+    ],
+    "shareHoldingPostIssue": "51,91,984 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "51,91,984 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "51.13%"
+      }
+    ]
+  },
+  "closing_date": "2024-09-24T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91 9321463550",
+    "email": "investors@rapidvalves.net",
+    "full_address": "Rappid Valves (India) Limited, Genesis Industrial Complex, Plot No. 30 Village Kolgaon, Palghar (East) Thane–401404",
+    "website": "https://www.rappidvalves.in/"
+  },
+  "createdAt": "2025-04-18T12:48:01.118Z",
+  "faqs": [
+    {
+      "question": "What is the Rappid Valves (India) IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rappid Valves (India) IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->1369800<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->30.41<!-- --> Crores. The issue is priced at <span>₹222 per share</span>. The minimum order quantity is <!-- -->600<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->September 23, 2024</b>, and <b>closes on <!-- -->September 25, 2024</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Rappid Valves (India) IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Rappid Valves (India) IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Rappid Valves (India) IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Rappid Valves (India) IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Rappid Valves (India) IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Rappid Valves (India) IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Rappid Valves (India) IPO opens on September 23, 2024 and closes on September 25, 2024.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Rappid Valves (India) IPO?",
+      "answer": "<div itemprop=\"text\"><p>Rappid Valves (India) IPO<!-- --> <b>lot size is <!-- -->600</b>, and the <b>minimum amount required is <span>₹1,33,200</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Rappid Valves (India) IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Rappid Valves (India) IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Rappid Valves (India) IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Rappid Valves (India) IPO<!-- --> will be done on <!-- -->Thursday, September 26, 2024<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Friday, September 27, 2024<!-- -->. Check the <a href=\"/ipo_allotment_status/rappid-valves-india-ipo/1861/\" title=\"Rappid Valves (India) IPO Allotment Status\">Rappid Valves (India) IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Rappid Valves (India) IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Rappid Valves (India) IPO<!-- --> listing date is on <b>Monday, September 30, 2024</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Rappid Valves (India)",
+  "issue_price": "₹222.00",
+  "issue_price_numeric": 222,
+  "issue_size": "13,69,800 shares (aggregating up to ₹30.41 Cr)",
+  "issue_size_numeric": 13,
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "222.00"
+      },
+      "open": {
+        "nse_sme": "312.00"
+      },
+      "low": {
+        "nse_sme": "302.00"
+      },
+      "high": {
+        "nse_sme": "327.60"
+      },
+      "last_trade": {
+        "nse_sme": "309.35"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "September 30 2024",
+    "nse_symbol": "RAPPID",
+    "isin": "INE0MVO01012",
+    "final_issue_price": "222 per share"
+  },
+  "listing_date": "2024-09-29T18:30:00.000Z",
+  "listing_gains": "39.35%",
+  "listing_gains_numeric": 39.35,
+  "logo": "https://www.chittorgarh.net/images/ipo/rappid_valve_logo.jpeg",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/rappid_valve_logo.jpeg",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 600 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "133200"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "600",
+        "amount": "133200"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "1200",
+        "amount": "266400"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/rappid-valves-india-ipo/1861/"
+    }
+  },
+  "lot_size": 600,
+  "opening_date": "2024-09-22T18:30:00.000Z",
+  "pageHeading": "Rappid Valves (India) Limited IPO (Rappid Valves (India) IPO) Detail",
+  "pageTitle": "Rappid Valves (India) IPO Date, Price, GMP, Details",
+  "promoterHolding": {
+    "promoters": "The promoter of the Company is Mr. Gaurav Vijay Dalal.",
+    "holdings": {
+      "share_holding_pre_issue": "69.46%",
+      "share_holding_post_issue": "51.13%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Rappid Valves (India) IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/RappidValves(India)Limited_DRHP.pdf"
+    },
+    {
+      "text": "Rappid Valves (India) IPO RHP",
+      "url": "https://archives.nseindia.com/content/ipo/RHP_RAPPID.zip"
+    },
+    {
+      "text": "Anchor Investors in Rappid Valves (India) IPO",
+      "url": "https://www.chittorgarh.net/reports/anchor-investor/rapidvalves_anchorallocation_report.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "0",
+        "neutral": "0",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/rappid-valves-india-ipo/1861/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "rappidvalves.smeipo@Linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Rappid Valves (India) IPO offers 1369800 shares. 259800 (18.97%) to QIB 195600 (14.28%) to NII 455400 (33.25%) to RII and 389400 (28.43%) to Anchor investors.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "389400 (28.43%)"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "69600 (5.08%)"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "259800 (18.97%)"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "195600 (14.28%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "455400 (33.25%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "1369800 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T12:48:01.117Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Rappid Valves (India) IPO is subscribed 176.06 times on September 25 2024 6:19:58 PM (Day 3). The public issue subscribed 109.09 times in the retail category 55.97 times in the QIB category and 491.49 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "qib": {
+        "category": "QIB",
+        "subscription_times": "55.97",
+        "shares_offered": "259800",
+        "shares_bid_for": "14542200"
+      },
+      "nii": {
+        "category": "NII",
+        "subscription_times": "491.49",
+        "shares_offered": "195600",
+        "shares_bid_for": "96135600"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "109.09",
+        "shares_offered": "455400",
+        "shares_bid_for": "49678800"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "176.06",
+        "shares_offered": "910800",
+        "shares_bid_for": "160356600"
+      }
+    },
+    "total_applications": "82798",
+    "notes": "*Market Maker portion is not included to NII/HNI."
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on September 25 2024",
+    "tentative_allotment": "Thu Sep 26 2024",
+    "initiation_of_refunds": "Fri Sep 27 2024",
+    "credit_of_shares_to_demat": "Fri Sep 27 2024"
+  },
+  "updatedAt": "2025-04-19T04:37:11.204Z",
+  "updated_at": "2025-04-18T12:48:01.117Z",
+  "year": 2024,
+  "worst_listing_gains": "39.35%",
+  "worst_listing_gains_numeric": 39.35
+}

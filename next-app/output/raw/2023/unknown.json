@@ -1,0 +1,372 @@
+{
+  "_id": "68028e9f3ccffd1c7912c974",
+  "ipo_id": "2023_unknown",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": false,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": false,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": false,
+      "listingDayTrading": false,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:35:25.953Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/adani-enterprises-fpo/1367/"
+  },
+  "about": {
+    "details": "<p>Incorporated in 1988, Adani Enterprises Limited is part of the Adani Group. They are among India's top business houses having an integrated energy and infrastructure platform in India The Group is an Indian Multinational company engaged in <strong>multiple business ventures</strong>.</p>\n<p>With a long track record of successful execution of various large-scale projects, the company has emerged as a leader in different segments.</p>\n<p>Over the decades of its operations, the Group has established unicorns like Adani Power, Adani Ports &amp; SEZ, Adani Transmission, Adani Green Energy, and Adani Total Gas. The endeavors of the companies are highly driven toward making India a self-reliant country.</p>\n<p>The businesses of Adani Group include-</p>\n<ol>\n<li>Mining Services</li>\n<li>Edible Oil &amp; Foods</li>\n<li>Water</li>\n<li>Data Center</li>\n<li>Integrated Resource Management</li>\n<li>Agro</li>\n<li>Solar Manufacturing</li>\n<li>Defence &amp; Aerospace</li>\n<li>Airports</li>\n<li>Roads, Metro &amp; Rail</li>\n</ol>\n<p>The company not only emphasizes its efforts on offering the best quality products and services but also ensures to contribute towards a sustainable environment and offering back to society. The Adani Group had a market capitalization of ₹18,402 billion (approximately US$222 billion) as of December 31, 2022.</p>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Total Borrowing"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "46898.36",
+          "44086.21",
+          "1039.99",
+          "18209.94",
+          "12604.91"
+        ],
+        [
+          "31-Mar-21",
+          "51642.86",
+          "40290.93",
+          "1045.76",
+          "18910.01",
+          "16051.42"
+        ],
+        [
+          "30-Sep-21",
+          "82324.68",
+          "26327.73",
+          "460.14",
+          "23176.28",
+          "32189.62"
+        ],
+        [
+          "31-Mar-22",
+          "101760.19",
+          "70432.69",
+          "787.7",
+          "26928.37",
+          "41023.77"
+        ],
+        [
+          "30-Sep-22",
+          "123091.28",
+          "79507.89",
+          "901.04",
+          "36176.4",
+          "40023.5"
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "January 27, 2023 to January 31, 2023",
+    "ipoListingDate": "Wed, Feb 8, 2023",
+    "faceValue": "₹1 per share",
+    "issuePrice": "₹3112 to ₹3276 per share",
+    "lotSize": "4 Shares",
+    "issueSize": "6,47,38,475 shares (aggregating up to ₹20,000.00 Cr)",
+    "freshIssue": "6,47,38,475 shares (aggregating up to ₹20,000.00 Cr)",
+    "issueType": "Bookbuilding FPO",
+    "listingAt": "BSE, NSE",
+    "ipoOpenDate": "Fri, Jan 27, 2023",
+    "ipoCloseDate": "Tue, Jan 31, 2023",
+    "initiationOfRefunds": "Mon, Feb 6, 2023",
+    "creditOfSharesToDemat": "Tue, Feb 7, 2023",
+    "shareHoldingPreIssue": "72.63%",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "72.63%"
+      }
+    ]
+  },
+  "closing_date": "2023-01-30T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "+91-79-26565555",
+    "email": "investor.ael@adani.com",
+    "full_address": "Adani Enterprises Limited, Shantigram Near Vaishnodevi Circle, S G Highway, Ahmedabad-382421",
+    "website": "https://www.adanienterprises.com/"
+  },
+  "createdAt": "2025-04-18T17:40:47.189Z",
+  "faqs": [
+    {
+      "question": "What is the Adani Enterprises FPO?",
+      "answer": "<div itemprop=\"text\"><p>Adani Enterprises FPO<!-- --> is a <b>main-board<!-- --> <!-- -->FPO<!-- --> of <!-- -->64738475<!-- --> equity shares</b> of the face value of ₹<!-- -->1<!-- --> aggregating up to ₹<!-- -->20,000.00<!-- --> Crores. The issue is priced at <span>₹3112 to ₹3276 per share</span>. The minimum order quantity is <!-- -->4<!-- -->.</p><p>The <!-- -->FPO<!-- --> <b>opens on <!-- -->January 27, 2023</b>, and <b>closes on <!-- -->January 31, 2023</b>.</p><p>Link Intime India Private Ltd<!-- --> is the registrar for the <!-- -->FPO<!-- -->. The shares are proposed to be listed on <!-- -->BSE, NSE<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Adani Enterprises FPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Adani Enterprises FPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Adani Enterprises FPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Adani Enterprises FPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Adani Enterprises FPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Adani Enterprises FPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Adani Enterprises FPO opens on January 27, 2023 and closes on January 31, 2023.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Adani Enterprises FPO?",
+      "answer": "<div itemprop=\"text\"><p>Adani Enterprises FPO<!-- --> <b>lot size is <!-- -->4</b>, and the <b>minimum amount required is <span>₹13,104</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Adani Enterprises FPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Adani Enterprises FPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Adani Enterprises FPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Adani Enterprises FPO<!-- --> will be done on <!-- -->Friday, February 3, 2023<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Tuesday, February 7, 2023<!-- -->. Check the <a href=\"/ipo_allotment_status/adani-enterprises-fpo/1367/\" title=\"Adani Enterprises FPO Allotment Status\">Adani Enterprises FPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Adani Enterprises FPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Adani Enterprises FPO<!-- --> listing date is not yet announced. The <b>tentative date of <!-- -->Adani Enterprises FPO<!-- --> listing is <!-- -->Wednesday, February 8, 2023</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Adani Enterprises Limited FPO (Adani Enterprises FPO) Detail",
+  "issue_price": "₹3112 to ₹3276 per share",
+  "issue_price_numeric": 3112,
+  "issue_size": "6,47,38,475 shares (aggregating up to ₹20,000.00 Cr)",
+  "issue_size_numeric": 6,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "ICICI Securities Limited",
+      "url": "/report/ipo-lead-manager-review/112/17/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    },
+    {
+      "name": "Jefferies India Private Limited",
+      "url": "/report/ipo-lead-manager-review/112/112/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/112/"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/21/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/21/"
+    },
+    {
+      "name": "Axis Capital Limited",
+      "url": "/report/ipo-lead-manager-review/112/113/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/113/"
+    },
+    {
+      "name": "Bob Capital Markets Limited",
+      "url": "/report/ipo-lead-manager-review/112/48/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/48/"
+    },
+    {
+      "name": "Idbi Capital Market Services Limited",
+      "url": "/report/ipo-lead-manager-review/112/47/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/47/"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "url": "/report/ipo-lead-manager-review/112/18/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/18/"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "url": "/report/ipo-lead-manager-review/112/71/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/71/"
+    },
+    {
+      "name": "Monarch Networth Capital Ltd",
+      "url": "/report/ipo-lead-manager-review/112/132/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/132/"
+    },
+    {
+      "name": "Elara Capital",
+      "url": "/report/ipo-lead-manager-review/112/117/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/117/"
+    }
+  ],
+  "listing_date": "2023-02-07T18:30:00.000Z",
+  "logo": "https://www.chittorgarh.net/images/ipo/adani-enterprises-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/adani-enterprises-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 4 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "4",
+        "amount": "13104"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "15",
+        "shares": "60",
+        "amount": "196560"
+      },
+      "shni_min": {
+        "application": "S-HNI (Min)",
+        "lots": "16",
+        "shares": "64",
+        "amount": "209664"
+      },
+      "shni_max": {
+        "application": "S-HNI (Max)",
+        "lots": "76",
+        "shares": "304",
+        "amount": "995904"
+      },
+      "bhni_min": {
+        "application": "B-HNI (Min)",
+        "lots": "77",
+        "shares": "308",
+        "amount": "1009008"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/adani-enterprises-fpo/1367/"
+    }
+  },
+  "lot_size": 4,
+  "opening_date": "2023-01-26T18:30:00.000Z",
+  "pageHeading": "Adani Enterprises Limited FPO (Adani Enterprises FPO) Detail",
+  "pageTitle": "Adani Enterprises FPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Gautam S. Adani and Rajesh S. Adani are the promoters of the company.",
+    "holdings": {
+      "share_holding_pre_issue": "72.63%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Adani Enterprises FPO RHP",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jan-2023/adani-enterprises-limited-rhp_67762.html"
+    },
+    {
+      "text": "Anchor Investors in Adani Enterprises FPO",
+      "url": "https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20230125-37&attachedId=e371f725-ad7d-4d0d-be9f-d63baa277f1d"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "4",
+        "neutral": "2",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "9",
+        "neutral": "2",
+        "avoid": "18"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/adani-enterprises-fpo/1367/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "ael.fpo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "reservation": {
+    "summary": "Adani Enterprises FPO offers 45506791 shares. 12821336 (28.17%) to QIB 9616323 (21.13%) to NII 22908464 (50.34%) to RII 160668 (0.35%) to employees. 5727116 RIIs will receive minimum 4 shares and 50088 (sNII) and 100166 (bNII) will receive minimum 64 shares. (in case of oversubscription)",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "QIB Shares Offered",
+        "shares_offered": "12821336 (28.17%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "NII (HNI) Shares Offered",
+        "shares_offered": "9616323 (21.13%)"
+      },
+      {
+        "investor_category": "bNII > 10L",
+        "shares_offered": "6410668 (14.09%)",
+        "maximum_allottees": "100166"
+      },
+      {
+        "investor_category": "sNII < 10L",
+        "shares_offered": "3205655 (7.04%)",
+        "maximum_allottees": "50088"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "22908464 (50.34%)",
+        "maximum_allottees": "5727116"
+      },
+      {
+        "investor_category": "Employee Shares Offered",
+        "shares_offered": "160668 (0.35%)",
+        "maximum_allottees": "NA"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "45506791 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T17:40:47.189Z",
+  "source_url": "",
+  "status": "listed",
+  "tentativeDetails": {
+    "ipo_date": "5 PM on January 31 2023",
+    "tentative_allotment": "Fri Feb 3 2023",
+    "initiation_of_refunds": "Mon Feb 6 2023",
+    "credit_of_shares_to_demat": "Tue Feb 7 2023"
+  },
+  "updatedAt": "2025-04-18T17:40:47.189Z",
+  "updated_at": "2025-04-18T17:40:47.189Z",
+  "year": 2023
+}

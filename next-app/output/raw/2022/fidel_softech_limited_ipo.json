@@ -1,0 +1,376 @@
+{
+  "_id": "680293683ccffd1c7912ca60",
+  "ipo_id": "2022_fidel_softech_limited_ipo",
+  "__v": 0,
+  "_metadata": {
+    "sectionsAvailable": {
+      "basicDetails": true,
+      "tentativeSchedule": true,
+      "lotSize": true,
+      "timeline": false,
+      "kpi": true,
+      "financials": true,
+      "promoterHolding": true,
+      "objectives": false,
+      "about": true,
+      "subscriptionStatus": true,
+      "contactDetails": true,
+      "registrarDetails": true,
+      "leadManagers": true,
+      "listingDetails": true,
+      "listingDayTrading": true,
+      "faqs": true,
+      "recommendationSummary": true,
+      "prospectusLinks": true,
+      "reservation": true,
+      "anchorInvestors": false
+    },
+    "scrapedAt": "2025-04-18T17:58:44.358Z",
+    "sourceUrl": "https://www.chittorgarh.com/ipo/fidel-softech-ipo/1258/"
+  },
+  "about": {
+    "details": "<p>Fidel Softech Limited is a <strong>LangTech Consulting</strong> company that provides technological services with local language user interfaces and user experiences. Fidel Softech Limited was incorporated in 2003 and is located in Pune, Maharashtra.</p>\n<p>Fidel Softech offers a wide range of services including Software development, Infrastructure &amp; Cloud support, Localization including translation, interpretation, software localization &amp; multilingual data creation and Consulting &amp; Staffing services including training, Software development &amp; Cloud infrastructure support services, localisation services; such as Translation, Interpretation, Content creation, Multilingual data creation, transcription &amp; Annotation for training AI engines, Video subtitling and other video audio services, Data engineering, testing, scripting and tooling services.</p>\n<p>Fidel Softech Limited's customer base is spread across the globe with a presence in countries like Argentina, Belgium, China, Cyprus, Czech Republic, Dubai, Egypt, Germany, Hong Kong, Ireland, Italy, Japan, Kingdom of Saudi Arabia, Malaysia, Mauritius, Netherlands, New Zealand, Poland, Portugal, Russia, Singapore, South Africa, South Korea, Spain, Sweden, Taiwan, Ukraine, United Arab Emirates, United Kingdom, and the United States of America.</p>\n<p><strong>Competitive Strengths</strong></p>\n<ul>\n<li>Offering technology services with local language UI/ UX.</li>\n<li>Clients in both domestic and international markets.</li>\n<li>Wide Service Portfolio.</li>\n<li>Quality assurance.</li>\n<li>Leveraging the experience of our promoters.</li>\n</ul>"
+  },
+  "additionalTables": [
+    {
+      "heading": "Company Financials",
+      "sanitizedHeading": "financials",
+      "headers": [
+        "Period Ended",
+        "Total Assets",
+        "Total Revenue",
+        "Profit After Tax",
+        "Net Worth",
+        "Reserves and Surplus"
+      ],
+      "rows": [
+        [
+          "31-Mar-20",
+          "1005.5",
+          "2280.4",
+          "314.7",
+          "686.67",
+          "661.42"
+        ],
+        [
+          "31-Mar-21",
+          "1758.1",
+          "2620.6",
+          "345",
+          "1031.68",
+          "1006.43"
+        ],
+        [
+          "31-Mar-22",
+          "2010.3",
+          "2686.7",
+          "456.5",
+          "1488.01",
+          "477.93"
+        ]
+      ]
+    },
+    {
+      "heading": "Fidel Softech Limited Stock Quote & Charts",
+      "sanitizedHeading": "fidel_softech_stock_quote_charts",
+      "headers": [
+        null,
+        "Pre IPO",
+        "Post IPO"
+      ],
+      "rows": [
+        [
+          "P/E (x)",
+          "11.15",
+          null
+        ]
+      ]
+    }
+  ],
+  "basicDetails": {
+    "ipoDate": "May 30, 2022 to June 2, 2022",
+    "ipoListingDate": "Fri, Jun 10, 2022",
+    "faceValue": "₹10 per share",
+    "issuePrice": "₹37.00",
+    "lotSize": "3,000 Shares",
+    "issueSize": "36,50,000 shares (aggregating up to ₹13.51 Cr)",
+    "freshIssue": "36,50,000 shares (aggregating up to ₹13.51 Cr)",
+    "issueType": "Fixed Price IPO",
+    "listingAt": "NSE SME",
+    "marketMakerPortion": "1,86,000 shares",
+    "ipoOpenDate": "Mon, May 30, 2022",
+    "ipoCloseDate": "Thu, Jun 2, 2022",
+    "initiationOfRefunds": "Wed, Jun 8, 2022",
+    "creditOfSharesToDemat": "Thu, Jun 9, 2022",
+    "shareHoldingPreIssue": "1,01,02,560 shares",
+    "shareHoldingPreIssueAll": [
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "1,01,02,560 shares"
+      },
+      {
+        "label": "Share Holding Pre Issue",
+        "value": "98.98%"
+      }
+    ],
+    "shareHoldingPostIssue": "1,37,50,560 shares",
+    "shareHoldingPostIssueAll": [
+      {
+        "label": "Share Holding Post Issue",
+        "value": "1,37,50,560 shares"
+      },
+      {
+        "label": "Share Holding Post Issue",
+        "value": "72.72%"
+      }
+    ]
+  },
+  "closing_date": "2022-06-01T18:30:00.000Z",
+  "contactDetails": {
+    "phone": "020 – 4900 7878",
+    "email": "investor-relations@fidelsoftech.com",
+    "full_address": "Fidel Softech Limited, Unit No. 202 2nd Floor Marisoft 3, West Wing Marigold Software IT Park, Vadgaon Sheri Pune – 411 014",
+    "website": "https://fidelsoftech.com/"
+  },
+  "createdAt": "2025-04-18T18:01:12.614Z",
+  "faqs": [
+    {
+      "question": "What is the Fidel Softech IPO?",
+      "answer": "<div itemprop=\"text\"><p>Fidel Softech IPO<!-- --> is a <b>SME<!-- --> <!-- -->IPO<!-- --> of <!-- -->3650000<!-- --> equity shares</b> of the face value of ₹<!-- -->10<!-- --> aggregating up to ₹<!-- -->13.51<!-- --> Crores. The issue is priced at <span>₹37 per share</span>. The minimum order quantity is <!-- -->3000<!-- -->.</p><p>The <!-- -->IPO<!-- --> <b>opens on <!-- -->May 30, 2022</b>, and <b>closes on <!-- -->June 2, 2022</b>.</p><p>Bigshare Services Pvt Ltd<!-- --> is the registrar for the <!-- -->IPO<!-- -->. The shares are proposed to be listed on <!-- -->NSE SME<!-- -->.</p></div>"
+    },
+    {
+      "question": "How to apply in Fidel Softech IPO through Zerodha?",
+      "answer": "<div itemprop=\"text\"><p>Zerodha customers can apply online in <!-- -->Fidel Softech IPO<!-- --> using UPI as a payment gateway. Zerodha customers can apply in <!-- -->Fidel Softech IPO<!-- --> by login into Zerodha Console (back office) and submitting an IPO application form.</p><p><strong>Steps to apply in <!-- -->Fidel Softech IPO<!-- --> through Zerodha</strong></p><ol><li>Visit the Zerodha website and login to Console.</li><li>Go to Portfolio and click the IPOs link.</li><li>Go to the '<!-- -->Fidel Softech IPO<!-- -->' row and click the 'Bid' button.</li><li>Enter your UPI ID, Quantity, and Price.</li><li>Submit IPO application form.</li><li>Visit the UPI App (net banking or BHIM) to approve the mandate.</li></ol><p>Visit <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Application Process Review\">Zerodha IPO Application Process Review</a> for more detail.</p></div>"
+    },
+    {
+      "question": "When Fidel Softech IPO will open?",
+      "answer": "<div itemprop=\"text\"><p>The Fidel Softech IPO opens on May 30, 2022 and closes on June 2, 2022.</p></div>"
+    },
+    {
+      "question": "What is the lot size of Fidel Softech IPO?",
+      "answer": "<div itemprop=\"text\"><p>Fidel Softech IPO<!-- --> <b>lot size is <!-- -->3000</b>, and the <b>minimum amount required is <span>₹1,11,000</span></b>.</p></div>"
+    },
+    {
+      "question": "How to apply for Fidel Softech IPO?",
+      "answer": "<div itemprop=\"text\"><p>You can apply in <!-- -->Fidel Softech IPO<!-- --> online using either <a href=\"/article/upi-payment-option-ipo-application-explained/382/\">UPI</a> or ASBA as a payment method. ASBA IPO application is available in the net banking of your bank account. UPI IPO application is offered by brokers who don't offer banking services. Read more detail about applying IPO online through <a href=\"/broker/zerodha/ipo/18/\" title=\"Zerodha IPO Review\"><b>Zerodha</b></a>, <a href=\"/broker/upstox/ipo/33/\" title=\"Upstox IPO Review\">Upstox</a>, <a href=\"/broker/5paisa/ipo/4/\" title=\"5Paisa IPO Review\">5Paisa</a>, <a href=\"/broker/edelweiss_broking/ipo/34/\" title=\"Nuvama IPO Review\">Nuvama</a>, <a href=\"/broker/hdfc-securities/ipo/6/\" title=\"HDFC Bank IPO Review\">HDFC Bank</a>, and <a href=\"/broker/sbi-capital/ipo/19/\" title=\"SBI Capital IPO Review\">SBI Bank</a>.</p></div>"
+    },
+    {
+      "question": "When is Fidel Softech IPO allotment?",
+      "answer": "<div itemprop=\"text\"><p>The finalization of Basis of Allotment for <!-- -->Fidel Softech IPO<!-- --> will be done on <!-- -->Tuesday, June 7, 2022<!-- -->, and the allotted shares will be credited to your demat account by <!-- -->Thursday, June 9, 2022<!-- -->. Check the <a href=\"/ipo_allotment_status/fidel-softech-ipo/1258/\" title=\"Fidel Softech IPO Allotment Status\">Fidel Softech IPO<!-- --> allotment status</a>.</p></div>"
+    },
+    {
+      "question": "When is Fidel Softech IPO listing date?",
+      "answer": "<div itemprop=\"text\"><p>The <!-- -->Fidel Softech IPO<!-- --> listing date is on <b>Friday, June 10, 2022</b>.</p></div>"
+    }
+  ],
+  "ipoName": "Fidel Softech",
+  "issue_price": "₹37.00",
+  "issue_price_numeric": 37,
+  "issue_size": "36,50,000 shares (aggregating up to ₹13.51 Cr)",
+  "issue_size_numeric": 36,
+  "leadManagerReports": [
+    {
+      "text": "IPO Lead Manager Performance Summary",
+      "url": "/report/ipo_lead_manager_performance_tracker/19/"
+    },
+    {
+      "text": "IPO Lead Manager Performance Tracker",
+      "url": "/report/ipo-lead-manager-vs-listing-gain/99/17/"
+    }
+  ],
+  "leadManagers": [
+    {
+      "name": "Shreni Shares Limited",
+      "url": "/report/ipo-lead-manager-review/112/449/",
+      "performance_link": "/report/ipo-lead-manager-vs-listing-gain/99/449/"
+    }
+  ],
+  "listingDayTrading": {
+    "data": {
+      "final_issue_price": {
+        "nse_sme": "37.00"
+      },
+      "open": {
+        "nse_sme": "59.10"
+      },
+      "low": {
+        "nse_sme": "59.10"
+      },
+      "high": {
+        "nse_sme": "62.05"
+      },
+      "last_trade": {
+        "nse_sme": "62.05"
+      }
+    },
+    "performance_link": {
+      "text": "Check IPO Performance…",
+      "url": "/ipo/ipo_perf_tracker.asp"
+    }
+  },
+  "listingDetails": {
+    "pre_open_links": [
+      {
+        "text": "Pre-Open Session - NSE",
+        "url": "https://www.nseindia.com/market-data/new-stock-exchange-listings-today"
+      }
+    ],
+    "ipo_date": "June 10 2022",
+    "nse_symbol": "FIDEL",
+    "isin": "INE0LQQ01019",
+    "final_issue_price": "37 per share"
+  },
+  "listing_date": "2022-06-09T18:30:00.000Z",
+  "listing_gains": "67.70%",
+  "listing_gains_numeric": 67.7,
+  "logo": "https://www.chittorgarh.net/images/ipo/fidel-softech-logo.png",
+  "logo_url": "https://www.chittorgarh.net/images/ipo/fidel-softech-logo.png",
+  "lotSize": {
+    "summary": "Investors can bid for a minimum of 3000 shares and in multiples thereof. The following table depicts the minimum and maximum investment by Retail Investors and HNI in terms of shares and amount.",
+    "applications": {
+      "retail_min": {
+        "application": "Retail (Min)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "111000"
+      },
+      "retail_max": {
+        "application": "Retail (Max)",
+        "lots": "1",
+        "shares": "3000",
+        "amount": "111000"
+      },
+      "hni_min": {
+        "application": "HNI (Min)",
+        "lots": "2",
+        "shares": "6000",
+        "amount": "222000"
+      },
+      "lot_size": {
+        "application": "Lot Size Calculator"
+      }
+    },
+    "calculator_link": {
+      "text": "Lot Size Calculator",
+      "url": "/ipo-hni-funding-cost-calculator/fidel-softech-ipo/1258/"
+    }
+  },
+  "lot_size": 3,
+  "opening_date": "2022-05-29T18:30:00.000Z",
+  "pageHeading": "Fidel Softech Limited IPO (Fidel Softech IPO) Detail",
+  "pageTitle": "Fidel Softech IPO Date, Price, GMP, Review, Details",
+  "promoterHolding": {
+    "promoters": "Sunil Sudhakar Kulkarni and Prachi Sunil Kulkarni are the company promoters.",
+    "holdings": {
+      "share_holding_pre_issue": "98.98%",
+      "share_holding_post_issue": "72.72%"
+    },
+    "note": "The value will be calculated using Equity Dilution = Share Holding Pre Issue - Share Holding Post Issue"
+  },
+  "prospectusLinks": [
+    {
+      "text": "Fidel Softech IPO DRHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/FidelSoftech_DP.pdf"
+    },
+    {
+      "text": "Fidel Softech IPO RHP",
+      "url": "https://nsearchives.nseindia.com/emerge/corporates/content/FidelSoftech_Prosp.pdf"
+    }
+  ],
+  "recommendationSummary": {
+    "recommendations": {
+      "brokersbrokers": {
+        "subscribe": "1",
+        "neutral": "0",
+        "avoid": "0"
+      },
+      "membersmembers": {
+        "subscribe": "11",
+        "neutral": "3",
+        "avoid": "0"
+      }
+    },
+    "links": [
+      {
+        "text": "Read All Reviews",
+        "url": "/ipo-recommendation/fidel-softech-ipo/1258/"
+      },
+      {
+        "text": "Post Your Review",
+        "url": "#"
+      },
+      {
+        "text": "Manage Reviews",
+        "url": "#"
+      }
+    ]
+  },
+  "registrarDetails": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "reservation": {
+    "summary": "Fidel Softech IPO offers 3648000 shares. 1731000 (47.45%) to NII 1731000 (47.45%) to RII.",
+    "allocation": [
+      {
+        "investor_category": "Anchor Investor Shares Offered",
+        "shares_offered": "-"
+      },
+      {
+        "investor_category": "Market Maker Shares Offered",
+        "shares_offered": "186000 (5.10%)"
+      },
+      {
+        "investor_category": "Other Shares Offered",
+        "shares_offered": "1731000 (47.45%)"
+      },
+      {
+        "investor_category": "Retail Shares Offered",
+        "shares_offered": "1731000 (47.45%)"
+      },
+      {
+        "investor_category": "Total Shares Offered",
+        "shares_offered": "3648000 (100%)"
+      }
+    ]
+  },
+  "scraped_at": "2025-04-18T18:01:12.613Z",
+  "source_url": "",
+  "status": "listed",
+  "subscriptionStatus": {
+    "summary": "The Fidel Softech IPO is subscribed 102.89 times on June 2 2022 5:00:00 PM (Day 4). The public issue subscribed 67.44 times in the retail category [.] times in the QIB category and 138.34 times in the NII category. Check Day by Day Subscription Details (Live Status)",
+    "overall": {
+      "nii": {
+        "category": "NII",
+        "subscription_times": "138.34",
+        "shares_offered": "1731000",
+        "shares_bid_for": "239472000"
+      },
+      "retail": {
+        "category": "Retail",
+        "subscription_times": "67.44",
+        "shares_offered": "1731000",
+        "shares_bid_for": "116730000"
+      },
+      "total": {
+        "category": "Total",
+        "subscription_times": "102.89",
+        "shares_offered": "3462000",
+        "shares_bid_for": "356202000"
+      }
+    }
+  },
+  "tentativeDetails": {
+    "ipo_date": "5 PM on June 2 2022",
+    "tentative_allotment": "Tue Jun 7 2022",
+    "initiation_of_refunds": "Wed Jun 8 2022",
+    "credit_of_shares_to_demat": "Thu Jun 9 2022"
+  },
+  "updatedAt": "2025-04-19T04:38:24.570Z",
+  "updated_at": "2025-04-18T18:01:12.613Z",
+  "year": 2022,
+  "worst_listing_gains": "67.70%",
+  "worst_listing_gains_numeric": 67.7
+}
