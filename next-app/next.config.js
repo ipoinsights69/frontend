@@ -8,7 +8,7 @@ const nextConfig = {
     // Don't run TypeScript type checking during build
     ignoreBuildErrors: true,
   },
-  swcMinify: true,
+  // swcMinify is not needed in Next.js 13+ (removed)
   reactStrictMode: true,
   images: {
     domains: ['*'],
@@ -18,6 +18,11 @@ const nextConfig = {
         hostname: '**',
       },
     ],
+  },
+  // Server components optimization
+  experimental: {
+    serverComponentsExternalPackages: [],
+    serverActions: true,
   },
   webpack: (config) => {
     // Optimize webpack build
