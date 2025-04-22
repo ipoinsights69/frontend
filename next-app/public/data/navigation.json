@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Home",
+    "path": "/"
+  },
+  {
+    "label": "IPO Calendar",
+    "path": "/calendar"
+  },
+  {
+    "label": "IPO News",
+    "path": "/news"
+  },
+  {
+    "label": "IPO Analysis",
+    "path": "/analysis"
+  },
+  {
+    "label": "About",
+    "path": "/about"
+  },
+  {
+    "label": "Contact",
+    "path": "/contact"
+  }
+] 

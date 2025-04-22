@@ -1,15 +1,13 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Header from "@/components/Header";
 
-const inter = Inter({
-  subsets: ["latin"],
-  variable: "--font-inter",
-});
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "IPO Insights - Your Comprehensive IPO Analysis Platform",
-  description: "Get detailed analysis and information about upcoming and recent IPOs",
+  title: "IPO Insights - Track the Market's Newest Additions",
+  description: "Track performance metrics, analyze market trends, and discover investment opportunities in the IPO landscape.",
 };
 
 export default function RootLayout({
@@ -19,7 +17,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} font-sans antialiased`}>
+      <body className={`${inter.className} bg-gray-50`}>
+        <Header />
         {children}
       </body>
     </html>
