@@ -19,6 +19,10 @@ export interface IPOSummary {
   listing_gains?: string;
   listing_gains_numeric?: number;
   logo_url?: string;
+  current_price?: string;
+  gain_percentage?: number;
+  loss_percentage?: number;
+  listing_price?: string;
 }
 
 export interface IPOStats {
@@ -111,4 +115,192 @@ export const getIPOStats = (): IPOStats => {
     upcomingCount: upcoming.length,
     topSector
   };
-}; 
+};
+
+// Get top performing IPOs
+export const getTopPerformingIPOs = (limit = 5): IPOSummary[] => {
+  const allIpos = readJsonFile('output/all_ipos_meta.json') || [];
+  const listedIpos = allIpos.filter((ipo: IPOSummary) => ipo.status === 'listed');
+  
+  // Sort by listing gains (if available) or return sample data
+  if (listedIpos.length > 0) {
+    return [...listedIpos]
+      .filter((ipo: IPOSummary) => ipo.listing_gains_numeric && ipo.listing_gains_numeric > 0)
+      .sort((a: IPOSummary, b: IPOSummary) => {
+        return (b.listing_gains_numeric || 0) - (a.listing_gains_numeric || 0);
+      })
+      .slice(0, limit)
+      .map(ipo => ({
+        ...ipo,
+        current_price: ipo.issue_price_numeric 
+          ? `₹${(ipo.issue_price_numeric * (1 + (ipo.listing_gains_numeric || 0) / 100)).toFixed(2)}`
+          : undefined,
+        gain_percentage: ipo.listing_gains_numeric
+      }));
+  }
+  
+  // Return sample data if no real data available
+  return getSamplePerformingIPOs(limit);
+};
+
+// Get top losing IPOs
+export const getTopLosingIPOs = (limit = 5): IPOSummary[] => {
+  const allIpos = readJsonFile('output/all_ipos_meta.json') || [];
+  const listedIpos = allIpos.filter((ipo: IPOSummary) => ipo.status === 'listed');
+  
+  // Sort by listing losses (if available) or return sample data
+  if (listedIpos.length > 0) {
+    return [...listedIpos]
+      .filter((ipo: IPOSummary) => ipo.listing_gains_numeric && ipo.listing_gains_numeric < 0)
+      .sort((a: IPOSummary, b: IPOSummary) => {
+        return (a.listing_gains_numeric || 0) - (b.listing_gains_numeric || 0);
+      })
+      .slice(0, limit)
+      .map(ipo => ({
+        ...ipo,
+        current_price: ipo.issue_price_numeric 
+          ? `₹${(ipo.issue_price_numeric * (1 + (ipo.listing_gains_numeric || 0) / 100)).toFixed(2)}`
+          : undefined,
+        loss_percentage: Math.abs(ipo.listing_gains_numeric || 0)
+      }));
+  }
+  
+  // Return sample data if no real data available
+  return getSampleLosingIPOs(limit);
+};
+
+// Helper function to generate sample performing IPOs
+function getSamplePerformingIPOs(limit: number): IPOSummary[] {
+  const sampleIPOs: IPOSummary[] = [
+    {
+      ipo_id: 'performingsample1',
+      ipo_name: 'TechStar IPO',
+      company_name: 'TechStar Solutions Ltd',
+      year: 2023,
+      status: 'listed',
+      issue_price: '₹900',
+      issue_price_numeric: 900,
+      current_price: '₹1350',
+      gain_percentage: 50,
+      listing_date: '2023-06-15'
+    },
+    {
+      ipo_id: 'performingsample2',
+      ipo_name: 'GreenEnergy IPO',
+      company_name: 'GreenEnergy Power Ltd',
+      year: 2023,
+      status: 'listed',
+      issue_price: '₹450',
+      issue_price_numeric: 450,
+      current_price: '₹630',
+      gain_percentage: 40,
+      listing_date: '2023-05-20'
+    },
+    {
+      ipo_id: 'performingsample3',
+      ipo_name: 'HealthPlus IPO',
+      company_name: 'HealthPlus Care Ltd',
+      year: 2023,
+      status: 'listed',
+      issue_price: '₹600',
+      issue_price_numeric: 600,
+      current_price: '₹810',
+      gain_percentage: 35,
+      listing_date: '2023-07-05'
+    },
+    {
+      ipo_id: 'performingsample4',
+      ipo_name: 'FinTech IPO',
+      company_name: 'FinTech Solutions Ltd',
+      year: 2023,
+      status: 'listed',
+      issue_price: '₹1200',
+      issue_price_numeric: 1200,
+      current_price: '₹1560',
+      gain_percentage: 30,
+      listing_date: '2023-08-10'
+    },
+    {
+      ipo_id: 'performingsample5',
+      ipo_name: 'EduLearn IPO',
+      company_name: 'EduLearn Tech Ltd',
+      year: 2023,
+      status: 'listed',
+      issue_price: '₹300',
+      issue_price_numeric: 300,
+      current_price: '₹375',
+      gain_percentage: 25,
+      listing_date: '2023-09-22'
+    }
+  ];
+  
+  return sampleIPOs.slice(0, limit);
+}
+
+// Helper function to generate sample losing IPOs
+function getSampleLosingIPOs(limit: number): IPOSummary[] {
+  const sampleIPOs: IPOSummary[] = [
+    {
+      ipo_id: 'losingsample1',
+      ipo_name: 'RetailChain IPO',
+      company_name: 'RetailChain Stores Ltd',
+      year: 2023,
+      status: 'listed',
+      issue_price: '₹800',
+      issue_price_numeric: 800,
+      current_price: '₹480',
+      loss_percentage: 40,
+      listing_date: '2023-04-18'
+    },
+    {
+      ipo_id: 'losingsample2',
+      ipo_name: 'TravelEase IPO',
+      company_name: 'TravelEase Holidays Ltd',
+      year: 2023,
+      status: 'listed',
+      issue_price: '₹550',
+      issue_price_numeric: 550,
+      current_price: '₹357.5',
+      loss_percentage: 35,
+      listing_date: '2023-03-12'
+    },
+    {
+      ipo_id: 'losingsample3',
+      ipo_name: 'AutoParts IPO',
+      company_name: 'AutoParts Manufacturing Ltd',
+      year: 2023,
+      status: 'listed',
+      issue_price: '₹420',
+      issue_price_numeric: 420,
+      current_price: '₹294',
+      loss_percentage: 30,
+      listing_date: '2023-05-25'
+    },
+    {
+      ipo_id: 'losingsample4',
+      ipo_name: 'MediaConnect IPO',
+      company_name: 'MediaConnect Networks Ltd',
+      year: 2023,
+      status: 'listed',
+      issue_price: '₹650',
+      issue_price_numeric: 650,
+      current_price: '₹487.5',
+      loss_percentage: 25,
+      listing_date: '2023-07-20'
+    },
+    {
+      ipo_id: 'losingsample5',
+      ipo_name: 'FoodDelivery IPO',
+      company_name: 'FoodDelivery App Ltd',
+      year: 2023,
+      status: 'listed',
+      issue_price: '₹950',
+      issue_price_numeric: 950,
+      current_price: '₹760',
+      loss_percentage: 20,
+      listing_date: '2023-08-30'
+    }
+  ];
+  
+  return sampleIPOs.slice(0, limit);
+} 

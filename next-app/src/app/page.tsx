@@ -1,11 +1,14 @@
 import React from 'react';
 import HeroSection from './components/HeroSection';
+import HomeIPOShowcase from './components/HomeIPOShowcase';
 import { 
   getTrendingIPOs, 
   getUpcomingIPOs, 
   getRecentlyListedIPOs, 
   getClosedIPOs, 
-  getIPOStats 
+  getIPOStats,
+  getTopPerformingIPOs,
+  getTopLosingIPOs
 } from '@/lib/ipoDataService';
 
 // Enable ISR with a revalidation period of 1 hour
@@ -18,6 +21,10 @@ export default function Home() {
   const recentIPOs = getRecentlyListedIPOs();
   const closedIPOs = getClosedIPOs();
   const stats = getIPOStats();
+  
+  // Get data for the IPO showcase section
+  const topPerformingIPOs = getTopPerformingIPOs();
+  const topLosingIPOs = getTopLosingIPOs();
 
   return (
     <main>
@@ -28,7 +35,14 @@ export default function Home() {
         closedIPOs={closedIPOs}
         stats={stats}
       />
-      {/* Other homepage sections can be added here */}
+      
+      <HomeIPOShowcase
+        upcomingIPOs={upcomingIPOs}
+        topPerformingIPOs={topPerformingIPOs}
+        topLosingIPOs={topLosingIPOs}
+        recentlyListedIPOs={recentIPOs}
+        closedIPOs={closedIPOs}
+      />
     </main>
   );
 }
