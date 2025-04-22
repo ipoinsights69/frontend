@@ -8,6 +8,9 @@ import {
   getIPOStats 
 } from '@/lib/ipoDataService';
 
+// Enable ISR with a revalidation period of 1 hour
+export const revalidate = 3600;
+
 export default function Home() {
   // Get data for the hero section
   const trendingIPOs = getTrendingIPOs();
