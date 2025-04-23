@@ -1,0 +1,23 @@
+{
+  "ipo_id": "sample_ipo",
+  "company_name": "Sample Company Ltd",
+  "ipo_name": "Sample IPO",
+  "status": "upcoming",
+  "issue_price": "₹450-₹500",
+  "issue_size": "₹1,200 Cr",
+  "listing_date": "2023-12-15",
+  "listing_price": "₹550",
+  "listing_gain": "+10%",
+  "about": [
+    "Sample Company Ltd is a leading provider of innovative solutions in the technology sector.",
+    "Founded in 2010, the company has shown consistent growth and profitability over the years.",
+    "The IPO aims to raise funds for expansion into new markets and research & development."
+  ],
+  "dates": {
+    "openDate": "2023-12-01",
+    "closeDate": "2023-12-05",
+    "allotmentDate": "2023-12-08",
+    "refundsDate": "2023-12-09",
+    "listingDate": "2023-12-15"
+  }
+} 

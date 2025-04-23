@@ -47,8 +47,8 @@ interface AboutData {
 // Type assertion for imported JSON data
 const typedAboutData = aboutData as AboutData;
 
-// Enable ISR with a revalidation period of 1 hour
-export const revalidate = 3600;
+// Enable ISR with a revalidation time of 1 day (rarely changing content)
+export const revalidate = 86400;
 
 export const metadata: Metadata = {
   title: 'About Us | IPO Insight',
