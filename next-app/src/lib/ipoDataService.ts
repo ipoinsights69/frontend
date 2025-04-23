@@ -303,4 +303,22 @@ function getSampleLosingIPOs(limit: number): IPOSummary[] {
   ];
   
   return sampleIPOs.slice(0, limit);
-} 
+}
+
+// Search for IPOs by name or company name
+export const searchIPOs = (query: string, limit = 10): IPOSummary[] => {
+  if (!query || query.trim().length < 2) {
+    return [];
+  }
+  
+  const searchTerm = query.toLowerCase().trim();
+  const allIpos = readJsonFile('output/all_ipos_meta.json') || [];
+  
+  return allIpos
+    .filter((ipo: IPOSummary) => {
+      const companyName = ipo.company_name.toLowerCase();
+      const ipoName = ipo.ipo_name.toLowerCase();
+      return companyName.includes(searchTerm) || ipoName.includes(searchTerm);
+    })
+    .slice(0, limit);
+}; 
