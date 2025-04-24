@@ -427,6 +427,73 @@ This service handles fetching and processing detailed IPO information:
 - `getRelatedIPOs(id)`: Finds IPOs related to the specified IPO
 - `getAllIPOIds()`: Gets a list of all IPO IDs for generating static paths
 
+## Feature: IPO Allotment Status Checking
+
+The application includes a comprehensive IPO allotment status checking feature that allows users to verify whether they have been allotted shares in an IPO they applied for.
+
+### Components
+
+The allotment status feature consists of the following components:
+
+- `AllotmentPage`: The main page component that loads the IPO data and renders the form and help components
+- `AllotmentForm`: A form component that allows users to check their allotment status using three different methods:
+  - Application Number
+  - PAN
+  - Demat Account (DP ID & Client ID)
+- `AllotmentHelp`: A component that provides detailed instructions on how to find and use each identification method
+
+### File Structure
+
+```
+src/app/ipo/[id]/allotment/
+├── page.tsx                  # Main allotment page component
+└── components/               # Allotment-related components
+    ├── AllotmentForm.tsx     # Form for checking allotment status
+    └── AllotmentHelp.tsx     # Help guide for finding application details
+```
+
+### Data Flow
+
+1. User navigates to an IPO's allotment page (`/ipo/[id]/allotment`)
+2. The page fetches the IPO data using the `fetchIPOById()` function
+3. User enters their details (application number, PAN, or demat account)
+4. On submission, the form sends the data to the backend (currently mocked for development)
+5. Results are displayed showing whether shares were allotted and related details
+
+### Allotment Results Schema
+
+The allotment results include comprehensive information:
+
+```typescript
+interface AllotmentResult {
+  status: 'success' | 'not_found';
+  name?: string;
+  applicationNumber?: string;
+  pan?: string;
+  category?: string;
+  bidDetails?: Array<{
+    bidPrice: number;
+    quantity: number;
+    allotted: number;
+  }>;
+  accountDebit?: string;
+  refundAmount?: string;
+  refundDate?: string;
+  sharesCredit?: {
+    date: string;
+    quantity: number;
+    depositoryParticipant: string;
+  };
+}
+```
+
+### Feature Roadmap
+
+- Integrate with actual registrar APIs to fetch real allotment data
+- Add SMS notifications for allotment status
+- Implement allotment analytics to show success rates by category and lot size
+- Add ability to track multiple applications across different IPOs
+
 ## UI Components
 
 The application has several key components:

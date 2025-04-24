@@ -1,6 +1,11 @@
 import fs from 'fs';
 import path from 'path';
 
+// Helper function to sanitize filenames
+function sanitizeFilename(filename: string): string {
+  return filename.replace(/[^a-z0-9_]/gi, '_').toLowerCase();
+}
+
 export interface IPODetailedData {
   ipo_id: string;
   original_ipo_id: string;
@@ -48,6 +53,12 @@ export interface IPODetailedData {
   logo_url?: string;
   market_maker?: string;
   registrar_name?: string;
+  registrarDetails?: {
+    name: string;
+    website?: string;
+    email?: string;
+    phone?: string;
+  };
   about?: string;
   business_segments?: Array<{
     name: string;
@@ -203,54 +214,120 @@ export interface IPODetailedData {
 
 export async function getIPOById(id: string): Promise<IPODetailedData | null> {
   try {
-    // First try to find the year from the id (usually starts with year_)
-    let year = '';
-    const yearMatch = id.match(/^(\d{4})_/);
-    if (yearMatch) {
-      year = yearMatch[1];
-    } else {
-      // If no year prefix, try to find the IPO in all_ipos_meta.json
-      const allIposMetaPath = path.join(process.cwd(), 'output', 'all_ipos_meta.json');
-      const allIposMetaContent = fs.readFileSync(allIposMetaPath, 'utf8');
-      const allIposMeta = JSON.parse(allIposMetaContent);
-      
-      const ipoMeta = allIposMeta.find((ipo: any) => ipo.ipo_id === id);
-      if (ipoMeta) {
-        year = ipoMeta.year.toString();
-      } else {
-        return null;
+    const sanitizedId = sanitizeFilename(id);
+    let data: any = {};
+    let allYears = ['2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'];
+    let fileFound = false;
+    
+    // First check if the exact id exists in any of the year folders
+    for (const year of allYears) {
+      const filePath = path.join(process.cwd(), `output/raw/${year}/raw_${sanitizedId}.json`);
+      if (fs.existsSync(filePath)) {
+        const fileContent = fs.readFileSync(filePath, 'utf-8');
+        data = JSON.parse(fileContent);
+        fileFound = true;
+        break;
       }
     }
-
-    // Find the raw IPO data file
-    const rawFilePath = path.join(process.cwd(), 'output', 'raw', year, `${id}.json`);
     
-    if (!fs.existsSync(rawFilePath)) {
+    // If not found, try to find a file that contains the ID
+    if (!fileFound) {
+      for (const year of allYears) {
+        const directoryPath = path.join(process.cwd(), `output/raw/${year}`);
+        if (fs.existsSync(directoryPath)) {
+          const files = fs.readdirSync(directoryPath);
+          
+          // Look for files that contain the id in their name
+          const matchingFile = files.find(file => 
+            file.includes(sanitizedId) && file.endsWith('.json')
+          );
+          
+          if (matchingFile) {
+            const filePath = path.join(directoryPath, matchingFile);
+            const fileContent = fs.readFileSync(filePath, 'utf-8');
+            data = JSON.parse(fileContent);
+            fileFound = true;
+            break;
+          }
+        }
+      }
+    }
+    
+    // If still not found, check for the exact filename without 'raw_' prefix
+    if (!fileFound) {
+      for (const year of allYears) {
+        const filePath = path.join(process.cwd(), `output/raw/${year}/${sanitizedId}.json`);
+        if (fs.existsSync(filePath)) {
+          const fileContent = fs.readFileSync(filePath, 'utf-8');
+          data = JSON.parse(fileContent);
+          fileFound = true;
+          break;
+        }
+      }
+    }
+    
+    if (!fileFound) {
+      console.error(`No IPO file found for ID: ${id}`);
       return null;
     }
-
-    const fileContent = fs.readFileSync(rawFilePath, 'utf8');
-    const ipoData = JSON.parse(fileContent);
     
-    // Determine which sections are available
-    const hasOverview = !!(ipoData.about || ipoData.business_segments || ipoData.competitive_strengths);
-    const hasFinancials = !!(ipoData.financials && (ipoData.financials.data || ipoData.financials.ratios));
-    const hasSubscription = !!(ipoData.subscription_details && ipoData.subscription_details.status);
-    const hasListingPerformance = !!(ipoData.listing_performance && ipoData.status === 'listed');
-    const hasDetails = !!(ipoData.details || ipoData.issue_type || ipoData.issue_size);
-    const hasFaqs = !!(ipoData.faqs && ipoData.faqs.length > 0);
-
+    // Set flags for available sections
+    const hasOverview = !!(data.about || data.business_segments);
+    const hasFinancials = !!(data.financials?.data && data.financials.data.length > 0);
+    const hasSubscription = !!(data.subscription_details || data.overall_subscription);
+    const hasListingPerformance = !!(data.listing_performance || data.listing_price);
+    const hasDetails = !!(data.details || data.issue_type);
+    const hasFaqs = !!(data.faqs && data.faqs.length > 0);
+    
+    // Map registrarDetails properly from all possible sources
+    let registrarDetails = null;
+    
+    // Check all possible sources for registrar information
+    if (data.registrarDetails) {
+      // Direct registrarDetails object
+      registrarDetails = data.registrarDetails;
+    } else if (data.registrar) {
+      // Registrar object
+      registrarDetails = {
+        name: data.registrar.name,
+        email: data.registrar.email,
+        website: data.registrar.website || null,
+        phone: data.registrar.phone || null
+      };
+    } else if (data.registrar_name) {
+      // Just registrar name field
+      registrarDetails = {
+        name: data.registrar_name,
+        email: null,
+        website: null,
+        phone: null
+      };
+    } else if (data.basicDetails?.registrar) {
+      // From basicDetails
+      registrarDetails = {
+        name: data.basicDetails.registrar,
+        email: null,
+        website: null,
+        phone: null
+      };
+    }
+    
+    console.log(`IPO ${id} registrarDetails:`, registrarDetails);
+    
+    // Return structured data with flags
     return {
-      ...ipoData,
+      ...data,
+      original_ipo_id: id,
+      registrarDetails,
       hasOverview,
       hasFinancials,
       hasSubscription,
       hasListingPerformance,
       hasDetails,
-      hasFaqs
+      hasFaqs: hasFaqs || false
     };
   } catch (error) {
-    console.error(`Error getting IPO by id ${id}:`, error);
+    console.error(`Error fetching IPO data for ${id}:`, error);
     return null;
   }
 }
