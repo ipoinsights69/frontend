@@ -6,13 +6,19 @@ import Link from 'next/link';
 import { formatDate } from '@/app/utils/dateUtils';
 import { getIPOById } from '@/lib/ipoDetailService';
 import { IPO } from '@/app/types/IPO';
-import { IconPlaceholder } from '@/components/IconPlaceholder';
+
+// Define the PageProps type for dynamic route params
+interface PageProps {
+  params: {
+    id: string;
+  };
+}
 
 // Set revalidation time to 1 hour (3600 seconds)
 export const revalidate = 3600;
 
 // Function to convert IPODetailedData to IPO
-const mapToIPO = (ipoDetailedData: any): IPO => {
+const mapToIPO = (ipoDetailedData: Record<string, any>): IPO => {
   // Debug logging
   console.log('Raw IPO Detailed Data keys:', Object.keys(ipoDetailedData));
   console.log('Company Name:', ipoDetailedData.company_name);
@@ -41,7 +47,7 @@ const mapToIPO = (ipoDetailedData: any): IPO => {
         return date.toISOString().split('T')[0];
       }
       return dateStr;
-    } catch (e) {
+    } catch (_) {
       return dateStr;
     }
   };
@@ -107,7 +113,7 @@ const mapToIPO = (ipoDetailedData: any): IPO => {
   };
 };
 
-export async function generateMetadata({ params }: { params: { id: string } }) {
+export async function generateMetadata({ params }: PageProps) {
   const ipoData = await getIPOById(params.id);
   
   if (!ipoData) {
@@ -123,7 +129,7 @@ export async function generateMetadata({ params }: { params: { id: string } }) {
   };
 }
 
-export default async function AllotmentPage({ params }: { params: { id: string } }) {
+export default async function AllotmentPage({ params }: PageProps) {
   const ipoDetailedData = await getIPOById(params.id);
   
   if (!ipoDetailedData) {
@@ -229,7 +235,7 @@ export default async function AllotmentPage({ params }: { params: { id: string }
                       <ol className="list-decimal list-inside space-y-1 text-sm text-gray-600 ml-1">
                         <li>Select the IPO name from the dropdown</li>
                         <li>Enter your 10-digit PAN number (e.g., ABCDE1234F)</li>
-                        <li>Click on "Check Allotment Status"</li>
+                        <li>Click on &quot;Check Allotment Status&quot;</li>
                         <li>Your allotment status will be displayed instantly</li>
                       </ol>
                       <div className="mt-2 text-xs text-gray-500">
@@ -250,7 +256,7 @@ export default async function AllotmentPage({ params }: { params: { id: string }
                       <ol className="list-decimal list-inside space-y-1 text-sm text-gray-600 ml-1">
                         <li>Select the IPO name from the dropdown</li>
                         <li>Enter your application number from your IPO application receipt</li>
-                        <li>Click on "Check Allotment Status"</li>
+                        <li>Click on &quot;Check Allotment Status&quot;</li>
                         <li>The status of that specific application will be displayed</li>
                       </ol>
                       <div className="mt-2 text-xs text-gray-500">
@@ -272,7 +278,7 @@ export default async function AllotmentPage({ params }: { params: { id: string }
                         <li>Select the IPO name from the dropdown</li>
                         <li>Enter your Depository Participant ID (DPID)</li>
                         <li>Enter your Client ID</li>
-                        <li>Click on "Check Allotment Status"</li>
+                        <li>Click on &quot;Check Allotment Status&quot;</li>
                         <li>All applications made with that demat account will be displayed</li>
                       </ol>
                       <div className="mt-2 text-xs text-gray-500">
@@ -383,7 +389,7 @@ export default async function AllotmentPage({ params }: { params: { id: string }
                     )}
                     
                     <div className="text-sm text-gray-600 pt-2 mt-2 border-t border-gray-100">
-                      Visit the registrar's website to check your IPO allotment status directly.
+                      Visit the registrar&apos;s website to check your IPO allotment status directly.
                     </div>
                   </div>
                 ) : (
@@ -451,7 +457,7 @@ export default async function AllotmentPage({ params }: { params: { id: string }
             {/* Need Help Card */}
             <div className="bg-blue-50 border border-blue-200 rounded-md p-4">
               <h3 className="text-sm font-medium text-blue-800 mb-2">Need Help?</h3>
-              <p className="text-sm text-blue-700 mb-3">If you're having trouble checking your IPO allotment status, our support team is here to help.</p>
+              <p className="text-sm text-blue-700 mb-3">If you&apos;re having trouble checking your IPO allotment status, our support team is here to help.</p>
               <a href="#" className="text-sm text-blue-600 hover:text-blue-800 flex items-center">
                 <i className="fas fa-headset mr-1.5"></i>
                 Contact Support

@@ -3,7 +3,7 @@
 import React from 'react';
 import { formatDate } from '@/app/utils/dateUtils';
 import { IPO } from '@/app/types/IPO';
-import { format, isPast, parseISO, isToday } from 'date-fns';
+import { isToday } from 'date-fns';
 
 interface IPOTimelineProps {
   ipoData: IPO;
@@ -23,7 +23,7 @@ const TimelineStep: React.FC<{
   status: 'completed' | 'active' | 'upcoming';
   index: number;
   totalSteps: number; 
-}> = ({ type, date, status, index, totalSteps }) => {
+}> = ({ type, date, status }) => {
   return (
     <div className="flex flex-col items-center">
       <div 
@@ -73,7 +73,7 @@ export default function IPOTimeline({ ipoData }: IPOTimelineProps) {
       // Handle formats like "Wed, Nov 6, 2024"
       const match = dateStr.match(/[a-zA-Z]+,\s*([a-zA-Z]+)\s*(\d+),\s*(\d+)/);
       if (match) {
-        const [_, month, day, year] = match;
+        const [, month, day, year] = match;
         const monthMap: {[key: string]: number} = {
           'Jan': 0, 'Feb': 1, 'Mar': 2, 'Apr': 3, 'May': 4, 'Jun': 5,
           'Jul': 6, 'Aug': 7, 'Sep': 8, 'Oct': 9, 'Nov': 10, 'Dec': 11
@@ -104,7 +104,7 @@ export default function IPOTimeline({ ipoData }: IPOTimelineProps) {
       if (isNaN(date.getTime())) {
         const match = dateStr.match(/[a-zA-Z]+,\s*([a-zA-Z]+)\s*(\d+),\s*(\d+)/);
         if (match) {
-          const [_, month, day, year] = match;
+          const [, month, day, year] = match;
           const monthMap: {[key: string]: number} = {
             'Jan': 0, 'Feb': 1, 'Mar': 2, 'Apr': 3, 'May': 4, 'Jun': 5,
             'Jul': 6, 'Aug': 7, 'Sep': 8, 'Oct': 9, 'Nov': 10, 'Dec': 11
@@ -135,7 +135,7 @@ export default function IPOTimeline({ ipoData }: IPOTimelineProps) {
       if (isNaN(date.getTime())) {
         const match = dateStr.match(/[a-zA-Z]+,\s*([a-zA-Z]+)\s*(\d+),\s*(\d+)/);
         if (match) {
-          const [_, month, day, year] = match;
+          const [, month, day, year] = match;
           const monthMap: {[key: string]: number} = {
             'Jan': 0, 'Feb': 1, 'Mar': 2, 'Apr': 3, 'May': 4, 'Jun': 5,
             'Jul': 6, 'Aug': 7, 'Sep': 8, 'Oct': 9, 'Nov': 10, 'Dec': 11
@@ -246,94 +246,72 @@ export default function IPOTimeline({ ipoData }: IPOTimelineProps) {
       return { ...step, status };
     });
 
-  // Add fake data for testing if needed
-  if (processedSteps.length === 0 && ipoData.status === 'listed') {
-    processedSteps.push({
-      type: 'Listing',
-      date: new Date().toISOString().split('T')[0],
-      icon: 'fa-chart-line',
-      status: 'completed'
-    });
-  }
-
-  // Debug: log all processed steps
-  console.log('Processed steps:', processedSteps.map(s => ({ type: s.type, date: s.date, status: s.status })));
-  console.log('IPO status:', ipoData.status);
-  
-  // Force completion of the Listing step and fix the progress bar calculation
-  processedSteps.forEach((step, index) => {
-    // Force all steps to completed if all dates are in the past
-    const stepDate = step.date ? new Date(step.date) : null;
-    if (stepDate && stepDate <= currentDate) {
-      step.status = 'completed';
-      console.log(`Force completed for ${step.type} because ${stepDate} <= ${currentDate}`);
-    }
-    
-    // Always mark earlier steps as completed if later steps are completed
-    if (index > 0 && processedSteps[index-1].status !== 'completed') {
-      const prevStep = processedSteps[index-1];
-      const currentStepCompleted = step.status === 'completed';
-      if (currentStepCompleted) {
-        prevStep.status = 'completed';
-        console.log(`Force completed for ${prevStep.type} because ${step.type} is completed`);
-      }
-    }
-  });
-  
-  // As a final sanity check, force the Listing step to be completed for specific IPO statuses
-  const listingStep = processedSteps.find(step => step.type === 'Listing');
-  if (listingStep) {
-    if (ipoData.status === 'listed' || listingDatePassed) {
-      listingStep.status = 'completed';
-      console.log('Forcing Listing step to completed as final check');
-    }
-  }
-  
-  // Calculate progress percentage based on completed steps
-  const completedSteps = processedSteps.filter(step => step.status === 'completed').length;
-  const progressPercentage = processedSteps.length > 0 
-    ? (completedSteps / processedSteps.length) * 100
-    : 0;
-
-  return (
-    <section className="bg-white border-b border-gray-200 py-6 px-4 max-w-7xl mx-auto">
-      <div className="flex items-center justify-between mb-6">
-        <h2 className="text-base font-medium text-gray-800">{ipoData.companyName || 'IPO'} Timeline</h2>
-        <span className={`text-xs font-medium px-2.5 py-0.5 rounded-full ${
-          ipoData.status === 'upcoming' ? 'bg-blue-50 text-blue-600' :
-          ipoData.status === 'open' ? 'bg-green-50 text-green-600' :
-          ipoData.status === 'closed' ? 'bg-yellow-50 text-yellow-600' :
-          ipoData.status === 'listed' ? 'bg-green-50 text-green-600' :
-          'bg-gray-50 text-gray-600'
-        }`}>
-          {ipoData.status ? ipoData.status.charAt(0).toUpperCase() + ipoData.status.slice(1) : 'Unknown'}
-        </span>
-      </div>
-      
-      <div className="relative">
-        {/* Gray background line */}
-        <div className="absolute top-2 left-0 right-0 h-0.5 bg-gray-200 z-0"></div>
-        
-        {/* Blue progress line */}
-        <div 
-          className="absolute top-2 left-0 h-0.5 bg-blue-600 z-10 transition-all duration-300" 
-          style={{ width: `${progressPercentage}%` }}
-        ></div>
-        
-        {/* Timeline steps */}
-        <div className="grid grid-cols-6 relative z-20">
-          {processedSteps.map((step, index) => (
-            <TimelineStep
-              key={index}
-              type={step.type}
-              date={step.date}
-              status={step.status}
-              index={index}
-              totalSteps={processedSteps.length}
-            />
-          ))}
-        </div>
-      </div>
-    </section>
-  );
+    return (
+        <section className="bg-white py-6 border-b border-gray-200">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-lg font-semibold text-gray-800 mb-6 flex items-center">
+              <i className="fas fa-calendar-alt text-blue-600 mr-2"></i>
+              IPO Timeline
+            </h2>
+            
+            <div className="relative">
+              {/* Connecting line */}
+              <div className="absolute top-2.5 left-0 right-0 h-0.5 bg-gray-200"></div>
+              
+              {/* Timeline steps */}
+              <div className="relative grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+                {processedSteps.map((step, index) => (
+                  <TimelineStep 
+                    key={step.type}
+                    type={step.type}
+                    date={step.date}
+                    status={step.status}
+                    index={index}
+                    totalSteps={processedSteps.length}
+                  />
+                ))}
+              </div>
+            </div>
+            
+            {/* Current status */}
+            <div className="mt-8 pt-4 border-t border-gray-100">
+              <div className="flex flex-wrap items-center">
+                <span className="text-sm font-medium text-gray-700 mr-2">Current Status:</span>
+                <span className={`text-sm font-medium px-2 py-0.5 rounded-full ${
+                  ipoData.status === 'listed' 
+                    ? 'bg-green-50 text-green-700' 
+                    : ipoData.status === 'closed' 
+                      ? 'bg-purple-50 text-purple-700'
+                      : ipoData.status === 'open'
+                        ? 'bg-blue-50 text-blue-700'
+                        : 'bg-yellow-50 text-yellow-700'
+                }`}>
+                  {ipoData.status === 'listed' 
+                    ? 'Listed' 
+                    : ipoData.status === 'closed'
+                      ? 'Allotment In Progress'
+                      : ipoData.status === 'open'
+                        ? 'Open For Subscription'
+                        : 'Upcoming'}
+                </span>
+                
+                {ipoData.status === 'listed' && (
+                  <div className="ml-auto text-xs flex items-center">
+                    <span className="text-gray-600 mr-1.5">Listed on</span>
+                    <span className="font-medium">{formatDate(ipoData.listingDate || '')}</span>
+                    <span className={`ml-1.5 ${ipoData.listingGainPercentage && ipoData.listingGainPercentage > 0 ? 'text-green-600' : 'text-red-600'}`}>
+                      {ipoData.listingGainPercentage && (
+                        <>(
+                          {ipoData.listingGainPercentage > 0 ? '+' : ''}
+                          {ipoData.listingGainPercentage}%
+                        )</>
+                      )}
+                    </span>
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+        </section>
+      );
 } 
