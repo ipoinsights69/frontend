@@ -91,7 +91,7 @@ const IPOCard: React.FC<IPOCardProps> = ({ ipo }) => {
         </div>
         <div>
           <h3 className="font-medium text-gray-900">{ipo.companyName}</h3>
-          {/* <p className="text-xs text-gray-500 truncate max-w-xs">{ipo.symbol || ipo.industry || ''}</p> */}
+          <p className="text-xs text-gray-500 truncate max-w-xs">{ipo.symbol || ipo.industry || ''}</p>
         </div>
       </div>
       <div className="col-span-3 px-6 py-4 flex items-center text-sm text-gray-600">

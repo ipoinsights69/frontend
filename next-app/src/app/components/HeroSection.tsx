@@ -75,7 +75,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({
             />
           </div>
         </div>
-        <br></br><br></br>
+        
         {/* IPO Market Stats */}
         <IPOStats stats={stats} />
       </div>

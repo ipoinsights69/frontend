@@ -85,7 +85,7 @@ export default function HomeIPOShowcase({
     <div className="py-12 bg-gradient-to-b from-white to-gray-50">
       <div className="container mx-auto px-4 max-w-7xl">
         {/* Market Stats Banner */}
-        {/* <div className="bg-blue-600 rounded-xl p-6 mb-12 shadow-lg text-white">
+        <div className="bg-blue-600 rounded-xl p-6 mb-12 shadow-lg text-white">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div>
               <h2 className="text-2xl font-bold mb-2">IPO Market Pulse</h2>
@@ -110,7 +110,7 @@ export default function HomeIPOShowcase({
               </div>
             </div>
           </div>
-        </div> */}
+        </div>
 
         {/* Upcoming IPOs Section - Completely Revamped */}
         <section className="mb-16">

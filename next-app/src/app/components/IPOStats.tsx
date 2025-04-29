@@ -16,31 +16,8 @@ interface IPOStatsProps {
   stats: IPOStatsData;
 }
 
-// Function to format numbers with commas
-const formatNumber = (num: number | undefined): string => {
-  return (num || 0).toLocaleString();
-};
-
 const IPOStats: React.FC<IPOStatsProps> = ({ stats }) => {
   const currentYear = stats.currentYear || new Date().getFullYear();
-  
-  // Extract values from stats, using direct mapping to current_year_summary
-  const totalIPOs = stats.totalIPOs || 0;
-  const openIPOs = stats.activeCount || 0;
-  const upcomingIPOs = stats.upcomingCount || 0;
-  const listedIPOs = stats.listedIPOs || 0;
-  const closedIPOs = stats.closedIPOs || 0;
-  const totalRaisedCrore = stats.totalRaisedCrore || 0;
-  
-  // Log values for debugging
-  console.log('IPO Stats:', { 
-    totalIPOs, 
-    openIPOs, 
-    upcomingIPOs, 
-    listedIPOs, 
-    closedIPOs, 
-    totalRaisedCrore 
-  });
   
   return (
     <div className="mt-12">
@@ -54,7 +31,7 @@ const IPOStats: React.FC<IPOStatsProps> = ({ stats }) => {
         <div className="bg-white border border-gray-200 rounded-lg p-5 flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow">
           <div className="text-sm font-medium text-gray-500 mb-2 text-center">Total IPOs</div>
           <div className="text-3xl font-bold text-gray-900">
-            {formatNumber(totalIPOs)}
+            {stats.totalIPOs || 0}
           </div>
           <div className="mt-2 text-blue-600 flex items-center text-sm">
             <FontAwesomeIcon icon={faChartLine} className="w-3 h-3 mr-1" />
@@ -66,7 +43,7 @@ const IPOStats: React.FC<IPOStatsProps> = ({ stats }) => {
         <div className="bg-white border border-gray-200 rounded-lg p-5 flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow">
           <div className="text-sm font-medium text-gray-500 mb-2 text-center">Open IPOs</div>
           <div className="text-3xl font-bold text-green-600">
-            {formatNumber(openIPOs)}
+            {stats.activeCount || 0}
           </div>
           <div className="mt-2 text-green-600 flex items-center text-sm">
             <FontAwesomeIcon icon={faCalendarCheck} className="w-3 h-3 mr-1" />
@@ -78,7 +55,7 @@ const IPOStats: React.FC<IPOStatsProps> = ({ stats }) => {
         <div className="bg-white border border-gray-200 rounded-lg p-5 flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow">
           <div className="text-sm font-medium text-gray-500 mb-2 text-center">Upcoming IPOs</div>
           <div className="text-3xl font-bold text-blue-600">
-            {formatNumber(upcomingIPOs)}
+            {stats.upcomingCount || 0}
           </div>
           <div className="mt-2 text-blue-600 flex items-center text-sm">
             <FontAwesomeIcon icon={faListCheck} className="w-3 h-3 mr-1" />
@@ -90,7 +67,7 @@ const IPOStats: React.FC<IPOStatsProps> = ({ stats }) => {
         <div className="bg-white border border-gray-200 rounded-lg p-5 flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow">
           <div className="text-sm font-medium text-gray-500 mb-2 text-center">Listed IPOs</div>
           <div className="text-3xl font-bold text-gray-900">
-            {formatNumber(listedIPOs)}
+            {stats.listedIPOs || 0}
           </div>
           <div className="mt-2 text-gray-600 flex items-center text-sm">
             <FontAwesomeIcon icon={faCheckCircle} className="w-3 h-3 mr-1" />
@@ -102,7 +79,7 @@ const IPOStats: React.FC<IPOStatsProps> = ({ stats }) => {
         <div className="bg-white border border-gray-200 rounded-lg p-5 flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow">
           <div className="text-sm font-medium text-gray-500 mb-2 text-center">Closed IPOs</div>
           <div className="text-3xl font-bold text-gray-600">
-            {formatNumber(closedIPOs)}
+            {stats.closedIPOs || 0}
           </div>
           <div className="mt-2 text-gray-600 flex items-center text-sm">
             <FontAwesomeIcon icon={faBuilding} className="w-3 h-3 mr-1" />
@@ -114,7 +91,7 @@ const IPOStats: React.FC<IPOStatsProps> = ({ stats }) => {
         <div className="bg-white border border-gray-200 rounded-lg p-5 flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow">
           <div className="text-sm font-medium text-gray-500 mb-2 text-center">Total Raised</div>
           <div className="text-3xl font-bold text-green-600">
-            ₹{formatNumber(totalRaisedCrore)}
+            ₹{(stats.totalRaisedCrore || 0).toLocaleString()}
           </div>
           <div className="mt-2 text-green-600 flex items-center text-sm">
             <FontAwesomeIcon icon={faMoneyBillTrendUp} className="w-3 h-3 mr-1" />
