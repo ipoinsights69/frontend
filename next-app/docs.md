@@ -191,7 +191,7 @@ This documentation provides a comprehensive overview of all components, pages, a
 ### IPO Data Retrieval
 1. **Server Component Initialization**:
    - Page component (e.g., `src/app/ipo/[id]/page.tsx`) is requested
-   - Server fetches data using `getIPOById` function from `ipoDetailService.ts`
+   - Server fetches data using `fetchDetailedIPOById` function from `src/app/api/ipos/handlers.ts`
 
 2. **Client Component Hydration**:
    - Data is passed to client components (e.g., `IPODetailClientPage.tsx`)
@@ -260,3 +260,22 @@ The application reads data from JSON files in the `/output` directory:
 - `status/*.json`: IPOs categorized by status
 - `performance/*.json`: IPOs categorized by performance
 - `raw/YYYY/*.json`: Detailed data files for each IPO 
+
+#### API Handlers
+- **Path**: `src/app/api/ipos/handlers.ts`
+- Provides API functions for retrieving IPO data
+- Key functions:
+  - `fetchTrendingIPOs()`: Returns best-performing IPOs
+  - `fetchUpcomingIPOs()`: Returns upcoming IPOs
+  - `fetchRecentlyListedIPOs()`: Returns recently listed IPOs
+  - `fetchDetailedIPOById(id)`: Returns detailed information for a specific IPO
+  - `fetchRelatedIPOs(id)`: Returns IPOs related to the specified IPO
+  - Many other data fetching utilities
+
+#### Types
+- **Path**: `src/app/types/IPO.ts`
+- Contains type definitions for IPO data structures
+- Main types:
+  - `IPO`: Basic IPO interface
+  - `IPODetailedData`: Extended interface for detailed IPO information
+  - `IPOStats`: Interface for IPO market statistics 

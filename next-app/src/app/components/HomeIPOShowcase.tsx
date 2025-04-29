@@ -1,14 +1,14 @@
 "use client"
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { IPOSummary } from '@/lib/ipoDataService';
+import { IPO } from '@/app/types/IPO';
 
 interface HomeIPOShowcaseProps {
-  upcomingIPOs: IPOSummary[];
-  topPerformingIPOs: IPOSummary[];
-  topLosingIPOs: IPOSummary[];
-  recentlyListedIPOs: IPOSummary[];
-  closedIPOs: IPOSummary[];
+  upcomingIPOs: IPO[];
+  topPerformingIPOs: IPO[];
+  topLosingIPOs: IPO[];
+  recentlyListedIPOs: IPO[];
+  closedIPOs: IPO[];
 }
 
 export default function HomeIPOShowcase({
@@ -62,6 +62,23 @@ export default function HomeIPOShowcase({
     fundingRaised: "₹52,843 Cr",
     upcomingCount: 8,
     currentMonth: "April 2025"
+  };
+
+  // Helper function to format price
+  const formatPrice = (ipo: IPO) => {
+    if (ipo.priceRange) {
+      return `₹${ipo.priceRange.min}-₹${ipo.priceRange.max}`;
+    }
+    if (ipo.cutOffPrice) {
+      return `₹${ipo.cutOffPrice}`;
+    }
+    return 'N/A';
+  };
+
+  // Format date display
+  const formatDate = (dateString?: string) => {
+    if (!dateString) return 'N/A';
+    return new Date(dateString).toLocaleDateString('en-US', { day: '2-digit', month: 'short' });
   };
 
   return (
@@ -140,7 +157,7 @@ export default function HomeIPOShowcase({
             {upcomingIPOs.slice(0, 3).map((ipo, index) => (
               <Link 
                 key={index}
-                href={`/ipo/${ipo.ipo_id}`}
+                href={`/ipo/${ipo.id}`}
                 className="group block bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md transition-all duration-300 overflow-hidden"
               >
                 <div className="relative">
@@ -157,11 +174,11 @@ export default function HomeIPOShowcase({
                           index % 3 === 0 ? 'bg-blue-500' : 
                           index % 3 === 1 ? 'bg-purple-500' : 'bg-green-500'
                         }`}>
-                          {ipo.company_name.charAt(0)}
+                          {ipo.companyName.charAt(0)}
                         </div>
                         <div>
-                          <h3 className="text-lg font-bold text-gray-900 group-hover:text-blue-600 transition-colors">{ipo.company_name}</h3>
-                          <p className="text-sm text-gray-600">{ipo.ipo_name}</p>
+                          <h3 className="text-lg font-bold text-gray-900 group-hover:text-blue-600 transition-colors">{ipo.companyName}</h3>
+                          <p className="text-sm text-gray-600">{ipo.symbol || ''}</p>
                         </div>
                       </div>
                       <div className="flex flex-col items-end">
@@ -178,28 +195,28 @@ export default function HomeIPOShowcase({
                       <div>
                         <div className="text-xs text-gray-500">Price Band</div>
                         <div className="font-semibold text-gray-900">
-                          {ipo.issue_price || (index === 0 ? '₹450-₹475' : index === 1 ? '₹135-₹142' : '₹980-₹1,030')}
+                          {formatPrice(ipo)}
                         </div>
                       </div>
                       
                       <div>
                         <div className="text-xs text-gray-500">Issue Size</div>
                         <div className="font-semibold text-gray-900">
-                          {ipo.issue_size || (index === 0 ? '₹1,200 Cr' : index === 1 ? '₹218 Cr' : '₹3,500 Cr')}
+                          {ipo.issueSize ? `₹${ipo.issueSize} Cr` : 'N/A'}
                         </div>
                       </div>
                       
                       <div>
                         <div className="text-xs text-gray-500">Lot Size</div>
                         <div className="font-semibold text-gray-900">
-                          {index === 0 ? '30 Shares' : index === 1 ? '1,000 Shares' : '13 Shares'}
+                          {ipo.lotSize ? `${ipo.lotSize} Shares` : 'N/A'}
                         </div>
                       </div>
                       
                       <div>
                         <div className="text-xs text-gray-500">Min. Investment</div>
                         <div className="font-semibold text-gray-900">
-                          {index === 0 ? '₹14,250' : index === 1 ? '₹142,000' : '₹13,390'}
+                          {ipo.lotSize && ipo.priceRange ? `₹${ipo.lotSize * ipo.priceRange.max}` : 'N/A'}
                         </div>
                       </div>
                     </div>
@@ -209,17 +226,11 @@ export default function HomeIPOShowcase({
                         <div className="text-xs text-gray-500 mb-1">IPO Timeline</div>
                         <div className="flex items-center space-x-1 text-xs">
                           <span className="px-2 py-0.5 bg-gray-100 rounded">
-                            {ipo.opening_date 
-                              ? new Date(ipo.opening_date).toLocaleDateString() 
-                              : index === 0 ? '23 Apr' : index === 1 ? '25 Apr' : '29 Apr'
-                            }
+                            {formatDate(ipo.openDate)}
                           </span>
                           <span>to</span>
                           <span className="px-2 py-0.5 bg-gray-100 rounded">
-                            {ipo.closing_date 
-                              ? new Date(ipo.closing_date).toLocaleDateString() 
-                              : index === 0 ? '25 Apr' : index === 1 ? '29 Apr' : '2 May'
-                            }
+                            {formatDate(ipo.closeDate)}
                           </span>
                         </div>
                       </div>
@@ -284,21 +295,18 @@ export default function HomeIPOShowcase({
                   {topPerformingIPOs.slice(0, 5).map((ipo, index) => (
                     <tr key={index} className="hover:bg-gray-50 transition-colors">
                       <td className="px-4 py-3 whitespace-nowrap">
-                        <div className="font-medium text-gray-900">{ipo.company_name}</div>
+                        <div className="font-medium text-gray-900">{ipo.companyName}</div>
                         <div className="text-xs text-gray-500">{index % 2 === 0 ? 'Mainboard' : 'SME'}</div>
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-                        {ipo.issue_price || (index === 0 ? '₹900' : index === 1 ? '₹72' : index === 2 ? '₹340' : index === 3 ? '₹210' : '₹118')}
+                        {formatPrice(ipo)}
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-                        {ipo.current_price || (index === 0 ? '₹2,340' : index === 1 ? '₹165' : index === 2 ? '₹720' : index === 3 ? '₹410' : '₹228')}
+                        {ipo.priceRange ? `₹${(ipo.priceRange.max * (1 + (ipo.listingGainPercentage || 0) / 100)).toFixed(0)}` : 'N/A'}
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap">
                         <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800">
-                          <svg xmlns="http://www.w3.org/2000/svg" className="h-3 w-3 mr-1" viewBox="0 0 20 20" fill="currentColor">
-                            <path fillRule="evenodd" d="M12 7a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0V8.414l-4.293 4.293a1 1 0 01-1.414 0L8 10.414l-4.293 4.293a1 1 0 01-1.414-1.414l5-5a1 1 0 011.414 0L11 10.586 14.586 7H12z" clipRule="evenodd" />
-                          </svg>
-                          +{ipo.gain_percentage || (index === 0 ? '160' : index === 1 ? '129' : index === 2 ? '112' : index === 3 ? '95' : '93')}%
+                          {ipo.listingGainPercentage ? `+${ipo.listingGainPercentage.toFixed(1)}%` : 'N/A'}
                         </span>
                       </td>
                     </tr>
@@ -340,21 +348,18 @@ export default function HomeIPOShowcase({
                   {topLosingIPOs.slice(0, 5).map((ipo, index) => (
                     <tr key={index} className="hover:bg-gray-50 transition-colors">
                       <td className="px-4 py-3 whitespace-nowrap">
-                        <div className="font-medium text-gray-900">{ipo.company_name}</div>
+                        <div className="font-medium text-gray-900">{ipo.companyName}</div>
                         <div className="text-xs text-gray-500">{index % 2 === 0 ? 'SME' : 'Mainboard'}</div>
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-                        {ipo.issue_price || (index === 0 ? '₹186' : index === 1 ? '₹542' : index === 2 ? '₹91' : index === 3 ? '₹326' : '₹78')}
+                        {formatPrice(ipo)}
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-                        {ipo.current_price || (index === 0 ? '₹74' : index === 1 ? '₹238' : index === 2 ? '₹41' : index === 3 ? '₹163' : '₹41')}
+                        {ipo.priceRange ? `₹${(ipo.priceRange.max * (1 + (ipo.listingGainPercentage || 0) / 100)).toFixed(0)}` : 'N/A'}
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap">
                         <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-red-100 text-red-800">
-                          <svg xmlns="http://www.w3.org/2000/svg" className="h-3 w-3 mr-1" viewBox="0 0 20 20" fill="currentColor">
-                            <path fillRule="evenodd" d="M12 13a1 1 0 100 2h5a1 1 0 001-1V9a1 1 0 10-2 0v2.586l-4.293-4.293a1 1 0 00-1.414 0L8 9.586 3.707 5.293a1 1 0 00-1.414 1.414l5 5a1 1 0 001.414 0L11 9.414 14.586 13H12z" clipRule="evenodd" />
-                          </svg>
-                          -{ipo.loss_percentage || (index === 0 ? '60' : index === 1 ? '56' : index === 2 ? '55' : index === 3 ? '50' : '47')}%
+                          {ipo.listingGainPercentage && ipo.listingGainPercentage < 0 ? `-${Math.abs(ipo.listingGainPercentage).toFixed(1)}%` : 'N/A'}
                         </span>
                       </td>
                     </tr>
@@ -397,29 +402,26 @@ export default function HomeIPOShowcase({
                   {recentlyListedIPOs.slice(0, 5).map((ipo, index) => (
                     <tr key={index} className="hover:bg-gray-50 transition-colors">
                       <td className="px-4 py-3 whitespace-nowrap">
-                        <div className="font-medium text-gray-900">{ipo.company_name}</div>
+                        <div className="font-medium text-gray-900">{ipo.companyName}</div>
                         <div className="text-xs text-gray-500">{index % 2 === 0 ? 'Mainboard' : 'SME'}</div>
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-                        {ipo.listing_date 
-                          ? new Date(ipo.listing_date).toLocaleDateString() 
-                          : index === 0 ? '18 Apr 2025' : index === 1 ? '15 Apr 2025' : index === 2 ? '10 Apr 2025' : index === 3 ? '8 Apr 2025' : '3 Apr 2025'
-                        }
+                        {formatDate(ipo.listingDate)}
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-                        {ipo.issue_price || (index === 0 ? '₹430' : index === 1 ? '₹87' : index === 2 ? '₹275' : index === 3 ? '₹51' : '₹642')}
+                        {formatPrice(ipo)}
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-                        {ipo.listing_price || (index === 0 ? '₹512' : index === 1 ? '₹92' : index === 2 ? '₹268' : index === 3 ? '₹54' : '₹580')}
+                        {ipo.listingPrice ? `₹${ipo.listingPrice}` : 'N/A'}
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap">
                         {index === 0 || index === 1 || index === 3 ? (
                           <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800">
-                            +{index === 0 ? '19.1' : index === 1 ? '5.7' : '6.8'}%
+                            {ipo.listingGainPercentage ? `+${ipo.listingGainPercentage.toFixed(1)}%` : 'N/A'}
                           </span>
                         ) : (
                           <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-red-100 text-red-800">
-                            -{index === 2 ? '2.5' : '9.7'}%
+                            {ipo.listingGainPercentage && ipo.listingGainPercentage < 0 ? `-${Math.abs(ipo.listingGainPercentage).toFixed(1)}%` : 'N/A'}
                           </span>
                         )}
                       </td>
@@ -463,26 +465,20 @@ export default function HomeIPOShowcase({
                   {closedIPOs.slice(0, 5).map((ipo, index) => (
                     <tr key={index} className="hover:bg-gray-50 transition-colors">
                       <td className="px-4 py-3 whitespace-nowrap">
-                        <div className="font-medium text-gray-900">{ipo.company_name}</div>
-                        <div className="text-xs text-gray-500">{index % 2 === 0 ? 'SME' : 'Mainboard'}</div>
+                        <div className="font-medium text-gray-900">{ipo.companyName}</div>
+                        <div className="text-xs text-gray-500">{formatDate(ipo.closeDate)}</div>
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-                        {ipo.closing_date 
-                          ? new Date(ipo.closing_date).toLocaleDateString() 
-                          : index === 0 ? '16 Apr 2025' : index === 1 ? '12 Apr 2025' : index === 2 ? '8 Apr 2025' : index === 3 ? '4 Apr 2025' : '1 Apr 2025'
-                        }
+                        {formatDate(ipo.closeDate)}
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-                        {ipo.issue_size || (index === 0 ? '₹218 Cr' : index === 1 ? '₹1,420 Cr' : index === 2 ? '₹84 Cr' : index === 3 ? '₹10.17 Cr' : '₹2,500 Cr')}
+                        {ipo.issueSize ? `₹${ipo.issueSize} Cr` : 'N/A'}
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
                         {index === 0 ? '32.8x' : index === 1 ? '14.2x' : index === 2 ? '5.7x' : index === 3 ? '1.52x' : '68.3x'}
                       </td>
                       <td className="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-                        {ipo.listing_date 
-                          ? new Date(ipo.listing_date).toLocaleDateString() 
-                          : index === 0 ? '18 Apr 2025' : index === 1 ? '15 Apr 2025' : index === 2 ? '10 Apr 2025' : index === 3 ? '8 Apr 2025' : '3 Apr 2025'
-                        }
+                        {formatDate(ipo.listingDate)}
                       </td>
                     </tr>
                   ))}

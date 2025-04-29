@@ -4,15 +4,15 @@ import React from 'react';
 import Link from 'next/link';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChartLine, faClock, faCalendarAlt } from '@fortawesome/free-solid-svg-icons';
-import { IPOSummary, IPOStats as IPOStatsData } from '@/lib/ipoDataService';
+import { IPO, IPOStats as IPOStatsData } from '@/app/types/IPO';
 import IPOTabs from './IPOTabs';
 import IPOStats from './IPOStats';
 
 interface HeroSectionProps {
-  trendingIPOs: IPOSummary[];
-  upcomingIPOs: IPOSummary[];
-  recentIPOs: IPOSummary[];
-  closedIPOs: IPOSummary[];
+  trendingIPOs: IPO[];
+  upcomingIPOs: IPO[];
+  recentIPOs: IPO[];
+  closedIPOs: IPO[];
   stats: IPOStatsData;
 }
 

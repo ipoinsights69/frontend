@@ -2,29 +2,30 @@ import React from 'react';
 import HeroSection from './components/HeroSection';
 import HomeIPOShowcase from './components/HomeIPOShowcase';
 import { 
-  getTrendingIPOs, 
-  getUpcomingIPOs, 
-  getRecentlyListedIPOs, 
-  getClosedIPOs, 
-  getIPOStats,
-  getTopPerformingIPOs,
-  getTopLosingIPOs
-} from '@/lib/ipoDataService';
+  fetchTrendingIPOs, 
+  fetchUpcomingIPOs, 
+  fetchRecentlyListedIPOs, 
+  fetchClosedIPOs, 
+  fetchIPOStats
+} from '@/app/api/ipos/handlers';
 
 // Enable ISR with a revalidation period of 1 hour
 export const revalidate = 3600;
 
-export default function Home() {
+export default async function Home() {
   // Get data for the hero section
-  const trendingIPOs = getTrendingIPOs();
-  const upcomingIPOs = getUpcomingIPOs();
-  const recentIPOs = getRecentlyListedIPOs();
-  const closedIPOs = getClosedIPOs();
-  const stats = getIPOStats();
+  const trendingIPOs = await fetchTrendingIPOs();
+  const upcomingIPOs = await fetchUpcomingIPOs();
+  const recentIPOs = await fetchRecentlyListedIPOs();
+  const closedIPOs = await fetchClosedIPOs();
+  const stats = await fetchIPOStats();
   
-  // Get data for the IPO showcase section
-  const topPerformingIPOs = getTopPerformingIPOs();
-  const topLosingIPOs = getTopLosingIPOs();
+  // The top performing and losing IPOs are already in the trending and non-trending lists
+  const topPerformingIPOs = trendingIPOs;
+  // For losing IPOs, we can reverse the trending order
+  const topLosingIPOs = [...trendingIPOs].sort((a, b) => 
+    (a.listingGainPercentage || 0) - (b.listingGainPercentage || 0)
+  );
 
   return (
     <main>

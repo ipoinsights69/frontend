@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
-import { getUpcomingIPOs, getRecentlyListedIPOs, IPOSummary } from '@/lib/ipoDataService';
+import { fetchUpcomingIPOs, fetchRecentlyListedIPOs, fetchIPOsByStatus } from '@/app/api/ipos/handlers';
+import { IPO } from '@/app/types/IPO';
 import { formatDate } from '@/app/utils/dateUtils';
 
 // Set revalidation time to 1 hour (3600 seconds)
@@ -11,29 +12,17 @@ export const metadata = {
   description: 'Check the allotment status of your IPO applications instantly using your PAN, Application Number, or Demat Account details.'
 };
 
-// Mock function for open IPOs - in a real app, you would implement this in ipoDataService
-async function getOpenIPOs(): Promise<IPOSummary[]> {
-  // For now, return an empty array or some mock data
-  return [];
-}
-
-// Mock function for closed IPOs - in a real app, you would implement this in ipoDataService
-async function getClosedIPOs(): Promise<IPOSummary[]> {
-  // For now, return an empty array or some mock data
-  return [];
-}
-
 // Extended IPO type with allotment date
-interface ExtendedIPO extends IPOSummary {
-  allotment_date?: string;
+interface ExtendedIPO extends IPO {
+  allotmentDate?: string;
 }
 
 export default async function AllotmentPage() {
   // Get all IPOs by status
-  const upcomingIPOs = await getUpcomingIPOs();
-  const openIPOs = await getOpenIPOs();
-  const closedIPOs = await getClosedIPOs();
-  const listedIPOs = await getRecentlyListedIPOs(20);
+  const upcomingIPOs = await fetchUpcomingIPOs();
+  const openIPOs = await fetchIPOsByStatus('open');
+  const closedIPOs = await fetchIPOsByStatus('closed');
+  const listedIPOs = await fetchRecentlyListedIPOs(20);
   
   // Current date for display
   const currentDate = new Date();
@@ -98,17 +87,17 @@ export default async function AllotmentPage() {
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                 {listedIPOs.map((ipo) => (
                   <Link 
-                    href={`/ipo/${ipo.ipo_id}/allotment`} 
-                    key={ipo.ipo_id}
+                    href={`/ipo/${ipo.id}/allotment`} 
+                    key={ipo.id}
                     className="flex items-center p-3 bg-gray-50 rounded-md border border-gray-100 hover:bg-gray-100 transition-colors"
                   >
                     <div className="h-10 w-10 bg-blue-100 rounded-md flex items-center justify-center text-blue-600 font-semibold text-lg mr-3">
-                      {ipo.company_name.slice(0, 2).toUpperCase()}
+                      {ipo.companyName.slice(0, 2).toUpperCase()}
                     </div>
                     <div>
-                      <h3 className="text-sm font-medium text-gray-800">{ipo.company_name}</h3>
+                      <h3 className="text-sm font-medium text-gray-800">{ipo.companyName}</h3>
                       <p className="text-xs text-gray-500">
-                        Allotment Date: {(ipo as ExtendedIPO).allotment_date ? formatDate((ipo as ExtendedIPO).allotment_date || '') : 'TBA'}
+                        Allotment Date: {(ipo as ExtendedIPO).allotmentDate ? formatDate((ipo as ExtendedIPO).allotmentDate || '') : 'TBA'}
                       </p>
                     </div>
                     <div className="ml-auto">
@@ -132,17 +121,17 @@ export default async function AllotmentPage() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                   {closedIPOs.map((ipo) => (
                     <Link 
-                      href={`/ipo/${ipo.ipo_id}/allotment`} 
-                      key={ipo.ipo_id}
+                      href={`/ipo/${ipo.id}/allotment`} 
+                      key={ipo.id}
                       className="flex items-center p-3 bg-gray-50 rounded-md border border-gray-100 hover:bg-gray-100 transition-colors"
                     >
                       <div className="h-10 w-10 bg-yellow-100 rounded-md flex items-center justify-center text-yellow-600 font-semibold text-lg mr-3">
-                        {ipo.company_name.slice(0, 2).toUpperCase()}
+                        {ipo.companyName.slice(0, 2).toUpperCase()}
                       </div>
                       <div>
-                        <h3 className="text-sm font-medium text-gray-800">{ipo.company_name}</h3>
+                        <h3 className="text-sm font-medium text-gray-800">{ipo.companyName}</h3>
                         <p className="text-xs text-gray-500">
-                          Allotment Date: {(ipo as ExtendedIPO).allotment_date ? formatDate((ipo as ExtendedIPO).allotment_date || '') : 'TBA'}
+                          Allotment Date: {(ipo as ExtendedIPO).allotmentDate ? formatDate((ipo as ExtendedIPO).allotmentDate || '') : 'TBA'}
                         </p>
                       </div>
                       <div className="ml-auto">
@@ -167,17 +156,17 @@ export default async function AllotmentPage() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                   {openIPOs.map((ipo) => (
                     <Link 
-                      href={`/ipo/${ipo.ipo_id}`} 
-                      key={ipo.ipo_id}
+                      href={`/ipo/${ipo.id}`} 
+                      key={ipo.id}
                       className="flex items-center p-3 bg-gray-50 rounded-md border border-gray-100 hover:bg-gray-100 transition-colors"
                     >
                       <div className="h-10 w-10 bg-green-100 rounded-md flex items-center justify-center text-green-600 font-semibold text-lg mr-3">
-                        {ipo.company_name.slice(0, 2).toUpperCase()}
+                        {ipo.companyName.slice(0, 2).toUpperCase()}
                       </div>
                       <div>
-                        <h3 className="text-sm font-medium text-gray-800">{ipo.company_name}</h3>
+                        <h3 className="text-sm font-medium text-gray-800">{ipo.companyName}</h3>
                         <p className="text-xs text-gray-500">
-                          Closes: {ipo.closing_date ? formatDate(ipo.closing_date) : 'TBA'}
+                          Closes: {ipo.closeDate ? formatDate(ipo.closeDate) : 'TBA'}
                         </p>
                       </div>
                       <div className="ml-auto">
@@ -202,17 +191,17 @@ export default async function AllotmentPage() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                   {upcomingIPOs.map((ipo) => (
                     <Link 
-                      href={`/ipo/${ipo.ipo_id}`} 
-                      key={ipo.ipo_id}
+                      href={`/ipo/${ipo.id}`} 
+                      key={ipo.id}
                       className="flex items-center p-3 bg-gray-50 rounded-md border border-gray-100 hover:bg-gray-100 transition-colors"
                     >
                       <div className="h-10 w-10 bg-blue-100 rounded-md flex items-center justify-center text-blue-600 font-semibold text-lg mr-3">
-                        {ipo.company_name.slice(0, 2).toUpperCase()}
+                        {ipo.companyName.slice(0, 2).toUpperCase()}
                       </div>
                       <div>
-                        <h3 className="text-sm font-medium text-gray-800">{ipo.company_name}</h3>
+                        <h3 className="text-sm font-medium text-gray-800">{ipo.companyName}</h3>
                         <p className="text-xs text-gray-500">
-                          Opens: {ipo.opening_date ? formatDate(ipo.opening_date) : 'TBA'}
+                          Opens: {ipo.openDate ? formatDate(ipo.openDate) : 'TBA'}
                         </p>
                       </div>
                       <div className="ml-auto">
@@ -248,33 +237,62 @@ export default async function AllotmentPage() {
             <div>
               <h3 className="text-sm font-medium text-gray-800 mb-3">Quick Links</h3>
               <ul className="space-y-2">
-                <li><Link href="/" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">Dashboard</Link></li>
-                <li><Link href="/" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">Upcoming IPOs</Link></li>
-                <li><Link href="/" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">IPO Calendar</Link></li>
-                <li><Link href="/" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">Market Analysis</Link></li>
+                <li>
+                  <Link href="/" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">
+                    Home
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/calendar" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">
+                    IPO Calendar
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/about" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">
+                    About Us
+                  </Link>
+                </li>
               </ul>
             </div>
             
             <div>
-              <h3 className="text-sm font-medium text-gray-800 mb-3">Tools</h3>
+              <h3 className="text-sm font-medium text-gray-800 mb-3">Legal</h3>
               <ul className="space-y-2">
-                <li><Link href="/allotment" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">Allotment Checker</Link></li>
-                <li><Link href="/" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">Lot Size Calculator</Link></li>
-                <li><Link href="/" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">IPO Performance Tracker</Link></li>
-                <li><Link href="/" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">Subscription Status</Link></li>
+                <li>
+                  <Link href="/privacy-policy" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">
+                    Privacy Policy
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/terms-of-service" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">
+                    Terms of Service
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/disclaimer" className="text-sm text-gray-600 hover:text-blue-600 transition-colors">
+                    Disclaimer
+                  </Link>
+                </li>
               </ul>
             </div>
             
             <div>
               <h3 className="text-sm font-medium text-gray-800 mb-3">Contact Us</h3>
               <ul className="space-y-2">
-                <li className="text-sm text-gray-600">support@ipoinsight.com</li>
-                <li className="text-sm text-gray-600">+91 98765 43210</li>
+                <li className="text-sm text-gray-600">
+                  <i className="fas fa-envelope mr-2 text-blue-600"></i>
+                  support@ipoinsight.com
+                </li>
+                <li className="text-sm text-gray-600">
+                  <i className="fas fa-phone mr-2 text-blue-600"></i>
+                  +91 9876543210
+                </li>
               </ul>
             </div>
           </div>
-          <div className="mt-6 pt-6 border-t border-gray-200 text-center">
-            <p className="text-sm text-gray-600">&copy; {new Date().getFullYear()} IPO Insight. All rights reserved.</p>
+          
+          <div className="border-t border-gray-200 mt-8 pt-6 text-sm text-gray-600 text-center">
+            © {new Date().getFullYear()} IPO Insight. All rights reserved.
           </div>
         </div>
       </footer>

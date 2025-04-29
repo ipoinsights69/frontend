@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { IPOStats as IPOStatsData } from '@/lib/ipoDataService';
+import { IPOStats as IPOStatsData } from '@/app/types/IPO';
 
 interface IPOStatsProps {
   stats: IPOStatsData;

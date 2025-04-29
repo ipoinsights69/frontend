@@ -1,6 +1,6 @@
 import React from 'react';
 import { Metadata } from 'next';
-import { getIPOById, getAllIPOIds } from '@/lib/ipoDetailService';
+import { fetchDetailedIPOById, fetchAllIPOIds } from '@/app/api/ipos/handlers';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 
@@ -40,7 +40,7 @@ function extractCompanyNameFromId(ipoId: string): string {
 
 export async function generateMetadata({ params }: { params: Promise<PageParams> }): Promise<Metadata> {
   const { id } = await params;
-  const ipo = await getIPOById(id);
+  const ipo = await fetchDetailedIPOById(id);
   
   if (!ipo) {
     return {
@@ -49,7 +49,7 @@ export async function generateMetadata({ params }: { params: Promise<PageParams>
     };
   }
   
-  const companyName = ipo.company_name || extractCompanyNameFromId(ipo.ipo_id);
+  const companyName = ipo.companyName || extractCompanyNameFromId(ipo.id);
   
   return {
     title: `${companyName} IPO - Raw Data`,
@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: { params: Promise<PageParams>
 }
 
 export async function generateStaticParams() {
-  const ipoIds = await getAllIPOIds();
+  const ipoIds = await fetchAllIPOIds();
   
   // Generate static pages for all IPO IDs
   return ipoIds.map(id => ({
@@ -121,14 +121,14 @@ function renderObjectProperties(obj: any, depth: number = 0): React.ReactNode {
 
 export default async function RawIPODetailPage({ params }: { params: Promise<PageParams> }) {
   const { id } = await params;
-  const ipo = await getIPOById(id);
+  const ipo = await fetchDetailedIPOById(id);
 
   if (!ipo) {
     notFound();
   }
 
-  // Extract company name from IPO ID if not available
-  const companyName = ipo.company_name || extractCompanyNameFromId(ipo.ipo_id);
+  // Extract company name
+  const companyName = ipo.companyName;
   
   return (
     <div className="container mx-auto py-10">
@@ -136,7 +136,7 @@ export default async function RawIPODetailPage({ params }: { params: Promise<Pag
         <div className="flex justify-between items-center mb-6">
           <h1 className="text-2xl font-bold">Raw IPO Data: {companyName}</h1>
           <Link 
-            href={`/ipo/${ipo.ipo_id}`}
+            href={`/ipo/${ipo.id}`}
             className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md text-sm transition-colors duration-200"
           >
             View IPO Details

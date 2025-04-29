@@ -1,10 +1,10 @@
 'use client';
 
 import React from 'react';
-import { IPOSummary } from '@/lib/ipoDataService';
+import { IPO } from '@/app/types/IPO';
 
 interface IPOCardProps {
-  ipo: IPOSummary;
+  ipo: IPO;
 }
 
 const IPOCard: React.FC<IPOCardProps> = ({ ipo }) => {
@@ -56,11 +56,11 @@ const IPOCard: React.FC<IPOCardProps> = ({ ipo }) => {
       );
     }
     
-    if (ipo.listing_gains_numeric !== undefined && ipo.listing_gains_numeric !== null) {
-      const isPositive = ipo.listing_gains_numeric >= 0;
+    if (ipo.listingGainPercentage !== undefined) {
+      const isPositive = ipo.listingGainPercentage >= 0;
       return (
         <span className={`text-sm font-medium px-2 py-1 rounded ${isPositive ? 'bg-green-50 text-green-600' : 'bg-red-50 text-red-600'}`}>
-          {isPositive ? '+' : ''}{ipo.listing_gains}
+          {isPositive ? '+' : ''}{ipo.listingGainPercentage.toFixed(2)}%
         </span>
       );
     }
@@ -72,22 +72,33 @@ const IPOCard: React.FC<IPOCardProps> = ({ ipo }) => {
     );
   };
 
+  // Format price display
+  const formatPrice = () => {
+    if (ipo.priceRange) {
+      return `₹${ipo.priceRange.min}-${ipo.priceRange.max}`;
+    }
+    if (ipo.cutOffPrice) {
+      return `₹${ipo.cutOffPrice}`;
+    }
+    return 'N/A';
+  };
+
   return (
     <div className="grid grid-cols-12 border-b border-gray-100 hover:bg-gray-50 transition-colors">
       <div className="col-span-5 px-6 py-4 flex items-center">
-        <div className={`w-8 h-8 rounded-md flex items-center justify-center font-semibold text-sm mr-3 ${getBgColor(ipo.ipo_name)}`}>
-          {getInitials(ipo.ipo_name)}
+        <div className={`w-8 h-8 rounded-md flex items-center justify-center font-semibold text-sm mr-3 ${getBgColor(ipo.companyName)}`}>
+          {getInitials(ipo.companyName)}
         </div>
         <div>
-          <h3 className="font-medium text-gray-900">{ipo.ipo_name}</h3>
-          <p className="text-xs text-gray-500 truncate max-w-xs">{ipo.company_name}</p>
+          <h3 className="font-medium text-gray-900">{ipo.companyName}</h3>
+          <p className="text-xs text-gray-500 truncate max-w-xs">{ipo.symbol || ipo.industry || ''}</p>
         </div>
       </div>
       <div className="col-span-3 px-6 py-4 flex items-center text-sm text-gray-600">
-        {ipo.status === 'upcoming' ? formatDate(ipo.opening_date) : formatDate(ipo.listing_date)}
+        {ipo.status === 'upcoming' ? formatDate(ipo.openDate) : formatDate(ipo.listingDate)}
       </div>
       <div className="col-span-2 px-6 py-4 flex items-center justify-end text-sm font-medium text-gray-900">
-        {ipo.issue_price || 'N/A'}
+        {formatPrice()}
       </div>
       <div className="col-span-2 px-6 py-4 flex items-center justify-end">
         {getStatusBadge()}

@@ -17,27 +17,30 @@ The application offers in-depth information about each IPO, including subscripti
 
 ```
 next-app/
-├── src/
-│   ├── app/                     # Next.js app directory
-│   │   ├── components/          # UI components
-│   │   ├── ipo/                 # IPO detail pages
-│   │   ├── about/               # About page
-│   │   ├── data/                # Data related pages
-│   │   ├── page.tsx             # Homepage
-│   │   └── layout.tsx           # Root layout
-│   └── lib/                     # Core services and utilities
-│       ├── ipoDataService.ts    # Service for fetching IPO metadata
-│       └── ipoDetailService.ts  # Service for fetching detailed IPO information
-├── output/                      # Generated data files
-│   ├── all_ipos_meta.json       # Consolidated IPO metadata
-│   ├── stats.json               # Overall IPO statistics
-│   ├── years.json               # IPO data by years
-│   ├── ipo_ids.json             # List of all IPO IDs
-│   ├── performance/             # Performance-related data
-│   ├── status/                  # Status-related data (upcoming, listed, etc.)
-│   └── raw/                     # Raw IPO data files organized by year
-├── public/                      # Static assets
-└── package.json                 # Project dependencies
+│
+├── public/               # Static assets (images, icons, etc.)
+│
+├── src/                  # Source code
+│   ├── app/              # App router pages
+│   │   ├── api/          # API routes
+│   │   │   └── ipos/     # IPO API endpoints and handlers
+│   │   │       └── handlers.ts # API functions for fetching IPO data
+│   │   │
+│   │   ├── components/   # Shared React components
+│   │   ├── data/         # Static data files (config, etc.)
+│   │   ├── hooks/        # Custom React hooks
+│   │   ├── types/        # TypeScript type definitions
+│   │   │   └── IPO.ts    # IPO data type definitions
+│   │   ├── utils/        # Utility functions
+│   │   └── ...           # Page routes (/ipo, /allotment, etc.)
+│   │
+│   └── components/       # Additional shared components
+│
+├── node_modules/         # Node.js dependencies
+├── package.json          # Project metadata and dependencies
+├── package-lock.json     # Locked dependencies
+├── tsconfig.json         # TypeScript configuration
+└── next.config.js        # Next.js configuration
 ```
 
 ## Data Schema
@@ -867,3 +870,31 @@ npm start
 ## License
 
 [MIT](./LICENSE)
+
+## Data Architecture
+
+The application uses a modular data architecture with a centralized API approach.
+
+### API Handlers
+
+The API handlers in `src/app/api/ipos/handlers.ts` provide a centralized way to fetch data:
+
+1. `fetchTrendingIPOs()`: Returns best-performing IPOs
+2. `fetchUpcomingIPOs()`: Returns upcoming IPOs
+3. `fetchRecentlyListedIPOs()`: Returns recently listed IPOs
+4. `fetchClosedIPOs()`: Returns closed IPOs
+5. `fetchIPOStats()`: Returns market statistics
+6. `fetchDetailedIPOById(id)`: Returns detailed information for a specific IPO
+7. `fetchRelatedIPOs(id)`: Returns IPOs related to the specified IPO
+8. `fetchAllIPOIds()`: Returns a list of all IPO IDs for generating static paths
+9. `searchIPOs(query)`: Searches IPOs by name or attributes
+
+### Type Definitions
+
+All type definitions are centralized in `src/app/types/IPO.ts`:
+
+- `IPO`: Basic IPO information interface
+- `IPODetailedData`: Extended interface for detailed IPO information
+- `IPOStats`: Interface for IPO market statistics
+
+This centralized approach makes it easy to maintain consistency across the application and simplifies future changes to the data layer.

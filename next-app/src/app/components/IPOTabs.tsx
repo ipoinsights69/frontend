@@ -2,14 +2,14 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { IPOSummary } from '@/lib/ipoDataService';
+import { IPO } from '@/app/types/IPO';
 import IPOCard from './IPOCard';
 
 interface IPOTabsProps {
-  trendingIPOs: IPOSummary[];
-  upcomingIPOs: IPOSummary[];
-  recentIPOs: IPOSummary[];
-  closedIPOs: IPOSummary[];
+  trendingIPOs: IPO[];
+  upcomingIPOs: IPO[];
+  recentIPOs: IPO[];
+  closedIPOs: IPO[];
 }
 
 type TabType = 'trending' | 'upcoming' | 'recent' | 'closed';
@@ -116,7 +116,7 @@ const IPOTabs: React.FC<IPOTabsProps> = ({
         {content.items.length > 0 ? (
           <>
             {content.items.map((ipo) => (
-              <IPOCard key={ipo.ipo_id} ipo={ipo} />
+              <IPOCard key={ipo.id} ipo={ipo} />
             ))}
           </>
         ) : (

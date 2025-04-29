@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { getIPOById, getRelatedIPOs } from '@/lib/ipoDetailService';
+import { fetchDetailedIPOById, fetchRelatedIPOs } from '@/app/api/ipos/handlers';
 import { notFound } from 'next/navigation';
 import IPOHero from '@/app/components/IPODetail/IPOHero';
 import IPOTabs from '@/app/components/IPODetail/IPOTabs';
@@ -30,7 +30,7 @@ export async function generateMetadata({
   params: Promise<PageParams>;
 }): Promise<Metadata> {
   const { id } = await params;
-  const ipo = await getIPOById(id);
+  const ipo = await fetchDetailedIPOById(id);
 
   if (!ipo) {
     return {
@@ -39,9 +39,9 @@ export async function generateMetadata({
     };
   }
 
-  const companyName = ipo.company_name || extractCompanyNameFromId(ipo.ipo_id);
-  const ipoName = ipo.ipo_name || 'IPO';
-  const issuePrice = ipo.issue_price || 'N/A';
+  const companyName = ipo.companyName || extractCompanyNameFromId(ipo.id);
+  const ipoName = ipo.symbol || 'IPO';
+  const issuePrice = ipo.priceRange ? `₹${ipo.priceRange.min}-${ipo.priceRange.max}` : 'N/A';
 
   return {
     title: `${companyName} IPO Details`,
@@ -56,8 +56,8 @@ export default async function IPODetailPage({
   params: Promise<PageParams>;
 }) {
   const { id } = await params;
-  const ipoData = await getIPOById(id);
-  const relatedIPOs = await getRelatedIPOs(id);
+  const ipoData = await fetchDetailedIPOById(id);
+  const relatedIPOs = await fetchRelatedIPOs(id);
 
   if (!ipoData) {
     notFound();
