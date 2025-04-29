@@ -56,6 +56,12 @@ export interface IPOStats {
     name: string;
     return: number;
   };
+  totalIPOs?: number;
+  listedIPOs?: number;
+  closedIPOs?: number;
+  totalRaisedCrore?: number;
+  successRate?: string;
+  currentYear?: number;
 }
 
 export interface IPODetailedData extends IPO {
