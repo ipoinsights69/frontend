@@ -84,10 +84,18 @@ export default function Header() {
       setIsSearching(true);
       
       try {
-        const response = await fetch(`/api/search?q=${encodeURIComponent(value)}`);
+        // Call the external API directly
+        const response = await fetch(`http://localhost:8000/api/ipos/search?q=${encodeURIComponent(value)}`);
         if (response.ok) {
           const data = await response.json();
-          setSearchResults(data);
+          // Map the response data to match the expected format
+          setSearchResults(data.data.map((item: any) => ({
+            ipo_id: item.ipo_id,
+            company_name: item.company_name,
+            ipo_name: item.company_name,
+            year: item.year,
+            status: item.status
+          })));
         } else {
           setSearchResults([]);
         }
