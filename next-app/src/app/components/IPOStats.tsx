@@ -43,7 +43,7 @@ const IPOStats: React.FC<IPOStatsProps> = ({ stats }) => {
         <div className="bg-white border border-gray-200 rounded-lg p-5 flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow">
           <div className="text-sm font-medium text-gray-500 mb-2 text-center">Open IPOs</div>
           <div className="text-3xl font-bold text-green-600">
-            {stats.activeCount || 0}
+            {stats.openIPOs || 0}
           </div>
           <div className="mt-2 text-green-600 flex items-center text-sm">
             <FontAwesomeIcon icon={faCalendarCheck} className="w-3 h-3 mr-1" />
@@ -91,7 +91,7 @@ const IPOStats: React.FC<IPOStatsProps> = ({ stats }) => {
         <div className="bg-white border border-gray-200 rounded-lg p-5 flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow">
           <div className="text-sm font-medium text-gray-500 mb-2 text-center">Total Raised</div>
           <div className="text-3xl font-bold text-green-600">
-            ₹{(stats.totalRaisedCrore || 0).toLocaleString()}
+            {stats.totalRaisedFormatted || `₹${(stats.totalRaisedCrore || 0).toLocaleString()}`}
           </div>
           <div className="mt-2 text-green-600 flex items-center text-sm">
             <FontAwesomeIcon icon={faMoneyBillTrendUp} className="w-3 h-3 mr-1" />

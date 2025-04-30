@@ -1,8 +1,8 @@
 'use client';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { formatDate } from '@/app/utils/dateUtils';
 
 // Enable cache revalidation every hour
@@ -64,85 +64,66 @@ function getStatusColor(status: string) {
   }
 }
 
-async function getSearchResults(query: string, page = 1, limit = 10) {
-  if (!query) {
-    return {
-      data: [],
-      page: 1,
-      limit,
-      total: 0,
-      totalPages: 0,
-      query: '',
-      search_type: 'text',
-      request_parameters: { q: query, page, limit }
-    };
-  }
-  
-  try {
-    // Use the external API endpoint with correct port 8000
-    const response = await fetch(
-      `http://localhost:8000/api/ipos/search?q=${encodeURIComponent(query)}&page=${page}&limit=${limit}`,
-      { cache: 'no-store' }
-    );
-    
-    if (!response.ok) {
-      throw new Error(`Search failed: ${response.status}`);
-    }
-    
-    return await response.json() as SearchResponse;
-  } catch (error) {
-    console.error('Error performing search:', error);
-    return {
-      data: [],
-      page: 1,
-      limit,
-      total: 0,
-      totalPages: 0,
-      query,
-      search_type: 'text',
-      request_parameters: { q: query, page, limit },
-      error: 'Failed to fetch search results'
-    };
-  }
-}
-
-// Client component for search form
-function SearchForm({ defaultQuery }: { defaultQuery: string }) {
-  const [searchQuery, setSearchQuery] = useState(defaultQuery);
+// Client component for the entire search page
+export default function SearchPage() {
+  const searchParams = useSearchParams();
   const router = useRouter();
-
-  const handleSubmit = (e: React.FormEvent) => {
+  const query = searchParams.get('q') || '';
+  const page = parseInt(searchParams.get('page') || '1', 10);
+  const limit = 10;
+  
+  const [searchQuery, setSearchQuery] = useState(query);
+  const [results, setResults] = useState<SearchResponse>({
+    data: [],
+    page: 1,
+    limit,
+    total: 0,
+    totalPages: 0,
+    query: '',
+    search_type: 'text',
+    request_parameters: { q: query, page, limit }
+  });
+  const [isLoading, setIsLoading] = useState(false);
+  const [error, setError] = useState('');
+  
+  // Function to handle search form submission
+  const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     router.push(`/search?q=${encodeURIComponent(searchQuery)}`);
   };
-
-  return (
-    <form onSubmit={handleSubmit} className="mb-8">
-      <div className="flex gap-2">
-        <input
-          type="text"
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-          placeholder="Search by company name, symbol or industry..."
-          className="flex-1 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-        />
-        <button 
-          type="submit"
-          className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
-        >
-          Search
-        </button>
-      </div>
-    </form>
-  );
-}
-
-export default async function SearchPage({ searchParams }: { searchParams: { q: string, page?: string } }) {
-  const query = searchParams.q || '';
-  const page = parseInt(searchParams.page || '1', 10);
-  const limit = 10;
   
-  const results = await getSearchResults(query, page, limit);
+  // Function to fetch search results directly from external API
+  const fetchSearchResults = async () => {
+    if (!query) return;
+    
+    setIsLoading(true);
+    setError('');
+    
+    try {
+      // Directly call the external API at port 8000
+      const response = await fetch(
+        `http://localhost:8000/api/ipos/search?q=${encodeURIComponent(query)}&page=${page}&limit=${limit}`,
+        { cache: 'no-store' }
+      );
+      
+      if (!response.ok) {
+        throw new Error(`Search failed: ${response.status}`);
+      }
+      
+      const data = await response.json();
+      setResults(data);
+    } catch (err) {
+      console.error('Error searching:', err);
+      setError('Failed to fetch search results. Please try again.');
+    } finally {
+      setIsLoading(false);
+    }
+  };
+  
+  // Fetch results when query or page changes
+  useEffect(() => {
+    fetchSearchResults();
+  }, [query, page]);
   
   return (
     <main className="container mx-auto px-4 py-8">
@@ -160,10 +141,42 @@ export default async function SearchPage({ searchParams }: { searchParams: { q: 
       </div>
       
       {/* Search Form */}
-      <SearchForm defaultQuery={query} />
+      <form onSubmit={handleSearch} className="mb-8">
+        <div className="flex gap-2">
+          <input
+            type="text"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            placeholder="Search by company name, symbol or industry..."
+            className="flex-1 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+          />
+          <button 
+            type="submit"
+            className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+            disabled={isLoading}
+          >
+            {isLoading ? 'Searching...' : 'Search'}
+          </button>
+        </div>
+      </form>
+      
+      {/* Error message */}
+      {error && (
+        <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-6">
+          {error}
+        </div>
+      )}
+      
+      {/* Loading state */}
+      {isLoading && (
+        <div className="text-center py-10">
+          <div className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-blue-600 border-r-transparent"></div>
+          <p className="mt-3 text-gray-600">Searching...</p>
+        </div>
+      )}
       
       {/* Results */}
-      {results.data.length > 0 ? (
+      {!isLoading && results.data.length > 0 ? (
         <div className="bg-white rounded-lg shadow overflow-hidden">
           {/* Table Header */}
           <div className="grid grid-cols-6 bg-gray-50 border-b border-gray-200 p-4 font-medium text-gray-600 text-sm hidden md:grid">
@@ -267,7 +280,7 @@ export default async function SearchPage({ searchParams }: { searchParams: { q: 
             ))}
           </div>
         </div>
-      ) : query ? (
+      ) : query && !isLoading ? (
         <div className="bg-white rounded-lg shadow p-8 text-center">
           <svg 
             xmlns="http://www.w3.org/2000/svg" 

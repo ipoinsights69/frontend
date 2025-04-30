@@ -21,6 +21,13 @@ export default function HomeIPOShowcase({
   const [activeTab, setActiveTab] = useState('all');
   const [activeFaqIndex, setActiveFaqIndex] = useState<number | null>(null);
 
+  // Limit all IPO arrays to max 5 items
+  const limitedUpcomingIPOs = upcomingIPOs.slice(0, 5);
+  const limitedTopPerformingIPOs = topPerformingIPOs.slice(0, 5);
+  const limitedTopLosingIPOs = topLosingIPOs.slice(0, 5);
+  const limitedRecentlyListedIPOs = recentlyListedIPOs.slice(0, 5);
+  const limitedClosedIPOs = closedIPOs.slice(0, 5);
+
   // Toggle FAQ item
   const toggleFaq = (index: number) => {
     setActiveFaqIndex(activeFaqIndex === index ? null : index);
@@ -85,9 +92,9 @@ export default function HomeIPOShowcase({
     <div className="py-12 bg-gradient-to-b from-white to-gray-50">
       <div className="container mx-auto px-4 max-w-7xl">
         {/* Market Stats Banner */}
-        <div className="bg-blue-600 rounded-xl p-6 mb-12 shadow-lg text-white">
-          <div className="flex flex-col md:flex-row justify-between items-center">
-            <div>
+        {/* <div className="bg-blue-600 rounded-xl p-6 mb-12 shadow-lg text-white"> */}
+          {/* <div className="flex flex-col md:flex-row justify-between items-center"> */}
+            {/* <div>
               <h2 className="text-2xl font-bold mb-2">IPO Market Pulse</h2>
               <p className="text-blue-100">Latest statistics for {marketStats.currentMonth}</p>
             </div>
@@ -108,9 +115,9 @@ export default function HomeIPOShowcase({
                 <div className="text-3xl font-bold">{marketStats.fundingRaised}</div>
                 <div className="text-sm text-blue-200">Total Funds Raised</div>
               </div>
-            </div>
-          </div>
-        </div>
+            </div> */}
+          {/* </div> */}
+        {/* </div> */}
 
         {/* Upcoming IPOs Section - Completely Revamped */}
         <section className="mb-16">
@@ -154,7 +161,7 @@ export default function HomeIPOShowcase({
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {upcomingIPOs.slice(0, 3).map((ipo, index) => (
+            {limitedUpcomingIPOs.map((ipo, index) => (
               <Link 
                 key={index}
                 href={`/ipo/${ipo.id}`}
@@ -292,7 +299,7 @@ export default function HomeIPOShowcase({
                   </tr>
                 </thead>
                 <tbody className="bg-white divide-y divide-gray-200">
-                  {topPerformingIPOs.slice(0, 5).map((ipo, index) => (
+                  {limitedTopPerformingIPOs.map((ipo, index) => (
                     <tr key={index} className="hover:bg-gray-50 transition-colors">
                       <td className="px-4 py-3 whitespace-nowrap">
                         <div className="font-medium text-gray-900">{ipo.companyName}</div>
@@ -345,7 +352,7 @@ export default function HomeIPOShowcase({
                   </tr>
                 </thead>
                 <tbody className="bg-white divide-y divide-gray-200">
-                  {topLosingIPOs.slice(0, 5).map((ipo, index) => (
+                  {limitedTopLosingIPOs.map((ipo, index) => (
                     <tr key={index} className="hover:bg-gray-50 transition-colors">
                       <td className="px-4 py-3 whitespace-nowrap">
                         <div className="font-medium text-gray-900">{ipo.companyName}</div>
@@ -399,7 +406,7 @@ export default function HomeIPOShowcase({
                   </tr>
                 </thead>
                 <tbody className="bg-white divide-y divide-gray-200">
-                  {recentlyListedIPOs.slice(0, 5).map((ipo, index) => (
+                  {limitedRecentlyListedIPOs.map((ipo, index) => (
                     <tr key={index} className="hover:bg-gray-50 transition-colors">
                       <td className="px-4 py-3 whitespace-nowrap">
                         <div className="font-medium text-gray-900">{ipo.companyName}</div>
@@ -462,7 +469,7 @@ export default function HomeIPOShowcase({
                   </tr>
                 </thead>
                 <tbody className="bg-white divide-y divide-gray-200">
-                  {closedIPOs.slice(0, 5).map((ipo, index) => (
+                  {limitedClosedIPOs.map((ipo, index) => (
                     <tr key={index} className="hover:bg-gray-50 transition-colors">
                       <td className="px-4 py-3 whitespace-nowrap">
                         <div className="font-medium text-gray-900">{ipo.companyName}</div>

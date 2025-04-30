@@ -10,26 +10,83 @@ import {
 } from '@/app/api/ipos/handlers';
 
 // Define interfaces for our API response types
-interface ApiIPO {
-  ipo_id: string;
+interface IPOData {
   company_name: string;
-  ipo_name: string;
-  category: string;
-  logo_url: string;
+  detail_url: string;
   opening_date?: string;
   closing_date?: string;
   listing_date?: string;
-  issue_price_numeric?: number;
-  price_band?: string;
-  listing_gain?: number;
-  listing_gains_by_exchange?: {
-    nse?: {
-      lastTradePrice: number;
-    };
-    bse?: {
-      lastTradePrice: number;
-    };
+  issue_price?: string | null;
+  issue_amount?: string;
+  listing_at?: string;
+  lead_manager?: string;
+  year?: number;
+  _fetched_at?: string;
+  ipo_id: string;
+  status: 'upcoming' | 'open' | 'closed' | 'listed';
+}
+
+interface YearSummary {
+  total_ipos: number;
+  all_ipos: number;
+  open_ipos: number;
+  now_accepting: number;
+  upcoming_ipos: number;
+  opening_soon: number;
+  listed_ipos: number;
+  now_trading: number;
+  closed_ipos: number;
+  allotment_phase: number;
+  total_raised_crore: number;
+  total_raised_formatted: string;
+}
+
+interface IPOCategory {
+  count: number;
+  limit: number;
+  data: IPOData[];
+}
+
+interface HomeAPIResponse {
+  year_summary: YearSummary;
+  upcoming_ipos: IPOCategory;
+  open_ipos: IPOCategory;
+  closed_ipos: IPOCategory;
+  recently_listed: IPOCategory;
+  top_performers: IPOCategory;
+  trending_ipos: IPOCategory;
+  yearly_stats: {
+    year: number;
+    total_ipos: number;
+    open_ipos: number;
+    upcoming_ipos: number;
+    listed_ipos: number;
+    closed_ipos: number;
+    total_raised_crore: number;
+    avg_listing_gain: string;
+    avg_listing_gain_numeric: number;
+    successful_ipos: number;
+    success_rate: string;
+    success_rate_numeric: number;
+    oversubscribed_ipos: number;
+    oversubscription_rate: string;
+    top_sectors: string[];
+    highest_gain: null | number;
+    lowest_gain: null | number;
   };
+  years: number[];
+  stats: {
+    total: number;
+    by_status: {
+      upcoming: number;
+      open: number;
+      closed: number;
+      listed: number;
+      unknown: number;
+    };
+    by_listing_type: Record<string, number>;
+  };
+  last_updated: string;
 }
 
 // Enable ISR with a revalidation period of 1 hour
@@ -47,7 +104,7 @@ async function getHomepageData() {
       throw new Error(`Failed to fetch homepage data: ${response.status}`);
     }
     
-    return await response.json();
+    return await response.json() as HomeAPIResponse;
   } catch (error) {
     console.error('Error fetching from API, falling back to direct data fetchers:', error);
     
@@ -75,98 +132,105 @@ export default async function Home() {
   let trendingIPOs = [], upcomingIPOs = [], recentIPOs = [], closedIPOs = [], stats;
   
   // Check if we're using the API response or the fallback data
-  if (data.current_ipos !== undefined) {
-    // Using API data
-    if (data.top_listing_gains?.all_time) {
-      trendingIPOs = data.top_listing_gains.all_time.map((ipo: ApiIPO) => ({
-        id: ipo.ipo_id,
-        companyName: ipo.company_name,
-        symbol: ipo.ipo_name,
-        industry: ipo.category,
-        logoUrl: ipo.logo_url,
-        status: 'listed',
-        listingDate: ipo.listing_date,
-        priceRange: {
-          min: ipo.issue_price_numeric,
-          max: ipo.issue_price_numeric
-        },
-        listingPrice: ipo.listing_gains_by_exchange?.nse?.lastTradePrice,
-        listingGainPercentage: ipo.listing_gain
-      })) || [];
+  if ('year_summary' in data) {
+    // Using new API data format
+    const apiData = data as HomeAPIResponse;
+    
+    // Map upcoming IPOs - limit to 5
+    upcomingIPOs = apiData.upcoming_ipos.data.slice(0, 5).map(ipo => ({
+      id: ipo.ipo_id,
+      companyName: ipo.company_name.replace(' IPO', ''),
+      symbol: ipo.company_name,
+      industry: ipo.listing_at,
+      logoUrl: '',
+      status: 'upcoming' as const,
+      openDate: ipo.opening_date,
+      closeDate: ipo.closing_date,
+      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+      lotSize: 10, // Default lot size
+      listingAt: ipo.listing_at
+    }));
+    
+    // Map open IPOs - limit to 5
+    closedIPOs = apiData.open_ipos.data.slice(0, 5).map(ipo => ({
+      id: ipo.ipo_id,
+      companyName: ipo.company_name.replace(' IPO', ''),
+      symbol: ipo.company_name,
+      industry: ipo.listing_at,
+      logoUrl: '',
+      status: 'open' as const,
+      openDate: ipo.opening_date,
+      closeDate: ipo.closing_date,
+      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+      lotSize: 10, // Default lot size
+      listingAt: ipo.listing_at
+    }));
+    
+    // Map closed IPOs
+    const allotmentIPOs = apiData.closed_ipos.data.slice(0, 5).map(ipo => ({
+      id: ipo.ipo_id,
+      companyName: ipo.company_name.replace(' IPO', ''),
+      symbol: ipo.company_name,
+      industry: ipo.listing_at,
+      logoUrl: '',
+      status: 'closed' as const,
+      openDate: ipo.opening_date,
+      closeDate: ipo.closing_date,
+      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+      lotSize: 10, // Default lot size
+      listingAt: ipo.listing_at
+    }));
+
+    // Map recently listed IPOs
+    recentIPOs = apiData.recently_listed.data.slice(0, 5).map(ipo => ({
+      id: ipo.ipo_id,
+      companyName: ipo.company_name.replace(' IPO', ''),
+      symbol: ipo.company_name,
+      industry: ipo.listing_at,
+      logoUrl: '',
+      status: 'listed' as const,
+      listingDate: ipo.listing_date,
+      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+      lotSize: 10, // Default lot size
+      listingAt: ipo.listing_at
+    }));
+    
+    // Use top performers as trending IPOs
+    trendingIPOs = apiData.top_performers.data.slice(0, 5).map(ipo => ({
+      id: ipo.ipo_id,
+      companyName: ipo.company_name.replace(' IPO', ''),
+      symbol: ipo.company_name,
+      industry: ipo.listing_at,
+      logoUrl: '',
+      status: 'listed' as const,
+      listingDate: ipo.listing_date,
+      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+      lotSize: 10, // Default lot size
+      listingAt: ipo.listing_at
+    }));
+    
+    if (trendingIPOs.length === 0) {
+      // If no top performers, use recently listed as trending
+      trendingIPOs = recentIPOs;
     }
     
-    if (data.upcoming_ipos) {
-      upcomingIPOs = data.upcoming_ipos.map((ipo: ApiIPO) => ({
-        id: ipo.ipo_id,
-        companyName: ipo.company_name,
-        symbol: ipo.ipo_name,
-        industry: ipo.category,
-        logoUrl: ipo.logo_url,
-        status: 'upcoming',
-        openDate: ipo.opening_date,
-        closeDate: ipo.closing_date
-      })) || [];
-    }
-    
-    if (data.recent_ipos) {
-      recentIPOs = data.recent_ipos.map((ipo: ApiIPO) => ({
-        id: ipo.ipo_id,
-        companyName: ipo.company_name,
-        symbol: ipo.ipo_name,
-        industry: ipo.category,
-        logoUrl: ipo.logo_url,
-        status: 'listed',
-        listingDate: ipo.listing_date,
-        priceRange: {
-          min: ipo.issue_price_numeric,
-          max: ipo.issue_price_numeric
-        },
-        listingPrice: ipo.listing_gains_by_exchange?.nse?.lastTradePrice,
-        listingGainPercentage: ipo.listing_gain
-      })) || [];
-    }
-    
-    if (data.current_ipos) {
-      closedIPOs = data.current_ipos.map((ipo: ApiIPO) => {
-        // Safely parse price band
-        let minPrice = 0;
-        let maxPrice = 0;
-        
-        if (ipo.price_band) {
-          const parts = ipo.price_band.split('-');
-          if (parts.length > 0 && parts[0]) {
-            minPrice = parseInt(parts[0].replace(/[^\d]/g, '') || '0');
-          }
-          if (parts.length > 1 && parts[1]) {
-            maxPrice = parseInt(parts[1].replace(/[^\d]/g, '') || '0');
-          }
-        }
-        
-        return {
-          id: ipo.ipo_id,
-          companyName: ipo.company_name,
-          symbol: ipo.ipo_name,
-          industry: ipo.category,
-          logoUrl: ipo.logo_url,
-          status: 'closed',
-          openDate: ipo.opening_date,
-          closeDate: ipo.closing_date,
-          priceRange: {
-            min: minPrice,
-            max: maxPrice
-          }
-        };
-      }) || [];
-    }
-    
+    // Create stats for hero section
     stats = {
-      activeCount: data.hero_section?.total_ipos || 0,
-      averageReturn: data.hero_section?.market_performance?.average_listing_gain || 0,
-      upcomingCount: data.upcoming_ipos?.length || 0,
+      activeCount: apiData.year_summary.total_ipos,
+      averageReturn: apiData.yearly_stats.avg_listing_gain_numeric || 0,
+      upcomingCount: apiData.year_summary.upcoming_ipos,
       topSector: {
-        name: data.top_listing_gains?.all_time?.[0]?.category || 'Technology',
-        return: data.top_listing_gains?.all_time?.[0]?.listing_gain || 0
-      }
+        name: apiData.yearly_stats.top_sectors?.[0] || 'N/A',
+        return: apiData.yearly_stats.highest_gain || 0
+      },
+      totalIPOs: apiData.year_summary.total_ipos,
+      listedIPOs: apiData.year_summary.listed_ipos, 
+      closedIPOs: apiData.year_summary.closed_ipos,
+      openIPOs: apiData.year_summary.open_ipos,
+      totalRaisedCrore: apiData.year_summary.total_raised_crore,
+      totalRaisedFormatted: apiData.year_summary.total_raised_formatted,
+      successRate: apiData.yearly_stats.success_rate,
+      currentYear: apiData.yearly_stats.year
     };
   } else {
     // Using fallback data
@@ -186,16 +250,21 @@ export default async function Home() {
   const topPerformingIPOs = trendingIPOs || [];
   // For losing IPOs, we can reverse the trending order - make sure there's an array to spread
   const topLosingIPOs = Array.isArray(trendingIPOs) && trendingIPOs.length > 0 
-    ? [...trendingIPOs].sort((a, b) => (a.listingGainPercentage || 0) - (b.listingGainPercentage || 0))
+    ? [...trendingIPOs].sort((a, b) => {
+        // Handle cases where listingGainPercentage may not exist
+        const aGain = ('listingGainPercentage' in a) ? (a.listingGainPercentage || 0) : 0;
+        const bGain = ('listingGainPercentage' in b) ? (b.listingGainPercentage || 0) : 0;
+        return aGain - bGain;
+      })
     : [];
 
   return (
     <main>
       <HeroSection 
-        trendingIPOs={trendingIPOs}
-        upcomingIPOs={upcomingIPOs}
-        recentIPOs={recentIPOs}
-        closedIPOs={closedIPOs}
+        trendingIPOs={trendingIPOs.slice(0, 3)}
+        upcomingIPOs={upcomingIPOs.slice(0, 3)}
+        recentIPOs={recentIPOs.slice(0, 3)}
+        closedIPOs={closedIPOs.slice(0, 3)}
         stats={stats}
       />
       

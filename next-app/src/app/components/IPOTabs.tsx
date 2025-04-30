@@ -26,29 +26,30 @@ const IPOTabs: React.FC<IPOTabsProps> = ({
     setActiveTab(tab);
   };
 
+  // Limit to 3 IPOs per tab for the hero section
   const getTabContent = () => {
     switch (activeTab) {
       case 'trending':
         return {
-          items: trendingIPOs,
+          items: trendingIPOs.slice(0, 3),
           viewAllLink: '/trending-ipos',
           linkText: 'View all trending IPOs'
         };
       case 'upcoming':
         return {
-          items: upcomingIPOs,
+          items: upcomingIPOs.slice(0, 3),
           viewAllLink: '/upcoming-ipos',
           linkText: 'View all upcoming IPOs'
         };
       case 'recent':
         return {
-          items: recentIPOs,
+          items: recentIPOs.slice(0, 3),
           viewAllLink: '/recent-ipos',
           linkText: 'View all recently listed IPOs'
         };
       case 'closed':
         return {
-          items: closedIPOs,
+          items: closedIPOs.slice(0, 3),
           viewAllLink: '/closed-ipos',
           linkText: 'View all closed IPOs'
         };
@@ -108,7 +109,7 @@ const IPOTabs: React.FC<IPOTabsProps> = ({
         <div className="col-span-5 px-6 py-3">Company</div>
         <div className="col-span-3 px-6 py-3">Date</div>
         <div className="col-span-2 px-6 py-3 text-right">Price</div>
-        <div className="col-span-2 px-6 py-3 text-right">Change</div>
+        <div className="col-span-2 px-6 py-3 text-right">Status</div>
       </div>
 
       {/* Tab content */}

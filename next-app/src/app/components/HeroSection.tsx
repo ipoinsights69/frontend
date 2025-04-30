@@ -35,7 +35,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({
             <p className="text-lg text-gray-600">
               Track performance metrics, analyze market trends, and discover investment opportunities in the IPO landscape.
             </p>
-            <div className="flex flex-wrap gap-3 pt-4">
+            {/* <div className="flex flex-wrap gap-3 pt-4">
               <div className="flex items-center text-gray-700 bg-gray-100 px-4 py-2 rounded-md">
                 <FontAwesomeIcon icon={faChartLine} className="mr-2 text-blue-600" />
                 <span>{stats.activeCount}+ IPOs tracked</span>
@@ -48,7 +48,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({
                 <FontAwesomeIcon icon={faCalendarAlt} className="mr-2 text-blue-600" />
                 <span>IPO calendar</span>
               </div>
-            </div>
+            </div> */}
             <div className="flex gap-4 pt-2">
               <Link 
                 href="/calendar" 

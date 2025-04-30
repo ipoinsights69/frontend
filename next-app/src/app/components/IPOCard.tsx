@@ -55,8 +55,24 @@ const IPOCard: React.FC<IPOCardProps> = ({ ipo }) => {
         </span>
       );
     }
+
+    if (ipo.status === 'open') {
+      return (
+        <span className="text-sm font-medium px-2 py-1 rounded bg-green-50 text-green-600">
+          Open
+        </span>
+      );
+    }
+
+    if (ipo.status === 'closed') {
+      return (
+        <span className="text-sm font-medium px-2 py-1 rounded bg-orange-50 text-orange-600">
+          Closed
+        </span>
+      );
+    }
     
-    if (ipo.listingGainPercentage !== undefined) {
+    if ('listingGainPercentage' in ipo && ipo.listingGainPercentage !== undefined) {
       const isPositive = ipo.listingGainPercentage >= 0;
       return (
         <span className={`text-sm font-medium px-2 py-1 rounded ${isPositive ? 'bg-green-50 text-green-600' : 'bg-red-50 text-red-600'}`}>
@@ -80,6 +96,23 @@ const IPOCard: React.FC<IPOCardProps> = ({ ipo }) => {
     if (ipo.cutOffPrice) {
       return `₹${ipo.cutOffPrice}`;
     }
+    if (ipo.issueSize) {
+      return `₹${ipo.issueSize} Cr`;
+    }
+    return 'N/A';
+  };
+
+  // Get the appropriate date to display based on IPO status
+  const getDateToDisplay = () => {
+    if (ipo.status === 'upcoming' || ipo.status === 'open') {
+      return `${formatDate(ipo.openDate)} - ${formatDate(ipo.closeDate)}`;
+    }
+    if (ipo.status === 'listed') {
+      return formatDate(ipo.listingDate);
+    }
+    if (ipo.status === 'closed') {
+      return formatDate(ipo.closeDate);
+    }
     return 'N/A';
   };
 
@@ -91,11 +124,11 @@ const IPOCard: React.FC<IPOCardProps> = ({ ipo }) => {
         </div>
         <div>
           <h3 className="font-medium text-gray-900">{ipo.companyName}</h3>
-          <p className="text-xs text-gray-500 truncate max-w-xs">{ipo.symbol || ipo.industry || ''}</p>
+          <p className="text-xs text-gray-500 truncate max-w-xs">{ipo.listingAt || ipo.industry || ''}</p>
         </div>
       </div>
       <div className="col-span-3 px-6 py-4 flex items-center text-sm text-gray-600">
-        {ipo.status === 'upcoming' ? formatDate(ipo.openDate) : formatDate(ipo.listingDate)}
+        {getDateToDisplay()}
       </div>
       <div className="col-span-2 px-6 py-4 flex items-center justify-end text-sm font-medium text-gray-900">
         {formatPrice()}

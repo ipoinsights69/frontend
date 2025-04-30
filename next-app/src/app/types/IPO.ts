@@ -46,6 +46,10 @@ export interface IPO {
     email?: string;
     phone?: string;
   };
+
+  // New properties from API
+  listingAt?: string;
+  leadManager?: string;
 }
 
 export interface IPOStats {
@@ -59,7 +63,9 @@ export interface IPOStats {
   totalIPOs?: number;
   listedIPOs?: number;
   closedIPOs?: number;
+  openIPOs?: number;
   totalRaisedCrore?: number;
+  totalRaisedFormatted?: string;
   successRate?: string;
   currentYear?: number;
 }
