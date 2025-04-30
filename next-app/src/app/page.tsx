@@ -1,200 +1,280 @@
-'use client';
+import React from 'react';
+import HeroSection from './components/HeroSection';
+import HomeIPOShowcase from './components/HomeIPOShowcase';
+import { 
+  fetchTrendingIPOs, 
+  fetchUpcomingIPOs, 
+  fetchRecentlyListedIPOs, 
+  fetchClosedIPOs, 
+  fetchIPOStats
+} from '@/app/api/ipos/handlers';
 
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
-import useIPOData from "@/lib/hooks/useIPOData";
-import Link from 'next/link';
-import { useRouter } from 'next/navigation'; // For search redirect
-import { useState } from 'react';
-import { IPOSummary, IPOStats, YearCount } from '@/lib/server/ipoDataService'; // Import types
+// Define interfaces for our API response types
+interface IPOData {
+  company_name: string;
+  detail_url: string;
+  opening_date?: string;
+  closing_date?: string;
+  listing_date?: string;
+  issue_price?: string | null;
+  issue_amount?: string;
+  listing_at?: string;
+  lead_manager?: string;
+  year?: number;
+  _fetched_at?: string;
+  ipo_id: string;
+  status: 'upcoming' | 'open' | 'closed' | 'listed';
+}
 
-// --- Reusable Card Component (Example) ---
-const InfoCard = ({ title, children, viewAllLink, viewAllText }: { title: string, children: React.ReactNode, viewAllLink?: string, viewAllText?: string }) => (
-  <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow border border-gray-200 dark:border-gray-700">
-    <h2 className="text-xl md:text-2xl font-semibold mb-4 text-gray-800 dark:text-gray-200">{title}</h2>
-    <div className="space-y-4">
-      {children}
-    </div>
-    {viewAllLink && viewAllText && (
-      <div className="mt-6 text-right">
-        <Link href={viewAllLink} className="text-blue-600 dark:text-blue-400 hover:underline font-medium">
-          {viewAllText} &rarr;
-        </Link>
-      </div>
-    )}
-  </div>
-);
+interface YearSummary {
+  total_ipos: number;
+  all_ipos: number;
+  open_ipos: number;
+  now_accepting: number;
+  upcoming_ipos: number;
+  opening_soon: number;
+  listed_ipos: number;
+  now_trading: number;
+  closed_ipos: number;
+  allotment_phase: number;
+  total_raised_crore: number;
+  total_raised_formatted: string;
+}
 
-// --- Main Home Component ---
-export default function Home() {
-  const router = useRouter();
-  const [searchQuery, setSearchQuery] = useState('');
+interface IPOCategory {
+  count: number;
+  limit: number;
+  data: IPOData[];
+}
 
-  // --- Fetch Data ---
-  const { stats, loading: loadingStats, error: statsError } = useIPOData.useIPOStats();
-  const { upcomingIpos, loading: loadingUpcoming, error: upcomingError } = useIPOData.useUpcomingIPOs();
-  const { bestPerformingIpos, loading: loadingBest, error: bestError } = useIPOData.useBestPerformingIPOs();
-  const { worstPerformingIpos, loading: loadingWorst, error: worstError } = useIPOData.useWorstPerformingIPOs();
-  const { years, loading: loadingYears, error: yearsError } = useIPOData.useIPOYears();
-  // Fetch counts for status links (can be optimized later)
-  const { ipos: openIpos } = useIPOData.useIPOsByStatus('open');
-  const { ipos: closedIpos } = useIPOData.useIPOsByStatus('closed');
-  const { ipos: listedIpos } = useIPOData.useIPOsByStatus('listed');
+interface HomeAPIResponse {
+  year_summary: YearSummary;
+  upcoming_ipos: IPOCategory;
+  open_ipos: IPOCategory;
+  closed_ipos: IPOCategory;
+  recently_listed: IPOCategory;
+  top_performers: IPOCategory;
+  trending_ipos: IPOCategory;
+  yearly_stats: {
+    year: number;
+    total_ipos: number;
+    open_ipos: number;
+    upcoming_ipos: number;
+    listed_ipos: number;
+    closed_ipos: number;
+    total_raised_crore: number;
+    avg_listing_gain: string;
+    avg_listing_gain_numeric: number;
+    successful_ipos: number;
+    success_rate: string;
+    success_rate_numeric: number;
+    oversubscribed_ipos: number;
+    oversubscription_rate: string;
+    top_sectors: string[];
+    highest_gain: null | number;
+    lowest_gain: null | number;
+  };
+  years: number[];
+  stats: {
+    total: number;
+    by_status: {
+      upcoming: number;
+      open: number;
+      closed: number;
+      listed: number;
+      unknown: number;
+    };
+    by_listing_type: Record<string, number>;
+  };
+  last_updated: string;
+}
 
-  const handleSearch = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (searchQuery.trim()) {
-      router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
+// Enable ISR with a revalidation period of 1 hour
+export const revalidate = 3600;
+
+async function getHomepageData() {
+  // First try to fetch from our API endpoint
+  try {
+    // Use the external API endpoint
+    const response = await fetch(`http://localhost:8000/api/ipos/homepage`, {
+      next: { revalidate },
+    });
+    
+    if (!response.ok) {
+      throw new Error(`Failed to fetch homepage data: ${response.status}`);
     }
-  };
+    
+    return await response.json() as HomeAPIResponse;
+  } catch (error) {
+    console.error('Error fetching from API, falling back to direct data fetchers:', error);
+    
+    // Fallback to direct data fetching if API fails
+    const trendingIPOs = await fetchTrendingIPOs();
+    const upcomingIPOs = await fetchUpcomingIPOs();
+    const recentIPOs = await fetchRecentlyListedIPOs();
+    const closedIPOs = await fetchClosedIPOs();
+    const stats = await fetchIPOStats();
+    
+    return {
+      trendingIPOs,
+      upcomingIPOs,
+      recentIPOs,
+      closedIPOs,
+      stats
+    };
+  }
+}
 
-  // Helper to display loading/error states
-  const renderLoadingError = (loading: boolean, error: Error | null, type: string) => {
-    if (loading) return <p className="text-gray-500 dark:text-gray-400">Loading {type}...</p>;
-    if (error) return <p className="text-red-500">Error loading {type}.</p>;
-    return null;
-  };
+export default async function Home() {
+  // Get data for the homepage
+  const data = await getHomepageData();
+  
+  let trendingIPOs = [], upcomingIPOs = [], recentIPOs = [], closedIPOs = [], stats;
+  
+  // Check if we're using the API response or the fallback data
+  if ('year_summary' in data) {
+    // Using new API data format
+    const apiData = data as HomeAPIResponse;
+    
+    // Map upcoming IPOs - limit to 5
+    upcomingIPOs = apiData.upcoming_ipos.data.slice(0, 5).map(ipo => ({
+      id: ipo.ipo_id,
+      companyName: ipo.company_name.replace(' IPO', ''),
+      symbol: ipo.company_name,
+      industry: ipo.listing_at,
+      logoUrl: '',
+      status: 'upcoming' as const,
+      openDate: ipo.opening_date,
+      closeDate: ipo.closing_date,
+      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+      lotSize: 10, // Default lot size
+      listingAt: ipo.listing_at
+    }));
+    
+    // Map open IPOs - limit to 5
+    closedIPOs = apiData.open_ipos.data.slice(0, 5).map(ipo => ({
+      id: ipo.ipo_id,
+      companyName: ipo.company_name.replace(' IPO', ''),
+      symbol: ipo.company_name,
+      industry: ipo.listing_at,
+      logoUrl: '',
+      status: 'open' as const,
+      openDate: ipo.opening_date,
+      closeDate: ipo.closing_date,
+      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+      lotSize: 10, // Default lot size
+      listingAt: ipo.listing_at
+    }));
+    
+    // Map closed IPOs
+    const allotmentIPOs = apiData.closed_ipos.data.slice(0, 5).map(ipo => ({
+      id: ipo.ipo_id,
+      companyName: ipo.company_name.replace(' IPO', ''),
+      symbol: ipo.company_name,
+      industry: ipo.listing_at,
+      logoUrl: '',
+      status: 'closed' as const,
+      openDate: ipo.opening_date,
+      closeDate: ipo.closing_date,
+      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+      lotSize: 10, // Default lot size
+      listingAt: ipo.listing_at
+    }));
+
+    // Map recently listed IPOs
+    recentIPOs = apiData.recently_listed.data.slice(0, 5).map(ipo => ({
+      id: ipo.ipo_id,
+      companyName: ipo.company_name.replace(' IPO', ''),
+      symbol: ipo.company_name,
+      industry: ipo.listing_at,
+      logoUrl: '',
+      status: 'listed' as const,
+      listingDate: ipo.listing_date,
+      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+      lotSize: 10, // Default lot size
+      listingAt: ipo.listing_at
+    }));
+    
+    // Use top performers as trending IPOs
+    trendingIPOs = apiData.top_performers.data.slice(0, 5).map(ipo => ({
+      id: ipo.ipo_id,
+      companyName: ipo.company_name.replace(' IPO', ''),
+      symbol: ipo.company_name,
+      industry: ipo.listing_at,
+      logoUrl: '',
+      status: 'listed' as const,
+      listingDate: ipo.listing_date,
+      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+      lotSize: 10, // Default lot size
+      listingAt: ipo.listing_at
+    }));
+    
+    if (trendingIPOs.length === 0) {
+      // If no top performers, use recently listed as trending
+      trendingIPOs = recentIPOs;
+    }
+    
+    // Create stats for hero section
+    stats = {
+      activeCount: apiData.year_summary.total_ipos,
+      averageReturn: apiData.yearly_stats.avg_listing_gain_numeric || 0,
+      upcomingCount: apiData.year_summary.upcoming_ipos,
+      topSector: {
+        name: apiData.yearly_stats.top_sectors?.[0] || 'N/A',
+        return: apiData.yearly_stats.highest_gain || 0
+      },
+      totalIPOs: apiData.year_summary.total_ipos,
+      listedIPOs: apiData.year_summary.listed_ipos, 
+      closedIPOs: apiData.year_summary.closed_ipos,
+      openIPOs: apiData.year_summary.open_ipos,
+      totalRaisedCrore: apiData.year_summary.total_raised_crore,
+      totalRaisedFormatted: apiData.year_summary.total_raised_formatted,
+      successRate: apiData.yearly_stats.success_rate,
+      currentYear: apiData.yearly_stats.year
+    };
+  } else {
+    // Using fallback data
+    trendingIPOs = data.trendingIPOs || [];
+    upcomingIPOs = data.upcomingIPOs || [];
+    recentIPOs = data.recentIPOs || [];
+    closedIPOs = data.closedIPOs || [];
+    stats = data.stats || {
+      activeCount: 0,
+      averageReturn: 0,
+      upcomingCount: 0,
+      topSector: { name: 'Technology', return: 0 }
+    };
+  }
+  
+  // The top performing and losing IPOs are already in the trending and non-trending lists
+  const topPerformingIPOs = trendingIPOs || [];
+  // For losing IPOs, we can reverse the trending order - make sure there's an array to spread
+  const topLosingIPOs = Array.isArray(trendingIPOs) && trendingIPOs.length > 0 
+    ? [...trendingIPOs].sort((a, b) => {
+        // Handle cases where listingGainPercentage may not exist
+        const aGain = ('listingGainPercentage' in a) ? (a.listingGainPercentage || 0) : 0;
+        const bGain = ('listingGainPercentage' in b) ? (b.listingGainPercentage || 0) : 0;
+        return aGain - bGain;
+      })
+    : [];
 
   return (
-    <div className="min-h-screen flex flex-col bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100">
-      <Header />
-      <main className="flex-grow container mx-auto px-4 py-8 md:py-12">
-
-        {/* --- Hero Section --- */}
-        <section className="text-center mb-12 md:mb-16">
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 text-gray-800 dark:text-gray-200">
-            Your Go-To Source for Upcoming & Latest IPOs
-          </h1>
-          <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 mb-6 max-w-3xl mx-auto">
-            Track Initial Public Offerings with live data, performance insights, and market statistics.
-          </p>
-          {/* Search Bar */}
-          <form onSubmit={handleSearch} className="max-w-xl mx-auto mb-6">
-            <div className="relative">
-              <input
-                type="search"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Search IPOs by name, company, year..."
-                className="w-full px-4 py-3 pr-12 text-gray-700 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 dark:text-gray-200"
-              />
-              <button type="submit" className="absolute top-0 right-0 h-full px-4 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400">
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
-                </svg>
-              </button>
-            </div>
-          </form>
-          {/* CTAs */}
-          <div className="space-x-4">
-            <Link href="/upcoming" className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-6 rounded-lg transition duration-200">
-              View Upcoming IPOs
-            </Link>
-            {/* Optional Secondary CTA */}
-            {/* <Link href="/performance" className="inline-block bg-gray-200 hover:bg-gray-300 text-gray-800 font-semibold py-2 px-6 rounded-lg transition duration-200">
-              Check Performance
-            </Link> */}
-          </div>
-        </section>
-
-        {/* --- Grid Layout for Content Sections --- */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
-
-          {/* Upcoming IPOs Section */}
-          <InfoCard title="Upcoming IPOs" viewAllLink="/upcoming" viewAllText="View All Upcoming">
-            {renderLoadingError(loadingUpcoming, upcomingError, 'upcoming IPOs')}
-            {upcomingIpos && upcomingIpos.length > 0 ? (
-              upcomingIpos.slice(0, 3).map((ipo: IPOSummary) => (
-                <Link href={`/ipo/${ipo.ipo_id}`} key={ipo.ipo_id} className="block hover:bg-gray-50 dark:hover:bg-gray-700 p-2 rounded">
-                  <h3 className="font-semibold text-blue-600 dark:text-blue-400">{ipo.ipo_name || 'N/A'}</h3>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">Open: {ipo.opening_date || 'TBA'} | Close: {ipo.closing_date || 'TBA'}</p>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">Price: {ipo.issue_price || 'TBA'}</p>
-                </Link>
-              ))
-            ) : (
-              !loadingUpcoming && !upcomingError && <p className="text-gray-500 dark:text-gray-400">No upcoming IPOs found.</p>
-            )}
-          </InfoCard>
-
-          {/* Market Performance Snapshot */}
-          <InfoCard title="Recent Performance Highlights" viewAllLink="/performance" viewAllText="Explore Performance Data">
-             {renderLoadingError(loadingBest || loadingWorst, bestError || worstError, 'performance data')}
-             {bestPerformingIpos && bestPerformingIpos.length > 0 && (
-               <div>
-                 <h4 className="font-medium mb-1 text-green-600 dark:text-green-400">Top Performers:</h4>
-                 {bestPerformingIpos.slice(0, 3).map((ipo: Partial<IPOSummary>) => (
-                   <Link href={`/ipo/${ipo.ipo_id}`} key={`best-${ipo.ipo_id}`} className="block text-sm hover:bg-gray-50 dark:hover:bg-gray-700 p-1 rounded">
-                     {ipo.ipo_name || 'N/A'} ({ipo.listing_gains || 'N/A'})
-                   </Link>
-                 ))}
-               </div>
-             )}
-             {worstPerformingIpos && worstPerformingIpos.length > 0 && (
-               <div className="mt-3">
-                 <h4 className="font-medium mb-1 text-red-600 dark:text-red-400">Worst Performers:</h4>
-                 {worstPerformingIpos.slice(0, 3).map((ipo: Partial<IPOSummary>) => (
-                   <Link href={`/ipo/${ipo.ipo_id}`} key={`worst-${ipo.ipo_id}`} className="block text-sm hover:bg-gray-50 dark:hover:bg-gray-700 p-1 rounded">
-                     {ipo.ipo_name || 'N/A'} ({ipo.listing_gains || 'N/A'})
-                   </Link>
-                 ))}
-               </div>
-             )}
-             {!loadingBest && !loadingWorst && (!bestPerformingIpos || bestPerformingIpos.length === 0) && (!worstPerformingIpos || worstPerformingIpos.length === 0) && (
-                <p className="text-gray-500 dark:text-gray-400">No performance data available.</p>
-             )}
-          </InfoCard>
-
-          {/* Key Market Statistics */}
-          <InfoCard title="IPO Market Snapshot" viewAllLink="/stats" viewAllText="View Detailed Statistics">
-            {renderLoadingError(loadingStats, statsError, 'statistics')}
-            {stats ? (
-              <ul className="space-y-2 text-sm">
-                <li><strong>Total IPOs Tracked:</strong> {stats.totalCount ?? 'N/A'}</li>
-                <li><strong>Currently Open:</strong> {stats.byStatus?.open ?? 'N/A'}</li>
-                <li><strong>Upcoming:</strong> {stats.byStatus?.upcoming ?? 'N/A'}</li>
-                <li><strong>Listed This Year (Example):</strong> {stats.byStatus?.listed ?? 'N/A'}</li>
-                {/* Debug info - remove in production */}
-                <li className="text-xs text-gray-400 mt-1">Debug: {JSON.stringify({
-                  hasStats: !!stats,
-                  totalCount: stats.totalCount,
-                  hasStatusInfo: !!stats.byStatus,
-                  statusInfo: stats.byStatus
-                })}</li>
-              </ul>
-            ) : (
-              !loadingStats && !statsError && <p className="text-gray-500 dark:text-gray-400">No statistics available.</p>
-            )}
-          </InfoCard>
-
-          {/* Browse IPOs Section */}
-          <InfoCard title="Browse IPOs">
-             <div className="grid grid-cols-2 gap-4 text-sm">
-                <Link href="/status/open" className="text-blue-600 dark:text-blue-400 hover:underline">Open IPOs ({openIpos?.length ?? 0})</Link>
-                <Link href="/status/closed" className="text-blue-600 dark:text-blue-400 hover:underline">Closed IPOs ({closedIpos?.length ?? 0})</Link>
-                <Link href="/status/upcoming" className="text-blue-600 dark:text-blue-400 hover:underline">Upcoming IPOs ({upcomingIpos?.length ?? 0})</Link>
-                <Link href="/status/listed" className="text-blue-600 dark:text-blue-400 hover:underline">Listed IPOs ({listedIpos?.length ?? 0})</Link>
-             </div>
-             <div className="mt-4">
-                <h4 className="font-medium mb-2 text-gray-700 dark:text-gray-300">By Year:</h4>
-                {renderLoadingError(loadingYears, yearsError, 'years')}
-                {years && years.length > 0 ? (
-                  <div className="flex flex-wrap gap-2">
-                    {years.slice(0, 5).map((y: YearCount) => ( // Show recent years
-                       <Link href={`/stats/year/${y.year}`} key={y.year} className="text-blue-600 dark:text-blue-400 hover:underline text-sm bg-gray-100 dark:bg-gray-700 px-2 py-1 rounded">
-                         {y.year} ({y.count})
-                       </Link>
-                    ))}
-                     <Link href="/years" className="text-blue-600 dark:text-blue-400 hover:underline text-sm font-medium">View All Years</Link> {/* Link to a potential years index page */}
-                  </div>
-                ) : (
-                   !loadingYears && !yearsError && <p className="text-gray-500 dark:text-gray-400 text-sm">No yearly data available.</p>
-                )}
-             </div>
-          </InfoCard>
-
-        </div>
-      </main>
-      <Footer />
-    </div>
+    <main>
+      <HeroSection 
+        trendingIPOs={trendingIPOs.slice(0, 3)}
+        upcomingIPOs={upcomingIPOs.slice(0, 3)}
+        recentIPOs={recentIPOs.slice(0, 3)}
+        closedIPOs={closedIPOs.slice(0, 3)}
+        stats={stats}
+      />
+      
+      <HomeIPOShowcase
+        upcomingIPOs={upcomingIPOs}
+        topPerformingIPOs={topPerformingIPOs}
+        topLosingIPOs={topLosingIPOs}
+        recentlyListedIPOs={recentIPOs}
+        closedIPOs={closedIPOs}
+      />
+    </main>
   );
 }

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Dashboard",
+    "path": "/",
+    "active": true
+  },
+  {
+    "name": "Market Overview",
+    "path": "/market",
+    "active": false
+  },
+  {
+    "name": "IPO Calendar",
+    "path": "/calendar",
+    "active": false
+  },
+  {
+    "name": "Performance Tracker",
+    "path": "/performance",
+    "active": false
+  },
+  {
+    "name": "Insights",
+    "path": "/insights",
+    "active": false
+  }
+] 

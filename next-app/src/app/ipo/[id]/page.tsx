@@ -1,269 +1,232 @@
-'use server';
+import { Metadata } from 'next';
+import { fetchDetailedIPOById, fetchRelatedIPOs, fetchDetailedIPOBySlug, fetchAllIPOIdsFromAPI } from '@/app/api/ipos/handlers';
+import { notFound } from 'next/navigation';
+import IPOHero from '@/app/components/IPODetail/IPOHero';
+import IPOTabs from '@/app/components/IPODetail/IPOTabs';
+import RelatedIPOs from '@/app/components/IPODetail/RelatedIPOsList';
+import { IPODetailedData } from '@/app/types/IPO';
 
-import { Suspense } from 'react';
-import Link from 'next/link';
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
-import SubscriptionChart from '@/components/SubscriptionChart';
-import IPOTimeline from '@/components/IPOTimeline';
-import FinancialsChart from '@/components/FinancialsChart';
-import PricePerformanceChart from '@/components/PricePerformanceChart';
-import { getIPODetailByIdSSR } from "@/lib/server/serverFetch";
-import { IPODetailedData } from '@/lib/server/ipoDataService';
-import IPODetailClientWrapper from './IPODetailClientWrapper';
+// Set revalidation time to 2 hours (7200 seconds)
+export const revalidate = 7200;
 
-// --- Helper Component for Detail Sections ---
-const DetailSection = ({ 
-  title, 
-  children, 
-  className = "",
-  id = ""
-}: { 
-  title: string, 
-  children: React.ReactNode,
-  className?: string,
-  id?: string
-}) => (
-  <div id={id} className={`bg-white dark:bg-gray-800 p-6 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 mb-6 md:mb-8 ${className}`}>
-    <h2 className="text-xl md:text-2xl font-semibold mb-4 text-gray-800 dark:text-gray-200 flex items-center">
-      {title}
-    </h2>
-    <div className="space-y-4 text-sm md:text-base text-gray-700 dark:text-gray-300">
-      {children}
-    </div>
-  </div>
-);
+interface PageParams {
+  id: string;
+}
 
-// --- Helper for Key-Value Pairs with improved styling ---
-const DetailItem = ({ label, value, highlight = false }: { label: string, value: React.ReactNode, highlight?: boolean }) => (
-  <div className={`flex flex-col sm:flex-row border-b border-gray-100 dark:border-gray-700 pb-3 pt-1 ${highlight ? 'bg-blue-50 dark:bg-blue-900/20 p-2 rounded' : ''}`}>
-    <span className="font-medium text-gray-600 dark:text-gray-400 w-full sm:w-1/3 mb-1 sm:mb-0">{label}</span>
-    <span className="w-full sm:w-2/3">{value || 'N/A'}</span>
-  </div>
-);
-
-// --- Status Badge Component ---
-const StatusBadge = ({ status }: { status: string }) => {
-  const getStatusStyles = () => {
-    switch(status?.toLowerCase()) {
-      case 'open':
-        return 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200 border border-green-200 dark:border-green-800';
-      case 'upcoming':
-        return 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200 border border-blue-200 dark:border-blue-800';
-      case 'listed':
-        return 'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-200 border border-purple-200 dark:border-purple-800';
-      case 'closed':
-        return 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200 border border-orange-200 dark:border-orange-800';
-      default:
-        return 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200 border border-gray-200 dark:border-gray-600';
+// IPO Detail Page configuration for data mapping
+// This allows easy customization of how API data is displayed in the UI
+export const IPO_DETAIL_CONFIG = {
+  // Main sections that should be displayed in the UI
+  sections: {
+    hero: true,            // Hero banner with IPO overview
+    overview: true,        // General overview and company info
+    financials: true,      // Financial data and ratios
+    subscription: true,    // Subscription status and trends
+    dates: true,           // Important dates timeline
+    allotment: true,       // Allotment information
+    company: true,         // Company background and details
+    faqs: true             // Frequently asked questions
+  },
+  
+  // Fields mapping for each section
+  // This maps API response fields to display names in the UI
+  fieldsMapping: {
+    // Hero section fields
+    hero: {
+      title: 'companyName',
+      subtitle: 'symbol',
+      status: 'status',
+      priceRange: 'priceRange',
+      issueSize: 'issueSize',
+      issueType: 'issueType',
+      listingAt: 'listingAt',
+      logoUrl: 'logoUrl'
+    },
+    
+    // Overview section fields
+    overview: {
+      description: 'description',
+      industry: 'industry',
+      openDate: 'openDate',
+      closeDate: 'closeDate',
+      listingDate: 'listingDate',
+      lotSize: 'lotSize',
+      leadManager: 'leadManager'
+    },
+    
+    // Financials section fields
+    financials: {
+      data: 'financials.data',
+      ratios: 'financials.ratios',
+      eps: 'financials.eps'
+    },
+    
+    // Subscription section fields
+    subscription: {
+      overall: 'overallSubscription',
+      retail: 'retailSubscription',
+      nii: 'niiSubscription',
+      qib: 'qibSubscription',
+      dayWise: 'subscription_details.day_wise'
+    },
+    
+    // Dates section fields
+    dates: {
+      openDate: 'openDate',
+      closeDate: 'closeDate',
+      allotmentDate: 'allotmentDate',
+      refundDate: 'refundDate',
+      listingDate: 'listingDate'
+    },
+    
+    // Company section fields
+    company: {
+      description: 'description',
+      business: 'business_segments',
+      strengths: 'competitive_strengths',
+      promoters: 'promoters'
+    },
+    
+    // FAQ section fields
+    faqs: {
+      items: 'faqs'
+    },
+    
+    // Links to prospectus and other documents
+    links: {
+      prospectus: 'prospectus_links'
     }
-  };
-
-  return (
-    <span className={`px-3 py-1 rounded-full text-sm font-medium ${getStatusStyles()}`}>
-      {status?.toUpperCase() || 'UNKNOWN'}
-    </span>
-  );
-};
-
-// --- Helper function to calculate minimum investment ---
-const calculateMinInvestment = (lotSize: string, issuePrice: string): string => {
-  try {
-    const lot = parseInt(lotSize.replace(/,/g, ''), 10);
-    
-    // Extract numeric price value - can handle formats like "₹900-₹950" or "₹900"
-    let price = 0;
-    const priceMatch = issuePrice.match(/₹\s*(\d+(?:,\d+)*)/g);
-    
-    if (priceMatch && priceMatch.length > 0) {
-      // If price range, take the upper value
-      const lastPrice = priceMatch[priceMatch.length - 1];
-      price = parseInt(lastPrice.replace(/₹\s*|,/g, ''), 10);
+  },
+  
+  // Format configurations for displaying data
+  formatConfig: {
+    currency: {
+      format: 'en-IN',
+      options: {
+        style: 'currency',
+        currency: 'INR',
+        maximumFractionDigits: 0
+      }
+    },
+    date: {
+      format: 'en-IN',
+      options: {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric'
+      }
+    },
+    percentage: {
+      suffix: '%',
+      precision: 2
     }
-    
-    const minInvestment = lot * price;
-    return minInvestment.toLocaleString('en-IN');
-  } catch (e) {
-    return 'N/A';
   }
 };
 
-// Add TypeScript interface for the various data types
-// Extend the existing IPODetailedData interface
-interface ExtendedIPODetailedData extends Omit<IPODetailedData, 'faqs' | 'anchorInvestors'> {
-  brokerRecommendations?: BrokerRecommendation[];
-  anchorInvestors?: AnchorInvestor[];
-  faqs?: FAQ[];
+// Helper function to get value from nested path
+export function getNestedValue(obj: any, path: string) {
+  return path.split('.').reduce((prev, curr) => {
+    return prev && prev[curr] !== undefined ? prev[curr] : undefined;
+  }, obj);
 }
 
-// Define interfaces for data structures not fully covered in IPODetailedData
-interface Strength {
-  id?: string | number;
-  text: string;
-}
-
-interface ObjectOfIssue {
-  id?: string | number;
-  text: string;
-}
-
-interface Financial {
-  year: string;
-  revenue: number | string;
-  profit: number | string;
-  assets?: number | string;
-}
-
-interface GMPHistoryItem {
-  date: string;
-  value: string;
-}
-
-interface BrokerRecommendation {
-  brokerName: string;
-  rating: string;
-  summary?: string;
-  date?: string;
-}
-
-interface AnchorInvestor {
-  name: string;
-  allocation: string;
-}
-
-interface FAQ {
-  question: string;
-  answer: string;
-}
-
-// --- Main IPO Detail Page Component ---
-export default async function IpoDetailPage({ params }: { params: { id: string } }) {
-  const ipoId = params?.id as string;
-  const ipo = await getIPODetailByIdSSR(ipoId);
+// Generate static paths for all IPOs
+export async function generateStaticParams() {
+  const ipoIds = await fetchAllIPOIdsFromAPI();
   
+  return ipoIds.map(id => {
+    // Remove year prefix from the ID for cleaner URLs
+    const cleanId = id.replace(/^\d{4}_/, '');
+    return { id: cleanId };
+  });
+}
+
+function extractCompanyNameFromId(ipoId: string): string {
+  let name = ipoId.replace(/^\d{4}_/, '');
+  name = name.replace(/_ipo$/, '');
+  name = name.replace(/_/g, ' ');
+  name = name
+    .split(' ')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
+  name = name.replace(/\s+(Limited|Ltd|Pvt Ltd|Private Limited|Inc|Corporation|Corp|LLC|LLP)$/i, '');
+  return name;
+}
+
+// Format the IPO data by applying the mapping configuration
+export function formatIPOData(ipoData: IPODetailedData): Record<string, any> {
+  const result: Record<string, any> = {};
+  
+  // Process each section in the config
+  Object.entries(IPO_DETAIL_CONFIG.fieldsMapping).forEach(([section, fields]) => {
+    result[section] = {};
+    
+    // Process each field in the section
+    Object.entries(fields).forEach(([displayName, apiPath]) => {
+      const value = typeof apiPath === 'string' ? getNestedValue(ipoData, apiPath) : undefined;
+      result[section][displayName] = value;
+    });
+  });
+  
+  return result;
+}
+
+// ✅ generateMetadata
+export async function generateMetadata({
+  params,
+}: {
+  params: PageParams;
+}): Promise<Metadata> {
+  const { id } = params;
+  const ipo = await fetchDetailedIPOBySlug(id);
+
   if (!ipo) {
-    return (
-      <div className="min-h-screen flex flex-col bg-gray-50 dark:bg-gray-900">
-        <Header />
-        <main className="flex-grow container mx-auto px-4 py-12 text-center">
-          <h1 className="text-2xl font-semibold text-red-600 mb-4">Error Loading IPO</h1>
-          <p className="text-gray-600 dark:text-gray-400 mb-6">Could not find details for the requested IPO.</p>
-          <Link href="/" className="text-blue-600 dark:text-blue-400 hover:underline">
-            &larr; Back to Home
-          </Link>
-        </main>
-        <Footer />
-      </div>
-    );
+    return {
+      title: 'IPO Not Found',
+      description: 'The requested IPO information could not be found.',
+    };
+  }
+
+  const companyName = ipo.companyName || extractCompanyNameFromId(ipo.id);
+  const ipoName = ipo.symbol || 'IPO';
+  const issuePrice = ipo.priceRange ? `₹${ipo.priceRange.min}-${ipo.priceRange.max}` : 'N/A';
+  const statusText = ipo.status === 'upcoming' ? 'Upcoming' : ipo.status === 'open' ? 'Open' : ipo.status === 'closed' ? 'Closed' : 'Listed';
+
+  return {
+    title: `${companyName} IPO - ${statusText} | IPO Insights`,
+    description: `${companyName} ${ipoName} details - Issue Price: ${issuePrice}, Issue Size: ₹${ipo.issueSize} Cr, Listing at: ${ipo.listingAt}`,
+    openGraph: {
+      title: `${companyName} IPO - ${statusText} | IPO Insights`,
+      description: `${companyName} ${ipoName} details - Issue Price: ${issuePrice}, Issue Size: ₹${ipo.issueSize} Cr, Listing at: ${ipo.listingAt}`,
+      images: ipo.logoUrl ? [ipo.logoUrl] : undefined,
+    },
+  };
+}
+
+// ✅ Page component
+export default async function IPODetailPage({
+  params,
+}: {
+  params: PageParams;
+}) {
+  const { id } = params;
+  const ipoData = await fetchDetailedIPOBySlug(id);
+  
+  if (!ipoData) {
+    notFound();
   }
   
-  // Generate data for the timeline
-  const timelineData = getTimelineData(ipo);
-  const financialData = getFinancialData(ipo);
-  const priceData = getPriceData(ipo);
+  // Format the IPO data according to the mapping configuration
+  const formattedData = formatIPOData(ipoData);
   
-  // Extract issue price for charts
-  const issuePrice = extractIssuePrice();
-  
-  // These functions stay the same
-  function getTimelineData(ipo: IPODetailedData | null) {
-    if (!ipo) return [];
-    
-    const now = new Date();
-    const timelineItems = [
-      { 
-        label: 'Open Date', 
-        date: ipo.tentativeDetails?.openDate,
-        isPast: ipo.tentativeDetails?.openDate ? new Date(ipo.tentativeDetails.openDate) < now : false
-      },
-      { 
-        label: 'Close Date', 
-        date: ipo.tentativeDetails?.closeDate,
-        isPast: ipo.tentativeDetails?.closeDate ? new Date(ipo.tentativeDetails.closeDate) < now : false
-      },
-      { 
-        label: 'Allotment Date', 
-        date: ipo.tentativeDetails?.allotmentDate,
-        isPast: ipo.tentativeDetails?.allotmentDate ? new Date(ipo.tentativeDetails.allotmentDate) < now : false
-      },
-      { 
-        label: 'Refunds Initiation', 
-        date: ipo.tentativeDetails?.refundsInitiation,
-        isPast: ipo.tentativeDetails?.refundsInitiation ? new Date(ipo.tentativeDetails.refundsInitiation) < now : false
-      },
-      { 
-        label: 'Shares Credit', 
-        date: ipo.tentativeDetails?.sharesCredit,
-        isPast: ipo.tentativeDetails?.sharesCredit ? new Date(ipo.tentativeDetails.sharesCredit) < now : false
-      },
-      { 
-        label: 'Listing Date', 
-        date: ipo.tentativeDetails?.listingDate,
-        isPast: ipo.tentativeDetails?.listingDate ? new Date(ipo.tentativeDetails.listingDate) < now : false
-      }
-    ];
-    
-    return timelineItems;
-  }
-  
-  function getFinancialData(ipo: IPODetailedData | null) {
-    if (!ipo || !ipo.basicDetails?.financials) {
-      // Return some mock data
-      return [
-        { year: 'FY21', revenue: 10500000, profit: 1800000 },
-        { year: 'FY22', revenue: 13200000, profit: 2400000 },
-        { year: 'FY23', revenue: 16800000, profit: 3100000 },
-      ];
-    }
-    
-    // Transform actual data if available
-    return ipo.basicDetails.financials;
-  }
-  
-  function getPriceData(ipo: IPODetailedData | null) {
-    if (!ipo || ipo.status !== 'listed') return [];
-    
-    // Extract issue price if available
-    let issuePrice = 0;
-    if (ipo.basicDetails?.issuePrice) {
-      const priceMatch = ipo.basicDetails.issuePrice.match(/₹\s*(\d+)/);
-      if (priceMatch) {
-        issuePrice = parseInt(priceMatch[1], 10);
-      }
-    }
-    
-    // Create mock data based on listing gains
-    const listingGain = ipo.listingDetail?.listingGains || '+5%';
-    const gainPercent = parseInt(listingGain.replace(/\+|\-|%/g, ''), 10) / 100;
-    const direction = listingGain.includes('-') ? -1 : 1;
-    const listingPrice = issuePrice * (1 + (direction * gainPercent));
-    
-    // Generate some price points 
-    return [
-      { date: 'Listing Day', price: listingPrice },
-      { date: 'Week 1', price: listingPrice * 1.02 },
-      { date: 'Week 2', price: listingPrice * 1.05 },
-      { date: 'Month 1', price: listingPrice * 1.08 },
-      { date: 'Month 3', price: listingPrice * 1.12 },
-      { date: 'Month 6', price: listingPrice * 1.15 },
-    ];
-  }
-  
-  function extractIssuePrice() {
-    if (!ipo?.basicDetails?.issuePrice) return undefined;
-    
-    const priceMatch = ipo.basicDetails.issuePrice.match(/₹\s*(\d+)/);
-    return priceMatch ? parseInt(priceMatch[1], 10) : undefined;
-  }
-  
-  // Pass all the data to a client component that will handle interactivity
+  // Fetch related IPOs based on the current IPO
+  const relatedIPOs = await fetchRelatedIPOs(ipoData.id);
+
   return (
-    <IPODetailClientWrapper 
-      ipo={ipo}
-      timelineData={timelineData}
-      financialData={financialData}
-      priceData={priceData}
-      issuePrice={issuePrice}
-    />
+    <main className="bg-gray-50">
+      <IPOHero ipoData={ipoData} formattedData={formattedData} config={IPO_DETAIL_CONFIG} />
+      <IPOTabs ipoData={ipoData} formattedData={formattedData} config={IPO_DETAIL_CONFIG} />
+      <RelatedIPOs ipos={relatedIPOs} />
+    </main>
   );
 }

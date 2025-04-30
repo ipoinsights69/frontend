@@ -1,33 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  images: {
+    domains: ['randomuser.me', 'chittorgarh.net', 'www.chittorgarh.net'],
+  },
+  // Disable ESLint during production builds
   eslint: {
-    // Don't run ESLint during build
     ignoreDuringBuilds: true,
   },
+  // Disable TypeScript type checking during production builds
   typescript: {
-    // Don't run TypeScript type checking during build
     ignoreBuildErrors: true,
-  },
-  // swcMinify is not needed in Next.js 13+ (removed)
-  reactStrictMode: true,
-  images: {
-    domains: ['*'],
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: '**',
-      },
-    ],
-  },
-  // Server components optimization
-  experimental: {
-    serverComponentsExternalPackages: [],
-    serverActions: true,
-  },
-  webpack: (config) => {
-    // Optimize webpack build
-    config.optimization.minimize = true;
-    return config;
   },
 };
 
