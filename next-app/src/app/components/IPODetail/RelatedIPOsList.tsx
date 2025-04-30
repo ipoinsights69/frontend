@@ -43,7 +43,7 @@ const RelatedIPOsList: React.FC<RelatedIPOsProps> = ({ ipos }) => {
                   </span>
                 )}
               </div>
-              <Link href={`/ipo/${ipo.ipo_id}`} className="text-xs text-blue-600 hover:text-blue-800">
+              <Link href={`/ipo/${ipo.ipo_id?.replace(/^\d{4}_/, '')}`} className="text-xs text-blue-600 hover:text-blue-800">
                 View Details →
               </Link>
             </div>

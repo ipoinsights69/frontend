@@ -898,3 +898,37 @@ All type definitions are centralized in `src/app/types/IPO.ts`:
 - `IPOStats`: Interface for IPO market statistics
 
 This centralized approach makes it easy to maintain consistency across the application and simplifies future changes to the data layer.
+
+## IPO Detail Pages
+
+The application features statically generated IPO detail pages that provide comprehensive information about each IPO. These pages are generated using Incremental Static Regeneration (ISR) for optimal performance and freshness.
+
+### Dynamic Routes
+
+- `/ipo/[id]`: Detail page for a specific IPO where `[id]` is the IPO identifier without the year prefix
+  - Example: `/ipo/manoj_jewellers_limited_ipo` instead of `/ipo/2025_manoj_jewellers_limited_ipo`
+
+### Implementation Details
+
+1. **Static Generation**: All IPO detail pages are pre-generated at build time using `generateStaticParams()` which fetches all available IPO IDs from the API.
+
+2. **Incremental Static Regeneration (ISR)**: 
+   - Pages are revalidated every 2 hours (7200 seconds)
+   - This ensures data stays fresh without requiring a full rebuild
+
+3. **Data Fetching**:
+   - IPO data is fetched from the external API at `http://localhost:8000/api/ipos/[id]`
+   - The year prefix (e.g., "2025_") is handled automatically in the data fetching layer
+   - Fallback to mock data when API is unavailable for development
+
+4. **URL Structure**:
+   - URLs are cleaner by removing the year prefix from the IPO ID in the URL
+   - Internal links throughout the application maintain this clean URL format
+
+### Components
+
+The detail page consists of several main components:
+
+- `IPOHero`: Displays the header section with company overview and key metrics
+- `IPOTabs`: Shows tabbed content including financials, subscription details, and more
+- `RelatedIPOs`: Lists related IPOs that might interest the user

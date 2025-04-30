@@ -430,4 +430,74 @@ export async function searchIPOs(query: string, limit = 10): Promise<IPO[]> {
  */
 export async function fetchAllIPOIds(): Promise<string[]> {
   return mockIPOs.map(ipo => ipo.id);
+}
+
+/**
+ * Fetch all IPO IDs from the external API
+ */
+export async function fetchAllIPOIdsFromAPI(revalidateSeconds = 7200): Promise<string[]> {
+  try {
+    const response = await fetch(`http://localhost:8000/api/ipos/ids`, {
+      next: { revalidate: revalidateSeconds }
+    });
+    
+    if (!response.ok) {
+      throw new Error(`Failed to fetch IPO IDs: ${response.status}`);
+    }
+    
+    const data = await response.json();
+    return data.data || [];
+  } catch (error) {
+    console.error('Error fetching IPO IDs:', error);
+    return [];
+  }
+}
+
+/**
+ * Fetch detailed IPO data by slug from the external API
+ */
+export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7200): Promise<IPODetailedData | null> {
+  try {
+    // Add back the year prefix if it's been removed
+    const ipoId = slug.startsWith('20') ? slug : `2025_${slug}`;
+    
+    const response = await fetch(`http://localhost:8000/api/ipos/${ipoId}`, {
+      next: { revalidate: revalidateSeconds }
+    });
+    
+    if (!response.ok) {
+      if (response.status === 404) {
+        return null;
+      }
+      throw new Error(`Failed to fetch IPO data: ${response.status}`);
+    }
+    
+    const data = await response.json();
+    
+    // Transform the API response to match our IPODetailedData interface
+    return {
+      id: data.ipo_id || ipoId,
+      companyName: data.company_name?.replace(' IPO', '') || '',
+      symbol: data.company_name || '',
+      industry: data.listing_at || '',
+      status: data.status || 'unknown',
+      openDate: data.opening_date,
+      closeDate: data.closing_date,
+      listingDate: data.listing_date,
+      priceRange: data.issue_price ? {
+        min: parseInt(data.issue_price),
+        max: parseInt(data.issue_price)
+      } : undefined,
+      issueSize: data.issue_amount ? parseFloat(data.issue_amount) : undefined,
+      listingAt: data.listing_at,
+      leadManager: data.lead_manager,
+      // Convert any other fields as needed
+    } as IPODetailedData;
+  } catch (error) {
+    console.error(`Error fetching IPO data for ${slug}:`, error);
+    
+    // Fallback to mock data if available
+    const mockId = slug.replace(/^\d{4}_/, '').replace(/_ipo$/, '');
+    return await fetchDetailedIPOById(mockId);
+  }
 } 

@@ -1,14 +1,26 @@
 import { Metadata } from 'next';
-import { fetchDetailedIPOById, fetchRelatedIPOs } from '@/app/api/ipos/handlers';
+import { fetchDetailedIPOById, fetchRelatedIPOs, fetchDetailedIPOBySlug, fetchAllIPOIdsFromAPI } from '@/app/api/ipos/handlers';
 import { notFound } from 'next/navigation';
 import IPOHero from '@/app/components/IPODetail/IPOHero';
 import IPOTabs from '@/app/components/IPODetail/IPOTabs';
 import RelatedIPOs from '@/app/components/IPODetail/RelatedIPOsList';
 
-export const revalidate = 3600;
+// Set revalidation time to 2 hours (7200 seconds)
+export const revalidate = 7200;
 
 interface PageParams {
   id: string;
+}
+
+// Generate static paths for all IPOs
+export async function generateStaticParams() {
+  const ipoIds = await fetchAllIPOIdsFromAPI();
+  
+  return ipoIds.map(id => {
+    // Remove year prefix from the ID for cleaner URLs
+    const cleanId = id.replace(/^\d{4}_/, '');
+    return { id: cleanId };
+  });
 }
 
 function extractCompanyNameFromId(ipoId: string): string {
@@ -27,10 +39,10 @@ function extractCompanyNameFromId(ipoId: string): string {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<PageParams>;
+  params: PageParams;
 }): Promise<Metadata> {
-  const { id } = await params;
-  const ipo = await fetchDetailedIPOById(id);
+  const { id } = params;
+  const ipo = await fetchDetailedIPOBySlug(id);
 
   if (!ipo) {
     return {
@@ -53,15 +65,17 @@ export async function generateMetadata({
 export default async function IPODetailPage({
   params,
 }: {
-  params: Promise<PageParams>;
+  params: PageParams;
 }) {
-  const { id } = await params;
-  const ipoData = await fetchDetailedIPOById(id);
-  const relatedIPOs = await fetchRelatedIPOs(id);
-
+  const { id } = params;
+  const ipoData = await fetchDetailedIPOBySlug(id);
+  
   if (!ipoData) {
     notFound();
   }
+  
+  // Fetch related IPOs based on the current IPO
+  const relatedIPOs = await fetchRelatedIPOs(ipoData.id);
 
   return (
     <main className="bg-gray-50">

@@ -183,7 +183,7 @@ const IPOTable: React.FC<IPOTableProps> = ({
                         ))}
                         <td className="px-4 py-4 text-sm whitespace-nowrap">
                           <Link 
-                            href={`/ipo/${ipo.id}`} 
+                            href={`/ipo/${ipo.id.replace(/^\d{4}_/, '')}`} 
                             className="px-2 py-2 text-blue-500 transition-colors duration-200 rounded-full hover:bg-blue-50"
                           >
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" className="w-5 h-5">
