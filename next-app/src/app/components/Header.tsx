@@ -65,7 +65,8 @@ export default function Header() {
           { name: 'Market', path: '/market', active: pathname === '/market' },
           { name: 'IPO Calendar', path: '/calendar', active: pathname === '/calendar' },
           { name: 'Performance', path: '/performance', active: pathname === '/performance' },
-          { name: 'Insights', path: '/insights', active: pathname === '/insights' }
+          { name: 'Insights', path: '/insights', active: pathname === '/insights' },
+          { name: 'Admin', path: '/admin', active: pathname === '/admin' }
         ]);
       }
     }
