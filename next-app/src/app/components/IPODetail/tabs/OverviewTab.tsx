@@ -1,31 +1,68 @@
 import React from 'react';
+import { IPODetailedData } from '@/app/types/IPO';
 
 interface OverviewTabProps {
-  ipoData: any;
+  ipoData: IPODetailedData;
+  formattedData?: Record<string, any>;
+  config?: {
+    sections: Record<string, boolean>;
+    fieldsMapping: Record<string, Record<string, string>>;
+    formatConfig: Record<string, any>;
+  };
+  showCompanyInfo?: boolean;
 }
 
-const OverviewTab: React.FC<OverviewTabProps> = ({ ipoData }) => {
+const OverviewTab: React.FC<OverviewTabProps> = ({ 
+  ipoData, 
+  formattedData = {}, 
+  config,
+  showCompanyInfo = false
+}) => {
+  // Get data from formatted structure or fallback to direct access
+  const overviewData = formattedData?.overview || {};
+  const companyData = formattedData?.company || {};
+  
+  // Determine which data to display based on the tab
+  const description = showCompanyInfo ? 
+    (companyData.description || ipoData.description) : 
+    (overviewData.description || ipoData.description);
+  
+  const businessSegments = showCompanyInfo ? 
+    (companyData.business || ipoData.business_segments) : 
+    undefined;
+  
+  const competitiveStrengths = showCompanyInfo ? 
+    (companyData.strengths || ipoData.competitive_strengths) : 
+    undefined;
+  
+  const promoters = showCompanyInfo ? 
+    (companyData.promoters || ipoData.promoters) : 
+    undefined;
+  
+  // Get company name
+  const companyName = ipoData.companyName || '';
+
   return (
     <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
       {/* About the Company and Business Segments */}
       <div className="lg:col-span-2 space-y-6">
         {/* About the Company */}
-        {ipoData.about?.details && (
+        {description && (
           <div className="bg-white border border-gray-200 rounded-md p-4">
-            <h2 className="text-base font-medium text-gray-800 mb-3">About {ipoData.company_name}</h2>
+            <h2 className="text-base font-medium text-gray-800 mb-3">About {companyName}</h2>
             <div 
               className="text-sm text-gray-600 space-y-3"
-              dangerouslySetInnerHTML={{ __html: ipoData.about.details }}
+              dangerouslySetInnerHTML={{ __html: description }}
             />
           </div>
         )}
 
-        {/* Business Segments */}
-        {ipoData.business_segments && ipoData.business_segments.length > 0 && (
+        {/* Business Segments - only show in company tab or if specified */}
+        {showCompanyInfo && businessSegments && businessSegments.length > 0 && (
           <div className="bg-white border border-gray-200 rounded-md p-4">
             <h2 className="text-base font-medium text-gray-800 mb-3">Business Segments</h2>
             <div className="space-y-3">
-              {ipoData.business_segments.map((segment: any, index: number) => (
+              {businessSegments.map((segment: any, index: number) => (
                 <div key={index} className="flex items-start">
                   <div className="flex-shrink-0 h-8 w-8 bg-blue-100 rounded-md flex items-center justify-center text-blue-600 mt-0.5">
                     <i className={`${segment.icon || 'fas fa-industry'} text-sm`}></i>
@@ -40,12 +77,12 @@ const OverviewTab: React.FC<OverviewTabProps> = ({ ipoData }) => {
           </div>
         )}
 
-        {/* Competitive Strengths */}
-        {ipoData.competitive_strengths && ipoData.competitive_strengths.length > 0 && (
+        {/* Competitive Strengths - only show in company tab or if specified */}
+        {showCompanyInfo && competitiveStrengths && competitiveStrengths.length > 0 && (
           <div className="bg-white border border-gray-200 rounded-md p-4">
             <h2 className="text-base font-medium text-gray-800 mb-3">Competitive Strengths</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-              {ipoData.competitive_strengths.map((strength: string, index: number) => (
+              {competitiveStrengths.map((strength: string, index: number) => (
                 <div key={index} className="flex items-start">
                   <div className="flex-shrink-0 text-green-500 mt-0.5 mr-2">
                     <i className="fas fa-check-circle"></i>
@@ -56,89 +93,153 @@ const OverviewTab: React.FC<OverviewTabProps> = ({ ipoData }) => {
             </div>
           </div>
         )}
+        
+        {/* Overview Details - only show in overview tab */}
+        {!showCompanyInfo && (
+          <div className="bg-white border border-gray-200 rounded-md p-4">
+            <h2 className="text-base font-medium text-gray-800 mb-3">IPO Details</h2>
+            <div className="space-y-3">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {ipoData.openDate && (
+                  <div>
+                    <h3 className="text-sm font-medium text-gray-700">Open Date</h3>
+                    <p className="text-sm text-gray-600">{ipoData.openDate}</p>
+                  </div>
+                )}
+                
+                {ipoData.closeDate && (
+                  <div>
+                    <h3 className="text-sm font-medium text-gray-700">Close Date</h3>
+                    <p className="text-sm text-gray-600">{ipoData.closeDate}</p>
+                  </div>
+                )}
+                
+                {ipoData.listingDate && (
+                  <div>
+                    <h3 className="text-sm font-medium text-gray-700">Listing Date</h3>
+                    <p className="text-sm text-gray-600">{ipoData.listingDate}</p>
+                  </div>
+                )}
+                
+                {ipoData.issueType && (
+                  <div>
+                    <h3 className="text-sm font-medium text-gray-700">Issue Type</h3>
+                    <p className="text-sm text-gray-600">{ipoData.issueType}</p>
+                  </div>
+                )}
+                
+                {ipoData.priceRange && (
+                  <div>
+                    <h3 className="text-sm font-medium text-gray-700">Price Range</h3>
+                    <p className="text-sm text-gray-600">
+                      ₹{ipoData.priceRange.min === ipoData.priceRange.max ? 
+                        ipoData.priceRange.min : 
+                        `${ipoData.priceRange.min}-${ipoData.priceRange.max}`}
+                    </p>
+                  </div>
+                )}
+                
+                {ipoData.lotSize && (
+                  <div>
+                    <h3 className="text-sm font-medium text-gray-700">Lot Size</h3>
+                    <p className="text-sm text-gray-600">{ipoData.lotSize} shares</p>
+                  </div>
+                )}
+                
+                {ipoData.issueSize && (
+                  <div>
+                    <h3 className="text-sm font-medium text-gray-700">Issue Size</h3>
+                    <p className="text-sm text-gray-600">₹{ipoData.issueSize} Cr</p>
+                  </div>
+                )}
+                
+                {ipoData.listingAt && (
+                  <div>
+                    <h3 className="text-sm font-medium text-gray-700">Listing At</h3>
+                    <p className="text-sm text-gray-600">{ipoData.listingAt}</p>
+                  </div>
+                )}
+                
+                {ipoData.leadManager && (
+                  <div>
+                    <h3 className="text-sm font-medium text-gray-700">Lead Manager</h3>
+                    <div 
+                      className="text-sm text-gray-600"
+                      dangerouslySetInnerHTML={{ __html: ipoData.leadManager }}
+                    />
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+        )}
       </div>
 
       {/* Sidebar */}
       <div className="space-y-6">
-        {/* IPO Objectives */}
-        {ipoData.ipo_objectives && ipoData.ipo_objectives.length > 0 && (
-          <div className="bg-white border border-gray-200 rounded-md p-4">
-            <h2 className="text-base font-medium text-gray-800 mb-3">IPO Objectives</h2>
-            <div className="space-y-3">
-              {ipoData.ipo_objectives.map((objective: any, index: number) => (
-                <div key={index}>
-                  <div className="flex justify-between text-sm mb-1">
-                    <span className="text-gray-600">{objective.name}</span>
-                    <span className="font-medium text-gray-800">
-                      ₹{(objective.amount / 1000000).toFixed(2)}M
-                    </span>
-                  </div>
-                  <div className="w-full bg-gray-200 rounded-full h-1.5">
-                    <div 
-                      className="bg-blue-600 h-1.5 rounded-full" 
-                      style={{ width: `${objective.percentage}%` }}
-                    ></div>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
-
         {/* Promoter Information */}
-        {ipoData.promoters && ipoData.promoters.length > 0 && (
+        {showCompanyInfo && promoters && promoters.length > 0 && (
           <div className="bg-white border border-gray-200 rounded-md p-4">
             <h2 className="text-base font-medium text-gray-800 mb-3">Promoter Information</h2>
             <p className="text-sm text-gray-600 mb-3">
-              {ipoData.promoters.join(', ')} {ipoData.promoters.length > 1 ? 'are' : 'is'} the promoter{ipoData.promoters.length > 1 ? 's' : ''} of the company.
+              {promoters.join(', ')} {promoters.length > 1 ? 'are' : 'is'} the promoter{promoters.length > 1 ? 's' : ''} of the company.
             </p>
-            
-            {ipoData.promoter_holding_pre && ipoData.promoter_holding_post && (
-              <div className="space-y-2">
-                <div className="flex justify-between">
-                  <span className="text-sm text-gray-600">Pre-Issue Holding</span>
-                  <span className="text-sm font-medium text-gray-800">{ipoData.promoter_holding_pre.toFixed(2)}%</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-sm text-gray-600">Post-Issue Holding</span>
-                  <span className="text-sm font-medium text-gray-800">{ipoData.promoter_holding_post.toFixed(2)}%</span>
-                </div>
-              </div>
-            )}
           </div>
         )}
 
         {/* Contact Information */}
-        {ipoData.contact && (
+        {ipoData.registrarDetails && (
           <div className="bg-white border border-gray-200 rounded-md p-4">
-            <h2 className="text-base font-medium text-gray-800 mb-3">Contact Information</h2>
+            <h2 className="text-base font-medium text-gray-800 mb-3">Registrar Information</h2>
             <div className="space-y-2 text-sm">
-              {ipoData.contact.address && (
+              {ipoData.registrarDetails.name && (
                 <div className="flex">
-                  <i className="fas fa-map-marker-alt text-gray-400 w-5"></i>
-                  <span className="text-gray-600 ml-2">{ipoData.contact.address}</span>
+                  <i className="fas fa-building text-gray-400 w-5"></i>
+                  <span className="text-gray-600 ml-2">{ipoData.registrarDetails.name}</span>
                 </div>
               )}
-              {ipoData.contact.phone && (
+              {ipoData.registrarDetails.phone && (
                 <div className="flex">
                   <i className="fas fa-phone text-gray-400 w-5"></i>
-                  <span className="text-gray-600 ml-2">{ipoData.contact.phone}</span>
+                  <span className="text-gray-600 ml-2">{ipoData.registrarDetails.phone}</span>
                 </div>
               )}
-              {ipoData.contact.email && (
+              {ipoData.registrarDetails.email && (
                 <div className="flex">
                   <i className="fas fa-envelope text-gray-400 w-5"></i>
-                  <span className="text-gray-600 ml-2">{ipoData.contact.email}</span>
+                  <span className="text-gray-600 ml-2">{ipoData.registrarDetails.email}</span>
                 </div>
               )}
-              {ipoData.contact.website && (
+              {ipoData.registrarDetails.website && (
                 <div className="flex">
                   <i className="fas fa-globe text-gray-400 w-5"></i>
-                  <a href={ipoData.contact.website} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 ml-2">
-                    {ipoData.contact.website.replace(/(^\w+:|^)\/\//, '')}
+                  <a href={ipoData.registrarDetails.website} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 ml-2">
+                    {ipoData.registrarDetails.website.replace(/(^\w+:|^)\/\//, '')}
                   </a>
                 </div>
               )}
+            </div>
+          </div>
+        )}
+        
+        {/* Prospectus Links */}
+        {ipoData.prospectus_links && ipoData.prospectus_links.length > 0 && (
+          <div className="bg-white border border-gray-200 rounded-md p-4">
+            <h2 className="text-base font-medium text-gray-800 mb-3">Prospectus Links</h2>
+            <div className="space-y-2">
+              {ipoData.prospectus_links.map((link, index) => (
+                <div key={index} className="flex items-center text-sm">
+                  <i className="fas fa-file-pdf text-red-500 mr-2"></i>
+                  <a 
+                    href={link.url} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-blue-600 hover:text-blue-800 hover:underline"
+                  >
+                    {link.name}
+                  </a>
+                </div>
+              ))}
             </div>
           </div>
         )}

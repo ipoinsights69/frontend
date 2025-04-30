@@ -8,30 +8,54 @@ import SubscriptionTab from './tabs/SubscriptionTab';
 import ListingTab from './tabs/ListingTab';
 import DetailsTab from './tabs/DetailsTab';
 import FAQsTab from './tabs/FAQsTab';
+import { IPODetailedData } from '@/app/types/IPO';
 
 interface IPOTabsProps {
-  ipoData: any;
+  ipoData: IPODetailedData;
+  formattedData?: Record<string, any>;
+  config?: {
+    sections: Record<string, boolean>;
+    fieldsMapping: Record<string, Record<string, string>>;
+    formatConfig: Record<string, any>;
+  };
 }
 
-const IPOTabs: React.FC<IPOTabsProps> = ({ ipoData }) => {
+const IPOTabs: React.FC<IPOTabsProps> = ({ ipoData, formattedData = {}, config }) => {
   const [activeTab, setActiveTab] = useState('overview');
   
-  // Always show all tabs, and handle missing data within each tab component
-  // This ensures users can access all sections even if some data is incomplete
-  const hasOverview = true;
-  const hasFinancials = true;
-  const hasSubscription = true;
-  const hasListingPerformance = true;
-  const hasDetails = true;
-  const hasFAQs = ipoData.faqs && ipoData.faqs.length > 0;
+  // Check which sections are available based on the config and data
+  const sections = config?.sections || {
+    overview: true,
+    financials: true,
+    subscription: true,
+    company: true,
+    allotment: true,
+    faqs: true
+  };
+  
+  // Determine which tabs to show based on available data
+  const hasOverview = sections.overview;
+  const hasFinancials = sections.financials && 
+    (ipoData.financials || formattedData.financials?.data);
+  const hasSubscription = sections.subscription && 
+    (ipoData.overallSubscription || formattedData.subscription?.overall || 
+     ipoData.subscription_details || formattedData.subscription?.dayWise);
+  const hasCompany = sections.company && 
+    (ipoData.description || formattedData.company?.description ||
+     ipoData.business_segments || formattedData.company?.business);
+  const hasListingPerformance = ipoData.status === 'listed' || 
+    ipoData.listingPrice !== undefined;
+  const hasFAQs = sections.faqs && 
+    (ipoData.faqs && ipoData.faqs.length > 0 || formattedData.faqs?.items);
   
   // Define available tabs - show all tabs and handle missing data inside each component
   const tabs = [
     { id: 'overview', label: 'Overview', isAvailable: hasOverview },
+    { id: 'company', label: 'Company', isAvailable: hasCompany },
     { id: 'financials', label: 'Financials', isAvailable: hasFinancials },
     { id: 'subscription', label: 'Subscription', isAvailable: hasSubscription },
     { id: 'listing', label: 'Listing Performance', isAvailable: hasListingPerformance },
-    { id: 'details', label: 'IPO Details', isAvailable: hasDetails },
+    { id: 'allotment', label: 'Allotment', isAvailable: sections.allotment },
     { id: 'faqs', label: 'FAQs', isAvailable: hasFAQs }
   ].filter(tab => tab.isAvailable);
   
@@ -63,12 +87,56 @@ const IPOTabs: React.FC<IPOTabsProps> = ({ ipoData }) => {
 
       {/* Tab Content */}
       <div className="tab-content-container">
-        {activeTab === 'overview' && <OverviewTab ipoData={ipoData} />}
-        {activeTab === 'financials' && <FinancialsTab ipoData={ipoData} />}
-        {activeTab === 'subscription' && <SubscriptionTab ipoData={ipoData} />}
-        {activeTab === 'listing' && <ListingTab ipoData={ipoData} />}
-        {activeTab === 'details' && <DetailsTab ipoData={ipoData} />}
-        {activeTab === 'faqs' && hasFAQs && <FAQsTab ipoData={ipoData} />}
+        {activeTab === 'overview' && 
+          <OverviewTab 
+            ipoData={ipoData} 
+            formattedData={formattedData} 
+            config={config} 
+          />
+        }
+        {activeTab === 'company' && 
+          <OverviewTab 
+            ipoData={ipoData} 
+            formattedData={formattedData} 
+            config={config} 
+            showCompanyInfo={true}
+          />
+        }
+        {activeTab === 'financials' && 
+          <FinancialsTab 
+            ipoData={ipoData} 
+            formattedData={formattedData} 
+            config={config} 
+          />
+        }
+        {activeTab === 'subscription' && 
+          <SubscriptionTab 
+            ipoData={ipoData} 
+            formattedData={formattedData} 
+            config={config} 
+          />
+        }
+        {activeTab === 'listing' && 
+          <ListingTab 
+            ipoData={ipoData} 
+            formattedData={formattedData} 
+            config={config} 
+          />
+        }
+        {activeTab === 'allotment' && 
+          <DetailsTab 
+            ipoData={ipoData} 
+            formattedData={formattedData} 
+            config={config} 
+          />
+        }
+        {activeTab === 'faqs' && hasFAQs && 
+          <FAQsTab 
+            ipoData={ipoData} 
+            formattedData={formattedData} 
+            config={config} 
+          />
+        }
       </div>
     </section>
   );

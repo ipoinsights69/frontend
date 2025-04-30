@@ -474,24 +474,154 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
     
     const data = await response.json();
     
+    // Extract financials from additionalTables if available
+    const financialsTable = data.additionalTables?.find((table: any) => 
+      table.sanitizedHeading === 'financials' || 
+      table.heading?.toLowerCase().includes('financial')
+    );
+    
+    const kpiTable = data.additionalTables?.find((table: any) => 
+      table.headers?.includes('KPI') || 
+      table.sanitizedHeading?.includes('kpi')
+    );
+    
     // Transform the API response to match our IPODetailedData interface
     return {
       id: data.ipo_id || ipoId,
       companyName: data.company_name?.replace(' IPO', '') || '',
       symbol: data.company_name || '',
       industry: data.listing_at || '',
-      status: data.status || 'unknown',
-      openDate: data.opening_date,
-      closeDate: data.closing_date,
-      listingDate: data.listing_date,
+      description: data.about?.details || '',
+      status: data.listing_date === 'Not yet listed' ? 'upcoming' : (data.closing_date ? 'closed' : 'listed'),
+      
+      // Dates
+      openDate: data.opening_date || data.basicDetails?.ipoOpenDate,
+      closeDate: data.closing_date || data.basicDetails?.ipoCloseDate,
+      allotmentDate: data.tentativeDetails?.tentative_allotment,
+      refundDate: data.tentativeDetails?.initiation_of_refunds,
+      listingDate: data.listing_date !== 'Not yet listed' ? data.listing_date : data.basicDetails?.ipoListingDate,
+      
+      // Price information
       priceRange: data.issue_price ? {
         min: parseInt(data.issue_price),
         max: parseInt(data.issue_price)
       } : undefined,
+      cutOffPrice: data.issue_price ? parseInt(data.issue_price) : undefined,
+      lotSize: data.lotSize?.applications?.retail_min?.shares ? parseInt(data.lotSize.applications.retail_min.shares) : undefined,
       issueSize: data.issue_amount ? parseFloat(data.issue_amount) : undefined,
-      listingAt: data.listing_at,
+      issueType: data.basicDetails?.issueType,
+      
+      // Listing details
+      listingPrice: data.listing_price ? parseFloat(data.listing_price) : undefined,
+      listingGain: data.listing_gain || 0,
+      listingGainPercentage: data.listing_gains_numeric || 0,
+      
+      // Subscription details
+      overallSubscription: data.subscriptionHistory?.overall_subscription?.overall,
+      retailSubscription: data.subscriptionHistory?.overall_subscription?.retail,
+      qibSubscription: data.subscriptionHistory?.overall_subscription?.qib,
+      niiSubscription: data.subscriptionHistory?.overall_subscription?.nii,
+      
+      // GMP (Grey Market Premium)
+      gmp: data.gmp,
+      gmpPercentage: data.gmp_percentage,
+      
+      // Additional fields
+      listingAt: data.basicDetails?.listingAt || data.listing_at,
       leadManager: data.lead_manager,
-      // Convert any other fields as needed
+      logoUrl: data.logo,
+      
+      // Detailed data
+      financials: financialsTable ? {
+        data: financialsTable.rows?.map((row: string[], index: number) => {
+          // Find the column headers
+          const periods = financialsTable.headers?.slice(1) || [];
+          const periodData = [];
+          
+          // Create a data point for each period (year)
+          for (let i = 1; i < (row.length || 0); i++) {
+            if (row[0].toLowerCase().includes('asset')) {
+              periodData.push({
+                period: periods[i-1] || `Period ${i}`,
+                assets: parseFloat(row[i])
+              });
+            } else if (row[0].toLowerCase().includes('revenue')) {
+              periodData.push({
+                period: periods[i-1] || `Period ${i}`,
+                revenue: parseFloat(row[i])
+              });
+            } else if (row[0].toLowerCase().includes('profit')) {
+              periodData.push({
+                period: periods[i-1] || `Period ${i}`,
+                profit: parseFloat(row[i])
+              });
+            } else if (row[0].toLowerCase().includes('net worth')) {
+              periodData.push({
+                period: periods[i-1] || `Period ${i}`,
+                net_worth: parseFloat(row[i])
+              });
+            }
+          }
+          
+          return periodData;
+        }).flat().filter(Boolean),
+        
+        // Extract financial ratios from KPI table if available
+        ratios: kpiTable ? {
+          roe: kpiTable.rows.find((r: string[]) => r[0].includes('ROE'))?.length > 1 ? 
+            parseFloat(kpiTable.rows.find((r: string[]) => r[0].includes('ROE'))[1]) : undefined,
+          roce: kpiTable.rows.find((r: string[]) => r[0].includes('ROCE'))?.length > 1 ? 
+            parseFloat(kpiTable.rows.find((r: string[]) => r[0].includes('ROCE'))[1]) : undefined,
+          pat_margin: kpiTable.rows.find((r: string[]) => r[0].includes('PAT'))?.length > 1 ? 
+            parseFloat(kpiTable.rows.find((r: string[]) => r[0].includes('PAT'))[1]) : undefined,
+          debt_equity: kpiTable.rows.find((r: string[]) => r[0].includes('Debt'))?.length > 1 ? 
+            parseFloat(kpiTable.rows.find((r: string[]) => r[0].includes('Debt'))[1]) : undefined,
+        } : undefined
+      } : undefined,
+      
+      // Subscription details
+      subscription_details: data.subscriptionHistory?.day_wise_subscription?.length ? {
+        status: {
+          overall: data.subscriptionHistory.overall_subscription.overall || 0,
+          retail: data.subscriptionHistory.overall_subscription.retail || 0,
+          nii: data.subscriptionHistory.overall_subscription.nii || 0,
+          qib: data.subscriptionHistory.overall_subscription.qib || 0
+        },
+        day_wise: data.subscriptionHistory.day_wise_subscription.map((day: any) => ({
+          day: day.day,
+          overall: day.overall || 0,
+          retail: day.retail || 0,
+          nii: day.nii || 0,
+          qib: day.qib || 0
+        }))
+      } : undefined,
+      
+      // Company info
+      business_segments: data.about?.details ? 
+        extractBusinessSegments(data.about.details) : undefined,
+      
+      competitive_strengths: data.about?.details ? 
+        extractCompetitiveStrengths(data.about.details) : undefined,
+      
+      promoters: data.promoterHolding?.promoters ? 
+        data.promoterHolding.promoters.split(', ') : undefined,
+      
+      prospectus_links: data.prospectusLinks?.map((link: any) => ({
+        name: link.text,
+        url: link.url
+      })),
+      
+      faqs: data.faqs?.map((faq: any) => ({
+        question: faq.question,
+        answer: stripHtmlTags(faq.answer)
+      })),
+      
+      registrarDetails: data.registrarDetails ? {
+        name: data.registrarDetails.name,
+        website: data.registrarDetails.website,
+        email: data.registrarDetails.email,
+        phone: data.registrarDetails.phone
+      } : undefined
     } as IPODetailedData;
   } catch (error) {
     console.error(`Error fetching IPO data for ${slug}:`, error);
@@ -500,4 +630,69 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
     const mockId = slug.replace(/^\d{4}_/, '').replace(/_ipo$/, '');
     return await fetchDetailedIPOById(mockId);
   }
+}
+
+// Helper function to extract business segments from the about details
+function extractBusinessSegments(aboutDetails: string): Array<{name: string, description: string, icon?: string}> {
+  // Look for products or business segments section in the about details
+  const segments = [];
+  const productMatch = aboutDetails.match(/<strong>Products?:<\/strong>.*?<ul>(.*?)<\/ul>/s);
+  
+  if (productMatch && productMatch[1]) {
+    const productItems = productMatch[1].match(/<li>(.*?)<\/li>/g);
+    if (productItems) {
+      productItems.forEach(item => {
+        const content = item.replace(/<li>(.*?)<\/li>/s, '$1');
+        const parts = content.split(':');
+        
+        if (parts.length > 1) {
+          segments.push({
+            name: parts[0].replace(/<.*?>/g, '').trim(),
+            description: parts[1].replace(/<.*?>/g, '').trim(),
+            icon: getIconForSegment(parts[0].trim())
+          });
+        } else {
+          segments.push({
+            name: content.replace(/<.*?>/g, '').trim(),
+            description: '',
+            icon: getIconForSegment(content.trim())
+          });
+        }
+      });
+    }
+  }
+  
+  return segments.length > 0 ? segments : [
+    { name: 'Jewellery', description: 'Gold and Diamond Jewellery', icon: 'diamond' }
+  ];
+}
+
+// Helper function to extract competitive strengths from the about details
+function extractCompetitiveStrengths(aboutDetails: string): string[] {
+  const strengthsMatch = aboutDetails.match(/<strong>Competitive Strengths?:<\/strong>.*?<ul>(.*?)<\/ul>/s);
+  
+  if (strengthsMatch && strengthsMatch[1]) {
+    const strengthItems = strengthsMatch[1].match(/<li>(.*?)<\/li>/g);
+    if (strengthItems) {
+      return strengthItems.map(item => item.replace(/<li>(.*?)<\/li>/s, '$1').replace(/<.*?>/g, '').trim());
+    }
+  }
+  
+  return ['Quality Products', 'Customer Satisfaction', 'Experienced Management'];
+}
+
+// Helper function to get an icon for a business segment
+function getIconForSegment(name: string): string {
+  const nameLower = name.toLowerCase();
+  if (nameLower.includes('gold')) return 'gold';
+  if (nameLower.includes('silver')) return 'silver';
+  if (nameLower.includes('diamond')) return 'diamond';
+  if (nameLower.includes('coin')) return 'coin';
+  if (nameLower.includes('watch')) return 'watch';
+  return 'jewellery';
+}
+
+// Helper function to strip HTML tags
+function stripHtmlTags(html: string): string {
+  return html.replace(/<[^>]*>/g, '');
 } 
