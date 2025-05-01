@@ -71,6 +71,56 @@ export interface IPOStats {
 }
 
 export interface IPODetailedData extends IPO {
+  // Base information
+  sharesOffered?: number;
+  totalApplications?: number;
+  
+  // Charts and visualization data
+  listingDayPrices?: number[];
+  
+  // Detailed information
+  contactDetails?: {
+    full_address?: string;
+    phone?: string;
+    email?: string;
+    website?: string;
+  };
+  
+  basicDetails?: {
+    issuePrice?: number;
+    faceValue?: number;
+    issueSize?: number;
+    lotSize?: number;
+    ipoListingDate?: string;
+    creditOfSharesToDemat?: string;
+    refundDate?: string;
+  };
+  
+  // Lead managers
+  leadManagers?: Array<{
+    name: string;
+    website?: string;
+    email?: string;
+    phone?: string;
+  }>;
+  
+  // Listing details
+  listingDetails?: {
+    scriptCode?: string;
+    isin?: string;
+    exchange?: string;
+  };
+  
+  // Reservation information
+  reservation?: {
+    allocation: Array<{
+      investor_category: string;
+      shares_offered: string;
+      percentage?: number;
+    }>;
+  };
+  
+  // Financial information
   financials?: {
     data?: Array<{
       period: string;
@@ -94,6 +144,15 @@ export interface IPODetailedData extends IPO {
     };
   };
   
+  // Shareholding pattern
+  promoterHolding?: {
+    holdings: {
+      share_holding_pre_issue?: string;
+      share_holding_post_issue?: string;
+    };
+  };
+  
+  // Subscription details
   subscription_details?: {
     status: {
       overall: number;
@@ -109,6 +168,14 @@ export interface IPODetailedData extends IPO {
       qib?: number;
     }>;
   };
+  
+  // Additional tables (like objectives)
+  additionalTables?: Array<{
+    heading?: string;
+    sanitizedHeading?: string;
+    headers?: string[];
+    rows?: Array<string[]>;
+  }>;
   
   listing_performance?: {
     listing_date: string;
