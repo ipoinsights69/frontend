@@ -1,6 +1,5 @@
 "use client"
 import React, { useState } from 'react';
-import Link from 'next/link';
 import { IPO } from '@/app/types/IPO';
 import IPOTable from './IPOTable';
 
@@ -105,7 +104,6 @@ export default function HomeIPOShowcase({
           description="Hot opportunities in the primary market"
           ipos={limitedUpcomingIPOs}
           columns={upcomingIPOColumns}
-          viewAllLink="/upcoming-ipos"
         />
 
         {/* Top Performing IPOs Table */}
@@ -114,7 +112,6 @@ export default function HomeIPOShowcase({
           description="Best performing stocks in the market"
           ipos={limitedTopPerformingIPOs}
           columns={topPerformingColumns}
-          viewAllLink="/trending-ipos"
         />
 
         {/* Recently Listed IPOs Table */}
@@ -123,7 +120,6 @@ export default function HomeIPOShowcase({
           description="Latest entries in the stock market"
           ipos={limitedRecentlyListedIPOs}
           columns={recentlyListedColumns}
-          viewAllLink="/recent-ipos"
         />
 
         {/* Open/Closed IPOs Table */}
@@ -132,7 +128,6 @@ export default function HomeIPOShowcase({
           description="IPOs in allotment phase"
           ipos={limitedClosedIPOs}
           columns={closedIPOColumns}
-          viewAllLink="/closed-ipos"
         />
 
         {/* IPO FAQ Section */}

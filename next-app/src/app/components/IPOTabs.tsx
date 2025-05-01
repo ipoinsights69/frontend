@@ -1,7 +1,6 @@
 'use client';
 
 import React, { useState } from 'react';
-import Link from 'next/link';
 import { IPO } from '@/app/types/IPO';
 import IPOCard from './IPOCard';
 
@@ -32,26 +31,22 @@ const IPOTabs: React.FC<IPOTabsProps> = ({
       case 'trending':
         return {
           items: trendingIPOs.slice(0, 3),
-          viewAllLink: '/trending-ipos',
-          linkText: 'View all trending IPOs'
+          tabTitle: 'Trending IPOs'
         };
       case 'upcoming':
         return {
           items: upcomingIPOs.slice(0, 3),
-          viewAllLink: '/upcoming-ipos',
-          linkText: 'View all upcoming IPOs'
+          tabTitle: 'Upcoming IPOs'
         };
       case 'recent':
         return {
           items: recentIPOs.slice(0, 3),
-          viewAllLink: '/recent-ipos',
-          linkText: 'View all recently listed IPOs'
+          tabTitle: 'Recently Listed IPOs'
         };
       case 'closed':
         return {
           items: closedIPOs.slice(0, 3),
-          viewAllLink: '/closed-ipos',
-          linkText: 'View all closed IPOs'
+          tabTitle: 'Closed IPOs'
         };
     }
   };
@@ -126,14 +121,9 @@ const IPOTabs: React.FC<IPOTabsProps> = ({
           </div>
         )}
 
-        {/* View more link */}
-        <div className="px-6 py-3 flex justify-center border-t border-gray-100">
-          <Link href={content.viewAllLink} className="text-sm text-blue-600 hover:text-blue-800 flex items-center">
-            {content.linkText}
-            <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7"></path>
-            </svg>
-          </Link>
+        {/* Section title for the tab */}
+        <div className="px-6 py-3 text-center border-t border-gray-100">
+          <h3 className="text-sm font-medium text-gray-600">{content.tabTitle}</h3>
         </div>
       </div>
     </div>
