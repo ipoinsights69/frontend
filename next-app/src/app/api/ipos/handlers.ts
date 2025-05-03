@@ -619,10 +619,57 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
       promoters: data.promoterHolding?.promoters ? 
         data.promoterHolding.promoters.split(', ') : undefined,
       
-      prospectus_links: data.prospectusLinks?.map((link: any) => ({
-        name: link.text,
-        url: link.url
-      })),
+      prospectus_links: data.prospectusLinks?.filter((link: any) => !link.url?.includes('Chittorgarh'))
+        .map((link: any) => ({
+          name: link.text,
+          url: link.url
+        })),
+      
+      // Add documents object with DRHP and RHP URLs
+      documents: (() => {
+        // Log prospectus links for debugging
+        console.log('Prospectus Links:', data.prospectusLinks);
+        
+        // Filter out any links with Chittorgarh
+        const validLinks = data.prospectusLinks?.filter((link: any) => 
+          !link.url?.includes('Chittorgarh')) || [];
+        
+        // Find DRHP - specifically look for "Draft" in the name
+        const drhpLink = validLinks.find((link: any) => 
+          link.text?.includes('DRHP') || 
+          link.text?.toLowerCase().includes('draft red') || 
+          link.text?.toLowerCase().includes('draft prospectus'));
+        
+        // Find RHP - specifically look for Red Herring or just Prospectus (not Draft)
+        const rhpLink = validLinks.find((link: any) => 
+          link.text?.includes('RHP') || 
+          (link.text?.toLowerCase().includes('red herring') && !link.text?.toLowerCase().includes('draft')) ||
+          (link.text?.toLowerCase().includes('prospectus') && !link.text?.toLowerCase().includes('draft')));
+        
+        // If we have both links and they're the same, try to find a different one for RHP
+        let drhpUrl = drhpLink?.url || '';
+        let rhpUrl = rhpLink?.url || '';
+        
+        // If both URLs are the same and we have more than one link, use a different link for RHP
+        if (drhpUrl && rhpUrl && drhpUrl === rhpUrl && validLinks.length > 1) {
+          // Find any link that's not the DRHP link
+          const alternateLink = validLinks.find((link: any) => link.url !== drhpUrl);
+          if (alternateLink) {
+            rhpUrl = alternateLink.url;
+          }
+        }
+        
+        // If we still have the same URL for both and only one is set, clear the other
+        if (drhpUrl && rhpUrl && drhpUrl === rhpUrl) {
+          // Prioritize keeping the DRHP link
+          rhpUrl = '';
+        }
+        
+        return {
+          drhp: drhpUrl,
+          rhp: rhpUrl
+        };
+      })(),
       
       faqs: data.faqs?.map((faq: any) => ({
         question: faq.question,
