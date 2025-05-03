@@ -486,7 +486,12 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
     );
     
     // Transform the API response to match our IPODetailedData interface
+    // but also preserve all raw data fields
     return {
+      // Pass through the entire raw data object first
+      ...data,
+      
+      // Then map standard fields to our interface
       id: data.ipo_id || ipoId,
       companyName: data.company_name?.replace(' IPO', '') || '',
       symbol: data.company_name || '',
@@ -516,11 +521,19 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
       listingGain: data.listing_gain || 0,
       listingGainPercentage: data.listing_gains_numeric || 0,
       
+      // Specifically preserve these listing/trading data fields
+      listing_gains_by_exchange: data.listing_gains_by_exchange,
+      listingDayTrading: data.listingDayTrading,
+      listing_gains: data.listing_gains,
+      
       // Subscription details
-      overallSubscription: data.subscriptionHistory?.overall_subscription?.overall,
-      retailSubscription: data.subscriptionHistory?.overall_subscription?.retail,
-      qibSubscription: data.subscriptionHistory?.overall_subscription?.qib,
-      niiSubscription: data.subscriptionHistory?.overall_subscription?.nii,
+      overallSubscription: data.subscriptionHistory?.overall_subscription?.total?.subscription_times,
+      retailSubscription: data.subscriptionHistory?.overall_subscription?.retail?.subscription_times,
+      qibSubscription: data.subscriptionHistory?.overall_subscription?.qib?.subscription_times,
+      niiSubscription: data.subscriptionHistory?.overall_subscription?.non_institutional?.subscription_times,
+      
+      // Preserve the entire subscription history
+      subscriptionHistory: data.subscriptionHistory,
       
       // GMP (Grey Market Premium)
       gmp: data.gmp,
@@ -582,10 +595,10 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
       // Subscription details
       subscription_details: data.subscriptionHistory?.day_wise_subscription?.length ? {
         status: {
-          overall: data.subscriptionHistory.overall_subscription.overall || 0,
-          retail: data.subscriptionHistory.overall_subscription.retail || 0,
-          nii: data.subscriptionHistory.overall_subscription.nii || 0,
-          qib: data.subscriptionHistory.overall_subscription.qib || 0
+          overall: data.subscriptionHistory.overall_subscription.total.subscription_times || 0,
+          retail: data.subscriptionHistory.overall_subscription.retail.subscription_times || 0,
+          nii: data.subscriptionHistory.overall_subscription.non_institutional.subscription_times || 0,
+          qib: data.subscriptionHistory.overall_subscription.qib.subscription_times || 0
         },
         day_wise: data.subscriptionHistory.day_wise_subscription.map((day: any) => ({
           day: day.day,
@@ -621,8 +634,11 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
         website: data.registrarDetails.website,
         email: data.registrarDetails.email,
         phone: data.registrarDetails.phone
-      } : undefined
-    } as IPODetailedData;
+      } : undefined,
+      
+      // Add basicDetails as a complete object
+      basicDetails: data.basicDetails
+    };
   } catch (error) {
     console.error(`Error fetching IPO data for ${slug}:`, error);
     

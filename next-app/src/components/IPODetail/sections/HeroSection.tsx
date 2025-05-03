@@ -3,16 +3,16 @@ import { IPO_MAPPINGS } from '@/constants/ipoMappings';
 import { getNestedValue } from '@/utils/getNestedValue';
 
 interface HeroSectionProps {
-  data: IPODetailedData;
+  data: IPODetailedData & Record<string, any>; // Allow any additional properties
 }
 
 const HeroSection = ({ data }: HeroSectionProps) => {
+  // Log the entire raw data object to ensure we see everything
+  console.log('Complete IPO data object:', data);
+  
   const logo = data.logoUrl;
   const title = data.companyName || 'IPO';
-  const industry = data.industry || '';
-  const listingAt = data.listingAt || '';
   const status = data.status || 'unknown';
-  const listingDate = data.listingDate ? `Listed on ${data.listingDate}` : '';
   
   // Get initials for the logo placeholder
   const initials = title
@@ -23,15 +23,107 @@ const HeroSection = ({ data }: HeroSectionProps) => {
     .toUpperCase();
 
   // Performance snapshot data
-  const issuePrice = data.priceRange?.max ? `₹${data.priceRange.max}` : 'TBA';
-  const faceValue = getNestedValue(data, 'basicDetails.faceValue') ? `₹${getNestedValue(data, 'basicDetails.faceValue')}` : null;
-  const listingPrice = data.listingPrice ? `₹${data.listingPrice}` : null;
-  const listingGain = data.listingGainPercentage ? `${data.listingGainPercentage > 0 ? '+' : ''}${data.listingGainPercentage.toFixed(2)}% gain` : null;
-  const subscription = data.overallSubscription ? `${data.overallSubscription}x` : null;
-  const niiSubscription = data.niiSubscription ? `${data.niiSubscription}x` : null;
-  const retailSubscription = data.retailSubscription ? `${data.retailSubscription}x` : null;
-  const subscriptionDetails = niiSubscription && retailSubscription ? `NII: ${niiSubscription} | Retail: ${retailSubscription}` : null;
-  const issueSize = data.issueSize ? `₹${data.issueSize} Cr` : null;
+  const issuePrice = data.priceRange?.max ? `₹${data.priceRange.max}` : 
+                    getNestedValue(data, 'basicDetails.issuePrice') ? 
+                    getNestedValue(data, 'basicDetails.issuePrice') : 
+                    getNestedValue(data, 'issue_price') ? 
+                    `₹${getNestedValue(data, 'issue_price')}` : 
+                    'TBA';
+                    
+  // Get listing price and gains from any exchange in listing_gains_by_exchange
+  let listingPrice = 'TBA';
+  let listingGain = null;
+  
+  // Try multiple paths to get listing price
+  const listingGainsByExchange = getNestedValue(data, 'listing_gains_by_exchange');
+  const listingDayTrading = getNestedValue(data, 'listingDayTrading.data');
+  
+  console.log('Listing data sources:', { 
+    listingGainsByExchange, 
+    listingDayTrading,
+    listingGain: data.listing_gain,
+    listingGains: data.listing_gains
+  });
+  
+  if (listingGainsByExchange) {
+    // Get the first exchange key (could be nse_sme or something else)
+    const exchangeKey = Object.keys(listingGainsByExchange)[0];
+    if (exchangeKey) {
+      const exchangeData = listingGainsByExchange[exchangeKey];
+      if (exchangeData) {
+        if (exchangeData.lastTradePrice) {
+          listingPrice = `₹${exchangeData.lastTradePrice}`;
+        }
+        if (exchangeData.gain !== undefined) {
+          const gainValue = parseFloat(exchangeData.gain);
+          listingGain = `${gainValue > 0 ? '+' : ''}${gainValue.toFixed(2)}% gain`;
+        }
+      }
+    }
+  } 
+  // Try alternate location for listing price
+  else if (listingDayTrading) {
+    const exchangeKey = Object.keys(listingDayTrading.last_trade || {})[0];
+    if (exchangeKey && listingDayTrading.last_trade) {
+      const lastTradePrice = listingDayTrading.last_trade[exchangeKey];
+      if (lastTradePrice) {
+        listingPrice = `₹${lastTradePrice}`;
+        
+        // Calculate gain if we have issue price
+        if (listingDayTrading.final_issue_price && listingDayTrading.final_issue_price[exchangeKey]) {
+          const issueValue = parseFloat(listingDayTrading.final_issue_price[exchangeKey]);
+          const listingValue = parseFloat(lastTradePrice);
+          if (!isNaN(issueValue) && !isNaN(listingValue)) {
+            const gainValue = ((listingValue - issueValue) / issueValue) * 100;
+            listingGain = `${gainValue > 0 ? '+' : ''}${gainValue.toFixed(2)}% gain`;
+          }
+        }
+      }
+    }
+  }
+  
+  // Try direct listing gain value
+  if (getNestedValue(data, 'listing_gain') !== undefined && listingGain === null) {
+    const gainValue = parseFloat(getNestedValue(data, 'listing_gain'));
+    if (!isNaN(gainValue)) {
+      listingGain = `${gainValue > 0 ? '+' : ''}${gainValue.toFixed(2)}% gain`;
+    }
+  }
+  
+  // Get subscription data - try multiple paths
+  let subscription = 'TBA';
+  let subscriptionColor = 'text-gray-800';
+  
+  // Try multiple paths to get subscription data
+  const overallSubscription = getNestedValue(data, 'subscriptionHistory.overall_subscription.total.subscription_times');
+  const totalSubscription = getNestedValue(data, 'subscription_details.status.overall');
+  
+  console.log('Subscription data paths:', {
+    overallSubscription,
+    totalSubscription,
+    subscriptionHistory: data.subscriptionHistory,
+    subscription_details: data.subscription_details
+  });
+  
+  if (overallSubscription) {
+    const subValue = parseFloat(overallSubscription);
+    if (!isNaN(subValue)) {
+      subscription = `${subValue}x`;
+      subscriptionColor = subValue > 0 ? 'text-green-600' : 'text-red-600';
+    }
+  } else if (totalSubscription) {
+    subscription = `${totalSubscription}x`;
+    subscriptionColor = totalSubscription > 0 ? 'text-green-600' : 'text-red-600';
+  } else if (data.overallSubscription) {
+    subscription = `${data.overallSubscription}x`;
+    subscriptionColor = data.overallSubscription > 0 ? 'text-green-600' : 'text-red-600';
+  }
+  
+  const issueSize = data.issueSize ? `₹${data.issueSize} Cr` : 
+                    getNestedValue(data, 'issue_amount') ? 
+                    `₹${getNestedValue(data, 'issue_amount')} Cr` : 
+                    'TBA';
+                    
   const sharesOffered = data.sharesOffered ? `${data.sharesOffered.toLocaleString()} shares` : null;
 
   return (
@@ -41,19 +133,12 @@ const HeroSection = ({ data }: HeroSectionProps) => {
         <div className="h-12 w-12 bg-blue-100 rounded-md flex items-center justify-center text-blue-600 font-semibold text-lg mr-4 flex-shrink-0">
           {initials}
         </div>
-        <div>
+        <div className="flex-1">
           <div className="flex items-center">
             <h1 className="text-xl font-semibold text-gray-800">{title} IPO</h1>
             <span className={`ml-3 bg-${status === 'listed' ? 'green' : status === 'open' ? 'blue' : status === 'upcoming' ? 'yellow' : 'gray'}-50 text-${status === 'listed' ? 'green' : status === 'open' ? 'blue' : status === 'upcoming' ? 'yellow' : 'gray'}-600 text-xs font-medium px-2.5 py-0.5 rounded-full`}>
               {status.charAt(0).toUpperCase() + status.slice(1)}
             </span>
-          </div>
-          <div className="flex items-center mt-1 text-sm text-gray-600">
-            {listingAt && <span>{listingAt}</span>}
-            {listingAt && industry && <span className="mx-2 text-gray-400">•</span>}
-            {industry && <span>{industry}</span>}
-            {(listingAt || industry) && listingDate && <span className="mx-2 text-gray-400">•</span>}
-            {listingDate && <span>{listingDate}</span>}
           </div>
         </div>
       </div>
@@ -63,24 +148,22 @@ const HeroSection = ({ data }: HeroSectionProps) => {
         <div className="bg-white border border-gray-200 rounded-md p-3 transition-all hover:shadow-md">
           <div className="text-xs text-gray-500">Issue Price</div>
           <div className="text-lg font-medium text-gray-800">{issuePrice}</div>
-          {faceValue && <div className="text-xs text-gray-600">Face Value: {faceValue}</div>}
         </div>
         
         <div className="bg-white border border-gray-200 rounded-md p-3 transition-all hover:shadow-md">
           <div className="text-xs text-gray-500">Listing Price</div>
-          <div className="text-lg font-medium text-green-600">{listingPrice || 'TBA'}</div>
+          <div className="text-lg font-medium text-green-600">{listingPrice}</div>
           {listingGain && <div className="text-xs text-green-600">{listingGain}</div>}
         </div>
         
         <div className="bg-white border border-gray-200 rounded-md p-3 transition-all hover:shadow-md">
           <div className="text-xs text-gray-500">Subscription</div>
-          <div className="text-lg font-medium text-gray-800">{subscription || 'TBA'}</div>
-          {subscriptionDetails && <div className="text-xs text-gray-600">{subscriptionDetails}</div>}
+          <div className={`text-lg font-medium ${subscriptionColor}`}>{subscription}</div>
         </div>
         
         <div className="bg-white border border-gray-200 rounded-md p-3 transition-all hover:shadow-md">
           <div className="text-xs text-gray-500">Issue Size</div>
-          <div className="text-lg font-medium text-gray-800">{issueSize || 'TBA'}</div>
+          <div className="text-lg font-medium text-gray-800">{issueSize}</div>
           {sharesOffered && <div className="text-xs text-gray-600">{sharesOffered}</div>}
         </div>
       </div>

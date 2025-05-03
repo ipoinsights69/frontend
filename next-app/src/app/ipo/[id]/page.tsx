@@ -13,7 +13,10 @@ type Props = {
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { id } = params;
+  // Make sure params is properly resolved before accessing properties
+  const resolvedParams = await Promise.resolve(params);
+  const id = resolvedParams.id;
+  
   const ipoData = await fetchDetailedIPOBySlug(id);
 
   if (!ipoData) {
@@ -52,7 +55,9 @@ export async function generateStaticParams() {
 }
 
 export default async function IPOPage({ params }: Props) {
-  const { id } = params;
+  // Make sure params is properly resolved before accessing properties
+  const resolvedParams = await Promise.resolve(params);
+  const id = resolvedParams.id;
   
   // Fetch the IPO data
   const ipoData = await fetchDetailedIPOBySlug(id);
