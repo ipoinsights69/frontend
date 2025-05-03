@@ -24,9 +24,10 @@ export default function Header() {
 
   // Load menu items from JSON file
   useEffect(() => {
-    // Simplified menu with only home
+    // Add link to the IPOs list page
     setMenuItems([
-      { name: 'Home', path: '/', active: pathname === '/' }
+      { name: 'Home', path: '/', active: pathname === '/' },
+      { name: 'All IPOs', path: '/ids', active: pathname === '/ids' }
     ]);
   }, [pathname]);
 
@@ -49,7 +50,7 @@ export default function Header() {
             </span>
           </Link>
           
-          {/* Main Navigation - Only Home page */}
+          {/* Main Navigation */}
           <nav className="hidden md:flex space-x-8">
             {menuItems.map((item) => (
               <Link 
