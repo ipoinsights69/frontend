@@ -24,6 +24,13 @@ export function IPODetailPage({ ipoData }: IPODetailPageProps) {
     setMounted(true);
   }, []);
 
+  useEffect(() => {
+    // If active tab is 'listing', switch to overview since we've removed that tab
+    if (activeTab === 'listing') {
+      setActiveTab('overview');
+    }
+  }, [activeTab]);
+
   if (!mounted) {
     return null;
   }
@@ -84,16 +91,6 @@ export function IPODetailPage({ ipoData }: IPODetailPageProps) {
             </button>
             <button 
               className={`whitespace-nowrap pb-2 px-1 text-sm font-medium border-b-2 transition duration-150 ${
-                activeTab === 'listing' 
-                  ? 'text-blue-600 border-blue-600' 
-                  : 'text-gray-600 hover:text-gray-800 border-transparent hover:border-gray-300'
-              }`}
-              onClick={() => setActiveTab('listing')}
-            >
-              Listing Performance
-            </button>
-            <button 
-              className={`whitespace-nowrap pb-2 px-1 text-sm font-medium border-b-2 transition duration-150 ${
                 activeTab === 'details' 
                   ? 'text-blue-600 border-blue-600' 
                   : 'text-gray-600 hover:text-gray-800 border-transparent hover:border-gray-300'
@@ -120,7 +117,6 @@ export function IPODetailPage({ ipoData }: IPODetailPageProps) {
           {activeTab === 'overview' && <OverviewTab data={ipoData} />}
           {activeTab === 'financials' && <FinancialsTab data={ipoData} />}
           {activeTab === 'subscription' && <SubscriptionTab data={ipoData} />}
-          {activeTab === 'listing' && <ListingTab data={ipoData} />}
           {activeTab === 'details' && <DetailsTab data={ipoData} />}
           {activeTab === 'faqs' && <FAQsTab data={ipoData} />}
         </div>

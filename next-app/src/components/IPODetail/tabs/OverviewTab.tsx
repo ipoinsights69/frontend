@@ -72,6 +72,20 @@ const OverviewTab = ({ data }: OverviewTabProps) => {
   const email = getNestedValue(data, 'contactDetails.email') || '';
   const website = getNestedValue(data, 'contactDetails.website') || '';
 
+  // Listing details
+  const issuePrice = Number(data.priceRange?.max) || 0;
+  const listingPrice = Number(data.listingPrice) || 0;
+  const listingGain = Number(data.listingGainPercentage) || 0;
+  const status = data.status || '';
+  const isListed = status === 'listed';
+  const leadManager = getNestedValue(data, 'leadManagers.0.name') || '';
+  const registrarName = getNestedValue(data, 'registrarDetails.name') || '';
+  const registrarEmail = getNestedValue(data, 'registrarDetails.email') || '';
+  const listingDate = data.listingDate || '';
+  const listingAt = data.listingAt || '';
+  const scriptCode = getNestedValue(data, 'listingDetails.scriptCode') || '';
+  const isin = getNestedValue(data, 'listingDetails.isin') || '';
+
   return (
     <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
       {/* About the Company */}
@@ -81,6 +95,97 @@ const OverviewTab = ({ data }: OverviewTabProps) => {
           <div className="text-sm text-gray-600 space-y-3">
             {/* Render HTML content properly using dangerouslySetInnerHTML */}
             <div dangerouslySetInnerHTML={{ __html: description }} />
+          </div>
+        </div>
+
+        {/* IPO & Listing Details (Merged from Listing Tab) */}
+        <div className="bg-white border border-gray-200 rounded-md p-4">
+          <h2 className="text-base font-medium text-gray-800 mb-3">IPO & Listing Details</h2>
+          
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-4">
+            <div className="bg-gray-50 rounded-md p-3">
+              <div className="text-xs text-gray-500">Issue Price</div>
+              <div className="text-lg font-medium text-gray-800">₹{issuePrice.toFixed(2)}</div>
+            </div>
+            
+            {isListed ? (
+              <>
+                <div className="bg-gray-50 rounded-md p-3">
+                  <div className="text-xs text-gray-500">Listing Price</div>
+                  <div className="text-lg font-medium text-green-600">₹{listingPrice.toFixed(2)}</div>
+                  <div className="text-xs text-green-600">
+                    {listingGain > 0 ? '+' : ''}{listingGain.toFixed(2)}%
+                  </div>
+                </div>
+                
+                <div className="bg-gray-50 rounded-md p-3">
+                  <div className="text-xs text-gray-500">Listing Date</div>
+                  <div className="text-base font-medium text-gray-800">{listingDate}</div>
+                </div>
+                
+                <div className="bg-gray-50 rounded-md p-3">
+                  <div className="text-xs text-gray-500">Listed At</div>
+                  <div className="text-base font-medium text-gray-800">{listingAt}</div>
+                </div>
+              </>
+            ) : (
+              <div className="bg-gray-50 rounded-md p-3 col-span-3">
+                <div className="text-xs text-gray-500">Listing Status</div>
+                <div className="text-base font-medium text-orange-500">IPO Not Yet Listed</div>
+              </div>
+            )}
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div>
+              <h3 className="text-sm font-medium text-gray-700 mb-2">IPO Partners</h3>
+              <div className="space-y-3">
+                {leadManager && (
+                  <div className="flex items-center">
+                    <div className="w-8 h-8 bg-blue-50 rounded-md flex items-center justify-center text-blue-600 font-semibold text-sm mr-3">
+                      {leadManager.charAt(0)}
+                    </div>
+                    <div>
+                      <h4 className="text-sm font-medium text-gray-800">{leadManager}</h4>
+                      <p className="text-xs text-gray-500">Lead Manager</p>
+                    </div>
+                  </div>
+                )}
+                
+                {registrarName && (
+                  <div className="flex items-center">
+                    <div className="w-8 h-8 bg-purple-50 rounded-md flex items-center justify-center text-purple-600 font-semibold text-sm mr-3">
+                      {registrarName.charAt(0)}
+                    </div>
+                    <div>
+                      <h4 className="text-sm font-medium text-gray-800">{registrarName}</h4>
+                      <p className="text-xs text-gray-500">Registrar</p>
+                      {registrarEmail && <p className="text-xs text-gray-500">{registrarEmail}</p>}
+                    </div>
+                  </div>
+                )}
+              </div>
+            </div>
+            
+            {isListed && (
+              <div>
+                <h3 className="text-sm font-medium text-gray-700 mb-2">Listing Information</h3>
+                <div className="space-y-2">
+                  {scriptCode && (
+                    <div className="flex justify-between">
+                      <span className="text-sm text-gray-600">Script Code</span>
+                      <span className="text-sm font-medium text-gray-800">{scriptCode}</span>
+                    </div>
+                  )}
+                  {isin && (
+                    <div className="flex justify-between">
+                      <span className="text-sm text-gray-600">ISIN</span>
+                      <span className="text-sm font-medium text-gray-800">{isin}</span>
+                    </div>
+                  )}
+                </div>
+              </div>
+            )}
           </div>
         </div>
 
