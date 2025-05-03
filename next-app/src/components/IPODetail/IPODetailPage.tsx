@@ -11,6 +11,8 @@ import ListingTab from '@/components/IPODetail/tabs/ListingTab';
 import DetailsTab from '@/components/IPODetail/tabs/DetailsTab';
 import FAQsTab from '@/components/IPODetail/tabs/FAQsTab';
 import RelatedIPOs from '@/components/IPODetail/sections/RelatedIPOs';
+import IPODisclaimer from '@/components/common/IPODisclaimer';
+import DataProviders from '@/components/common/DataProviders';
 
 interface IPODetailPageProps {
   ipoData: IPODetailedData;
@@ -119,6 +121,12 @@ export function IPODetailPage({ ipoData }: IPODetailPageProps) {
           {activeTab === 'subscription' && <SubscriptionTab data={ipoData} />}
           {activeTab === 'details' && <DetailsTab data={ipoData} />}
           {activeTab === 'faqs' && <FAQsTab data={ipoData} />}
+          
+          {/* Data Source Information */}
+          <DataProviders />
+          
+          {/* IPO-specific Disclaimer */}
+          <IPODisclaimer />
         </div>
       </section>
 

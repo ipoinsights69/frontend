@@ -8,6 +8,8 @@ import AllotmentInstructions from './AllotmentInstructions';
 import AllotmentOfficialLinks from './AllotmentOfficialLinks';
 import AllotmentResult from './AllotmentResult';
 import Link from 'next/link';
+import IPODisclaimer from '@/components/common/IPODisclaimer';
+import DataProviders from '@/components/common/DataProviders';
 
 interface AllotmentStatusCheckerProps {
   ipoData: IPODetailedData;
@@ -214,6 +216,16 @@ export default function AllotmentStatusChecker({ ipoData }: AllotmentStatusCheck
               </div>
             </div>
           </div>
+        </div>
+        
+        {/* Data Source Information */}
+        <div className="mt-8">
+          <DataProviders />
+        </div>
+        
+        {/* IPO-specific Disclaimer */}
+        <div className="mt-4">
+          <IPODisclaimer />
         </div>
       </div>
     </div>
