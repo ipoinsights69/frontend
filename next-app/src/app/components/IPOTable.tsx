@@ -1,7 +1,6 @@
 'use client';
 
 import React from 'react';
-import Link from 'next/link';
 import { IPO } from '@/app/types/IPO';
 
 interface IPOTableProps {
@@ -167,9 +166,6 @@ const IPOTable: React.FC<IPOTableProps> = ({
                         </div>
                       </th>
                     ))}
-                    <th scope="col" className="relative py-3.5 px-4">
-                      <span className="sr-only">View</span>
-                    </th>
                   </tr>
                 </thead>
                 <tbody className="bg-white divide-y divide-gray-200">
@@ -181,21 +177,11 @@ const IPOTable: React.FC<IPOTableProps> = ({
                             {getCellValue(ipo, column.key)}
                           </td>
                         ))}
-                        <td className="px-4 py-4 text-sm whitespace-nowrap">
-                          <Link 
-                            href={`/ipo/${ipo.id.replace(/^\d{4}_/, '')}`} 
-                            className="px-2 py-2 text-blue-500 transition-colors duration-200 rounded-full hover:bg-blue-50"
-                          >
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" className="w-5 h-5">
-                              <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
-                            </svg>
-                          </Link>
-                        </td>
                       </tr>
                     ))
                   ) : (
                     <tr>
-                      <td colSpan={columns.length + 1} className="px-4 py-8 text-sm text-center text-gray-500">
+                      <td colSpan={columns.length} className="px-4 py-8 text-sm text-center text-gray-500">
                         No IPOs available in this category.
                       </td>
                     </tr>
@@ -206,21 +192,6 @@ const IPOTable: React.FC<IPOTableProps> = ({
           </div>
         </div>
       </div>
-
-      {viewAllLink && (
-        <div className="flex items-center justify-between mt-6">
-          <div></div>
-          <Link
-            href={viewAllLink}
-            className="flex items-center px-5 py-2 text-sm text-gray-700 capitalize transition-colors duration-200 bg-white border rounded-md gap-x-2 hover:bg-gray-100"
-          >
-            <span>View All</span>
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-5 h-5">
-              <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
-            </svg>
-          </Link>
-        </div>
-      )}
     </section>
   );
 };

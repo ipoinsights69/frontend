@@ -486,12 +486,17 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
     );
     
     // Transform the API response to match our IPODetailedData interface
+    // but also preserve all raw data fields
     return {
+      // Pass through the entire raw data object first
+      ...data,
+      
+      // Then map standard fields to our interface
       id: data.ipo_id || ipoId,
       companyName: data.company_name?.replace(' IPO', '') || '',
       symbol: data.company_name || '',
       industry: data.listing_at || '',
-      description: data.about?.details || '',
+      description: data.about?.details_ai || data.about?.details || '',
       status: data.listing_date === 'Not yet listed' ? 'upcoming' : (data.closing_date ? 'closed' : 'listed'),
       
       // Dates
@@ -516,11 +521,19 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
       listingGain: data.listing_gain || 0,
       listingGainPercentage: data.listing_gains_numeric || 0,
       
+      // Specifically preserve these listing/trading data fields
+      listing_gains_by_exchange: data.listing_gains_by_exchange,
+      listingDayTrading: data.listingDayTrading,
+      listing_gains: data.listing_gains,
+      
       // Subscription details
-      overallSubscription: data.subscriptionHistory?.overall_subscription?.overall,
-      retailSubscription: data.subscriptionHistory?.overall_subscription?.retail,
-      qibSubscription: data.subscriptionHistory?.overall_subscription?.qib,
-      niiSubscription: data.subscriptionHistory?.overall_subscription?.nii,
+      overallSubscription: data.subscriptionHistory?.overall_subscription?.total?.subscription_times,
+      retailSubscription: data.subscriptionHistory?.overall_subscription?.retail?.subscription_times,
+      qibSubscription: data.subscriptionHistory?.overall_subscription?.qib?.subscription_times,
+      niiSubscription: data.subscriptionHistory?.overall_subscription?.non_institutional?.subscription_times,
+      
+      // Preserve the entire subscription history
+      subscriptionHistory: data.subscriptionHistory,
       
       // GMP (Grey Market Premium)
       gmp: data.gmp,
@@ -582,10 +595,10 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
       // Subscription details
       subscription_details: data.subscriptionHistory?.day_wise_subscription?.length ? {
         status: {
-          overall: data.subscriptionHistory.overall_subscription.overall || 0,
-          retail: data.subscriptionHistory.overall_subscription.retail || 0,
-          nii: data.subscriptionHistory.overall_subscription.nii || 0,
-          qib: data.subscriptionHistory.overall_subscription.qib || 0
+          overall: data.subscriptionHistory.overall_subscription.total.subscription_times || 0,
+          retail: data.subscriptionHistory.overall_subscription.retail.subscription_times || 0,
+          nii: data.subscriptionHistory.overall_subscription.non_institutional.subscription_times || 0,
+          qib: data.subscriptionHistory.overall_subscription.qib.subscription_times || 0
         },
         day_wise: data.subscriptionHistory.day_wise_subscription.map((day: any) => ({
           day: day.day,
@@ -606,10 +619,57 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
       promoters: data.promoterHolding?.promoters ? 
         data.promoterHolding.promoters.split(', ') : undefined,
       
-      prospectus_links: data.prospectusLinks?.map((link: any) => ({
-        name: link.text,
-        url: link.url
-      })),
+      prospectus_links: data.prospectusLinks?.filter((link: any) => !link.url?.includes('Chittorgarh'))
+        .map((link: any) => ({
+          name: link.text,
+          url: link.url
+        })),
+      
+      // Add documents object with DRHP and RHP URLs
+      documents: (() => {
+        // Log prospectus links for debugging
+        console.log('Prospectus Links:', data.prospectusLinks);
+        
+        // Filter out any links with Chittorgarh
+        const validLinks = data.prospectusLinks?.filter((link: any) => 
+          !link.url?.includes('Chittorgarh')) || [];
+        
+        // Find DRHP - specifically look for "Draft" in the name
+        const drhpLink = validLinks.find((link: any) => 
+          link.text?.includes('DRHP') || 
+          link.text?.toLowerCase().includes('draft red') || 
+          link.text?.toLowerCase().includes('draft prospectus'));
+        
+        // Find RHP - specifically look for Red Herring or just Prospectus (not Draft)
+        const rhpLink = validLinks.find((link: any) => 
+          link.text?.includes('RHP') || 
+          (link.text?.toLowerCase().includes('red herring') && !link.text?.toLowerCase().includes('draft')) ||
+          (link.text?.toLowerCase().includes('prospectus') && !link.text?.toLowerCase().includes('draft')));
+        
+        // If we have both links and they're the same, try to find a different one for RHP
+        let drhpUrl = drhpLink?.url || '';
+        let rhpUrl = rhpLink?.url || '';
+        
+        // If both URLs are the same and we have more than one link, use a different link for RHP
+        if (drhpUrl && rhpUrl && drhpUrl === rhpUrl && validLinks.length > 1) {
+          // Find any link that's not the DRHP link
+          const alternateLink = validLinks.find((link: any) => link.url !== drhpUrl);
+          if (alternateLink) {
+            rhpUrl = alternateLink.url;
+          }
+        }
+        
+        // If we still have the same URL for both and only one is set, clear the other
+        if (drhpUrl && rhpUrl && drhpUrl === rhpUrl) {
+          // Prioritize keeping the DRHP link
+          rhpUrl = '';
+        }
+        
+        return {
+          drhp: drhpUrl,
+          rhp: rhpUrl
+        };
+      })(),
       
       faqs: data.faqs?.map((faq: any) => ({
         question: faq.question,
@@ -621,8 +681,11 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
         website: data.registrarDetails.website,
         email: data.registrarDetails.email,
         phone: data.registrarDetails.phone
-      } : undefined
-    } as IPODetailedData;
+      } : undefined,
+      
+      // Add basicDetails as a complete object
+      basicDetails: data.basicDetails
+    };
   } catch (error) {
     console.error(`Error fetching IPO data for ${slug}:`, error);
     

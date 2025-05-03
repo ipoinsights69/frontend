@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-white border-t border-gray-200">
       {/* Main footer content */}
       <div className="container mx-auto px-6 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {/* Company info */}
           <div className="md:col-span-1">
             <div className="flex items-center mb-4">
@@ -31,30 +31,6 @@ export default function Footer() {
                 <i className="fab fa-instagram text-lg"></i>
               </a>
             </div>
-          </div>
-          
-          {/* Quick links */}
-          <div>
-            <h3 className="text-gray-800 font-medium mb-4">Quick Links</h3>
-            <ul className="space-y-3">
-              <li><Link href="/" className="text-gray-600 hover:text-blue-600 transition-colors">Dashboard</Link></li>
-              <li><Link href="/ipo/upcoming" className="text-gray-600 hover:text-blue-600 transition-colors">Upcoming IPOs</Link></li>
-              <li><Link href="/calendar" className="text-gray-600 hover:text-blue-600 transition-colors">IPO Calendar</Link></li>
-              <li><Link href="/analysis" className="text-gray-600 hover:text-blue-600 transition-colors">Market Analysis</Link></li>
-              <li><Link href="/reports" className="text-gray-600 hover:text-blue-600 transition-colors">Industry Reports</Link></li>
-            </ul>
-          </div>
-          
-          {/* Resources */}
-          <div>
-            <h3 className="text-gray-800 font-medium mb-4">Resources</h3>
-            <ul className="space-y-3">
-              <li><Link href="/help" className="text-gray-600 hover:text-blue-600 transition-colors">Help Center</Link></li>
-              <li><Link href="/api-docs" className="text-gray-600 hover:text-blue-600 transition-colors">API Documentation</Link></li>
-              <li><Link href="/glossary" className="text-gray-600 hover:text-blue-600 transition-colors">Market Glossary</Link></li>
-              <li><Link href="/guides" className="text-gray-600 hover:text-blue-600 transition-colors">Investment Guides</Link></li>
-              <li><Link href="/news/archive" className="text-gray-600 hover:text-blue-600 transition-colors">News Archive</Link></li>
-            </ul>
           </div>
           
           {/* Newsletter */}
@@ -87,9 +63,7 @@ export default function Footer() {
             © {new Date().getFullYear()} IPOInsight. All rights reserved.
           </div>
           <div className="flex space-x-6 mt-4 md:mt-0">
-            <Link href="/privacy" className="text-gray-600 hover:text-blue-600 text-sm">Privacy Policy</Link>
-            <Link href="/terms" className="text-gray-600 hover:text-blue-600 text-sm">Terms of Service</Link>
-            <Link href="/cookies" className="text-gray-600 hover:text-blue-600 text-sm">Cookie Policy</Link>
+            <Link href="/" className="text-gray-600 hover:text-blue-600 text-sm">Home</Link>
           </div>
         </div>
       </div>
