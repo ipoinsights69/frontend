@@ -1,4 +1,5 @@
 import { IPO, IPODetailedData, IPOStats } from '@/app/types/IPO';
+import { API_BASE_URL, getApiUrl } from '@/config/apiConfig';
 
 // Mock IPO data for development purposes
 const mockIPOs: IPO[] = [
@@ -437,7 +438,8 @@ export async function fetchAllIPOIds(): Promise<string[]> {
  */
 export async function fetchAllIPOIdsFromAPI(revalidateSeconds = 7200): Promise<string[]> {
   try {
-    const response = await fetch(`http://localhost:8000/api/ipos/ids`, {
+    // Use the API URL from configuration
+    const response = await fetch(getApiUrl('api/ipos/ids'), {
       next: { revalidate: revalidateSeconds }
     });
     
@@ -461,7 +463,8 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
     // Add back the year prefix if it's been removed
     const ipoId = slug.startsWith('20') ? slug : `2025_${slug}`;
     
-    const response = await fetch(`http://localhost:8000/api/ipos/${ipoId}`, {
+    // Use the API URL from configuration
+    const response = await fetch(getApiUrl(`api/ipos/${ipoId}`), {
       next: { revalidate: revalidateSeconds }
     });
     

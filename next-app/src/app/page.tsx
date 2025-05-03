@@ -8,6 +8,7 @@ import {
   fetchClosedIPOs, 
   fetchIPOStats
 } from '@/app/api/ipos/handlers';
+import { getApiUrl } from '@/config/apiConfig';
 
 // Define interfaces for our API response types
 interface IPOData {
@@ -95,8 +96,8 @@ export const revalidate = 3600;
 async function getHomepageData() {
   // First try to fetch from our API endpoint
   try {
-    // Use the external API endpoint
-    const response = await fetch(`http://localhost:8000/api/ipos/homepage`, {
+    // Use the external API endpoint from configuration
+    const response = await fetch(getApiUrl('api/ipos/homepage'), {
       next: { revalidate },
     });
     
