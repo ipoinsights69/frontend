@@ -496,7 +496,7 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
       companyName: data.company_name?.replace(' IPO', '') || '',
       symbol: data.company_name || '',
       industry: data.listing_at || '',
-      description: data.about?.details || '',
+      description: data.about?.details_ai || data.about?.details || '',
       status: data.listing_date === 'Not yet listed' ? 'upcoming' : (data.closing_date ? 'closed' : 'listed'),
       
       // Dates

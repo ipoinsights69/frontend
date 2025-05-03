@@ -2,12 +2,48 @@ import { IPODetailedData } from '@/app/types/IPO';
 import { getNestedValue } from '@/utils/getNestedValue';
 
 interface OverviewTabProps {
-  data: IPODetailedData;
+  data: IPODetailedData & Record<string, any>;
 }
+
+// Helper function to extract promoter names from text
+const extractPromoterNames = (promoters: string[]): string[] => {
+  if (!promoters || promoters.length === 0) return [];
+  
+  // If we already have an array of individual promoters, return it
+  if (promoters.length > 1) return promoters;
+  
+  // Try to extract names from text like "Person1 Person2 and Person3 are the promoters of the company"
+  const promoterText = promoters[0];
+  if (!promoterText) return [];
+  
+  // Remove the common suffix
+  const cleanText = promoterText
+    .replace(/\s+are the promoters of the company\.?$/i, '')
+    .replace(/\s+is the promoter of the company\.?$/i, '');
+  
+  // Split by "and" and commas
+  const names = cleanText
+    .split(/\s+and\s+|\s*,\s*/)
+    .filter(Boolean)
+    .map(name => name.trim());
+  
+  return names.length > 0 ? names : promoters;
+};
 
 const OverviewTab = ({ data }: OverviewTabProps) => {
   // Get about company data
-  const description = data.description || '';
+  // First check for about.details_ai, then about.details, then fallback to description
+  const aboutDetailsAi = getNestedValue(data, 'about.details_ai');
+  const aboutDetails = getNestedValue(data, 'about.details');
+  const description = aboutDetailsAi || aboutDetails || data.description || '';
+  
+  console.log('About data paths:', {
+    aboutDetailsAi,
+    aboutDetails,
+    description: data.description,
+    about: data.about
+  });
+  
   const businessSegments = data.business_segments || [];
   const competitiveStrengths = data.competitive_strengths || [];
   
@@ -26,6 +62,10 @@ const OverviewTab = ({ data }: OverviewTabProps) => {
   const preIssue = getNestedValue(data, 'promoterHolding.holdings.share_holding_pre_issue');
   const postIssue = getNestedValue(data, 'promoterHolding.holdings.share_holding_post_issue');
   
+  // Parse holding percentages for visualization
+  const preIssueValue = preIssue ? parseFloat(preIssue.replace('%', '')) : 0;
+  const postIssueValue = postIssue ? parseFloat(postIssue.replace('%', '')) : 0;
+  
   // Get contact details
   const address = getNestedValue(data, 'contactDetails.full_address') || '';
   const phone = getNestedValue(data, 'contactDetails.phone') || '';
@@ -39,9 +79,8 @@ const OverviewTab = ({ data }: OverviewTabProps) => {
         <div className="bg-white border border-gray-200 rounded-md p-4">
           <h2 className="text-base font-medium text-gray-800 mb-3">About {data.companyName}</h2>
           <div className="text-sm text-gray-600 space-y-3">
-            {description.split('\n').map((paragraph, idx) => (
-              <p key={idx}>{paragraph}</p>
-            ))}
+            {/* Render HTML content properly using dangerouslySetInnerHTML */}
+            <div dangerouslySetInnerHTML={{ __html: description }} />
           </div>
         </div>
 
@@ -109,12 +148,15 @@ const OverviewTab = ({ data }: OverviewTabProps) => {
           </div>
         )}
 
+        {/* Promoter Information - Simplified */}
         {promoters.length > 0 && (
           <div className="bg-white border border-gray-200 rounded-md p-4">
             <h2 className="text-base font-medium text-gray-800 mb-3">Promoter Information</h2>
-            <p className="text-sm text-gray-600 mb-3">{promoters.join(', ')} {promoters.length > 1 ? 'are the promoters' : 'is the promoter'} of the company.</p>
             
-            <div className="space-y-2">
+            {/* Display promoters as a simple paragraph */}
+            <p className="text-sm text-gray-600 mb-4">{promoters.join(', ')}</p>
+            
+            <div className="space-y-3 mb-4">
               {preIssue && (
                 <div className="flex justify-between">
                   <span className="text-sm text-gray-600">Pre-Issue Holding</span>
@@ -129,9 +171,34 @@ const OverviewTab = ({ data }: OverviewTabProps) => {
               )}
             </div>
             
-            <div className="mt-3 h-32 flex items-center justify-center">
-              <div className="text-sm text-gray-500">Promoter holding visualization will appear here</div>
-            </div>
+            {/* Simple minimal visualization */}
+            {preIssue && postIssue && (
+              <div className="mt-4">
+                <div className="mb-3">
+                  <div className="text-xs text-gray-500 mb-1">Pre-Issue</div>
+                  <div className="w-full bg-gray-100 rounded-sm h-5">
+                    <div 
+                      className="bg-blue-600 h-5 rounded-sm flex items-center justify-end px-2"
+                      style={{ width: `${preIssueValue}%` }}
+                    >
+                      <span className="text-xs text-white font-medium">{preIssue}</span>
+                    </div>
+                  </div>
+                </div>
+                
+                <div>
+                  <div className="text-xs text-gray-500 mb-1">Post-Issue</div>
+                  <div className="w-full bg-gray-100 rounded-sm h-5">
+                    <div 
+                      className="bg-blue-600 h-5 rounded-sm flex items-center justify-end px-2"
+                      style={{ width: `${postIssueValue}%` }}
+                    >
+                      <span className="text-xs text-white font-medium">{postIssue}</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            )}
           </div>
         )}
 
