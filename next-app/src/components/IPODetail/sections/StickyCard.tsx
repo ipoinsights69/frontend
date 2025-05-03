@@ -1,6 +1,7 @@
 import { IPODetailedData } from '@/app/types/IPO';
 import { getNestedValue } from '@/utils/getNestedValue';
 import { useEffect, useState } from 'react';
+import Link from 'next/link';
 
 interface StickyCardProps {
   data: IPODetailedData;
@@ -310,14 +311,12 @@ const StickyCard = ({ data }: StickyCardProps) => {
       <div className="px-4 py-3">
         {/* For listed/closed IPOs, show only Check Allotment button */}
         {isClosed ? (
-          <a 
-            href={allotmentUrl} 
-            target="_blank" 
-            rel="noopener noreferrer"
+          <Link 
+            href={`/ipo/${data.id}/allotment`}
             className="block w-full py-2 px-4 bg-green-600 hover:bg-green-700 text-white text-center font-medium rounded-md shadow-sm"
           >
             Check Allotment Status
-          </a>
+          </Link>
         ) : (
           /* For open IPOs, show Apply Now button */
           /* For upcoming IPOs, show Get IPO Updates button instead of Set Reminder */
