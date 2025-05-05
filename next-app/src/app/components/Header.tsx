@@ -24,10 +24,9 @@ export default function Header() {
 
   // Load menu items from JSON file
   useEffect(() => {
-    // Add link to the IPOs list page
+    // Only include Home link
     setMenuItems([
-      { name: 'Home', path: '/', active: pathname === '/' },
-      { name: 'All IPOs', path: '/ids', active: pathname === '/ids' }
+      { name: 'Home', path: '/', active: pathname === '/' }
     ]);
   }, [pathname]);
 
@@ -46,7 +45,7 @@ export default function Header() {
               <FontAwesomeIcon icon={faChartLine} className="text-sm" />
             </div>
             <span className="text-lg font-medium text-gray-800">
-              IPO<span className="text-blue-600 font-semibold">Insight</span>
+              IPO<span className="text-blue-600 font-semibold">Hut</span>
             </span>
           </Link>
           

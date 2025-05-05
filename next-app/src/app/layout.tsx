@@ -4,11 +4,13 @@ import "./globals.css";
 import Header from "@/app/components/Header";
 import Footer from "@/app/components/Footer";
 import Disclaimer from "@/components/common/Disclaimer";
+import Analytics from "@/components/analytics/Analytics";
+import AnalyticsProvider from "@/components/analytics/AnalyticsProvider";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "IPO Insights - Track the Market's Newest Additions",
+  title: "IPOHut - Your Home for IPO Tracking & Analysis",
   description: "Track performance metrics, analyze market trends, and discover investment opportunities in the IPO landscape.",
 };
 
@@ -26,10 +28,13 @@ export default function RootLayout({
         />
       </head>
       <body className={`${inter.className} bg-gray-50`}>
-        <Header />
-        {children}
-        <Disclaimer />
-        <Footer />
+        <Analytics />
+        <AnalyticsProvider>
+          <Header />
+          {children}
+          <Disclaimer />
+          <Footer />
+        </AnalyticsProvider>
       </body>
     </html>
   );

@@ -96,6 +96,7 @@ export const revalidate = 3600;
 async function getHomepageData() {
   // First try to fetch from our API endpoint
   try {
+    console.log('Fetching homepage data from APi, ', getApiUrl('api/ipos/homepage'));
     // Use the external API endpoint from configuration
     const response = await fetch(getApiUrl('api/ipos/homepage'), {
       next: { revalidate },
@@ -129,6 +130,7 @@ async function getHomepageData() {
 export default async function Home() {
   // Get data for the homepage
   const data = await getHomepageData();
+  console.log(data);
   
   let trendingIPOs = [], upcomingIPOs = [], recentIPOs = [], closedIPOs = [], stats;
   

@@ -1,6 +1,6 @@
-# IPO Insights - Technical Documentation
+# IPOHut - Technical Documentation
 
-This documentation provides a comprehensive overview of all components, pages, and their relationships within the IPO Insights application.
+This documentation provides a comprehensive overview of all components, pages, and their relationships within the IPOHut application.
 
 ## Table of Contents
 1. [Page Structure](#page-structure)
@@ -46,7 +46,7 @@ This documentation provides a comprehensive overview of all components, pages, a
 ### About Page
 - **Path**: `/about`
 - **File**: `src/app/about/page.tsx`
-- **Description**: Information about the IPO Insights platform and its features
+- **Description**: Information about the IPOHut platform and its features
 
 ### Data Pages
 - **Path**: `/data/[category]`

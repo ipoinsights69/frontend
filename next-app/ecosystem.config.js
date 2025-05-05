@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'ipo-insights',
+      name: 'ipo-hut',
       script: 'node_modules/next/dist/bin/next',
       args: 'start',
       instances: 'max',
@@ -19,7 +19,7 @@ module.exports = {
         NODE_ENV: 'production',
         PORT: 3000,
         NEXT_PUBLIC_API_URL: 'http://localhost:5000',
-        API_BASE_URL: 'http://localhost:5000',
+        API_BASE_URL: 'http://localhost:8000',
         REVALIDATION_SECRET: 'your-secret-key'
       }
     }

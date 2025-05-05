@@ -1,10 +1,10 @@
-# IPO Insights
+# IPOHut
 
 A comprehensive Next.js application for tracking, analyzing, and exploring Initial Public Offerings (IPOs) in the Indian stock market.
 
 ## Project Overview
 
-IPO Insights provides real-time data and detailed analytics on IPOs across various categories:
+IPOHut provides real-time data and detailed analytics on IPOs across various categories:
 - Upcoming IPOs
 - Open IPOs 
 - Recently Listed IPOs
@@ -932,3 +932,66 @@ The detail page consists of several main components:
 - `IPOHero`: Displays the header section with company overview and key metrics
 - `IPOTabs`: Shows tabbed content including financials, subscription details, and more
 - `RelatedIPOs`: Lists related IPOs that might interest the user
+
+## Analytics Integration
+
+The application includes comprehensive analytics tracking using Google Analytics 4 and Microsoft Clarity. This setup provides detailed user behavior tracking including:
+
+- Page views and navigation paths
+- Click tracking on buttons, links, and interactive elements
+- Form interactions and submissions
+- Scroll depth tracking
+- Engagement time measurement
+- Search queries and results
+- Custom events for IPO-specific interactions
+
+### Environment Variables
+
+To configure analytics, set the following environment variables in your `.env.local` file:
+
+```
+NEXT_PUBLIC_GA_MEASUREMENT_ID=G-XXXXXXXXXX
+NEXT_PUBLIC_CLARITY_PROJECT_ID=xxxxxxxx
+```
+
+Replace the placeholder values with your actual Google Analytics Measurement ID and Microsoft Clarity Project ID.
+
+### Analytics Components
+
+The project includes several reusable components and hooks for analytics:
+
+- `Analytics`: Initializes Google Analytics and Microsoft Clarity scripts
+- `AnalyticsProvider`: Provides analytics context to the entire application
+- `PageTracker`: Combines all tracking hooks for comprehensive page analytics
+- `AnalyticsButton`: Button component that automatically tracks clicks
+- `AnalyticsLink`: Link component that automatically tracks navigation
+
+### Analytics Hooks
+
+Custom hooks for detailed behavioral tracking:
+
+- `useAnalytics`: Tracks page views
+- `useEngagementTracking`: Measures time spent on pages
+- `useScrollDepthTracking`: Tracks how far users scroll down pages
+- `useTrackClick`: Generic hook for tracking element interactions
+
+### Events Tracked
+
+1. **Page Views**: Each page navigation
+2. **Button Clicks**: All button interactions with context
+3. **Link Clicks**: Internal and external link navigation
+4. **Form Interactions**: Submissions, errors, and field interactions
+5. **Scroll Depth**: How far users scroll (25%, 50%, 75%, 90%, 100%)
+6. **Engagement Time**: Active time spent on each page
+7. **IPO-Specific Events**: Card views, detail page views, tab changes
+8. **Search Behavior**: Queries and result counts
+
+### Data Collection
+
+The analytics implementation adheres to privacy best practices:
+
+- IP anonymization enabled
+- Secure cookie flags set
+- Consent management ready
+- Data retention policies configurable
+- PII (Personally Identifiable Information) protection
