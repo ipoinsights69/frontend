@@ -37,104 +37,175 @@ const IPOCard: React.FC<IPOCardProps> = ({ ipo }) => {
     return colors[hash % colors.length];
   };
 
-  // Get a simplified date display
+  // Get proper status badge with correct color
+  const getStatusBadge = () => {
+    switch (ipo.status) {
+      case 'upcoming':
+        return <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-blue-50 text-blue-600">Upcoming</span>;
+      case 'open':
+        return <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-green-50 text-green-600">Open Now</span>;
+      case 'closed':
+        return <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-orange-50 text-orange-600">Closed</span>;
+      case 'listed':
+        if (ipo.listingGainPercentage !== undefined) {
+          const isPositive = ipo.listingGainPercentage >= 0;
+          return (
+            <span className={`text-xs font-medium px-2.5 py-1 rounded-full ${isPositive ? 'bg-green-50 text-green-600' : 'bg-red-50 text-red-600'}`}>
+              {isPositive ? '+' : ''}{ipo.listingGainPercentage.toFixed(2)}%
+            </span>
+          );
+        }
+        return <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-purple-50 text-purple-600">Listed</span>;
+      default:
+        return null;
+    }
+  };
+
+  // Format date for display
   const formatDate = (dateString?: string) => {
-    if (!dateString) return 'N/A';
+    if (!dateString) return '';
     
     const date = new Date(dateString);
-    const options: Intl.DateTimeFormatOptions = { month: 'short', day: 'numeric', year: 'numeric' };
+    const options: Intl.DateTimeFormatOptions = { month: 'short', day: 'numeric' };
     return date.toLocaleDateString('en-US', options);
   };
 
-  // Determine status badge appearance
-  const getStatusBadge = () => {
-    if (ipo.status === 'upcoming') {
-      return (
-        <span className="text-sm font-medium px-2 py-1 rounded bg-blue-50 text-blue-600">
-          Upcoming
-        </span>
-      );
+  // Get appropriate dates based on IPO status
+  const getDateInfo = () => {
+    if (ipo.status === 'upcoming' && ipo.openDate) {
+      return {
+        label: 'Opens On',
+        value: formatDate(ipo.openDate)
+      };
     }
-
+    
     if (ipo.status === 'open') {
-      return (
-        <span className="text-sm font-medium px-2 py-1 rounded bg-green-50 text-green-600">
-          Open
-        </span>
-      );
+      return {
+        label: 'Closes On',
+        value: formatDate(ipo.closeDate)
+      };
     }
-
+    
     if (ipo.status === 'closed') {
-      return (
-        <span className="text-sm font-medium px-2 py-1 rounded bg-orange-50 text-orange-600">
-          Closed
-        </span>
-      );
+      return {
+        label: 'Closed On',
+        value: formatDate(ipo.closeDate)
+      };
     }
     
-    if ('listingGainPercentage' in ipo && ipo.listingGainPercentage !== undefined) {
-      const isPositive = ipo.listingGainPercentage >= 0;
-      return (
-        <span className={`text-sm font-medium px-2 py-1 rounded ${isPositive ? 'bg-green-50 text-green-600' : 'bg-red-50 text-red-600'}`}>
-          {isPositive ? '+' : ''}{ipo.listingGainPercentage.toFixed(2)}%
-        </span>
-      );
-    }
-    
-    return (
-      <span className="text-sm font-medium px-2 py-1 rounded bg-gray-50 text-gray-600">
-        {ipo.status.charAt(0).toUpperCase() + ipo.status.slice(1)}
-      </span>
-    );
-  };
-
-  // Format price display
-  const formatPrice = () => {
-    if (ipo.priceRange) {
-      return `₹${ipo.priceRange.min}-${ipo.priceRange.max}`;
-    }
-    if (ipo.cutOffPrice) {
-      return `₹${ipo.cutOffPrice}`;
-    }
-    if (ipo.issueSize) {
-      return `₹${ipo.issueSize} Cr`;
-    }
-    return 'N/A';
-  };
-
-  // Get the appropriate date to display based on IPO status
-  const getDateToDisplay = () => {
-    if (ipo.status === 'upcoming' || ipo.status === 'open') {
-      return `${formatDate(ipo.openDate)} - ${formatDate(ipo.closeDate)}`;
-    }
     if (ipo.status === 'listed') {
-      return formatDate(ipo.listingDate);
+      return {
+        label: 'Listed On',
+        value: formatDate(ipo.listingDate)
+      };
     }
-    if (ipo.status === 'closed') {
-      return formatDate(ipo.closeDate);
-    }
-    return 'N/A';
+    
+    return { label: '', value: '' };
   };
+
+  // Format price based on available data
+  const getPriceInfo = () => {
+    if (ipo.priceRange) {
+      return {
+        label: 'Price Range',
+        value: `₹${ipo.priceRange.min}-${ipo.priceRange.max}`
+      };
+    }
+    
+    if (ipo.cutOffPrice) {
+      return {
+        label: 'Price',
+        value: `₹${ipo.cutOffPrice}`
+      };
+    }
+    
+    if (ipo.issuePrice) {
+      return {
+        label: 'Issue Price',
+        value: ipo.issuePrice
+      };
+    }
+    
+    if (ipo.issueSize) {
+      return {
+        label: 'Issue Size',
+        value: `₹${ipo.issueSize} Cr`
+      };
+    }
+    
+    return { label: '', value: '' };
+  };
+
+  // Get lot size info if available
+  const getLotInfo = () => {
+    if (ipo.lotSize) {
+      return {
+        label: 'Lot Size',
+        value: `${ipo.lotSize} shares`
+      };
+    }
+    
+    return null;
+  };
+
+  const dateInfo = getDateInfo();
+  const priceInfo = getPriceInfo();
+  const lotInfo = getLotInfo();
 
   return (
-    <div className="grid grid-cols-12 border-b border-gray-100 hover:bg-gray-50 transition-colors">
-      <div className="col-span-5 px-6 py-4 flex items-center">
-        <div className={`w-8 h-8 rounded-md flex items-center justify-center font-semibold text-sm mr-3 ${getBgColor(ipo.companyName)}`}>
-          {getInitials(ipo.companyName)}
+    <div className="bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 overflow-hidden transform hover:-translate-y-1">
+      <div className="p-4">
+        <div className="flex items-center space-x-3">
+          {ipo.logoUrl ? (
+            <img src={ipo.logoUrl} alt={ipo.companyName} className="w-12 h-12 rounded-full object-cover" />
+          ) : (
+            <div className={`w-12 h-12 rounded-full flex items-center justify-center font-bold text-base ${getBgColor(ipo.companyName)}`}>
+              {getInitials(ipo.companyName)}
+            </div>
+          )}
+          
+          <div className="flex-grow min-w-0">
+            <h3 className="font-semibold text-base text-gray-900 truncate">{ipo.companyName}</h3>
+            {ipo.industry && (
+              <p className="text-xs text-gray-500 truncate">{ipo.industry}</p>
+            )}
+          </div>
+          
+          <div className="flex-shrink-0">
+            {getStatusBadge()}
+          </div>
         </div>
-        <div>
-          <h3 className="font-medium text-gray-900">{ipo.companyName}</h3>
-          <p className="text-xs text-gray-500 truncate max-w-xs">{ipo.listingAt || ipo.industry || ''}</p>
+        
+        <div className="mt-4 grid grid-cols-2 gap-4">
+          {dateInfo.value && (
+            <div className="bg-gray-50 p-2 rounded-lg">
+              <p className="text-xs text-gray-500 mb-1">{dateInfo.label}</p>
+              <p className="text-sm font-medium text-gray-800">{dateInfo.value}</p>
+            </div>
+          )}
+          
+          {priceInfo.value && (
+            <div className="bg-gray-50 p-2 rounded-lg">
+              <p className="text-xs text-gray-500 mb-1">{priceInfo.label}</p>
+              <p className="text-sm font-medium text-gray-800">{priceInfo.value}</p>
+            </div>
+          )}
         </div>
-      </div>
-      <div className="col-span-3 px-6 py-4 flex items-center text-sm text-gray-600">
-        {getDateToDisplay()}
-      </div>
-      <div className="col-span-2 px-6 py-4 flex items-center justify-end text-sm font-medium text-gray-900">
-        {formatPrice()}
-      </div>
-      <div className="col-span-2 px-6 py-4 flex items-center justify-end">
-        {getStatusBadge()}
+        
+        {lotInfo && (
+          <div className="mt-3 flex justify-between items-center">
+            <span className="text-xs text-gray-500">{lotInfo.label}:</span>
+            <span className="text-sm font-medium text-gray-800">{lotInfo.value}</span>
+          </div>
+        )}
+        
+        {ipo.listingAt && (
+          <div className="mt-3 flex items-center">
+            <span className="text-xs px-2 py-0.5 bg-gray-100 text-gray-600 rounded-full">
+              {ipo.listingAt}
+            </span>
+          </div>
+        )}
       </div>
     </div>
   );

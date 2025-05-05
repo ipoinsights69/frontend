@@ -4,69 +4,30 @@ export interface IPO {
   symbol?: string;
   industry?: string;
   logoUrl?: string;
-  description?: string;
-  status: 'upcoming' | 'open' | 'closed' | 'listed' | 'unknown';
-  
-  // Dates
+  status: 'upcoming' | 'open' | 'closed' | 'listed';
   openDate?: string;
   closeDate?: string;
-  allotmentDate?: string;
-  refundDate?: string;
   listingDate?: string;
-  
-  // Price information
   priceRange?: {
     min: number;
     max: number;
   };
   cutOffPrice?: number;
+  issueSize?: string | number;
+  issuePrice?: string;
   lotSize?: number;
-  issueSize?: number;
-  issueType?: string;
-  
-  // Listing details
-  listingPrice?: number;
-  listingGain?: number;
   listingGainPercentage?: number;
-  
-  // Subscription details
-  overallSubscription?: number;
-  retailSubscription?: number;
-  qibSubscription?: number;
-  niiSubscription?: number;
-  
-  // GMP (Grey Market Premium)
-  gmp?: number;
-  gmpPercentage?: number;
-  
-  // Registrar information
-  registrarDetails?: {
-    name: string;
-    website?: string;
-    email?: string;
-    phone?: string;
-  };
-
-  // New properties from API
   listingAt?: string;
-  leadManager?: string;
 }
 
 export interface IPOStats {
-  activeCount: number;
-  averageReturn: number;
-  upcomingCount: number;
-  topSector: {
-    name: string;
-    return: number;
-  };
   totalIPOs?: number;
-  listedIPOs?: number;
-  closedIPOs?: number;
+  activeCount?: number;
   openIPOs?: number;
+  upcomingCount?: number;
+  averageReturn?: number;
   totalRaisedCrore?: number;
   totalRaisedFormatted?: string;
-  successRate?: string;
   currentYear?: number;
 }
 
@@ -206,4 +167,19 @@ export interface IPODetailedData extends IPO {
     question: string;
     answer: string;
   }>;
+}
+
+export interface SearchIPO {
+  company_name: string;
+  detail_url: string;
+  opening_date: string;
+  closing_date: string;
+  listing_date: string;
+  issue_price: string | null;
+  issue_amount: string;
+  listing_at: string;
+  lead_manager: string;
+  status: string;
+  ipo_id: string;
+  year: number;
 } 
