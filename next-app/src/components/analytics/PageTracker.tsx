@@ -1,6 +1,6 @@
 'use client';
 
-import { ReactNode } from 'react';
+import { ReactNode, Suspense } from 'react';
 import { useAnalytics } from '@/hooks/useAnalytics';
 import { useEngagementTracking } from '@/hooks/useEngagementTracking';
 import { useScrollDepthTracking } from '@/hooks/useScrollDepthTracking';
@@ -10,11 +10,22 @@ interface PageTrackerProps {
   pageId?: string;
 }
 
-export default function PageTracker({ children, pageId }: PageTrackerProps) {
+function AnalyticsTrackers({ pageId }: { pageId?: string }) {
   // Initialize all tracking hooks
   useAnalytics();
   useEngagementTracking(pageId);
   useScrollDepthTracking(pageId);
   
-  return <>{children}</>;
+  return null;
+}
+
+export default function PageTracker({ children, pageId }: PageTrackerProps) {
+  return (
+    <>
+      <Suspense fallback={null}>
+        <AnalyticsTrackers pageId={pageId} />
+      </Suspense>
+      {children}
+    </>
+  );
 } 
