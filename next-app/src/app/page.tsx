@@ -1,6 +1,4 @@
 import React from 'react';
-import HeroSection from './components/HeroSection';
-import HomeIPOShowcase from './components/HomeIPOShowcase';
 import { 
   fetchTrendingIPOs, 
   fetchUpcomingIPOs, 
@@ -9,6 +7,7 @@ import {
   fetchIPOStats
 } from '@/app/api/ipos/handlers';
 import { getApiUrl } from '@/config/apiConfig';
+import { IPO } from './types/IPO';
 
 // Define interfaces for our API response types
 interface IPOData {
@@ -96,7 +95,6 @@ export const revalidate = 3600;
 async function getHomepageData() {
   // First try to fetch from our API endpoint
   try {
-    console.log('Fetching homepage data from APi, ', getApiUrl('api/ipos/homepage'));
     // Use the external API endpoint from configuration
     const response = await fetch(getApiUrl('api/ipos/homepage'), {
       next: { revalidate },
@@ -127,12 +125,35 @@ async function getHomepageData() {
   }
 }
 
+// Clean and transform API data for frontend presentation
+function cleanIpoData(ipo: IPOData): IPO {
+  return {
+    id: ipo.ipo_id,
+    companyName: ipo.company_name.replace(' IPO', ''),
+    symbol: ipo.company_name,
+    industry: ipo.listing_at || '',
+    logoUrl: '',
+    status: ipo.status,
+    openDate: ipo.opening_date || undefined,
+    closeDate: ipo.closing_date || undefined,
+    listingDate: ipo.listing_date || undefined,
+    issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
+    issuePrice: ipo.issue_price || undefined,
+    lotSize: 10, // Default lot size
+    listingAt: ipo.listing_at || ''
+  };
+}
+
 export default async function Home() {
   // Get data for the homepage
   const data = await getHomepageData();
-  console.log(data);
   
-  let trendingIPOs = [], upcomingIPOs = [], recentIPOs = [], closedIPOs = [], stats;
+  let trendingIPOs: IPO[] = [];
+  let upcomingIPOs: IPO[] = [];
+  let recentIPOs: IPO[] = [];
+  let openIPOs: IPO[] = [];
+  let closedIPOs: IPO[] = [];
+  let stats;
   
   // Check if we're using the API response or the fallback data
   if ('year_summary' in data) {
@@ -140,90 +161,32 @@ export default async function Home() {
     const apiData = data as HomeAPIResponse;
     
     // Map upcoming IPOs - limit to 5
-    upcomingIPOs = apiData.upcoming_ipos.data.slice(0, 5).map(ipo => ({
-      id: ipo.ipo_id,
-      companyName: ipo.company_name.replace(' IPO', ''),
-      symbol: ipo.company_name,
-      industry: ipo.listing_at,
-      logoUrl: '',
-      status: 'upcoming' as const,
-      openDate: ipo.opening_date,
-      closeDate: ipo.closing_date,
-      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
-      lotSize: 10, // Default lot size
-      listingAt: ipo.listing_at
-    }));
+    upcomingIPOs = apiData.upcoming_ipos.data.map(cleanIpoData);
     
     // Map open IPOs - limit to 5
-    closedIPOs = apiData.open_ipos.data.slice(0, 5).map(ipo => ({
-      id: ipo.ipo_id,
-      companyName: ipo.company_name.replace(' IPO', ''),
-      symbol: ipo.company_name,
-      industry: ipo.listing_at,
-      logoUrl: '',
-      status: 'open' as const,
-      openDate: ipo.opening_date,
-      closeDate: ipo.closing_date,
-      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
-      lotSize: 10, // Default lot size
-      listingAt: ipo.listing_at
-    }));
+    openIPOs = apiData.open_ipos.data.map(cleanIpoData);
     
     // Map closed IPOs
-    const allotmentIPOs = apiData.closed_ipos.data.slice(0, 5).map(ipo => ({
-      id: ipo.ipo_id,
-      companyName: ipo.company_name.replace(' IPO', ''),
-      symbol: ipo.company_name,
-      industry: ipo.listing_at,
-      logoUrl: '',
-      status: 'closed' as const,
-      openDate: ipo.opening_date,
-      closeDate: ipo.closing_date,
-      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
-      lotSize: 10, // Default lot size
-      listingAt: ipo.listing_at
-    }));
+    closedIPOs = apiData.closed_ipos.data.map(cleanIpoData);
 
     // Map recently listed IPOs
-    recentIPOs = apiData.recently_listed.data.slice(0, 5).map(ipo => ({
-      id: ipo.ipo_id,
-      companyName: ipo.company_name.replace(' IPO', ''),
-      symbol: ipo.company_name,
-      industry: ipo.listing_at,
-      logoUrl: '',
-      status: 'listed' as const,
-      listingDate: ipo.listing_date,
-      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
-      lotSize: 10, // Default lot size
-      listingAt: ipo.listing_at
-    }));
+    recentIPOs = apiData.recently_listed.data.map(cleanIpoData);
     
     // Use top performers as trending IPOs
-    trendingIPOs = apiData.top_performers.data.slice(0, 5).map(ipo => ({
-      id: ipo.ipo_id,
-      companyName: ipo.company_name.replace(' IPO', ''),
-      symbol: ipo.company_name,
-      industry: ipo.listing_at,
-      logoUrl: '',
-      status: 'listed' as const,
-      listingDate: ipo.listing_date,
-      issueSize: ipo.issue_amount ? parseFloat(ipo.issue_amount) : undefined,
-      lotSize: 10, // Default lot size
-      listingAt: ipo.listing_at
-    }));
+    trendingIPOs = apiData.top_performers.data.map(cleanIpoData);
     
     if (trendingIPOs.length === 0) {
       // If no top performers, use recently listed as trending
       trendingIPOs = recentIPOs;
     }
     
-    // Create stats for hero section
+    // Create stats for dashboard
     stats = {
       activeCount: apiData.year_summary.total_ipos,
       averageReturn: apiData.yearly_stats.avg_listing_gain_numeric || 0,
       upcomingCount: apiData.year_summary.upcoming_ipos,
       topSector: {
-        name: apiData.yearly_stats.top_sectors?.[0] || 'N/A',
+        name: apiData.yearly_stats.top_sectors?.[0] || '',
         return: apiData.yearly_stats.highest_gain || 0
       },
       totalIPOs: apiData.year_summary.total_ipos,
@@ -245,39 +208,21 @@ export default async function Home() {
       activeCount: 0,
       averageReturn: 0,
       upcomingCount: 0,
-      topSector: { name: 'Technology', return: 0 }
+      topSector: { name: '', return: 0 }
     };
   }
-  
-  // The top performing and losing IPOs are already in the trending and non-trending lists
-  const topPerformingIPOs = trendingIPOs || [];
-  // For losing IPOs, we can reverse the trending order - make sure there's an array to spread
-  const topLosingIPOs = Array.isArray(trendingIPOs) && trendingIPOs.length > 0 
-    ? [...trendingIPOs].sort((a, b) => {
-        // Handle cases where listingGainPercentage may not exist
-        const aGain = ('listingGainPercentage' in a) ? (a.listingGainPercentage || 0) : 0;
-        const bGain = ('listingGainPercentage' in b) ? (b.listingGainPercentage || 0) : 0;
-        return aGain - bGain;
-      })
-    : [];
+
+  // Use dynamic import for the HomeLayout component to avoid module not found error
+  const HomeLayout = (await import('./components/layout/HomeLayout')).default;
 
   return (
-    <main>
-      <HeroSection 
-        trendingIPOs={trendingIPOs.slice(0, 3)}
-        upcomingIPOs={upcomingIPOs.slice(0, 3)}
-        recentIPOs={recentIPOs.slice(0, 3)}
-        closedIPOs={closedIPOs.slice(0, 3)}
-        stats={stats}
-      />
-      
-      <HomeIPOShowcase
-        upcomingIPOs={upcomingIPOs}
-        topPerformingIPOs={topPerformingIPOs}
-        topLosingIPOs={topLosingIPOs}
-        recentlyListedIPOs={recentIPOs}
-        closedIPOs={closedIPOs}
-      />
-    </main>
+    <HomeLayout 
+      stats={stats}
+      upcomingIPOs={upcomingIPOs}
+      openIPOs={openIPOs}
+      closedIPOs={closedIPOs}
+      recentIPOs={recentIPOs}
+      trendingIPOs={trendingIPOs}
+    />
   );
 }

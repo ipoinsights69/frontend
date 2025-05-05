@@ -313,7 +313,7 @@ const StickyCard = ({ data }: StickyCardProps) => {
         {isClosed ? (
           <Link 
             href={`/ipo/${data.id}/allotment`}
-            className="block w-full py-2 px-4 bg-green-600 hover:bg-green-700 text-white text-center font-medium rounded-md shadow-sm"
+            className="block w-full py-2 px-4 bg-blue-600 hover:bg-blue-700 text-white text-center font-medium rounded-md shadow-sm"
           >
             Check Allotment Status
           </Link>
