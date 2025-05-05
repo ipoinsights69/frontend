@@ -12,10 +12,10 @@ export default function Footer() {
               <div className="h-10 w-10 bg-blue-600 text-white rounded-md flex items-center justify-center mr-3">
                 <i className="fas fa-chart-line text-xl"></i>
               </div>
-              <span className="text-xl font-semibold text-gray-800">IPO<span className="text-blue-600">Insight</span></span>
+              <span className="text-xl font-semibold text-gray-800">IPO<span className="text-blue-600">Hut</span></span>
             </div>
             <p className="text-gray-600 mb-6">
-              Comprehensive tracking and analysis of initial public offerings worldwide.
+              Your one-stop destination for comprehensive IPO tracking and analysis worldwide.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-blue-600 transition-colors">
@@ -36,7 +36,7 @@ export default function Footer() {
           {/* Newsletter */}
           <div>
             <h3 className="text-gray-800 font-medium mb-4">Stay Updated</h3>
-            <p className="text-gray-600 mb-4">Subscribe to our newsletter for the latest IPO insights.</p>
+            <p className="text-gray-600 mb-4">Subscribe to our newsletter for the latest IPO updates.</p>
             <form className="space-y-3">
               <div className="flex">
                 <input 
@@ -72,7 +72,7 @@ export default function Footer() {
       <div className="border-t border-gray-200 py-6">
         <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center">
           <div className="text-gray-600 text-sm">
-            © {new Date().getFullYear()} IPOInsight. All rights reserved.
+            © {new Date().getFullYear()} IPOHut. All rights reserved.
           </div>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link href="/" className="text-gray-600 hover:text-blue-600 text-sm">Home</Link>

@@ -4,7 +4,7 @@
  */
 
 // The base URL for API requests
-export const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000';
+export const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 
 // Revalidation settings
 export const DEFAULT_REVALIDATION_TIME = 3600; // 1 hour in seconds

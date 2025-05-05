@@ -1,11 +1,11 @@
 {
   "story": [
-    "IPO Insight was founded in 2023 by a team of financial analysts and technology experts who recognized a gap in the market for comprehensive, user-friendly IPO information in India.",
+    "IPOHut was founded in 2023 by a team of financial analysts and technology experts who recognized a gap in the market for comprehensive, user-friendly IPO information in India.",
     "We noticed that while the Indian IPO market was booming, retail investors often struggled to find accurate, timely, and easy-to-understand information about upcoming IPOs, subscription status, and post-listing performance. Information was scattered across multiple sources, often presented in complex formats that were difficult for the average investor to interpret.",
-    "Our founding team set out to solve this problem by creating a single, reliable platform that would democratize access to IPO information and empower retail investors to make informed decisions. Today, IPO Insight has grown to become India's most trusted resource for IPO tracking and analysis, serving over 500,000 users monthly."
+    "Our founding team set out to solve this problem by creating a single, reliable platform that would democratize access to IPO information and empower retail investors to make informed decisions. Today, IPOHut has grown to become India's most trusted resource for IPO tracking and analysis, serving over 500,000 users monthly."
   ],
   "mission": {
-    "statement": "At IPO Insight, our mission is to democratize access to IPO information and empower retail investors to make informed investment decisions.",
+    "statement": "At IPOHut, our mission is to democratize access to IPO information and empower retail investors to make informed investment decisions.",
     "values": [
       {
         "title": "Transparency",
@@ -78,7 +78,7 @@
     {
       "name": "Neha Singh",
       "role": "Customer Success",
-      "bio": "Dedicated to ensuring our users get maximum value from the IPO Insight platform.",
+      "bio": "Dedicated to ensuring our users get maximum value from the IPOHut platform.",
       "image": "https://randomuser.me/api/portraits/women/68.jpg",
       "social": {
         "linkedin": "#",
@@ -101,24 +101,24 @@
     },
     {
       "title": "Continuous Improvement",
-      "description": "We're constantly gathering feedback from our users and improving our platform to better meet their needs. Our team is dedicated to adding new features, refining existing ones, and ensuring that IPO Insight remains the most comprehensive, user-friendly IPO platform in India."
+      "description": "We're constantly gathering feedback from our users and improving our platform to better meet their needs. Our team is dedicated to adding new features, refining existing ones, and ensuring that IPOHut remains the most comprehensive, user-friendly IPO platform in India."
     }
   ],
   "testimonials": [
     {
       "name": "Rahul Patel",
       "title": "Retail Investor",
-      "quote": "IPO Insight has completely transformed how I approach IPO investments. The comprehensive data and analysis helped me make informed decisions that have significantly improved my returns."
+      "quote": "IPOHut has completely transformed how I approach IPO investments. The comprehensive data and analysis helped me make informed decisions that have significantly improved my returns."
     },
     {
       "name": "Meera Joshi",
       "title": "Financial Advisor",
-      "quote": "As a financial advisor, I rely on IPO Insight to stay updated on upcoming IPOs and provide accurate recommendations to my clients. The platform's depth of information and user-friendly interface are unmatched."
+      "quote": "As a financial advisor, I rely on IPOHut to stay updated on upcoming IPOs and provide accurate recommendations to my clients. The platform's depth of information and user-friendly interface are unmatched."
     },
     {
       "name": "Sanjay Kumar",
       "title": "New Investor",
-      "quote": "I'm new to investing, and IPO Insight has been an incredible educational resource. The guides and analysis have helped me understand the IPO process and make my first successful investments."
+      "quote": "I'm new to investing, and IPOHut has been an incredible educational resource. The guides and analysis have helped me understand the IPO process and make my first successful investments."
     }
   ]
 } 
