@@ -22,16 +22,16 @@ module.exports = {
       env_production: {
         NODE_ENV: 'production',
         PORT: 3000,
-        NEXT_PUBLIC_API_URL: 'https://api.ipohut.in',
-        API_BASE_URL: 'https://api.ipohut.in',
+        NEXT_PUBLIC_API_URL: 'http://localhost:8000',
+        API_BASE_URL: 'http://localhost:8000',
         REVALIDATION_SECRET: process.env.REVALIDATION_SECRET || 'your-production-secret-key',
         NEXT_PUBLIC_BETA_MODE: 'true'
       },
       env_staging: {
         NODE_ENV: 'production',
         PORT: 3001,
-        NEXT_PUBLIC_API_URL: 'https://staging-api.ipohut.in',
-        API_BASE_URL: 'https://staging-api.ipohut.in',
+        NEXT_PUBLIC_API_URL: 'http://localhost:8000',
+        API_BASE_URL: 'http://localhost:8000',
         REVALIDATION_SECRET: process.env.STAGING_REVALIDATION_SECRET || 'your-staging-secret-key',
         NEXT_PUBLIC_BETA_MODE: 'true'
       }
