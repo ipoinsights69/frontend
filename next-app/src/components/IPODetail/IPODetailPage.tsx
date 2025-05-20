@@ -123,15 +123,16 @@ export function IPODetailPage({ ipoData }: IPODetailPageProps) {
           {activeTab === 'faqs' && <FAQsTab data={ipoData} />}
           
           {/* Data Source Information */}
-          <DataProviders />
+          {/* <DataProviders /> */}
           
           {/* IPO-specific Disclaimer */}
+          <br></br>
           <IPODisclaimer />
         </div>
       </section>
 
       {/* Related IPOs Section */}
-      <RelatedIPOs />
+     {/* <RelatedIPOs /> */}
     </div>
   );
 } 

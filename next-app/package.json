@@ -34,6 +34,7 @@
     "@types/react-dom": "^19",
     "@typescript-eslint/eslint-plugin": "^8.31.0",
     "@typescript-eslint/parser": "^8.31.0",
+    "sharp": "^0.34.2",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

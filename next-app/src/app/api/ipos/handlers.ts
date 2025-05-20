@@ -340,17 +340,56 @@ export async function fetchUpcomingIPOs(limit = 4): Promise<IPO[]> {
  * Fetch recently listed IPOs
  */
 export async function fetchRecentlyListedIPOs(limit = 4): Promise<IPO[]> {
-  const listed = mockIPOs.filter(ipo => ipo.status === 'listed');
-  
-  // Sort by listing date (newest first) and take the most recent ones
-  return [...listed]
-    .filter(ipo => ipo.listingDate)
-    .sort((a, b) => {
-      const dateA = new Date(a.listingDate || '');
-      const dateB = new Date(b.listingDate || '');
-      return dateB.getTime() - dateA.getTime();
-    })
-    .slice(0, limit);
+  try {
+    // Fetch real data from API
+    const response = await fetch(getApiUrl('api/ipos/listed'), {
+      next: { revalidate: 3600 } // Revalidate every hour
+    });
+    
+    if (!response.ok) {
+      throw new Error(`Failed to fetch recently listed IPOs: ${response.status}`);
+    }
+    
+    const data = await response.json();
+    const ipos = data.data || [];
+    
+    // Map API response to our IPO interface
+    const mappedIpos: IPO[] = ipos.map((ipo: any) => ({
+      id: ipo.ipo_id ? ipo.ipo_id.replace(/^\d{4}_/, '') : '',
+      companyName: ipo.company_name?.replace(' IPO', '') || '',
+      symbol: ipo.company_name || '',
+      industry: ipo.listing_at || 'General',
+      status: 'listed',
+      listingDate: ipo.listing_date,
+      listingGainPercentage: ipo.listing_gains_numeric || 0,
+      issuePrice: ipo.issue_price,
+      listingPrice: ipo.listing_price,
+      // Add any other fields that are needed
+    }));
+    
+    // Sort by listing date (newest first) and take the most recent ones
+    return mappedIpos
+      .filter(ipo => ipo.listingDate)
+      .sort((a, b) => {
+        const dateA = new Date(a.listingDate || '');
+        const dateB = new Date(b.listingDate || '');
+        return dateB.getTime() - dateA.getTime();
+      })
+      .slice(0, limit);
+  } catch (error) {
+    console.error('Error fetching recently listed IPOs:', error);
+    
+    // Fallback to mock data if API fails
+    const listed = mockIPOs.filter(ipo => ipo.status === 'listed');
+    return [...listed]
+      .filter(ipo => ipo.listingDate)
+      .sort((a, b) => {
+        const dateA = new Date(a.listingDate || '');
+        const dateB = new Date(b.listingDate || '');
+        return dateB.getTime() - dateA.getTime();
+      })
+      .slice(0, limit);
+  }
 }
 
 /**
@@ -460,8 +499,8 @@ export async function fetchAllIPOIdsFromAPI(revalidateSeconds = 7200): Promise<s
  */
 export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7200): Promise<IPODetailedData | null> {
   try {
-    // Add back the year prefix if it's been removed
-    const ipoId = slug.startsWith('20') ? slug : `2025_${slug}`;
+    // Use the slug as is without adding year prefix
+    const ipoId = slug;
     
     // Use the API URL from configuration
     const response = await fetch(getApiUrl(`api/ipos/${ipoId}`), {
@@ -692,7 +731,7 @@ export async function fetchDetailedIPOBySlug(slug: string, revalidateSeconds = 7
   } catch (error) {
     console.error(`Error fetching IPO data for ${slug}:`, error);
     
-    // Fallback to mock data if available
+    // Fallback to mock data if available - remove year prefix if present
     const mockId = slug.replace(/^\d{4}_/, '').replace(/_ipo$/, '');
     return await fetchDetailedIPOById(mockId);
   }

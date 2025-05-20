@@ -6,6 +6,7 @@ import Footer from "@/app/components/Footer";
 import Disclaimer from "@/components/common/Disclaimer";
 import Analytics from "@/components/analytics/Analytics";
 import AnalyticsProvider from "@/components/analytics/AnalyticsProvider";
+import BetaNotification from "@/components/common/BetaNotification";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -30,6 +31,7 @@ export default function RootLayout({
       <body className={`${inter.className} bg-gray-50`}>
         <Analytics />
         <AnalyticsProvider>
+          <BetaNotification />
           <Header />
           {children}
           <Disclaimer />
