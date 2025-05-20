@@ -995,3 +995,75 @@ The analytics implementation adheres to privacy best practices:
 - Consent management ready
 - Data retention policies configurable
 - PII (Personally Identifiable Information) protection
+
+## Deployment
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- PM2 process manager (`npm install -g pm2`)
+
+### Production Deployment
+
+The application is configured for easy deployment to production environments using PM2. The ecosystem configuration (`ecosystem.config.js`) includes settings for different environments.
+
+#### Quick Deployment
+
+To quickly deploy the application to production:
+
+```bash
+# From the project root
+npm run deploy
+```
+
+This command will:
+1. Pull latest changes from git (if in a git repository)
+2. Install dependencies
+3. Build the application
+4. Start or restart the application with PM2 in production mode
+
+#### Manual Deployment
+
+You can also deploy to different environments manually:
+
+```bash
+# Deploy to staging
+npm run deploy:staging
+
+# Deploy to production
+npm run deploy:production
+```
+
+#### Monitoring
+
+After deployment, you can monitor the application:
+
+```bash
+# View logs
+npm run logs
+
+# Monitor application performance
+npm run monit
+```
+
+### Beta Mode
+
+The application supports a beta notification banner that informs users the site is still under development. This is controlled via the `NEXT_PUBLIC_BETA_MODE` environment variable in the ecosystem config.
+
+To enable beta mode:
+- Set `NEXT_PUBLIC_BETA_MODE=true` in your environment
+- To disable, set to any other value or remove it completely
+
+### Configuration
+
+The application can be configured through the following environment variables:
+
+| Variable | Description | Default |
+|----------|-------------|---------|
+| `PORT` | Port the application runs on | 3000 |
+| `NEXT_PUBLIC_API_URL` | Public URL for API access | https://api.ipohut.in (production) |
+| `API_BASE_URL` | Internal URL for API access | https://api.ipohut.in (production) |
+| `REVALIDATION_SECRET` | Secret key for revalidating cached data | Configurable |
+| `NEXT_PUBLIC_BETA_MODE` | Enable beta notification banner | true |
+
+These can be set in the `ecosystem.config.js` file or as environment variables.

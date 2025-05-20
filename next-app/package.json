@@ -6,7 +6,12 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "bash scripts/deploy.sh",
+    "deploy:staging": "pm2 startOrRestart ecosystem.config.js --env staging",
+    "deploy:production": "pm2 startOrRestart ecosystem.config.js --env production",
+    "logs": "pm2 logs ipo-hut",
+    "monit": "pm2 monit"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
@@ -37,5 +42,8 @@
     "sharp": "^0.34.2",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }

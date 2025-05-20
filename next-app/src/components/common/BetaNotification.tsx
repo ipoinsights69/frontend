@@ -5,20 +5,28 @@ import { useState, useEffect } from 'react';
 const BetaNotification = () => {
   const [isVisible, setIsVisible] = useState(true);
   
+  // Only show beta notification if NEXT_PUBLIC_BETA_MODE is true
+  const isBetaMode = process.env.NEXT_PUBLIC_BETA_MODE === 'true';
+  
   // Check if the notification was previously dismissed
   useEffect(() => {
+    if (!isBetaMode) {
+      setIsVisible(false);
+      return;
+    }
+    
     const dismissed = localStorage.getItem('betaNotificationDismissed');
     if (dismissed) {
       setIsVisible(false);
     }
-  }, []);
+  }, [isBetaMode]);
   
   const dismissNotification = () => {
     setIsVisible(false);
     localStorage.setItem('betaNotificationDismissed', 'true');
   };
   
-  if (!isVisible) return null;
+  if (!isVisible || !isBetaMode) return null;
   
   return (
     <div className="bg-yellow-50 border-b border-yellow-200">
